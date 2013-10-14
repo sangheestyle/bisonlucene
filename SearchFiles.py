@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 INDEX_DIR = "IndexFiles.index"
+MAX_RESULT = 20000
 
 import sys, os, lucene
 
@@ -33,7 +34,7 @@ def run(searcher, analyzer):
         print "Searching for:", command
         query = QueryParser(Version.LUCENE_CURRENT, "contents",
                             analyzer).parse(command)
-        scoreDocs = searcher.search(query, 50).scoreDocs
+        scoreDocs = searcher.search(query, MAX_RESULT).scoreDocs
 
         for scoreDoc in scoreDocs:
             doc = searcher.doc(scoreDoc.doc)
