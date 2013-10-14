@@ -2,7 +2,7 @@
 
 INDEX_DIR = "IndexFiles.index"
 
-import sys, os, lucene, threading, time
+import sys, os, lucene, threading, time, json
 from datetime import datetime
 
 from java.io import File
@@ -72,21 +72,22 @@ class IndexFiles(object):
         
         for root, dirnames, filenames in os.walk(root):
             for filename in filenames:
-                if not filename.endswith('.txt'):
+                if not filename.endswith('.json'):
                     continue
                 print "adding", filename
                 try:
                     path = os.path.join(root, filename)
                     file = open(path)
-                    contents = unicode(file.read(), 'iso-8859-1')
+                    contents = json.load(file)
                     file.close()
                     doc = Document()
-                    doc.add(Field("name", filename, t1))
+                    doc.add(Field("title", contents['title'], t1))
                     doc.add(Field("path", root, t1))
-                    if len(contents) > 0:
-                        doc.add(Field("contents", contents, t2))
+                    extendedInfo = contents['extendedInfo']
+                    if len(extendedInfo['description']) > 0:
+                        doc.add(Field("description", extendedInfo['description'], t2))
                     else:
-                        print "warning: no content in %s" % filename
+                        print "warning: no description in %s" % filename
                     writer.addDocument(doc)
                 except Exception, e:
                     print "Failed in indexDocs:", e

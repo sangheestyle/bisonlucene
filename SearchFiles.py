@@ -34,11 +34,13 @@ def run(searcher, analyzer):
         query = QueryParser(Version.LUCENE_CURRENT, "contents",
                             analyzer).parse(command)
         scoreDocs = searcher.search(query, 50).scoreDocs
-        print "%s total matching documents." % len(scoreDocs)
 
         for scoreDoc in scoreDocs:
             doc = searcher.doc(scoreDoc.doc)
-            print 'path:', doc.get("path"), 'name:', doc.get("name")
+            print 'title:', doc.get("title")
+            print 'description:', doc.get("description")
+
+        print "%s total matching documents." % len(scoreDocs)
 
 
 if __name__ == '__main__':
