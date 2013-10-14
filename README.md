@@ -1,11 +1,14 @@
 bisonlucene
 ===========
 
-a simple prototype for indexing and searching based on PyLucene
+A simple prototype for indexing and searching based on PyLucene
 
-* can indexing files stored json format contents
-* can searching term and phrase for description only (now)
+* Indexing files stored json format contents
+* Searching term and phrase for description only (now)
 
 For more information, please see following page
 
-* http://goo.gl/ecSmCz
+* Building and installing PyLucene 4.5 (for Mac): https://medium.com/small-talk/e1e90a2b129f
+* Project information: http://goo.gl/ecSmCz
+
+This code is based on a sample provided by PyLucene project.
