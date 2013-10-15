@@ -12,6 +12,8 @@ A simple prototype for indexing and searching based on PyLucene
 * Building and installing PyLucene 4.5 (for Mac): [Install Guide](https://medium.com/small-talk/e1e90a2b129f)
 
 ##Example##
+You can watch [a short demo video](https://www.youtube.com/watch?v=yMvNgabVpLM) before do follwoing example.
+
 ###Indexing###
 ```
 $ python IndexFiles [PathToFolderIncludingJsonFiles]
