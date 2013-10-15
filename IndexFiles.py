@@ -66,7 +66,7 @@ class IndexFiles(object):
         
         t2 = FieldType()
         t2.setIndexed(True)
-        t2.setStored(False)
+        t2.setStored(True)
         t2.setTokenized(True)
         t2.setIndexOptions(FieldInfo.IndexOptions.DOCS_AND_FREQS_AND_POSITIONS)
         

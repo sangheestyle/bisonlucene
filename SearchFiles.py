@@ -39,7 +39,7 @@ def run(searcher, analyzer):
         for scoreDoc in scoreDocs:
             doc = searcher.doc(scoreDoc.doc)
             print 'title:', doc.get("title")
-            print 'description:', doc.get("description")
+            #print 'description:', doc.get("description")
 
         print "%s total matching documents." % len(scoreDocs)
 
