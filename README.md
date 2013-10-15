@@ -27,6 +27,41 @@ Query:[InputHere]
 ```
 Please refer [Apache Lucene Query parser syntax](http://lucene.apache.org/core/4_5_0/queryparser/org/apache/lucene/queryparser/classic/package-summary.html#package_description) to compose your own query set.
 
+###Searching examples###
+A single term searches
+```
+title:"camera"
+description:"camera"
+description:camera
+```
+
+A parse searches
+```
+description:"camera location"
+description:"location camera"
+```
+
+Fields searches: Lucene supports fielded data.
+```
+description:"camera location" AND title:"CA"
+```
+
+Boolean operators searches
+```
+description:"camera" AND description:"location"
+description:"camera" OR description:"location"
+```
+
+Proximity Searches: Lucene supports finding words are a within a specific distance away. To do a proximity search use the tilde, "~" (e.g. ~5 means within 5 words)
+```
+description:"camera location"~5
+```
+
+Regular Expression Searches: Lucene supports regular expression searches matching a pattern between forward slashes "/"
+```
+description:/[mb]oat/
+```
+
 ##Reference##
 
 * This code is based on a sample provided by PyLucene project.
