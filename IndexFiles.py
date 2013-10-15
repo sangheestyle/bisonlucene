@@ -81,7 +81,7 @@ class IndexFiles(object):
                     contents = json.load(file)
                     file.close()
                     doc = Document()
-                    doc.add(Field("title", contents['title'], t1))
+                    doc.add(Field("title", contents['title'], t2))
                     doc.add(Field("path", root, t1))
                     extendedInfo = contents['extendedInfo']
                     if len(extendedInfo['description']) > 0:
