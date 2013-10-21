@@ -68,3 +68,4 @@ description:/[mb]oat/
 
 * This code is based on a sample provided by PyLucene project.
 * Project information: http://goo.gl/ecSmCz
+* Understanding Lucene scoring: http://goo.gl/4DK6Xz
