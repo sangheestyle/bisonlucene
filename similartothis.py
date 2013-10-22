@@ -4,6 +4,7 @@ INDEX_DIR = "IndexFiles.index"
 MAX_RESULT = 5
 
 import sys, os, lucene
+import collections
 
 from java.io import File
 from org.apache.lucene.index import DirectoryReader
@@ -56,6 +57,36 @@ class SimilarToThis():
                           + " : " \
                           + doc.getField('title').stringValue()
 
+    def getTopNSimilarToThis(self, topN=0, field="description", max=MAX_RESULT, path=INDEX_DIR):
+        if topN == 0:
+            topN = self.numDocs
+
+        self.mlt.setFieldNames([field])
+        docList = {}
+
+        for docID in range(self.numDocs):
+            doc = self.reader.document(docID)
+            query = self.mlt.like(docID)
+            similarDocs = self.searcher.search(query, max)
+            if (similarDocs.totalHits == 0):
+                print "None like this"
+
+            for i in range(len(similarDocs.scoreDocs)):
+                if similarDocs.scoreDocs[i].doc != docID:
+                    docList[similarDocs.scoreDocs[i].score] = [doc.getField('title').stringValue(),
+                                                               self.reader.document(similarDocs.scoreDocs[i].doc)]
+        od = collections.OrderedDict(sorted(docList.items(), reverse=True))
+
+        counter = 0
+        for k, v in od.iteritems():
+            counter += 1
+            if counter > topN:
+                break
+            else:
+                print k, v[1].getField('title').stringValue() + " : " + v[0]
+
+
 if __name__ == '__main__':
     x = SimilarToThis()
-    x.getSimilarToThis()
+    #x.getSimilarToThis()
+    x.getTopNSimilarToThis(10)
