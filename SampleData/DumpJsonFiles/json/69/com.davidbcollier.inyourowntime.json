@@ -1,0 +1,58 @@
+{
+  "title": "In Your Own Time",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.davidbcollier.inyourowntime",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "August 23, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "David Collier",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.davidbcollier.inyourowntime",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "\"aurally stunning\" â Totally DublinIn Your Own Time is an adaptive music app, a piece of music composed for smartphone that makes use of the phone's sensors to allow the music to adapt on each listen. The app allows the music to adapt to what you are doing and the sound of the environment that you are listening inâallowing for a unique experience each time.Matching your pace â The app has a pedometer built into it that detects each time you take a step. This is used to match the speed of each new melody to the pace you are walking at. The pedometer works best when your phone is in your trouser pocket and it's sensitivity can be adjusted in the settings.Sampling the environment â The music is also influenced by the sounds of your environment. Sounds are recorded through the lapel mic attached to the headphones, these are then used to create rhythms within the music.Skips a beat â The app responds to other movement as well, if the phone is kerked the music skips a beat. In the melodic sections loud environmental sounds also make individual melodies to skip a beat adding to the texture of the music.",
+    "reviews": [
+      {
+        "timestampMsec": "1376544314068",
+        "starRating": "5",
+        "comment": "A great app for helping me get to sleep",
+        "commentId": "gp:AOqpTOHpLU3wzUuDSWzWOGiHoYbaH8V-8MZVUExy2G4S9u0VhBhkv96-Ki5dSFop6idxFZ2oK5oAXxZcAMskRQ",
+        "author": "Brian O\\'Donovan",
+        "authorURL": "http://lh4.googleusercontent.com/-A9zzKX8mtxE/AAAAAAAAAAI/AAAAAAAAAAA/sW10Rxu6ZyU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-A9zzKX8mtxE/AAAAAAAAAAI/AAAAAAAAAAA/sW10Rxu6ZyU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368956846889",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "Very nice to have such an app on Android. Big up",
+        "commentId": "gp:AOqpTOGbjs9lp5Pf6VlG9JGOleC43KenxaCZ3NqBe3ky-6-CorIdSKhjjE-3YZR2SCkMkqpHoKHllCwzPwtpGw",
+        "author": "Avi Ashkenazi",
+        "authorURL": "http://lh3.googleusercontent.com/-r8KK5zqhFQA/AAAAAAAAAAI/AAAAAAAAA3s/CterxtV8Ysc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-r8KK5zqhFQA/AAAAAAAAAAI/AAAAAAAAA3s/CterxtV8Ysc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368966953523",
+        "starRating": "5",
+        "title": "Beautiful music",
+        "comment": "Please make more pieces like this.",
+        "commentId": "gp:AOqpTOEIDSacb6h6V87obFXi-j_g2SNyoN5eec_RfQQnbOE24Jyzn7U2Bbmnacplc63HDHt59CY8SiZu5WRrgg",
+        "author": "Jonathan Marmor",
+        "authorURL": "http://lh3.googleusercontent.com/-9Q8r0rg6VP8/AAAAAAAAAAI/AAAAAAAAHS8/ijWAmQZN_tk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-9Q8r0rg6VP8/AAAAAAAAAAI/AAAAAAAAHS8/ijWAmQZN_tk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

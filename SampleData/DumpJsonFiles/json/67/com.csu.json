@@ -1,0 +1,54 @@
+{
+  "title": "Colorado Springs Utilities",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.csu",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "May 21, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "iFactor Consulting",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.csu",
+  "extendedInfo": {
+    "installSize": "363k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "View current power outage information for the Colorado Springs Utilities service territory. The Colorado Springs Utilities outage map provides a snapshot of current outages throughout our system. The map, which automatically updates every few minutes, contains details such as outage location, number of customers affected, and estimated restoration time (if known). There are also quick links to key utility information, customer service options, and one-touch phone access to our call center. Outage Map â How it Works - The outage maps use color-coded symbols that indicate the number and general location of customers without service. - The Legend button provides an overview of the color-coded outage symbols. - The Summary button provides additional information by ZIP code in an easy to read table format. Data can be sorted numerically or alphabetically by tapping on a column title. - Selecting the color-coded symbol on the map will provide specific outage information, including: - The number of customers affected - The time of the earliest outage report - The estimated restoration time (if known) - The cause of the outage (if known)",
+    "reviews": [
+      {
+        "timestampMsec": "1335979467795",
+        "starRating": "5",
+        "title": "Very Useful",
+        "comment": "Works great. Glad I found this, had an outage at work today.",
+        "commentId": "lg:AOqpTOHj4uyN109dkhGgijxBbuBqpDwLRDy0p2lltQde3xXv0-hPQtHuXGIZePfaQ3gsQ5NkGiv_1Cbx8rVr-qE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335201668681",
+        "starRating": "5",
+        "title": "Good app!",
+        "comment": "A handy application for keeping up on power outages. Works well. Be sure to touch the \\\"i\\\" icon on the bottom right for web links.",
+        "commentId": "lg:AOqpTOGfYrJ4_MM-towJXS-2HUM7Wt3390aTzToGTVDXXAAFcO5eyvHcHiwGq2kziGr1WaLkX8KZoT1uyc0g860",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346727994026",
+        "starRating": "5",
+        "title": "EZ",
+        "comment": "Handy App!",
+        "commentId": "lg:AOqpTOFK-FG8Kou1kYERIbDcln5_mpiZX2FHhg21n65VmPXaRYuYZtYcVWE8zzdzOvTNDCXAvq8N0CCn8A00Z2k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

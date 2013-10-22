@@ -1,0 +1,36 @@
+{
+  "title": "Diabetes Risk Checker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clickinnovate.Diabetes",
+  "category": "Medical",
+  "price": "$0.99",
+  "datePublished": "February 15, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Click Innovate Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clickinnovate.Diabetes",
+  "extendedInfo": {
+    "installSize": "651k",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "Easily estimate the risk of developing Type 2 Diabetes over the next 10 years by answering some simple questions within the app. The calculation is based on the open source ClinRisk QDiabetes algorithm. The algorithm has been developed by doctors and academics working in the UK National Health Service (NHS) and is based on data from thousands of GPs. Note: The data collected by this app is used only for the purposes of performing the calculation, and is not saved or shared with anyone.",
+    "reviews": [
+      {
+        "timestampMsec": "1360948474677",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "This is a fantastic tool with lots of potential. Very easy to use and understand. Interface better on mobiles than tablets.",
+        "commentId": "gp:AOqpTOESAWqx6287KtQC_7sk-83w-QQrVzIB2oAuVcU8aArjROShz1RP0i4kd_IlTV-n1z6a26xu8_c8oIvWPw",
+        "author": "Lee Crossley",
+        "authorURL": "http://lh4.googleusercontent.com/-Zp07193OMSI/AAAAAAAAAAI/AAAAAAAAAIo/mDqXBxER3wo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Zp07193OMSI/AAAAAAAAAAI/AAAAAAAAAIo/mDqXBxER3wo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

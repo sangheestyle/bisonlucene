@@ -1,0 +1,62 @@
+{
+  "title": "Group-e",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conferencegroup.mobile.groupe",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 31, 2013",
+  "version": "1.1.12",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "the Conference Group",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conferencegroup.mobile.groupe",
+  "extendedInfo": {
+    "installSize": "6.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Group-e (Group Everyone) is a free mobile application that makes it easy for users to host and/or participate in group/conference calls. The Group-e application allows you to store all of your conferencing information conveniently on your mobile device, therefore making it easy for you to host or participate in a conference call with a few quick and simple gestures. Group-e is compatible with most touch screen smart phones, and is developed and maintained by the Conference Group.â¢\tHost or Join your Conference Call with one clickâ¢\tStore your Conference Call Access number and Passcode informationâ¢\tReceive notifications and announcements from the Conference Group",
+    "reviews": [
+      {
+        "documentVersion": "1.1.12",
+        "timestampMsec": "1333552197249",
+        "starRating": "5",
+        "title": "Finally!",
+        "comment": "This is the best conferencing app on the market! Great job Conference Group.",
+        "commentId": "lg:AOqpTOFf5oowjlu1775EkegncZAo6HJc6VsHx6lF_RRxNPIu6bFdLpcX-WaYmYXvKQ5EOyx4OX3pyRqKCKN7GQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340569469965",
+        "starRating": "5",
+        "title": "What an app...Finally",
+        "comment": "This is a prefect app if you use conferencing!!! Go-to meetings app can even hold a candle to this app...great job Conference Group...",
+        "commentId": "lg:AOqpTOEco1REVfsrLbjO9GpKmvCpqdlsMWVogR2dEA_Ap9zi2k6T0Do9Ss1v8cQ3dj-2S76myXxZKTTa64Ab3A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346329833377",
+        "starRating": "5",
+        "comment": "Thank you",
+        "commentId": "lg:AOqpTOEVxT4wNbk4Hl33DJQySIQIRN-YvasFV67zNAFe1inlmFzEqH8y0jasqvPZpnHZiVXeeBIbPla6Jb69hQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

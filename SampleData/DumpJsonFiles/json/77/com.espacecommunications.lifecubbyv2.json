@@ -1,0 +1,32 @@
+{
+  "title": "LifeCubby Parent",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.espacecommunications.lifecubbyv2",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "E Space Communications, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.espacecommunications.lifecubbyv2",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The LifeCubby Parent app provides each parent with continuous, live-streaming access to the content of his/her childâs account.  LifeCubby is a digital photo-share and electronic daily sheets tool used by teachers and child care providers.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

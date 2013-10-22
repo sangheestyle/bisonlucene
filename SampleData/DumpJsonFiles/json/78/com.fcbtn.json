@@ -1,0 +1,43 @@
+{
+  "title": "First Century Bank Mobile Bank",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fcbtn",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 3, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "First Century Bank",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fcbtn",
+  "extendedInfo": {
+    "installSize": "4.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "First Century Bank Mobile Banking App gives you many of the same services that you already enjoy in Online Banking. It is free to download and offers a user-friendly design created just for your mobile devices. Itâs quick and easy to navigate, lets you check your available balances, view transaction history, transfer funds between accounts, pay your bills, contact your local branch, and find ATM and FCB Offices in the area. Our app is fast, secure and free. Use your current online banking login information to start banking today. You have the power of First Century Bank in your hands! Features: â¢Fast, secure and free â¢Check Account Balances â¢Transfer funds between accounts â¢Pay Bills** â¢Find our ATMs and Banking Centers using the GPS system provided by your device.*** *Must be an Online Banking Customer **Online customers must first setup transfer and bill pay accounts prior to using these features. ***This is limited to locating our banking centers and ATMs. Please refer to your carrier for any fees that may apply.",
+    "reviews": [
+      {
+        "timestampMsec": "1365524854447",
+        "starRating": "5",
+        "title": "Love it!!",
+        "comment": "When I am out I can check my balance or transfer funds easily.",
+        "commentId": "gp:AOqpTOFP1mn-uDyopFid2M8p7xJYOrz6d3dY6o3XYU1fNhUcXX0KX5An3ahQnY8bLreRbraXXnrqAlUvur8nd3o",
+        "author": "Elizabeth Johnson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.meafinancial.android.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.CAMERA"
+    ]
+  }
+}

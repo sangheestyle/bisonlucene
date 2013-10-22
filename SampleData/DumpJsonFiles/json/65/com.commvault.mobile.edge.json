@@ -1,0 +1,54 @@
+{
+  "title": "Commvault Edge",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.commvault.mobile.edge",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 6, 2013",
+  "version": "2.4.9",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "12",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "“CommVault Systems\"",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.commvault.mobile.edge",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "CommVault Edge is a FREE application that allows you to retrieve your backed up data right on your mobile device. Increase productivity with anywhere, anytime access to Simpana protected company data on tablet and smartphone devices. Improve business continuity and security of company data.This app allows Simpana users to open, download, email their backed up files. - Browse the files on backed-up devices. - Mark your frequently visited folders as favorites.- Easy Access to recently downloaded files.- Search for backed-up files.- Preview your files.- Thumbnails for quick view of image files.For Preview:UserName: demopassword: demoURL: edge.commvault.comIMPORTANT:To make CommVault app work on your setup, you will need to install web search server andweb search client to the computer pointing to CommServe.For detailed documentation please visit Developer Web Site.About CommVault Systems:CommVault people and Simpana software help enterprises manage data growth,cut costs, and reduce risk by simplifying data management functionsthrough a single platform and architecture.http://www.commvault.com",
+    "reviews": [
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1375792053845",
+        "starRating": "5",
+        "comment": "Amazing!",
+        "commentId": "gp:AOqpTOEiNusRTLBFJ0KNvDsqXUDVSKHuaMVv8uzv_ozE-CQp15K7MdZNV1KYL3q11j8Ww3hWyzv0vfjvrAIcGOA",
+        "author": "Alex Landers",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.2",
+        "timestampMsec": "1375293443148",
+        "starRating": "5",
+        "title": "Very good to manage your files",
+        "comment": "Please try upload option..",
+        "commentId": "gp:AOqpTOEOQiuXvPISU00QU32CDRjRUYNvW3WDhAbaBSPNIzRptrgBNfiEBqYN96vzEd7aYLgIEMKs3cNpoRpFODY",
+        "author": "Tirthankar Chatterjee",
+        "authorURL": "http://lh6.googleusercontent.com/-6dFqzYPhL5M/AAAAAAAAAAI/AAAAAAAAETA/zjt_m8PCtUs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-6dFqzYPhL5M/AAAAAAAAAAI/AAAAAAAAETA/zjt_m8PCtUs/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.commvault.mobile.edge.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PROFILE"
+    ]
+  }
+}

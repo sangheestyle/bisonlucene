@@ -1,0 +1,42 @@
+{
+  "title": "ShopFloorTalk",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=net.endoftime.android.forumrunner.shopfloortalk",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "December 6, 2012",
+  "version": "1.3.18",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "ForumRunner",
+  "creatorURL": "https://play.google.com/store/apps/details?id=net.endoftime.android.forumrunner.shopfloortalk",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "ShopFloorTalk is a discussion forum for anyone interested in welding, fabrication, machining and general metal work of all kinds.We cater to the professional as well as the home shop hobbyist and even the \"wanna-be\" metal worker with aspirations of taking up the hobby. While our membership is uniquely suited to helping beginners get started in the field, our professional and master craftsmen exchange tricks of their special skills and trades in a generous range of ideas.We are independently owned with no corporate ties to inhibit or influence the free flow of ideas or product preferences.Individual sub forums in the public area include this partial list:Fabrication: Show off you projects and pictures of them and general discussions of fabrication techniques, knowledge and equipmentEquipment, Suppliers and OEM's: General discussion of welding equipment manufacturers, general shop equipment manufacturers and distributors of this and other equipment.Welding Processes: Discussions of all welding and allied processes including but not limited to; stick, mig, tig, oxy/fuel welding and brazing.Machining: For discussion of turning, milling, drilling, tapping, precision grinding, etc. Related equipment, techniques and practices.Metallurgy and Materials: General discussion on the metals and materials we use in our projects.Shop Safety: Anything that applies to general safety.Shop Forum: This Forum is to discuss building a shop, electrical needs, compressed air systems, shop layout, shop equipment, beer coolers, and other relevant needs.General Welding Information: This section is meant as a reference area for general welding data, safety information, etc.The Members Only section is for general free-wheeling discussion of subjects ranging from items to sale or trade, from jokes to computers to politics to firearms and a special section for new Member Introductions.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.16",
+        "timestampMsec": "1310161452850",
+        "starRating": "5",
+        "comment": "Better then goin to the site on a mobile phone. Be sweet if you could add a profile pic but still a good app",
+        "commentId": "lg:AOqpTOF4mXSzi8DVABusUNeBxzNkM1QDXFSsVW2GH5XvD8h4k7yq4ex24dLA2d24kyDDk8UeEiHOBRAk2bjg6is",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "net.endoftime.android.forumrunner.shopfloortalk.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

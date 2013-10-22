@@ -1,0 +1,36 @@
+{
+  "title": "Did You Know",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cheghamwassim.dyk",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "December 11, 2012",
+  "version": "1.0.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Chegham wassim",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cheghamwassim.dyk",
+  "extendedInfo": {
+    "installSize": "4.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Did you know (DYK) is an app that shows random facts, in various categories:- Colours,- Animals,- Alphabets,- Brands,- and mush mush more...",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BATTERY_STATS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.SET_ORIENTATION",
+      "android.permission.DEVICE_POWER",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

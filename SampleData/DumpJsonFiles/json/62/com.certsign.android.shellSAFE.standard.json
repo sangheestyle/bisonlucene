@@ -1,0 +1,48 @@
+{
+  "title": "shellSAFE Android Standard",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.certsign.android.shellSAFE.standard",
+  "category": "Tools",
+  "price": "$9.54",
+  "datePublished": "April 5, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "certSIGN S.A.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.certsign.android.shellSAFE.standard",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Your phone hosts an array of data, both business-related and personal, that require high caution and protection. You can hide your phone in a treasure chest, hoping no one will find it. Or you can install shellSAFE to protect your messages, files and pictures.Whenever you need to:Â· Keep business data confidentialÂ· Easily organize your secure dataÂ· Protect your privacyÂ· Be sure that, even if you lose your Android phone your data remains privateÂ· Guard your beloved against the skeletons in your phoneEncrypt your data with shellSAFE.What shellSAFE offers:Â· High encryption using AES algorithmÂ· E-mail and SMS integrationÂ· Contact integrationÂ· Secure password storing for all imported contactsÂ· Photo and file encryptionÂ· Master password to protect the entire contentÂ· Secure storage space for sensitive e-mails and messagesÂ· Easy file and folder managementÂ· Fully compatible with shellSAFE iPhone Standard/Professional EditionMany new features will be added to the Professional Edition that will be released soon!shellSAFE Android FREE Edition is compatible with Android 2.1+User testimonials:Â· Adrian, Sales Manager: âIt is fast and easy. Whenever I am on the road I get the information I need from my team, quickly and securely.\"Â· Miki, Student: âIt's so cool! Everybody wants to play with my phone. Now itâs safe, my private data is always protected.âÂ· Andreas, Real Estate Developer: âI have plenty of sensitive data on my phone: clients, competitors, personal information, you name it. With shellSAFE they are all secure.â",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1314627373020",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "This is the best privacy app I found so far and is exactly what I needed. Thank you!",
+        "commentId": "lg:AOqpTOHLYt59-4Hf_yeD8FxxtWtN6fNipMbXl0_AmJZLJipObBxo1Z9fU6ULq9gF6T_Wn7e3CeIT-jctPoGkXsc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gm.permission.READ_GMAIL",
+      "com.android.email.permission.READ_ATTACHMENT",
+      "com.android.email.permission.ACCESS_PROVIDER",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Mi-Cam",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elansat.app",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 24, 2012",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "15",
+  "rating": "4.266667",
+  "contentRating": "Everyone",
+  "creator": "義聯科技股份有限公司",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elansat.app",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "M-iCAM is a viewer and controller that enables you to remotely monitor live video, tune live audio, and may other functions from dedicated WIFI Camera by ELANsat Technologies Inc.ELANsat WIFI Camera is not only a Wireless Camera, but a WIFI Hotspot Camera. This great feature enables M-iCAM to connect to camera only having to select WIFI Hotspot from your device's WIFI Setting Panel. No additional IP or Port setting is needed.M-iCAM does not use cellusolution is suitable for many applications like Toys Camera, Industrial Monitor, Baby Monitor, Home Security, Video door bell and so on.M-iCAM Features:M-iCAM features WIFI network, no cellular network.M-iCAM features excellent high performance and good quality, that plays live VGA resolution stream at 30 FPS to bring better user experience.M-iCAM supports quality audio streaming from cameramic, and Push Talk  function to send live voice to camera speaker for playing.M-iCAM supports taking snapshots into device's Album.M-iCAM supports current WIFI Hotspot reachability and auto detecting.M-iCAM supports Camera volume remote control.Many more coming soon.",
+    "reviews": [
+      {
+        "timestampMsec": "1343117123162",
+        "starRating": "5",
+        "comment": "******",
+        "commentId": "lg:AOqpTOEmEpp598P-n9vXRqb2CsRVMfrDC063dxn143uf67OmetbJ4U9F247RlO6IOiGR8TlzpUjt1Eejw-Ts3g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

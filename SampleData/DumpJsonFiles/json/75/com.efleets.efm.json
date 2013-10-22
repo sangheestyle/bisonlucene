@@ -1,0 +1,60 @@
+{
+  "title": "Enterprise Fleet Management",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.efleets.efm",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 18, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Enterprise Fleet Management",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.efleets.efm",
+  "extendedInfo": {
+    "installSize": "539k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The popularity of mobile applications has continued to rise, as their usage has become increasingly prevalent across mobile phone users. And now we are bringing that functionally to you. What this means to you is that we are helping to make your job even easier and more efficient with just a push of a button. Mobile Application Features The following functions are part of EFMâs new mobile application and are available on the Android and iPhone platforms:  Â·         Fuel Locator: Find the closest and best priced fueling station with the WEX Best Price Fuel Locator. Results can be sorted by fuel type (such as Diesel, E85, CNG, etc.), distance from their current location, or price. The user can also click on the location to view a map or get turn by turn directions.  Â·         Maintenance Locator: Users can find the closest maintenance facility to their current location. A map or turn by turn directions are available to direct them to the location of their choice.  Â·         Accident Report: Users can record the details of an accident (including time and place, location, other parties involved, was the vehicle towed and if so to what body shop) and submit the report to Enterprise. The user can also take up to four photos of the damage/scene and submit those with the report.  Â·         Order Status: Displays the order status of that userâs assigned new vehicle order. Â·         Roadside Assistance: Access Enterprise Fleet Management road side assistance number with click to call functionality.  Â·         Reminders: Current and Past Due oil change reminders can be sent directly to the device. Users will have the ability to mark the oil change reminder as complete once the service has been done. A message can also be sent from the website to one or many users within the company and it will display here.  Â·         Mileage: Users can input mileage directly into the phone including the amount of personal mileage they have driven. This information is used by the Enterprise Account Team to make accurate recommendations to cut costs and improve efficiencies of the fleet.  Â·         Contact: This section lists each category of services we offer and the contact number and/or name based on the need/request (i.e. Fuel, General Account Services, Maintenance, etc.)",
+    "reviews": [
+      {
+        "timestampMsec": "1375841342372",
+        "starRating": "1",
+        "title": "Why we need a user",
+        "comment": "We have to get a user name! ! Why no after when we decide to rent a car? ?",
+        "commentId": "gp:AOqpTOFm4kb7HFX3ILago4VQ5752mxFKuBel5vnO51u1J9DTOlsDcvohIgi6CjbmcpcRYbGZRMMrgqOY7a00oQ",
+        "author": "Juan Manuel Daza Valderrama",
+        "authorURL": "http://lh6.googleusercontent.com/-1EwV4MvZm90/AAAAAAAAAAI/AAAAAAAAAsQ/T4j4GIAvVEo/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-1EwV4MvZm90/AAAAAAAAAAI/AAAAAAAAAsQ/T4j4GIAvVEo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373757511320",
+        "starRating": "1",
+        "title": "How about the everyday joe?",
+        "comment": "An app like this would be phenominal for someone renting a vehicle through you guys. Obviously fleet management and maintenance locations would be unnecessary. Please make this available for enterprise customers.",
+        "commentId": "gp:AOqpTOFqi3HxKb3QPrvccsEE1dEOyhzkH85yTBKgYzMNc9kVS0YRkiFC8WllRHkAsMoYeafHMbw3_GJV8-T3pw",
+        "author": "Larry Williamson",
+        "authorURL": "http://lh5.googleusercontent.com/-KfwycxHwzw8/AAAAAAAAAAI/AAAAAAAACWQ/JPQjOJ72Tyw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-KfwycxHwzw8/AAAAAAAAAAI/AAAAAAAACWQ/JPQjOJ72Tyw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376390233747",
+        "starRating": "5",
+        "comment": "Great application!",
+        "commentId": "gp:AOqpTOGAxN-L0bFZYAWCj-6liJykM8gk9o87mj-MU1hKQE1Rx7RYX-5B5QNkDgErcZtqEay_Kxw0rKOqakyGeg",
+        "author": "Mike Pugh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

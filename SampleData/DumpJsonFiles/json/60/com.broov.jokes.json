@@ -1,0 +1,32 @@
+{
+  "title": "Jokes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.broov.jokes",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "May 24, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "High Maturity",
+  "creator": "Broov",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.broov.jokes",
+  "extendedInfo": {
+    "installSize": "552k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is a collection of adult jokes for matured viewers. You can share your favorite jokes with others. Just swipe left/right/top to move to next/previous/random jokes.Move the app to SDCARD option.Keyword: jokes, adult jokes",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

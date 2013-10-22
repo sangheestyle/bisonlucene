@@ -1,0 +1,32 @@
+{
+  "title": "Trackognito Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cheerapps.trackognitolite",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "May 20, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Cheerapps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cheerapps.trackognitolite",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Confused by \"Unknown Artist - Track 01\" names of your favorite songs? Just run Trackognito, browse, select and get all these tracks named.* Lite version allows to recognize five tracks * Powered by The EchoNest music recognition engine* Supported formats: MP3, WAV, MP4, M4A* Supports MP3 tags (ID3v1, ID3v2)* No banner advertisements* Languages: English, PolishTips:* When a song not recognized try once more a moment later. Sometimes EchoNest server needs to think a little longer * Tap Back button to leave tutorial* Trackognito works better with broadband Internet* When \"EchoNest limit exceeded\" message appears let us know and try recognition later* Media scanner runs after closing Trackognito to update song list for music players supportExplanation of requested permissions: MODIFY/DELETE USB STORAGE CONTENTS MODIFY/DELETE SD CARD CONTENTSUsed to change file names when song recognizedFULL INTERNET ACCESSUsed to communicate with EchoNest server for song recognitionVIEW WI-FI STATEUsed to allow usage through WI-FIVIEW NETWORK STATEUsed to detect when internet access is availableTags: recognize identify song track music sound Trackognito",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

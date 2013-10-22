@@ -1,0 +1,57 @@
+{
+  "title": "4MyCab Red Top",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ccsi.taxiapp.redtop",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "May 29, 2013",
+  "version": "1.15",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Chad DeWitt",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ccsi.taxiapp.redtop",
+  "extendedInfo": {
+    "installSize": "227k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "4MyCab Android application and the associated 4MyCab (469222) SMS short code (for texting) are used by customers to book their cab for immediate or future service with participating cab companies thus eliminating the need to call on the phone. This app is provided to you by the same people who run the call centers for these cab companies so you are in very good hands when it comes to processing and servicing your reservations and will not be subjected to finger pointing  the buck stops with us and we aim to provide the best service possible to you, our customer. The areas you can currently book your cab reservation in are: Northern Virginia, D.C. (if going to Virginia), and Maryland (if going to Virginia).The app will let you get an estimated fare, book your reservation and track the status of your cab as it drives towards your pickup address. At the time of booking your reservation, you can specify the date/time you want to reserve your cab for and also add special instructions/notes to help the driver and/or dispatcher to provide the best possible service to you.",
+    "reviews": [
+      {
+        "timestampMsec": "1374777131085",
+        "starRating": "4",
+        "title": "30 mins out for reservation",
+        "comment": "it would be nice if the app developer put that reservations under 30 mins default to immediate",
+        "commentId": "gp:AOqpTOHcNAdT7zABtjpGVxC5jPQYu0sDeq2wrqa28dSCTSCOATtyHWmsaimKdgjxdmStG3V2RhOWRTuNjZp49g",
+        "author": "Jamison Shipley",
+        "authorURL": "http://lh6.googleusercontent.com/-HMKD01BOAcI/AAAAAAAAAAI/AAAAAAAAAAA/CHuYrbacMlY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-HMKD01BOAcI/AAAAAAAAAAI/AAAAAAAAAAA/CHuYrbacMlY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366293215637",
+        "starRating": "3",
+        "title": "No Reliable",
+        "comment": "When the app works its great, yesterday I placed a order after getting off work and they cancelled my trip 2 before I got a cab sent to me. I waited a 1 hr and 15 just to get home on a 10 minute drive. This morning I placed the order 40 mins before having to be somewhere which is another 10 mins.. trip got cancelled again on its own, not notifying me or anything. I will be atleast 10 mins late. Before I had great experiences with this app.. but I\\'m starting to see its not dependable!",
+        "commentId": "gp:AOqpTOEbyXtyFhcpQaC2kTSHA4caQ-pU2xok1Zo4JKwnhrTv4AQknUW0mSbTkf6wXT01clcoY_9klN3ADP01Aw",
+        "author": "Mary Gordon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368422781727",
+        "starRating": "4",
+        "title": "I guess it is OK.....",
+        "comment": "I never used the app so I can\\'t say if it is good or not. The app is based on SMS. I was hoping for something slicker than that. I will just call instead and talk to a live person. Uninstalled.",
+        "commentId": "gp:AOqpTOHSKOdUGrfZ0buMaC1-GG89N0EtRn2hY4T5hxWE8RWC4xIg6EyaHhyidZJwIxxQG8NIpKNaEqmM2DGtnQ",
+        "author": "Eric McKean",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

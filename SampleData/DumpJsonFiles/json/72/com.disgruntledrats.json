@@ -1,0 +1,31 @@
+{
+  "title": "Mobile Model Viewer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.disgruntledrats",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "May 28, 2013",
+  "version": "2.1",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Disgruntled Rats",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.disgruntledrats",
+  "extendedInfo": {
+    "installSize": "6.0M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Mobile Model Viewer is a fully functional COLLADA (.dae) model viewer for Android-based mobile platforms.  Simply import your own models and textures either singularly or via a ZIP file, and showcase your models to potential clients, students, bosses, friends, or whomever else.  All from the convenience of your Android-based mobile device.  Features include simple 360Âº rotation, panning in/out, full texture rendering, model switching (for multiple models), easy loading/unloading, and an intuitive GUI.  If you develop models using the open-source COLLADA format, this app is a must-have!After installing, launch this app with a sample 3D model by clicking on the link: http://goo.gl/lV0ZUAdditional sample models are included on our website:http://mobilemodelviewer.comA new website has been launched that allows you to easily send models to your device.  It also optimises the models to run on mobile devices.  All you have to do is upload your model.  The website emails you a copy of the optimised model.  Open the email using the Android Gmail client and click the attachment.  Mobile Model Viewer automatically launches and renders the model!http://cheddarcheesepress.com/Please read the requirements in the User Manual before purchasing:http://www.mobilemodelviewer.com/help_v1.html",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "NESHL Official App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.NewEnglandSeniorHockey",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "April 30, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Buzzer Apps Mobile Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.NewEnglandSeniorHockey",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "One tap access to all the information a fan could want.Gives you mobile access to everything you need to follow the New England Senior Hockey League no matter where you are.  Select your team and see their scores, schedule, stats and roster.  The league's latest news, social media, and push notification features will keep you up to date with the important information about the league.We hope you enjoy using this app to enhance your NESHL experience!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.buzzerapps.NewEnglandSeniorHockey.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

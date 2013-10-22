@@ -1,0 +1,40 @@
+{
+  "title": "North Carolina 811",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_8034fc3e187c4829a5b6953cec2e3e92.app",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "June 19, 2013",
+  "version": "1.20.59.1298",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "North Carolina 811",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_8034fc3e187c4829a5b6953cec2e3e92.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "In the North Carolina 811 app you will find info about NC811, how to contact us, what our states laws are concerning underground excavation, color codes, videos, news and so much more.You can use the S.A.T. section to submit your Single Address Tickets. Check your ticket's status with Positive Response and update the ticket with Update Lite. Report incidents at your dig site by filling out the DIRT Lite form. You can also see who else is digging near you by accessing the GPS function of the Near Ticket section of the app. It's all right here. Dig safely by using the NC811 app.Call before you dig. Dial 811.Visit us online at www.nc811.org",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_8034fc3e187c4829a5b6953cec2e3e92.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

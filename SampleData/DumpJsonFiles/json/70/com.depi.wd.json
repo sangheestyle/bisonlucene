@@ -1,0 +1,42 @@
+{
+  "title": "WatchDoing(CCTV,PC Monitoring)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.depi.wd",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "September 8, 2013",
+  "version": "2.3.1",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "19",
+  "rating": "3.8421052",
+  "contentRating": "Everyone",
+  "creator": "Developians corp",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.depi.wd",
+  "extendedInfo": {
+    "installSize": "5.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "â» First, you must install the agent on your PC. http://www.watchdoing.comâ» \"WatchDoing\" is in view-only applications. Remote control features are not supported in the current version.Anytime, anywhere you can see the real-time monitor.Mobile anytime, anywhere in real time, you can see the computer and mobile.The Devil's applicationWatchDoing V2.2.1 released!  - Android, Windows Phone 8, Windows 8 Tablet, iPhone computer screen, a webcam, you can see all the mobile camera.Use a nice feature for free.  - Computer monitor children  - Cam Notebook, PC Home CCTV with Webcam  - Used with smart phones Home CCTV  - My husband, boyfriend, computer monitoring, smartphone monitoring- Our store POS screen monitor  - Monitoring of the control computer server room  - Share presentations with mobile devicesNew Feature  -MtoM Function: Mobile in Mobile, other people's mobile from my mobile monitoring.   (Mobile CCTV feature is currently Galaxy S, S1, S2, S3, S4 terminal group is supported by all terminals will be supported later)  -Microsoft's latest cloud platform, Windows Azure introduced.  -Peer to Peer between the receiving reliability dramatically upgraded.  - Android, Windows 8, Windows 8 tablet to increased support (iPhone version later update)To use the standard port that the Internet can be monitored in all environments.Easy to follow===================================1. In the Android Market \"WatchDoing\" search for and install it.2. Register to access the http://www.watchDoing.com the agent is installed.3. Log in to the installed agents.4. From mobile or mobile to select the computer you want to monitor to monitor.View remote information systems (Remote Information View System)Service Contact: http://www.facebook.com/numuheservice@watchdoing.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.FLASHLIGHT",
+      "com.depi.wd.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

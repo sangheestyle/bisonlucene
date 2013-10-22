@@ -1,0 +1,68 @@
+{
+  "title": "Explore Taipei Metro map",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exploremetro.tp",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "December 2, 2012",
+  "version": "2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "15",
+  "rating": "4.6",
+  "contentRating": "Low Maturity",
+  "creator": "ExploreMetro",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exploremetro.tp",
+  "extendedInfo": {
+    "installSize": "9.0M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Taipei's best metro map! Up-to-date with all the metro lines for 2012; Works offline; Routeplanner, GPS, Google Maps; English and Chinese included.WHY EXPLOREMETRO?1. Fully up-to-date for 2012Accurate metro map, includes every station on every line. Free updates for future station openings and timetable changes.2. Designed for AndroidSupports all devices running Android 2.2 or higher. Designed to use the latest Android technologies like the Action Bar, HDPI screens and global search.3. Google Maps for every station Need to get your bearings at a station? Integrated Google Maps show you metro exits and nearby streets for every station.4. Route-planner A really easy route-planner. Get route, time and price information for any journey with just three taps. 5. \"Find my nearest station\" Using your GPS, see a list of the closest metro stations to your current location. 6. Works offline Everything works without an Internet connection. Search stations and plan routes on the go.SUGGESTIONSWe'd love to hear your comments and suggestions on ways to improve the app. Please contact us via support@exploremetro.com, as we can't respond to comments left in the reviews.",
+    "reviews": [
+      {
+        "timestampMsec": "1366291629362",
+        "starRating": "5",
+        "title": "explore Taipei MRT..",
+        "comment": "Love it.. verry useful to anybody traveling around taipei, and find places all around the MRT... been waiting a while to get something like this for Android",
+        "commentId": "gp:AOqpTOGRdoJtgd2bbWiTNCTQBWegbCFqyM39UdDG28FMA0TJkof7osgQjgUkmaHROQcl2vVBdxUyhGE7ImShjuM",
+        "author": "George P.",
+        "authorURL": "http://lh5.googleusercontent.com/-a7OOv5mBaJU/AAAAAAAAAAI/AAAAAAAAACY/GgQ8VVNp3uw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-a7OOv5mBaJU/AAAAAAAAAAI/AAAAAAAAACY/GgQ8VVNp3uw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363803131425",
+        "starRating": "5",
+        "title": "Awesome..",
+        "comment": "Easy to search in TRA Station",
+        "commentId": "gp:AOqpTOGiQzVetLO-FubpSQ6IkRAH97aYZQkLUxJaSVUaDMGF8sTBEYIG72WSKWGRHzVMhxEOM6Oy5BnuA5OC4es",
+        "author": "Patrogel Funda",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1345900627713",
+        "starRating": "5",
+        "title": "Best metro map",
+        "comment": "Includes above and below ground and works with limited or spotty internet coverage.",
+        "commentId": "lg:AOqpTOHEfFIQbr8rgxH5ClaWQBl1TxV-_AY1tIzf1iMe2PS1qtsepMc3pwrf840-94AqIrAiE5u_9l_fnte8VFE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346417380675",
+        "starRating": "4",
+        "title": "Nice clean and useful but slow",
+        "comment": "It does everything you want but its a little slow read your touches.",
+        "commentId": "lg:AOqpTOHnopmpUS8-A-a9nQgnZR0EZ2NQkg5FhMlK9yVhPpprBKfLD8YRg2w-HycAPp7MB23Zdx90lz8LH6o5iLQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Books and Beyond",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chamberme.booksandbeyond",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "May 2, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Low Maturity",
+  "creator": "ChamberMe!",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chamberme.booksandbeyond",
+  "extendedInfo": {
+    "installSize": "5.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Books & Beyond: A Mountain MarketplaceLocated in Old Town Chester, Books & Beyond, once called B & B Booksellers, is a member of the American Booksellers Associationâs IndieBound Program and features a general category bookstore, a childrenâs book room, a game room, men's & women's clothing, unique gifts and cards, a dry cleaning service, FREE wifi and the much loved Back Room Art Gallery.The BookstoreThe Lake Almanor Basin is home to year round recreation that ranges from hiking, biking, golfing, fishing, hunting, water sports, and bird watching, cross country skiing, snowshoeing, and snowmobiling. At Books & Beyond you will find the information you need to enjoy it all: local area guidebooks, field guides, animal, nature, geologic and historical information.The Back Room Art GalleryThe Back Room Art Gallery is home to rotating exhibits of some of the Lake Almanor Area's finest art, photography, carvings, pottery, pine needle baskets and fabric art. How To Find Us\"B & B Booksellers is located on Main Street (Hwy 36) in Old Town, Chester at the base of Lassen Peak and near the shores of Lake Almanor. Fly in to our Airport at Roger's Field, drive in on the Volcanic Legacy Scenic By-Way Hwy 36, 44 & 89, or, take scenic route 32 through Deer Creek Canyon to Hwy 36.",
+    "reviews": [
+      {
+        "timestampMsec": "1312867370349",
+        "starRating": "5",
+        "comment": "Cool app for a great store! Store looks great Susan.",
+        "commentId": "lg:AOqpTOECnyJ2yHbski4y8oVMMVXfIkVT1K0jx91Kxd_CAPHkRWvhKB7EiPy6vzGSKkUKXMKOpl9cYezBfq-ccRs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

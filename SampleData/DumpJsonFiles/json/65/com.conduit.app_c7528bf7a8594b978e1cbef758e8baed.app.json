@@ -1,0 +1,38 @@
+{
+  "title": "The Elegant Few",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_c7528bf7a8594b978e1cbef758e8baed.app",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "December 9, 2012",
+  "version": "1.2.8.413",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Raymond Stanford",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_c7528bf7a8594b978e1cbef758e8baed.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Keep in touch with The Elegant Few!! This application has \"The Elegant Few\" performance dates, Facebook posts, streaming music content, video archive, and contact info!The Elegant Few",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_c7528bf7a8594b978e1cbef758e8baed.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

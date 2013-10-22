@@ -1,0 +1,47 @@
+{
+  "title": "Truth In Needles",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_8e4b3edc5e004c5b8014b547181b0938.app",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "January 16, 2013",
+  "version": "1.5.6.318",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Will Jimenez",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_8e4b3edc5e004c5b8014b547181b0938.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "Official Band App for Truth In Needles (New York Hardcore). Watch exclusive video, Music Videos, In Store Sessions, see original Photos, Contact and Show dates.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_8e4b3edc5e004c5b8014b547181b0938.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

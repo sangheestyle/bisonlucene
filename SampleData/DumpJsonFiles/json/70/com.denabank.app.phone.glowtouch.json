@@ -1,0 +1,64 @@
+{
+  "title": "Dena Bank Smartphone",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.denabank.app.phone.glowtouch",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "May 22, 2013",
+  "version": "1.2.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "9",
+  "rating": "3.4444444",
+  "contentRating": "Low Maturity",
+  "creator": "Dena Bank",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.denabank.app.phone.glowtouch",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "With Dena Bank application for Smartphone, easily get the latest information about our products and services. You can also find your closest Dena Bank ATM and Dena Bank Branch.The Dena Bank application for Smartphone supports Android Phones running OS 2.3 and above.Now download Dena Bank App on iPhone and Android Phones for e-banking and product details",
+    "reviews": [
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1377329663047",
+        "starRating": "1",
+        "comment": "Horrible app",
+        "commentId": "gp:AOqpTOGrG7BhqQzjNMaPgeLsCukjDGXjZmg4NVCLtCL7hR_QJBhfFOGf4rA3gXnoThUsfxxxF9VdBLTvIg3lQA",
+        "author": "paritosh parmar",
+        "authorURL": "http://lh5.googleusercontent.com/-dK5nKiZkoJw/AAAAAAAAAAI/AAAAAAAAAAA/kHvxlpB5VXQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-dK5nKiZkoJw/AAAAAAAAAAI/AAAAAAAAAAA/kHvxlpB5VXQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1376829610621",
+        "starRating": "1",
+        "title": "Zero",
+        "comment": "Zero",
+        "commentId": "gp:AOqpTOFhhTS89TSUswViu2wdwzjbC4FH7zsH2pFGg2O6H1wo8T2h1QSbmQtbh5wDFpsLt6YoBuQ9LP9ZDLGzmA",
+        "author": "nainesh prajapati",
+        "authorURL": "http://lh6.googleusercontent.com/-2hccZJ8s-Ww/AAAAAAAAAAI/AAAAAAAAAAA/5s2aLd-tnC4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-2hccZJ8s-Ww/AAAAAAAAAAI/AAAAAAAAAAA/5s2aLd-tnC4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377015906065",
+        "starRating": "1",
+        "title": "Doesn\\'t even load after install",
+        "comment": "It opens a window saying, \\\"Loading, Please wait\\\", and nothing happens afterwards. Had to force-stop the app every time I tried to use it. My mom worked for 35 years for this bank. Expected something more professional from them. Uninstalling.",
+        "commentId": "gp:AOqpTOEIGor6qpl8dvv5PtAyVwXUK4P8Mza7wkrwGgngdkDeXWdau7Ej6YgI6m7dXZRCEbvH46rb87wnWaSjhw",
+        "author": "Lezlie Boyd",
+        "authorURL": "http://lh5.googleusercontent.com/-CrZPcxG_nEU/AAAAAAAAAAI/AAAAAAAAAOE/V_4NkFbXPZw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-CrZPcxG_nEU/AAAAAAAAAAI/AAAAAAAAAOE/V_4NkFbXPZw/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.denabank.app.phone.glowtouch.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

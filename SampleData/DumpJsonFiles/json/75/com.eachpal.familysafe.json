@@ -1,0 +1,51 @@
+{
+  "title": "Eachpal Family Safety Guard",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eachpal.familysafe",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 19, 2013",
+  "version": "1.1.84",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Eachpal LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eachpal.familysafe",
+  "extendedInfo": {
+    "installSize": "8.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Eachpal Family Safety Guard is  a Location Based family safety software, which provide positioning, location history and analysis, SOS, instantly trigger audio/video recording and instant messaging, it can turn your cell phone become ultimate family safety guard.Eachpal Family Safety Guard-- The Safety you can see:Wherever your car is, wherever your pet is, wherever your kids are, Eachpal make you see their safety.Eachpal Family Safety Guard-- The life you can see:Location history check and analysis, instant chat, realtime audio/video transfer, record each memorial moment in your life, Eachpal make you see the life of your family.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.SEND_SMS",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.eachpal.familysafe.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.CAMERA",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

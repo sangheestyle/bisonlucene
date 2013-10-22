@@ -1,0 +1,59 @@
+{
+  "title": "My City Birmingham",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dstudios.bmetro",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "March 7, 2012",
+  "version": "2.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "3.25",
+  "contentRating": "Low Maturity",
+  "creator": "Diamond Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dstudios.bmetro",
+  "extendedInfo": {
+    "installSize": "605k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "âMy Cityâ is Birminghamâs complete one stop city guide for everything to see and do. Brought to you by Alabama's 13 and B-metro Magazine.My City features: All events in the city by date and venue, complete movie guide of all your favorite theaters, Birminghamâs most complete restaurant guide divided by area with over 900 restaurants to choose from, bars, clubs, music, bands, art galleries, museums, attractions, parks, shopping, theaters and more. Plus now weather, local company tweets and bonus videos.Every page listing includes: their events, map to get you there, share, phone number, address, website, twitter feed and description.Plus, our unique âDealsâ section, is a listing of all companies, restaurants, events, etc. that offer any incentive or deal exclusive to app users. (Examples: $5 off entry, no cover, $10 off $30 or more) All deals are easily found under one button.My City Is available in both android and Iphone",
+    "reviews": [
+      {
+        "timestampMsec": "1327872007935",
+        "starRating": "2",
+        "title": "Not professional",
+        "comment": "The app isn\\'t bad for seeing what is available, though I did note mistakes in event times. Spelling errors are distracting throughout, and app is fairly useless without prices listed for the events.",
+        "commentId": "lg:AOqpTOGUadE4yG8R00mi3TOK0GnHcb0HatTASkZtu0svAwiyNoIJ-IQcPe9wgDyMC5BHpNIFsK1EuOC_DwuvGmo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331132906325",
+        "starRating": "5",
+        "comment": "Very cool",
+        "commentId": "lg:AOqpTOGV3OrZHyIHilepvUx7b1AfImO0hZ9Y29LXM70wbLPSRog-q-Dv6UzeaR-5_K4cu6JoyDwSZ-_0Ehn7-0I",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345206879565",
+        "starRating": "1",
+        "title": "Nice try.",
+        "comment": "Not useful, poorly done.",
+        "commentId": "lg:AOqpTOGxRDCx2nYMgKQm96seWlTZiszgl5SgcJ49gwJuXZna-uKpibjzLh_hBzyJg6EpbqV03gCDjc3dpZybY8k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

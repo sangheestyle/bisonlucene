@@ -1,0 +1,29 @@
+{
+  "title": "Energy Watchdog Notifications",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.energylabs.eemnotif",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 28, 2012",
+  "version": "1.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "EnergyLabs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.energylabs.eemnotif",
+  "extendedInfo": {
+    "installSize": "387k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "An add-on for the app Energy Watchdog that will send you notifications via SMS and/or email when specified events occur.Note: You will need to install Energy Watchdog as well. This app won't show up in your launcher.Energy Watchdog: https://play.google.com/store/apps/details?id=com.energylabs.eem",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET"
+    ]
+  }
+}

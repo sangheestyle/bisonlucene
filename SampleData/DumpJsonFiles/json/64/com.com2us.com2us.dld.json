@@ -1,0 +1,41 @@
+{
+  "title": "Oh My Candy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.com2us.com2us.dld",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "August 24, 2013",
+  "version": "1.0.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "High Maturity",
+  "creator": "SYM Corp.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.com2us.com2us.dld",
+  "extendedInfo": {
+    "installSize": "7.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The hungry fat mouse is waiting you to feed him the candy. Move the candy to him by moving the bow and  pushing the candy!!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1375820212527",
+        "starRating": "5",
+        "comment": "awsome i love it",
+        "commentId": "lg:AOqpTOHynYVO8Gv5mzTkn_M6L4stqgfFRpIRgeukLb_Y8PoYhH3alHgjFdgt0oYfLQkebR4hcWYc4f_RMMPeQw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

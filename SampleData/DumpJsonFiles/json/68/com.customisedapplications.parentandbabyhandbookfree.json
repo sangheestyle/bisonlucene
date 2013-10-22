@@ -1,0 +1,44 @@
+{
+  "title": "Parent & Baby Handbook (Free)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.customisedapplications.parentandbabyhandbookfree",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "January 14, 2013",
+  "version": "1.0.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Customised Applications",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.customisedapplications.parentandbabyhandbookfree",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "* This is a 14-day, fully-functional, trial version. You can get the paid version here (https://play.google.com/store/apps/details?id=com.customisedapplications.parentandbabyhandbookfull).The Parent and Baby Handbook provides answers and advice from the world's most renowned books on parenting. Search any parenting, baby and toddler issue, and get credible answers straight from the top selling books which have been paraphrased into the application. You know which book and page the answer is from, and you have the ability to scroll through the suggested answers from each book.Never before have parents been armed with such an infinite amount of knowledge, accessible in such an effortless, speedy manner, enabling them to get the answers they need, when they need them most. Features include:- The unique ability to search any parenting or baby-related question you can think of.- Retrieve immediate answers from your pre-selected choice of parenting books.- Be assured you are receiving legitimate, well respected advice.- Enter your childâs birth date and other possible conditions to have the answers tailored specifically to your childâs age group and situation.- Align yourself with the parenting style of your choice, by selecting the books you would like to receive answers from.- Save your favourite answers for future reference.- Purchase the physical book (from online stores such as Amazon.com) for further, more-detailed reading.- Read reviews and blurbs about the books.- Send us feedback from directly within the app.Books currently available as answers:- Babies in Mind â by Jenny Perkel- Toddlers Need Boundaries â by Anne Cawood- Toddler Sense â by Ann Richardson- Baby Gym - Melodie de JagerMore books are being added all the time, so keep checking back in the app - they will appear automatically.While we have done everything we can to ensure a great user experience, with no bugs, if you happen to find something, or have any comments or suggestions, we'd love to hear from you: info@customisedapplications.net, or send us feedback within the app. We will make sure we make you happy!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1344695919826",
+        "starRating": "5",
+        "title": "Great help!",
+        "comment": "So glad to see this out of beta. Been such a great help with my two kids. Keep the content coming.",
+        "commentId": "lg:AOqpTOHFI9R0DQaM-EWdNwySGwGjW93ekwduTnJ3ibaOMR7-JX1QyOZODApXgw0Cxmf3CLyLVJtGcZM-F5TUtw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "com.customisedapplications.parentandbabyhandbookfree.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

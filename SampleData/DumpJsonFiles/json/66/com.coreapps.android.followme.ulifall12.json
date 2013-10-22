@@ -1,0 +1,53 @@
+{
+  "title": "ULI Fall Meeting 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ulifall12",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 9, 2012",
+  "version": "3.6.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ulifall12",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The ULI Fall Meeting attracts more than 7,000 attendees annually. As an attendee, you will build relationships with developers, investors, architects, planners, brokers, attorneys, and government, and get the cutting edge information you need to build your business.This yearâs meeting in Denver will mark the culmination of ULIâs 75th anniversary. The theme of the 2012 Fall Meeting ââWhatâs Nextââfocuses on an industry fully engaged with larger issues of economic and political consequenceâglobal finance, innovation, the national elections, to name a few. Innovative thinking and proven solutions will be at the forefront of the Fall Meeting program.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.ulifall12.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

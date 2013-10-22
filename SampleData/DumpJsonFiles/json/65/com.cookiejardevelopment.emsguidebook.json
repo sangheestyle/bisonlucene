@@ -1,0 +1,51 @@
+{
+  "title": "EMS Medical Guidebook-Outdated",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cookiejardevelopment.emsguidebook",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "March 11, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "3.125",
+  "contentRating": "Everyone",
+  "creator": "CookieJar Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cookiejardevelopment.emsguidebook",
+  "extendedInfo": {
+    "installSize": "5.1M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "EMS Guidebook allows the user to view the medical protocols of specific EMS agencies. This guidebook is meant to be a replacement of the traditional flip book guides that EMTs and Paramedics carry for reference on emergency calls.There are four agencies and one set of generic protocols currently available for download. Those agencies are:Park City Fire Service District in Park City UtahSummit County EMS in Summit County UtahWasatch County EMS in Wasatch County UtahSouth Davis Metro FireGeneric ProtocolsThe specific agencies protocols require passwords to download. Those passwords are available from the agency's Training Officer. The Generic Protocols are available without a password.In addition to the above agencies, the following protocols are available via an in-app purchase:District 2B Protocols (Salt Lake County, UT)North Carolina EMS Protocols (General EMS protocols for North Carolina)Hawaii EMS Protocols2011-2013 St John EMS Protocols (New Zealand)Utah Pediatric Off-Line Protocol Guidelines (EMSC)West Virginia EMT Basic ProtocolsAs part of the base program, each set of protocols contain references such as pediatric vital signs, burn references, c-spine clearance charts, 12-lead guidelines, American Heart Association (AHA) guidelines, START and JumpSTART triage guides. There are also guides to several common cardiac rhythms with examples. Last but not least is access to a database of over 22,000 medications under over 200,000 different names.Please note that a PDF viewer is required to view some of these protocols.If you wish to have your protocols put into this system contact mike@cookiejardevelopment.com",
+    "reviews": [
+      {
+        "timestampMsec": "1366225162776",
+        "starRating": "1",
+        "title": "Not good",
+        "comment": "CANT EVEN USE PROTOCOLS....APP BLOWS .",
+        "commentId": "gp:AOqpTOFXCbnV65RxJYxTlv5aj9pRLNVPckeW6d5VpxAaXzIjgGV2TrHH0p2Qxm2noUC79YClGx_0zS4_JsrfMw",
+        "author": "rich keller",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364739095828",
+        "starRating": "4",
+        "title": "RKMC_MAL",
+        "comment": "Difficult to drive but otherwise a good app.",
+        "commentId": "gp:AOqpTOGdmqKDDtf8VKV_t5dCjnl9I4mqqzvY3LhHA31EouvZKXYldRCRi9BJrfPQmMYkR-xH2bBb1RejEmQb0w",
+        "author": "Stephen Jones",
+        "authorURL": "http://lh4.googleusercontent.com/-b5rAJt_Mwuw/AAAAAAAAAAI/AAAAAAAAADA/ZOhNNSQ7XtA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-b5rAJt_Mwuw/AAAAAAAAAAI/AAAAAAAAADA/ZOhNNSQ7XtA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

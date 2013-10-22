@@ -1,0 +1,64 @@
+{
+  "title": "Smart Call Recorder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.developer.vineet.smartcallrecorder",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 13, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "25",
+  "rating": "3.44",
+  "contentRating": "Everyone",
+  "creator": "vineetmadhuri",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.developer.vineet.smartcallrecorder",
+  "extendedInfo": {
+    "installSize": "411k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Smart Call Recorder is an free and simple application. It record's the call incoming and outgoing call's. It has following feature.1- It provides two ways to record's a call. \ta- It takes permission from user for recording if auto-recording feature is disabled.\tb- If auto-recording is enabled, Then it does not ask's to user and simply record's the call.2- It provides the facility of play, delete and mailing the recording.3- It also speak's out the caller name.If the number is already in contact list, then speaks the caller name otherwise speaks in-coming number. For example John marta is calling. or call is coming from 1234567891.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1367391281111",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "Micromax a100.smart recorder is not working.after opening it shows only white blank screen.",
+        "commentId": "gp:AOqpTOF7gOMQ_pQ6kn5UDvBk7o94pP-vZ2yvrsQqMco_taPYRRw-X0Nz3ZpEYB13XfnUoOJGbYPTKb_eV9jD4A",
+        "author": "MADHUKAR BHARATI",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367421697075",
+        "starRating": "1",
+        "title": "Faltuu",
+        "comment": "Ek no...faltu app mobile hang karta hai",
+        "commentId": "gp:AOqpTOEJyz_P3-SbKi4sSgYfzeFQLEAWR-oesPylrUTJJxf0BqO9W9ysiPieTg0AHRRqw8hZDO0a9-P9rnsfpw",
+        "author": "Prasad joshi",
+        "authorURL": "http://lh6.googleusercontent.com/-0Jc-knI6_Lc/AAAAAAAAAAI/AAAAAAAAAvE/mmc41GRJAkY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-0Jc-knI6_Lc/AAAAAAAAAAI/AAAAAAAAAvE/mmc41GRJAkY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376429320191",
+        "starRating": "1",
+        "comment": "Doesn\\'t work at all",
+        "commentId": "gp:AOqpTOHY7GWz9sGo-1gHNU0ysSj82bVmg6L40XA5s2snJFDdSHhavYaA-f2rV8JhJ_6c-w7SHPOycveLDgoAbg",
+        "author": "Thomas Jessop",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "You're Here! Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dacatech.yourehere.lite",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "March 15, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "12",
+  "rating": "3.9166667",
+  "contentRating": "Low Maturity",
+  "creator": "DACA Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dacatech.yourehere.lite",
+  "extendedInfo": {
+    "installSize": "278k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "CHECK OUT THE ALL NEW VERSION WITH AN ALL NEW NAME!Now Named YouRHere LiteNew Name. New Look. New Features!**Download it today**https://play.google.com/store/apps/details?id=com.dacatech.yourhere.lite(Note: YouRHere Lite will not replace the previous application. You will have to manually uninstall Youâre Here!. Sorry for any inconvenience.)This is the (OLD) free lite version of You're Here! You're Here is a GPS based alarm that will alarm you at your destination. This is great for anyone who has slept through their stop or transfer on the train or bus. Choose from a variety of mass transit locations (ie Amtrak, LIRR, Caltrain etc.) or create your own custom location. This application is the (OLD) free lite version of You're Here supported by ads and some feature restrictions. The full version of You're Here! allows you to:- Have multiple alarms- Set music on your phone as the sound to play when an alarm triggers- Add a widget so that you can toggle an alarm on\\off from the home screenIf you enjoy this app and find it useful please rate and comment on the Android Market and purchase the full version of You're Here! No ads and no restrictions. Please send your bugs and comments to: support@dacatech.comThe You're Here! Team is working on a major update to support train systems all over the world. We could use your help! If you know any of the languages below and want to help our small team please send us an email at contact@dacatech.comKoreanJapaneseGermanMandarin/TaiwaneseOver 1200 saved Mass Transit Locations from these providers:Amtrak NortheastAmtrak SouthBARTCaltrainCTALIRRMARCMBTA Subway & Commuter RailMetro NorthMetraMTA NYC SubwayNJTransitVRE",
+    "reviews": [
+      {
+        "timestampMsec": "1308856981304",
+        "starRating": "5",
+        "comment": "Really good, it can even text someone when you\\'ve reached your destination.",
+        "commentId": "lg:AOqpTOF9EPP4Yi-7lOuRTdghm_C06tfhP4GH-88Sm0kyX-4FhLe9vn42ZqevH2YE7nLJEBpa42OvI_1zrGV4OQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317900310127",
+        "starRating": "2",
+        "comment": "High battery consumption causing my evo 4g to overheat. Screen flashed nonstop. Wsj app automatically scrolled through its list of article titles.",
+        "commentId": "lg:AOqpTOFE-KQ5c6DmnAURE9gpsEtyXLld3FZFHhsHaK6W82QWrMa5JSksy-ROkFBnWvlJ80VgCXTl_OzML55pdQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1314085151404",
+        "starRating": "2",
+        "comment": "Great idea but I missed my stop.",
+        "commentId": "lg:AOqpTOHquk0BZfejWOIzVjXq8gDIuggyLYNSN6aIL4kr69mqsW_vOK6WsYCdaNWHHCtYNuNYTQ54wJT_3rOagw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

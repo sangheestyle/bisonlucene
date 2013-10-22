@@ -1,0 +1,32 @@
+{
+  "title": "Glucowiz Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dynamicobjx.glucolite",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "April 1, 2012",
+  "version": "1.0.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "DYNAMIC OBJX",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dynamicobjx.glucolite",
+  "extendedInfo": {
+    "installSize": "955k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Glucowiz is an Android App that can help diabetics control their blood glucose levels better than ever before. It is not only a data tracker - it is an analysis tool.Glucowiz will perform the following :- Track your weight and blood pressure.- Track and graph your blood glucose levels - Track your exercise minutes- Track your carbohydrate intake- Track your Lab resultsBut what differentiates Glucowiz from all the trackers already available in the market is its ability to analyze the data you have entered.- Is your weight within the optimal range ?- Is your Blood Pressure at a safe range ?- Are your medications optimized ?- Are you exercising enough ?- Are your laboratory values within the ADA guidelines?Designed by an endocrinologist who has been in practice in America for 20 years, Glucowiz has a simple GUI and is friendly to diabetics of all ages. It tracks only the most significant data vital to diabetes control without the unnecessary bells and whistles. You can even email the analysis to your doctor. It is like having a diabetes doctor in your pocket!For questions /comments, you may send an email to : glucowiz@gmail.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

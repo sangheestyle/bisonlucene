@@ -1,0 +1,47 @@
+{
+  "title": "I'm Here! (SMS location)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.easyjp.apps.whereami",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "November 18, 2011",
+  "version": "1.4",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "2.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "leohoo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.easyjp.apps.whereami",
+  "extendedInfo": {
+    "installSize": "41k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "When receiving a location request SMS (an SMS starting with the key word), this app automatically reply with your location.Tell your family or friends the request key word, let them check your location by SMS. It's useful when your are not available to talk.Give your little child an Android phone, and you can check where he or she is whenever you want.* Location is sent by SMS. Don't need an Internet connection to use this app (an internet connection is needed if you use the url shortener). * You can enable/disable auto-reply.* You can set the preset-number-only mode, so that only the preset number can check your location.* This app only runs when received a location request SMS. Usually, it don't use memory or cpu resource because there is not background process at all. This app will not drain your battery.If you like this app, please rate it.Feel free to contact me if you have any questions/request about this app.android.wei.liu@gmail.com",
+    "reviews": [
+      {
+        "timestampMsec": "1335186487575",
+        "starRating": "1",
+        "title": ">.<",
+        "comment": "Refuses to do anything.",
+        "commentId": "lg:AOqpTOGZryyDd4hlBEgtJmKh8U6hs71SBdgHjHjsdYiUtCvoAvY-OUYnXNqnoYISOvr3XJPvLIPExXmT5DG7Xw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358620226005",
+        "starRating": "1",
+        "title": "Does nothing!",
+        "comment": "Great idea...now only if it worked.",
+        "commentId": "gp:AOqpTOGLEN5uw4eXCu-qfPkntY4VAtThCwJ4JtN3V0tn5XM-7TYwJl5ZkTIi02vouRle44uHjyv74vn1Fzct6g",
+        "author": "Scott Morris",
+        "authorURL": "http://lh4.googleusercontent.com/-T2dTpaYJgJo/AAAAAAAAAAI/AAAAAAAAAPU/s9R4a35NOeA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-T2dTpaYJgJo/AAAAAAAAAAI/AAAAAAAAAPU/s9R4a35NOeA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET"
+    ]
+  }
+}

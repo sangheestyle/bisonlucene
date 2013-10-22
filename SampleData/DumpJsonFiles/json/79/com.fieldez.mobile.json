@@ -1,0 +1,49 @@
+{
+  "title": "FieldEZ Field Force Management",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fieldez.mobile",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "June 24, 2013",
+  "version": "3.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "4.6666665",
+  "contentRating": "Low Maturity",
+  "creator": "FieldEZ Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fieldez.mobile",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "FieldEZ is a cost-effective On-Demand mobile solution that makes managing field sales or service teams very efficient and easy. With features such as service/sales call management & scheduling, calendar, message boards, time & location reporting, FieldEZ provides valuable field insights to management, ensures effective deployment of field personnel and enables them to complete their activities and reporting through their mobiles. FieldEZ provides high ROI in the shortest time with rapid implementation, easy integration and low TCO.FieldEZ caters to the Service and Sales organizations of any size. The organization can gain total control over field personnel deployment and optimize the same, ensure customer confidence through efficient and on time service, ensure field personnel commitment towards company objectives and increase revenues by eliminating missed SLAs/ billing or lapsed AMCs. Features of FieldEZ:As a service engineer, â¢ Receive customer calls/ incidents on your mobile along with complete call history with AMC details, notes on payments due etcâ¢ View all your calls on a calendar, set appointment reminders and reschedule appointmentsâ¢ Update status on calls on the go and stop wasting time filling up manual Daily activity reportsâ¢ View customer locations on map and get driving directions to the same. Plan your travel time efficientlyâ¢ Attach files / photos / videos to the call for offsite analysisâ¢ Instantly capture customer feedback & signature on the service providedâ¢ View important Messages from your organization with attachments like videos, documents etcAs a service head,â¢ Assign/schedule service calls to service personnel calls optimally with the help of their near real time location informationâ¢ View all your subordinate's calendars / schedules through your mobile and reassign calls on the moveâ¢ Broadcast rich messages to your field personnel with ease. Attach videos/ manuals / instructions to messagesâ¢ Get complete call audit with location and time stamp â¢ Track the utilization of your field personnel time â call response time, travel time, resolution time, out of office time, overtime - and correlate travel data with  reportsâ¢ Get valuable insights on how efficiently field team is deployed and improve on the same.â¢ Benefit from accurate customer service data gathered from the field with little or no burden on the field force.Also benefit from our Software-as-a-Service model and get automatic upgrades free of cost for the life of your subscription.For details of our \"Sales\" solution, please mail us at sales@fieldez.com.Please ensure that you register/subscribe at www.fieldez.com to fully use our solution. For implementation queries & other assistance, please mail us at support@fieldez.comThank you for your interest in FieldEZ!",
+    "reviews": [
+      {
+        "timestampMsec": "1311503592319",
+        "starRating": "5",
+        "comment": "good application.helped reduce my sales team travel expenses. by 18%. got service reports thru mobile itself. am. excited.",
+        "commentId": "lg:AOqpTOHGTgBXDSclt-gFZj2f7R83BuWCQe5mTJ_mm19Mrb9o2i69oV-vTBLnLS7BZ-O7Rl_r8miy_HMATozc5LM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

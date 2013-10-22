@@ -1,0 +1,40 @@
+{
+  "title": "Fine Wine",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wFineWine",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "April 4, 2013",
+  "version": "0.978",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "FineWine",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wFineWine",
+  "extendedInfo": {
+    "installSize": "223k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Connect via the mobile website of FineWineMagazine.com and its associated websites. Read our latest articles. Log in to your subscriber services. You need an internet/wifi connection to use this.",
+    "reviews": [
+      {
+        "timestampMsec": "1336646519044",
+        "starRating": "5",
+        "title": "Fine Wine",
+        "comment": "Great app. comprehensive.",
+        "commentId": "lg:AOqpTOHmwXBGYRLwoL4VKkG8Wn9Q4X-yhHP7saAVkghj-IBzAs5XofDIQw-ewH0DRwe87U8VYxXrKgYqs03-LQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wFineWine.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

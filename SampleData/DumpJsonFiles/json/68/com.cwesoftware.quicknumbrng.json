@@ -1,0 +1,229 @@
+{
+  "title": "Quick Random Number Generator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cwesoftware.quicknumbrng",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 16, 2012",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "239",
+  "rating": "4.209205",
+  "contentRating": "Everyone",
+  "creator": "CWE Software LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cwesoftware.quicknumbrng",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Generates random numbers based on a given range. Great for randomly choosing things. Need to decide who goes first? Pick a number and let the Quick Random Number Generator decide for you! Generate as many random numbers as you need at the same time!",
+    "reviews": [
+      {
+        "documentVersion": "1.3.0",
+        "timestampMsec": "1377049658642",
+        "starRating": "3",
+        "title": "Useful, but could be better",
+        "comment": "Although it is a useful app, I only give it 3 stars, because first it does not remember settings after restarting the app, second there is no way to copy the result to clipboard, and I also think its way too simple to justify apps.",
+        "commentId": "gp:AOqpTOF_bIl4TzYTjfnAOqV-oE1RtPdDDzIsQTS3NyyftyrCigMDJwIxpAM0QXThHqPsrl970BrrVi-k8GDwoQ",
+        "author": "Florian Nairolf",
+        "authorURL": "http://lh5.googleusercontent.com/-Foi2THfVlPI/AAAAAAAAAAI/AAAAAAAADOM/K1R_oDQ-fXA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Foi2THfVlPI/AAAAAAAAAAI/AAAAAAAADOM/K1R_oDQ-fXA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.3.0",
+        "timestampMsec": "1377214572797",
+        "starRating": "3",
+        "title": "Functional but ugly...",
+        "comment": "Could be a brilliant app if the random number would display big and bold at full screen. Is shaking the phone to generate an option yet?",
+        "commentId": "gp:AOqpTOFMYiGMqAbSf4aHGgn8iELvB3qqqGagmGAmzbA_Jrd5uSiddSpRIn7ZBenysJC9AeTrYaGFczJcANBXYw",
+        "author": "Ryan Heyworth",
+        "authorURL": "http://lh4.googleusercontent.com/-SXvFQBrJdKo/AAAAAAAAAAI/AAAAAAAAAFA/Gi6DI-5IkDM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-SXvFQBrJdKo/AAAAAAAAAAI/AAAAAAAAAFA/Gi6DI-5IkDM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.3.0",
+        "timestampMsec": "1348554008534",
+        "starRating": "4",
+        "title": "basic usage ok, but not configurable",
+        "comment": "I need to generate a list of unique numbers. The only way to do it seems to be to generate a longer list, and remove the duplicates myself. I\\'d also prefer to know what algorithm is used.  On the plus side, the interface is simple and easy.",
+        "commentId": "lg:AOqpTOEWXAXYioW5z4ipszNZjswcQlqbwh0wZ_syxA-aP3kA5-SajlDa8pO6hneNx-bWWWRcFwknahqrwCqfMw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.0",
+        "timestampMsec": "1355944362622",
+        "starRating": "2",
+        "title": "Giving double numbers",
+        "comment": "I like it but is getting double numbers will you please fix",
+        "commentId": "gp:AOqpTOEBihm1WkYHqwql7F_7aucwIuhb7fQOMkGdPh2HEOwuDQoDDrB_DTYFByDmJTY5u1HYQk8yhH1ocnDN7g",
+        "author": "Jesse Espinoza",
+        "authorURL": "http://lh3.googleusercontent.com/-mKLBK5uaYcc/AAAAAAAAAAI/AAAAAAAAAcA/1uxi-TLGUvM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-mKLBK5uaYcc/AAAAAAAAAAI/AAAAAAAAAcA/1uxi-TLGUvM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.3.0",
+        "timestampMsec": "1349070823859",
+        "starRating": "3",
+        "title": "Remove duplicate numbers check box",
+        "comment": "Emailed dev",
+        "commentId": "lg:AOqpTOGamlGgQUkGfrBZ6Kyi_sdn4x3ZRgyRfVaQNgWkrs4riTMzp-xd4qmEuJ8JoHT4zw8dR6Z4ZVrbhLeH0Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1332106960569",
+        "starRating": "2",
+        "title": "Not very random",
+        "comment": "Numbers seem to repeat too often. Might have a common programming mistake where the random seed is reinitialized every time, preventing you from ever moving past the first entry in three pseudo random table.",
+        "commentId": "lg:AOqpTOGwFfaCAdzfnTCXsuo5mqtlfbgAkLSvaoyW2ucP2Gz7JWczMiH2YozUFGqSglPNWK4dS2KaH_rE2xTbGg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1336077285514",
+        "starRating": "4",
+        "title": "Great!",
+        "comment": "Needs an export function and needs to not stop while the app is closed. It generates pretty fast. Takes very little room and has a ton of power. Little needs from the app and gives fun lol. Just add the 2 features and it is prefect. If there is anyway to male it faster, please do so.",
+        "commentId": "lg:AOqpTOFmHzT8vLJbzz_yQlo2osU5x9k5rmiKHSXORvrGvDh6TIrmtdRBj6LgseYVq_7AzmnI1d-dM5Q3lFfLtA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1327975336735",
+        "starRating": "4",
+        "title": "Bug",
+        "comment": "I got some really weird numbers when I entered 0 and 1.0 for the range on my DROIDX",
+        "commentId": "lg:AOqpTOE1uQrsdtlJCaHeYSSikgQJuT6eTHf1yRqCcb2X8mDwcDIzOXFPFmqNg4tWvzRuXpiX8mNLd1ygmjv6mg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1328649318051",
+        "starRating": "4",
+        "title": "Could do with an export function",
+        "comment": "This is awesome at the one basic task that it does but the programmers missed a trick by having no visible means of exporting the long list of random numbers this can generate.  That\\'s the needed feature. Other features I would like would be some extra maths functions. So support for \\'random prime numbers\\' and support for non-integers would be examples of what I\\'m talking about.",
+        "commentId": "lg:AOqpTOELAjMnbMPjhFfA8rcFaALztMkOV9vtsjS98AZRMD4r5d8PGOhwEy9FbWvWJZyaen3iRa9sypiTT971dg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1336647259991",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Fast does exactly as promised with a clear and flexible interface, not that pretty but lightweight and very effective.",
+        "commentId": "lg:AOqpTOHoTKUfLXptCN5skwYmjTHWQS-E7Hh9c8FFBWGSPd0gp6tqB8i-H4ARBpex2Es8qkbiVRWqhyNgD-Ew7A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1347748930328",
+        "starRating": "2",
+        "title": "Faar from random",
+        "comment": "It seems to have some algorithm to mimic random sequence, but it\\'s awfully repetitive. Plus, if your phone\\'s screen went to sleep, when you first tap onto \\'generate\\', after wakeup, it flashes the button like it generated a new number, but it always stays the same, unchanged. The export feature is neat though. Uninstalled.",
+        "commentId": "lg:AOqpTOGDKTrXJKdeYbr70QD_hR4zw7ms4aVYP5WoetcWnecWpYVA_XY5k87g7W-lJ60gp7gOsZVOj7pfT-IDjw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1328474281574",
+        "starRating": "5",
+        "comment": "Simple. Good",
+        "commentId": "lg:AOqpTOEGPOrCSP4aT_Hz9KAVIV6bt-ocN-c7wAQMtHPqIoG7hsFN_Id4_vLV0Xl9Lr6Iwt2THKdC5389WGsNHg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1339729301845",
+        "starRating": "5",
+        "title": "K.I.S.S.",
+        "comment": "Not fancy or flashy, but it gets the job done perfectly.",
+        "commentId": "lg:AOqpTOECPODvN8Xkse6XYQV7jgQhVj_wyQq-1blUL5uiJ-eF5Djr3_RbkEKA0qOxP4hZq2tMjOOdm9CEiCob2A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1332889027077",
+        "starRating": "4",
+        "title": "Does the job",
+        "comment": "Picks random numbers. Enough said! Xperia S is awesome for the record.",
+        "commentId": "lg:AOqpTOHcaxSAeC1z2IkatYO8TbZ9cFBQyKtI4X0a5f6MrOzR9ljE-fDd-qW5XEmhW-MyvLoArcZteLEZdcFHoQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1347018858046",
+        "starRating": "4",
+        "title": "Does the job, many numbers",
+        "comment": "Havnt tested the true randomness, but seem random enough. If using for Keno, beware some combos have duplicate values, ex:3,45,77,1,45 for 5 spots.",
+        "commentId": "lg:AOqpTOGNah6l-q3M1_vlzc-Itm81tuJAyf1x_zNDK0H8CHJOp_z-CbxXOwBZw0GgUdSvMM4CToSs11WYi68N8Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1345696325142",
+        "starRating": "5",
+        "title": "Excellent App",
+        "comment": "Superb! I like it. :)",
+        "commentId": "lg:AOqpTOFNms-Tz0w198pqZGsMsgl5xRJcNYGB5b4INphRcoPQ1Os3u0gs_3qdM4TcHb1Z-4t4UWgmzd9anwy3GA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1333645600893",
+        "starRating": "3",
+        "title": "Same numbers",
+        "comment": "Clean and simple. I just wish there was an option to only use a number once in the result.",
+        "commentId": "lg:AOqpTOHVeD-QqvIb_9CXhl-vbMLbd1A6cb2xbYSq1yvU-0K1CMENh_EBJNmuRquHalWonQ_FQ61W2qLUxcKvhA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1336148285449",
+        "starRating": "5",
+        "title": "Very nice",
+        "comment": "Does what it says",
+        "commentId": "lg:AOqpTOHEkNW_T8wsOG7rcGugbaK9cqD8H90a8NW921aG1SudM6mvJDf2hwEawbNZ11tvpFa4K7GJ53lfLhbxeg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1335696329925",
+        "starRating": "3",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOG7ddypIxLFYC00WkUsk9nxwpY31PcOdGBMxy3fNr7mQIkxFYgAdaXESJYmdgAFbOqHqILu5cr_AGxDYg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1331786166611",
+        "starRating": "4",
+        "comment": "Nice and simple",
+        "commentId": "lg:AOqpTOEccee2CSEMZG_UihH8OiiQB7X-JcpzXhwXADehFzcMWmzoBxYsGgwqJgaJAXMWLuQO3gYmifXLu5CQQQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

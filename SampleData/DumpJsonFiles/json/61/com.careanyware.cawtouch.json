@@ -1,0 +1,60 @@
+{
+  "title": "CareAnyware Communicate",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.careanyware.cawtouch",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "April 25, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "CareAnyware Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.careanyware.cawtouch",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "CareAnyware Communicate is a mobile app for CareAnyware users that streamlines communications between the front office and your clinicians in the field. When patient issues arise or you have concerns about regulatory compliance, you can address them instantly with everyone reading and responding to the same string of communications, and important information can be integrated directly into the patientâs medical record. Best of all, Communicate is completely HIPAA compliant.Benefits:   ï¼\tImproves patient care   ï¼\tBetter meets compliance needs   ï¼\tQuick resolution of billing questions   ï¼\tPatient communication is HIPAA compliant",
+    "reviews": [
+      {
+        "timestampMsec": "1350196003978",
+        "starRating": "5",
+        "title": "Update needed",
+        "comment": "No support for Samsung galaxy s 3",
+        "commentId": "lg:AOqpTOEcI6bF97aDHhdo-J1wnzk0LfDKEjSAX4mIoBn9fFXUqsOGGTPFDXUpA8SSc1uSsxis0GN7NeuwzVsY3A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334155751335",
+        "starRating": "4",
+        "comment": "Very helpful.",
+        "commentId": "lg:AOqpTOEPdQgJ3GYyYAZcq_y22JXOKcdTmjw1crGBHTWrHhYXttYJI8iyGwO-2ADtYa4S5JxfkccsCuBy-Kklbw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.careanyware.cawtouch.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

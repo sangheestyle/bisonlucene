@@ -1,0 +1,60 @@
+{
+  "title": "SMART Video Pro:Movie,Subtitle",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edicon.video.full",
+  "category": "Media & Video",
+  "price": "$1.99",
+  "datePublished": "June 1, 2013",
+  "version": "2013.0601",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "27",
+  "rating": "3.7037036",
+  "contentRating": "Everyone",
+  "creator": "EDICON",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edicon.video.full",
+  "extendedInfo": {
+    "installSize": "8.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "â The SMART Video is All-In-One video player ââ  SMART Video Features   -Easy   UI: Auto Landscape/Portrait, Gesture UI   -Easy Script: List Script for Learning   -Add-On: Equalizer, Speed, Bookmark, Repeat, Auto Translatorâ  Video UI   -Auto Landscape and Portrait   -Screen Size: Full/Half/Hideâ  Audio UI   -Five Band Eqalizer   -Audio Visualizer   -Preset, Reverb, BassBooster, etcâ  Script UI   -Line, List and Learning Script   -Gesture UI for Script Control   -Wordbook, Auto Translator, Share and etc.â  Internet UI   -Intenet: Portal, Dictionary and SNS   -Browser Size: Half/Fullâ  Gesture UI   -Single Click: Hide/Show Control Bar   -Double Click: Repeat   -Up/Down Drag: Next/Prev Script   -Left/Right Drag: Hide/Show Menu Bar   -Script Click: Sync and Move to Scriptâ  Learning UI   -List Script: Direct Search and Index   -Repeat: Double Click   -Wordbook and Flash Card   -Auto Translator:English, Chineses, Japanese, French, Arabic and More.   -Auto Bookmarkâ  For More Info.   -Home: http://www.edicon.net   -Blog:   http://smartvideoblog.wordpress.com/[Search]SMART Video, video, movie, animation, SMART TED, Subtitle, caption, edicon",
+    "reviews": [
+      {
+        "timestampMsec": "1376330580730",
+        "starRating": "4",
+        "title": "Amazing but slow",
+        "comment": "Spanish translation is amazing. Slow to load and translate then good performance. Help is not clear. Experiment to see how it works. Previous reviewer needs to run the pro app and not the free one.",
+        "commentId": "gp:AOqpTOES5WG-t9S82IMQJ17_Skln957R9VOZMEXBy8h-7coiI2aez0ap8eXQsA0dmg1-IONx-BLgbMpa0aieQWc",
+        "author": "Dotty Storer",
+        "authorURL": "http://lh4.googleusercontent.com/-1jD_zNtL-tw/AAAAAAAAAAI/AAAAAAAAAGc/KydnxGnCZxU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-1jD_zNtL-tw/AAAAAAAAAAI/AAAAAAAAAGc/KydnxGnCZxU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1307245987190",
+        "starRating": "1",
+        "comment": "It keeps tellin me to buy the full version cannot see product license and i already bout it and it won\\'t play my videos",
+        "commentId": "lg:AOqpTOHO7K-esnVzv3r1uX6qZX4dZx0C2FIcjqSbV6w7NkHKDN1B6L2XscIP0oN4UxCtw-1-XviCSeGM91sbltY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.GET_TASKS",
+      "com.edicon.video.full.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

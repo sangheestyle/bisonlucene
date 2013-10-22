@@ -1,0 +1,40 @@
+{
+  "title": "APS April Meeting 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.apsapril2012",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "March 30, 2012",
+  "version": "2.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.apsapril2012",
+  "extendedInfo": {
+    "installSize": "6.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Official app of the American Physical Society April Meeting in Atlanta, Georgia. The app contains the scientific program, maps, a personal scheduler, and more!",
+    "reviews": [
+      {
+        "timestampMsec": "1333067424659",
+        "starRating": "5",
+        "title": "Works",
+        "comment": "Has everything you need.",
+        "commentId": "lg:AOqpTOEVPbTiG-RN5sl5LlD43z-cLLixhxNwXMQT8pRLJhmNelvoD-BZOrjx0B8x5xZ9VT9u6lLoR0fyvks-k7k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

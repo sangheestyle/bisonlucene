@@ -1,0 +1,53 @@
+{
+  "title": "Future Text",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cybernetikz.future.text",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "February 14, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "CyberNetikz",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cybernetikz.future.text",
+  "extendedInfo": {
+    "installSize": "461k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Future text is a very nice & useful text scheduling app for sending short messages with chosen frequency. This fabulous app simplifies your text scheduling sending date, desired text delivery time and customized or pre-defined message and set your text schedule for birthday, anniversary or any other occasions for your friends and families. Day by day we are getting so much busy that itâs so hard to remember all our important occasions for our loved ones and sometimes forget to wish him or her timely. For this reason, Future Text comes handy if you want to schedule your wish with desired short message and date, then it would be very effective for you.Some great features of Future Text:-1)\tAdd text recipient from contact or add directly.2)\tEasily set schedule date and time from drop-down menu.3)\tFlexible time & date set up options for any time you want to schedule your text.4)\t11 pre-defined text templates included for your convenience.5)\tHistory of scheduled  text and sent text are listed separately for easy understanding.6)\tStatus bar notifications prompted for sent text and delivery reports.Future Text is a simple to use app for every android enthusiasts who are searching for new and exciting apps for their devices. This is not a memory hungry app either which some users complain about other apps and suitable for all old and newest version of Android available on the market now. Download Future Text for tex scheduling from google Play and share your thoughts and feedback.contact@cybernetikz.com",
+    "reviews": [
+      {
+        "timestampMsec": "1360906357184",
+        "starRating": "5",
+        "title": "Excellent app",
+        "comment": "Just awsm app.enjoying smoothly.",
+        "commentId": "gp:AOqpTOHsyvVB47QKqczWWmKrFyzpBb1V2A7sC-hBYlpi0YLegZlJRE3hJWwGwmrCIa08bhk_ppnf_lp4ezrA-QE",
+        "author": "Imran Khan Chayon",
+        "authorURL": "http://lh5.googleusercontent.com/-PR3N53O4tyI/AAAAAAAAAAI/AAAAAAAAAA4/CxV_-mcBkBI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-PR3N53O4tyI/AAAAAAAAAAI/AAAAAAAAAA4/CxV_-mcBkBI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368448888599",
+        "starRating": "1",
+        "title": "Poor",
+        "comment": "Not a specific time option",
+        "commentId": "gp:AOqpTOE7Ea5hWrzhqBFSSLZg7BGzSHKL7V2P51jXRyUxIfsQZLA_yygxeaiRHGdeqJnY-_i94IK6ORYW128H0lg",
+        "author": "Luke Jensen",
+        "authorURL": "http://lh3.googleusercontent.com/-ec4N5n70UTE/AAAAAAAAAAI/AAAAAAAAAF4/193LR--gYpM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ec4N5n70UTE/AAAAAAAAAAI/AAAAAAAAAF4/193LR--gYpM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

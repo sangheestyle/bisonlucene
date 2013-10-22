@@ -1,0 +1,30 @@
+{
+  "title": "Dice Cup",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dicecup",
+  "category": "Cards & Casino",
+  "price": "Free",
+  "datePublished": "January 21, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Rasmus Gilbert",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dicecup",
+  "extendedInfo": {
+    "installSize": "721k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "A simple dice cup with one to four dices.If connected to another device through bluetooth you can play the classic game Liar's Dice.Liar's Dice is a game of bidding and bluffing and playing your dices well requires the ability to deceive and detect an opponents deception.Each round, each player roll their dices under their cup and looks at their new hand while keeping it concealed from the other players. The first player begins bidding a quantity and a face, guessing the total number of dices on table showing that face. The 1s are wild and count as the face of the current bid.The next player has two choices during his turn: Make a higher bid, or challenge the previous bid. Raising the bid means either increasing the quantity, or the face value.Play continues until a player calls a challenge, at which point all dices are revealed. If the last bet was correct (there were at least the number of dices with the chosen face), then the last bidder is allowed to remove a dice. Otherwise the player calling the challenge is allowed to remove a dice.The first player to remove all dices are the winner.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

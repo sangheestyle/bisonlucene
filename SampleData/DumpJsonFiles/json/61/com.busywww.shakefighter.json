@@ -1,0 +1,58 @@
+{
+  "title": "Shake Fighter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.busywww.shakefighter",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "June 13, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "25",
+  "rating": "3.08",
+  "contentRating": "Everyone",
+  "creator": "Busy WWW",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.busywww.shakefighter",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Augmented Reality Rock Scissor Paper ApplicationSimple and fun AR game for the all ages.Play Rock Scissor Paper game with your real hands against mobile devices.It has dual game mode, AR and classic modes.Both modes are available during the game play.How to play?1. Place your device camera over plain colored background.(note: try to choose high contrasted background over your hand color; darker or very lighter than hand color)2. Start by touch Ready (or Round#) over camera view.3. Shake your hand (or shake device), slightly and keep your hands inside camera ring.(note: when shake hand, try to keep camera still; and vise versa for device shaking and keep hand still during the shake)There are few shake modes which could be used for AR mode game; hand shake methods and device shake methods.To find best shake methods of your background and surround light conditions, it is recommended that start with Training Mode.Shake play results are varied by it's background color and light conditions.With training mode, you could find best shake methods to play with it.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1327114714863",
+        "starRating": "1",
+        "title": "Awful",
+        "comment": "Reads hand signs wrong EVERY time. Uninstalled.",
+        "commentId": "lg:AOqpTOEhOF7oihzQBl_5g93-5jAFjxzzYu5T3YAVFfAE7KUS56ScyNsLWTmOwIsMXILbYWOJoyjDBpASPZhSYg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1334498499279",
+        "starRating": "1",
+        "comment": "Really bad don\\'t download",
+        "commentId": "lg:AOqpTOHfNWxXv8SB-K-HOdG1Z-7xeZ7lW4yYqA30oiVT_lubX6QRx9vvJsqdcwzjEU8vnXSbXyEzlA-L0Yl2EQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374741631466",
+        "starRating": "1",
+        "title": "Terrible",
+        "comment": "Very terrible",
+        "commentId": "gp:AOqpTOFLAKLEGTnJzdQzJNvfyKi1W26fDgmhjW78Mjt5fxP4Kl8pEI2IN1bwv2THjdWGTIBJ8UpV7Klal6YugA",
+        "author": "Sean Donnelly",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

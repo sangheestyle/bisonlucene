@@ -1,0 +1,34 @@
+{
+  "title": "Push Send Receive",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bzzapps.pushsendtest",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 28, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "BzZ Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bzzapps.pushsendtest",
+  "extendedInfo": {
+    "installSize": "9.7M",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "Push Send Receive",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.bzzapps.pushsendtest.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

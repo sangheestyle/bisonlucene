@@ -1,0 +1,41 @@
+{
+  "title": "My info for old",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.darkpain.myinfoold",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 28, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "DarkPain",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.darkpain.myinfoold",
+  "extendedInfo": {
+    "installSize": "251k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "My info is a small but very useful program! With that application you can see almost all the useful information about your smart phone!Hardware information,software,network,memory and much more!!! Download it now to see YOUR INFO!!This is the same application for older versions with less information.(1.5-2.1)",
+    "reviews": [
+      {
+        "timestampMsec": "1350276103095",
+        "starRating": "5",
+        "title": "telia",
+        "comment": "file ta app sou den pezonte",
+        "commentId": "lg:AOqpTOG1ZflxAPuSsb7yTPquEp1Qxy8koni0aQhefCW0Zb9DBAggTWZcdnjnd5Rt7D_vBndcI__AlL0TjzmmnA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

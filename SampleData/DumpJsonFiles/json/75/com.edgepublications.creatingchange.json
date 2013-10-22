@@ -1,0 +1,36 @@
+{
+  "title": "Creating Change",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edgepublications.creatingchange",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "June 26, 2013",
+  "version": "1.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "EDGE Publications Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edgepublications.creatingchange",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Welcome to the official mobile app for Creating Change! This app is a joint development of The National Gay and Lesbian Task Force and EDGE Media Network. This app provides everything you need to enjoy Creating Change, right on your mobile device!News :: Stay connected with Creating Change through the news component. Featuring stories about Creating Change, as well as the latest headlines about the LGBT community and relevant events, you have everything you need to stay up-to-date with the most current news stories and happenings.Events :: Check out all the events happening around the Creating Change conference in Atlanta with our comprehensive list.Photos ::The photos component includes official photos you can flip through, uploaded by the Creating Change team.Sponsors :: We want to thank all of our Creating Change sponsors for all of their support.Schedule :: With all of the Creating Change Conference workshops and activities, you will want to know when and where everything is taking place. Let our rolling conference calendar be your own personal agenda.Presenters :: Creating Change is fortunate enough to have the best of the best presenting at the conference in Atlanta this year. The presenters feature will offer you photos and bios of each of the conferences' presenters.Topics :: Creating Change covers a lot of topics from AIDS to Youth - get a comprehensive list here, then tap on a topic for a list of events related to it.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.edgepublications.creatingchange.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

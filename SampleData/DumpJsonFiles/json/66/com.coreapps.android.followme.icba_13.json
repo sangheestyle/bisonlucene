@@ -1,0 +1,52 @@
+{
+  "title": "ICBA National Convention 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.icba_13",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "March 13, 2013",
+  "version": "4.2.3.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.icba_13",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The ICBA National Convention & Techworld is the largest gathering of bankers in the U.S. and is the only convention devoted solely to the needs of Americaâs independent community bankers. National experts and industry leaders converge to offer the most current information, insights and trends affecting community banks. World-class education on everything from lending to technology to marketing and virtually every topic in between will keep you ready for the challenges and opportunities in the coming year. Network with your fellow community bankers from around the country at social events and enjoy recreational activities. Discover the latest products and services available from more than 220 companies at Techworld, the largest trade show for community banks in the world! The membership driven Independent Community Bankers of America is proud that you are taking part in a convention that is both unprecedented and monumental.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.icba_13.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

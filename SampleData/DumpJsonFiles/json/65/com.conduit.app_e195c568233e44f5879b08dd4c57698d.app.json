@@ -1,0 +1,64 @@
+{
+  "title": "Union Leader News",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_e195c568233e44f5879b08dd4c57698d.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "July 26, 2012",
+  "version": "1.2.7.145",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Union Leader",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_e195c568233e44f5879b08dd4c57698d.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Connect with New Hampshire's largest newspaper on your mobile device.  The Union Leader news app lets you see the latest headlines and keep up with the New Hampshire Union Leader's latest tweets and Facebook posts all in one place.",
+    "reviews": [
+      {
+        "documentVersion": "2.7.145",
+        "timestampMsec": "1360418479352",
+        "starRating": "4",
+        "title": "Nice clean application. Needs more content.",
+        "comment": "Works very cleanly on Galaxy tablet with Jelly Bean.  As a subscriber I would like to see more content, e.g. op-ed but I believe that will come as the application matures.",
+        "commentId": "gp:AOqpTOHdXHr3FXR2l4XCp9sgU_zwaPtH1C7i-FP_VXqjNHRKexD-s4_lYYyCtV-ao3EqlOhCsWXcPFPwymhKJw",
+        "author": "Philip Munck",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351646104042",
+        "starRating": "1",
+        "comment": "Does not work on my LG Optimus V",
+        "commentId": "lg:AOqpTOFlGzmF1i13X5htNKHwIOxhpeb_5Od5pLMy2SdD-xuVG_bPOCjH6-stDUQa-qahWxin6SfH9-SSRyvnsA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367559423069",
+        "starRating": "1",
+        "title": "Nothing!!!",
+        "comment": "Shows app name, and nowhere to go. Removing app.",
+        "commentId": "gp:AOqpTOFnSNVSMEhMV6w7LIkJ7UoBaW7tZcfg-0CMnYu5JL_pzoYpeS8kbX8mraHs3EFD3ZCZuMVHLaGXA6PUXw",
+        "author": "Robert De Gange",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_e195c568233e44f5879b08dd4c57698d.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

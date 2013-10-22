@@ -1,0 +1,49 @@
+{
+  "title": "2012 ASCLS Annual Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ascls2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 6, 2012",
+  "version": "3.1.9",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ascls2012",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "ASCLS is the largest non-physician professional membership association in the U.S.  It has 10,000 members in ten geographical regions throughout the country.  ASCLS, formerly the American Society for Medical Technology (ASMT), was founded in 1932 as the American Society of Clinical Laboratory Technicians, to promote the clinical laboratory profession.  ASCLS celebrates its 80th year at the Annual Meeting and Clinical Lab Expo in Los Angeles, CA.  Attendees can register to attend workshops, scientific sessions, poster presentations, build a network of colleagues by attending the meeting, and view cutting edge technology at the largest laboratory expo in the world.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

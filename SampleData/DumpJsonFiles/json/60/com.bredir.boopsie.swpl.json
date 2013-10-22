@@ -1,0 +1,52 @@
+{
+  "title": "Southwest Public Libraries",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.swpl",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "January 15, 2013",
+  "version": "4.5.92",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.swpl",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Search for books, movies, and more from your mobile device. You'll be amazed how easy it is to renew your items, check your account, look up the library's hours and locations, and find upcoming events! Download e-books and audiobooks, and follow SPL on Facebook and Twitter. You can even scan any book to see if the library owns it.Keep Southwest Public Libraries at your fingertips with this useful app and experience your library in a smart new way!",
+    "reviews": [
+      {
+        "documentVersion": "4.5.92",
+        "timestampMsec": "1375392803195",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Works great",
+        "commentId": "gp:AOqpTOFxjsrWnNwPKqSNwp9f10cfLAN3vUYW_p0OiFmw9So9XO9xrfXTfadb-0yHLRmH8vqddhYIxVx9BYa_5w",
+        "author": "Adam Walker",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.92",
+        "timestampMsec": "1361730619151",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Very convenient!",
+        "commentId": "gp:AOqpTOGFegCJJGxIRDr61UC36f1Ns5Tl2LF-0savJXbka0fdjOIiGu-XD1HOQQitVFx4AzxJgfEcc3rv_5B9TQ",
+        "author": "Victoria Kay",
+        "authorURL": "http://lh3.googleusercontent.com/-dYNdoH1DglA/AAAAAAAAAAI/AAAAAAAAAA8/TdGk3DysLo4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-dYNdoH1DglA/AAAAAAAAAAI/AAAAAAAAAA8/TdGk3DysLo4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

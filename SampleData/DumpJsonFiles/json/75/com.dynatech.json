@@ -1,0 +1,43 @@
+{
+  "title": "Unit Converter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dynatech",
+  "category": "Tools",
+  "price": "$1.00",
+  "datePublished": "March 16, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "4",
+  "rating": "3.5",
+  "contentRating": "Not rated",
+  "creator": "DynaTech Software LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dynatech",
+  "extendedInfo": {
+    "installSize": "39k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Use the Unit Converter to convert one measurement into another by selecting from 40 different preloaded types including length, mass, force, volume, inertia, area, charge, and clothing sizes.  Special features include the ability to add additional units and unit types as well as performing reverse calculations to save time.",
+    "reviews": [
+      {
+        "timestampMsec": "1277152071911",
+        "starRating": "1",
+        "comment": "Auto rotation resets everything, can not see what the conversion is at the bottom b/c the key board dose not close. Needs some up dates",
+        "commentId": "lg:AOqpTOFHsvyYJrqRaMT8dedibdLQ82zreEEDVPi26cj3L-jgKOnqjsbd48fk44hm05GsuWIWhentwTs68IQMhg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1280893864192",
+        "starRating": "5",
+        "comment": "This is a fantastic app! As a teacher, I look forward to using this when teaching conversions. This is a very thorough app with tons of options!",
+        "commentId": "lg:AOqpTOEHUxzN6EGYdnFUDfxTbPt4j1yPCWcPEgNXMfJB5inhZ_89H9fLfOvOAWsXsen3ssGeox44n-lrSsIwNA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

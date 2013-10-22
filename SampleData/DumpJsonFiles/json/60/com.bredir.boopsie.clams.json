@@ -1,0 +1,41 @@
+{
+  "title": "CLAMS Libraries",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.clams",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 2, 2012",
+  "version": "4.5.90",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.clams",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Finding information is faster with the CLAMS Libraries mobile app. Join CLAMS' mobile community now to place materials on hold, renew borrowed items, find CLAMS libraries and hours, and download e-books, e-audio and video through Overdrive in one step. The mobile app has a great new way to search: just type the first couple of letters of words. To find titles by James Patterson simply type \" ja pat\". Use your mobile device to scan the ISBN bar code of any book in a store and the CLAMS Libraries mobile app will automatically scan the CLAMS catalog for the title and place a hold on it if it is in the collection. The CLAMS Libraries mobile app provides Instant Information Anytime.",
+    "reviews": [
+      {
+        "documentVersion": "4.5.90",
+        "timestampMsec": "1352328587060",
+        "starRating": "3",
+        "title": "Buggy",
+        "comment": "I would rate the application higher but it does not seem to be able to take requests. It asks you to pick a location, then brings you to the login page, after you log in it asks you to pick a location and when you do (again) it asks you to log in (again).",
+        "commentId": "lg:AOqpTOE4YDp3uMEFepUsqxEfcJi9JwWYS90iJTyEbwtYKXJWo52kPagRMamdcap-TRJBGMiwyphRIdDa75fBWw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

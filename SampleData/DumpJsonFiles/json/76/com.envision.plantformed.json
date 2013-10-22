@@ -1,0 +1,39 @@
+{
+  "title": "Plants For Medicine",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.envision.plantformed",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "April 2, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Pillar Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.envision.plantformed",
+  "extendedInfo": {
+    "installSize": "16M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "A list of plants that have been used as herbal medicine.  Contains various types of herbs and itâs uses .AcaiAlfalfaAloe veraArnicaAsthma weedBarberryBelladonnaBilberryBitter gourdBitter YamBitter orangeBlack cohoshBlessed thistleBlueberriesBurdockCat's clawCayenneCeleryChamomilleChaparralChasteberryCinchonaCloveCoffee sennaComfreyCranberryDandelionDigitalisDong quaiElderberryEphedraEucalyptusEuropean MistletoeEvening primroseFenugreekFeverfew FlaxseedGarlicGingerGingkoGinsengGoldensealGrapeGuavaHawthornHoodiaHorse chestnutHorsetailJamaica dogwoodKavaKhatLavenderLemonLicorice rootMarigoldMarsh mallowMilk thistleNeemNoniOreganoPapayaPeppermintPurple coneflowerPassion FlowerRed cloverRosemarySageSt. John's wortSaw palmettoTea tree oilThunder God VineThymeTurmericValerianYerba santa",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.envision.plantformed.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

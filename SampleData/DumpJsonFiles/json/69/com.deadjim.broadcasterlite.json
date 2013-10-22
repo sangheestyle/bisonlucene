@@ -1,0 +1,37 @@
+{
+  "title": "Happy Diwali",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.deadjim.broadcasterlite",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "March 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Dead Jim Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.deadjim.broadcasterlite",
+  "extendedInfo": {
+    "installSize": "166k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "AUTOMATIC Scheduled Group Texting! Create custom groups and messages, schedule the send time and Broadcaster does the rest! Set it and forget it! Broadcaster is group texting made easy and automatic!Use broadcaster to:*Save time by creating groups and template texts *Create custom groups of people (soccer team, poker friends, etc)* Send texts to groups of people!* Create templates for messages you send often!* Schedule when texts are sent (automatically)!This app is huge time saver! The uses are endless:* Stay out too late? Set Broadcaster to text your boss that you're sick at 7am and sleep in* Text your kids \"Remember to do your homework!\" at 4pm each day* Text your Wife or Girlfriend something nice, AUTOMATICALLY* Text your roommates to \"Remember to clean the house\"* Organize Flash-mobs!",
+    "reviews": [
+      {
+        "timestampMsec": "1312573319581",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Very useful love it, look forward to new versions.",
+        "commentId": "lg:AOqpTOHxRhtKbnjwZZ94s6TSzYX-t5s9GYlTXdLJe4nEF2aLkJMZVtCMlt34Xy-nGwSEGZyErAIcL6W2Ue5uqw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.SEND_SMS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

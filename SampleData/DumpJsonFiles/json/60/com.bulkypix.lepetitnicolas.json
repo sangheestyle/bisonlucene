@@ -1,0 +1,42 @@
+{
+  "title": "Little Nick: The Great Escape",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bulkypix.lepetitnicolas",
+  "category": "Arcade & Action",
+  "price": "$0.99",
+  "datePublished": "August 27, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.0.1 and up",
+  "ratingsCount": "8",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "Bulkypix",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bulkypix.lepetitnicolas",
+  "extendedInfo": {
+    "installSize": "31M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Lâadaptation officielle de la sÃ©rie animÃ©e Le Petit Nicolas arrive enfin sur Google Play ! Le Petit Nicolas a encore fait des bÃªtises ! Aidez-le Ã  sâÃ©chapper le plus vite possible sur son vÃ©lo avant que Le Bouillon ne lâattrape. Parcourez les diffÃ©rents quartiers de la ville (la zone pavillonnaire, le centre ville et le terrain vague) et rejoignez Le Petit Nicolas et tous ses amis dans cette course folle ! Alors en selle pour cette drÃ´le de course !! FEATURES â Course infinie Ã  travers la ville â Evitez de nombreux obstacles comme des bouches dâincendies, des Ã©chelles et tous les autres dangers de la route ! â DiffÃ©rents Power-Ups  â Nombreuses missions et challenges mensuels â DÃ©bloquez les amis du Petit Nicolas (Alceste, Eudes, Rufus et Louisette) â Des costumes et des vÃ©los dÃ©lirants pour personnaliser vos hÃ©ros prÃ©fÃ©rÃ©s -------------------------------- CURIEUX ? Plus dâinfos sur: bulkypix.com facebook.com/bulkypix twitter.com/bulkypix youtube.com/Bulkypix",
+    "reviews": [
+      {
+        "timestampMsec": "1371823146364",
+        "starRating": "5",
+        "comment": "Excellent!",
+        "commentId": "gp:AOqpTOFr6gfkM_8tayVaOUDlbohCKisU0PBHksYTdAxNTJgdlPxi67Zz5LQdkzfjVfjtlRZ7sMA_8OYtIndTMQ",
+        "author": "Thomas Padovani",
+        "authorURL": "http://lh4.googleusercontent.com/-KUkx6QcbO9w/AAAAAAAAAAI/AAAAAAAAARQ/SIvLcEm6HC8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-KUkx6QcbO9w/AAAAAAAAAAI/AAAAAAAAARQ/SIvLcEm6HC8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

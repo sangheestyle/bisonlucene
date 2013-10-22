@@ -1,0 +1,46 @@
+{
+  "title": "Medicare Eligibility",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cortex.edi.screen",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "May 31, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cortex EDI, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cortex.edi.screen",
+  "extendedInfo": {
+    "installSize": "964k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Real Time Medicare Eligibility Verification Verify your patient's Medicare Eligibility quickly, easily, and inexpensively through our Medicare Eligibility Android  App.  What is Real Time Medicare Eligibility Verification? Real Time Medicare Eligibility Verification is a fast and secure method to instantly retrieve patient insurance information including: Coverage Information - Use Cortex EDI Real Time Medicare Eligibility Verification to get information about services for Medicare patients. You will receive Medicare Part A and Medicare Part B Entitlement/Term Dates Patient Information - Retrieve patient information including patient address based on Medicare's records. Primary Insurance Information - Find out the primary insurance information if Medicare is the secondary payor. Deductibles - Get the Medicare Part A Deductible and Medicare Part B Deductible amounts applied per year. Hospital Data - Get Hospital Days Remaining and Hospital Coinsurance Days Remaining.Skilled Nursing Facility Data - Retrieve Skilled Nursing Facility Days Remaining and Coinsurance Days Remaining. Home Health and Hospice Data - Find out if your patient has had a Home Health Episode, or a Hospice Episode, and the dates of those episodes. Also gives information about the Payer for those episodes. Medicare Part D Data (Pharmacy) - Receive patient's Pharmacy Plan Name, Contract Number, Plan Number, Phone Number and Enrollment/Dis-enrollment Dates. Medicare Secondary Payer and Medicare HMO Data - If patient has Medicare Secondary, or HMO Plan, you will see the Plan Name, Contract Number, Plan Number, Phone Number and Enrollment/Dis-enrollment Dates. Physical, Speech, and Occupational Therapy Data - Find out the patient's cap amount for Physical and Speech Therapy, and Occupational Therapy. Updated Medicare Insured ID - Receive Patient's updated (current) Medicare Insured ID when submitting patient's old Medicare Insured ID .",
+    "reviews": [
+      {
+        "timestampMsec": "1361477288138",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Excellent! Great app! Very useful",
+        "commentId": "gp:AOqpTOHBSel_kze35Hxi0uOJgYii7kJTvT0imY_j0VyweEpBEsFXTIyWEBq30HocLd8AFCrKukFlG7einTy_rZg",
+        "author": "Nir Modiano",
+        "authorURL": "http://lh4.googleusercontent.com/-OZiWxb6yQac/AAAAAAAAAAI/AAAAAAAAbYY/ydjbcurNQgE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-OZiWxb6yQac/AAAAAAAAAAI/AAAAAAAAbYY/ydjbcurNQgE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CLEAR_APP_USER_DATA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

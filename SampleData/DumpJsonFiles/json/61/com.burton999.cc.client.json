@@ -1,0 +1,94 @@
+{
+  "title": "ComicCafe - C/S Comic Viewer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.burton999.cc.client",
+  "category": "Comics",
+  "price": "Free",
+  "datePublished": "August 17, 2013",
+  "version": "0.5.25",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "39",
+  "rating": "4.3589745",
+  "contentRating": "Everyone",
+  "creator": "burton999",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.burton999.cc.client",
+  "extendedInfo": {
+    "installSize": "3.5M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "ComicCafe is image/comic streaming viewer that adopts the C/S model.This application is for a person who has many book files.ComicCafe can read books that saved on your server directly.You can save storage space because any file is not saved your android device.The ComicCafe has feature that be able to manage book files.You can categorize book according to authors, publishers, and tags.ComicCafe works even on low spec device comfortably because all processing to image are processed by server side.The usage is as follows.1.install server application into your PC(windows or Mac OSX or Linux).    *requires the JRE 6.0 to run server.2.access the management screen and import your comic file(zip or rar or etc..).3.install this application into your android device and configure server setting.4.you can search comic and read it.You cannot use this application, if applicable following.1.don't have WIFI at home.2.don't have PC to use as the server.3.cannot set up the JRE and server application properly.Support archive file format: CBZ/ZIP,CBR/RAR,7Z/CB7,LZH,PDFSupport image file format: JPEG,PNG,GIFIf you have many many book files, I think this application is very useful.You can read books from internet via 3G/4G connection, If you publish a server to the internet.I'm not sure it is legal.Please follow the laws of the your country.This application is a version of beta.If you find bugs, please send me mail.Currently, following features are implemented.--Server*Account management*Scan ISBN from image*Search books information from web service by ISBN.*Basic Authentication--Client*Bookshelf*Search books by directory*Search books by author*Search books by publisher*Search books by tag*Search books by keyword*categorize books by tag*Support zip in zip*Display cover image*Support password zip*Auto single page (split page)*Auto dual page (merge pages)*Trim whitespace*Adjusts image contrast*Sharpen image*Reading History*Bookmark*Slideshow*Management reading history*Show book at random*Download a file for reading book by other viewer.*Assign function to touching screen.*Assign function to hardware key.Download ComicCafe Serverhttps://box.yahoo.co.jp/guest/viewer?sid=box-l-x72s75qsq7lhxe6c5j76x6dmiu-1001&uniqid=b62bb530-12a5-4564-b28d-f2385c51bdfeHow To Use Descriptionhttp://w.livedoor.jp/comiccafe/Please submit your review for Motivate Me.Thanks",
+    "reviews": [
+      {
+        "documentVersion": "0.5.21",
+        "timestampMsec": "1369684821986",
+        "starRating": "4",
+        "title": "Awesome!",
+        "comment": "Wish you could view comics via web browser too. ( for any device not only android )",
+        "commentId": "gp:AOqpTOHkAeBmQnluoLcwWaY6jCiEikoQZsEAKN8l1CF7lzDp14Yc67EyIZWon05W7bKGHDqrjA-KU6wMOmc5n24",
+        "author": "Chad Essley",
+        "authorURL": "http://lh3.googleusercontent.com/-RdlNP530Yo0/AAAAAAAAAAI/AAAAAAAAKfw/LYpuo-NDi48/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-RdlNP530Yo0/AAAAAAAAAAI/AAAAAAAAKfw/LYpuo-NDi48/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.18",
+        "timestampMsec": "1367921259624",
+        "starRating": "5",
+        "comment": "Awesome app, easy to use and set up.",
+        "commentId": "gp:AOqpTOGzrXllQb0uFMEbwFob7e9ipyC-8AYewEJ8dsolKpHt01DNbeWbZa6kLNG9_yF_tt1mo7jZ25uAVz3UHRg",
+        "author": "Scott Neilson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.13",
+        "timestampMsec": "1362957736296",
+        "starRating": "5",
+        "title": "Things awesome",
+        "comment": "I love it",
+        "commentId": "gp:AOqpTOH7KOdrNIcAmZ3YSXCys_rZ1H_P9Icsdh-G1dgjlmHla70TbOs0Gh5FfeqG3HlO-e20vmnmwzEYNsqvRWw",
+        "author": "Jeremy Lowry",
+        "authorURL": "http://lh3.googleusercontent.com/-ZWTWeUTRfLo/AAAAAAAAAAI/AAAAAAAAAGI/fV1HrxhS27Q/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ZWTWeUTRfLo/AAAAAAAAAAI/AAAAAAAAAGI/fV1HrxhS27Q/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.8",
+        "timestampMsec": "1357980648232",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "Awesome comic streamer",
+        "commentId": "gp:AOqpTOEBDR8IE2KNmFagU7t6xe6IVuVf8Q08X0xWeQvWkCVK2ekRhIwmHC28ZyQLSPEJgPHdJZwl8CMDWgA6HPw",
+        "author": "charles miller",
+        "authorURL": "http://lh5.googleusercontent.com/-P3MoSKrjSsY/AAAAAAAAAAI/AAAAAAAAAGM/_rmZQ-6HSoM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-P3MoSKrjSsY/AAAAAAAAAAI/AAAAAAAAAGM/_rmZQ-6HSoM/photo.jpg"
+      },
+      {
+        "documentVersion": "0.0.8",
+        "timestampMsec": "1328302380981",
+        "starRating": "5",
+        "title": "Does exactly what it says",
+        "comment": "Very fast and stable for a beta release",
+        "commentId": "lg:AOqpTOEKsP3_4Fy95UPUiRr-b-Dq0bQzDIv7g3wiIx2Kz2_alqvxroXPVJx-oUvGkU_Wb0GJ9BTxdwuo711xSII",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375698485661",
+        "starRating": "1",
+        "title": "Bad app",
+        "comment": "It does not show internet connection.",
+        "commentId": "gp:AOqpTOF8vKFoLOscZJdXhxC6Q5NMuai8yqvo1n9iB25jUt3L6QEVnp-zr-yg9gaNtA3cunb6mg0ieCnDhtFYJhI",
+        "author": "Aahan Agrawal",
+        "authorURL": "http://lh4.googleusercontent.com/-xEfaVZDImO4/AAAAAAAAAAI/AAAAAAAAAAw/7I5YXrP-_54/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-xEfaVZDImO4/AAAAAAAAAAI/AAAAAAAAAAw/7I5YXrP-_54/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

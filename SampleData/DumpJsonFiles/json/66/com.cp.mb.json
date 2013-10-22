@@ -1,0 +1,50 @@
+{
+  "title": "CP Bookstore",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cp.mb",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "March 7, 2013",
+  "version": "1.02",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "33",
+  "rating": "3.969697",
+  "contentRating": "Low Maturity",
+  "creator": "The Commercial Press (H.K.) Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cp.mb",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "ååå°æ¸é¤¨éå¸Androidæç¨ç¨å¼,è®æ¨è¼é¬æå°æ¸ç±è³æåååéå¸ä½ç½®,æ´å¯æ¥æ¶éå¸ææ°åªæ è³è¨åå³æå ±ååèæåæ´»å! åè½ä»ç´¹: - æ¸ç±æå°:åªéè¼¸å¥ééµå­æç´æ¥æçæ¸ç±æ¢ç¢¼å³å¯è¼é¬æå°åæ¸è³æã - æ¸åºä½ç½®:åªééåé»è©±å¨çä½ç½®æ¸¬å®ç³»çµ± (GPS),ææ©ç¨å¼å³å¯è¿½è¹¤æ¨çä½ç½®,é¨æææ¡è·é¢æè¿çååéå¸ä½ç½®ã - æ¨å»£åªæ :ç·è²¼éå¸ææ°ç²¾é¸æ¨å»£åªæ è³è¨ã - æåæ´»å:ç´æ¥ééç¨å¼å ±ååèéå¸ç²¾å½©æåæ´»åã - æ¸ç±æ¨ä»:çºæ¨å®ææ´æ°æ¨ä»ãææ°åºçãåãéå¸æ¯ææ¢é·æ¦ã,å¥½æ¸ä¸ç®äºç¶! - éå¸æå¡:é¨ææ¥é±æå¡ç©åã - ç¤¾ç¾¤åäº«:ééé»å­éµä»¶,é¢æ¸ætwitterç­ç¤¾äº¤åªé«,é¨æé¨å°åäº«å¥½æ¸ååªæ !Keywords: ååå°æ¸é¤¨,æ¸ç±,æ¸åº,æ¸å±,æ¸å®¤,é±è®,åæ¸,è®æ¸,å°èªª,åå¡å°ä¹¦é¦,ä¹¦åº",
+    "reviews": [
+      {
+        "timestampMsec": "1366515744613",
+        "starRating": "3",
+        "title": "\\345\\206\\207\\345\\276\\227\\350\\250\\202\\346\\233\\270\\357\\274\\237",
+        "comment": "\\346\\234\\211\\346\\233\\264\\345\\245\\275",
+        "commentId": "gp:AOqpTOHNQ1W38trQjGw89N9RmrDqweQIlE86aVxFtLjUO6U44mOPyJLu4njjAmJaJ3IAXSU_8vogA5Sy6WYt6pY",
+        "author": "George Lui",
+        "authorURL": "http://lh6.googleusercontent.com/-a6a_nTQy2VE/AAAAAAAAAAI/AAAAAAAACDI/NqO8vQ7mrUE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-a6a_nTQy2VE/AAAAAAAAAAI/AAAAAAAACDI/NqO8vQ7mrUE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_SEcURE_SETTINGS",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

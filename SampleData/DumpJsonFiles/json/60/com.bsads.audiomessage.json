@@ -1,0 +1,61 @@
+{
+  "title": "Likadee Audio Message",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bsads.audiomessage",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "April 17, 2012",
+  "version": "1.5.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "BSA Data Systems LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bsads.audiomessage",
+  "extendedInfo": {
+    "installSize": "394k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Send audio messages from your Android phone.... Simply, Quick and Convenient.With this app you can send VOICE text messages or VOICE emails to practically anyone without typing. Your actual recorded voice is sent to the recipient which is played when they open the message or email. It is very convenient when you don't have the ability or desire to type a message. It lets you quickly share your thoughts while it is still fresh in your mind.  It is also very handy to send voice notes to yourself or others.Messages can be played on Android, iPhone, BlackBerry, PC or Mac. The recipient doesnât require this application to receive an audio message. This app doesnât use multimedia messaging (MMS) so there are NO COSTLY charges for you or the recipient. Audio files can be quite large and would normally take up precious phone storage.  Likadee Audio Messaging stores your recorded messages in the âcloudâ.  This frees up space on your phone and the phone of the person receiving the message. It also allows access to the message from just about anywhere. This app is tightly integrated with your text message and email services on your phone. You can send a recorded audio message with any text messaging apps or email apps you have installed. All audio text messages appear in their respective conversation threads. All audio email messages appear in your inbox or sent messages.Now you can send a song, a cheer, put some emotion in to your message without the need for smiley faces, exotic acronyms or other abbreviations.Features: â¢Send VOICE email or VOICE text message to any user without typing.â¢The recipient can access and play messages from their smart phone or PC.â¢Saves phone minutes and avoids the extra cost of MMS (multi-media) messages.â¢Keeps a copy of message in your email and text message applications.â¢Recorded audio is stored in the \"cloud\" to save on phone storage.â¢Supports all high-end smart phones (Android, iPhone, BlackBerry, ...) and computers for receiving and playing audio messages. â¢Send same message to multiple users.â¢No sign-up or registration required to send or receive messages.Premium version offers:â¢Priority handlingâ¢Messages auto-play when loadedâ¢Longer recorded messagesâ¢Messages stored online for 30 daysâ¢No adsâ¢Donation to the cause.Recent Updates: â¢Added many new featuresâ¢Streamlined interface Requirements: â¢Android phone with version 2.1 and above is require for sending messages.",
+    "reviews": [
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1335213438696",
+        "starRating": "5",
+        "title": "Love this app",
+        "comment": "A must have for those situations were typing is not an option.  Faster than typing and longer messages too.",
+        "commentId": "lg:AOqpTOGe2m-lnw7KaX1mZwS30LP7eEUuBMtialsQco87a5K_CIz-xFRj4uXJrF_HcXiDlU-u1H2WBV2vT0s9rk4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1345247181728",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Does what it says!",
+        "commentId": "lg:AOqpTOHGbfQOzuQsrJynQA-xlYwaQv3y8VgDTkcO2B3UhHzqgNPH0HdpiL_WZeY2klQ-A3Jk9IOvxM2YKmvOprw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336959144587",
+        "starRating": "1",
+        "title": "It sucks",
+        "comment": "It never sent me the email wit the activation codes to use it.",
+        "commentId": "lg:AOqpTOFNzbH42N6sm19W4JPIeGN8ajlAt3bMrB3FlZJfhyQBL1t0MIlVciP0VfMMcRgq48nvuaIhZBuwdMyoJf8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

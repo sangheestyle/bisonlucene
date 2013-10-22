@@ -1,0 +1,43 @@
+{
+  "title": "Fire",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cubedroid.Fire",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "January 14, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "15",
+  "rating": "4.2",
+  "contentRating": "High Maturity",
+  "creator": "CubeDroid",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cubedroid.Fire",
+  "extendedInfo": {
+    "installSize": "868k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Fire 3D Live Wallpaper is simple and colorful live wallpaper.TO USE: Home -> Press MENU -> Wallpapers -> Live Wallpapers -> Fire Live WallpaperThis free app is ad supported and may contain ads in the notification tray and/or home screen.We share data with a service provider, AppLovin Corporation. The use of your data by AppLovin is subject to AppLovin's Privacy Policy and Terms of Use. Both policies are available at www.applovin.com",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1336918579810",
+        "starRating": "3",
+        "title": "Awesme",
+        "comment": "I like the flameds",
+        "commentId": "lg:AOqpTOESdq0HbURicaMrfoNFeFr_tij4xdxuLrbx798KmWp1uAhBLoUlP7edW_mwOSBsd666x6NHN_CQI6_4Lpo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

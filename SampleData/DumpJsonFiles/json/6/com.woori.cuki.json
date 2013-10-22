@@ -1,0 +1,49 @@
+{
+  "title": "wooricard Baro Alimee",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.woori.cuki",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 1, 2013",
+  "version": "1.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "218",
+  "rating": "2.821101",
+  "contentRating": "High Maturity",
+  "creator": "WooriBank",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.woori.cuki",
+  "extendedInfo": {
+    "installSize": "7.1M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Wooricard Smart credit card statement  \"Baro Alimee\" is designed for Wooricard holders and it is available on the smart equipment such as smart phone.It offer serveral services including showing reports of transactions(amount of the payment by credit card).Any Wooricard holders can easily use this application which is secured by certificate and other security programs.",
+    "reviews": [
+      {
+        "timestampMsec": "1359507392497",
+        "starRating": "3",
+        "title": "\\353\\254\\264\\353\\243\\214\\352\\260\\200\\354\\225\\204\\353\\213\\210\\354\\230\\200\\353\\204\\244\\354\\232\\224",
+        "comment": "IBK\\354\\235\\200\\355\\226\\211\\354\\235\\230 \\354\\212\\244\\353\\247\\210\\355\\212\\270 \\354\\225\\214\\353\\246\\254\\353\\257\\270\\353\\212\\224 \\353\\254\\264\\353\\243\\214\\353\\266\\200\\352\\260\\200\\354\\204\\234\\353\\271\\204\\354\\212\\244\\354\\235\\270\\353\\215\\260 \\355\\225\\264\\353\\213\\271 \\354\\204\\234\\353\\271\\204\\354\\212\\244\\353\\212\\224 300\\354\\233\\220 \\353\\266\\200\\352\\260\\200\\354\\235\\264\\354\\232\\251\\353\\243\\214\\352\\260\\200 \\353\\266\\231\\353\\204\\244\\354\\232\\224... \\353\\204\\210\\353\\254\\264\\355\\225\\230\\353\\204\\244\\354\\232\\224",
+        "commentId": "gp:AOqpTOF6rv2bOqt9Kzyitc6ERJNRjMB-01fcL4bmSxn04FSr07xBkZCbJ06kjfdPEhp_vgT6cHBLbFsU7FupNpw",
+        "author": "Chang Hyun",
+        "authorURL": "http://lh3.googleusercontent.com/-4PXWRHGCK0Q/AAAAAAAAAAI/AAAAAAAAAQI/KkdQLOcBdqo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-4PXWRHGCK0Q/AAAAAAAAAAI/AAAAAAAAAQI/KkdQLOcBdqo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "com.woori.cuki.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_TASKS",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

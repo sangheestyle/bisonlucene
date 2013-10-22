@@ -1,0 +1,44 @@
+{
+  "title": "Executive Cigar Shop & Lounge",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.customcigarboss.executive",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 5, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "High Maturity",
+  "creator": "Cigar Boss, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.customcigarboss.executive",
+  "extendedInfo": {
+    "installSize": "7.4M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Cigar Boss, The #1 cigar app in the world, is proud to introduce the custom app for the Executive Cigar Shop & Lounge!*Instantly Research Information, Pricing & Reviews On EVERY Cigar We Have In Stock!*Stay Up To Date With Detailed Information On Our Events & New Cigars!*Use The Cigar Finder To Find The Perfect Cigar You Want To Smoke!*See What Cigars Our Staff Members Are Smoking!*Check Our Stores Top Ten List!*See The Latest Specials We're Running!*See What Smokers Across The World Are Saying About a Cigar + Leave Cigar Reviews!*Use The Digital Humidor To Keep Track Of The Cigars You Purchase!*Use The Wish List To Keep Track Of Cigars You Want To Purchase!*Use The Notes Section To Keep Tasting Notes On The Cigars You Smoke!*Stay Up To Date With The Latest In The Cigar Industry In The Cigar News Section.*Instantly Share What Your Smoking On Facebook & Twitter!*View Our Facebook & Twitter Pages Right Inside The App!*View Our Website From The App!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.customcigarboss.executive.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

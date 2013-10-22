@@ -1,0 +1,29 @@
+{
+  "title": "Morning Coffee Alarm Clock",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ekron.morningcoffee",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 2, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Ekron Applications",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ekron.morningcoffee",
+  "extendedInfo": {
+    "installSize": "64k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Your basic alarm app with a few tweaks that I found I wanted in an alarm app. Allows for selection of multiple songs to play when the Alarm goes off, selected from the available media on the external storage. Also provides custom snooze times fro each alarm and uses gestures to dismiss the alarms, to help prevent accidental dismissal.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

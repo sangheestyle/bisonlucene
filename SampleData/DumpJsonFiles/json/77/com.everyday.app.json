@@ -1,0 +1,36 @@
+{
+  "title": "Everyday Church",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.everyday.app",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "October 19, 2011",
+  "version": "1.75.00",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "Vercoop Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.everyday.app",
+  "extendedInfo": {
+    "installSize": "644k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Everyday Church",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

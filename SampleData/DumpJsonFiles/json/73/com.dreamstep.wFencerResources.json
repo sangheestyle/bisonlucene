@@ -1,0 +1,32 @@
+{
+  "title": "Fencer Resources",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wFencerResources",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "June 9, 2011",
+  "version": "0.12.13076.77719",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Fencing Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wFencerResources",
+  "extendedInfo": {
+    "installSize": "179k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Tools for the fencers and fencer's parents.  This application currently features:-Age check tool by birth year (by Brian Toomey)-Age check tool by event (by Brian Toomey)-Fencing equipment store (fencing.net)-Bout timer (flash required)-Event ratings-Weapon troubleshooting",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wFencerResources.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

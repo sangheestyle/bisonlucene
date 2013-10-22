@@ -1,0 +1,49 @@
+{
+  "title": "Stay Anna Maria Island",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wStayAMI",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 14, 2011",
+  "version": "0.14.13106.87258",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Stay Anna Maria Island",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wStayAMI",
+  "extendedInfo": {
+    "installSize": "110k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Information on special deals, beaches, restaurants, live events, accommodations, shops, activities, a trolley schedule and much more for your stay on Anna Maria Island.",
+    "reviews": [
+      {
+        "documentVersion": "4.13106.87258",
+        "timestampMsec": "1338304924327",
+        "starRating": "1",
+        "title": "Alot Missing",
+        "comment": "Seems to be not so much an app....just a link to a mobile site.  Alot of info missing that it says it would have: trolley stops, business info etc....",
+        "commentId": "lg:AOqpTOGAp4wpEoWH49d5xrhGeDn4m7CcGVGHM2a54Nw8x6Zpeoy5NAmx2xiVwhr-4BC7KpSjSZj84nm7DruMoIc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.13106.87258",
+        "timestampMsec": "1328451941389",
+        "starRating": "5",
+        "title": "Great app for AMI info",
+        "comment": "Just decided to go to Anna Maria this summer for vacation. This is a great app for finding restaurants, things to do, etc. I highly recommend this for anyone making their first trip to AMI.",
+        "commentId": "lg:AOqpTOEHWmCbIoYXwEWIfjPXnl6GE9IurM4aXniaaDWstUFj8c87whakCPfmS4yPObFQV-yJzz5a6TJxbLgOI6Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wStayAMI.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Hotel Savings",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eventualtechnology.hotel",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 23, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "7",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "George Lawrence (new)",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eventualtechnology.hotel",
+  "extendedInfo": {
+    "installSize": "415k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Sign up for Hotel Savings via email.Sign up with our partners and get the best hotel savings sent directly to you.There are so many travel sites out there.  Think of them all... Hotels.com, Expedia, Orbitz, Travelocity, Kayak, Hipmunk, etc.And why go to all that trouble anyway, and you can sit back and let the best hotel deals come to you?You can expect to get offers from top hotels such as Best Western, Super 8, Comfort Inn, Days Inn, Hampton Inn Suites, Holiday Inn Express, Holiday Inn, Quality, Ramada, Econo Lodge, Travelodge, Motel 6, Courtyard, Fairfield Inn, Marriott, Residence Inn, Howard Johnson, Crossland Suites, La Quinta Inn & Suites, Americas Best Value Inn",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS"
+    ]
+  }
+}

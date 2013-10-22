@@ -1,0 +1,54 @@
+{
+  "title": "Super Doctor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cldoctortown.cldoctortown",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "September 1, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Angel App SG",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cldoctortown.cldoctortown",
+  "extendedInfo": {
+    "installSize": "5.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Best Android Super Doctor! This game is so easy but super fun to play!There are 3 Games available in the Dr Crazy in town:Game 1 - Memory Game. Unfold the block to match similar pictureGame 2 - Puzzle Game. Swift each block to the correct place!.Game 3 - Block Game. Change the block to fit each other.Once you have completed each levels, you will love this game very much.Monster Doctor loves you!",
+    "reviews": [
+      {
+        "timestampMsec": "1374190029922",
+        "starRating": "5",
+        "comment": "This game is awsome",
+        "commentId": "lg:AOqpTOGt5IleGeQun5GRFmNDk2uWt8cdKEoguY-qpvFyOX29nHG_MsTz9oHTSVCGV5fvKf_kCmw3ALfJMBZaiw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374054737999",
+        "starRating": "1",
+        "title": "What is this!!!",
+        "comment": "What is this!!!!",
+        "commentId": "gp:AOqpTOHIsJqttlb1jB_SgBaZnslOnJZAUEJyJstHoT7RbKLRHF7ftdnLP3KnMDpMeVV9MgdTPFtPnH6xMOSpBA",
+        "author": "Tom Brooks",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.cldoctortown.cldoctortown.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "SwarmLocal",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ethergloo.swarmlocal",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "July 20, 2013",
+  "version": "1.5.6",
+  "operatingSystems": "4.0.3 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "EtherGloo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ethergloo.swarmlocal",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "SwarmLocal is a location based group messaging service where you can chat with other users near you. The groups you create or join have range (distance) limits from 1600m to 20000m, only users within the range of the group can join or see the group. Best of all, the group you create can be mobile, so the group moves with the Host who created the group, like a moving HotSpot. Also SwarmLocal is based on complete anonymity, so no logins, sign-ups, registrations period.POSSIBILITIES-----------------------Flash mob? Revolution? Impromptu mass protest? Local Underground Radio Station? Impromptu Emergency Broadcast? Volume discount at the nearby store? The possibilities are endless with SwarmLocal.FEATURES-----------------1. Create mobile groups. When you create a mobile group, the group's location moves with the host who created the group. So it could be an ice cream truck guy who creates a mobile group and drives around neighborhoods or a bunch of cyclists riding the tour de france.2. Groups have ranges (1600 metres to 20000 metres). Only devices within the range of the group can see/join the group. Once you move out of the group range you automatically lose membership in the group.3. There is no registration, no signups..a user can float in and out of groups without sharing any personal information. Complete anonymity.4. We have added broadcasting capabilities with our latest release. Now group host's can broadcast real time audio or video to other users in the group. Currently only supported on iOS devices.5. The group can also be imagined as the traditional manifestation of an HotSpot. That is a location with a range. The only difference is its no longer tied to a popular services in the area but can also be an individual with a mobile device in his hand.\"Location aware group messaging meets mobility and anonymity\"\"The only app that lets you become the HotSpot. A HotSpot that can move!\"\"The perfect new way for local crowdsourcing with complete anonymity\"\"No Logins. No Checkins. Period!\"\"React to local events en masse. Leverage strength in numbers.\"",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ethergloo.swarmlocal.permission.C2D_MESSAGE",
+      "com.android.vending.BILLING",
+      "com.ethergloo.swarmlocal.permission.MAPS_RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

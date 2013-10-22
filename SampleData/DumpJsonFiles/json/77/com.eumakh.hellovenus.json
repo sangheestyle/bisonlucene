@@ -1,0 +1,45 @@
+{
+  "title": "HELLOVENUS (KPop) Stage",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eumakh.hellovenus",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "0.6.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "36",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "AtticTV Pte Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eumakh.hellovenus",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "âââââ A must have app if you're a Hello Cupid (Hello Venus Fan)âââââ So convenient, easy to use, and great ui. It sums up a lot of the information you would spend hours on the net looking for. If your a Hello Venus fan, a definite must have.Brighten up your day with Hello Venus Stage. We love Yoo Ara, Nara, Alice, Lime, Yoonjo and Yooyoung so much that we decided to build this app.Be closer to your favorite Hello Venus girls Yoo Ara, Nara, Alice, Lime, Yoonjo and Yooyoung as you can now get all Hello Venus videos, photos and news across various sites like AllKpop, Youtube, and Tumblr all put together in one beautiful interface. It definitely makes us happy.Now, also be able to access your Hello Venus Music Videos, while you have that precious few minutes to spend with the girls.Also, stay updated on all Hello Venus concerts and Updates on Twitter, all in one swipe on this beautifully designed app, created by Hello Cupids, for Hello Cupids.Also, save your favorite content for easy viewing later.Contact us at:@eumakh on Twitter or onwww.facebook.com/kpopmusiclove",
+    "reviews": [
+      {
+        "documentVersion": "0.6.0",
+        "timestampMsec": "1376594592456",
+        "starRating": "5",
+        "title": "Hc",
+        "comment": "Hv good",
+        "commentId": "gp:AOqpTOHs2MUX3q93PhcC_8EKl7UdfhQlc_91jlwFrTNv6lNer6NMTc0ya_OxSECwH4b3YNJdyIiF_GsIY4QSseE",
+        "author": "Korpong Pattanatorn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "com.eumakh.hellovenus.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

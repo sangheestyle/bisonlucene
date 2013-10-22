@@ -1,0 +1,77 @@
+{
+  "title": "Better CyanogenMod Changelog",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brianco.changelog",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "April 8, 2013",
+  "version": "1.1",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "8",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "BrianCo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brianco.changelog",
+  "extendedInfo": {
+    "installSize": "700k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This is your changelog, changed!With this app, a changelog of your current CyanogenMod build will be displayed after the first boot after flashing the build.  I used to flash, then try to find a changelog app as soon as I entered my new build for the day.  Now, that task is done for me.  This is extremely useful for nightly flashers of CyanogenMod.  Enjoy!Note that, after the first launch, this app will not be visible on your homescreen.  It only runs after you have flashed a new CyanogenMod build.",
+    "reviews": [
+      {
+        "timestampMsec": "1366226127539",
+        "starRating": "4",
+        "title": "Quite good",
+        "comment": "On galaxysmtd m3 made it freak out. Works between nightlies",
+        "commentId": "gp:AOqpTOEtaoB6b0V4lDeEXpZX69RpJlj8n0beSYbbFS8vV-lOspcLwMAU4VpPDgBt1DxkPD1XZ2eLnEQHl7DgJg",
+        "author": "Teemu Paaso",
+        "authorURL": "http://lh5.googleusercontent.com/-xyOan8-wZQ0/AAAAAAAAAAI/AAAAAAAACA0/-b1q-N41__8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-xyOan8-wZQ0/AAAAAAAAAAI/AAAAAAAACA0/-b1q-N41__8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365428590861",
+        "starRating": "4",
+        "title": "Nice",
+        "comment": "Simple app, does what it says. One thing I would love would be separating the changes based on categories, where categories can be changed by swiping across...",
+        "commentId": "gp:AOqpTOFfiwpV8gWb-hxfcRx-Eig2snZwUlKCJcSTyUKGAhhJmSZScD2e5P0ScOre9gWivB1rRotsaKeaKmGDsA",
+        "author": "Shashank Varanasi",
+        "authorURL": "http://lh5.googleusercontent.com/-A6vOpNapt4s/AAAAAAAAAAI/AAAAAAAABtU/izB75mJctnw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-A6vOpNapt4s/AAAAAAAAAAI/AAAAAAAABtU/izB75mJctnw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365470301393",
+        "starRating": "5",
+        "title": "So useful.",
+        "comment": "Love the idea.  Very useful to CM nightly flashers. Donate button works now, yay.",
+        "commentId": "gp:AOqpTOGFTpHyAVKtqTNsTGEtA_AcbNMx4PcyG8NPQU4H1wHPYiH0nVF9MjHu3dptOygNpQuoDHAkmpNH_Sv7ZA",
+        "author": "Eric Cochran",
+        "authorURL": "http://lh5.googleusercontent.com/-sZbWRZYjszQ/AAAAAAAAAAI/AAAAAAAAEqY/y6TgIvPd3FI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-sZbWRZYjszQ/AAAAAAAAAAI/AAAAAAAAEqY/y6TgIvPd3FI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365437267020",
+        "starRating": "3",
+        "title": "Unofficially Supported?",
+        "comment": "Well I\\'m using Galaxy Note (N7000) and I\\'m told my device is unofficiall supported. I\\'ll try flashing another nightly tomorrow and see, if it works, I\\'ll change the review. If it doesn\\'t...",
+        "commentId": "gp:AOqpTOH7NDAEGbE9T8r5J53FFMltMbhSrhqJUwK-8PJGAnFsmWJ1aWyyet0ahsNZjjZYJkPGb8SdxWGEOpD93A",
+        "author": "Kwamina Eyiah Arthur",
+        "authorURL": "http://lh4.googleusercontent.com/-12gs_FrWMY4/AAAAAAAAAAI/AAAAAAAABAE/szN3WI9nqPM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-12gs_FrWMY4/AAAAAAAAAAI/AAAAAAAABAE/szN3WI9nqPM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365449547102",
+        "starRating": "5",
+        "title": "Cool App",
+        "comment": "Great on Nexus 4!",
+        "commentId": "gp:AOqpTOGmNRPrPRXLnaJXOJ6oCMZNiKv5MXFHUEOHxT_55xdkGfOL_m7PRzX98nhNrGJ8yD6XRVI-7oMjil5XRg",
+        "author": "TMobile Northpoint",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Arrow - Where is my car Trial",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cochibo.arrowtrial",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "May 28, 2013",
+  "version": "1.4.9",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "3.6",
+  "contentRating": "Low Maturity",
+  "creator": "Mark Pfluger",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cochibo.arrowtrial",
+  "extendedInfo": {
+    "installSize": "655k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Arrow automatically saves your parking location every time you leave your car -- without you having to do anything. So now you can always check how long ago you parked or how long you drove. The history allows you to go back in time and see where you have been. And, of course, if you forget where you parked, Arrow can guide you back to your car.* This is the 14-day Trial version of Arrow *Features â¢ Automatically saves your parking spots â¢ Manually add parking spots â¢ Directions to your car â¢ History of past parking spots â¢ Bluetooth and CarDock support â¢ Minimal battery usage â¢ Accuracy usually within 50 feet/15m (except parking garages due to limited GPS signal)How does it work?Arrow uses your phone's sensors -- the accelerometer and the magnetometer -- in combination with GPS to determine when you are driving and when you leave your car.Battery usageArrow minimizes the use of GPS and other resources to give you an almost unnoticeable effect on battery life.IssuesArrow works as described on about 85% of phones (100% if you are using Bluetooth or CarDock mode). There are thousands of different Android phones, firmware versions, sensor chips and GPS chips, so some problems are inevitable.There are two reasons why Arrow can not save parking spots: 1) Some phones turn off the sensors when you turn the screen off. Arrow does not work when that happens, but you will get a message alerting you about the problem. It will still work in CarDock or Bluetooth mode. This doesn't apply to modded phones.Phones that shut down the sensors when the screen is off:â¢ Motorola Defyâ¢ Motorola Atrixâ¢ Motorola Droid Bionicâ¢ Motorola Droid X2â¢ LG 800â¢ Lenovo Indigoâ¢ Huawei U8510â¢ HTC Evo 4Gâ¢ HTC Heroâ¢ HTC One S2) On some phones the accelerometer is not well-calibrated. You can manually calibrate it in the settings, but this is a bit of a trial-and-error process. If you have trouble with this, please send an email to support for instructions.SupportWe will try to help you with any problem you may encounter with Arrow.PrivacyParking spots are saved on your device and are accessible only to you. We use Google Analytics to collect anonymous statistics on things such as frequency of usage and settings, but never exact location information.Thanks for downloading!Keywords: Arrow, Car Finder, Car Locator, Car, Find, Lost, Parking spot, Parked, Car location",
+    "reviews": [
+      {
+        "timestampMsec": "1372557799550",
+        "starRating": "2",
+        "title": "Not accurate",
+        "comment": "Parked in my driveway. It told me I was 1/4 mile away.",
+        "commentId": "gp:AOqpTOHHa6h3uXCq57FeSd04RPZaCMkWPdFsfTL--I4E5X9imavwSOxXSnHnt9F4LTGdettjiu2araOi5b6x",
+        "author": "Tammy Haga",
+        "authorURL": "http://lh3.googleusercontent.com/-r75P7URiFeo/AAAAAAAAAAI/AAAAAAAAAU0/B1ILUt3Fyrs/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-r75P7URiFeo/AAAAAAAAAAI/AAAAAAAAAU0/B1ILUt3Fyrs/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_PHONE_STATE",
+      "com.cochibo.arrow.permission.EXCHANGE_DATA"
+    ]
+  }
+}

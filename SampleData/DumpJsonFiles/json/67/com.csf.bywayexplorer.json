@@ -1,0 +1,35 @@
+{
+  "title": "Byway Road Trip Explorer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.csf.bywayexplorer",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 11, 2013",
+  "version": "1.1.0",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fairchild Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.csf.bywayexplorer",
+  "extendedInfo": {
+    "installSize": "8.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Going on a road trip or just exploring new places, Byway Explorer provides detailed information on Byways and Scenic drives in the United States.Feel free to contact me if there are any specific features you think should be added or any bugs you find.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.csf.bywayexplorer.permission.MAPS_RECEIVE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

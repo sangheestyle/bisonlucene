@@ -1,0 +1,32 @@
+{
+  "title": "Regatta pro & start timer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.embedia.regatta_pro",
+  "category": "Sports",
+  "price": "$7.15",
+  "datePublished": "August 13, 2013",
+  "version": "1.8",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "2.2",
+  "contentRating": "Low Maturity",
+  "creator": "embedia",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.embedia.regatta_pro",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Regatta Tactic Compass displays the relevant information that helps you to optimize the sailing route to the target waypoint.The new release adds many features for optimal approaching to the start line.A minimum display resolution 400*240 is required.The following information are provided in a glance.1) When navigating to the next waypoint (see figure 1):- target waypoint bearing (orange point)- target waypoint air distance (orange number on top right)- real boat speed (red  number on top right)- real wind direction (blue arrow)- layline position (green line)- distance to layline (red number on top left)- distance along layline (green number)- total distance to target waypoint  (red number on bottom= distance to layline + distance along layline)- effective speed to target (red number on bottom)- polar diagram of effective speed2) When approaching the start line (see figure 2):-start line position as bearing of right and left ends (green arc and red and green points)-boat route and its intersection with start line (red dotted line)-distance to the nearest point of start line (orange number on top left)-distance to the start line along current route (green number on the top left)-time to start line with current route and speed (green number on the bottom center)-time to the nearest point of start line with current speed (orange number on the bottom center)-count down timer (blue number on the bottom center)All you have to do is to insert the waypoint position and wind direction then Regatta will display the route to target with layline and polar diagram of effective boat speed.The polar diagram is not the usual polar diagram that is a boat intrinsic. The effective speed  is the airline distance to target divided by the estimated time to target, given the current route going to layline and then to target along the layline. The effective speed is an index of effectiveness of route and varies with the route angle. The polar diagram shows you which is the route angle that optimizes the time to target and compares effective speeds for different angles.There are many ways to insert waypoints. You can do it manually or using a map or using Regatta as a bearing compass.You can find more info here: http://www.embedia.it/files/regatta/man_en_5_0.pdf.Please consider trying the free demo version Regatta basic.The Regatta Basic is a demonstration version limited in the number of waypoints that can be memorized in the same time (max 4 including 2 for start line) and in total number of waypoints (max 30).Please leave your feedbacks and suggestions here:groups.google.com/group/droidregattaNOTICE:There are severe layout issues with small resolution displays (less than 400*240).",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

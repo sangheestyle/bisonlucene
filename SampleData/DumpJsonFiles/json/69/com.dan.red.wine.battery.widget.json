@@ -1,0 +1,42 @@
+{
+  "title": "Wine Battery",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dan.red.wine.battery.widget",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Dan Red Productions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dan.red.wine.battery.widget",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Wine glass battery widget for your phone or tablet. Beatiful graphics of the 4 differentwine glass drinks which shows the condition of your battery. Full glass means full battery,while empty glass means low power. There are 4 different glasses to choose from!Not for alcoholic users! ;)This software is FREE. This application is using advertisement technology. It may also create some icon on your desktop, but you can remove it. You can also opt-out to remove all the advertisements.You can also check our other glass widgets. If you don't like wine, you may like beer or whisky for example ;)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.android.launcher.permission.WRITE_SETTINGS"
+    ]
+  }
+}

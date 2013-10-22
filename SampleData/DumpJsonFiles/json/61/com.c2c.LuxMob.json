@@ -1,0 +1,35 @@
+{
+  "title": "geoportail.lu",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.c2c.LuxMob",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 29, 2013",
+  "version": "1.23",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "13",
+  "rating": "4.1538463",
+  "contentRating": "Low Maturity",
+  "creator": "Administration du Cadastre et de la Topographie",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.c2c.LuxMob",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The official mapping app from Luxemburgâs national geoportal, developed by the Cadastre & Topography Administration (ACT). This app enables you to view topographic maps, aerial photos, and cadastral parcels as well as many other interesting datasets about Luxemburg via your mobile device.âSEARCH FOR PLACES: Search for places by names, toponymes,  parcel numbers, coordinates etcâ¦âChose among more than 100 different data layers (as available on our website http://map.geoportal.lu)âShare your mapsâ Use maps in offline mode! Offline functionality:Choose a specific zone to download to your device.  The active map layers for this area will be available to use even when offline, for example when hiking in areas without network coverage. This functionality is also ideal to download our maps via Wi-Fi at home, without incurring excessive mobile data download charges or exceed your data quota.! â ACCESS QUALITY TRAILSâVISUALIZE HEIGHT PROFILES â ENJOY A LOT OF OTHER FUNCTIONS â create POIs on the map (thanks to the GPS, by coordinates , e.g Geocaching or inventories )â Export GPX/KML files WARNING: Continued use of GPS running in the background can dramatically decrease battery life. Continued use of maps in online mode may lead to unexpected costs due to high download traffic.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Craig Johnson",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.craigjohnson",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "October 15, 2012",
+  "version": "1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Christian Mobile Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.craigjohnson",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Great leaders build up, not down. When leaders, whether in the church or in the marketplace, inspire their teams with a vision of what is possible, passion meets production and truly great things start to happen. As Director of Ministries at Lakewood Church in Houston, the largest and fastest-growing church in America, Craig Johnson oversees thousands of staff members, lay leadersÂ and volunteers. From his unique vantage-point comes Lead Vertically, a fresh look at the importance of building teams when the goal is not only success, but fulfillment. Lead Vertically includes tools and exercises that can be adapted by any leader for teams of any size, as well as tips for recruiting, training and strengthening teams. Leaders will learn to inspire even when saying no and to build trust personally, not just professionally. People can live with disappointment but not without hope, and Lead Vertically shows leaders how to motivate teams by consistently and clearly communicating that the best days are ahead.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.craigjohnson.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

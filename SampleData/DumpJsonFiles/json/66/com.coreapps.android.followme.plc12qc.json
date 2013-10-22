@@ -1,0 +1,61 @@
+{
+  "title": "2012 PLC at Work™, Montreal",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.plc12qc",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 15, 2012",
+  "version": "3.6.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.plc12qc",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "For more than 20 years, Solution Tree has been dedicated to exploring K-12 educational challenges, developing high-power, results-proven solutions, and delivering them to you: the educator who knows that professional development (PD) is the most vital path towards raising student achievement.Our range of research-based products and services include books, videos, events, speakers, and online courses. Simplify your decision-making process by choosing from the best evidence-based research and strategies all in one place.Together, we will transform education.App available to attendees only.",
+    "reviews": [
+      {
+        "documentVersion": "3.6.6",
+        "timestampMsec": "1366901849900",
+        "starRating": "1",
+        "title": "Waste app",
+        "comment": "-1 its not working",
+        "commentId": "gp:AOqpTOFKBHqDDEa9i9sIcxbuZ4aDpVY4zwrXpb4lY_7S5rYda2ZpXSkthH5DkifBStOUj7h35gUqe63AzzT06YU",
+        "author": "sriramsai ayinam",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.plc12qc.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

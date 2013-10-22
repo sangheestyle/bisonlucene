@@ -1,0 +1,37 @@
+{
+  "title": "Knight and Company",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ems.knight",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 3, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Appitized",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ems.knight",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The Knight & Company App offers reliable and professional accountancy services at the touch of a button. The Appâs interactive features provide piece of mind, giving users financial clarity in todayâs fast moving, complex and highly competitive business environment.Useful App features include a document scanner, a notebook, a VAT calculator and an expenses log to keep track of your finances and plan ahead.Easy to navigate and filled with handy features, users can gain the professional support needed to help better structure their finances.FeaturesDocument Scanner: scan individual documents and store safely on your Smartphone device or email it directlyNotebook: write reminders and keep notes of recent or upcoming financial activitiesVAT Calculator: quickly and effortlessly calculate the VAT for any purchase or paymentExpenses: log recent payments and see where youâre spending your moneyAbout us: find out about the team and read our company historyKeywordsKnight & Co, Knight and Company, Accountants, Time, Berkshire,Support URLhttp://appitized.com/contact-us",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "com.ems.knight.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

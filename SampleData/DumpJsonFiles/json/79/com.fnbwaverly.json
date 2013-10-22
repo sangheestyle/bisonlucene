@@ -1,0 +1,67 @@
+{
+  "title": "First National Bank - Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fnbwaverly",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 9, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Low Maturity",
+  "creator": "First National Bank IA",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fnbwaverly",
+  "extendedInfo": {
+    "installSize": "773k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Mobile Banking by First National Bank in Waverly, Cedar Falls and Plainfield allows you to bank on the go. Itâs free to download and offers quick access for managing your bank accounts. Check your balances, pay bills, transfer money, and locate ATMs and banking centers with just a touch. Our native app is fast, secure and free. Use your current Money Connection Online login information to start banking today.Features:â¢Check Account Balancesâ¢Transfer funds between accountsâ¢Pay Bills**â¢Find our ATMs and Banking Centers using the GPS system provided by your Android.****Must be a Money Connection Online Banking Customer**Money Connection Online customers must first setup a bill payee prior to using these features.***This is limited to locating our banking centers and ATMs. Please refer to your carrier for any fees that may apply.First National Bank316 E. Bremer AvenueWaverly, Iowa 50677(319) 352-1340http://www.myfnbbank.com",
+    "reviews": [
+      {
+        "timestampMsec": "1317751637964",
+        "starRating": "2",
+        "title": "Won\\'t work without WiFi.",
+        "comment": "Partially the reason I am getting this is because I want mobile banking, but if I am tethered to WiFi, I might as well do my banking on my computer.",
+        "commentId": "lg:AOqpTOFs07QpcC4ALWSVtIx0aGnox8XinrTM2H140NiinY0cPR785WryRNwgcKNoqA3ERhyrPy6ltQjra6dVF4o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372138809640",
+        "starRating": "5",
+        "title": "Finally out, waited forever for android",
+        "comment": "Works great for me",
+        "commentId": "lg:AOqpTOHLSHr9dxmfZqF4D_On9zL0872WQ7iEgP1h5KbQE9ONjOoO47CuhzCYt3j6EQDamswCQO8SlizxFxp8kCg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333821721017",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Easy to use--great mobile banking app.",
+        "commentId": "lg:AOqpTOFKhCXWJJB1pDdd_QYQBt2A-K3TEHUJiVIkbOXOjWeXNEKu733lIaTq_2dSAd-DLk_4LgK19ruKNTyPnpw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359474566308",
+        "starRating": "5",
+        "comment": "Glad bank has app.",
+        "commentId": "lg:AOqpTOFBmjVJZix63x8vY9TPCAsWnnj_PImxhkurBi--FVk5g-uZUndcOh-cqdZy3C1lLBRvEdolW8oTcaYJGMA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.CALL_PRIVILEGED"
+    ]
+  }
+}

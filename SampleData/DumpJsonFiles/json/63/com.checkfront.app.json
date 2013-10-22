@@ -1,0 +1,55 @@
+{
+  "title": "Checkfront Booking System",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.checkfront.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "November 5, 2012",
+  "version": "1.2.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Low Maturity",
+  "creator": "Checkfront Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.checkfront.app",
+  "extendedInfo": {
+    "installSize": "5.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Checkfront is an award winning booking app that allows tour & activity operators, rental companies and hospitality business to manage their inventories online, centralize reservations, and process payments directly on their own website.The Checkfront Mobile app allows you to quickly access your bookings on the go and keep in touch with your staff.Features include:- View current and upcoming bookings.- Search bookings by customer or date.- Scan QR codes and quickly look-up a booking.- Check-in and check-out bookings.- View and update booking notes.- Access your global bookmarks.- Add a customer to your mobile contacts- Call customers directly from the app.- View a map of the customers location.This app is free to use but requires a Checkfront account.More information available at http://www.checkfront.com.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1347921317244",
+        "starRating": "5",
+        "title": "Good Start",
+        "comment": "It\\'s a good start but I\\'m looking forward to more functionality before it becomes truly useful for us.",
+        "commentId": "lg:AOqpTOGusuhGd2F_xKSBLE8gz9NJg30SrKWat_J2W2RbYz_Gu7Nhr7MNPXYhzicTMeAoGDwsdxtNP4FCqTgRZCI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347677453501",
+        "starRating": "5",
+        "title": "QR Code is zippy.",
+        "comment": "QR code scanning is fast, bookings load up quick. Map feature looks great! Using Samsung Vibrant with gingerbread.",
+        "commentId": "lg:AOqpTOEhbdhtP7qh7dnscBUZBFgeZiOep9uu0Jlhlzo2FpQW4W_rjjtAqBx8qVztNbd62nOO-j5F1Uwr8pwZVrY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

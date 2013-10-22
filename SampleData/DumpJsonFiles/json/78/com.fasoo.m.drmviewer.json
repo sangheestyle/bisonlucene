@@ -1,0 +1,58 @@
+{
+  "title": "Fasoo View",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fasoo.m.drmviewer",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 12, 2013",
+  "version": "2.0.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "27",
+  "rating": "3.4814816",
+  "contentRating": "Everyone",
+  "creator": "Fasoo.com, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fasoo.m.drmviewer",
+  "extendedInfo": {
+    "installSize": "5.4M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "IntroductionFasoo View Application allows users to download and access documents securely. It enables users to communicate and share information securely as well as view both normal and encrypted documents on the iPhone and iPad. Fasoo DRM is a smart and necessary security solution which enables a persistently protected work environment, allowing the work force to concentrate on the task at hand without compromising mobility and/or flexibility. *CAUTION: Fasoo View is allowed to be operated/used by users who install a certificate through Fasoo Mobile Gateway prior to viewing files on their mobile device. Both encrypted documents and normal documents may not be accessed by unauthorized users. Fasoo view is not intended for personal users.Key Features 1. Provides a document viewer via access control to each document 2. Attachment viewer for emails and browsers3. Adds search engine to documents being viewed through the Fasoo View4. Persistently enforces a visible or semitransparent watermark5. Provides the ability to Zoom in/Zoom out 6. Easily search for a  page, by entering the page number into the search page tool7. Landscape/Portrait view mode option8. Document storage within the document application program from iTunesVersion 1.3.0- Added offline license authentication - Added server management- Added UI for server management- Added shut down confirmation process before finishing the - Fasoo View- Remove authentication information after finishing the Fasoo View  - Support wifi only Android phone and Android based tabletsVersion HistoryVersion 2.0.2 - Bug fix - Improve viewerVersion 2.0.1- Supporting HTTPS- Supporting old security document format- Improve viewerVersion 2.0.0- Support ICS- Improve viewer- Support HTTP download a fileVersion 1.3.1- Bug fixVersion 1.0.19- Added Japanese help.- Other bug fixes madeââ.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.19",
+        "timestampMsec": "1326223731571",
+        "starRating": "1",
+        "title": "Strange thing",
+        "comment": "I needed to view a .wmf image but this viewer keeps asking for some secure document and does not go any further.",
+        "commentId": "lg:AOqpTOEPadYA67-Q_0D-DsOmFOmN1kxfVMn-hvvJoeXau_53NGg1SEpLErI66TXqfIPGeKJ2Bk8JpzMOg9xWQe8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.19",
+        "timestampMsec": "1322549330714",
+        "starRating": "2",
+        "comment": "Craptacular.",
+        "commentId": "lg:AOqpTOEdpUNg8yVMUeuwB-D0O8KjFsUgJtFQD_2KXD7xUXQcEJUqIxjKJjLa_3W7vdxTNsUh-uxUQzLPl8vwG9k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.18",
+        "timestampMsec": "1316606258571",
+        "starRating": "1",
+        "title": "Will not open .tif",
+        "comment": "Had a file sent in .tif format. Wanted to open file on Droid X to show client. Faso did not even show that the file existed.",
+        "commentId": "lg:AOqpTOHdBSlKB6_S-bmxsJUdSdBe2b3Ov-4GHqBHQ0dw2EMsO-h3BvMiKi3_dN36L2SgpwSlpOEtOPR9elXd5f4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

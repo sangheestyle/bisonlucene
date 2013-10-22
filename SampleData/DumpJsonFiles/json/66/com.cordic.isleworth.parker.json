@@ -1,0 +1,49 @@
+{
+  "title": "Parker Car Service",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cordic.isleworth.parker",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "January 31, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cordic Android",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cordic.isleworth.parker",
+  "extendedInfo": {
+    "installSize": "414k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Thank you for your interest in the Parker Cars Service Android App.This App allows you to book a Private Hire vehicle from Parker Car Service.You can:Get a Quotation for your journeyMake a bookingCheck its statusCancel a bookingTrack the vehicle on a mapManage your previous bookingsManage your favourite addressesThe App is intended for U.K. use only, and therefore all addresses are restricted to within the U.K.",
+    "reviews": [
+      {
+        "timestampMsec": "1366756374830",
+        "starRating": "3",
+        "title": "Love the company!",
+        "comment": "Edit. Does work but it seems to need your personal details to make work. Will get full marks ik a) only requires phone or email. Not both. B) quotes seem very (unrealistic) low. I cannot believe a trip to heathrow from richmond is that cheap at 23hrs. ******* App does not work. I use them personally and through work. Never failed me in 4-5 years. I will increase rating once app works. Samsung galaxy s2.",
+        "commentId": "gp:AOqpTOGXUB5Ngi7GLQGNIdtX34wYLc0tmBpKDIDRMNcdmHn84pkl0CkLFxJMemSQkHRPgbnmoPJC5Vgg_3RVTw",
+        "author": "Andr\\303\\251s Mu\\303\\261iz Piniella",
+        "authorURL": "http://lh4.googleusercontent.com/-8hnirj1alok/AAAAAAAAAAI/AAAAAAAAA0g/SCqsnC-BAO8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-8hnirj1alok/AAAAAAAAAAI/AAAAAAAAA0g/SCqsnC-BAO8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370368901729",
+        "starRating": "1",
+        "title": "Boring",
+        "comment": "I hate it worlds badest  game  ever  unstalling",
+        "commentId": "gp:AOqpTOEPFpCKgmJlLXTWERbfG4-ion6HiiPwDcnqc1qsWZQZgFH0Q64V0uSX--Z73ox3U2UerIA_AiQCF2dlVg",
+        "author": "Zohaib Tariq",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

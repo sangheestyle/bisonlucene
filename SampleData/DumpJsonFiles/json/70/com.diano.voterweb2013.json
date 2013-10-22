@@ -1,0 +1,33 @@
+{
+  "title": "VoterWeb 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.diano.voterweb2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 27, 2013",
+  "version": "2.07.04",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "David Diano",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.diano.voterweb2013",
+  "extendedInfo": {
+    "installSize": "5.1M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "- The VoterWeb is an app interface to my existing VoterWeb service. - This application is solely for the use of Pennsylvania Democratic committee members, progressive activists, and candidates I have taken as clients. - VoterWeb is NOT for the general public nor any registered Republicans. Any such access will be blocked or terminated upon detection.- This app may collect device information including, but not limited to, device phone number.- This is necessary to maintain security, identify users, allow me to proactively contact users, and block users violating any of my terms of use (previously stated or not).- VoterWeb is the most up-to-data online voter data resource in PA for Democrats and progressive grassroots activists.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

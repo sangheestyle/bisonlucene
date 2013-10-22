@@ -1,0 +1,233 @@
+{
+  "title": "Notif",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.carboni.notif",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "July 20, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "470",
+  "rating": "4.517021",
+  "contentRating": "Everyone",
+  "creator": "Eric Carboni",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.carboni.notif",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Notif is an app built for Jelly Bean that allows you to create rich notifications for reminders, lists, passwords, pictures, or anything else that you can think of. The possibilities are endless! NEW:Notif History has been released! This will back up your text and list notifications and allows you to re-create notifications by tapping on them. FYI, this will not save picture notifications. Just text and list. Swipe to delete notifications because this free version will only show your last 10 :(  Consider buying Notif Pro for unlimited backup! NEW:Create notifications hands-free with VoiceNotif! Just tap the microphone icon at the top and it will listen for a title and your content. It will create an expandable notification, just as if you typed it out yourself.There are three types of notifications that you can create: 1) Text: Holds a title, an expanded title, and multiple lines of content when expanded2) Picture: Holds a title, one line of content, and an image that you can take or retrieve from your gallery3) List: Holds a title, up to 7 items, a summary, and one line of content when the notification is reducedTo expand a notification that isn't already expanded, simply pull down on it with two fingers. Note that by default, only the highest notification is expanded.Note: Updating the application will erase notifications. Sorry! I am working on a way around this.Another note: If you are using a Sense UI device (HTC One X, for example), the UI will not expand any notifications except for the highest one. I cannot control this at all. What is âongoingâ?- The term ongoing means that the notification will be fixed in the notification shade. You will not be able to swipe it away or clear it, unless you click on it and press âdeleteâ. If the check box is checked, it will be ongoing. If not, it will not be ongoing. Whether or not the notification is ongoing is not related to it being restored after a reboot. What is âpriorityâ?- Priority, by definition, is the amount of attention a notification will receive. You can set the priority in Notif to default, minimum, or maximum.     - Default: Just the norm. Like when you receive a text message, it will appear and other notifications can appear above or below it.     - Minimum: These will always be fixed to the bottom and the icon will not appear in the status bar.     - Maximum: These will always be fixed to the top. Upgrade to Notif Pro to get these features:+ Notification editing+ Unlimited Notif History+ Over 200 icons+ Integration with Android's share intents+ QuickNotif - create and clear notifications from notification shade+ Lots more to come+ Only $0.99!Have any questions? Want to suggest a feature?- Follow @notifapp on Twitter (twitter.com/notifapp)- Submit and vote on your most wanted features here: http://notif.uservoice.comAbout me: I am a high school student. Updates will not always be as quick as you might like :)A few known issues to be fixed:- The resolution for pictures taken with camera in the Big Picture tab is pretty low. An easy workaround is to use your phone's camera app to take the picture and then use the \"Get Picture\" button in Notif to grab it from the gallery. It will be high resolution.- Cannot get picture from gallery on Nexus 7Permissions explained:1. RECEIVE_BOOT_COMPLETED -> Used to restore notifications on rebootFull change log here: http://goo.gl/3p4ZG",
+    "reviews": [
+      {
+        "documentVersion": "0.7.1",
+        "timestampMsec": "1374971080683",
+        "starRating": "4",
+        "title": "All good except for force close",
+        "comment": "Works flawlessly but force closes on boot (even if I have no notif active)",
+        "commentId": "gp:AOqpTOE7_Urs2PbFvJULtPMNdj3r3MNg04O7gKXEZjIDg7n-4KVBsz_aERUryAiYOzfIMSguWfUYATHH6u3vHQ",
+        "author": "Press Werden",
+        "authorURL": "http://lh5.googleusercontent.com/-YAZ6_Y6PusE/AAAAAAAAAAI/AAAAAAAAANc/P1u3XewFFIc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-YAZ6_Y6PusE/AAAAAAAAAAI/AAAAAAAAANc/P1u3XewFFIc/photo.jpg"
+      },
+      {
+        "documentVersion": "0.7.1",
+        "timestampMsec": "1375114845693",
+        "starRating": "4",
+        "title": "Swipe = Delete",
+        "comment": "Should add option to make swipe equals delete. I swiped all my notifications when it\\'s overdue, and when I restarted the phone they all showed up again. To click to delete a notification is too much of a chore for me, lol..",
+        "commentId": "gp:AOqpTOEhlvwvlRdLQ-UYdYz5r73D69lIOIWXN83NiPrPiJfZ-z6s_jKA_Mn10ERCp7ZJnXF74RrwZKO-Y7U4Ng",
+        "author": "Aditya Alta",
+        "authorURL": "http://lh4.googleusercontent.com/-uAEkm0Ofbyg/AAAAAAAAAAI/AAAAAAAAAsU/AkYWiEoGoUg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-uAEkm0Ofbyg/AAAAAAAAAAI/AAAAAAAAAsU/AkYWiEoGoUg/photo.jpg"
+      },
+      {
+        "documentVersion": "0.7.1",
+        "timestampMsec": "1376623556579",
+        "starRating": "3",
+        "title": "Minor Issue",
+        "comment": "Issue with an ongoing notification stuck on my notification panel after I deleted it from the notif history page.",
+        "commentId": "gp:AOqpTOHGiZNKebfzdrY9SRELMpNGZ7IMaIwCjYeXwcrJOQQmG4aHl4ceaMhznVBu6d576rXd_UYODvz1pmlD-g",
+        "author": "Dennis Xie",
+        "authorURL": "http://lh3.googleusercontent.com/-PVXTamU2n8E/AAAAAAAAAAI/AAAAAAAAACg/N4hYIb0az5A/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-PVXTamU2n8E/AAAAAAAAAAI/AAAAAAAAACg/N4hYIb0az5A/photo.jpg"
+      },
+      {
+        "documentVersion": "0.7.1",
+        "timestampMsec": "1375692761837",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "The development is top. Can\\'t beat it works great with the jelly bean feel.",
+        "commentId": "gp:AOqpTOE2DhETEAeYkL_N7TRIx2eUrH0IgpAWLED8hRxTOSjMPQRrijWEfGCGBD15YNHaacypo-na36vgjgUBng",
+        "author": "Nicholas Elhajje",
+        "authorURL": "http://lh4.googleusercontent.com/-TFdj-ZHTXBk/AAAAAAAAAAI/AAAAAAAAAq4/5xuhYCTD6Lo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-TFdj-ZHTXBk/AAAAAAAAAAI/AAAAAAAAAq4/5xuhYCTD6Lo/photo.jpg"
+      },
+      {
+        "documentVersion": "0.7.1",
+        "timestampMsec": "1376458119741",
+        "starRating": "4",
+        "title": "Cool app",
+        "comment": "I like how easy it is but it needs an alarm/timer function",
+        "commentId": "gp:AOqpTOFhJ_Rz86y0X__MbPHpZgyUAVFQKsLi617TyY5WPeFaIcMSNBVDombwBPddu9IQ_bSY-67zpvtfFzqG7w",
+        "author": "William Steele",
+        "authorURL": "http://lh5.googleusercontent.com/-TfEPj0NYm4Y/AAAAAAAAAAI/AAAAAAAACKQ/pr1y-SyfpxA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-TfEPj0NYm4Y/AAAAAAAAAAI/AAAAAAAACKQ/pr1y-SyfpxA/photo.jpg"
+      },
+      {
+        "documentVersion": "0.7.1",
+        "timestampMsec": "1376521240926",
+        "starRating": "5",
+        "comment": "Great app very useful! Reminders are great update but I prefer the previous ui and icon..",
+        "commentId": "gp:AOqpTOF2pRjjfIbnOH6LRH6wOCSa7CWkbg9rPxJIOLixkCBngMFoATUGX10rHb-hr-CZBBx2FRgUWVbqzTNHoA",
+        "author": "Jarek Pyzik",
+        "authorURL": "http://lh3.googleusercontent.com/-vz1h23lzQL0/AAAAAAAAAAI/AAAAAAAAALs/rVxabSiTlG8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-vz1h23lzQL0/AAAAAAAAAAI/AAAAAAAAALs/rVxabSiTlG8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375668084085",
+        "starRating": "5",
+        "title": "Samsung galaxy s3",
+        "comment": "After months of using this I finally purchased the pro version today.  An essential tool for my phone thank you",
+        "commentId": "gp:AOqpTOHKoHonKYPptVdTbqZ935gvhRX5bpjBE60_Tadn3pRJA-QWEtu5eGpCVUtlbI_i6nd57pZE3Vkm9jWzbg",
+        "author": "Mike Wiksyk",
+        "authorURL": "http://lh6.googleusercontent.com/-ZZbD_euZAV0/AAAAAAAAAAI/AAAAAAAAAC0/Jm2gkZWUY4U/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ZZbD_euZAV0/AAAAAAAAAAI/AAAAAAAAAC0/Jm2gkZWUY4U/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376585500497",
+        "starRating": "4",
+        "title": "Seems good",
+        "comment": "I was reluctant at first but then I eventually installed it. Still checking for potential problems, hope there\\'s none. I\\'m giving 4 stars for now until I finish observing the app.",
+        "commentId": "gp:AOqpTOETy47zktHlTGc_a2_6RRxdyKDLHE-5ax5Bnq6Qk21Y1m3wZAz1gWz5H-Uhi78Dz4kKQP3vbkClxaXZSw",
+        "author": "Ivann Archie Arintok",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374338462718",
+        "starRating": "3",
+        "title": "Crashing",
+        "comment": "I like the App but is crashing and I have to close it",
+        "commentId": "gp:AOqpTOFF5j1BNmhq7nEh-I04y76b1HLGO6WAynm2UsA6v-qxbhnwsyQ9VE31g3fLZPfM954DUlDM4b7xnzw1Tw",
+        "author": "Noe Garcia",
+        "authorURL": "http://lh6.googleusercontent.com/-0U5FGGDaf6A/AAAAAAAAAAI/AAAAAAAAHv8/HTj2enO0ros/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-0U5FGGDaf6A/AAAAAAAAAAI/AAAAAAAAHv8/HTj2enO0ros/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376556145882",
+        "starRating": "3",
+        "title": "Notifications reappear",
+        "comment": "Love this app but whenever the phone is restarted all previous notifications reappear and you have to swipe them all away again. As soon as this is fixed I will pay for pro version",
+        "commentId": "gp:AOqpTOHR5til40GOdsM8AmKa7Ja10_jZ4aZeUKEClfHcVglNMB-FoNG04E0YxTNPXmah-t6v7MmgApM1lKK0Xg",
+        "author": "Jasper Ballantyne",
+        "authorURL": "http://lh3.googleusercontent.com/-2FaKDP_IeeU/AAAAAAAAAAI/AAAAAAAAA7U/KOZffBADAI0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-2FaKDP_IeeU/AAAAAAAAAAI/AAAAAAAAA7U/KOZffBADAI0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373674854766",
+        "starRating": "5",
+        "comment": "Very useful",
+        "commentId": "gp:AOqpTOHPRAy9gWgVoKio3nqPQA3RPcwRvvJYP_8qwZUklfGraC6rsyOZbYF34J9hf6o_g-o9TUjy3pEkWvqZaQ",
+        "author": "Hovannes Abramyan",
+        "authorURL": "http://lh6.googleusercontent.com/-iLV0epX-yHE/AAAAAAAAAAI/AAAAAAAAPFk/xe4-rKxFapo/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-iLV0epX-yHE/AAAAAAAAAAI/AAAAAAAAPFk/xe4-rKxFapo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374242646390",
+        "starRating": "5",
+        "comment": "Love it!",
+        "commentId": "lg:AOqpTOGr7nXgT5JdwYnw5wf-sZko4Usv04yQNEtj9X0_fZn2uNxUSKkJITkLQqKjzGX8jFFCO_eaAgcq5Wq3hg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373755879126",
+        "starRating": "5",
+        "title": "Restore after restart wanted!",
+        "comment": "Perfect! Love it! Thanks for the fix!",
+        "commentId": "gp:AOqpTOFi1Wr1T3LDFDz5Y1Enese1Kz8hDsX4oR3fTCk7bH7I72j2nLMq3whXZ-UucUzv_mqWsKTdkCbBQqJhIw",
+        "author": "gunny lee",
+        "authorURL": "http://lh4.googleusercontent.com/-uCsnmes2J2g/AAAAAAAAAAI/AAAAAAAAWMU/CvQUItDT_VU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-uCsnmes2J2g/AAAAAAAAAAI/AAAAAAAAWMU/CvQUItDT_VU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375493050567",
+        "starRating": "5",
+        "title": "Useful",
+        "comment": "Might seem small, but it\\'s actually quite useful",
+        "commentId": "gp:AOqpTOE74cHWh8Am_aC49lnrhOJ_5zz9cVMROw6wJasL7NtK8co0LDQwyMxUGWCFZopktIZG_fIGAvCebHpR8Q",
+        "author": "Kun Lin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373790955154",
+        "starRating": "5",
+        "title": "\\345\\260\\217\\347\\261\\263\\346\\211\\213\\346\\234\\272\\344\\270\\215\\350\\203\\275\\347\\224\\250\\345\\225\\212\\357\\274\\214\\346\\200\\245\\345\\225\\212\\357\\274\\201",
+        "comment": "cannot be opened on xiaomi phone. What a shame!  fixed! thank u! Perfect now!",
+        "commentId": "gp:AOqpTOEEYG6l_iiZqUbeulgBgiy6EBJWCkjUUEHBrZc76DZKdGCO7_GxkVIuGaxJ_UkrYhnoMhzH36w3XoX7iw",
+        "author": "Elwyn Ho",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.4",
+        "timestampMsec": "1367619160615",
+        "starRating": "4",
+        "title": "Great",
+        "comment": "Awesome app but for some reason my notifications do not survive a reboot.  Am I alone with this?  Would be five stars if they survived a reboot.  Att HTC onex",
+        "commentId": "gp:AOqpTOF--j8tmxDB3wsADowdcRa_-3eCDkd3AqIAbc41sXU8NT-03acQpatRwgAdEeWYG1Xr2TexizNzXr-TLw",
+        "author": "mike goss",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.4",
+        "timestampMsec": "1373079230817",
+        "starRating": "5",
+        "title": "Genial",
+        "comment": "Esta genial personalizar tus notificaciones con foto y todo. Me encant\\303\\263!",
+        "commentId": "gp:AOqpTOF_Pd8cgUWlZNjjxyOnSPLxH-sOCPRNlZUhCPwwiR3Ss0OHDLGlQIPSnSFGyQdI35BUmjvAPrlfI6f_Mg",
+        "author": "Andrea rojas",
+        "authorURL": "http://lh5.googleusercontent.com/-eKWyguAUc2I/AAAAAAAAAAI/AAAAAAAAAJM/IPz3491dSX8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-eKWyguAUc2I/AAAAAAAAAAI/AAAAAAAAAJM/IPz3491dSX8/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.4",
+        "timestampMsec": "1371198479609",
+        "starRating": "1",
+        "title": "Lose reminders. ..",
+        "comment": "Sorry but until you fix the issue whereby all reminders are lost when you reboot your phone this is useless. I turn my phone off each night so next morning they\\'re all gone!",
+        "commentId": "gp:AOqpTOFkrKMlE9iyliPOd8t6kX7jMiQ1wkwNhYo76M0YNlGhoWKvq-Jm8HneaqmTEjkJChY4rCdAuyrgbHdylg",
+        "author": "Steven Lyon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.4",
+        "timestampMsec": "1369086115803",
+        "starRating": "5",
+        "title": "Great app!"
+      },
+      {
+        "commentId": "gp:AOqpTOFUq5XtVyIOYp5Z9VJGRVYT0NO-3qV9sFnPCmxpN-Z9lMOoFkuQql9dUnT_Nkh6G3n3UGaKjZkGhqQfIw",
+        "author": "George L",
+        "authorURL": "http://lh3.googleusercontent.com/-OT9VfB4MtTU/AAAAAAAAAAI/AAAAAAAABEM/NpZYI7UrNh4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-OT9VfB4MtTU/AAAAAAAAAAI/AAAAAAAABEM/NpZYI7UrNh4/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.4",
+        "timestampMsec": "1367519758066",
+        "starRating": "4",
+        "title": "Alerts",
+        "comment": "I think if this app had alerts and the option to add time and date and how often to be notified instead of just hanging out in the notification bar would make this even more better. My opinion.",
+        "commentId": "gp:AOqpTOFbpZZ09RIx68mNqWy8uzY_lZOM_gfUZQmVHAVFjN_nZyxgT4-qJnxgsJ7sGxGDJYdtZTM9cWl9018gEg",
+        "author": "bow Chika",
+        "authorURL": "http://lh5.googleusercontent.com/-P9JEv08LTTQ/AAAAAAAAAAI/AAAAAAAACkc/uOhIqpYmdcg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-P9JEv08LTTQ/AAAAAAAAAAI/AAAAAAAACkc/uOhIqpYmdcg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

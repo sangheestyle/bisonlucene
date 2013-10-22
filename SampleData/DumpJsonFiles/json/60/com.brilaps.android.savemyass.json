@@ -1,0 +1,50 @@
+{
+  "title": "Save My Ass",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brilaps.android.savemyass",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "November 8, 2009",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "7",
+  "rating": "3.857143",
+  "contentRating": "Not rated",
+  "creator": "Brilaps, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brilaps.android.savemyass",
+  "extendedInfo": {
+    "installSize": "173k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Save My Ass is a utility which quickly deletes your recent call and text message history. Need to remove your call and/or text messages in a hurry, just before someone grabs on your phone? SaveMyAss is like insurance. You never know when you need it!We also recommend you to check out Txtract in the Market.",
+    "reviews": [
+      {
+        "timestampMsec": "1293832168608",
+        "starRating": "1",
+        "comment": "waist of money!",
+        "commentId": "lg:AOqpTOEn_obgXvzEdxXzUoESMl09lmSim_CXHwJhLEyPeGoN7PtlFGdejdo6VnE6CVhbKXPzVzNMqVVbuQoE3A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1295918547494",
+        "starRating": "5",
+        "comment": "@stephen; why \\\"waste\\\" of munies? It didnt work for you? Just tried it and does what its supposed to do :)",
+        "commentId": "lg:AOqpTOFVeVn6SG8MzSJB-AJ7jfvoBbTzPCZO1S2hbZ2Qsmpt6Dee80iTny4DomV7679BYD97hAe4BncBBX2KAQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.GET_TASKS",
+      "android.permission.CLEAR_APP_CACHE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

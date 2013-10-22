@@ -1,0 +1,80 @@
+{
+  "title": "Douglas County School District",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.educationalmeasures.dcsd",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "July 15, 2013",
+  "version": "1.40",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "3.4",
+  "contentRating": "Everyone",
+  "creator": "Educational Measures",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.educationalmeasures.dcsd",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Official mobile app for the Douglas County School District k-12.Staying in touch and in-the-know is now easier and more accessible than ever.From grades, lunch menus to the latest news and snow day notifications, information is at your fingertips 24/7.Alerts deliver weather closures and breaking emergency news notificationsThe school directory links you to contact information and quick facts for each public school in Douglas County.Users can register to receive school-specific alerts, notifications and news.Link directly to Infinite Campus  to view grades and attendanceWhether you are a parent or student, community member or employee, the DCSD app connects you to what you need to know, when you need to know it!",
+    "reviews": [
+      {
+        "timestampMsec": "1364344688177",
+        "starRating": "2",
+        "title": "Still has bugs",
+        "comment": "I just tried to log into the IC Portal and it says Web page not available..... Please fix",
+        "commentId": "gp:AOqpTOEiahAnmp4XS3D9IVYJebj-ZMxD15CQMIe3oD0kVIbhfaUDy38zIo2NiSMtAc1Tp_k4gwz0lp72N0it7I4",
+        "author": "Mike Falkenstine",
+        "authorURL": "http://lh3.googleusercontent.com/-q5eLUclFsWs/AAAAAAAAAAI/AAAAAAAAAGs/Lcblh8WqTMo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-q5eLUclFsWs/AAAAAAAAAAI/AAAAAAAAAGs/Lcblh8WqTMo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363112028178",
+        "starRating": "2",
+        "title": "Won\\'t let me log in!",
+        "comment": "I just updated the app today and when I tried to log in with the correct username and password, it says it is incorrect. I cany even access the app without logging in! Please fix asap!",
+        "commentId": "gp:AOqpTOETmvgtduKfs2pgM8DioFcM9MJyMzWDv_rwiilBuvsMwQZjHx0Eo8mePoTZTZV_cBaF9cY-4R9diKSAiQU",
+        "author": "Christian Liley",
+        "authorURL": "http://lh5.googleusercontent.com/-KsR-YlN2iOM/AAAAAAAAAAI/AAAAAAAAAbE/yPbLMSEJ_tI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-KsR-YlN2iOM/AAAAAAAAAAI/AAAAAAAAAbE/yPbLMSEJ_tI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355416886397",
+        "starRating": "3",
+        "title": "yay",
+        "comment": "Yay, this works.",
+        "commentId": "gp:AOqpTOErw29Z-5L7ysHc4fOMP_OfS_Q44C34yPpxvFSUZShHWrRC0ZMyKkAuG1g_GeKW0LhxWMJEefR1zbthYfs",
+        "author": "Carrie Hopkins",
+        "authorURL": "http://lh6.googleusercontent.com/-1V3yW3ovFxo/AAAAAAAAAAI/AAAAAAAAACY/PSiMyOkJQIA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-1V3yW3ovFxo/AAAAAAAAAAI/AAAAAAAAACY/PSiMyOkJQIA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1354685739404",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "Interesting info",
+        "commentId": "lg:AOqpTOF6TDjTeuISypOkR61Q8eZJhTGK5RJ9vCDcj9sdSBCRWOXxseDnz6GL_gx3op6Tu9SPr8WqKokASe991PA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354282731644",
+        "starRating": "5",
+        "comment": "Useful",
+        "commentId": "gp:AOqpTOFYpRDahwKABpMIQ2oUucpEzWxk5n8k1auYXkFnbsCjV4NoieB4cLpzjDwj1Pqbib-v6ifkORA658x__Hg",
+        "author": "Simon Drabble",
+        "authorURL": "http://lh3.googleusercontent.com/-S06y5t774bM/AAAAAAAAAAI/AAAAAAAAAAA/sFvheQmCego/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-S06y5t774bM/AAAAAAAAAAI/AAAAAAAAAAA/sFvheQmCego/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.educationalmeasures.dcsd.permission.C2D_MESSAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

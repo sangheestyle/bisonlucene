@@ -1,0 +1,43 @@
+{
+  "title": "Dallas Eats Local",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dallasnews.dallaseatslocal",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "January 18, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "The Dallas Morning News",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dallasnews.dallaseatslocal",
+  "extendedInfo": {
+    "installSize": "7.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Get the freshest food at the grocery and farmers market with our updates about what's in season. Plus our North Texas Farmers Market Guide helps you find out when a market is open near you. We also have suggestions for new beer and wine to try and a local food events calendar of classes and tastings.It's all brought to you by the food editors at The Dallas Morning NewsNote: If the app reports it is in an inconsistent state, please check your connection and reload.",
+    "reviews": [
+      {
+        "timestampMsec": "1342659565273",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "Says inconsistent state",
+        "commentId": "lg:AOqpTOEf0VD2eutF4YVxQARoeNlq86wgdl239dqrZFgDcrGpSy--qG6hBg9KJdsr16Bc35zJ64WFzGWemMcoKA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.dallasnews.dallaseatslocal.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

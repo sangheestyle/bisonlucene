@@ -1,0 +1,45 @@
+{
+  "title": "The Church At Creeks End",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.creeksend.churchapp",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 16, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Onseeker Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.creeksend.churchapp",
+  "extendedInfo": {
+    "installSize": "5.4M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "With the all new Church At Creeks End android app, you'll be able to connect with our Church on-the-go like never before! Take a look at some of the amazing features:-See service times and get directions.-View staff bio's and contact info.-Listen to or watch our messages - when your done you can share them with friends and family!-Find out about upcoming events and get turn-by-turn directions, weather and parking info and more.-Our Media Section displays photo galleries and videos of our church.-Find sermon resources, recommended reading, and more in our Store section.-Learn about our worship team and listen to the music we play through the 'worship' area.-The more section displays Small Group info, Devotionals, Online Giving, and you can even send a Prayer Request!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.CALL",
+      "android.permission.READ_CALENDAR",
+      "android.permission.GET_TASKS",
+      "com.creeksend.churchapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.DELETE_CACHE_FILES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

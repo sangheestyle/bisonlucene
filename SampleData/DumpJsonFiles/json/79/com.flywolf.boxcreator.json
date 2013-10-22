@@ -1,0 +1,36 @@
+{
+  "title": "Box Creator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flywolf.boxcreator",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 16, 2013",
+  "version": "1.04",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "14",
+  "rating": "4.142857",
+  "contentRating": "Everyone",
+  "creator": "Sergio Falcão",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flywolf.boxcreator",
+  "extendedInfo": {
+    "installSize": "873k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Simple and easy program to create the typical elements of furniture, for example kitchen.Suitable for beginners and home furniture masters.Choose the type of box, then enter the total dimensions, detailing the program will calculate itself.This is the 1st beta. Requests send to flywolf1978@gmail.com.Added calculation of the amount of material. Edge length, the area of ââparticle board.New version include export to csv.You have ability create and calculate:- different boxes;- boxes with socle;- simple table;- computer table.",
+    "reviews": [
+      {
+        "timestampMsec": "1373536413142",
+        "starRating": "2",
+        "title": "Needs input variables",
+        "comment": "Nice concept but names of parts are weird and a bit useless without the ability to change dependant variables.",
+        "commentId": "gp:AOqpTOG3nPIy-Fl1hFRuBJBvH-pEJXILtb_VGTesNw5N7ZX9741qJxaUZbdf7aGvzSxiSHA3pROQEr5tAP4Cqg",
+        "author": "Sam Ayers",
+        "authorURL": "http://lh5.googleusercontent.com/-dVogdqoeSI0/AAAAAAAAAAI/AAAAAAAAAA8/G5K9uuRPTDo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-dVogdqoeSI0/AAAAAAAAAAI/AAAAAAAAAA8/G5K9uuRPTDo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Find a free Meeting Room",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ewstest",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 1, 2012",
+  "version": "1.1.13",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Gyorgy Pocsi",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ewstest",
+  "extendedInfo": {
+    "installSize": "154k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app will show you the currently available (free/not booked) meeting rooms. It gets the information from your corporate Exchange 2007/2010 server (Microsoft environments).Were you ever wandering in the office and trying to find a meeting room for your ad-hoc meeting? Search no more, this app will help you!It works with Exchange 2007 and 2010 servers. The server needs to have Outlook Web Services enabled. ISA firewalls are supported by this app.Notes:* the app is currently in alpha (if you happen to run into errors please let me know and I'll fix it ASAP)* on Exchange 2007 there is no native room support, so you'll need to rely on your organization's room naming convention (you have to specify a filter string, which can be found in all the rooms' name)* you can hide false room results by long tapping on a room and selecting Ignore/hide room* actual booking of a room will come in the next versions",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}

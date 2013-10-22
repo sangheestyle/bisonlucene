@@ -1,0 +1,77 @@
+{
+  "title": "Wi.cap. Network sniffer Demo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evbadroid.wicapdemo",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 4, 2013",
+  "version": "1.1.6",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "29",
+  "rating": "4.172414",
+  "contentRating": "Low Maturity",
+  "creator": "evbadroid",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evbadroid.wicapdemo",
+  "extendedInfo": {
+    "installSize": "806k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Mobile network packet sniffer for ROOT ARM droids (\"su\" utility should be installed). This is a free demo version, which will help you to test the packet capture engine on your device.WARNING! You should not use the application for illegal activities, use it only for educational or engineering purposes.P.S. Recommended network applications:- Fing- ezNetScan- Servers Ultimate- dSploit (not market)- Intercepter-NG",
+    "reviews": [
+      {
+        "timestampMsec": "1363584308843",
+        "starRating": "5",
+        "title": "Works",
+        "comment": "Looks good, real deal will be great",
+        "commentId": "lg:AOqpTOEMZFbwmQLuM4Pl1iPqTyesq84Wd8KQHBYfnk2CQ65cgs7yMbZRxFNavCAlki0UY_M8GhzBh9AoylCFNA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378467956442",
+        "starRating": "4",
+        "title": "GUI improvement needed",
+        "comment": "Please  add one more column on main window. I woulld like to have something like this on my Nexus 7:  a) Portrait Mode 1. Proto 2. Source(MAC) 3. Destination(MAC) 4. Information  b) Landscape Mode 1. Net 2. Time 3. Program 4. Proto 5. Source(MAC) 6. Destination(MAC) 7. Length 8. Information",
+        "commentId": "gp:AOqpTOGqEsE9kHrLJp_iRwcGe1zFJ3bIdfRzA-DpP_tMMnhDiFUUUzBtG_2F80OlbxCL-TUKNc4A7j_WzwAYqQ",
+        "author": "\\305\\275eljan Alduk",
+        "authorURL": "http://lh5.googleusercontent.com/-_kX-TjorbGQ/AAAAAAAAAAI/AAAAAAAAAAA/HyDKuTaKQYI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-_kX-TjorbGQ/AAAAAAAAAAI/AAAAAAAAAAA/HyDKuTaKQYI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377435369563",
+        "starRating": "2",
+        "title": "Not running at background....",
+        "comment": "I wish it can run in background... is there any troubleshoot? I have dual core phone",
+        "commentId": "gp:AOqpTOEYq945lEyrmFjn6MMTIkrhMCl9FnaYnuIk6eOKscp-OwvqKQZcWIoQA1u0C_JnA6lx89ZQBthc_LmMpg",
+        "author": "mark louie ca\\303\\261ero",
+        "authorURL": "http://lh4.googleusercontent.com/-rGoIOnvdKmk/AAAAAAAAAAI/AAAAAAAAACU/j8G2iHCyXGM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-rGoIOnvdKmk/AAAAAAAAAAI/AAAAAAAAACU/j8G2iHCyXGM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368349922803",
+        "starRating": "5",
+        "title": "beautiful",
+        "comment": "stunning interface. incredibly full featured. best capture app available. never spent 15 on an app before but really considering it because this app is so awesome",
+        "commentId": "gp:AOqpTOHPpSN6bMsFY6S6bKU7jDxmbvCwbIEWmQBISwdr_pMubge4Dlm89zFWxlNpscUcrQZXCfzrtrV5Qj500Q",
+        "author": "Ryan Edwards",
+        "authorURL": "http://lh5.googleusercontent.com/-OoHxwJr9GYc/AAAAAAAAAAI/AAAAAAAADQA/rcXIoGUVpjE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-OoHxwJr9GYc/AAAAAAAAAAI/AAAAAAAADQA/rcXIoGUVpjE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACTION_BOOT_COMPLETED",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

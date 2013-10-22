@@ -1,0 +1,47 @@
+{
+  "title": "Bionic Eye App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bva.BVAApp",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 11, 2013",
+  "version": "2.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "VisionSpiral",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bva.BVAApp",
+  "extendedInfo": {
+    "installSize": "101k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome to the bionic eye app. This app simulates the sort of vision that a person might experience using a bionic eye. The bionic eye is a retinal implant, placed at the back of the eye to restore a sense of vision for people with profound vision loss due to degenerative conditions of the retina. An external camera captures the visual scene and sends data to the implant. Electrodes on the implant electrically stimulate the nerve cells in the retina, providing a sense of vision. In this app, each spot of light that appears represents one electrode. The purpose of this app is to simulate what bionic vision might look like. This app is not able to exactly represent the kind of vision processing that will be deployed with the full bionic eye devices. Research and development of vision processing strategies for the actual bionic eye implant is being completed at the NICTA Computer Vision Research Group in Canberra. Further, each and every patientâs experience with a bionic eye will be different and hence the vision they experience might be different to what is represented in this app. This app is intended for education purposes only.         Usage:This app requires OpenCV Manager to run. This is a free download from the PlayStore.Main ScreenYou can take photos in black and white, or in phosphene mode by clicking the camera button. This will save a picture in your \"Pictures\" directory on your deviceâs internal memory. You can change from the black and white images to phosphenes by selecting the options menu and clicking \"Preview Phosphene\", or by clicking the middle icon.SettingsThis app allows you to simulate a maximum of 1024 electrodes (32 x 32). The phosphene size and the number of phosphenes can be changed by using the slider bars.Â© 2013. Developed by Matias Maturana for Bionic Vision Australia. (More info can be found at http://www.bionicvision.org.au/)",
+    "reviews": [
+      {
+        "timestampMsec": "1368506547908",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Works OK on HTC One X",
+        "commentId": "gp:AOqpTOGaDus8-wKAdpBJ4bvZ2HKELdhS0wRQOszXP-BDIDVtr5mlymZ7I5PPQAdNOgGykyfuxaY7Wfz5zctq6w",
+        "author": "Peter Meijer",
+        "authorURL": "http://lh6.googleusercontent.com/-dxgAo1y0ov8/AAAAAAAAAAI/AAAAAAAAAbY/ZZAb6A1n-w4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-dxgAo1y0ov8/AAAAAAAAAAI/AAAAAAAAAbY/ZZAb6A1n-w4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366597513592",
+        "starRating": "5",
+        "title": "Brilliant",
+        "comment": "Been following the progress of this for years and always loved seeing it from what it may look like to the user, and now I can see whatever I want with it, inspiring work guys and brilliant app :)",
+        "commentId": "gp:AOqpTOEi9v8iROSWDCR9ZhRi5REx1daIvOSQ2jWqFTuiRsAwUDZfV6-W34v6oAF1VeE2SURcQpsz97tw1Nv9SQ",
+        "author": "Jamie Williams",
+        "authorURL": "http://lh5.googleusercontent.com/-OIMuof3n-GE/AAAAAAAAAAI/AAAAAAAAAEk/aCzlJX3BcKI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-OIMuof3n-GE/AAAAAAAAAAI/AAAAAAAAAEk/aCzlJX3BcKI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

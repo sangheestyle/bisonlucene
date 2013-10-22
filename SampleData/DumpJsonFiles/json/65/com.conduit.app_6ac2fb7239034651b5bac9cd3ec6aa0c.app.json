@@ -1,0 +1,39 @@
+{
+  "title": "Middle TN Car Show",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_6ac2fb7239034651b5bac9cd3ec6aa0c.app",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "January 5, 2012",
+  "version": "1.9.7.878",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Amped Up Entertainment",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_6ac2fb7239034651b5bac9cd3ec6aa0c.app",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "An annual Car & Truck Show in Middle TN to help benefit non-profit organizations in our area.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_6ac2fb7239034651b5bac9cd3ec6aa0c.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Truckie's Mate",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.btb.TruckiesMate",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "June 24, 2013",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "13",
+  "rating": "4.4615383",
+  "contentRating": "Low Maturity",
+  "creator": "Bravo Tango Bravo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.btb.TruckiesMate",
+  "extendedInfo": {
+    "installSize": "717k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "\"Truckie's Mate\" has been custom designed to provide Australian truck drivers with a raft of useful features and information whilst they are out on the road.The Accident Help feature is designed to assist drivers in the even t of an accident. The accident detail section enables drivers to capture all the crucial accident information - the location, the time and the damage incurred as well as witness details. Importantly, they can also take photos of the accident scene. All the driver's truck and insurance details can be pre-loaded for easy retrieval when it's needed.All the accident information, photos and relevant details can then be simply added to a file and emailed to their insurer and other parties.The Truck Stop Finder enables drivers to find out where, and how far, the next Truck Stop is from their current location. Alternatively, they can check out all the Truck Stops along their intended route, state by state to help them plan their next trip.Western Star drivers will be able to locate their nearest Western Star Dealer whether it is for some urgent parts a repair or a routine service. They simply click on the Truck Dealer button and the nearest Dealer will be shown along with all the necessary contact details.Drivers can also find out about the latest range of Western Star trucks via a direct link to the Western STar website where they can check out all the latest news at the same time.There's also useful information on the latest fatigue laws and links to each state's respective road authorities web site.",
+    "reviews": [
+      {
+        "timestampMsec": "1345155318747",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "Shame there isnt an up like for cars",
+        "commentId": "lg:AOqpTOEwWvG-Wu7ypfvYksjd_y42-DOSbErPT6QJoqqw3MzQxMHIfQqKu_pQt26xkPxc7CKwqMxMEARuk5U7sg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332028258219",
+        "starRating": "5",
+        "title": "The garbbo",
+        "comment": "Great app",
+        "commentId": "lg:AOqpTOHtz0mgsiStS-LMC4PI0RbG47mKFR88Db7vNGWPQoJ8CwoQJ6wVDtiRoZx4wJ5EExv2Y6GxU06rqFUvjw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341413500045",
+        "starRating": "5",
+        "title": "Handy app for Australian truck drivers",
+        "comment": "Very well made. Great mobile application!",
+        "commentId": "lg:AOqpTOFCEDnJYY1OQc45-UmF83B83DOCohYaJKaoF28YjMEHL910wIpu20vCG9_qzyRhTuvlEcR_xNf54nBXiQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

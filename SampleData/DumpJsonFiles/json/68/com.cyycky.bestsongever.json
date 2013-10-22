@@ -1,0 +1,41 @@
+{
+  "title": "1D Best Song Ever Lyric",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cyycky.bestsongever",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "August 15, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "3.8",
+  "contentRating": "High Maturity",
+  "creator": "AntEve",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cyycky.bestsongever",
+  "extendedInfo": {
+    "installSize": "6.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Get the lyrics of 1D One Direction latest song, Best Song Ever in this app for FREE.NOTE:This is an unofficial fan app. Any content is not owned by this developer and belongs to their respective owners. If you would like to request removal of any content for copyright issues, please kindly contact us.",
+    "reviews": [
+      {
+        "timestampMsec": "1378132558790",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Iff u r a directioner pls like this aap",
+        "commentId": "gp:AOqpTOF0DsIu60TMr0WXR_N8l1fPQH0YZ8fXtQ8jdrDciq-9ZSnjVLZqj1TTvQuegxa3oIlp5fL-pZiiMQFgoA",
+        "author": "CH ARIF HUSSAIN",
+        "authorURL": "http://lh3.googleusercontent.com/-TzwwTQXMYjQ/AAAAAAAAAAI/AAAAAAAAACQ/-Xt5W1ESZUU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-TzwwTQXMYjQ/AAAAAAAAAAI/AAAAAAAAACQ/-Xt5W1ESZUU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "com.cyycky.bestsongever.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

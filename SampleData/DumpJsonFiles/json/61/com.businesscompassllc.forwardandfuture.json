@@ -1,0 +1,31 @@
+{
+  "title": "Forward & Future Contract",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.forwardandfuture",
+  "category": "Finance",
+  "price": "$2.99",
+  "datePublished": "April 19, 2011",
+  "version": "6.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Business Compass LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.forwardandfuture",
+  "extendedInfo": {
+    "installSize": "155k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Forward and Future(Index, Currency and Commodity) Contract computes delivery price, value and parity rate. Actual dividend/yield received and actual storage cost/% of commodity price paid can be specified. Dividend yield/storage cost is annual unless specified otherwise. Foreign interest rate is captured by dividend.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Where Am I ?",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.rishi.whereami",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "January 19, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Rishi B",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.rishi.whereami",
+  "extendedInfo": {
+    "installSize": "266k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This app is no longer supported. I'm not sure if this will work with latest versions of android. It was last tested on android 2.4.A Simple App that tells you where you are. Requires INTERNET CONNECTION.",
+    "reviews": [
+      {
+        "timestampMsec": "1378413809352",
+        "starRating": "3",
+        "title": "Doesn\\'t work on galaxy note 2",
+        "comment": "Nice simple layout, unfortunately it doesn\\'t work in the galaxy note 2 with Android 4.1",
+        "commentId": "gp:AOqpTOFF5FkNwcd-D9m-Q1lPSS83KGwbVh7YpiQToDzwJdNPpJxbKvfDSx93r4Bf_SPYfn9TEqpcNVpJjmJr270",
+        "author": "Quentin Christensen",
+        "authorURL": "http://lh4.googleusercontent.com/-Az2HrSFcOnc/AAAAAAAAAAI/AAAAAAAAANY/zPfZu8Qr2a4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Az2HrSFcOnc/AAAAAAAAAAI/AAAAAAAAANY/zPfZu8Qr2a4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

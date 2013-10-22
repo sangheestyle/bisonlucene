@@ -1,0 +1,45 @@
+{
+  "title": "Chatty",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chat.messenger",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "June 20, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "15",
+  "rating": "3.0666666",
+  "contentRating": "Everyone",
+  "creator": "Soweso SRL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chat.messenger",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Chatty, an app for your business that is safer and faster than email, for free.You can easily increase the number of contacts you have about your business, because they know it's safer ask information or receive assistance using Chatty.If you or your company want a wonderful way to speak with your customers, give them sales information, assistance or whatever you want, this is the app you were looking for!You can register for free and start to chat in few seconds!Here the features:- Faster than email- Safer than email- Companies can know who writes to them (sex, age, country)- Companies can personalize their image with their logo;- Companies can be reached from customers wherever he is directly from his phone;- Companies can use different addresses for different people (sales, assistance...);- It's possible to send also files;- People is always focused on the topic;- If the phone is turned off the message is converted in a email;- If you want contact someone that already use Chatty, about some ads in some website or magazine, you can keep your privacy high and he can't reach you anymore when you close the chat;- You can chat from web browser, iPhone or Android phones;- You can save the chat (from website);- For user is easier chat by phone (they write more message by chat) than email.For companies:What you need is just register one or more email address in the app or in the website and show our logo in your website in your contacts page;Your customers will know you use Chatty and they'll contact you in this easy way, so you can give them an unforgettable service. Try it, it's free!For business ownersKeep your business always with you, answer to your customers questions with a real live support, 24/7, where ever you are, by phone or by web browser.For adsYou can use Chatty to speak with people interested in your ads; you'll be available to answer from where ever you are and they'll be show you more interest about your ads, sure their privacy will be higher.For usersHow many times you didn't contact someone because you didn't want to give him your email? Or how many times you didn't sent an email because it was too \"binding\"?With Chatty you don't have these problems because if you contact someone using it, he can't reach you anymore once you close or delate the chat. Your privacy is safe, no more spam.And it's very easy to use, you can ask questions, like when you text with your friends, and the companies are very happy to answer and interact with you.Try it now, it's free!",
+    "reviews": [
+      {
+        "timestampMsec": "1358165980045",
+        "starRating": "1",
+        "title": "Dd",
+        "comment": "Useless",
+        "commentId": "gp:AOqpTOGpEuQfGrNvXGseySrxmGm0F3uWIRTzo_NstAV07kvCFcIRqdcUpLz6SWEr_jQZJZ3GVgxapZcD6owsYQ",
+        "author": "Guru Krishna",
+        "authorURL": "http://lh4.googleusercontent.com/-qqRfpw0t8bg/AAAAAAAAAAI/AAAAAAAAAAA/FAdQ1ZFCBRo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-qqRfpw0t8bg/AAAAAAAAAAI/AAAAAAAAAAA/FAdQ1ZFCBRo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.chat.messenger.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

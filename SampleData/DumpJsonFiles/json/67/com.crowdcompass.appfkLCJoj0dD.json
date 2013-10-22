@@ -1,0 +1,38 @@
+{
+  "title": "Business Horizons Career Fair",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.appfkLCJoj0dD",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 16, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.appfkLCJoj0dD",
+  "extendedInfo": {
+    "installSize": "14M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "The official app for the 2013 Business Horizons Career Fair at Virginia Tech for the Pamplin College of Business. Bookmark companies, view maps, receive timely notifications and save time preparing and attending the fair.Business Horizons Career Fair, Virginia Tech, jobs, internships, Pamplin, job fair",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.appfkLCJoj0dD.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

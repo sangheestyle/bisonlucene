@@ -1,0 +1,38 @@
+{
+  "title": "Fine Bass Tuner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.finestandroid.basstunner",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "August 8, 2013",
+  "version": "1.00",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "24",
+  "rating": "4.1666665",
+  "contentRating": "Everyone",
+  "creator": "FinestAndroid.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.finestandroid.basstunner",
+  "extendedInfo": {
+    "installSize": "265k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Fine Bass Tuner is a chromatic tuner designed for bass instruments that allows you to quickly and accurately tune your instrument using the built-in mic in your Android device. Features nice and clean interface allowing you to quickly find your pitch. The Fine Bass Tuner is a version of my Fine Chromatic Tuner that was adjusted and designed for bass . I believe that it will work with any low to mid range instrument as it was fine adjusted for the 20 Hz - 300 Hz. This is automatic chromatic tuner that supports every screen size. Fine Bass Tuner works well with devices supporting 44100 16 bit audio input (almost every phone and tablet in mid - high price range) and 22050 16 bit audio input. It still works with the other possible settings but not so accurate. If you are a bass guitar player you will find this to be the best bass guitar tuner free app. It is designed to give the most accurate tunig for the low frequences and your bass guitar or other bass instrument will sound just in the right way. Features: - Automatic note selection- Ultra responsive -50 to +50 cent range fine tuning display - Precise to Â±1/100 semitone (Â±1 cent) - Analog like needle - Exact frequency display.- Clean and simple analog like UI- Keep screen on while working.- Works in noisy surroundings- Adjusted for bass (20 - 300Hz range)- String vibration visualization",
+    "reviews": [
+      {
+        "timestampMsec": "1374142015955",
+        "starRating": "5",
+        "title": "It works",
+        "comment": "Super",
+        "commentId": "gp:AOqpTOHiBDTSa17SbGn38I43OcUKUgVNSd-ZqpYHvt8AdI1rG1ekjb0OdJliHjaLYpPRG9HpoGChXB9Qmfp7DQ",
+        "author": "Peter Petrov",
+        "authorURL": "http://lh6.googleusercontent.com/-suNx98zRUUs/AAAAAAAAAAI/AAAAAAAAAFE/JUn_dNbTD9A/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-suNx98zRUUs/AAAAAAAAAAI/AAAAAAAAAFE/JUn_dNbTD9A/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

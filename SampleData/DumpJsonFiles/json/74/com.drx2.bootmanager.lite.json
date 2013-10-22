@@ -1,0 +1,223 @@
+{
+  "title": "Boot Manager Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drx2.bootmanager.lite",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 10, 2012",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "248",
+  "rating": "3.1975806",
+  "contentRating": "Everyone",
+  "creator": "Init 2 Winit Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drx2.bootmanager.lite",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "==============================================We apologize for letting this app die we became very busy with other works, however, starting today (November 7th) we have began to work on this project again. We plan to update soon and will be working on the following: support for Galaxy Nexus JB, and Samsung Galaxy S3 support. If you would like to suggest other points to work on follow us at @init2winitapps on twitter and mention us to contact us. ==============================================Boot Manager Lite allows one extra slot and some features have been removed from the pro version. For UNLIMITED slots and disabled settings see the pro version.Boot Manager is Android's first multi-boot application. It allows you to install and boot ROMs from your sdcard and boot between then with just a reboot. The application acts as your recovery for your sdcard slots. Install your kernels, themes, and ROMs all through the app and use your normal recovery for your phone ROM only.IF YOU HAVE UPDATED SUPERUSER APK YOU NEED TO DISABLE LOGGING IN THE SUPERUSER APP. IT IS A BUG IN SUPERUSER AND WILL CAUSE ISSUES WITH BOOTMANAGERManual to the app athttp://init2winitapps.com/stories/BMManual.htmlPlease Read the Manual :) or see the tutorial video located there as wellCurrent Official Supported Devices (Devices can also be manually supported)Samsung Galaxy NexusHTC DesireHTC Desire HDHtc Desire SHTC Desire ZHtc Evo 3DHTC EVO 4GHTC G2(aka Vision)HTC Incredible 1Htc Incredible 2Htc Incredible SHTC Inspire4gHTC MyTouch 4GHTC Nexus OneHtc SensationHTC ThunderboltHTC RezoundMotorola Droid 1Motorola Droid 2Motorola Droid 2 GlobalMotorola Droid XMotorola RazrBootManager will not work with Samsung devices that are not listed because of the way Samsung handles the boot partition. Motorola phone's with a locked bootloader will also not currently work.tags: init 2 winit, init2winit, init2winitapps, boot manager, rom manager, android, droid, root, multi, dual, boot, bootmanager, rom, manage, dualboot, multiboot",
+    "reviews": [
+      {
+        "timestampMsec": "1338775415480",
+        "starRating": "3",
+        "title": "Maybe I\\'m doing something wrong.",
+        "comment": "It does indeed boot straight into another ROM, without me waiting ten minutes to restore a nandroid. However, after booting into that ROM, my only option is to restore a nandroid to escape. Verizon Galaxy Nexus",
+        "commentId": "lg:AOqpTOGl6kB-yi2oyDcSJYvXPaPuvB3FAThr9s2mp29mO2ASepytU5H6Y9fmnM-sAJHRmQoezj4G1YtFsgC85g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343868651131",
+        "starRating": "3",
+        "title": "Does not work with 2.25 hboot",
+        "comment": "It would be nice if it worked with the new hboot but it doesn\\'t it just hangs at the boot screen then I have to restore my Rom right after if I want to use it y\\'all should update to work with new hboot!",
+        "commentId": "lg:AOqpTOFKN_LBqEEvf8J0-v4th_hBclyUGxeHX5-bsjQU0X3f2H3yzZe78BKSiIqBPmpoLKWi1Oo7w0xFo40WEg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341253643646",
+        "starRating": "4",
+        "title": "Does not work with Jelly Bean",
+        "comment": "Installed Jelly Bean as ROM1 - stuck right after Google Screen. Had to pull battery and use Recovery to go back to Phone ROM.",
+        "commentId": "lg:AOqpTOG4dMYmroBxcfymZZqz31MBlNqPEPZ7U7h4-CGUBCALBdppMjqxDMGCpNdhx9FZ5GUEUapDwmIKgdEUdA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354461702980",
+        "starRating": "1",
+        "title": "Does not work with Atrix 4G",
+        "comment": "Does not work on Atrix 4G. Looks like an awesome app and I really want to use it. Hopefully my device will be added soon so I can play with several ROM\\'s.",
+        "commentId": "gp:AOqpTOGCT_xc6PJmV8fYMjEteC4N1sRkQT4pHDKL7aEsUDoJBv5mc6B7iUgEWXs6nN_OzdRJBoLVJY7oWrpOlw",
+        "author": "Jason Ciaschi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334217893868",
+        "starRating": "3",
+        "title": "HTC",
+        "comment": "Works on my rezound.. But then again using ROMS that are using same boot image. Latest ICS leak",
+        "commentId": "lg:AOqpTOFCC41IGbO56iYbqvhsvihzYiHAtmCU0ciOOsiaSIn03JYN2w0hC1HFpJB3gsNeqT3RIvaYyzDUnMIFnQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339245050407",
+        "starRating": "4",
+        "title": "Works well on rezound",
+        "comment": "My only complaint is how long it takes to install a rom and I\\'m not even sure it\\'s the app and not just limitations on the speed of the sd card. Either way this is fantastic for trying out a new rom without having to backup and restore",
+        "commentId": "lg:AOqpTOHzkPRnU3bD7hzMgall0BTOy6Pd7-8mqV-o4J_OJzKf4YZ-snNmrw6X8IwPAARTzqQesgBdyf1-sY6iag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376066211476",
+        "starRating": "1",
+        "title": "Freeze phone as it unzips",
+        "comment": "I watched the set up video and my phone freezes when I try to do it. This need work for galaxy nexus. I want to run Ubuntu soon",
+        "commentId": "gp:AOqpTOFSpFdxv9nng6clkBPQdyVXBQxJBOQSMjYLOOUN17d8i66miQSW4aLx3ipCKiVqU_Iw-oHzCJk6qq5EBA",
+        "author": "Devin Robinson",
+        "authorURL": "http://lh5.googleusercontent.com/-zsGwM3yqdVs/AAAAAAAAAAI/AAAAAAAAAMU/fcgyIKEVK1s/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-zsGwM3yqdVs/AAAAAAAAAAI/AAAAAAAAAMU/fcgyIKEVK1s/photo.jpg"
+      },
+      {
+        "timestampMsec": "1342636065010",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "I just needed one alternate boot for now. But when i get a bigger micro SD I am buying full version! One thing I did not like about the lite version is that once i booted alternate rom, i got the error for the full version getting installed automaticly. I think lite version should install the lite version into alternate boot rom 5 star app!",
+        "commentId": "lg:AOqpTOHYn9Wctz6ATIAmYW_ymmPbpeK6i9P4CjWLXM9AbKH6hp1Ex_UupNE_tfCx-lqGFM7U2I8PvmA18VZY9w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342291137981",
+        "starRating": "4",
+        "title": "Sucks",
+        "comment": "seems legit  now it has crashed my phone yet..  but makes the other rom slow that\\'s why it minus 1  star",
+        "commentId": "lg:AOqpTOGBUbEqUvDF7OoVhUV9L87e7Eotp4wkqXKD7GbWMsDzh1r1ad3sDZuabh5USVIquon1BusqNTbR58VfKw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335898468795",
+        "starRating": "1",
+        "title": "Removed",
+        "comment": "Doesn\\'t work on MT6537 android 2.3.6 dual sim phone. Love the phone don\\'t want to brick it.",
+        "commentId": "lg:AOqpTOGevwGqtK54POd3ob31TKJFthNURg6YipVIDCx-CG-gJWq41Tz-uglAINHg7R0DifdGo0su-mW-vZ_-6Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350278695687",
+        "starRating": "1",
+        "title": "needs enormous amount of work",
+        "comment": "from the devs.  Until that time, from you.  I tried using this to install a second ROM on my phone, and that bit worked, but the ROM itself was incompatible.  No problem, and that\\'s what the software is supposed to make easy - get into recovery mode, flash the update.zip in from the slot I wanted to boot from instead (in this case, go back to the phone) and no worries.  Fail.  Continues booting rom1.  ok, pull the sdcard, go back to booting normally.  Fail.  Lock at first vendor screen.  OK, dupe a 4ext backup onto a blank sdcard, insert, boot to recovery, flash nandroid backup from a clean SDcard.  Fail, no boot.    Final resolution:  get into fastboot, flash boot.img and recovery.img into the boot and recovery partitions - now, my device boots. Restore the entire nandroid after reformatting, since obviously this software modified something very early in the boot process, reboot, phone is working again.    Much less work and hair pulling to simply have a good backup and overwrite the memory than to try and undo whatever this app did.",
+        "commentId": "lg:AOqpTOGb7gojpw00pMdx_LfEOji5W6QP74-n7-fvXlkMCd1O5D8nSPqvNkTJApgI5gKZ5PgSdA9UmqvqDfoSDw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345004762385",
+        "starRating": "2",
+        "title": "Not working with Android 4.1",
+        "comment": "Tried this with some of the Android 4.1 Jelly Bean roms and it is not working.  I just gets stuck at the google boot screen.  Not sure if this is the early roms or if its bootmanager.  Please update.",
+        "commentId": "lg:AOqpTOE-Vkme2oPT912oladvUU4pxxcslsgm-3VN1z3RjKdZOG6GKEgnu7s4UknmKs0-Kvhp1hp8oHoelnIuqA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343811797234",
+        "starRating": "2",
+        "title": "Needs Serious Polishing",
+        "comment": "This app is super buggy and everything looks outdated. Need to make everything look Polished and iron out the bugs. It doesn\\'t work on JellyBean 4.1.1. Excellent idea though.",
+        "commentId": "lg:AOqpTOES7jAUOb2LCrPhEqh3AozMSa71FABIyArASAuCxojVbutXMAWgLCjlmBp7uxRKRImMrYO0nuCxlP4b-g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358476815148",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Just because i love to install/flash a lot of roms on my devices, too bad Galaxy S III is not yet supported, but 5 stars because is in the todo list.",
+        "commentId": "gp:AOqpTOEth07GQHQG487LyP__5ImmGpW9QA0NUozqmYzj1EpHjKOQAehEQ6Pcssdn8xiEbaII9mlGHbkF3Z4zZw",
+        "author": "Inartaly Valentin",
+        "authorURL": "http://lh3.googleusercontent.com/-FfSgm4Svx7Q/AAAAAAAAAAI/AAAAAAAABCE/5BujpumXazU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-FfSgm4Svx7Q/AAAAAAAAAAI/AAAAAAAABCE/5BujpumXazU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1345448135516",
+        "starRating": "4",
+        "title": "Very cool",
+        "comment": "Would be a better free version with 2 slots, but all I or anyone else should need is one for a Rom they frequently use.  So a second slot would be perfect for Rom testers. error building new boot.img fix is set it to internal, can\\'t use USB connection at all to move files now, emailed devs and no reply all week.",
+        "commentId": "lg:AOqpTOF2Mww8N-Sb3erRxVz2E3MndeOeRYKyl_1v_zLATk_JtsK01GpNO_f6KfB5MSGncIfU_yeODWZC8BeaOA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346818521931",
+        "starRating": "1",
+        "title": "Not Working",
+        "comment": "Not working in HTC Sensation with Vipers 1.2.1 and SebastianFM 3.0.16-v1.5.2 kernel..  It Installs ROM but its stuck in previous rom boot, While BOOTING.",
+        "commentId": "lg:AOqpTOGW3d0wpiLbMO0xaJJwx-KHXR115YxkJNtfn5pDuQIIkXQzCe9wXpI0kT2gCd1XbwyIs3YK2nX_3UoIZA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334796003991",
+        "starRating": "5",
+        "title": "Super Simple",
+        "comment": "Use it, and Love it. A must have app for any Rooter. Once flashed, the App allows for a simple switch. Just hit the \\\"Boot Rom\\\" toggle, and it reboots into your rom. It even keeps the rom after a reboot, or power off.",
+        "commentId": "lg:AOqpTOFmYsC9W4KxbmCiySgj8oyFWvz1z3d04c8bq6YoEtPweZaqfh49afapaB5sBOGWvfUGQEAPwmHGCiRrKA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339084309289",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "This app rockz",
+        "commentId": "lg:AOqpTOE_UH7hXXtI1qpA7Q8tp11Yelaz8Q6rWWs9b2tPwVnTca-8EkUyy13nW_B-vbND2G43U8hFcSMwE5EHZw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338220818937",
+        "starRating": "5",
+        "title": "True genius",
+        "comment": "Not sure if the latest ROM from your favorite Dev is a fit?  This runs your ROM off your memory stick so if it\\'s a dud, just delete and run your phone ROM without wiping!  I\\'m typing this while using newts zzz rc3, amazomg work. Resound, s-off",
+        "commentId": "lg:AOqpTOGiiZxlPzj11fuoN0Tb0X66LvSS9EH32eG4aQqHlVAybEicUoLz4msvjS9F8QQ2FKIZm6gUfG_hWOhvUA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348067417229",
+        "starRating": "1",
+        "title": "Worthless",
+        "comment": "Completely worthless doesn\\'t work, support on forums is non existant save yourself a lot of time an frusteration this app blows, just use nandroids.",
+        "commentId": "lg:AOqpTOHAGXk6wWwvsXbvW8O03-KiCqapCxH3rWuGsJtRjo1MYhYvfZa5duvtAx_9jfxxELL3b6tjouvq2lNF8Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

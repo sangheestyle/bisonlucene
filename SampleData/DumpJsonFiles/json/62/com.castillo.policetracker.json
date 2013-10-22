@@ -1,0 +1,36 @@
+{
+  "title": "Police Scout",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.castillo.policetracker",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "May 4, 2013",
+  "version": "1.01",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "11",
+  "rating": "4.6363635",
+  "contentRating": "Low Maturity",
+  "creator": "Antonio Castillo Lopez",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.castillo.policetracker",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Conoce la situaciÃ³n de los radares y controles en cada momento!Con Police Scout podrÃ¡s saber las localizaciones de controles y radares de velocidad de la policÃ­a antes de coger el coche!Police Scout es una app social en la que puedes enviar avisos a puntos GPS del mapa para alertar por ejemplo de un control de alcoholemia. AdemÃ¡s puedes aÃ±adir un texto concretando por ejemplo su situaciÃ³n o direcciÃ³n. Tus avisos pueden ser votados por los demÃ¡s usuarios. Un aviso con muchos votos negativos puede ser una falsa alarma!Y recuerda, si quieres que se tomen en serio cuida tu reputaciÃ³n y envÃ­a avisos reales!Puedes entrar directamente con tu cuenta Facebook, Â¿a quÃ© estÃ¡s esperas?",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.castillo.policetracker.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

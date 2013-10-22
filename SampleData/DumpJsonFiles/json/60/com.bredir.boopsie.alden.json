@@ -1,0 +1,40 @@
+{
+  "title": "Alden",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.alden",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "July 31, 2012",
+  "version": "4.5.87",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.alden",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Get research help, floor maps and hours; renew books; connect to article databases; read our news items and much more!  Plus, a great new way to search ALICE â just type the first couple of letters of each word, e.g.  âja ke onâ to get items on Jacqueline Kennedy Onassis.",
+    "reviews": [
+      {
+        "documentVersion": "4.5.36",
+        "timestampMsec": "1303362468061",
+        "starRating": "5",
+        "comment": "Alden library is pimp!",
+        "commentId": "lg:AOqpTOEpsMr2RC-ig-urk1MjIOfi2ZhwEIziZRsq81ApFMNP8ORjQA1cqEPZoPbLlbMSSMU-FVLU6zAiosAkRQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

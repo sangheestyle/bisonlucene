@@ -1,0 +1,41 @@
+{
+  "title": "Write Pad",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.enterpro.writepad",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "May 29, 2013",
+  "version": "1.5",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "EnterPro",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.enterpro.writepad",
+  "extendedInfo": {
+    "installSize": "264k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Use this simple notepad anywhere.With this program you can save files in different formats. If you are developer you can write down the code and save in html or java format. If you need to quickly write down text you can do it and save in txt format. Also you can save text in many other formats.",
+    "reviews": [
+      {
+        "timestampMsec": "1377518842291",
+        "starRating": "4",
+        "title": "nice app",
+        "comment": "malai ekdam gajab lagyo.   its very useful application.",
+        "commentId": "gp:AOqpTOFyJEoux1EIOId1EFSjWltgrJk5QxcceWhcSjQqhr_zu23oxT0YpGZdWtDJTgosjDP7haPfhkOibWs9RdM",
+        "author": "Dhanu Bista",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

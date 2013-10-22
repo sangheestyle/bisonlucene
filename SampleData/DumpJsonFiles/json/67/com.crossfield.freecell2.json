@@ -1,0 +1,35 @@
+{
+  "title": "Free Cell",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crossfield.freecell2",
+  "category": "Cards & Casino",
+  "price": "Free",
+  "datePublished": "July 24, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Cross Field Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crossfield.freecell2",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Classic game of one person playing cards! !Has entered from the beginning to most PCsFree cell is in your hands--------------------------Rule--------------------------Called free cell cards were distributed to piecesTo tap into four spaces,The objective is to clear up a place called home cell all the cards.When moving to a home cell, the same suit must to enter all the cells of one win, so as to align to the K from A always when viewed from below. (It is possible to put only in the order of 2 â K of spades and later to the home cells that are not able to put only one of A's home empty cell, for example, put the A of spades)It can not basically cards only move one by one.If you want to move to another column, it is possible to put only card the color of the suit is different and, with a number that is lower one than the number of cards in the foreground of the columns in the destination. (If the front was six diamond most of the columns in the destination, for example, I put only five of the club or spade in that column)If you are unable to only be back and forth two places in particular or, will not move any card and become negative as a \"mating\".It is possible that it is possible to choose the number of the game and make changes in the options, to play at any time the same game.In the rankings, you can compare with the world the number of wins.Score that appears in the result screen is what time you have solved the game, is calculated by the number of movements.And be able to update the record if you play many times! ?",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

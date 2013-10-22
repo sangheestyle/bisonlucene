@@ -1,0 +1,39 @@
+{
+  "title": "Kyeyo Radio - Gospel",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_b876ef3170e441f0a95ee75a0c6da12d.app",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "September 4, 2012",
+  "version": "1.12.33.5303",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "GWM Media",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_b876ef3170e441f0a95ee75a0c6da12d.app",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Welcome to the official mobile application for KR Gospel(Kyeyo Radio - Gospel). This is part of Kyeyo Radio online station presented by Kyeyo World and reaching out to all Africans in the Diaspora. Our aim is to provide a platform for all Africans abroad that are often not represented by mainstream media.  By providing a voice for all Africans abroad, KR Gospel increases understanding between peoples and communities, while fostering the values of democracy and social justice. KR Gospel provides gospel music, news and views, chat shows and comedy with a Christian perspective, advertisement and many more entertaining programmes from all African talents in the Diaspora.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_b876ef3170e441f0a95ee75a0c6da12d.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

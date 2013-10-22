@@ -1,0 +1,55 @@
+{
+  "title": "Richland School District Two",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_32bdceda5775486d97b6b84b0eac7147.app",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "January 29, 2013",
+  "version": "1.24.58.1077",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Richland County School District Two",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_32bdceda5775486d97b6b84b0eac7147.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Official mobile app for Richland School District Two. Stay informed with the latest news and events within the District.",
+    "reviews": [
+      {
+        "documentVersion": "4.58.1077",
+        "timestampMsec": "1375624526399",
+        "starRating": "5",
+        "title": "Great app!",
+        "comment": "Easy to navigate; links to timely and pertinent information. All R2 parents, staff, and students would love it!",
+        "commentId": "gp:AOqpTOEIcGnjkzoHgOe1vA30GDeN_Cj_ehJ21xY93qJXJgYgu8VMB4O27baSuAtdT-HwDD6Cro43edn1rQBxH2U",
+        "author": "Cheryl Hunter",
+        "authorURL": "http://lh6.googleusercontent.com/-Hxwl3zpUy8E/AAAAAAAAAAI/AAAAAAAAAK0/IUrdMM5EJ2s/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Hxwl3zpUy8E/AAAAAAAAAAI/AAAAAAAAAK0/IUrdMM5EJ2s/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_32bdceda5775486d97b6b84b0eac7147.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

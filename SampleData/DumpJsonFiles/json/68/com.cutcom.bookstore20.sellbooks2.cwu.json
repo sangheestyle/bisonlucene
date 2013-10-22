@@ -1,0 +1,39 @@
+{
+  "title": "Sell Books CWU",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks2.cwu",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 15, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Central Washington University",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks2.cwu",
+  "extendedInfo": {
+    "installSize": "6.1M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Sell your used textbooks to Wildcat Shop at Central Washington University using this instant price quote app! It allows you to scan the barcodes of books that you'd like to sell using your phone's camera. You'll find out instantly how much we'll pay you for your used books. Please note that book prices quoted by the app can expire at any time without notice. If you have any trouble, please let us know!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

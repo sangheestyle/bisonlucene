@@ -1,0 +1,45 @@
+{
+  "title": "911 Help Family SMS Emergency",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cabmatch.help911",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "September 2, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Low Maturity",
+  "creator": "Fix311.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cabmatch.help911",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The 911 Help App  will automatically send out SMS messages to your family members while you call 911.  The Roadside Assistance feature will show you the nearest auto service station, towing service station, gas station, hotel, motel, car rental, bus station, train station, urgent care, and hospital.",
+    "reviews": [
+      {
+        "timestampMsec": "1377056392718",
+        "starRating": "4",
+        "title": "App gps",
+        "comment": "The gps is off by 4 blocks. Not bad, not fantastic either.",
+        "commentId": "gp:AOqpTOHCr9POkV6KX4yZ66VS8xAw21Me4IUFsm3fI9xK6ATcRzhLXMaPD5fdZr5rfkgRdsm1OQ-v__5rFZqeZA",
+        "author": "cory skaggs",
+        "authorURL": "http://lh4.googleusercontent.com/-z9KdKi_jwEI/AAAAAAAAAAI/AAAAAAAAABI/OL3cTlLey1o/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-z9KdKi_jwEI/AAAAAAAAAAI/AAAAAAAAABI/OL3cTlLey1o/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.cabmatch.help911.permission.MAPS_RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

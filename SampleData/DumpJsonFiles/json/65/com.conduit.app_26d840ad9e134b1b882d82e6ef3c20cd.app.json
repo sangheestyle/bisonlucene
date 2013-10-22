@@ -1,0 +1,39 @@
+{
+  "title": "Buy and Sell Websites",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_26d840ad9e134b1b882d82e6ef3c20cd.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "December 2, 2011",
+  "version": "1.2.7.3363",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Launch Technology Group, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_26d840ad9e134b1b882d82e6ef3c20cd.app",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Looking for a website to buy?  Looking to sell a website?  Just want to see what is out there?  This app is for you! -- View realtime listing of websites -- Get stats on each of the websites! -- View the website that is for sale. All within this app.Download it right now - while it is still FREE!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_26d840ad9e134b1b882d82e6ef3c20cd.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

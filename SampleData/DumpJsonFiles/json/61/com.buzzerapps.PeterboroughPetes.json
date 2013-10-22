@@ -1,0 +1,54 @@
+{
+  "title": "Peterborough Petes Official Ap",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.PeterboroughPetes",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "August 15, 2013",
+  "version": "2.0.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "High Maturity",
+  "creator": "Buzzer Apps Mobile Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.PeterboroughPetes",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official app for the Peterborough Petes! One tap access to all the information a fan could want.Gives you mobile access to everything you need to follow the Petes including scores, the latest news, the schedule, social media feeds and of course stats and the team roster. We hope you enjoy using this app to enhance your Petes Fan Experience!",
+    "reviews": [
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1356054863908",
+        "starRating": "2",
+        "title": "Okay",
+        "comment": "Can\\'t post anything to buzz board.",
+        "commentId": "gp:AOqpTOHkYlurAOCUNwoMwHMQWM2_vdviGxB8hW5Ruhz1_KO5JCzf37V5fSq7SNMuDW2kRuD2ahH6MnW5JuK0Rw",
+        "author": "Peter Mitchell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.7",
+        "timestampMsec": "1334801206224",
+        "starRating": "4",
+        "comment": "Great stats and news updates",
+        "commentId": "lg:AOqpTOH276D3gOG1y5IhOHjmhw8Lk6ZarQuJ1YlnZkCK08gHyuVzAD_OK_i42eGV2lMa3oXUvrrChU-zDGQ1FA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.buzzerapps.PeterboroughPetes.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

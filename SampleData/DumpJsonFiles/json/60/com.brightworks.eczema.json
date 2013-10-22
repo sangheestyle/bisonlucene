@@ -1,0 +1,55 @@
+{
+  "title": "The Eczema App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brightworks.eczema",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "January 22, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "2.6666667",
+  "contentRating": "Medium Maturity",
+  "creator": "Bayer Healthcare Pharmaceuticals Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brightworks.eczema",
+  "extendedInfo": {
+    "installSize": "6.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Eczema AppAn Eczema Focused Tracking App OverviewA free and personalized on-the-go resource for people living with eczema. Access comprehensive condition information, track your eczema flare-ups and get instant savings. The Eczema App is available on iPhone, iPod Touch and Android devices. Tracking ToolTrack your eczema flare-ups â and your progress.Use the Tracker Tool in consultation with your healthcare professional to keep notes on your flare-ups and treatment. Create up to 3 profiles.ReportsGet summary reports from the notes on the flare-ups youâve tracked.Review your flare-up history from the information entered in the tracking tool, and share your information with your healthcare professional. Eczema InformationGet customized eczema information on the go.Access comprehensive condition information including causes, symptoms and treatment options. View customized sections (Patients and Parents) with content tailored by age groups for the different needs of adults and parents with children living with eczema. NewsKeep up-to-date with eczema news.News and articles by the National Eczema Association (NEA).DesonateLearn about Desonate (desonide) Gel, 0.05% - and get instant savings.Desonate delivers relief from mild to moderate atopic dermatitis (eczema) symptoms for patients 3 months of age and older. Learn more about the benefits of Desonate, see before & after photos and get instant savings.INDICATION AND USAGEDesonate Gel is indicated for the treatment of mild to moderate atopic dermatitis in patients 3 months of age and older.IMPORTANT SAFETY INFORMATIONDesonate is contraindicated in those with a history of hypersensitivity to any of the components of the preparation. Topical corticosteroids can produce reversible hypothalamic pituitary adrenal (HPA) axis suppression, Cushingâs syndrome and unmask latent diabetes. Systemic absorption may require evaluation for HPA axis suppression. Modify use should HPA axis suppression develop. Potent corticosteroids, use on large areas, prolonged use or occlusive use may increase systemic absorption.Pediatric patients may be more susceptible to systemic toxicity when treated with topical corticosteroids due to their larger skin surface-to-body mass ratios. Unless directed by a physician, do not use on the underarm or groin area of children. Do not use to treat diaper dermatitis. Use in children less than 3 months of age is not recommended.Local adverse reactions may include atrophy, striae, irritation, acneiform eruptions, hypopigmentation and allergic contact dermatitis and may be more likely with occlusive use or more potent corticosteroids. The most common adverse reactions (incidence â¥ 1%) are headache, application site burning and rash. To report SUSPECTED ADVERSE REACTIONS, contact Bayer HealthCare at 1-866-463-3634 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.Not for ophthalmic, oral or intravaginal use. As with other corticosteroids, therapy should be discontinued when control is achieved. Safety beyond 4 weeks has not been established.Copyright Â© 2012 Bayer AG. All rights reserved.",
+    "reviews": [
+      {
+        "timestampMsec": "1365141664343",
+        "starRating": "1",
+        "title": "Not a good app",
+        "comment": "Each time I tried to update an error message would shut the app down  Very disappointing!",
+        "commentId": "gp:AOqpTOEPAFgbIj3ENpCBWENgJ6dXuTDYI86kr8CWv05nMOSQxBfV_elnTovmdor9tKPw3Ka79zljdWrFfy0tkyc",
+        "author": "Theodora Forbes",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353837652966",
+        "starRating": "2",
+        "title": "Needs more options",
+        "comment": "I have lifelong eczema and was really excited about a way to track my flare ups but this is not going to work without more options! I had previously found the Rosacia ap and have been using it to track my eczema even though it was not geared towards it. Excited to see an actual eczema aps but come on . .the rosacia aps has more options than this! We need a way to log what we eat, under stress, showers, weather, around pets, what lotion or treatment, etc!! We need a way to see what is causing a flare.",
+        "commentId": "lg:AOqpTOFqgWAqP8CyKzPd3FOKQ2kyx3BkclqOEBZYTUC8J3kqfWydj8UODelMVfp0GrJZYhC_Gvr0OZv6a2ZpE3Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Law Times Newspaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flyptech.lawtimes",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "August 27, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "1",
+  "rating": "2.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Flyp Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flyptech.lawtimes",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "News, features, and insight for Ontarioâs legal community. Lawyers, judges, academics, and law students rely on Law Times original and insightful content written for and by jurists across the country. The app offers daily news updates as well as free access for subscribers to the weekly print edition of the paper.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

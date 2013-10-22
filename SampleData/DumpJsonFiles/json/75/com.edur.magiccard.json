@@ -1,0 +1,51 @@
+{
+  "title": "Magic Card",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edur.magiccard",
+  "category": "Cards & Casino",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "1.8.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "416",
+  "rating": "2.9254808",
+  "contentRating": "Everyone",
+  "creator": "edurapp",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edur.magiccard",
+  "extendedInfo": {
+    "installSize": "401k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Por favor vea el vÃ­deo de funcionamiento que se encuentra en esta pagina.Juego de magia en tu android. Consiste en pasar la mano por encima de la pantalla, sin necesidad de tocarla, y la carta girara MÃ¡gicamente.Esta aplicacion esta diseÃ±ada especialmente para telefonos que disponen de sensor de proximidad, este sensor se encuentra en la parte superior de la pantalla al lado del altavoz de las llamadas, si dispone del mismo simplemente tendra que pasar la mano por encima del telefono y se producira el truco.Si no dispone de el ya que por ejemplo tiene un tablet, la experiencia con esta aplicacion no sera tan buena, pero aun asi puede realizar su truco de magia tocando la esquina superior izquierda de la carta.Gracias por instalar esta aplicacion, en proximos dias recbira actualizaciones con nuevos trucos.",
+    "reviews": [
+      {
+        "documentVersion": "1.8.0",
+        "timestampMsec": "1376512055136",
+        "starRating": "1",
+        "title": "Really?",
+        "comment": "It glitches.  There is no fun in this app.",
+        "commentId": "gp:AOqpTOENp4rzdUbp5TE5mGKJfq8VcgYBXmVQ5zljuuk0I0x-X6GUe4IxWhz8rDmcU-go4csE0oe9iLYdXvAKRGU",
+        "author": "Jenna Kundinger",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.7",
+        "timestampMsec": "1375140125615",
+        "starRating": "1",
+        "title": "Boring",
+        "comment": "Its not fun at all keep trying",
+        "commentId": "gp:AOqpTOGz472r_5lOAGRztQfhq6NjHrEVUxdjkQ5ao3qgrmYDJ_l2EPP3cQuXGMgbglfeNo9SVap0FVnA5HgFYjM",
+        "author": "Noelani Williams",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.hardware.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Watch Full Movies Online",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsrsol.watchfullmoviesonline",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "May 6, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "12",
+  "rating": "3.3333333",
+  "contentRating": "Medium Maturity",
+  "creator": "DSRSOL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsrsol.watchfullmoviesonline",
+  "extendedInfo": {
+    "installSize": "4.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Here come the largest movie collection app names watch full movies online android app that let you have a watch on the movies of your choice anytime and anywhere you want to through your android phone.Some of the highlighted features of this app are mentioned below.â¢\tMany blogs, articles and updated news on upcoming movies as well as released movies are linked to the app.â¢\tSome video trailers of best movies are cited in the app.â¢\tYou can have a watch on the entire movie of your choice even without the internet connected.Manage your movie time with this wonderful app.DISCLAIMER: The content provided in this app is collected using Feeds and Videos are hosted by YouTube and all are available in public domain. We have not uploaded any videos to YouTube. Apps is fetching the data from RSS feeds of different sites.This app provides an organized way to browse, read contents and watch YouTube Videos.",
+    "reviews": [
+      {
+        "timestampMsec": "1377830987071",
+        "starRating": "5",
+        "comment": "This app is awesome",
+        "commentId": "gp:AOqpTOFMl3Tfe-idedMN4FgQNQf09970UjG8rLpUUaxcppk-OEPlIVyNwazEfbUUZetQ_r-Z3p5B38lnemxzHpc",
+        "author": "John Wait",
+        "authorURL": "http://lh4.googleusercontent.com/-7cpK8ttMyYM/AAAAAAAAAAI/AAAAAAAAACc/7Swyfufk6I4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-7cpK8ttMyYM/AAAAAAAAAAI/AAAAAAAAACc/7Swyfufk6I4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.dsrsol.watchfullmoviesonline.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

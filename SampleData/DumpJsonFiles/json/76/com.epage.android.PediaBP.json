@@ -1,0 +1,77 @@
+{
+  "title": "Pedia BP",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.epage.android.PediaBP",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "September 18, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "2.4444444",
+  "contentRating": "Low Maturity",
+  "creator": "EPage, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.epage.android.PediaBP",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Welcome to Pedia BP. This application was designed and developed to more easily detect hypertension in children and adolescents. The blood pressure measurement calculator is developed from the National High Blood Pressure Education Program (NHBPEP,2005) Working Group on Children and Adolescents. The blood pressure measurement, SBP/DBP, are based on manual blood pressure measurements. In adolescents, BP equal to or exceeding 120/80 mmHg is prehypertension, even if this figure is less than the 90th percentile. It is critically important that hypertension and pre-hypertension are recognized and appropriately managed to decrease the risk of CAD, CVD, heart failure, CHD, and sleep apnea. Evidence shows that this problem is under-recognized due to a number of factors including lack of provider knowledge regarding the AHA blood pressure recommendations and the National High Blood Pressure Educational Program (NHBPEP) guidelines. Another issue is the complexity of factors involved in diagnosing HTN in this population delineated by the (NHBPEP) guidelines. The blood pressure tables include 1,904 variables based on gender, age, and height percentile delineated from the CDC development charts. The existing tables from The Fourth Report on the Diagnosis, Evaluation and Treatment of High Blood Pressure in Children and Adolescents, which contain hundreds of normal and abnormal blood pressure values based on gender, age, and height percentile, were analyzed and streamlined into a much simplified single user interface. The application makes it easy to identify abnormal blood pressure values in almost any potential care or screening setting. This approach is ideal when blood pressure is measured in any setting. The application screening tool can aid providers in accurate and timely evaluation of pediatric blood pressure readings, as well as aid in decision making regarding best practice with regard to management of issues identified.",
+    "reviews": [
+      {
+        "timestampMsec": "1349453037813",
+        "starRating": "4",
+        "title": "Pretty good",
+        "comment": "Overall works how it says it should, but would be better if it actually listed the 90th, 95th, and 99th BP percentiles. Also would be nice to have CDC height/weight percentiles included.",
+        "commentId": "lg:AOqpTOETfSwKhQhKMGvbaK-YbUak1geMgXzar6rgJJDzOdTSGOH8_6dRLcVqmBkdXRlXm6B9ueB2E_0eqZlh8g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350353612163",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "Incredible 2 force close every time",
+        "commentId": "lg:AOqpTOE-it0RmbskxA4WhjOqm1fDyPVBWFsAwwtRKhRWXmLjVBCCrG4I6F02w3hCuZJHyjGaweDRWP-97QRWDA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338861023483",
+        "starRating": "3",
+        "title": "Nice",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOF7ysI2CdssOGG42Ybscw2i6ITdnrl4m1yTr8RTSg8fQd53R2fvkPvrp31gNlPUOENnOHrBslG77FDYIw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349736244830",
+        "starRating": "1",
+        "title": "Would be nice if it worked!",
+        "comment": "Doesn\\'t work with Samsung Galaxy 3!",
+        "commentId": "lg:AOqpTOES21-9Sf7FOjB_sgRiSEq5YNd48Zd_8bkKlmwekIAk38xoiuoAcIHKZEvzaGwycrIv1ByCuL8Qol5EjQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346681460806",
+        "starRating": "1",
+        "title": "This app sucks !!!!!!",
+        "comment": "Didn\\'t work on my Samsung galaxy s3",
+        "commentId": "lg:AOqpTOFCUOlw-jTESj_oWWcjMfQgHl3Ss7awu7HJFs4udnxpoW0P1FXgyRpzxDvvUrGpVg5U0iv-9PpiLrk2Wg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

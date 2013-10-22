@@ -1,0 +1,43 @@
+{
+  "title": "Chicago Rail Subway Map HD",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.red.chicago",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "iMap Place",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.red.chicago",
+  "extendedInfo": {
+    "installSize": "258k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "SystemChicago has 3 million inhabitants (more than 7.5 million in the metropolitan area) and is the third largest metropolitan area in the USA (after New York and Los Angeles), situated on the western shore of Lake Michigan in the state of Illinois.Chicago's metro is known as the 'L' as most of its network is elevated. Some stretches of today's system date back to the end of the 19th century when Chicago followed New York's example to construct elevated rail lines. Whereas New York started early in the 20th century to put all elevated lines in Manhattan underground, Chicago maintains most of its original routes. All lines spread out from the city centre where some of them form the famous elevated loop, now one of the city's landmarks. Two lines, the Blue Line and the Red Line cross the city centre north-south in a subway. Washington, Jackson and Monroe stations of both subways are connected by a 750 m (Dearborn subway) / 930 m (State St.) long continuous platform.The entire network is 173 km long and has 152 stations, 18 km lie in tunnel (21 stations) and 62 km are elevated/at grade (90 stations). Most of the rest of the lines and stations are in expressway medians, with the exception of several kilometers at the ends of the Brown Line and Blue Line (Douglas) branches. The 'L' is operated by CTA (Chicago Transit Authority). Both airports are served by a CTA train, O'Hare Airport by the Blue Line (45 min to city centre) and Midway Airport by the Orange Line (30 min to city centre).On 11 Sept 2004, the Yellow Line (Skokie Swift) was converted from overhead to third rail power supply to make rolling stock compatible with other lines.",
+    "reviews": [
+      {
+        "timestampMsec": "1369767521723",
+        "starRating": "1",
+        "title": "Spam",
+        "comment": "Badly drawn map that installs an offer tracking app!",
+        "commentId": "gp:AOqpTOHo8gcLmyECRavmJVA9pceC1inrgxne6Q3IyLIRTL_V4OnD7yiWGuNN-KuFn3iqGnl-bcp3y2FBPafjoLQ",
+        "author": "Yaz Shehab",
+        "authorURL": "http://lh6.googleusercontent.com/-gMUfxN6KcMU/AAAAAAAAAAI/AAAAAAAAOxc/4bXlMARSFmI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-gMUfxN6KcMU/AAAAAAAAAAI/AAAAAAAAOxc/4bXlMARSFmI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

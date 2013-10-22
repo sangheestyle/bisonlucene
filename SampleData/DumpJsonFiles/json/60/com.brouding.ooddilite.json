@@ -1,0 +1,39 @@
+{
+  "title": "Oddi Lite(Where are you?)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brouding.ooddilite",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 2, 2013",
+  "version": "1.2.9",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7",
+  "rating": "4.428571",
+  "contentRating": "Low Maturity",
+  "creator": "BROUDING",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brouding.ooddilite",
+  "extendedInfo": {
+    "installSize": "181k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "A: Straight 2 blocks and turn left and about 200m, it's between Empire&Starbucks.B: W...Wh..What?1. I lost my smart-phone!2. This place is really difficult to explain!!3. Worry about lovely-tomboyish kids!!!4. I have a horrible sense of directions!!!!5. Demented grand-parents lost there way?With Oddi, like that situation would never happen!Live smart with map-trading system. Oddi![Feature]â Use GPS outside! (satelite couldn't find your phone inside)â When your phone couldn't find first location, open 'Google Map' once and open Oddi.â When you have 3 Oddi friends, Oddi-map for share(right-top button) will be appear!â When you have 50 Oddi friends, commercial will be removed automatically.[Oddi's function]1. If you set a friend as your favorite, you can send your location without your agreement(alert).2. When you lost your phone, you can find with favorite's request Oddi!3. When your old-grand-parents lost their way, you can find them if they were set you as favorite!4. If you wonder where your kids are, you can know with Oddi!5. If you long-click the list item(friend), you can send SMS or call directly in friend list!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.VIBRATE",
+      "com.brouding.ooddilite.permission.MAPS_RECEIVE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

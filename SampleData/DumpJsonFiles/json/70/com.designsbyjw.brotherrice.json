@@ -1,0 +1,40 @@
+{
+  "title": "Brother Rice",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.designsbyjw.brotherrice",
+  "category": "Sports",
+  "price": "$0.99",
+  "datePublished": "May 8, 2013",
+  "version": "1.72",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Prep Connect Mobile, LLC.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.designsbyjw.brotherrice",
+  "extendedInfo": {
+    "installSize": "7.7M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Brother Rice Mobile provides Android owners an interface with immediate access to essential information from Brother Rice High School. Alumni, students and fans no longer have to wait until they have access to a computer to keep up with their favorite Brother Rice sport or event.The Brother Rice Mobile includes the following features: SCHEDULES & RESULTSComplete schedules and results for each sport including the date, time, location and opponent. PHOTOS All photos from Brother Riceâs Picasa photo stream are accessible in a convenient format for the mobile device. VIDEOSSelect on-demand video clips, streaming directly from YouTube within the application. DIRECTIONS Includes a list of all locations and directions to Brother Rice athletics venues - both home and away. TWITTER One tap access to the Brother Rice Twitter, Sports Updates, and Chicago Sports feeds.BROTHER RICE NEWS Includes a feed of the latest news items from Brother Rice. The Brother Rice Mobile App also includes shortcuts to the Brother Rice homepage and Edline page.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.designsbyjw.brotherrice.permission.MAPS_RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.designsbyjw.brotherrice.permission.C2D_MESSAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

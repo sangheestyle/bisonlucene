@@ -1,0 +1,32 @@
+{
+  "title": "Rehab News",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.hippyapps.rehab",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "February 13, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "HippyApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.hippyapps.rehab",
+  "extendedInfo": {
+    "installSize": "10k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This is a collection of regularly updated news articles about rehabilitation and recovery from addiction, touching on the lives of addicts and their families, relapse, withdrawal, personal stories, experience, strength and hope.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

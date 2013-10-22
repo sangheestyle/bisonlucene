@@ -1,0 +1,61 @@
+{
+  "title": "MyRSC",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dpath.myrsc",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "February 6, 2013",
+  "version": "1.2.65",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "2.3333333",
+  "contentRating": "Everyone",
+  "creator": "DataPath Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dpath.myrsc",
+  "extendedInfo": {
+    "installSize": "5.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Access to your benefit details, claims and reimbursements has never been easier! Save time and maximize your FSA, HSA, HRA and COBRA benefits using the myRSC mobile app. The app will allow you to view all your enrolled benefits as well as the details, claims and reimbursements associated with those benefits. All users will be able to view the following: FSA details, claims and reimbursements HSA details, claims and reimbursements HRA details, claims and reimbursements Parking and Transit details, claims and reimbursements COBRA, Direct Bill and Retiree details Card activity with ability to block a card View and manage your personal information View and manage your notification subscriptions The following options will only be available to the users who have TPAâs who have enabled the service: SnapClaim The SnapClaim feature will allow you to file claims directly from your mobile device with photos of your receipts. No more faxing or fumbling with receipts! Benefits of using the app: Easy â The app uses standard mobile functionality designed with you in mind. Access â 24/7 access to your benefit information Secure â No personal information is stored on your mobile device Powered by DataPath, Inc. * Min. Requirements: 1Ghz CPU and 512Mb RAM * A TPA license is required to log in to the app",
+    "reviews": [
+      {
+        "documentVersion": "1.2.65",
+        "timestampMsec": "1365468338477",
+        "starRating": "5",
+        "title": "Loving it!",
+        "comment": "Love it! No more forms! I just simply used my user name and password I previously had for myRSC.",
+        "commentId": "gp:AOqpTOHhOR1LrbVOXRn2H8TIPEGpsnZfQMu95-k-jqrAJcc5G7L-aNKdo5AfHDanJSp1PivzRPnr-zfeOjTezRw",
+        "author": "Bob Wiley",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.63",
+        "timestampMsec": "1358463187531",
+        "starRating": "1",
+        "title": "Will not load data,, at all",
+        "comment": "Will not load, went through the entire process first on computer then on phone,,, it doesn\\'t work. I\\'m not even giving it a a star but it won\\'t let me post unless I do, huge waste of my time",
+        "commentId": "gp:AOqpTOGzmKdZoyG3mZ0awvKI5qsd2dRAYzeFh6q9oN27zHx72jxMY8xfcM1VyUUXid1-IHJN1npkksJjRgStACI",
+        "author": "T. Michael Bush",
+        "authorURL": "http://lh6.googleusercontent.com/-ilXoObEViJE/AAAAAAAAAAI/AAAAAAAAASs/ToK1cuHEcok/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ilXoObEViJE/AAAAAAAAAAI/AAAAAAAAASs/ToK1cuHEcok/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357662005251",
+        "starRating": "1",
+        "title": "Disappointing",
+        "comment": "Will not log in.",
+        "commentId": "gp:AOqpTOGc8oWFd968E01RtruqLNLGR6WsBY5VtVSZUD0zofDnS_SxdL0jpHqXupc_wnQsvj4aZdVmjLvUHZnu-m8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

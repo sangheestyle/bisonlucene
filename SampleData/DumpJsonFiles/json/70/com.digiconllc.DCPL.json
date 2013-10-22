@@ -1,0 +1,57 @@
+{
+  "title": "Washington DC Public Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.digiconllc.DCPL",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 2, 2012",
+  "version": "1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "DigiCon LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.digiconllc.DCPL",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The DCPL Android app is the portal to enjoying Washington DC Public Library services using your Android device. With it, you can very quickly search DCPL resources and find information and materials wherever you are. Notice a new book by a favorite author? Check the library for a copy. Need information for that research project due tomorrow? You can find it easily.With the DCPL \"MyAccount\" features, you get full access to your DCPL library account from wherever you are! Don't have your patron card with you? Use the VisualID feature and you always have your virtual ID in your hand. Don't know your ID? Just associate your Drivers License, student ID, or other \"memorable\" ID with your DCPL account as an alternate. With MyAccount, you can:â Check you account statusâ Update select profile fieldsâ Change your PINâ Renew your materialâ Modify and/or cancel your holdsâ See what's \"Hot\" with other patrons",
+    "reviews": [
+      {
+        "timestampMsec": "1339893265912",
+        "starRating": "3",
+        "title": "Needs Updated",
+        "comment": "The library names, phone numbers, and addresses need to be updated. On the Galaxy Nexus, the font is sized incorrectly and is very difficult to read. It\\'d be nice if you could reserve a computer from the app as well.",
+        "commentId": "lg:AOqpTOHgPGvN5Hwx8KtKx5_rZbqwt5Ns07EtxL7-I-vXmaBtCWbWMlTmOcDTRK_6o_R3uhM9fXKo9iL2aFWT_3c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337375316764",
+        "starRating": "5",
+        "title": "good way to search for items",
+        "comment": "This very basic app works well. You can search for and place holds on items and keep up with your library account",
+        "commentId": "lg:AOqpTOGrMPw_WDtY9hG8lD1JuOOr2bz8hNeESdclbgSNnTxQrfx3rN-Lo3u1tL-gQmoIr3sKfHaTNYnOB507QME",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368718692768",
+        "starRating": "5",
+        "title": "Thanks for making things easy with this app",
+        "comment": "I recently moved to Chevy chase and thanks to the Public Library with a whole lot collection of books, dvds ..keeps me busy and happpy!",
+        "commentId": "gp:AOqpTOHSUXwbIsSQwp4Orwwa5-CBgsyaKgGSa3PcCalWnX7-8QEYYgXP9VuohwGLg7sYHneE1vfAF3ZkRVJyXso",
+        "author": "swetha pn",
+        "authorURL": "http://lh6.googleusercontent.com/-74HU38m4QYY/AAAAAAAAAAI/AAAAAAAAId4/5czWZ_HDyaM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-74HU38m4QYY/AAAAAAAAAAI/AAAAAAAAId4/5czWZ_HDyaM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

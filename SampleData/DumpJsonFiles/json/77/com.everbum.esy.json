@@ -1,0 +1,39 @@
+{
+  "title": "Easy System Info",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.everbum.esy",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 3, 2013",
+  "version": "1.05",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "eVerbum",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.everbum.esy",
+  "extendedInfo": {
+    "installSize": "176k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "You can now find out almost everything about your smartphone or tablet with just a few taps from this app. You can check how much memory is used, how many processes are currently running and much, much more.You can also use it to easily manage all your apps.Features (window-based):- System info: memory, storage, processor, battery, sensors, GPS, network, photo camera- Apps: launch, manage, back up/restore, details, uninstall, sort by- Processes: end task (fast task killer), add to ignore list, details, sort by- Net status: check connection, remote info- Tools: view logs, send report, phone info, consoleGeneral:- Fast and easy way to find system info in your phone- Very small size. Our app will not eat up much memory- Very flexible. It works in landscape, but also in portrait positionNow available in English.Visit our site and leave us your comments, they can help us improve the app.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_PACKAGE_SIZE",
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.READ_LOGS",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

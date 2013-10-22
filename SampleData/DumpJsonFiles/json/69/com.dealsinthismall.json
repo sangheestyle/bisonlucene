@@ -1,0 +1,31 @@
+{
+  "title": "Deals In This Mall",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dealsinthismall",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "January 11, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Deals In This Mall",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dealsinthismall",
+  "extendedInfo": {
+    "installSize": "108k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "We will help you to find all available deals and discounts in the mall REAL TIME.You go to our website or use our application when you are in a mall, share your location with us and we will show you all available and active discounts, deals and special promotions in all the stores in that mall.No need to print the coupons and browse through magazines. All real time deals in the palm of your hand.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

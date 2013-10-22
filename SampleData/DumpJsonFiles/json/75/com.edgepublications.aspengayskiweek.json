@@ -1,0 +1,36 @@
+{
+  "title": "Aspen Gay Ski Week",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edgepublications.aspengayskiweek",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "June 25, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "EDGE Publications Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edgepublications.aspengayskiweek",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome to the official mobile app for Aspen Gay Ski Week! This app is a joint development of EDGE Media Network and The Roaring Fork Gay and Lesbian Community Fund (RFGLCF); it contains all the information you need to know about our events, plus some crazy cool interactive functionality.Features for Android- News :: Stay connected on-the-go with all the news from Aspen Gay Ski Week.- Photos :: View official photos from EDGE and Aspen Gay Ski Week's official photographers!- Events :: Need to know where to go? All of the information you need to know about our events is right on your phone!  And you can add each event right to your phone's calendar, so that you never miss a beat.- Sponsors :: We love our sponsors - so should you! Get information on the organizations that make our parties possible.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.edgepublications.aspengayskiweek.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

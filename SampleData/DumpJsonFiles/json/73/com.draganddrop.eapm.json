@@ -1,0 +1,35 @@
+{
+  "title": "EzAdsPro Property Portal",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.draganddrop.eapm",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 16, 2012",
+  "version": "1.1.9",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Drag+drop Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.draganddrop.eapm",
+  "extendedInfo": {
+    "installSize": "527k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "EzAdsPro Property Portal allows you to search for properties all throughout the UK.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "com.draganddrop.eapm.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

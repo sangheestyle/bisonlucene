@@ -1,0 +1,88 @@
+{
+  "title": "Push Notification Test",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.firstrowria.pushnotificationtester",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 31, 2013",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "30",
+  "rating": "3.9",
+  "contentRating": "Everyone",
+  "creator": "firstrow RIA",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.firstrowria.pushnotificationtester",
+  "extendedInfo": {
+    "installSize": "159k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "This App let's you test Push Notifications (GCM) on your device. Can be helpful if Push Notifications are not working in an App on your device.What you need is:-Latest Google Play App installed-Google Account set up in Google Play-Working and active network connectionHow does the App work?1.) App tries to get a push-Id for your device2.) App tests network connection3.) App sends your push-Id to our test server 4.) After 5 seconds you should receive a push notification, which will be displayed using a Service.5.) Service acquires a partial wakelock, displays the notification, releases the wakelock and shuts itself down.6.) App tries to unregister from push updates",
+    "reviews": [
+      {
+        "timestampMsec": "1374233941056",
+        "starRating": "5",
+        "title": "Great App for Debugging Push Issues",
+        "comment": "For those of you who have tried to debug Push issues this is a great app.  At first the app would not work over cellular or WiFi.   Turns out my phone\\'s apps needed to be updated.   Then Push tested fine over WiFi but my phone had a problem for Push over cellular.    Switched phones and the app worked for cellular and WiFi.  Wish I had found this a week ago.",
+        "commentId": "gp:AOqpTOEk-kat0hG0pUHUBrm6pkthh3fuffkP3Rto68uWZzdB4uwZYfl53lYCnqWDp9zPbWfyFcZxUJTIC9xYINo",
+        "author": "Michael Tarkowski",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371639647723",
+        "starRating": "1",
+        "title": "Force closes repeatedly...",
+        "comment": "... on my HTC Desire S. Please also correct the typo (Ouput). Uninstalling.",
+        "commentId": "gp:AOqpTOGnGRjxqByOrXVihHu1ElOV3D6oFGNkGxFvl50g-7TA0DbCStk2YhhdozlzwqFYjVA01cFwEN0TM9bYVgU",
+        "author": "John P Coates",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351361369409",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "Apik tenan aplikasine wakluk santai",
+        "commentId": "lg:AOqpTOFKaP0SVpsyhAnpqiGHBxsSGzVByEMKRIK5aavfbkdVFftwSxCthqn4vcZsXqyOaiTO7x1ecGltavzA_tw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376159228160",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Works exactly as described.",
+        "commentId": "gp:AOqpTOGBQINVoDqr7DM2jLqMaux2jvUNrFeeXms0QVLll2YoaDApcU0PC9AtO2jmaK9Li9Xl3Mq5RWvWZ2KmhsA",
+        "author": "James Landrum",
+        "authorURL": "http://lh4.googleusercontent.com/-E7iU9OfMc0E/AAAAAAAAAAI/AAAAAAAABHc/9tLry5ggjPo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-E7iU9OfMc0E/AAAAAAAAAAI/AAAAAAAABHc/9tLry5ggjPo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1353061152438",
+        "starRating": "5",
+        "title": "It does what it says.",
+        "comment": "Thanks! A perfect implementation of the useful test. 5 stars!",
+        "commentId": "lg:AOqpTOHSDogLwbhEf869LhATK5w1gVRh80_Az9YoIPwTS3w49ei9KUkm3BHR93D6dZ3pYMWZp_InycSfDtUJXnY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361337132633",
+        "starRating": "5",
+        "title": "Oh",
+        "comment": "Very good works!",
+        "commentId": "gp:AOqpTOG410gvJPfTEiDQNCre_USWdnQeGsal2Cj-g-Z__1NER_s1BEuyS-YSjgbL8PTEaE0ofaZz1l06XZUfhMw",
+        "author": "sirapobva V",
+        "authorURL": "http://lh5.googleusercontent.com/-5_czuqEDRlk/AAAAAAAAAAI/AAAAAAAAANE/X-UOsQ56h94/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-5_czuqEDRlk/AAAAAAAAAAI/AAAAAAAAANE/X-UOsQ56h94/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.READ_LOGS",
+      "android.permission.INTERNET",
+      "com.firstrowria.pushnotificationtester.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

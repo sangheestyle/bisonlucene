@@ -1,0 +1,30 @@
+{
+  "title": "Tennis Remote Score Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.diminutosoft.android.remotescorelite",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "June 15, 2012",
+  "version": "2.0.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "24",
+  "rating": "4.1666665",
+  "contentRating": "Low Maturity",
+  "creator": "DiminutoSoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.diminutosoft.android.remotescorelite",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "!!NEW!! Complete score board for Tennis, Paddle, Table Tennis and similar sports.You can score using remote control devices. Standard Bluetooth Headset/Hands-free devices.Remote device can be operated by players on court.You can score by taping on the screen too.You can use two remote devices, one for each team or player.You can control score with a unique remote device, one click for own points and two clicks for opponent points.Announces all score points complaint with ITF rules.Announces in English, French and Spanish due to the phone Text to Speech  settings.You can plug in a speaker at earphones output and hear announces on court.You need battery or plugged speakers, 5w output speakers minimum for Paddle, 2w for Table Tennis, and 10w for Tennis in not noisy environments.Playerâs positions are graphical displayed on every point.Match time clock with pauses allowed. Minutes per set counter.Player names updatable and used in calls.Compliant ITF rules random engine with coin toss for ends and service choices.You can UNDO up to 5 points if make a score mistake.You can keep screen ON during the match.Sound launched on elapsed rest time. Sound at: 20, 90 and 120 seconds. You can know some stats about match.You can configure a lot of score options in preferences menu.**********************************************PLEASE REPORT ANY BUG OR LANGUAGE MISTAKE**********************************************TESTED BLUETOOTH DEVICES========================DEVELOPER TEST--------------------------Motorola MT305Cellular Line BTC5Avantalk AH8Plantronics PLT_MLXX (needs dblckick to send signal)USERS TEST-------------------------Jabra XX (OK) (Please email to diminutosoft@gmail.com if new device is successful tested)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.android.vending.CHECK_LICENSE"
+    ]
+  }
+}

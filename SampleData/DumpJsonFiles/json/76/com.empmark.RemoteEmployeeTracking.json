@@ -1,0 +1,47 @@
+{
+  "title": "Remote Employee Tracking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.empmark.RemoteEmployeeTracking",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 18, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Empmark Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.empmark.RemoteEmployeeTracking",
+  "extendedInfo": {
+    "installSize": "577k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Remote Employee Tracking(RET) application is for tracking records of employee's of small organization.RET is password protected application , without successful login user can not access application. it maintains hierarchy of suprior user(parent user) - sub user(child user). sub user can request to parent user for join to hierarchy, but parent user may approved or unapproved to user. parent user can access all the information of the child user.parent user can change (password, profile, rights) of sub user , but not a vise varsa. All the Users Can View All Assign Task , Completed Task ,Canceled Task . it shows user's current location when any task is completed. Features :-\tRemotely Tracking employeeâs records.\tApplication is password protected.\tApplication maintains hierarchy (parents - child).\tEach user has maintains own unique IDs.\tApplications also available in web module. \tUser can show location at time of completion task.\tSuperior can see their all subordinates.\tSuperior can change subordinateâs (password, profiles, rights etcâ¦ ).\tParents user also access detail of its subuser.\tNo advertisement.\tLight weight Application.",
+    "reviews": [
+      {
+        "timestampMsec": "1337448988656",
+        "starRating": "5",
+        "title": "such a helpful to me to for my goal achievement",
+        "comment": "it\\'s really help to me for my goal achievement in successful entrepreneurship.",
+        "commentId": "lg:AOqpTOGa57ibwiN6ImJlHVmRWy9UK7xAtj4SiDV4foQGEDUBOU-RMG9HoQIl1sIViK-GcWWqEdsKEgJLsJR6zQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358697193971",
+        "starRating": "1",
+        "title": "No work",
+        "comment": "Cant find Internet connection on wifi or 3g",
+        "commentId": "gp:AOqpTOFj4vMdYYIJAIXD-FmtpKK8mpy0wXSM0V0yKENPYHUVXMmF40lrBRTzIzZFGNzLYlaqBG8g_pXWYJV9rg",
+        "author": "Jeff Evans",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION"
+    ]
+  }
+}

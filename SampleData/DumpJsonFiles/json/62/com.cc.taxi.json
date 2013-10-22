@@ -1,0 +1,31 @@
+{
+  "title": "Central Taxis Coventry",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cc.taxi",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "July 30, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Trapeze Group (UK) Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cc.taxi",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Central Taxis free Android app is set to revolutionise the way you book and track your taxi in the Coventry area.Bookings are processed through Centralâs Trapeze data dispatch system utilising the latest GPS technology with pick up times of around 5-10 minutes which provide you with the safest and most reliable taxis in Coventry. With callback, textback and vehicle tracking informing you of the Taxis progress with all our drivers licensed by Coventry City Council along with full CRB checks.Simplicity is the hall mark of our innovative user-friendly taxi booking solution, giving you instant access to over 450 licensed vehicles. A few taps on your Android device is all it takes to book a taxi - so stay safe and avoid the need to call and wait in long booking queues.With instant location finder via GPS and maps students, tourists, visitors and regular users in Coventry have their pickup pinpointed. So why delay? Download the Central app today!The main features of this app enables:convenient booking of current and future jobscreation and management of favourite addresses/locationsmanagement of previous bookingstracking of the real time progress of your taxi on a mapnotification of taxi detailscancellation of bookingsautomatic detection of your location via GPS and MapsThis app has been designed to be used for journeys within a 9 mile (15 km) radius of Coventry.Please note that we cannot respond to reviews and feedback here in the app store, so please use the support email: info@centraltaxiscoventry.co.uk if you need assistance or have suggestions. Weâd love to hear from you!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

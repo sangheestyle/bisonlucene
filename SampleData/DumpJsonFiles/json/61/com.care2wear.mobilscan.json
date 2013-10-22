@@ -1,0 +1,154 @@
+{
+  "title": "Mobilscan - your OBD tool",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.care2wear.mobilscan",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 25, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "129",
+  "rating": "3.6046512",
+  "contentRating": "Low Maturity",
+  "creator": "Mobilscan ApS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.care2wear.mobilscan",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "NB: Requires a MobilScan OBD adapter - get it from www.mobilscan.dk. It will not work with other adapters.We have apparently not been sufficient clear about supported cars:As this is an OBD adapter, only EOBD/OBDII compatible cars are supported.In EU, all cars sold since 2001(gasoline)/2004(diesel) are required to be EOBD/OBDII compatible.As far as we can tell, most brands comply, but if you have a French car, you may want to check its compatibility.You may have luck with older cars, too.Read more at www.mobilscan.dk!*** New in 2.2 ***View your previous reports as 'My reports' (report page).*** New in version 2.1.4 **** Sharing of snapshot report now also possible to facebook and similar services. Requires that you have the Facebook app installed.* 'Real' fuel consumption calculation added - FOR GASOLINE/PETROL VEHICLES. This will only be visible on vehicles having MAF (Mass AirFlow), otherwise we simply don't have the necessary information. Note that the value may be visible also on diesel vehicles, but that calculated value is most likely completely wrong, then. We have no (sure) way of detecting a diesel, so in that case, you'll have to use the 'Energy burn' calculation instead.* Take a screenshot and share it with yout friends. Available from the menu (or in the action bar if there's room).*** New in version 2.1.3 **** New option: alternative layout - intended for 7-inch  tablets, enabling them to apply the layout used for phones. Requires restart.* Misc layout improvements for tablets.* Instrument ranges enhanced.* New option: snapshot file format. Some mail clients don't like HTML, so now you may chose to send the snapshot as an attached ZIP file.* New option: show your location in snapshot reports. Made optional for privacy reasons.* New option: show 'Send log'. Enables the 'Send log' menu on the report page (we got a lot af these logs, probably not intentionally...)* Bug fixes*** New in version 2.0 *** :* User interface revised.* Improved use of tablets' larger display.* Data recording - a sensor value that's currently shown is also logged. The collected data is available in the Snapshot Report in graphical and/or tabular format.* New derived value: Energy burn. Works for diesel vehicles, too!* Demo mode - built-in ECU simulatorNow you do not need to drive on with the MIL light on.Now you do not need to wait to go to the garage with your car to know what is wrong.Now you can prepare the garage by knowing what is wrong.Now you can see what is wrong with your car on your holiday so that you know if you can drive on.And all this for less than what most garages take for doing the same test once.The system comprises an this app and an OBD Bluetooth adapter you either buy at the local dealer or online.MobilScan gives access to car information as defined by the ISO standards about OBD, this means that you can read out fault codes, continuously receive and display a full list of engine parameters like oxygen sensor readings, air mass, temperature sensors and other parameters used by the engine control computer (ECU).When you want to capture the current state of the car, you may send a 'snapshot report'. MobilScan compiles information about the current state of the car, and allows you to send this as a HTML report to a receiver of your choice (e-mail, Bluetooth, ...)NB! The MobilScan software is free, but we're trying to make a living from this, and you'll have to buy the corresponding MobilScan OBD adapter from us. Please contact sales@mobilscan.dk for pricing and availability in your region. If you are already a MobilScan customer, you may use your existing OBD adapter.If you are just looking for a fault code lookup tool, try http://market.android.com/details?id=com.care2wear.dtclookup_fullCredit:Version 2.0 uses the ActionBarSherlock framework to implement action bar support on early Android versions. If you're a developer: try it!keywords: mobilscan1obd1tool",
+    "reviews": [
+      {
+        "documentVersion": "2.1.2",
+        "timestampMsec": "1359170201329",
+        "starRating": "5",
+        "title": "Mobilscan does the job best",
+        "comment": "Boy have I been waiting for a product like this, all my cars get modified, so this is an essential tool for me",
+        "commentId": "gp:AOqpTOEdSzrBpB40UFxH3VizlY3OrdSyhlsVR_gudBLPzLeo0JNpIxlJmINis8nnSGF8rxs3vWoyRgPrwYSgFA",
+        "author": "Morten Nielsen",
+        "authorURL": "http://lh5.googleusercontent.com/-XdaFpIEuc-4/AAAAAAAAAAI/AAAAAAAAAZQ/HOxFyU7A0XA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-XdaFpIEuc-4/AAAAAAAAAAI/AAAAAAAAAZQ/HOxFyU7A0XA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357596339661",
+        "starRating": "5",
+        "title": "Works well",
+        "comment": "Just plug the adapter to my car (Toyota Rav4 \\'01) and than found out what the problem was, bought new part and deleted the fail code. Saved me alot of money. Using Samsung Galaxy Note",
+        "commentId": "lg:AOqpTOE-IGN42BHMjsrcHKzWrlnofPKslydHFBZa8uRIZWbQP9sNfQg7fLqhW7F5Cb6zO4Y5trYVBJG_z4dDXQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347826348748",
+        "starRating": "1",
+        "title": "Have to buy their adapter?",
+        "comment": "I understand the need to make a profit and would be happy to pay for the software which looks to be quite good. But how about you let me choose my adapter and you write the software? The protocols are generic and you could even recommend certain brands. This way you make money from what you do which is write software and you are not tied to hardware. I hope you\\'ll think about this suggestion.",
+        "commentId": "lg:AOqpTOHfK8CW8Xf_D7leFrlintq2qxqKokMHZHVdXalwd-jU32E4gsBFNPRAlP1P78Ib3y-82v0eKyh28_wTow",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338019713767",
+        "starRating": "4",
+        "title": "Good app.",
+        "comment": "Does what it claims. Would be nice to put on SD card!",
+        "commentId": "lg:AOqpTOHyAZLxKUi0AZxRoqPINgBgIele-zJMfKdh-fbA_Ef-tKUoqh6bohJDhUdyVERCOsCd84KtIa1LEVxEpw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332410297839",
+        "starRating": "5",
+        "title": "Great app!",
+        "comment": "Works well with adapter, saved 60 quid on resetting fault code on Jag S-type instead of paying dealer, so paid for itself. Have worked perfectly on all our cars so far. Great features for emailing diagnostic reports. Highly recommended!",
+        "commentId": "lg:AOqpTOHSoowTf5RmWqkaj6pzP9HsYBB6rKe-tQdXuk7rUFYhHdh0Ez82TVUUobYnq3SZDgZvi_7qqlJOZx75UA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332414826694",
+        "starRating": "5",
+        "title": "Obd",
+        "comment": "Works great on my golf.",
+        "commentId": "lg:AOqpTOG1j10L0swyYIi1MOYOkUBNhk5WJcmW67nvEBh22WxcTDYg03wk0OJMlC4dC4w6HMykt8QzQ_awCLBs7g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1328075909081",
+        "starRating": "1",
+        "title": "Need there mobiscan adaptor",
+        "comment": "Won\\'t connect to any adapter other than there\\'s....",
+        "commentId": "lg:AOqpTOGMXv7lpwEw6tIvQGuzagTT0dUBUHnU4VJi_peqWJm0TJUUu9SQ75YayCopU4c8mXDPZIuYKmWHMidF_g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1319118508006",
+        "starRating": "1",
+        "comment": "Will not find my Bluetooth old2 so will be sticking with torque pro that work 100%",
+        "commentId": "lg:AOqpTOFSBTHr4Gtt4bXIIKVzLW4GVSFx1W8oVK5q6Dglg1tq810LFL3W7EmgBUQquxq5psWF-9_D_g9bpNf8Gw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311836579424",
+        "starRating": "5",
+        "title": "Vedran",
+        "comment": "Arias, I am looking for a decent app for a real engine diagnostics - this is so far not the best, but the only proffesional app i\\'ve seen. This app is not a toy for teenagers. This is a real thing. Real things cost money. it\\'s your choice to pay for adapter or go to Garage and pay for same thing plus fee, multiplied by several years. And about a comment on Torquescan - it\\'s not about reading the data \\342\\200\\223 everybody can read a raw data - it\\'s about presenting it in a simple and usefull way which Mobilscan did i",
+        "commentId": "lg:AOqpTOEI4DCBzWBFR31VL_8aVLtLRrj5HT2bPbJvwUp_--dESwN7ihGWUtouqIB-UxPiIv63MEoO8hQEA0-HHQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1312472107381",
+        "starRating": "1",
+        "comment": "Wasn\\'t very reliable.",
+        "commentId": "lg:AOqpTOEUHpCBu4X2Y92sETG9agVQP8i-g3hRmjY8QvlWhIXcKtszFAxBxvVzmX6I-FQzD2c3SDXSAxNndyQHCQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311712034717",
+        "starRating": "2",
+        "comment": "Works okay",
+        "commentId": "lg:AOqpTOHFdXpQePToOdmfM4bJk_sqa80DNr4DkiGg47SpwuohkWT9HeL9s1TYiFJOBzMk8wrpXXBsuskDRxUtgw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1303292981429",
+        "starRating": "1",
+        "comment": "Ripoff! You have to buy and use their proprietary cable just so their mediocre app will even work. Save your money for open vendors like torquescan",
+        "commentId": "lg:AOqpTOF2eLX_hgjJgXPRlX1PGS0728ajI5lf0wmZuE2DxT2umsSdARr65leyr6VlqUKNzdU6wDM4c8kRuXQruA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1300809459049",
+        "starRating": "1",
+        "comment": "Have to use specific obd adapter bought from them....Prolly should put that in the description..",
+        "commentId": "lg:AOqpTOGTlhhssHlDTwWAJIFVY4HkzbuATua-ZXNobWADQLi_4mJNETC23phkI5vKOsp_lkx5wqEJqjhrBbgc8Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352146530535",
+        "starRating": "1",
+        "title": "Failed to find my ODB II adapter",
+        "comment": "Couldn\\'t even use it.",
+        "commentId": "lg:AOqpTOEeVItMxM_mtx1tNWtoljCGYk-iVnBlCwTLGtxlQBSYTzLw4ERO5tahfnt4pE3Dhztqs4ArojVH8BXh2g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

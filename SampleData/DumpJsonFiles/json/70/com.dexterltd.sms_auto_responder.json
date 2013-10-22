@@ -1,0 +1,36 @@
+{
+  "title": "Do Not Interrupt",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dexterltd.sms_auto_responder",
+  "category": "Travel & Local",
+  "price": "$2.49",
+  "datePublished": "May 24, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "2.3333333",
+  "contentRating": "Everyone",
+  "creator": "Manas Gajare",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dexterltd.sms_auto_responder",
+  "extendedInfo": {
+    "installSize": "506k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Perfect app for the moments when you do not want to be disturbed by anyone. Let it be DRIVING, MEETING or some INTIMATE moments, the app is a must-have!Two ways to activate - 1. Widget 2. Click on 'Start Service' in the app. On activation -1. Any incoming message will be received SILENTLY.2. Incoming call will be BLOCKED and a PRE-SPECIFIED text message will be sent to that caller. You can check LOGS of all the communications in our app as well.A constant notification implies that app is in the RUNNING state. We are open to suggestions, so share if any. For any issues, mail us, do not put stupid comments.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.MODIFY_PHONE_STATE",
+      "android.permission.READ_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

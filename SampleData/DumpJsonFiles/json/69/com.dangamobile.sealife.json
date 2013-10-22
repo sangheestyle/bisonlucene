@@ -1,0 +1,32 @@
+{
+  "title": "Sea Life",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dangamobile.sealife",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "July 9, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "DAENTech",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dangamobile.sealife",
+  "extendedInfo": {
+    "installSize": "3.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Play an engaging competition to eat other sea creatures in this latest android game.  Sea Life employs the highly accurate Accelerometer in your android device to control your creature.Design your own creatures to play with using the unique drawing mode, alternatively load your own character images directly from your phones file system.Compete with your friends scores using the OpenFeint socialgaming system.  Sea Life automatically tracks and uploads your highscores to OpenFeint which you can use to compare our highscores with those of friends!Sea Life Utilizes the latest OpenGL ES 2.0 Graphics technology provided by Google in Android to produce the smoothest and exciting playing experience.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

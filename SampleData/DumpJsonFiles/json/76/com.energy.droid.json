@@ -1,0 +1,59 @@
+{
+  "title": "Incenergy EMS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.energy.droid",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "5.1.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "Incenergy Android",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.energy.droid",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official app for controlling Incenergy wireless communicating thermostats and monitoring other Incenergy wireless energy management devices. Download the app to try out the demo. The app will download with the demo log-in information already entered and will open automatically. Tap the HVAC System Status bar and begin to explore the features.Designed for small to mid-size commercial buildings, the Incenergy energy management system gives you custom control of HVAC settings in all of your buildings. The app offers at-a-glance visibility into your HVAC systems, and the ability to control your thermostats from anywhere. Monitor your HVAC system status across all your buildings from the Dashboard and view your facilities' HVAC on time and your estimated cost of air conditioning. Charts help you determine where you can find energy savings. An alarm summary includes a 30 day alarm trend. Alarms are sorted, distinguishing new faults from reoccurring problems. Identify problem units before they cost you money.You can set temperatures and view HVAC system performance on the go, allowing you to respond to hot calls from wherever you are.Supports HVAC Supply Air, Lighting Control, Gas, Water and Electric ERT metering, Submeter monitoring and Thermistors.",
+    "reviews": [
+      {
+        "timestampMsec": "1359602343981",
+        "starRating": "1",
+        "title": "Never works right",
+        "comment": "Never works right.",
+        "commentId": "gp:AOqpTOEq-LYFjAJQ2FwZxnJNFc6Nv3Ni8nrr4l3onFOZk2pOEemSx_Lird5rqRp7CyrSPbpDD67iJDCf5uHHMw",
+        "author": "J Cabrera",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.6.6",
+        "timestampMsec": "1323887997109",
+        "starRating": "5",
+        "title": "AWESOME APP!!!!",
+        "comment": "This app is very cool! Works great everytime. As a field technician, this saves me countless hours! Now when a customer calls, I just pull out my phone and check temps or change setpoints from where ever I am!  It has override times, graphs,alarms and settings. you can do most of the things that you can do at your PC from your phone!!   Thanks Incenergy for making my job easier!!  BJ Holland Fox Service Co.",
+        "commentId": "lg:AOqpTOG0I71iePS_aUTZwTwDiNAjYAObNQi3tABITtkZmRNYL5924ooMqW2erOPFzrmVLSUJWdLYtgqQrjMqrQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.6.4",
+        "timestampMsec": "1319840857333",
+        "starRating": "5",
+        "comment": "This is a great app! Worked perfectly for my account with zero setup. Some text fields are a bit small but otherwise excellent.",
+        "commentId": "lg:AOqpTOHOLyvK7aqbes6DwYPh9KEbVwBD3mJKSqbKHRwQu_Ex1TBNHk9EqAGeuwQqnAsV8DHGjNDnNt7hA4mnaw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ]
+  }
+}

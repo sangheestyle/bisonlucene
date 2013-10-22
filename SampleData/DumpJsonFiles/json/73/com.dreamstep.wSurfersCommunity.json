@@ -1,0 +1,38 @@
+{
+  "title": "Surfers Community",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wSurfersCommunity",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "June 8, 2011",
+  "version": "0.11.13075.42367",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Alan Elliott",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wSurfersCommunity",
+  "extendedInfo": {
+    "installSize": "182k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "A place where surfers can socialise and share surfing experiences with each other, upload pictures, blog and much more.",
+    "reviews": [
+      {
+        "documentVersion": "1.13075.42367",
+        "timestampMsec": "1313230236310",
+        "starRating": "1",
+        "comment": "Keeps saying fatal error would be 5out of 5 cos its a good site but wont loads on my X8",
+        "commentId": "lg:AOqpTOETs4ni_30IwXL7ev3v3PAduYWqTuucd6RjL3bVVZLesCUt71EAVODo9GdXrh1etMpjpQ9wDC8kYq8POg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wSurfersCommunity.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

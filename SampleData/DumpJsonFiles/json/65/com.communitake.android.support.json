@@ -1,0 +1,77 @@
+{
+  "title": "CommuniTake Remote Support",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.communitake.android.support",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 21, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "23",
+  "rating": "3.9130435",
+  "contentRating": "Low Maturity",
+  "creator": "CommuniTake Technologies Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.communitake.android.support",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "CommuniTake Remote Support application allows customer care representatives and technicians to remote control your device. Application is compatible to devices that were enabled for CommuniTake remote support by their operator.To use this application you should contact the relevant customer care to receive support to your device.",
+    "reviews": [
+      {
+        "documentVersion": "2.6.0",
+        "timestampMsec": "1337013402600",
+        "starRating": "1",
+        "title": "WTF",
+        "comment": "Wtf",
+        "commentId": "lg:AOqpTOFgDbZpA2VqwMM55yLAaxNOUPTnWi1_0IXGqRC9l_kwV00mXvavLRchxD3YDuhJlHKN85rsVPIl-hnsRg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.0",
+        "timestampMsec": "1334661083909",
+        "starRating": "5",
+        "title": "Nice one!",
+        "comment": "Really helped.",
+        "commentId": "lg:AOqpTOHfOb_gF00Al4NvH6l0_PTm0Tpm0iaj4Zhm6gMXgDUXIBHZi0x9-sHvo1ioYL-qNcxUq56RLHf7-J2cvQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345912989653",
+        "starRating": "1",
+        "title": "Requires paid service",
+        "comment": "Usless without their paid service.",
+        "commentId": "lg:AOqpTOH9Zfz1kIY63NMj0BSHQex3rF8MVQDTmE7_oVlNDpwzfRHIvjkMkA7d_BbKlHLdLy2IjkgS2qz_GO74cA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_OWNER_DATA",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_FRAME_BUFFER",
+      "android.permission.INJECT_EVENTS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.REBOOT",
+      "android.permission.INSTALL_PACKAGES",
+      "android.permission.EXPAND_STATUS_BAR",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.communitake.permission.REMOTE_ACCESS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

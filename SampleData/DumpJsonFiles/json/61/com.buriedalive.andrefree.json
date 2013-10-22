@@ -1,0 +1,94 @@
+{
+  "title": "Andre Remote Interface Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buriedalive.andrefree",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 3, 2013",
+  "version": "2.2.2d",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "51",
+  "rating": "3.862745",
+  "contentRating": "Everyone",
+  "creator": "Buried Alive Interactive, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buriedalive.andrefree",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "------------------------ WARNING ------------------------THIS IS A PRE-RELEASE BETA! IF YOU ENCOUNTER PROBLEMS such as crashes or features not working as expected, please email what action caused the crash and your device type to support@andreapp.com so we can fix the problem.There are a few features that are not final. Please do not try this app unless you are comfortable with these limitations:- Limited documentation- A few UI elements need polishingThis is a free demo. All features are fully functional, the only difference is an occasional upgrade dialog message.The universal remote control interface for Android!Andre is a fully customizable, feature rich front end for controlling things. What things? Anything that can be controlled over the network, including home automation software (such as Promixis' Girder), IR transmitters (like the Global Cache IP2IR), alarm systems, media servers and players, IP controllable A/V hardware, and more.A handful of usage examples:- Universal Remote for home theater- Alarm system control/status- Whole house music control- Home/office monitoring from anywhere- Lighting and environment status & control- Weather station- Custom sound board- Music/video catalog- IT server monitoring and control- Router control interfaceAndre is server-agnostic and supports http(s) and TCP communication. For most uses Andre is paired with server software/hardware that is capable of communicating through one of these protocols such as home automation apps (Girder, PowerHome, HAI, HomeSeer, mControl, Control4, Vivint and many others), media software (XBMC, JRiver, MediaPortal, etc.), and alarm systems. More and more hardware is becoming controllable this way, including A/V receivers, set-top boxes and DVRs, weather stations, even alarm clocks and digital picture frames.  PLEASE NOTE: WHILE ANDRE *IS* CAPABLE OF A LOT OF STAND-ALONE FUNCTIONALITY ON THE ANDROID DEVICE ITSELF, MOST COMMON USES REQUIRE SERVER SIDE SOFTWARE OR HARDWARE THAT IS NOT PART OF ANDRE. If you are unsure if Andre will do what you want please visit http://www.andreapp.com for more info or to ask questions. We will be happy to help! CUSTOM USER INTERFACE---------------------The UI is completely configurable through an XML file or comprehensive on-screen editors, consisting of one or more pages that can contain any combination of controls:- Button\t\t(customizable look, feel and behavior; animatable (sprite/scale/move/rotate/alpha)- List\t\t\t(static or dynamic; image and/or text content)- Slider/Progress bar\t(skinnable; horizontal or vertical)- Text\t\t\t(custom TrueType/OpenType font support)- Image- Web Browser- Any Android WidgetADVANCED CONTROL CAPABILITIES-----------------------------Button look and feel is dynamic with labels, drop shadows, borders/background fill, color tinting and more. They can trigger over 50 actions, including:- Call web service/TCP- Change pages- Vibrate- Play sound (MP3, OGG, RAW formats)- Execute scripts- Start/stop timers- Modify other controls- Speak text- Trigger user input dialogsButtons are assigned functionality for five distinct actions: display, touch, held, repeat and release. They can also be given user-defined 'states' that change how they look or act. Andre supports one or more 'locations' (e.g. Family Room, Bedroom) which can also change button appearance and behavior. Buttons can be triggered by simple gestures and physical device buttons too.SOCIAL LAYOUT SHARING---------------------Exchange pre-configured controls and designs with other Andre users on the device or through andreapp.com! A growing catalog of buttons, pages and other contols to quickly get started with your layout.OTHER FEATURES ------------------------------ Timers- JavaScript Scripting- TCP Scripting- Run as Home Screen- Push notifications from the cloud- Broadcast & receive Android Intents (interface with Tasker, EventGhost and other Android apps)",
+    "reviews": [
+      {
+        "documentVersion": "2.2.2",
+        "timestampMsec": "1365761903963",
+        "starRating": "1",
+        "title": "Worst app ever",
+        "comment": "Its wasteg of time.",
+        "commentId": "gp:AOqpTOEFLYgBl2EZlWm0mtsPyudxZ5ORztSyj3wnm0CmPkAyweTLA9nQxqLRnqnA-H2Et777Ji6_WbGFTmVDkw",
+        "author": "Najam Irshad",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1361281060658",
+        "starRating": "1",
+        "title": "WTF",
+        "comment": "Did someone make this crap to work ?",
+        "commentId": "gp:AOqpTOGqmtrDSGbt5NpsNCuR0mSnXskSy2mXUCitvcLFW5I-d3AYUsks0zPicABB62SrWXqnPxyoPKMO3zD9eg",
+        "author": "Druid Pollux",
+        "authorURL": "http://lh3.googleusercontent.com/--zCzD56PJyM/AAAAAAAAAAI/AAAAAAAABjU/PrwwoJoExM8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/--zCzD56PJyM/AAAAAAAAAAI/AAAAAAAABjU/PrwwoJoExM8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369192665857",
+        "starRating": "3",
+        "title": "On Going",
+        "comment": "Interface great, waiting for the IR ... ( keep going)",
+        "commentId": "gp:AOqpTOGPhLEqZyMFb6yoI-y6P5-eqAUPgEcP7MjO_mWHIucZCT25qxXoVQ3138Rit_XYUngGXRE0QtHeGhPUqQ",
+        "author": "David Gouff\\303\\251",
+        "authorURL": "http://lh3.googleusercontent.com/-kxu43DG6X9I/AAAAAAAAAAI/AAAAAAAAAAA/GmzfMdjMEx4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-kxu43DG6X9I/AAAAAAAAAAI/AAAAAAAAAAA/GmzfMdjMEx4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1361025860321",
+        "starRating": "1",
+        "title": "Ken",
+        "comment": "Didn\\'t do nothing does all your apps do this same like it",
+        "commentId": "gp:AOqpTOHw7TeNa7OEV9qYLLWlpSVtdwv0yDvyNFHInmXbZBdddbvr35nNhDaD6xVrUCsd6m5aSqiXlLQ1L9Snmw",
+        "author": "Kenneth Moore",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362166303809",
+        "starRating": "1",
+        "title": "Wow",
+        "comment": "Real Funny",
+        "commentId": "gp:AOqpTOE3JFBl1AlJDk6mzRKeki6Wj2i72mnqrUGTE2PXnQAgJWwg9EPKCmOiUneOK9dFDq_tgSKzISyeIJhXQg",
+        "author": "Clarence Jones III",
+        "authorURL": "http://lh4.googleusercontent.com/-8SNeOWl-IYU/AAAAAAAAAAI/AAAAAAAAACk/5lpc2GAoctQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-8SNeOWl-IYU/AAAAAAAAAAI/AAAAAAAAACk/5lpc2GAoctQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "com.buriedalive.andre.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.c2dm.permission.SEND",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

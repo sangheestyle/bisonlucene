@@ -1,0 +1,45 @@
+{
+  "title": "Chandler Fashion Center",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chandlerfashioncenter",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "March 27, 2013",
+  "version": "2.2.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Macerich Developer",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chandlerfashioncenter",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Introducing the official Chandler Fashion Center app â your digital shopping center companion.MALL DIRECTORY â browse by category or view stores alphabetically with detailed info, map location and phone number for every retailer or dining establishment. Even get a quick glance if the store currently has a sale.INTERACTIVE MAP â search for and display the location of individual stores and closest parking, as well as restrooms, escalators, elevators, ATMs and other mall amenities.SALES & EVENTS â view a detailed listing of sales and events going on at the center and even create a favorites list to help plan your shopping trip.WHERE DID I PARK? â save your parking location by using your phoneâs GPS, taking a photo, recording a voice note or typing a text reminder to easily locate your vehicle.MOVIE THEATER INFORMATION â view movie descriptions, show times and even purchase tickets online.RESTAURANT RESERVATIONS â view available tables and make restaurant reservations directly within our app (restaurant must support OpenTable reservations).SHOPPING LIST â get organized by creating a custom shopping list. For every item on your list, select the retailers youâd like to visit and locate them on the mall map with one touch. You can even email your shopping list for others to view.CENTER INFORMATION â view shopping hours, center address and phone number, guest services information, weather forecast and more.",
+    "reviews": [
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1376671818068",
+        "starRating": "1",
+        "comment": "To high level not detailed enough.",
+        "commentId": "gp:AOqpTOFNc788klwwFwU0x9r7nK7bt9mCgW2hfH6czu8OartHZwDxUpZaeNpcpdh6ygt5kbjJVRZnOIGsoIil1w",
+        "author": "Russell Smith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_ASSISTED_GPS",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

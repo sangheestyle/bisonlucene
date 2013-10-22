@@ -1,0 +1,39 @@
+{
+  "title": "App Lockbox Trial",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ea.applock",
+  "category": "Tools",
+  "price": "$2.99",
+  "datePublished": "March 16, 2011",
+  "version": "2.2.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "4.1666665",
+  "contentRating": "Everyone",
+  "creator": "eAgency Mobile Security, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ea.applock",
+  "extendedInfo": {
+    "installSize": "637k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "100 - 500",
+    "description": "App Lockbox keeps your phone private by password-protecting individual applications, so others canât access your personal info. Protect text messages, facebook, photos, contacts and any other info you want to keep to yourself. Allow friends to borrow your phone, knowing your private information is protected and secure. App Lockbox also gives you remote lock capabilities. If your device is lost, stolen or simply left behind, just send a text message from a friendâs device and lock your phone in seconds.Security-App Blocking-Remote LockHere are some uses:1.  Keep strangers and parents from reading your texts, facebook and twitter info2.  Protect your information from the snooping wife/boyfriend/girlfriend3.  Let others borrow your phone, knowing your information is protected4.  Block your friends from sending embarrassing texts and facebook posts",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.READ_LOGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.RECEIVE_SMS",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "West Coast Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cbs.sportsapp.android.west",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "March 25, 2013",
+  "version": "1.30",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "First Round Media, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cbs.sportsapp.android.west",
+  "extendedInfo": {
+    "installSize": "12M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome to the Official application of the West Coast Conference, created by the CBSSports.com College Network, in partnership with the West Coast. This exclusive application delivers the most comprehensive content of the WCC and its member institutions, including breaking sports news, live scoring, on-demand video and audio, players bio, game start alerts and more. KEY FEATURES - Live Scoring - Play-by-Play - Live Video & Audio available for select games - Exclusive Breaking Sports News - Alerts (game start and final scores) - Complete Sport Schedules - Team Rosters & Bios - Much moreâ¦ COVERS ALL WEST COAST CONFERENCE SPORTS**Known audio issue:Audio is currently not available on any device without Adobe Flash. We are working diligently on a solution to provide you with audio, please bear with us in the meantime.**",
+    "reviews": [
+      {
+        "timestampMsec": "1372839747899",
+        "starRating": "5",
+        "title": "Luv this app",
+        "comment": "Very insightful",
+        "commentId": "gp:AOqpTOESr5S-xeTGfuZBvEbqUQgi44dGRa7pa16AMpF_zg0CVt6OuXmZwbLBYYjaawS08timXnrkqrKL9GjcF-o",
+        "author": "Jonathan Yim",
+        "authorURL": "http://lh6.googleusercontent.com/-2W8Wpt7m_co/AAAAAAAAAAI/AAAAAAAAGNY/KMf6lfi2PY8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-2W8Wpt7m_co/AAAAAAAAAAI/AAAAAAAAGNY/KMf6lfi2PY8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.cbs.sportsapp.android.west.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

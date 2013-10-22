@@ -1,0 +1,42 @@
+{
+  "title": "Ninja Boy 2",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.esfabn.dxmr.lgkas.ninjakd2",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "September 6, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Game in Hand",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.esfabn.dxmr.lgkas.ninjakd2",
+  "extendedInfo": {
+    "installSize": "753k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Descubra se vocÃª Ã© um verdadeiro ninja nesse jogo. Teste seus reflexos e sua habilidade, atirando shurikens nos ninjas inimigos que se aproximam.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Only you",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.call.me",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "December 15, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Matthew Noh",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.call.me",
+  "extendedInfo": {
+    "installSize": "55k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Simple direct call app. you can use it for your special one person.Once you put a certain phone number, you can easily call & send a message. It also counts days from certain date you put as well.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

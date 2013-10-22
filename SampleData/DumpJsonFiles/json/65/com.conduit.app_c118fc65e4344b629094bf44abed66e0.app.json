@@ -1,0 +1,55 @@
+{
+  "title": "Strong Tower Mobile App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_c118fc65e4344b629094bf44abed66e0.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "February 6, 2013",
+  "version": "1.9.15.548",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Rhema Web Designs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_c118fc65e4344b629094bf44abed66e0.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Strong Tower is a Place of Restoration...a House of Many Nations, located in Fredericksburg, VA. Stay connected and up to date on everything Tower related with our comprehensive app.",
+    "reviews": [
+      {
+        "documentVersion": "9.15.548",
+        "timestampMsec": "1360187445962",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "This is a great way to keep up with what\\'s going on at The Tower! You have access to photos, Facebook posts and the Official Tower Calendar! You also get notifications if there is a schedule change or cancellation. Very convenient!!!",
+        "commentId": "gp:AOqpTOHFjwqbRSL3ijEXNDMZGuRK5YeNB_qd6XXk1BGMz9To__4gfrj4Tm2kEu6ohS5cJSppkU9JJSFr8c2SeA",
+        "author": "Ed Williams",
+        "authorURL": "http://lh3.googleusercontent.com/-afhSOE7zOjw/AAAAAAAAAAI/AAAAAAAADaQ/vDpvVPibsMQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-afhSOE7zOjw/AAAAAAAAAAI/AAAAAAAADaQ/vDpvVPibsMQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_c118fc65e4344b629094bf44abed66e0.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

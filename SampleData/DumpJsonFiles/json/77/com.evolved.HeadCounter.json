@@ -1,0 +1,30 @@
+{
+  "title": "Head Counter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evolved.HeadCounter",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "December 10, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Evolved Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evolved.HeadCounter",
+  "extendedInfo": {
+    "installSize": "15k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is a simple app to count people as they enter an event or a place.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Silverstein Eye Centers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.ToddLaytham_56",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "October 26, 2011",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.ToddLaytham_56",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Silverstein Eye Centers is a full service eye care practice, specializing in state- of-the-art LASIK-laser vision correction, cataract and multi-focal intraocular lens implantation surgery, medical and surgical glaucoma, diseases of the cornea and retina, and oculoplastic services.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.cloudninedevelopmentllc.ToddLaytham_56.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Example Feyenoord App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.customcompanyapp.feyenoord",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "March 31, 2013",
+  "version": "1.08",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Custom Company App",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.customcompanyapp.feyenoord",
+  "extendedInfo": {
+    "installSize": "7.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is an example of a Mobile App you can create using the Custom Company App Mobile Content System!Check out the HTML5 version of this same App : http://www.customcompanyapp.com/mobile/showit.php?AppId=20Create your own Mobile App at our website http://www.customcompanyapp.com and:- You can create an app for any sportclub you like, even your own amateur club!- Show the lates company Club News- Show result and upcoming games to all the fans so they can put them in their agensa- Sell items from the Shop- Distribute your movies using YouTube, SoundCloud, Spotify, or whatever you feel like!- All your club information will be available to your fans- Show your Facebook Gallery to your fans- Show all your Social Media to your fans- Fans can take pictures and send them to you : The Foto ContestAll data in this app is fiction and are only used to show the capabilities of this App",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INSTALL_PACKAGES",
+      "android.permission.DELETE_PACKAGES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

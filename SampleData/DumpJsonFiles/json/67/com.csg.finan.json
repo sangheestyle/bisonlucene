@@ -1,0 +1,35 @@
+{
+  "title": "Personal Finances App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.csg.finan",
+  "category": "Finance",
+  "price": "$4.37",
+  "datePublished": "September 4, 2013",
+  "version": "18",
+  "operatingSystems": "4.0.3 and up",
+  "ratingsCount": "13",
+  "rating": "4.923077",
+  "contentRating": "Low Maturity",
+  "creator": "Cristian Guedes",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.csg.finan",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Este controle de finanÃ§as pessoal foi projetado para ser simples e prÃ¡tico. Por isto, todas as telas foram criadas com o mÃ­nimo de opÃ§Ãµes possÃ­veis, a fim de que a entrada de dados seja bem direta e nÃ£o demande muito tempo do usuÃ¡rio.Sabemos que Ã© necessÃ¡rio muita disciplina para manter o registro de nossos gastos diÃ¡rios e receitas. Por isto, um aplicativo de controle de finanÃ§as para celular Ã© mais indicado que um caderno de anotaÃ§Ãµes, vez que o celular muito provavelmente estarÃ¡ em nossas mÃ£os no ato da compra. AlÃ©m disto, este aplicativo permite a criaÃ§Ã£o de relatÃ³rios personalizados por grupo de transaÃ§Ãµes e por participantes. Os relatÃ³rios podem ser apresentados na tela do aparelho ou podem ser exportados facilmente como planilha do Microsoft Excel. O sistema traz ainda uma tela de resumo de transaÃ§Ãµes, a qual permite identificar com o que vocÃª estÃ¡ gastando o seu dinheiro.A partir da versÃ£o 4, o Controle Financeiro permite digitalizar os documentos registrados como crÃ©dito ou dÃ©bito.  Esta opÃ§Ã£o Ã© muito Ãºtil para guardar documentos importantes como comprovante de pagamento de pensÃ£o alimentÃ­cia, etc.Principais recursos:- GrÃ¡ficos;- DigitalizaÃ§Ã£o de comprovantes de pagamentos;- ExportaÃ§Ã£o de dados para excel no seu e-mail;- IntegraÃ§Ã£o com a agenda do smartphone;- ImportaÃ§Ã£o de SMS dos bancos ItaÃº, BB e Santander;- Controle o saldo de vÃ¡rias contas bancÃ¡rias;- Backup no cartÃ£o de memÃ³ria e-mail;- Widget: pequeno aplicativo que flutua na sua Ã¡rea de trabalho e fornece o resumo das suas transaÃ§Ãµes.SugestÃµes de melhorias sÃ£o bem vindas.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_SMS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

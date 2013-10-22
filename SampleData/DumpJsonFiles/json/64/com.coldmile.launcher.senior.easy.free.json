@@ -1,0 +1,48 @@
+{
+  "title": "Mr. Easy Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coldmile.launcher.senior.easy.free",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "August 9, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "6",
+  "rating": "4.8333335",
+  "contentRating": "Low Maturity",
+  "creator": "Pablo Rodiz",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coldmile.launcher.senior.easy.free",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "---** Free demo version with ads **---If you like this app please check the full version on https://play.google.com/store/apps/details?id=com.coldmile.launcher.senior.easyMr. Easy is your new home screen if you like to keep things simple. With Mr. Easy you create a full new user experience  engineered for enhanced accessibility to main phone functions. If you hate a phone where you need to think how to make a phone call Mr. Easy is your Launcher application.This application offers a complete interface with configurable capabilities hiding the Android system behind. Ideal for adapting smart phones to people with visual disabilities or simply not comfortable with technology and convert  any Android phone on a friendly and easy to use phone with more accessible features.Mr. Easy allows you to configure the access to the main functions of your phones so you can restrict phone calls or text messages to only configured numbers or specify your own emergency number so you can get called with only one button at any moment. The application configuration menu is hidden from the user but with easy access if you know where to look.The simplicity of the interface of Mr. Easy makes it an ideal choice to offer access to the newest communication technologies to any one that needs a little help on the starting. You can limit phone features  to adapt your needs and allow children to learn how to use a smartphone, or ease your parents life when they get lost on Android menus frequently.  The full version of the app can handle phone calls and text messages, favorite contacts, and completely hides the original phone interface (You can always return to the system by closing the application in the hidden supervisor menu). But also offers comprehensive tools for filtering or easing calls and some toys for the final user, like camera and gallery for pictures and a flashlight, you never know.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.FLASHLIGHT",
+      "android.permission.INTERNET",
+      "android.permission.PROCESS_INCOMING_CALLS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_CALL_LOG",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

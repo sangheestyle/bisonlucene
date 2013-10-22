@@ -1,0 +1,39 @@
+{
+  "title": "Dolphin: Dropbox Add-on",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dolphin.addons.dropbox",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "July 3, 2013",
+  "version": "1.3.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "98",
+  "rating": "4.5408163",
+  "contentRating": "Everyone",
+  "creator": "Dolphin Add-ons",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dolphin.addons.dropbox",
+  "extendedInfo": {
+    "installSize": "207k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Upload your download files in Dolphin to your Dropbox and bring them anywhere on the go. With Dropbox for Dolphin, you can:1.Connect Dolphin with your Dropbox2.Upload your download files in Dolphin to your Dropbox automatically and easily3.Access your Dolphin downloads anywhere in DropboxDropbox for Dolphin is an exclusive Add-on for Dolphin Browser. Just search Dolphin Browser in Android Market or download here: http://bit.ly/D-AndroidWhat is an Add-on?Beef up your Dolphin Browser by installing your favorite Add-ons. Similar to a desktop Plug-in, each  Add-on will provides additional functionality on mobile device. Forgot password? Password Manager can help. Want a new look for your Dolphin? Download Shiny Shake to change colors. Want to read a webpage in French? Get Dolphin Translate. Click here to learn more: http://bit.ly/AndroidAdd-onListOther popular Dolphin Add-ons: â¢ Dolphin Webzineâ¢ Box for Dolphinâ¢ Dolphin.fmâ¢ Dolphin QRCode Shareâ¢ Bookmark to SDâ¢ Dolphin YouTube Searchâ¢ Dolphin eBay Searchâ¢ Dolphin Alexa Rankâ¢ Web to PDFâ¢ Dolphin Brightnessâ¢ Dolphin Password Manager Liteâ¢ Password Manager Proâ¢ Lastpass for Dolphin Browser â¢ Xmarks for Dolphin â¢ Dolphin Readerâ¢ Softpedia.com RSSâ¢ Dolphin Screen Cutâ¢ Bookmarks Widgetâ¢ Dolphin Desktop ToggleWe love hearing from you. Contact us at support@dolphin.com and rate us today!Join Dolphin Facebook Fan page: http://www.facebook.com/DolphinFans Follow Dolphin on Twitter: https://twitter.com/#!/DolphinBrowserWebsite: http://www.dolphin.com/",
+    "reviews": [
+      {
+        "timestampMsec": "1373579461254",
+        "starRating": "5",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOGFYrVs7kgTbvCszIfHr7o21pcKSJq-MfPOp_iaorrBGvcnDjYmpctr_lNu1pGaqoXu6ewVcpyYujMe1mI",
+        "author": "Runty Kurme",
+        "authorURL": "http://lh3.googleusercontent.com/-mjyFOEpLLuU/AAAAAAAAAAI/AAAAAAAAACA/NfXGxXcxbIM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-mjyFOEpLLuU/AAAAAAAAAAI/AAAAAAAAACA/NfXGxXcxbIM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.VIBRATE",
+      "com.dolphin.browser.permission.Addon",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

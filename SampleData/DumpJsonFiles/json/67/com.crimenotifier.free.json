@@ -1,0 +1,54 @@
+{
+  "title": "Crime Notifier Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crimenotifier.free",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 23, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "ETrack Concepts",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crimenotifier.free",
+  "extendedInfo": {
+    "installSize": "489k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Crime Notifier Lite allows you to protect from negative influence. Wherever you are, may be you are travelling, walking on the street, in the club, or even alone at home, if you feel that you are under negative influence, then this application will help to safe you.Once you installed the application, How to proceed?= Very first thing to do only once ! =- Do long-press on the app icon to create Home-screen shortcut for quick access.= How to configure ? =- Select Menu->Settings for configuration.= How to use ? =- Click on the app shortcut.- Select Menu->Home, if it is not selected.- Click on the 'Send Alert' button.= How users know the alert is sent ? =- The device will display msg and vibrate.= What will be notified to the receiver ? =- The location of the device    - WiFi Network    - address (Street, City, Town, Country)    - position in the mapKeywords:crime, notifier, droid, threat, detective, device, tool, danger, help, android, world, night, day, road, home, club, alone, negative, influence, world, Sri Lanka, India, USA, UK, Canada, Australia, UAE",
+    "reviews": [
+      {
+        "timestampMsec": "1350241583653",
+        "starRating": "5",
+        "title": "Great application",
+        "comment": "Very useful & a great concept!",
+        "commentId": "lg:AOqpTOHutmzw7T8MVZVEWA-VEz-Kucajb7_I1-Q3hXuzE-8yvT4yGaziJn0HQ1Xnd0ZVnFVMVdU-19vCScsn",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362251949540",
+        "starRating": "1",
+        "title": "Sucks",
+        "comment": "Sucks big time... not working.crap..",
+        "commentId": "gp:AOqpTOF_GAJQVLZKL_ikzEpgLDwDoedUBKGrIAG_RxGskZYMrqXQuqi9lB2WET5D6Z_ouKwoOe2N2RDNGbLq",
+        "author": "Kasun Gunasinghe",
+        "authorURL": "http://lh4.googleusercontent.com/-nKJEE05pNnQ/AAAAAAAAAAI/AAAAAAAABxU/ouoX6FRe0KY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-nKJEE05pNnQ/AAAAAAAAAAI/AAAAAAAABxU/ouoX6FRe0KY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.SEND_SMS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.UPDATE_DEVICE_STATS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

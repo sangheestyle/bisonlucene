@@ -1,0 +1,73 @@
+{
+  "title": "Eyewitness News",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eyewitnessnews",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "September 2, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7",
+  "rating": "4.571429",
+  "contentRating": "Everyone",
+  "creator": "Primedia Broadcasting",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eyewitnessnews",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Access breaking news updates and thought-provoking content from Eyewitness News and their team of credible local and international journalists, now at your fingertips.In this version you can expect:â¢\tAll the latest news, as it happensâ¢\tAlerts for breaking news and featured contentâ¢\tVideo channelâ¢\tAudio content from Talk Radio 702, 567 CapeTalk, 94.7 Highveld Stereo and 94.5 Kfmâ¢\tSport, Business, Entertainment, Politics and Opinionâ¢\tiWitness News contributionsAbout Eyewitness News:Eyewitness News is an independent, award-winning South African news organisation, accessible through ewn.co.za, ewn.mobi and on radio through bulletins on Talk Radio 702, 567 CapeTalk, 94.7 Highveld Stereo and 94.5 Kfm .EWN reporters, photographers and videographers are based in Johannesburg and Cape Town and travel wherever the news is happening. EWN also has a string of correspondents across the country and in major cities around the world. Email editor@ewn.co.za or webmaster@ewn.co.za.KeywordsNews, Sport, Business, Politics, Opinion, Entertainment, Media, Video, Audio, Podcasts, Eyewitness News, EWN, Talk Radio 702, 567 CapeTalk, 94.7 Highveld Stereo, 94.5 Kfm, South Africa, Africa, South African News",
+    "reviews": [
+      {
+        "timestampMsec": "1378661063932",
+        "starRating": "3",
+        "comment": "Good but takes forever to open...",
+        "commentId": "gp:AOqpTOGOSrfh0CY1w27bS35-b1cZWZYFJGlgfatBYM-uG0EYcS6NeBB1RT6zYNQ9ylQv3bpdSZQREfDkj6zsaPg",
+        "author": "Danie Claassen",
+        "authorURL": "http://lh4.googleusercontent.com/-3Ei_B6HQOXg/AAAAAAAAAAI/AAAAAAAAAls/3KWJcD56UEo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-3Ei_B6HQOXg/AAAAAAAAAAI/AAAAAAAAAls/3KWJcD56UEo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375731628444",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Really good app",
+        "commentId": "gp:AOqpTOFEArJt_JsUdTysblqahoUCHkJ5WAB7Vq0ebZoh7f0k72Qjo8pDiZty7M-7QIYEhw5w-BI-QQzETNefPb8",
+        "author": "Ilke Groenewald",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375983160575",
+        "starRating": "5",
+        "title": "Nice!....",
+        "comment": "Good concept....",
+        "commentId": "gp:AOqpTOF95chGpNB-IsycExvgthfHIJl8YMXB2u0JHNfiEOfacd1RNGI6c1cjpHonEw_k46R-e5phfBWfWMvwlsI",
+        "author": "oladapo biya",
+        "authorURL": "http://lh5.googleusercontent.com/-TWc_BlTf7iY/AAAAAAAAAAI/AAAAAAAAAEQ/EUF5JCP_taM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-TWc_BlTf7iY/AAAAAAAAAAI/AAAAAAAAAEQ/EUF5JCP_taM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377337547639",
+        "starRating": "5",
+        "title": "Brest app",
+        "comment": "Excellent Prime m\\303\\251dia! Well done and informative news app. Love the audio.",
+        "commentId": "gp:AOqpTOF64Pl1VHpgqERVO21tNZjtqOuIpOM6saVMn7a0_Y7yA5INrU63wJOZZf3WwC6tcOGG4Zx98lnBdtF-6Do",
+        "author": "Mervyn Hector",
+        "authorURL": "http://lh3.googleusercontent.com/-teIw7TDrgVU/AAAAAAAAAAI/AAAAAAAAAcs/DSZS8n_Gphk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-teIw7TDrgVU/AAAAAAAAAAI/AAAAAAAAAcs/DSZS8n_Gphk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.eyewitnessnews.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

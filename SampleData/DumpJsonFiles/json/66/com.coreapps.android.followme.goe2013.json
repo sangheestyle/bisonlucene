@@ -1,0 +1,58 @@
+{
+  "title": "Gas & Oil Expo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.goe2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "June 4, 2013",
+  "version": "4.2.5.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.goe2013",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Gas & Oil Expo, June 11-13, is a leading biennial event for the North American gas and oil industry. Held in the energy capital of Canada â Calgary, Alberta â it offers opportunities for brand exposure, business development, education, and networking. Indoor and outdoor exhibits showcase emerging technologies, a diverse range of products and services, and the expertise of well-known international brands to an audience of 20,000+ registered attendees. This is a proven platform to source business solutions that create lasting client relationships in the North American industry",
+    "reviews": [
+      {
+        "documentVersion": "2.5.4",
+        "timestampMsec": "1370975753349",
+        "starRating": "4",
+        "comment": "very well designed",
+        "commentId": "gp:AOqpTOFVm4AmsCz27axWAb4H0pq7qc4JMtam6yZ1FF5Qb3Y9yhOGpmtNQ20ZBLLC9aGFebF0Zv1IEuFCnUPd-Q",
+        "author": "Bhavesh Patel",
+        "authorURL": "http://lh6.googleusercontent.com/-ms1QID3R5Wc/AAAAAAAAAAI/AAAAAAAAAAA/4fvDFsQ8zW0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ms1QID3R5Wc/AAAAAAAAAAI/AAAAAAAAAAA/4fvDFsQ8zW0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.goe2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

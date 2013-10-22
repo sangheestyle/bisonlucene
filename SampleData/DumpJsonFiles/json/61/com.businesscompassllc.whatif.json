@@ -1,0 +1,31 @@
+{
+  "title": "What-if Analysis",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.whatif",
+  "category": "Finance",
+  "price": "$1.99",
+  "datePublished": "November 18, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Not rated",
+  "creator": "Business Compass LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.whatif",
+  "extendedInfo": {
+    "installSize": "67k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This application calculates one of the 4 variables: principle, annual interest rate %, time (loan term) in years and monthly payment when other 3 variables are supplied.This application is useful tool for house and car shopping.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

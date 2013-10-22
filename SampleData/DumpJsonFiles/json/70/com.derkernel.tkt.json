@@ -1,0 +1,249 @@
+{
+  "title": "Trinity Kernel Toolbox",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.derkernel.tkt",
+  "category": "Productivity",
+  "price": "$3.69",
+  "datePublished": "July 11, 2013",
+  "version": "1.9.30",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "423",
+  "rating": "4.496454",
+  "contentRating": "Everyone",
+  "creator": "Daniel Goller",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.derkernel.tkt",
+  "extendedInfo": {
+    "installSize": "322k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The Trinity Kernel Toolbox aims at augmenting the Trinity Kernel experience.Supported:Nexus 7 / Nexus 7 3GNexus 4Galaxy Nexus (VZW/GSM/SPRINT)Nexus S / Nexus S 4GNote 2Requirements: Device must be rooted and SuperSU and BusyBox (by Stericson) must be installed in the rom and be up-to-date.(A kernel supporting these features is *required*.)Initial support for: Galaxy SIII (TMO + ATT) (CPU Frequencies + downloads + temperature widget) Nexus 10 (CPU Frequencies + downloads)If Settings don't seem to stick:Update to latest SuperSU, start it and let it update its 'su' binary.Get Stericson's Busybox installer and let it update busybox.Reboot.Set your desired settings.Exit the app.Reboot.Now sit tight, do not start Trinity Kernel Toolbox yet.Wait for the toast that Trinity Kernel Toolbox was given root.Now check your settings were applied.The app supports the following:- Adjusting of CPU Min/Max Frequencies- Selecting of CPU Governor- CPU Governor settings- Selecting of I/O Scheduler- Adjusting of  Max Screen Off Frequency (Galaxy Nexus only)- Adjusting of all CPU Voltages- Sound control: High Performance toggle + Volume boost (Galaxy Nexus only)- Color control (Galaxy Nexus + Nexus 4 Only)- Contrast control (Galaxy Nexus Only)- Adjusting of Vibration Strength (Galaxy Nexus and Nexus 4 only)- USB Fast Charge Toggle (with plug check)- Thermal Throttle Toggle (Galaxy Nexus only)- Smart Reflex Autocomp Toggles (Galaxy Nexus only)- Wifi PM Toggle (Steadier stream or better battery) (GN + N7 only)- Menu with utility functions to make common tasks easier.- Reboot Widgets to access common options from Homescreen- CPU Temperature Widget (Galaxy Nexus + SGS3 + Nexus 7)- Statusbar Temperature display on select widgets (GN + SGS3 + Nexus 7)- Restores trivial settings on boot- Frequency/Voltage settings restored on boot if chosen- Crash Recovery (To get you out of boot loops)- Optimizes system independent from init.d (Great for stock roms)- Localized for Korean, German, Italian, Russian, Simplified Chinese (ROM must support languages)It further provides easy in app access to derkernel.com, however, this is not a kernel Updater, It's a collection of tools to allow tweaking the kernel parameters to fit one's needs.Please email me before leaving one star ratings.",
+    "reviews": [
+      {
+        "documentVersion": "1.9.30",
+        "timestampMsec": "1375256083797",
+        "starRating": "5",
+        "title": "Works fine but I\\'d like support for 400mhz GPU speed",
+        "comment": "Performance and battery life are all really solid. I had a brief issue with missing graphics on the 487mhz GPU speed but a reboot and reflash of the kernel fixed that.",
+        "commentId": "gp:AOqpTOFn1uUiLv30rjmjrc9EFDE1qlppoV3zkXIsWtKSDsKsOVTUMsGg5i1mNN4w4wETw1o4vF9_4Jcw8kaF9g",
+        "author": "Malcolm Bates",
+        "authorURL": "http://lh3.googleusercontent.com/--ca-C4yVWBI/AAAAAAAAAAI/AAAAAAAAAKU/qqJ6J6l_CHU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/--ca-C4yVWBI/AAAAAAAAAAI/AAAAAAAAAKU/qqJ6J6l_CHU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.30",
+        "timestampMsec": "1378749659290",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Love Trinity Kernel! Thanks Morfic!",
+        "commentId": "gp:AOqpTOHtgF91Dk6NV3BAdfcB_ugn6wj9frmd4PRmCPPmYzS8kZ7XAYMcGsRnU0OIQ4DmbSm9ZLpy7BjI9ZRmYw",
+        "author": "Ben Warner",
+        "authorURL": "http://lh5.googleusercontent.com/-LYYeFLltMuk/AAAAAAAAAAI/AAAAAAAAA7g/feelcZ545Qw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-LYYeFLltMuk/AAAAAAAAAAI/AAAAAAAAA7g/feelcZ545Qw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1366415887795",
+        "starRating": "5",
+        "title": "Nice.",
+        "comment": "Great app and kernel.",
+        "commentId": "gp:AOqpTOGmGVKMOI1UCkmX7-j5No1q8f899RWeIehfZy3Eh_73NFNyFTv6fuZ3M6b2OmwSlD3KEXPRcb96IkCbOg",
+        "author": "Bill Schwabe",
+        "authorURL": "http://lh3.googleusercontent.com/-YZyj7LEbGMc/AAAAAAAAAAI/AAAAAAAACQA/yxuH0vUUk08/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-YZyj7LEbGMc/AAAAAAAAAAI/AAAAAAAACQA/yxuH0vUUk08/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1368591749527",
+        "starRating": "1",
+        "title": "Horrible",
+        "comment": "This app always has issues. Always force closes. The Kernels are unstable themselves. Just nothing but problems from this developer.",
+        "commentId": "gp:AOqpTOEKWXwMLZNKvS2t6-xjawZOEK2Rbk0QekNrpg_0nvvFNK6gfM-5_-fZSIbke0ktOA-yHoG6SWHKAjTdoA",
+        "author": "Evan Vang",
+        "authorURL": "http://lh4.googleusercontent.com/-0tdNx1QF2Mg/AAAAAAAAAAI/AAAAAAAAADk/0nHtdCnt460/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-0tdNx1QF2Mg/AAAAAAAAAAI/AAAAAAAAADk/0nHtdCnt460/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1360784507229",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "Works great after reflashing kernel and rom.  VZW Galaxy Nexus on current version of AOKP.",
+        "commentId": "gp:AOqpTOGbq450wXj7IuyAxEJLwwuEVSrUzVOWOdvrHOiMvktGOkQc1p6SELOKkpLqF1YHxwDYAgLf9V9bViUfSw",
+        "author": "Brandon Espinoza",
+        "authorURL": "http://lh4.googleusercontent.com/-vi7E81Ln6dg/AAAAAAAAAAI/AAAAAAAAARw/yYf57_0y8y0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-vi7E81Ln6dg/AAAAAAAAAAI/AAAAAAAAARw/yYf57_0y8y0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1369610145888",
+        "starRating": "2",
+        "title": "Unstable",
+        "comment": "The trinity kernel keeps freezing my Nexus 7, rebooting it, and hangups...  How do I fix this issue?",
+        "commentId": "gp:AOqpTOGsVRI_xMZ3PuPNUBelY8uOqX54ZR38LA8oTUi7X5FgC4rnrjYtmZ__ACB9IBmDFzXuvwxHOvbXbSSpqQ",
+        "author": "Francois Foote",
+        "authorURL": "http://lh4.googleusercontent.com/-CaTYPoePIDU/AAAAAAAAAAI/AAAAAAAAAQc/P9Vg2-Yn0fI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-CaTYPoePIDU/AAAAAAAAAAI/AAAAAAAAAQc/P9Vg2-Yn0fI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1365664931639",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "I can get and control kernels for my Nexus 4, Galaxy Nexus, Nexus S 4G and control the settings on my Note 2 if running Carbon. Morfic definitely wasn\\'t going for a money grab by making paid versions for different devices which is rare these days. Should be 6 stars. BOOM!!",
+        "commentId": "gp:AOqpTOHjtDXgR0Q_zWqbH0xr_xZXRZYcJbRt5DcP9lbk__zGgLqE9wCHp8W7P6bk3OuvLevOEduuM4IdKIq5xw",
+        "author": "John Calvacca",
+        "authorURL": "http://lh4.googleusercontent.com/-_YbJnFkPfiQ/AAAAAAAAAAI/AAAAAAAAAAA/fWt0LEdydew/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-_YbJnFkPfiQ/AAAAAAAAAAI/AAAAAAAAAAA/fWt0LEdydew/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1373627393177",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "Best kernel for the nexus 4. I absolutely love this kernel and I use it with the rasbeanjelly ROM!",
+        "commentId": "gp:AOqpTOEW0HPsT-2q6rDyGFQqGmDrvCujiiYoLhD4Ey8YXVFASPcAuIPIa9eJHDe16_kDSRLNQFs8RJ-Xe4RBsQ",
+        "author": "Giuseppe Astrologo",
+        "authorURL": "http://lh6.googleusercontent.com/-RThS_84GdVM/AAAAAAAAAAI/AAAAAAAAAA8/gvd01GnU8uU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-RThS_84GdVM/AAAAAAAAAAI/AAAAAAAAAA8/gvd01GnU8uU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1364592226774",
+        "starRating": "4",
+        "title": "Great app and great kernel",
+        "comment": "As it says above. Just one thing, i can\\'t enable fast charge, when i turn it on then close the app and reopen it it says that fast charge Is turned off. How to fix?",
+        "commentId": "gp:AOqpTOFXz9JxI2nLDttPgXDcDhPuPlR2_JTWLTCOMEHf9mCONGnkCJlqJ0MoaUTSp95cWlMR3c8XVPiCR7zM9w",
+        "author": "Ivan Myring",
+        "authorURL": "http://lh3.googleusercontent.com/-D8T-Wcss42Y/AAAAAAAAAAI/AAAAAAAAAA0/z1vC1LaahI0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-D8T-Wcss42Y/AAAAAAAAAAI/AAAAAAAAAA0/z1vC1LaahI0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1361411114629",
+        "starRating": "5",
+        "comment": "Great kernel!  App is very handy for making some small changes for me, until I get brave enough to try more!",
+        "commentId": "gp:AOqpTOF4PHDFb_Dfrv3j1vDp39-dA5oIAboJk4uwp7QcIPkp5aAZv6vJEQMXrlyCL2uSQ2a5CFZCtxjL1_ufPw",
+        "author": "Jameson Gagnon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1364781087292",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Great Support!  Hands down the best kernel for the Nexus 4!",
+        "commentId": "gp:AOqpTOHoMSg2juKoOGi8nZpH-rZD-4yL9fAVpudJHdSw2DCZvyYIgj_F2Q3Ke5r6ypkTFsFlxhYg_nDDQHf38w",
+        "author": "Brandon Phillips",
+        "authorURL": "http://lh5.googleusercontent.com/-hVPFxkAJLFc/AAAAAAAAAAI/AAAAAAAAAYA/dgwFphR8Ph0/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-hVPFxkAJLFc/AAAAAAAAAAI/AAAAAAAAAYA/dgwFphR8Ph0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1370990527666",
+        "starRating": "1",
+        "title": "Galaxy Nexus",
+        "comment": "Can\\'t recommend at this point. Dev can you fix issues on the galaxy nexus with your app. VZW GNEX AOKP send me a msg if you need logcats.",
+        "commentId": "gp:AOqpTOH0XHSda5v-NiH__WBPgjyksTWMLTezFWk-DiO_hSBQ8XtltQzaYB6Tt8lIM9oUVA_SPHGopxP5DkdHUQ",
+        "author": "Josh Rahn",
+        "authorURL": "http://lh6.googleusercontent.com/-lzHU-uJHTRY/AAAAAAAAAAI/AAAAAAAAN5A/k5TQHjm1nSw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-lzHU-uJHTRY/AAAAAAAAAAI/AAAAAAAAN5A/k5TQHjm1nSw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1366003524351",
+        "starRating": "5",
+        "title": "Nexus 4-Trinity kernel",
+        "comment": "Very useful app and this kernel is fantastic. Very stable and awesome.",
+        "commentId": "gp:AOqpTOFrLQneP3K_2uI4kVfZI37KqjSthuZwWSdbbSvnTKL1IaCSXfPpyehi3xi7uNOjWFU9t0a96VDeK2ttnw",
+        "author": "SCOTT REDDEN",
+        "authorURL": "http://lh5.googleusercontent.com/-WRUulxS2qDg/AAAAAAAAAAI/AAAAAAAAAHc/vlZ1KEf0csk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-WRUulxS2qDg/AAAAAAAAAAI/AAAAAAAAAHc/vlZ1KEf0csk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1364613981013",
+        "starRating": "5",
+        "title": "Fast but hot n4",
+        "comment": "It runs fast but my phone gets to extreme temps",
+        "commentId": "gp:AOqpTOE4kAK9xUUHE1bSc90jvn-OmR_J40TGPubKEWiNHXo-P2VHBSXjbV9rnS7G3lzEPH0SrR8IponYbdTfRQ",
+        "author": "Juan De La Rosa",
+        "authorURL": "http://lh6.googleusercontent.com/-b5EL-Z03IY4/AAAAAAAAAAI/AAAAAAAABh4/CVEHeQ7gbOs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-b5EL-Z03IY4/AAAAAAAAAAI/AAAAAAAABh4/CVEHeQ7gbOs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1366155069089",
+        "starRating": "5",
+        "title": "Cool features",
+        "comment": "Updates work and I am able to change settings easily.",
+        "commentId": "gp:AOqpTOE-mXufPxr16NhR4WWcKHjXu9LC2K4uHDFnc54rvxtAIrhNm33wla8IfrWqoovK_zegfSRVecaZU5TsEQ",
+        "author": "Patrick Tran",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1367868388765",
+        "starRating": "5",
+        "title": "PAID FOR IT but",
+        "comment": "Nothing for the note 2 tmoblie  You keep my money in hopes a note 2 tmoblie kernel comes out....",
+        "commentId": "gp:AOqpTOGmH16X_7rkjoIEYpfygWDIzZJzNN4WmETR5fQGGstKZhzKsJiAZTwnSJXBlF08TLqPwVtCWUtGfa2m8A",
+        "author": "john koch",
+        "authorURL": "http://lh5.googleusercontent.com/-GA52a1sco2I/AAAAAAAAAAI/AAAAAAAABaY/Jct-lRmSO1k/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-GA52a1sco2I/AAAAAAAAAAI/AAAAAAAABaY/Jct-lRmSO1k/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1367129869089",
+        "starRating": "4",
+        "title": "Slightly above avg",
+        "comment": "Yup slightly above  average.Franco superior",
+        "commentId": "gp:AOqpTOEBBkOZHZVwrNb9qJJvTe9WgXVTqcKVW5lf1Ek2NR5sE4-9_5Z2EPmkq3ZQgFucZP1DdLL7yRJvnUNtKQ",
+        "author": "Craig Curtice",
+        "authorURL": "http://lh5.googleusercontent.com/-lDMyf1IzXD8/AAAAAAAAAAI/AAAAAAAAACs/7eVBrFt-2nk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-lDMyf1IzXD8/AAAAAAAAAAI/AAAAAAAAACs/7eVBrFt-2nk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.22",
+        "timestampMsec": "1368160203320",
+        "starRating": "5",
+        "title": "Nexus 7",
+        "comment": "Glad to support the devs",
+        "commentId": "gp:AOqpTOHDfvgc3YtBALdrrLpVC4d58T-RyidtwwzWKoNRG9AH5QnBOYc1wG22ThSvi9tvYySTbFAYkRs-sM3rTw",
+        "author": "Alain Tabangin",
+        "authorURL": "http://lh3.googleusercontent.com/-MFCbpv5dIpo/AAAAAAAAAAI/AAAAAAAAAF0/TxIGCtjmafE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-MFCbpv5dIpo/AAAAAAAAAAI/AAAAAAAAAF0/TxIGCtjmafE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.21",
+        "timestampMsec": "1360625307498",
+        "starRating": "4",
+        "title": "Force closes",
+        "comment": "I had to reboot after recent update in order to grant su to the new update.",
+        "commentId": "gp:AOqpTOEnuoHOnfI5UjGdHtiVqgpGkLbVWpfnX59y0SVF82Qh-mi4tlxdTHBNOmGxMAOLNOlLTlXQfTaniSCGWg",
+        "author": "MelFire HD",
+        "authorURL": "http://lh3.googleusercontent.com/-F0fgwKlcUIU/AAAAAAAAAAI/AAAAAAAAAE4/OD0g5IroOP0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-F0fgwKlcUIU/AAAAAAAAAAI/AAAAAAAAAE4/OD0g5IroOP0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.20",
+        "timestampMsec": "1360651128249",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "As always keep up the great work Daniel!",
+        "commentId": "gp:AOqpTOG7KveHxCUG2NAdvM_dDuYahZq_HD4T8I--n3xIAQ7k6yxFux0BLK_5HHXTi016p1Wza48r59ZQdY_tyQ",
+        "author": "Fitzelgard Misledz",
+        "authorURL": "http://lh6.googleusercontent.com/-iq6wHmsgdds/AAAAAAAAAAI/AAAAAAAAKLQ/4kZD4-e8-hw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-iq6wHmsgdds/AAAAAAAAAAI/AAAAAAAAKLQ/4kZD4-e8-hw/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

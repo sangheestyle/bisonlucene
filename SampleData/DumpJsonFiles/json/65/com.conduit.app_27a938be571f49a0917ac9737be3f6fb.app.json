@@ -1,0 +1,43 @@
+{
+  "title": "After School Karate",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_27a938be571f49a0917ac9737be3f6fb.app",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "April 17, 2012",
+  "version": "1.2.2.191",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "InternetELF",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_27a938be571f49a0917ac9737be3f6fb.app",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This application is everything about After School Karate training center in Alexandria VA. We were the first to create an After School Karate program for kids 6-14 years old. We also have Summer Camp and Evening classes in Tae Kwon Do and Adult Tukong Moosul classes. Comeby and say Hi!",
+    "reviews": [
+      {
+        "timestampMsec": "1350718449249",
+        "starRating": "1",
+        "comment": "Trash",
+        "commentId": "lg:AOqpTOFyfuM5GpVabVVeBuwQfjjI9d3S484j8YmCZlXTRtd_lXPI2Uv8SjiZVsJZUyh5ZQj-H7f2RG2ZMEl_Xg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.conduit.app_27a938be571f49a0917ac9737be3f6fb.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

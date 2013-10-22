@@ -1,0 +1,53 @@
+{
+  "title": "Spring Fling",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.deko.springfling",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 21, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Deko Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.deko.springfling",
+  "extendedInfo": {
+    "installSize": "31M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Spring Fling - Scotland's Premier Arts & Crafts Open Studios Event. Search for Artists and their Studio locations, view information and contact details and read the latest news, tweets and facebook posts.",
+    "reviews": [
+      {
+        "timestampMsec": "1369307196632",
+        "starRating": "5",
+        "title": "Great app!",
+        "comment": "Great to be able to be keep updated with this great event! And all the artists information are very useful.",
+        "commentId": "lg:AOqpTOEkoLcSC2F4JhCSaFyGO68Gpz2CacBw-kexTMDxIuPAMIYXd_d-U61bFJ2goQ2tVJp-aa8f9RdJ765UolE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369480941460",
+        "starRating": "5",
+        "title": "Really useful, slick design",
+        "comment": "I am really enjoying using this app on the road, the Near me function works great and the user interface is clear and beautifully designed and well thought out, 5 stars from me",
+        "commentId": "gp:AOqpTOFA7hFv6clItf0tHdsQwQvVSLiS7jkrm4GBHn3SVy7B243IWzz0iXkioiZkh0LJCs79xmXgE_16xiWTeIo",
+        "author": "Steve Wells",
+        "authorURL": "http://lh6.googleusercontent.com/-rf6XamP01cs/AAAAAAAAAAI/AAAAAAAAAsI/3fjberywmb0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-rf6XamP01cs/AAAAAAAAAAI/AAAAAAAAAsI/3fjberywmb0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.deko.springfling.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

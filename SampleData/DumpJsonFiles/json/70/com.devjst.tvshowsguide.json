@@ -1,0 +1,70 @@
+{
+  "title": "Episode Guide",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.devjst.tvshowsguide",
+  "category": "Entertainment",
+  "price": "$1.03",
+  "datePublished": "June 28, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "15",
+  "rating": "3.4",
+  "contentRating": "Everyone",
+  "creator": "devJst",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.devjst.tvshowsguide",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Never forget when a new episode of your favorite TV show airs! Quickly add any show you like and profit!- No need to sign up for anything.- Has search titles for over 6397 shows!- Add the show episodes which have yet to air to your calendar, and sync with your computer!!- Has a watched feature!- Smart caching. Everything is available offline. (after youâve downloaded it)- Economical download options for users with a low-cost internet plan. (see settings in the app)- Blazing fast parsing of shows info.- Show summary and info from IMDB.com- Straight to the point interface for looking up info quick.- ICS 4.0+ Ready!All non-visual data is retrieved from epguides.com so every show you find there will be available in the app.All visual data is retrieved from thetvdb.comNOTES:*All air-times are based on the USA. Shows are often available the next day in Europe.*Previously known as TV Shows Guide.Also Iâm always open to suggestions, please donât hesitate to contact me.If you experience any problems please contact me before you leave a bad review and we can work things out :)!",
+    "reviews": [
+      {
+        "documentVersion": "1.3.1",
+        "timestampMsec": "1353541065363",
+        "starRating": "1",
+        "title": "Don\\'t pay for this crap",
+        "comment": "Regret buying this garbage dev is not very helpful worst tv series guide 8======D",
+        "commentId": "lg:AOqpTOGFQLTciYqW7f1Z2uJIewZQZ40sLzWHbJPIO9VDZfPN1pf5F8IoCr7X25dX6LAubz5RxnjGrwCIn1cscQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.0",
+        "timestampMsec": "1340871356261",
+        "starRating": "1",
+        "title": "Avoid",
+        "comment": "Avoid using this program. Does not save lists. Have tried different settings but still won\\'t save show list.",
+        "commentId": "lg:AOqpTOHS9DWoLD6X9s2SrseC54vcce7uGUZU23aPEd59ezUds7n1049FKQXpGCjzRx7lbwYGSMbRqq3IVuRxkA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1319173391371",
+        "starRating": "5",
+        "title": "Very Cool!",
+        "comment": "Love the ability to add the episode airdate/airtime to my Google calendar! Great app with excellent features!",
+        "commentId": "lg:AOqpTOEdYVmNfQcCxhc8rL9HtWVA4WUjVvQLUBhhl01N_rp_k6nkOHMShtAfyuDJholjVZM7y1WTxY8wsjfBfA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.4",
+        "timestampMsec": "1313210015212",
+        "starRating": "2",
+        "comment": "Doesn\\'t show any info about each episode",
+        "commentId": "lg:AOqpTOGxFt4HTFPkUoCFeO4Oa8M-A1sz4pC2MXFOPrebVva_KR1B6TL-TQTG1QXETTwE2n5UUJ4En83kSUNPbw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

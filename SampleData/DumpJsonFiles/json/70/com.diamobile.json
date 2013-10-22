@@ -1,0 +1,38 @@
+{
+  "title": "Doha International Airport",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.diamobile",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 24, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Qatar Airways IT",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.diamobile",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "DIA is the official app of Doha International Airport and offers comprehensive information on flights, shopping and dining as well as other facilities.-\tFlight information (Arrivals, Departures)-\tFlight status-\tAirline information -\tInformation on terminals, shopping and promotions, dining, lounges and other facilities at the airport-\tNavigation-\tContact detailsWe will be continually upgrading the application so please check back often for new and improved features.Please send your feedback to DIAmobile@qatarairways.com.qa",
+    "reviews": [
+      {
+        "timestampMsec": "1377509025300",
+        "starRating": "5",
+        "comment": "So happy that dia have an app!",
+        "commentId": "gp:AOqpTOHXZ0DZCIsN_pQSlQDFfYrBILIwYs8dh37qFopZ-yvIA6beVDz0cQ8xJbuu-9umsJvDLoclszzg0N3sfKE",
+        "author": "liz walsh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

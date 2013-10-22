@@ -1,0 +1,42 @@
+{
+  "title": "Eastern University Crib Sheet",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cc.cribsheet.eastern",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "October 11, 2012",
+  "version": "2.3.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Eastern University Alumni Office",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cc.cribsheet.eastern",
+  "extendedInfo": {
+    "installSize": "8.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Created by Eastern University for our alumni, Crib Sheet is your way to stay current with campus news, sports highlights, alumni events and benefits, and much more. The app is also your real world crib sheet on topics like money, housing, etiquette, health insurance, and others.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.cc.cribsheet.test.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

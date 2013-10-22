@@ -1,0 +1,39 @@
+{
+  "title": "Where's My Car Advanced BETA",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brico84.car",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "April 6, 2012",
+  "version": "0.9.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "BriCo84",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brico84.car",
+  "extendedInfo": {
+    "installSize": "288k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "****COMING SOON*****Thanks for the suggestions guys, as requested widget support is on the way.- Widget Support- Improved iconsWMCA Beta is the first complete car finder application.  It allows you to find your car not only by GPS location, but by floor you parked on, as well as any helpful notes to locate your car, possibly in a situation where GPS in not available.******* BETA VERSION - ALL COMMENTS AND SUGGESTIONS WELCOMED.  EMAIL TO MobileAttorneyApp@gmail.com **********Please note this is a beta version and is being offered free.  A future version may be offered which contains more features that may not be free.  I will however always continue to offer a limited version for free in the Market.",
+    "reviews": [
+      {
+        "documentVersion": "0.8.04",
+        "timestampMsec": "1332637713288",
+        "starRating": "5",
+        "comment": "Awesome app!",
+        "commentId": "lg:AOqpTOEjnBq3KoCxekFKb5ow4VISudcOwU61ggcwwJGPCV4wQacKs8yd6x1HryoOShNdATDgq4AqZAdYr6F4lw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    ]
+  }
+}

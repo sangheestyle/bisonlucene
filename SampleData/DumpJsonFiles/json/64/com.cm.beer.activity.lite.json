@@ -1,0 +1,76 @@
+{
+  "title": "Beer Cellar Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cm.beer.activity.lite",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "October 22, 2012",
+  "version": "Eisbock",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "83",
+  "rating": "3.301205",
+  "contentRating": "High Maturity",
+  "creator": "Coconut Martini",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cm.beer.activity.lite",
+  "extendedInfo": {
+    "installSize": "871k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Love the beer that you are drinking, then why not use Beer Cellar to share that experience with your friends on Facebook. Share your beer reviews with Beer Cellar Community, which is a growing community of beer enthusiasts that want to share their beer drinking experiences with others.Here are some of the features of Beer Cellar.1. Translate beer reviews to your local language.2. Follow other beer reviewers.3. Receive automatic notifications when new beer reviews are added to the community.4. Share beer reviews with Beer Cellar Community.5. Search the community for top-rated beer reviews.Beer Cellar requires the following permissions, in order to:1. Full Internet Access To interact with Beer Cellar Community, which is a growing community of beer enthusiasts that want to share their beer drinking experiences with others.And to search for Breweries and Bars around your current location.2. Your LocationTo Geotag the location where you review a beer.3. Hardware ControlTo take pictures, when reviewing beers4. Storage: Save pictures to the SD CardIt can also backup your Beer Reviews database, to the SD card.",
+    "reviews": [
+      {
+        "timestampMsec": "1334710693322",
+        "starRating": "5",
+        "title": "Greatness",
+        "comment": "Must have app for any beer lover",
+        "commentId": "lg:AOqpTOEukYJJd0Bu2Ek0RZ5xrZRP-ogRxgzD9dbFkzhiTiAOKl2fYw1gpaZdbqdM7ukD8KjNtoE5wFP51NIlDFQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1307333653171",
+        "starRating": "2",
+        "title": "Search function doesn\\'t seem to be working right",
+        "comment": "I like the connectivity; dropdown menus for beer notes; star ratings; beer list backup; connection for info about beer styles. Cons:search is poor or not working for me; no barcode reader; no wish list; supposedly allows photos but never worked for me. Recently updated but w/o log, so don\\'t know what changed, and couldn\\'t find contact info on dev\\'s site. Other beers apps aren\\'t great and have flaws but are better than this: Beer (Metosphere), Beercloud, Pintley, maybe Brewster.Wish one had all good features",
+        "commentId": "lg:AOqpTOHPCaL53cvW0S9oIZHQrCwpsftUWMPMSVuWnRQvxCxlQLxiYJ5b7tZ4ifv6-VQ0WknbRGns7mTop4G4eZI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1297471381151",
+        "starRating": "4",
+        "comment": "Fun app to use at the bar... should catch on fast.",
+        "commentId": "lg:AOqpTOHo-Gabm1Ibahx387ecUadU-8YqbUktaALgnHgPWgDylVNeX7jZrvfc5U3yTixGgmhpqD1K4Uyl3idFkvc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1289793482074",
+        "starRating": "4",
+        "comment": "I wish the search functions were better, but I love the connectivity to such a wide beer loving community. I may very well get the paid app...",
+        "commentId": "lg:AOqpTOHhTTsQJwuskv1wjBklyeCVKUYCkrna3kNibg12ebF2sf94abe0Qlgj3OdShp158aNgn7-X04FKgRiNh9o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1289330990744",
+        "starRating": "4"
+      },
+      {
+        "commentId": "lg:AOqpTOHQ1JYHn8SRhVMovXeGa7pbGQPBRXo5aUivUPYrAlvR1UWP9iTnsdcM9l9KL6OaxXQs5tKWCPTV02E0vVg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Mind Training",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buddhistapps.lojong",
+  "category": "Books & Reference",
+  "price": "$0.99",
+  "datePublished": "January 24, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Buddhist Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buddhistapps.lojong",
+  "extendedInfo": {
+    "installSize": "5.3M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Lojong (Tib,Wylie: blo sbyong) is a mind training practice in the Tibetan Buddhist tradition based on a set of aphorisms formulated in Tibet in the 12th century by Geshe Chekhawa. The practice involves refining and purifying one's motivations and attitudes. This app also contains several other texts related to Lojong, such as:Ambrosia of the MindEight Verses of the mindThe 37 Practices of BodhisattvasNectar of the HeartParting from the Four AttachmentsThe Bodhisattvas Garland of JewelsTransforming Sickness and other circumstancesAspiration to Generate BodhisattvaA Song of CompassionThe Principal Aspects of the PathBuddhistApps is a small Buddhist company developing apps specially for the Buddhist Community. We create free apps and paid apps to cover the cost of development, specially for some apps that require many hours of work, design and programming. Our geniune interest is to make the wisdom of Buddha Dharma readily available to you.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

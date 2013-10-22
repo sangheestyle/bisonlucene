@@ -1,0 +1,67 @@
+{
+  "title": "Discover: Myrtle Beach Edition",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drinkmyrtle",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "June 14, 2013",
+  "version": "3.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "MM Tech Designs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drinkmyrtle",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Welcome to Discover: Myrtle Beach Edition. This edition of the MM Tech Designs \"Discover Series\" is for the Myrtle Beach/Grandstrand area (SC). Here we put together a list of the BEST Restaurants, Shopping, Attractions and other things to do in the area! We also include Weekly Events & Specials! Get directions, menu's, live music and any other info from the Grandstrand! We always want to hear your suggestions! And are always looking to add more! Contact us with your Events, Photos, Live Music or any other type of information and we will check it out!Much more on the way! Follow us on twitter for even more deals and suggestions! @MMTechDesigns",
+    "reviews": [
+      {
+        "timestampMsec": "1330371060222",
+        "starRating": "5",
+        "title": "Cool app",
+        "comment": "I like that I can read the menus. Hope more bars are added soon.",
+        "commentId": "lg:AOqpTOEev5EmtIbn_Jv-H5tNFghhUzt7bSPqf05QIiImCVzjnPCzNmazY-0tFmsS8ob1yClsI9RVK7EtUEJI7A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.1",
+        "timestampMsec": "1318307328501",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "This app may be new, but I see the potential! I will def be keeping my eye on this one! I got a $15 gift card just for showing up with the app at Zulu Lounge in Myrtle Beach! I hope to see more of this out of these guys!",
+        "commentId": "lg:AOqpTOE7_3zFS98ofWoytnWZY8lt8K9smiTj1pc0tzhTmqTY5MqMzXfLItv6_qdcjDrhP5_zqkk4U1eLUEl70A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317953597379",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "I used this app today it was very helpfull in picking wich bar we where going too..and got us a great deal also a new happy hour place thanks",
+        "commentId": "lg:AOqpTOF9Jj6eUr7P6HHWFZApHWriW0vd15BqDTmhPH0wrS4wsUU7PUB9AM8FfwFGxlhruofKqWdR0a6xjoDH1g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "com.drinkmyrtle.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

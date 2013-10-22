@@ -1,0 +1,33 @@
+{
+  "title": "Discover Mallorca",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wDiscoverMallorcacomGuide",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "October 8, 2012",
+  "version": "0.84.13496.98889",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Andrei Mihai Vraci",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wDiscoverMallorcacomGuide",
+  "extendedInfo": {
+    "installSize": "208k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mallorca travel guide by DiscoverMallorca.com with restaurants, hotels, things to see, things to do, museums, activities, beaches and many more useful travel information.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wDiscoverMallorcacomGuide.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

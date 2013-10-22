@@ -1,0 +1,54 @@
+{
+  "title": "311 MÓVIL",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.citysourced.panamacitypanama",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 24, 2013",
+  "version": "1.5.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "12",
+  "rating": "4.8333335",
+  "contentRating": "Low Maturity",
+  "creator": "CitySourced",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.citysourced.panamacitypanama",
+  "extendedInfo": {
+    "installSize": "9.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "311 MÃVIL is a government application for citizens to report any complaints, reports, ideas or community input, reliably and easily through the smartphone, so that the institutions of the Central Government of PanamÃ¡ can respond more quickly, locate reports affecting neighborhoods accurately more frequently and inform the citizenry of the solutions adopted. Through 311 MÃVIL you will also receive beneficial information from the National Government to the general population.",
+    "reviews": [
+      {
+        "documentVersion": "1.5.7",
+        "timestampMsec": "1371047462909",
+        "starRating": "3",
+        "title": "Not so good",
+        "comment": "This application feels like a betta... Still too much to fix.",
+        "commentId": "gp:AOqpTOFpAzjgi48oEsoGDFwbQtxqIbKXn9jP4ctALBLQmLFlvwkc4R125HJZ4We5FOzpV_8UGS_vQB_ypDlxhpU",
+        "author": "Alexis Garcia",
+        "authorURL": "http://lh5.googleusercontent.com/-cDFa5PdO0ys/AAAAAAAAAAI/AAAAAAAAJwg/V26QDC28VGQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-cDFa5PdO0ys/AAAAAAAAAAI/AAAAAAAAJwg/V26QDC28VGQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_DATA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CALL_PHONE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.citysourced.panamacitypanama.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

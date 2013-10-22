@@ -1,0 +1,40 @@
+{
+  "title": "Legal Plex",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dharani.android.legalplex",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 11, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Legal Plex LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dharani.android.legalplex",
+  "extendedInfo": {
+    "installSize": "16M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Legal Plex for Android is here and its free. Legal Plex is a full fledged law firm management system.Here is a list of features+ Search for people by name from our various data sets+ NJ Traffic, NJ Criminal, NJ Foreclosures, NJ Civil+ PA Traffic, PA Criminal+ Create multiple accounts for your employees in your firm+ Manage security with different access levels+ Add and share memos, files, events and more+ Hand over files from one device to another with innovative QR Code scanner.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

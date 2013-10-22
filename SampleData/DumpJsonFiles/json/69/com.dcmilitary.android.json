@@ -1,0 +1,38 @@
+{
+  "title": "DCMilitary.Com",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dcmilitary.android",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "June 6, 2013",
+  "version": "1.2.4.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Verve Wireless, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dcmilitary.android",
+  "extendedInfo": {
+    "installSize": "5.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Comprint Military Publications is a civilian enterprise publisher serving military installations across the United States, with particular emphasis on the Washington, D.C. metropolitan region. Comprint holds government contracts to publish eight weekly military newspapers and 10 annual welcome guides that are distributed to all visitors and transfers to local military installations. Comprint also publishes special sections each year that focus on military education benefits, featuring colleges that offer special programs (Military Higher Education & Lifelong Learning) and private schools for pre-K through 12th grade; Relocation Guides that feature various communities military personnel and their families may want to live in when relocating to the D.C. area; and quarterly Forecast â Leisure Activities Guides that include information about Morale Welfare and Recreation programs. These are distributed from Roanoke, VA to New York.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "ShoushuoTTS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.shoushuo.android.tts",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 5, 2013",
+  "version": "3.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "114",
+  "rating": "3.631579",
+  "contentRating": "Low Maturity",
+  "creator": "Zhang Bo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.shoushuo.android.tts",
+  "extendedInfo": {
+    "installSize": "20M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "æèªªTTSï¼æ¯Androidå¹³èºä¸çä¸­æèªé³å¼æï¼æä¾äºä¸­æææ¬å°èªé³çè½æãå¯ä»¥é²è¡ä¸­æææ¬çæè®ï¼åæ¬ä¸­æç°¡ç¹é«ãé¿æä¼¯æ¸å­ãè±æå­æ¯åä¸äºç¬¦èçæ··è®ãä¸¦ä¸èçäºä¸­æçç ´é³å­åé³èª¿è½æç­åé¡ãéç¼äººå¡å¯ä»¥ä½¿ç¨æèªªTTSä¾éç¼éè¦ä¸­æèªé³çæç¨ç¨å¼ãå¯ä»¥é¸æå¤ç¨®èªé³ï¼é¨åèªé³éè¦ååï¼å¨åååææè®å­æ¸çéå¶ã",
+    "reviews": [
+      {
+        "timestampMsec": "1360507016788",
+        "starRating": "2",
+        "title": "Certified as \\\"High Risk\\\" by \\\"trust go security\\\"",
+        "comment": "Moreover, the speaking was very slow!",
+        "commentId": "gp:AOqpTOFTHm8uShsqKANCSKIJJNGCDW-m3hUeYKrqg2ThEKC_GQwuYz3H2gtg7yOwV6mc4B9Qgdmi03ydhIlzqec",
+        "author": "Ka-Hoi, Tobby Ng",
+        "authorURL": "http://lh6.googleusercontent.com/-3yMyjUuwjPo/AAAAAAAAAAI/AAAAAAAABI0/YnBV-FdTEYI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-3yMyjUuwjPo/AAAAAAAAAAI/AAAAAAAABI0/YnBV-FdTEYI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.7",
+        "timestampMsec": "1296747043837",
+        "starRating": "3",
+        "comment": "\\345\\255\\227\\344\\270\\216\\345\\255\\227\\344\\271\\213\\351\\227\\264\\351\\227\\264\\351\\232\\224\\346\\234\\211\\347\\202\\271\\351\\225\\277\\357\\274\\214\\346\\204\\237\\350\\247\\211\\344\\270\\215\\350\\277\\236\\350\\264\\257",
+        "commentId": "lg:AOqpTOGBnVHd74vHJAnALP8V8KMaYzbHXit1qjHK0iuGvcC27D2RxE_iTX7z-CHdrpK-AJVxBBL4MRRu8ABOVGY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345986084725",
+        "starRating": "1",
+        "title": "permissions",
+        "comment": "Why does the app need access to sensitive log data?  Perhaps best avoided.",
+        "commentId": "lg:AOqpTOFBhZaQJCeX2HYcakxBkMRVB8QZtKC4qKI1ncQveEi86WzCytQ9wltvUwSA7bfc-5dH0LINZzf7H0Rw0Qc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_LOGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.GET_TASKS"
+    ]
+  }
+}

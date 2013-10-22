@@ -1,0 +1,90 @@
+{
+  "title": "Geometrics",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fischerklasgmail.geometrics",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "8",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "46",
+  "rating": "2.9782608",
+  "contentRating": "Everyone",
+  "creator": "Kyle Fischer",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fischerklasgmail.geometrics",
+  "extendedInfo": {
+    "installSize": "848k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Create stunning geometric patterns with 3 simple controls:    * Swiping left and right  * Swiping up and down  * Pressing and holding.View samples on flickr http://www.flickr.com/photos/geometricsapp/Mathematical Overview:A \"Polar Graph\" is a way of representing mathematical equations.  The radius of a circle is represented with the character ârâ, the angle that has been traversed around the circle is represented with the character âÎ¸â (Theta) where 360 degrees completes a circle.  So a circle with a radius of 1 has the equation:      r(Î¸) = 1.A \"Polar Rose\" curve is a polar graph with the equation:       r(Î¸) = sin(kÎ¸)As you increase the k, each increment adds to the number of âpetalsâ that the rose has.  In Geometrics, swiping to the right will increase the number of petals by increasing k by 1 for each swipe. (The petals actually increase by 2 on even increments and decrease by 1 on odd increments)  Swiping back to the left will decrease the number of petals until you get to 1, which is the starting point circle.  If you keep swiping to the left, the 2 becomes 1/2, then 1/3, then Â¼ and so on(I have skipped values for k of 0 and less than 0 because a 0 k value produces a single point and the negative k values have a positive k value counterpart that produces the same picture.  The roses created with fractional values are just as beautiful, have the same petal increase feature, but are not always symmetrical.Maurer Roses:Introduced by Peter M. Maurer in his article titled âA Rose is a Roseâhttp://en.wikipedia.org/wiki/Maurer_roseA âMaurer Roseâ is a polar rose where we skip around the figure instead of drawing it sequentially.  Instead of the angle being (0,1,2,3,4,5...), we use (0,45,90,135,180,...).  Swiping up increases the number of degrees we skip by 1, and swiping down decreases the skip by 1.  Pressing and holding will cycle between three modes:    * A Maurer rose that connects points to the previous point in the series.    * A Maurer Rose pattern defined by k and dTHETA that draws lines connecting to a different Maurer Rose equation defined by k2 and dTHETA2.    * r(Î¸) =  tan(kÎ¸).  Which is the same as r(Î¸) =  sin(kÎ¸) / cos(kÎ¸).  So as cos(kÎ¸) approaches 0, the radius approaches infinity.  This produces a very interesting pattern with no maximum radius since it goes to infinity on occasion.As we draw the patterns, we attempt to fade through each color with a unique color fading algorithm I created.If you press the menu button, you will have the following options:\t* Save the last image to the SD card.\t* Set Properties Manually\t\t- Radius:\t\t- dRadius (change in Radius):\t\t- k:  \t\t- dTHETA (change in Î¸):(The second k and dTHETA will automatically be reset to match the first k and dTHETA when you press and hold and cycle to the 2nd pattern type.  This is because there are a very large number of \"uninteresting\" patterns with this patttern type and I wanted to start off with a pattern that has symmetry.)\t* Advanced Properties\t\t- Image width and Height(1000 x 1000 pixels is currently the maximum you can adjust your image size.  If you have a tablet or other device that has a pixel size greater than 1000, like 1024x768 you will not be able to change the resolution without the maximum size being set to 1000 pixels.)",
+    "reviews": [
+      {
+        "timestampMsec": "1360822234689",
+        "starRating": "5",
+        "title": "I like it.",
+        "comment": "Thanks for sharing shug.",
+        "commentId": "gp:AOqpTOGiJic4HWq2hnOdis4nl5Ri9ogcH9hAk98hzIjEgnlw4gw-f19iGEFK-jvXzEYI0r-tE-T5_thvzyBKJiU",
+        "author": "southerncapricorn southercapricorn",
+        "authorURL": "http://lh3.googleusercontent.com/-g5bnRnCRC-8/AAAAAAAAAAI/AAAAAAAAAD8/hXUuinbmFMw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-g5bnRnCRC-8/AAAAAAAAAAI/AAAAAAAAAD8/hXUuinbmFMw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1337399522920",
+        "starRating": "1",
+        "title": "A kyle",
+        "comment": "Pretty douchy to comment on ur own program. besides, ur efforts were for nothing..it sucks",
+        "commentId": "lg:AOqpTOGz0Ot8zctqzwsgCe6-QlS_CDJxVCsWxALF-_40nL9Mg-Upbf98-WEQamWILIRajRE_c8B-sMUFMz-fuHo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331470471468",
+        "starRating": "2",
+        "title": "What?",
+        "comment": "What is happening here? Auto Spirograph? Doesn\\'t fit properly on the screen.",
+        "commentId": "lg:AOqpTOFKf1kxsdxnTWjPfFQGJJCwfw4mjPs2VzyHfORpnB0D1x08Lj8Q6tCbX_BmjKsm2GI19fmdiY9ThguS3IQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1327526928152",
+        "starRating": "5",
+        "title": "Trippy",
+        "comment": "Probably wouldn\\'t be bad as a live wallpaper either.",
+        "commentId": "lg:AOqpTOEcxy3ZOZutsB0LZkpOm1kRLhuBZxn_7mJyN0iGLN2Qlhbr2DZ-iB6HGpc0PhaQvlGyKhaaFIhQEme6qa0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350266232707",
+        "starRating": "5",
+        "title": "Really awesome program",
+        "comment": "Saving images to sdcard is broken on jelly bean just gives me an error saying you need a permission :-(",
+        "commentId": "lg:AOqpTOFQyXKUuNApkJbtwx6VjjyH_chG4QJvQ18rmKSah75QQ5vLGBuHMGDMo2NLnLdQwVvTH-l8Akm4qGqdnws",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348251167985",
+        "starRating": "1",
+        "title": "Ads are anoying",
+        "comment": "Ads take a lot of screen on a tablet make it a baner",
+        "commentId": "lg:AOqpTOE5PMZl3hPf7GB1_YuyQhlZ4Zznkf2gLgqlviasO24MHgEqsDutgKC9dWix9K0y-dUkz2wZOD_0kk1Can4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344715654965",
+        "starRating": "1",
+        "title": "Sucks",
+        "comment": "You cant use it. It makes the shapes by its self.",
+        "commentId": "lg:AOqpTOFSjBLQklTDaBsolneT0O59aOkx_xZMz8fIV8sSoLXN9dsIselPOweGexlDc9KrMZSznmyKu8rQui2hmVU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

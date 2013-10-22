@@ -1,0 +1,35 @@
+{
+  "title": "ASAE Annual Meeting & Expo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.asaeam11",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 22, 2011",
+  "version": "1.9.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "High Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.asaeam11",
+  "extendedInfo": {
+    "installSize": "892k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "ASAE is proud to offer our members this valuable tool.  Using this tool, you can navigate the show floor like a pro with the interactive map, search the exhibitor directory, or create your own personalized itinerary by choosing sessions you want to attend.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

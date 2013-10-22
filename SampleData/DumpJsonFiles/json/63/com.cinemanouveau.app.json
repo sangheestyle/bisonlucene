@@ -1,0 +1,45 @@
+{
+  "title": "Cinema Nouveau",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cinemanouveau.app",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 16, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "3.8",
+  "contentRating": "Low Maturity",
+  "creator": "Ster-Kinekor Theatres",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cinemanouveau.app",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Experience the poster-rich fan-centric Cinema Nouveau mobile app. This feature rich movie app with interactive seating plans, toggling between Cinema Nouveau and Ster-Kinekor Commercial cinemas has been created for the movie fans, by a team of movie fans who just love movies anytime, anywhere!Swipe through movie lists of whatâs currently on circuit and coming soon:- Find out what's \"Now Showing\" and \"Coming Soon\" - use our search function, browse movies by poster and filter movies by- Genre- Cinema- Date- View high-quality trailers that plays seamlessly on the app.- Read detailed movie information that includes synopses, parental ratings, run times, director, producer and casts lists and enriched Movie News from Africa's number 1 Entertainment Content provider.- View accurate performance timesPurchase Tickets:- Buy tickets seamlessly without leaving the app.- Get the seats you want by interacting with the cinema seating plan and choose the exact location of where you would like to sit in the cinema (for cinemas that allow reserved seating).- Sign into your Cinema Nouveau profile account to update your profile information so that relevant movie news gets delivered to you",
+    "reviews": [
+      {
+        "timestampMsec": "1349243804218",
+        "starRating": "5",
+        "title": "S2",
+        "comment": "Fantastic, I love both the SK apps",
+        "commentId": "lg:AOqpTOE4RV5ruSVt0chIOhbrHFYkZ2O4tlnrBGHUn4JbkRy05v2Wb-O9iE6SnwWFeSTatEOQoQ-07Q5UEFVrmg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_CALENDAR",
+      "com.cinemanouveau.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

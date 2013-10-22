@@ -1,0 +1,38 @@
+{
+  "title": "Investor Relations and Media",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.creditsuisse.android.irmedia",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "March 22, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Credit Suisse AG",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.creditsuisse.android.irmedia",
+  "extendedInfo": {
+    "installSize": "8.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The App allows investors, analysts, the media and other interested parties to remain up to date with relevant online and offline fiancial and corporate information on Credit Suisse AG.The tablet optimized App contains the following features:â Home Screen showing latest updatesâ News tab with full list of recent financial news and corporate newsâ Document library with PDFs of reports and presentations (can be downloaded for offline access)â Multimedia library with earnings webcasts and other video material (live, online and offline)â Real time (15 minuts delayed) share price information and charting toolâ Events calendar (future and past events)â Team contact informationContact investor.relations@credit-suisse.com if you have questions or feedback.To discover more, please download the free application from Google Play.By downloading this App, you hereby expressly agree that any data that you make available to Google or any other App provider or distributor (together referred to as App Provider) may be collected, transferred, processed and made accessible as per the terms and conditions of the App Provider. As a consequence, third parties wherever located, for example the App Provider, may infer the existence of a current, past or potential business relationship between you and Credit Suisse Group AG and/or its direct or indirect subsidiaries (\"Credit Suisse\") or existing or potential investments by you in products issued or distributed by Credit Suisse. The terms and conditions and privacy policy, which you accept for the App Provider, must be distinguished from the legal terms and conditions of Credit Suisse. The App Providers are companies that are independent from Credit Suisse.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

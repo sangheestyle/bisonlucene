@@ -1,0 +1,40 @@
+{
+  "title": "Duckie's Pressure Washing",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_aa935ae22c55491d97754be5575839cf.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 20, 2013",
+  "version": "1.9.12.99",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Duckie's Pressure Washing",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_aa935ae22c55491d97754be5575839cf.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Explore our services, find great discounts and book an appointment right from your phone! Convenient and quick!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_aa935ae22c55491d97754be5575839cf.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "US Census Map",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dkroz.census",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "February 21, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Low Maturity",
+  "creator": "Dmitry Kroz",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dkroz.census",
+  "extendedInfo": {
+    "installSize": "90k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This application was created during MoDevDC Hackathon event (12/03/2011) and uses the USA TODAY Census API, which allows to show on map data concerning ethnicity, housing, population and race (available from both the 2000 and 2010 census).Because of the limited timeframe for development the only state level information available at this moment. If there is an interest in this application - I will add more detailed information (like city / town level) and add more features. Privacy notice: this application does not collect any kind of information and permission for getting coarse location is used for initial data loading only.",
+    "reviews": [
+      {
+        "timestampMsec": "1332627213511",
+        "starRating": "4",
+        "title": "More Features",
+        "comment": "More Features",
+        "commentId": "lg:AOqpTOG-_hwFdOhDi-xWtgyWu-hUCpRfKEmyCUYnHPmDetMzlPAGfe-86THhJ6LQbognko44zWNTDbk4AUebCw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1323562661995",
+        "starRating": "4",
+        "comment": "Need more options for data",
+        "commentId": "lg:AOqpTOFrlLyMB4ZlBWpENq65omIAeJ0IJfPlraQUiEhgXbH4kCUaIiwPM-o-WwdWC2uEnbiE2aD19hihCrSnbA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

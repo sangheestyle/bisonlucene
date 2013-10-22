@@ -1,0 +1,31 @@
+{
+  "title": "PHP Web service Creator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doctor.webservice",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "December 10, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "4.142857",
+  "contentRating": "Everyone",
+  "creator": "FreeTheDoctor",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doctor.webservice",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This application will teach you to create and use webservices php, in this tutorial we will use XAMPP because it is a free webserver.You can create a project example for eclipse!!!!.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

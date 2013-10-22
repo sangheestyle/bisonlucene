@@ -1,0 +1,45 @@
+{
+  "title": "Guess Number",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fariant.guess",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "March 29, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "Denis Puzanovskiy",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fariant.guess",
+  "extendedInfo": {
+    "installSize": "105k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "A simple game of \"Guess a number \". You have 3 attempts to guess a number from 0 to 9. The game has statistics that show how often and how you attempt to guess the number.",
+    "reviews": [
+      {
+        "timestampMsec": "1301436448519",
+        "starRating": "1",
+        "comment": "Doesnt work. Do not download",
+        "commentId": "lg:AOqpTOEti0DFRdkSPs8-85_-C1scCSPwHeMz6aMIyt4LFznKzlKE1DYZBlyhrwtyHYp_wMwYgKtoE4epOgvpJA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1301436944588",
+        "starRating": "1",
+        "comment": "This is so gay...it fore closes after fore closes after fore closes..so so gay",
+        "commentId": "lg:AOqpTOGLIIFctS37bhlzEdWwyprB901CtM97_14xzgiatboE7sTbQV9yfzZijwr4apujzEvBoCsLR8GfsFiXAA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

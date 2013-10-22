@@ -1,0 +1,35 @@
+{
+  "title": "JAB Workbench App Runner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.databasics.android",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "April 24, 2012",
+  "version": "6.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Everyone",
+  "creator": "Data-Basics",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.databasics.android",
+  "extendedInfo": {
+    "installSize": "56k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Provides a framework from which to run JavaScript web applications created in the JAB Workbench IDE. Example applications are preloaded in the framework to demonstrate the capabilities of JAB Workbench. To learn more about JAB Workbench, visit www.jabworkbench.com.",
+    "reviews": [
+      {
+        "timestampMsec": "1334762768304",
+        "starRating": "1",
+        "comment": "Crash",
+        "commentId": "lg:AOqpTOGMCrODJLRczDmBNK5L1HzwBFPRudJ9o8rENiBOsnp2g6GG-pShcMjgYvjRzE_zXpmh4JJFIcsio3NBSw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

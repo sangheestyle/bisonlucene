@@ -1,0 +1,54 @@
+{
+  "title": "Driver's Edge",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_4101288550d39df77adf5eb0f5e9a4fa",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "May 14, 2013",
+  "version": "4.5.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "DoApp, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_4101288550d39df77adf5eb0f5e9a4fa",
+  "extendedInfo": {
+    "installSize": "5.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "An app dedicated to automobile news and blogs.",
+    "reviews": [
+      {
+        "documentVersion": "0.0.2",
+        "timestampMsec": "1340222113478",
+        "starRating": "5",
+        "title": "Amazing!!",
+        "comment": "I have had this app a while and it just gets better and better! It has tons of great stuff and is like 10 apps in one! It was good before but now it\\'s just awesome!",
+        "commentId": "lg:AOqpTOF3e73cX1gtDH2gra_DWhFsBROo_nIIHN2NfbVRLYYz5hv4VKVL7-7CNqPH92V1XiTiJH0na2E5buJObg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.4",
+        "timestampMsec": "1314063454661",
+        "starRating": "5",
+        "title": "Awsome!!!",
+        "comment": "I like this it has everything you would want. It is slow sometimes and I had to re-install once after I turned phone off but this is one great app!!!",
+        "commentId": "lg:AOqpTOFuDLd9dPh0Mya6z2BAB3a20OYNFet5wKx6JrPWIOO6f0PSpXvBxoHt8vDrp3Y08il20g-Bf3N-AguI2g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

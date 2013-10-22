@@ -1,0 +1,71 @@
+{
+  "title": "CA Service Desk Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ca.sdm.camobile",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 19, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "9",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "CA Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ca.sdm.camobile",
+  "extendedInfo": {
+    "installSize": "5.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This app enables access to CA Service Desk Manager and related capabilities like CA OpenSpace from mobile devices. You can collaborate for issue resolution via communities, ask questions, reply to other's question and comment on replies. If you are still unable to resolve your issue, the app lets you view your open help desk tickets or create a new ticket, including use of the mobile device camera, location and voice-to-text features to simplify ticket creation. Another capability enables you to review your assigned tasks and take action, such as approving the task. Support Analysts can view and filter their ticket queues, as well as drill into the details of a specific ticket and perform various actions on it. This app requires an active CA Service Desk Manager 12.7 implementation that has been configured for mobile access.",
+    "reviews": [
+      {
+        "timestampMsec": "1377017855257",
+        "starRating": "5",
+        "title": "Great update",
+        "comment": "The new screen layout and navigation is pretty smooth.",
+        "commentId": "gp:AOqpTOGZPyfopV78RKbrNmTvzv4WFnQt-l7rMi2zSlT8VZ9a422fTyOQ51TTgo5I7tl-BNKROy6dt61Sptd7xzU",
+        "author": "Dale Clark",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1366138030633",
+        "starRating": "5",
+        "comment": "Like this awaited app for ca sdm",
+        "commentId": "gp:AOqpTOG3Godx22XTmgRKayUQuBTVGXGg6WREGgA2akftndxN5zasZKb_jauI1iCnmnRaJ3f0Ojq0JXaA-Lqo2Zw",
+        "author": "Vikas Pokharkar",
+        "authorURL": "http://lh5.googleusercontent.com/-gLvAoM_jygY/AAAAAAAAAAI/AAAAAAAALOk/68EFUg7ZwGk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-gLvAoM_jygY/AAAAAAAAAAI/AAAAAAAALOk/68EFUg7ZwGk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363615207403",
+        "starRating": "5",
+        "title": "Going Mobile!",
+        "comment": "SDM is now mobile enabled for Android devices through the Google Play Store!",
+        "commentId": "gp:AOqpTOGB9gdaboxTh8IWgftJEdVvNR-U3uvp0wVNmAONQNxeHSwZ8DDUlkSXediV8y-TWzU_kc-yVQg4Hal03bM",
+        "author": "Roger Morse",
+        "authorURL": "http://lh3.googleusercontent.com/-_Oup3Fuk6ls/AAAAAAAAAAI/AAAAAAAABKo/HVu4sx7Q2lE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-_Oup3Fuk6ls/AAAAAAAAAAI/AAAAAAAABKo/HVu4sx7Q2lE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "title": "ANT USB Service",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsi.ant.usbservice",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "September 6, 2013",
+  "version": "1.3.0",
+  "operatingSystems": "3.1 and up",
+  "ratingsCount": "50",
+  "rating": "4.06",
+  "contentRating": "Everyone",
+  "creator": "ANT+",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsi.ant.usbservice",
+  "extendedInfo": {
+    "installSize": "36k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The ANT USB Service enables ANT wireless communication over a supported* ANT USB stick connected to your phone in cunjunction with the ANT Radio Service. Among other use cases, ANT wireless technology allows communication with millions of ANT+ devices in existence, including some of the most popular sport, fitness and personal health applications such as a heart rate straps, running foot pods, cycling power meters, weight scales, blood pressure monitors and more. More information on ANT and ANT+ technology is available on the ANT Radio Service download page: http://play.google.com/store/apps/details?id=com.dsi.ant.service.socket and on our website: http://www.thisisant.com/consumer/ant-101/ant-in-phones/ANT+ enabled applications typically also require downloading the ANT+ Plugins http://play.google.com/store/apps/details?id=com.dsi.ant.plugins.antplus. *Known Limitations: -Not compatible with \"USB1\" ANT sticks (sorry, we know a lot of you would like this but the USB1 uses a different USB controller which is not compatible with our newer versions)-Connection of ANT USB sticks requires your phone to have USB Host support, if the Play Store allows you to install this ANT USB Service on your phone, your phone should support USB Host, and all that is required is a USB OTG cable and an ANT USB Stick. For detailed requirements please visit http://www.thisisant.com/consumer/ant-101/ant-in-phones/.-Some devices (eg Motorola XOOM, Gateway TP-A60/Acer Iconia A500) will suspend the USB when the screen turns off, which will kill any ANT connections. This is a hardware limitation and there is no apparent workaround we are aware of.-Applications using very old versions of our interfaces may only work with built-in ANT support and not support ANT devices attached via this USB Service. In this case your only option is to encourage the developers of that application to update their app to use a more recent version. (If your application is not detecting the USB stick, please test if one of our sample apps can detect it, for example you can install and test the ANT+ Plugins and the ANT+ Plugin Sampler. If you can connect to the stick with some apps, but not others, it probably indicates that the problem apps are using the very old legacy interfaces.)",
+    "reviews": [
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1344342646586",
+        "starRating": "3",
+        "title": "USB1",
+        "comment": "Are there technical reasons this can\\'t be made to work with v1 USB? Would be so much more popular if it was compatible. The old Garmin sticks are everywhere.",
+        "commentId": "lg:AOqpTOE0J8CWAsnL4wblE57D99dan8rMoOlBUagv1C-3j1FqqCBWfE5LJ0lx0FmExw__Ejxw3KD82kI5a7HagA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1356897630815",
+        "starRating": "4",
+        "title": "Built-in ANT hardware",
+        "comment": "\\\"* Applications must not enforce that ANT functionality is only available when built-in ANT hardware exists (may require update).\\\"  I\\'m not sure if this is a problem with this piece of software, or the apps I would like to use ANT+ technology with, but it would be nice if this limitation were removed, if at all possible.  Other than that, great piece of software, many thanks!",
+        "commentId": "gp:AOqpTOGvY68-NLF9fJt4rW9GWnv5CLon-rLpNT9lyr8p-CnNr6LphjGGHHvRwKYnD-bpq3ix31M7QaOVPlQi7A",
+        "author": "Stuart W",
+        "authorURL": "http://lh4.googleusercontent.com/-Wz6OZqXdnaQ/AAAAAAAAAAI/AAAAAAAAC0k/0aQa35DLOT8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Wz6OZqXdnaQ/AAAAAAAAAAI/AAAAAAAAC0k/0aQa35DLOT8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1351955586725",
+        "starRating": "5",
+        "title": "Works with Xperia U and Suunto Movestick Mini",
+        "comment": "with an OTG cable. Well done.",
+        "commentId": "lg:AOqpTOFkJz0_AJELZ39fCfrTWUCYhtLYQYnEhajQZ2nuUMVRtAAf_izsnX1Sn3SeuiWhk5AeHDCPKe831nvfsQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1345447394771",
+        "starRating": "5",
+        "title": "Works on my N7",
+        "comment": "Great addition, works with the stick that came with my Garmin watch on my N7 tablet =D",
+        "commentId": "lg:AOqpTOH2aJ7LWRQ0v1Fgza5kpqQbeEGi9X5XFcRQdnTQkyjtj5ujk1VXd7vavBm6o1DJd_9JcTCUM2TPH7Osvg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1356599020399",
+        "starRating": "1",
+        "title": "Usb2 not working",
+        "comment": "Dont bother to ask for usb1 support.",
+        "commentId": "gp:AOqpTOFMs18qBlc_cJExmdI_aqEITTd1kgUCCRB_xPbBduOtyCCyobzeRitGrU9X5S1I8oJtEI2UbdjKVedXZA",
+        "author": "Rolie Agustin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1344096052591",
+        "starRating": "1",
+        "title": "Usb1",
+        "comment": "Please make compatible with usb1 ant+ sticks",
+        "commentId": "lg:AOqpTOEEpiYViCvWo7e8Sp1RSGWjUx8RgYfsqBcBvc3plyBOwOOiipi3YxBozBV3IPThpcHHsELLuljInbUkoQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1361882772402",
+        "starRating": "5",
+        "title": "Works!",
+        "comment": "using an HTC One X flashed with Miui US rom. Also using ipBike, OTG cable and Suunto Movestick.",
+        "commentId": "gp:AOqpTOFgAIA_ocxb-atovOdEVzJd54DAgxnGWlDlB4GdcqPNJ2A5jcy_MkIKe5vEmIDYQCwLKwEAZ5ZRYbhYbA",
+        "author": "Bernard Ockerse",
+        "authorURL": "http://lh3.googleusercontent.com/-8F86RaeT_tU/AAAAAAAAAAI/AAAAAAAAAEE/feJtPiQW6V8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-8F86RaeT_tU/AAAAAAAAAAI/AAAAAAAAAEE/feJtPiQW6V8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1342031683462",
+        "starRating": "1",
+        "title": "USB1",
+        "comment": "Please make this compatible with USBv1! There\\'s quite a few sticks out there that are v1. Many thanks. S.",
+        "commentId": "lg:AOqpTOFwpQT9q5mZAbFvOjqyzKwfXixUnlu8Wfyd9jNfPxFEgoowTR3ZSg2t6beDe7x8cixAu9rFsKhWPmFSdA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357337694524",
+        "starRating": "1",
+        "title": "Seriously great idea just make it work with USB 1",
+        "comment": "Of course this app won\\'t work with USB1 sticks. I would give this app 5 stars if USB 1 sticks would work with this app.",
+        "commentId": "gp:AOqpTOF3pLEEeyCs072lAvx7gkcUrH52NYDi3kQ5KzufhKv38n5VJ5_5XMV2XIlVykKuKiF30B2ECPZNBGNVwQ",
+        "author": "Amber Weitner",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362880137051",
+        "starRating": "5",
+        "title": "WORD",
+        "comment": "I can ride my trainer and use these apps and the ubike to monitor metrics - perfect",
+        "commentId": "gp:AOqpTOGPsavDJLu5frwN-tzdU0ToKNb4msWVdw3PQtHryY3MMi6m8Je3LDbzgTtN6jj7elMfNVVvuc6FL0n5Ag",
+        "author": "John Kaufmann",
+        "authorURL": "http://lh6.googleusercontent.com/-KX984jnpAUc/AAAAAAAAAAI/AAAAAAAAV3A/9bD4kTlvb_M/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-KX984jnpAUc/AAAAAAAAAAI/AAAAAAAAV3A/9bD4kTlvb_M/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362763794256",
+        "starRating": "5",
+        "title": "Very good",
+        "comment": "Soooo goood.",
+        "commentId": "gp:AOqpTOE2_C6RJsdxjBtHinhOrheVSpuSmUYQxIH4NFDDoyeySQaLGeV1b6QnWMgOEogXXSE6OttsA9ECebYmpQ",
+        "author": "Animesh Murmu",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344723430276",
+        "starRating": "1",
+        "title": "USB1",
+        "comment": "Another vote for USB1 support.  I cannot even find any ANT USB2 sticks available for sale.",
+        "commentId": "lg:AOqpTOHNJxHP4aisO3QPMgA0iyo3R9USahTkK4nnFGcEAexgaomOZtg-iifK0MkN7T3vYLZr7ETD-7stqGw4rg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

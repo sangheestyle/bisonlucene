@@ -1,0 +1,39 @@
+{
+  "title": "FIFA Quiz Football World Cup",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fifaquiz.fac",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Low Maturity",
+  "creator": "Famous App Company",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fifaquiz.fac",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "â¤â¤Are you a Fan of FIFA and do you know more about FIFA Football World Cup? â¤â¤ Here is challenge for your knowledge on this Futball Sports. Let's play a fantastic and full of fun guessing gameFootball World Cup Trivia Game - A Brain Teaser Puzzle Game. This app is made up of many levels of interesting, challenging multiple-choice quizzes and covers a multitude of different subjects in FIFA Game like player, team, venue, Championship, etc.If you like our app, please rate it on the Store with 5 stars!Download for free!! FIFA Quiz, a Very Interesting Football World Cup Trivia Game!!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.fifaquiz.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

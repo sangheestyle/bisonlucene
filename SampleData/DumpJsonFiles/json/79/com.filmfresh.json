@@ -1,0 +1,36 @@
+{
+  "title": "Film Fresh",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.filmfresh",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "May 10, 2012",
+  "version": "1.026",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Film Fresh Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.filmfresh",
+  "extendedInfo": {
+    "installSize": "1,001k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Find good films. Watch them everywhere. Film Fresh offers brand new releases and classics -- thousands of great Hollywood and independent films, movies from around the world, and kids content, too. Rent and buy on your Android 4.0 tablet with our easy-to-use application. Need help selecting a film? What mood are you in? Try our Film Finder at FilmFresh.com.",
+    "reviews": [
+      {
+        "timestampMsec": "1337628568671",
+        "starRating": "5",
+        "title": "Awesome new way to watch movies on the go!",
+        "comment": "This app is smooth! The selection of movies is better than anything I\\'ve seen. Great quality and reasonable prices. A must have for movie lovers.",
+        "commentId": "lg:AOqpTOEkBkLo7R21_h0KHJqxj-0041Cj-45bLewqDkyr4gV8iclitVamL7jL-FsOGznCZ6VUqIPEfmSNb_T43w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

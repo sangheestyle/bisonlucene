@@ -1,0 +1,51 @@
+{
+  "title": "IBA Mega Conference 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.mega2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 6, 2013",
+  "version": "4.2.4.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.mega2013",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Indiana Bankers Association is the trade association for Indianaâs financial institutions. Our membership is comprised of Indianaâs commercial banks and thrifts and includes more than 95 percent of the banks in Indiana.The Mega Conference is one of the largest and finest state bankers associations meetings in the country. The conference is our preeminent educational event, containing keynote speeches, 48 concurrent sessions, plus several optional social activities. In 2012, we had more than 1,200 attendees with approximately 950 of them coming from around Indiana from our member institutions.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.mega2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Film Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bru.videolibrary",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "June 9, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "3.142857",
+  "contentRating": "Low Maturity",
+  "creator": "Loma Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bru.videolibrary",
+  "extendedInfo": {
+    "installSize": "546k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Film Library is an application that allows you to save and organise your film collection. You can easily and quickly store the descriptions of all the films you have in your house and consult it whenever you want.The app Film Library allows you to save a huge number of details of your films as the title, director, writer, cast, genre, release year, etc. The insertion of new films is a very simple process that guides you in the introduction of all the details. Also Filmoteca have a wizard that helps you to search new films by title. You only have to write the title of a movie and the app shows you a list of results obtained from The Movie Database, one of the best free cinema data bases. Then you can pick one option and the fields of the film are automatically filled by the wizard doing the work for you.Once your film collection is complete you can view its details in a useful list. You can sort the films by title, year, or ranking. Also you can edit or delete any movie. Another feature of Film Library is back up your film collection and restore it at any time.In summary, Film Library have the following main features: - Film collection displayed in a useful list.- Manual insertion of movies.- Insertion wizard searching films by title and auto-complete all the details.- A lot of characteristics for movies: title, director, image cover, cast (with photos), genre, ranking, synopsis, release year, runtime, etc.- Sorting by title, year, or ranking.- Edition and delete features.- Back up of the film library.As if that it is no enough, it is also available for you another improved version of this app: Film Library Pro (https://play.google.com/store/apps/details?id=com.bru.videolibrarypro). This version has no advertisements and it has several new features that can be interesting for you:- No advertisements.- New views to display your film library.- New horizontal view with huge cover images of the films.- New grid view that displays more movies in the screen at the same time.- New details that expands the descriptions of the films: budget, revenue, homepage, trailer, etc.Either of the two versions is useful to you to manage your film collection but we suggest you to use the improved version Film Library Pro. We hope you find Film Library useful. Enjoy it!",
+    "reviews": [
+      {
+        "timestampMsec": "1370028703639",
+        "starRating": "1",
+        "title": "Haven\\'t come across a more empty app",
+        "comment": "adding a movie hasn\\'t been more Blant, No barcode and after adding title to search it crashes. adding Cars actually gets translated to Stars... not by android.\\'. but the app",
+        "commentId": "gp:AOqpTOGdyXdeHR2mFYYouN6HOGAis39iHgtxd13LVpNGyMDsG1dIRAoVa_8NcT92gfke69EICnJhc4JwTu7x4g",
+        "author": "Mark De Haan",
+        "authorURL": "http://lh4.googleusercontent.com/-AKHA1da8mvY/AAAAAAAAAAI/AAAAAAAArlo/XJ1Y6zogXQI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-AKHA1da8mvY/AAAAAAAAAAI/AAAAAAAArlo/XJ1Y6zogXQI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

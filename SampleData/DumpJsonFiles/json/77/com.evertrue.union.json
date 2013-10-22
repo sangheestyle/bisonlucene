@@ -1,0 +1,49 @@
+{
+  "title": "Union College Alumni Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evertrue.union",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "February 21, 2013",
+  "version": "2.1.0.10",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "EverTrue",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evertrue.union",
+  "extendedInfo": {
+    "installSize": "6.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official Union College app.  Securely network and connect with the Union College community around the world.  Includes a directory integrated with LinkedIn, maps, photos and more! Powered by EverTrue.Union College, union, evertrue, alumni, community",
+    "reviews": [
+      {
+        "documentVersion": "1.0.10",
+        "timestampMsec": "1364089567326",
+        "starRating": "5",
+        "comment": "Nice app",
+        "commentId": "gp:AOqpTOF047bpgO3QTumen1_lJjHBVGx7mLEfQCb_xlGul6xizvWbAJSzOqGxnvSc7Jn77R9Xw62vsRw4DPt7_Q",
+        "author": "Gary Ben-Ezra",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.evertrue.evertrue.permission.C2D_MESSAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

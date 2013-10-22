@@ -1,0 +1,42 @@
+{
+  "title": "Scott County Public Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.scott",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "November 19, 2012",
+  "version": "4.5.87",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.scott",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Your Scott County Public Library is in your hands! Search for titles simply by typing the first couple of letters of search words. For example for, âJ.K. Rowlingsâ âHarry Potter and the Goblet of Fireâ simply type ârow gobâ. Also access your account, place holds and renew materials. Search and download ebooks and audiobooks. Check the calendar of events, contact us, get help with homework, follow us in social media and more.",
+    "reviews": [
+      {
+        "documentVersion": "4.5.87",
+        "timestampMsec": "1369429345148",
+        "starRating": "4",
+        "title": "Nice app, fast! wrong state :-(",
+        "comment": "App runs very smooth and fast. Much better then the Scott County one I wanted. They should put that this is for Scott county in Kentucky state. I\\'m in Minnesota.",
+        "commentId": "gp:AOqpTOHlh7iHW6cy20Gm4DILcicngTQhslH2hM58CyhTPlqNdV9QZR8AvSbsy0S906q7DurPlwK-nJ3agItFpBs",
+        "author": "Eli Gaffke",
+        "authorURL": "http://lh6.googleusercontent.com/-yhzx5PZxhbk/AAAAAAAAAAI/AAAAAAAAAtA/ai-2w15vw0w/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-yhzx5PZxhbk/AAAAAAAAAAI/AAAAAAAAAtA/ai-2w15vw0w/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Midwest Athletic Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_68c86b2081984589b0f83e554c0d16cb.app",
+  "category": "Sports",
+  "price": "$0.99",
+  "datePublished": "August 24, 2013",
+  "version": "1.15.20.314",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "NLP Enterprises",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_68c86b2081984589b0f83e554c0d16cb.app",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The official app of Midwest Athletic Conference. You will now be able to get MAC scores, news, college signings/verbals and much more right on your Android devices. Friday night Football score notifications for the entire MAC will pop up on Friday nights. Easily sort by school or by your favorite sport. The MAC app also allows you to react to posts on Facebook and Twitter and support your school. If you are a fan of the MAC, currently attend one of the MAC schools, your kids play in the MAC or you are off at college and want to stay up with your alma mater this app is definitely for you.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_68c86b2081984589b0f83e554c0d16cb.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.conduit.app_68c86b2081984589b0f83e554c0d16cb.app.permission.RECEIVE_ADM_MESSAGE",
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

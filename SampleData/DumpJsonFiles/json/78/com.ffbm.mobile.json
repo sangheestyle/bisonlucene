@@ -1,0 +1,43 @@
+{
+  "title": "First Financial Bank",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ffbm.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "May 20, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ffbm.mobile",
+  "extendedInfo": {
+    "installSize": "638k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "FFB, First Financial Bank, First Financial, Mobile Banking, Mobile Banking",
+    "reviews": [
+      {
+        "timestampMsec": "1373654801378",
+        "starRating": "5",
+        "title": "Nice and secure",
+        "comment": "Small town bank, but still have the features of a much larger bank.",
+        "commentId": "gp:AOqpTOH9bujoUhpP-9-gA_ruzkelSHvh6n8wjkB1ENlx6xzZbfEheVu5dk4wiR4dCkNYp88bRY8Rx--NtAqEb2g",
+        "author": "James Carroll",
+        "authorURL": "http://lh4.googleusercontent.com/-X3AD13AYNa8/AAAAAAAAAAI/AAAAAAAAAOQ/qTZ4q6OVv40/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-X3AD13AYNa8/AAAAAAAAAAI/AAAAAAAAAOQ/qTZ4q6OVv40/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Under Lake Murray",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brinkman.LakeMurray",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "February 4, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "11",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "David Brinkman",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brinkman.LakeMurray",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Explore the lost Atlantis of South Carolina with this free GPS enabled Smartphone app.In 1930, the world's largest earthen dam and lake were completed just west of Columbia, South Carolina. In a short period of time, 11 communities went underwater. Homes, schools, churches, and almost 200 cemeteries, vanished under the deep waters of the new Lake Murray. Buildings, vehicles, bridges, and tombstones, are waiting for you to pass over them and, once again, be recognized. The \"Under Lake Murray\" phone app is loaded with historical facts about these lost and forgotten places. Using the same techniques and technology that located the lost Broad River Confederate Bridge and pontoon crossing of General Sherman's troops just outside of Columbia, SC in 1865, and the location of the lost Colonial Village of Granby... over 125 historical locations have been pinpointed  under Lake Murray and they are waiting to be rediscovered in the palm of your hand. Another 70 underwater structures sites/locations (homes, bridges, schools, and churches) are also included under a new \"ruins\" mode. These points include an approximate depth for those that dare to dive. These \"ruin\" points were recorded in 1929 just before the Lake flooded and are very accurate. Let this smartphone app guide you to these Lake Murray spots where your phone will automatically began to explain what lies beneath you. If you don't have a boat, just use the interactive mode and select points of interest from the on-screen Lake Murray map or take the new animated demo tour. For those that like to explore underwater, please use the \"Contact\" feature of the phone app to send your own underwater points of interest so other users of this app can also visit these sites. And, if you like to fish, be sure to check out the \"Fishing\" mode which has dozens of Lake Murray fish attractors, fishing holes, and boat ramp locations.Note: The historical data for \"Under Lake Murray\" is still being loaded and will always be a work in progress. David Brinkman and HistorySoft LLC accept no responsibility or liability for any errors, omissions, or inaccuracies, in the information provided. Further, they will not be liable to anyone in respect of any loss, damage, injury or expense, suffered or incurred as a result of reliance on the information provided by this Under Lake Murray application.\"Under Lake Murray\" is multilingual and speaks any language that is supported by your phone and Google translation (most US phones support English, French, Spanish, German, and Italian). Many thanks to local Historians and Explorers: Dale Boozer, John Adams Hodge, and Dean Hunt, for their valuable contributions to this project. Also, thanks to fellow Greater Piedmont Explorer Club members for good advice and motivation.The following link will provide you with all the details you need to get started using the Under Lake Murray App:http://historysoft.com/lakemurray/help.htm",
+    "reviews": [
+      {
+        "timestampMsec": "1356649130298",
+        "starRating": "5",
+        "title": "Great exploration tool.",
+        "comment": "Cool unknown, forgotten history like Bloody Bob Cunningham and Fort Fairchild.",
+        "commentId": "gp:AOqpTOGxUiNq6HNeYTBhxqqc9wPQdflhQNJP7P9H-B7q1vy7SgQwHtwvBqxS1XNf1i4HJcuwVJW_ytAC0F0ROw",
+        "author": "David Brinkman",
+        "authorURL": "http://lh5.googleusercontent.com/-OVb9wZuSYnc/AAAAAAAAAAI/AAAAAAAAATw/dbJRZ_zRh4Q/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-OVb9wZuSYnc/AAAAAAAAAAI/AAAAAAAAATw/dbJRZ_zRh4Q/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

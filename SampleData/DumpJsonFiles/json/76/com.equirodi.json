@@ -1,0 +1,44 @@
+{
+  "title": "Equirodi - Horse Marketplace",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.equirodi",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "July 12, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "EQUIRODI SARL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.equirodi",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "TÃ©lÃ©chargez gratuitement Equirodi la place de marchÃ© du cheval ! Avec l'application Equirodi consultez toutes les annonces du monde du cheval, trouvez un professionnel prÃ¨s de chez vous et comparez les prix du matÃ©riel d'Ã©quitation sur votre Android.Equirodi pour Android vous offre les fonctionnalitÃ©s suivantes :- AccÃ©dez Ã  plus de 20 000 chevaux Ã  vendre et annonces Ã©questres. Trouvez votre futur cheval, poney, van, camion, propriÃ©tÃ© Ã©questre, stage, randonnÃ©e Ã©questre, Ã©quipement d'occasion, selle, pension cheval, offre d'emploi et bien plus encore devient un jeu d'enfants avec Equirodi.- Effectuez des recherches par mots clÃ© ou parcourez les catÃ©gories. - Triez les rÃ©sultats des annonces par distance, par date et retrouvez les annonces prÃ¨s de chez moi grÃ¢ce Ã  la fonctionnalitÃ© Autour de moi.- Consultez l'annuaire du cheval pour trouver un professionnel prÃ¨s de chez vous.- Comparez les prix de milliers d'articles d'Ã©quitation et repÃ©rez les selleries prÃ¨s de chez vous grÃ¢ce au service Equishopping.- Enregistrez les annonces, les fiches PRO et les articles d'Ã©quitation qui vous intÃ©ressent dans vos Favoris.- Contactez les vendeurs et les professionnels par email ou par tÃ©lÃ©phone.Et pleins dâautres services toujours gratuits !Vous aimez Equirodi ?Devenez fan sur Facebook : https://www.facebook.com/EquirodiDevenez fan sur Google+ : https://plus.google.com/+equirodiSuivez-nous sur Twitter : https://twitter.com/equirodi",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.equirodi.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gcm.demo.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

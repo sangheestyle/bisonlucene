@@ -1,0 +1,47 @@
+{
+  "title": "My Grocery List",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fitzsoftware.grocessaryList",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "May 19, 2011",
+  "version": "1.0.4",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "26",
+  "rating": "3.4615386",
+  "contentRating": "Everyone",
+  "creator": "FitzgeraldEngineering",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fitzsoftware.grocessaryList",
+  "extendedInfo": {
+    "installSize": "484k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Welcome to My Grocery List.Grocery list , its easy to prepare your list and maintain on your mobile.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1375579318494",
+        "starRating": "1",
+        "comment": "Useless",
+        "commentId": "gp:AOqpTOFtrLxyHYG3MeSiCK-DHXSNKR9lTheuW8vAf1mZ5gs_cpA2phyS1rUeAv9aMBrpPe-thDQbuUv1v0K-Eqo",
+        "author": "Yvonne Edwards",
+        "authorURL": "http://lh3.googleusercontent.com/-BDOb5sh3iP8/AAAAAAAAAAI/AAAAAAAAFow/saAO05xfJwo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-BDOb5sh3iP8/AAAAAAAAAAI/AAAAAAAAFow/saAO05xfJwo/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1293712734280",
+        "starRating": "2",
+        "comment": "Over all looks like a good program but on the HTC incredible, the bottom two keys are shrunk and I can\\'t see what they are.",
+        "commentId": "lg:AOqpTOFxMju-b7LKDF0dNo0s0UVCoZtsKTax0S482dMWiQ3pHdBZCTtnKFC_SNuCLDRutapswzaYHxBfzS3sjSw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.SEND_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_SMS"
+    ]
+  }
+}

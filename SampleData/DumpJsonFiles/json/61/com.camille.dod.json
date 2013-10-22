@@ -1,0 +1,32 @@
+{
+  "title": "Department of Defense photos",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.camille.dod",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "March 22, 2012",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "Camille Espanol",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.camille.dod",
+  "extendedInfo": {
+    "installSize": "360k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Get a glance at photographs from the US Department of Defense.Use the control buttons in order to load the next / previous picture, zoom it or even rotate it. You can also save it to your SD card if it is available and mounted. Each picture comes along with its description and its title.Pictures mainly originate from the US Department of Defense, but the US Department of Defense application has not been developped by the US Department of Defense. More pictures will be added.Feel free to rate the application or send me some comments, whether you like it or not.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

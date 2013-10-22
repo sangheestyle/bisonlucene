@@ -1,0 +1,50 @@
+{
+  "title": "Film Terms",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.filmmakingterms",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "December 24, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Mind Blown Films",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.filmmakingterms",
+  "extendedInfo": {
+    "installSize": "305k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "A glossary of filmmaking terms to be use in the field by anyone from the amateur to the professional.This version auto-updates without any actions from the user thanks to BuzzTouchwww.mindblownfilms.comwww.facebook.com/mindblownfilmswww.youtube.com/mindblownfilmswww.twitter.com/mindblownfilms",
+    "reviews": [
+      {
+        "timestampMsec": "1367712648316",
+        "starRating": "1",
+        "title": "Very limited",
+        "comment": "Not enough content to warrant an app.",
+        "commentId": "gp:AOqpTOEQl0w_IEQ4qzMidlpZ7DdJeUVzvKlXkvh43V-xyopLvfe_RhZ4Lu5UhvAGovgZY1zWLbuZtcTLLYGXvXg",
+        "author": "Kayode Olorunfemi",
+        "authorURL": "http://lh4.googleusercontent.com/-E9bH1PfdRG0/AAAAAAAAAAI/AAAAAAAAKJY/3CA1stRv-gA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-E9bH1PfdRG0/AAAAAAAAAAI/AAAAAAAAKJY/3CA1stRv-gA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370060370442",
+        "starRating": "5",
+        "comment": "Cool",
+        "commentId": "gp:AOqpTOEM7qWuhBQJd1EYk4aieQlhyYhaBSLD44Gye5sCOy3NRd1YSd1jCFyps2EHu-5p5El1zug2YkGgvEv8LWQ",
+        "author": "Andrew Freedman",
+        "authorURL": "http://lh6.googleusercontent.com/-zvcEg8TJDpE/AAAAAAAAAAI/AAAAAAAABHU/gaRyLQbNlO4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-zvcEg8TJDpE/AAAAAAAAAAI/AAAAAAAABHU/gaRyLQbNlO4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Horizontal View Video Player",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.horizontal_view_video_player_10514",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "May 19, 2013",
+  "version": "0401",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Make Video Daily Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.horizontal_view_video_player_10514",
+  "extendedInfo": {
+    "installSize": "15M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "This is a horizontal view video player.With this video player, your video files will be listed in a horizontal view playlist.So you can hold your phone in any position that you like. The playlist will always be shown to you horizontally.Do you want to try it now?Now please follow me to see how to use this video player. Instructions:1.    Enter this video player, and click menu button to view the control button in this video player;2.  For your first use, click search button to scan and form the video playlist;3.  Then if you want to view your video files in a more clear order. You can just sort them by name, time, format and size to your liking.4.  On the video playing screen, you can see the current time and battery state. And you also can control the video playing( play, pause, preview, etc. ) .5.  After you enjoy all the video files with this media player, you can just click clear to delete the playlist. After that, you need to click the search button at next time to form a new playlist. Conclusion:By this detailed introduction, we believe that you already have a clear idea of this video player.So now you can just use it to play rmvb, avi, flv and mp4 format videos and movies.Do not forget to recommend this streaming and great video player to your friends.Thanks! ##############################Warnings: Though there are notification ads or icon ads in this app, you still can run it normally.##############################",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

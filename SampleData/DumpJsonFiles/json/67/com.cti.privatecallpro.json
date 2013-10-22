@@ -1,0 +1,35 @@
+{
+  "title": "Private Call Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cti.privatecallpro",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "January 20, 2011",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Coherent Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cti.privatecallpro",
+  "extendedInfo": {
+    "installSize": "19k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Keep your cell number private! This app allows you to place calls while keeping your phone number private from the person you are calling. This is perfect for placing business calls to clients without giving out your cell phone number. Or if you just want to keep your cell number private.No hassle, super simple app! -Type a number or select a number from your contacts list. -Tap \"Place Private Call\".-Keep your number private.Note: Most calling networks support the use of the *67 calling prefix. A select few may not.",
+    "reviews": [
+      {
+        "timestampMsec": "1302910038174",
+        "starRating": "1",
+        "comment": "All this app does is dial *67 before placing your call. On my Sprint Samsung Optimus S the number still shows up on the recipient\\'s caller ID?",
+        "commentId": "lg:AOqpTOEfBZJqJdpjGQwc4wS8-u8cIalf0tGJPG4lfsh5WTrqxLVr9xSDF76M3fJVZNekWAcCoq4CLiSQuvV_B74",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

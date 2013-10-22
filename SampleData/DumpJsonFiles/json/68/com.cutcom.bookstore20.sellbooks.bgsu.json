@@ -1,0 +1,50 @@
+{
+  "title": "Sell Books BGSU",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.bgsu",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 29, 2011",
+  "version": "1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "CutCom Software, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.bgsu",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Sell your used textbooks to the Bowling Green State University Bookstore using this instant price quote app! It allows you to scan the barcodes of books that you'd like to sell using your phone's camera. You'll find out instantly how much we'll pay you for your used books. Please note: This application is able to use your camera to scan barcodes, however the camera on IPod Touch doesn't have the resolution to capture barcodes reliably. But, you can always type in your ISBN. This app was developed by CutCom Software Inc. on behalf of the Bowling Green State University Bookstore. If you have any trouble, please let us know!",
+    "reviews": [
+      {
+        "timestampMsec": "1323466406940",
+        "starRating": "5",
+        "title": "Good app to have during finals!",
+        "comment": "The prices were accurate for when I scaned my books. Was fast, easy accurate to use.",
+        "commentId": "lg:AOqpTOGVIPMgIsvKaKXk583aBqTIdB3ZKeIIoK_23EmfJMKEKzV5-p8jdfCVVE75tAatdIlbRELhxxM3k_6HtQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361397221033",
+        "starRating": "1",
+        "title": "Waste",
+        "comment": "Doesn\\'t work on galaxy s3",
+        "commentId": "gp:AOqpTOHGXsCNu-rYkerEj_xZ9fWtuvTB8ZDtu5tEYEDCZFcVTsI2HMfuqbL6Th6pjc04eq98yLwkWhFZV4LEXw",
+        "author": "Alex Nash",
+        "authorURL": "http://lh6.googleusercontent.com/-rYTQQgKxAKg/AAAAAAAAAAI/AAAAAAAAAAA/sU-ojjcyneg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-rYTQQgKxAKg/AAAAAAAAAAI/AAAAAAAAAAA/sU-ojjcyneg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Outdoor Retailer Summer 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.orshowsm2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 25, 2012",
+  "version": "3.2.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.orshowsm2012",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "OUTDOOR RETAILER SUMMER MARKET: August 1 â 5, 2012, Salt Lake City, Utah. The worldâs largest outdoor sports industry gathering, bringing retailers and media together with over 1000 brands in the business of producing and selling the active outdoor lifestyle.  21,000+ overall attendees!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

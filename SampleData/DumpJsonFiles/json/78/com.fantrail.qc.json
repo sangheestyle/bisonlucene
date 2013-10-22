@@ -1,0 +1,36 @@
+{
+  "title": "Quiet Company",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fantrail.qc",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "May 29, 2011",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fantrail LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fantrail.qc",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "This is the official Quiet Company Android app. Quiet Company's official app has some super cool features that allow Quiet Company to connect with YOU in ways never before possible.- The LoveMeterâ¢ tracks how much love you give to Quiet Company. Share with your friends, buy music, check-in at concerts and you'll receive more love on your LoveMeter and you'll receive rewards from Quiet Company.- Quiet Company's voice: You will get voice messages from the artist to you. The higher your LoveScore the most personal the voice messages to you.- Your voice: Send LoveMailâ¢ messages to Quiet Company with your own voice. The higher your LoveScore the more likely that they will hear you and maybe even reply to you.- LOVE: You get love by giving love- Lots more! You get all Quiet Company's Twitter, Facebook and website updates, videos, music, events and more all in one place...your iphone.Take Quiet Company with you wherever you go and be a star in their world!Powered by FanTrailwww.fantrail.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

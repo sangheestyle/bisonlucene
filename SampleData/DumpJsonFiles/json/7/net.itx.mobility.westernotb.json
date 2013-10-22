@@ -1,0 +1,42 @@
+{
+  "title": "OTB",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=net.itx.mobility.westernotb",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "November 16, 2010",
+  "version": "1.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "3.0",
+  "contentRating": "Medium Maturity",
+  "creator": "ITX Corp",
+  "creatorURL": "https://play.google.com/store/apps/details?id=net.itx.mobility.westernotb",
+  "extendedInfo": {
+    "installSize": "308k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This App allows you to locate OTB Branches and EZ Bet Locations in the Western New York Area.  Find a place to bet the ponies near Jamestown, Buffalo, Niagara Falls, Batavia, Rochester or Syracuse.  Weâve also got horse racing news feeds, a how to bet guide, info on upcoming contests and handicapper tips as well.",
+    "reviews": [
+      {
+        "timestampMsec": "1356162349421",
+        "starRating": "5",
+        "title": "KEWL",
+        "comment": "CAnt believe that this app isnt getting more gewd reviews",
+        "commentId": "gp:AOqpTOENyddtbK0AGNydYGYxefFKjdqMo8SjuHSYzcQXbmYQ6JAZ5Ww20AYwO_4hx-Rl0SmMLN2qzSbyF9xvXmc",
+        "author": "Roxana Espinoza",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

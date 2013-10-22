@@ -1,0 +1,44 @@
+{
+  "title": "First National Bank Bemidji",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.firstbankbemidji.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "June 11, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.firstbankbemidji.mobile",
+  "extendedInfo": {
+    "installSize": "600k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Use First Mobile  to access all of your First National Bank Bemidji accounts easily through your smartphone!",
+    "reviews": [
+      {
+        "documentVersion": "2.5.22",
+        "timestampMsec": "1371094083633",
+        "starRating": "3",
+        "title": "Thank you FNB",
+        "comment": "I was wondering when your app was coming. Great to see balances and transfer funds on the go. Works great.",
+        "commentId": "gp:AOqpTOFGP6QUoV0BDSM80-W2e14kBEVQh6jl3ct2GnAvRrVJAdddF4XMGPPFND-nGyYfmMZPtuLIBq3oswyDPao",
+        "author": "Jeffrey Schulman",
+        "authorURL": "http://lh4.googleusercontent.com/-W7zZ44pHclI/AAAAAAAAAAI/AAAAAAAAAC4/mGMVfpV4VTM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-W7zZ44pHclI/AAAAAAAAAAI/AAAAAAAAAC4/mGMVfpV4VTM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

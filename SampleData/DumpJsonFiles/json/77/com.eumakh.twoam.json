@@ -1,0 +1,37 @@
+{
+  "title": "2AM (KPop) Stage",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eumakh.twoam",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "0.6.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "AtticTV Pte Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eumakh.twoam",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "âââââ A must have app if you're a IAM (2AM Fan)âââââ So convenient, easy to use, and great ui. It sums up a lot of the information you would spend hours on the net looking for. If your a 2AM fan, a definite must have.Brighten up your day with 2AM Stage. We love JoKwon, Seulong, JinWoon and ChangMin so much that we decided to build this app.Be closer to your favorite 2AM boys JoKwon, Seulong, JinWoon and ChangMin as you can now get all 2AM videos, photos and news across various sites like AllKpop, Youtube, and Tumblr all put together in one beautiful interface. It definitely makes us happy.Now, also be able to access your 2AM Music Videos, while you have that precious few minutes to spend with the boys.Also, stay updated on all 2AM concerts and Updates on Twitter, all in one swipe on this beautifully designed app, created by IAMs, for IAMs.Also, save your favorite content for easy viewing later.Contact us at:@eumakh on Twitter or onwww.facebook.com/kpopmusiclove",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "com.eumakh.twoam.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "[B]Business Etiquette",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.broadcon.business",
+  "category": "Lifestyle",
+  "price": "$0.99",
+  "datePublished": "August 7, 2013",
+  "version": "1.23",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "BroadCON",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.broadcon.business",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "One Touch, your business manner is completed.#. How to useFollowing functions are operated with one touch.1.Switching into Vibration or Silence mode.2.It will send a SMS 'in the meeting' when you get a call or msg.3.Restoration into the original state after setting hours.ï¼. bug / Q&A-Email: appstore@broadcon.co.kr-Homepage: www.broadcon.net-Twitter: @broadcon-Facebook: www.facebook.com/broadconhc",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Grande Ronde Hospital",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coffeycomm.netreturns.granderonde",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "January 10, 2013",
+  "version": "1741",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Coffey Communications, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coffeycomm.netreturns.granderonde",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "An official app of Grande Ronde Hospital. You can use the app to find health care providers, read health news, search for health information, learn more about the services we offer, and access maps and contact information.Living in a rugged outdoor wonderland doesn't mean sacrificing great medical care. Grande Ronde Hospital successfully recruits exceptional medical professionals to its team of 49 primary care, internal medicine, obstetrics, general surgery, and specialty practice providers; including neurology, oncology, orthopedic surgery and otorhinolaryngology. Combine that broad scope of medical skill with our state and nationally award-winning Telemedicine program, and we can offer our patients diverse services compared to those found in more urban hospitals. We partner with specialists from coast to coast to provide consultative services in cardiology, stroke care, neonatology, dermatology, endocrinology and more. We are a level IV trauma care facility, but for patients who need more, our recently completed Helistop improves the response time of emergency air ambulance services, which is crucial in a rural region like ours. We like to think of what we do as world-class health care with that home-town touch. Get to know us.Note: The information in this app comes from a wide range of medical experts. It is not intended to replace a visit with your health care provider. If you have any concerns or questions about specific content that may affect your health, please contact your health care provider.",
+    "reviews": [
+      {
+        "timestampMsec": "1357776811791",
+        "starRating": "5",
+        "title": "Well put together app!",
+        "comment": "A very well put together app, easy to navigate, intergrates with feartures on the phone very well. I would like it even better if the directions features launched the default navigation/maps app(s) rather than using Google\\'s online maps, but its a good default in case someone is not familiar with nav apps, or on an iphone without Google Maps built in.  Bill pay is a great addition! and the knowledge base is excellent!",
+        "commentId": "gp:AOqpTOFTYv6LpaS8guga_yvoktIlft9u3kq8NsYq4FZiqVD2-UYDC1JMGnknD2To2UbE45TwMlc2ulLw5jv0msg",
+        "author": "Patrick Flynn",
+        "authorURL": "http://lh5.googleusercontent.com/-Vue2yzcXizc/AAAAAAAAAAI/AAAAAAAACHw/8mgokbyCGG8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Vue2yzcXizc/AAAAAAAAAAI/AAAAAAAACHw/8mgokbyCGG8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

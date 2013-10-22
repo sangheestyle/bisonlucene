@@ -1,0 +1,46 @@
+{
+  "title": "Dr. Bill Busch",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.WilliamBuschapp_57",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "February 11, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.WilliamBuschapp_57",
+  "extendedInfo": {
+    "installSize": "5.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app is intended to help our patients to get the most out of all the dental resources we have. It will connect you to our office 24 -7. Please keep it on your phone as it will help plan and organize your dental health for you and your family.",
+    "reviews": [
+      {
+        "timestampMsec": "1326418392692",
+        "starRating": "5",
+        "title": "Great App!",
+        "comment": "Awesome",
+        "commentId": "lg:AOqpTOFuGm-XBYi7ikdh0O5qjJWef8vCeq2zKQF8lmz_oTnYmGp5T1fZekl-z6SE-5sYuIJ2FlJEly9aw5Ql9w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "com.cloudninedevelopmentllc.WilliamBuschapp_57.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

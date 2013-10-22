@@ -1,0 +1,56 @@
+{
+  "title": "Japan Time Zone",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.diycircuits.jptz",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 24, 2013",
+  "version": "1.6",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "94",
+  "rating": "4.712766",
+  "contentRating": "High Maturity",
+  "creator": "Hilary Cheng",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.diycircuits.jptz",
+  "extendedInfo": {
+    "installSize": "172k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This is a simple free application for switching to Japan Time Zone for both Guilty Dragon and Puzzle & Dragons games and it is safe enough when it doesn't require any harmful permission. (e.g. Network Access, Phone Access)1.4 APK http://www.sendspace.com/file/tv29gd1.5.1 is 1.4 APK but I have changed the version from 1.4 to 1.5.1.** PLEASE LAUNCH APP FIRST BEFORE RUNNING Puzzle & Dragon , Guilty Dragon, If this app doesn't work on your device. Please use Tasker instead.  **** I am still finding the way to fix the problem. Sometimes it cannot change timezone when you launch the game. **Also, if you have any game, it requires to Change to Japan Time Zone, please send email to me. for any question, please send email and I can answer you. Otherwise, I can't reply it from Playstore.** PLEASE STOP \"TASKER\" APP BEFORE RUNNING THIS SOFTWARE **1. When you are launching these games, it will switch to Asia/Tokyo Timezone. 2. When you leave the game or switch off the phone, it will switch back to your original timezone.I have only tested at Android 4.2. I cannot guarantee that it works on other Android version.** PLEASE QUIT THE GAME BEFORE YOU SWITCH OFF SCREEN. IT WILL BETTER TO KEEP YOU HAVE A CORRECT TIMEZONE **Disclaimer:THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+    "reviews": [
+      {
+        "timestampMsec": "1362795615218",
+        "starRating": "3",
+        "comment": "Can\\'t back to own time  Ad4.1.1",
+        "commentId": "gp:AOqpTOHRF8KvPlahwYxnLo-anBD6BODUORe8VIKcqvlLPMqE_HBPdXCrK99gMDsW6leC2nn_agV1tv1XtvgOug",
+        "author": "Noki ming",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358362144367",
+        "starRating": "5",
+        "title": "Hoho",
+        "comment": "Great",
+        "commentId": "gp:AOqpTOFi8Xrl2eNIoWFxH0C0QGphnnY_v2kboxWIxZL_celi7JhwbsjWajJ-46pBT54XcvNi1gy2mJgb7aSw8Q",
+        "author": "Joe Szeto",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358618356264",
+        "starRating": "3",
+        "title": "Tokyo time zone forever",
+        "comment": "It doesn\\'t back to hk time zone even I close the app",
+        "commentId": "gp:AOqpTOFa6qL4JXRDoorcY0qZN3nqcP0NbqNEedyZx1yrd3xezbor8wt7hhrHQPXWW9YzZQtIe7sd4u45GU97uA",
+        "author": "Cheung Ho",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_TIME_ZONE",
+      "android.permission.GET_TASKS",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

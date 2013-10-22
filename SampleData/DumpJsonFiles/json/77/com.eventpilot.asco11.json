@@ -1,0 +1,43 @@
+{
+  "title": "2011 ASCO Meeting iPlanner 1.0",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eventpilot.asco11",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "May 12, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "ASCO",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eventpilot.asco11",
+  "extendedInfo": {
+    "installSize": "5.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The iPlanner, the Annual Meeting Planner mobile application, allows users to search or browse 2011 meeting sessions or to create a customized itinerary. The application syncs with the online Meeting Planner, so any itinerary changes made online will automatically update to your mobile version. Other features include:â¢Ability to search for nearby sessionsâ¢Ability to add and e-mail annotations to sessions in your itineraryâ¢Interactive map of McCormick Place that plots session locations â¢Exhibitor list, including company descriptions and booth numbers that link to exhibit mapâ¢Twitter feed that highlights exactly what ASCO staff, members, and attendees are saying about the Annual Meeting",
+    "reviews": [
+      {
+        "timestampMsec": "1307218479598",
+        "starRating": "1",
+        "comment": "Not to be depended on! Freezes everytime I go to my calendar. Does not sync and now all my itenerary erased. I have samsung captivate, android OS",
+        "commentId": "lg:AOqpTOGKpRWqwpZKbXeGBuERZlbwNOG20fwUYLBwWYPrr5Toc83wsF7gXM4R5Om65J3xG544Z_cZBZYcjxUWceA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.SECURITY",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

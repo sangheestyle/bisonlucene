@@ -1,0 +1,39 @@
+{
+  "title": "Face Switcher",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.face.change",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "April 28, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "KNOWLEDGE.ANDROID",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.face.change",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Hello All Lovers of Entertainment world,Introducing Face Switcher application!!!Just take a picture or choose from your gallery and just a one touch away...Now you can able to twist,stretch your photos. You can make a funny pictures of your enemies,friends and etc. You can give any kind of effects on your picture like as make a fat,make a tiny,stretch or twist any of the body part and many more.You can save photos in your device. You can also share funny photos to your friends.If you like this app than rate our app and share your feedback with us.This free app may contain ads in notification tray and may create internet shortcuts on your desktop. Shortcut icons can be deleted which will take no effect to this app. You can also stop notifications of this app.Banner ads cannot be removed.Keywords:- Face,Change,Switch,Beautiful,,Wrap,Warp,Swap",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

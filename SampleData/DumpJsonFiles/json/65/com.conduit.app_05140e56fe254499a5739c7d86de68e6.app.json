@@ -1,0 +1,42 @@
+{
+  "title": "CLC",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_05140e56fe254499a5739c7d86de68e6.app",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "September 1, 2013",
+  "version": "1.66.102.4285",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Christian Life Center, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_05140e56fe254499a5739c7d86de68e6.app",
+  "extendedInfo": {
+    "installSize": "5.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "With the new app from Christian Life Center, you can catch up on recent messages, submit prayer request, and learn more about upcoming events. Plus, you can give without pulling out your wallet.When you download the new app from Christian Life Center, you can catch up on recent messages, submit prayer request, and learn more about upcoming events. Plus, you can give without pulling out your wallet.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_05140e56fe254499a5739c7d86de68e6.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.conduit.app_05140e56fe254499a5739c7d86de68e6.app.permission.RECEIVE_ADM_MESSAGE",
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

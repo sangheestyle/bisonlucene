@@ -1,0 +1,209 @@
+{
+  "title": "Control (OSC + MIDI)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.charlieroberts.Control",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "July 24, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "80",
+  "rating": "3.625",
+  "contentRating": "Everyone",
+  "creator": "Charlie Roberts",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.charlieroberts.Control",
+  "extendedInfo": {
+    "installSize": "750k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Control enables users to create their own interfaces for controlling musical, artistic and virtual reality applications. It is built on top of the WebKit rendering engine and allows users to define their interfaces via JSON files. Features include: - Outputs Open Sound Control (OSC). MIDI coming soon!- Handles multitouch on devices running Honeycomb- Bi-directional communication: use Control to set values on your computer, use your computer to set values in Control - Dynamically add and manipulate widgets via OSC messages - Reads and outputs data from Accelerometer and Compass sensors (on applicable devices) with adjustable update rates - The ability to script behaviors for widgets using JavaScript - Auto-discovery of wireless networks via Bonjour - Interfaces can be pushed to the phone via OSC or downloaded from the web - Supports both portrait and landscape interface orientations - Interfaces work on both phones and tablets (tested on Droid and Asus Transformer)- Free If you've never used wireless MIDI or OSC before, Control (and all other wireless MIDI / OSC apps) will have a little bit of a learning curve to get started. Please visit the Control support website!NOTE: There is currently a bug that causes landscape interfaces to scroll if used after a portrait interface on Android 2.2 and 2.3 devices.",
+    "reviews": [
+      {
+        "timestampMsec": "1378723812504",
+        "starRating": "5",
+        "title": "does what it\\'s intended for",
+        "comment": "+ Extremely easy to use and setup.  + Useful interface. + You can change the refresh rate  The only thing I would add is the orientation of the phone, like andOSC does.",
+        "commentId": "gp:AOqpTOGBmMXx6WFtILApC3CFy579p7YTQcfIP87Vrbgnf_8O5pVgFDrtM0jAAX2DWyPrikM-2T93y6OAsFPpSbc",
+        "author": "Davide Scaini",
+        "authorURL": "http://lh5.googleusercontent.com/-1CuGsrEnDi4/AAAAAAAAAAI/AAAAAAAAPcU/2QhF_HysAfI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-1CuGsrEnDi4/AAAAAAAAAAI/AAAAAAAAPcU/2QhF_HysAfI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1311701862961",
+        "starRating": "5",
+        "comment": "Love this! Plan to try it with VVVV for procedural graphics control. It does run on my Samsung GalaxyS, but its small - doesnt fill up screen. Bug?",
+        "commentId": "lg:AOqpTOG6krCZ2CwrXypI6QOPt4W0BMRiiPRT01wuwvVZlvqBhv_iiysSutnmAls_zM3OcGN3VwLEy4a5UjP1X9M",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333767503088",
+        "starRating": "4",
+        "title": "Could be cool...",
+        "comment": "...but it\\'s kind of buggy. Cuts off part of the screen and eventually crashes. Lots of potential if these problems are addressed.",
+        "commentId": "lg:AOqpTOEv9w4WcHLPYlzE8liYimkPgaTFcza4BUA1aGE4hc1kTqIobx5ejjA0v-RmoBhLeL1yI7dyFLus_WQcIqQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1327458529286",
+        "starRating": "5",
+        "title": "Best in class",
+        "comment": "I\\'m a big fan of OSC and this is the best interface in the market. I\\'ve tried them all, more features than anything else. Plus, it keeps getting better.",
+        "commentId": "lg:AOqpTOGCqFgI8pGrXwPBLMEYeqklaMZn6UAzL4iXfWKDSZX0Nra_xkUIobQMjEnq5en6QiDtHxGpJtbK4KnZJBs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330176985427",
+        "starRating": "4",
+        "title": "Makes my apc40 seems useless...",
+        "comment": "Nah, not quite that great, but pretty awesome.",
+        "commentId": "lg:AOqpTOGSv8k4ZbGfhNDw8xBjarjzx64brJKE4MAJ33Cza53eDi44QQcHI1owTWz0mY2iPIl3ieT_gcXnyFNjqrI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344728981914",
+        "starRating": "1",
+        "title": "Insta-crash",
+        "comment": "Open app, white screen for about half a second, then \\\"application has stopped\\\" dialog pops up. EVO 3D",
+        "commentId": "lg:AOqpTOG1-ixsXulPytIXLuhyPpY2tcP1axy2kcmmM4jmRlI7OBosP2OiaDIxuflawwB8SU62KUCXaVJyifCBgxE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344892477796",
+        "starRating": "1",
+        "title": "Htc vivid",
+        "comment": "When I try to open it, it force closes..",
+        "commentId": "lg:AOqpTOHAl70ZYBm6iOjIZ5_tqSIJYBaRwrXzIrTUBdSHZVRhvxUKJI0wsnsb51GSrXerH0iRG1WDWEUY31kklvM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355060798846",
+        "starRating": "5",
+        "title": "Super",
+        "comment": "i tried it with stripinvader.js works perfect. thanks a lot guys u made my day",
+        "commentId": "gp:AOqpTOHoVM4IR3xDnfZ0eISRgZPcfOGg7Ozi7seUuDIyHgWgEvVBw2faW5QrNMCVOlqgGwgCBnLp4DArsun3EKQ",
+        "author": "Glen Lloyd Saldanha",
+        "authorURL": "http://lh3.googleusercontent.com/-0Ma0OXcDRpU/AAAAAAAAAAI/AAAAAAAAAAA/_wMAEQXVtCs/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-0Ma0OXcDRpU/AAAAAAAAAAI/AAAAAAAAAAA/_wMAEQXVtCs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363106893914",
+        "starRating": "1",
+        "title": "Insta-close",
+        "comment": "1st run after install it force closes. And every one after that. HTC Rezound",
+        "commentId": "gp:AOqpTOG90ehDbZleACfzDBt2l6OK3DLtq7rmcbNMFv4OyygMQsclMW7b0lbjmG9txiKeoslDxhLYSuv_97WtJQ4",
+        "author": "Billy Davidson",
+        "authorURL": "http://lh6.googleusercontent.com/-IBSCVBLlyyk/AAAAAAAAAAI/AAAAAAAAAFc/L6GlrunBgbs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-IBSCVBLlyyk/AAAAAAAAAAI/AAAAAAAAAFc/L6GlrunBgbs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1311927554988",
+        "starRating": "5",
+        "title": "Oh yeah!",
+        "comment": "Been waiting... And it will only get better...",
+        "commentId": "lg:AOqpTOGAE0qohBaWHE2ZVXtqHN_V_Cg9v-lspOHOD8n3trIi_FbwGcyv5yab6SycCff3ljlZLKw_WeBTLSw6jF4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1322358685531",
+        "starRating": "4",
+        "title": "Pretty good",
+        "comment": "Needs MIDI if you\\'really using windows, OSC is a bit of a nightmare.",
+        "commentId": "lg:AOqpTOH6Y0E7AdAKtzbKQHYFuKdQUeeSVsJe1EoyZlFcvu2BLl9-jJGDd5EMtKpA4kgfxy1z2ECtVYs66nxH2hc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339574740094",
+        "starRating": "1",
+        "title": "needs MIDI",
+        "comment": "hurry up and implement MIDI!!!  the name of your product is a lie!!   there is no MIDI!   (coming soon is not good enough!1)",
+        "commentId": "lg:AOqpTOHXQPxfz7J2btixfmpqw5Q3gGraMuzMyOErObMY1E75CMzHwF_5_grN-23IAG670NOw6Sc9fwLEXaWxNPQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311671338926",
+        "starRating": "3",
+        "title": "mulritouch not functional on htc desire s?",
+        "comment": "looks like a cool app, but no multitouch on HTC desire S running android 2.3.3.",
+        "commentId": "lg:AOqpTOEWuVYlLRU7jnG2RIEkF_uO22KpNnrAWNZZsUwTwUnNg8fGJcVvm2whXJpW6ZfNDowSpTe5CmkNtPkXfU4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377348133390",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "Incredibly useful and fun to use! wow.",
+        "commentId": "gp:AOqpTOGdE5uZ0Ejp-BIYUr2YlPtD5RkhimO88_OPbeBuKCIWoh91Vk2NICJz-db4sbxsNKnSb3hb2s-0qCRYpHU",
+        "author": "Cezar Cazan",
+        "authorURL": "http://lh3.googleusercontent.com/-PlYjMLDyctI/AAAAAAAAAAI/AAAAAAAABKs/MK92wi8nMvQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-PlYjMLDyctI/AAAAAAAAAAI/AAAAAAAABKs/MK92wi8nMvQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1311850454583",
+        "starRating": "3",
+        "comment": "Works well on my galaxy s but on nook it force closes.",
+        "commentId": "lg:AOqpTOFj0NVsjFlsD2pY-g_8TT77GiqcNb5FyrJL0lXbFpWBo31rvaoJe9Gx0V7hgXOyMAHDrFKt6Map4Zlpmh8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311688598348",
+        "starRating": "5",
+        "comment": "sweet",
+        "commentId": "lg:AOqpTOHqwh1M3j7hr6diOrg7kAEFeoO40NyhefIOfxHPK3S66mkZ576wIRIX225rhUYr_6mRggJ9kx1hAcHUWS8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346072651356",
+        "starRating": "5",
+        "title": "Great osc app",
+        "comment": "Works great and looks nice. My favorite.  It would be great to have a gui editor for layouts.",
+        "commentId": "lg:AOqpTOFpaZCrBivBi9CgPppG_DuuBZZmIGfpEhHtkZmDm5pViWbot2G-2VcZmOblrMTEs4wJqYmAlRLedWX45qs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333918762355",
+        "starRating": "2",
+        "comment": "Debug it, it wont even work, it force closes",
+        "commentId": "lg:AOqpTOGwDvzg0AxHMfhk7RhT84PqJ5sR6Wq-pun_WeS8YUdNUk-n1s4tCUqL-R629gTy3cDCe6qdfrWp8RQ3xZA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353784348699",
+        "starRating": "1",
+        "title": "Not open, can\\'t even work",
+        "comment": "Force to close when start.",
+        "commentId": "lg:AOqpTOFH3cRSkHbGgpWL_Mf4ZAFZPEek5RYlspEnGhv398-uJNhcRxp0CJiI1RB7U5x4gUnuAXoXAW3GzXoQ16A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317514559126",
+        "starRating": "5",
+        "comment": "great interfaces, but (on dj patch) the faders do not send correct data, thus difficult to sync with ableton faders",
+        "commentId": "lg:AOqpTOGrkrbwBCfSGjAbabhBw9XvqJ8_kLyJeY7sfMNPybY9zrNkdkt9MCyLpYf4OGgOPzBWnO_VPB89v2CeoaU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

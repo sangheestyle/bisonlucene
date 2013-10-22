@@ -1,0 +1,34 @@
+{
+  "title": "Fishing Wallpapers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamtree.fishingwallpapers",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "March 29, 2012",
+  "version": "3.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "dreamtree™",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamtree.fishingwallpapers",
+  "extendedInfo": {
+    "installSize": "9.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "35 Fishing Wallpapers optimized for your pleasure and your Android devices. Highlights:â Optimized for high res phonesâ Unique images you won't find anywhere elseâ Hand-picked and cropped to precise dimensionsFeatures:â Works offlineâ Contains 35 high definition imagesâ Offline optimized for speedâ Install to SD card (requires Froyo+)Legal / Credits:Application by dreamtree. Based in Seattle, WA.  www.dreamtreemobile.comApplication icon and image source material licensed through Creative Commons Attrib-Sharealike. Credits for images: Photos and icon source material both public domain and Creative Commons, as follows: Podknox, tarotastic, sharonmleon, Leedman, robstephaustralia, www.huntfishguide.com,  mohd fahmi, avlxyz, zetrules, kasperbs, Flawka, Duncan Brown (Cradlehall)Note on Permissions:android.permission.INTERNET is used to connect to the advertising mediation servers and our partner advertising network servers for the purpose of retrieving advertisements. android.permission.ACCESS_NETWORK_STATE is used to determine the existence and quality of a phone's network connection for retrieving advertisements. android.permission.GET_TASKS is used to prevent advertisements from being retrieved when an application is in the background by checking to see if the application's task is active when an advertisement is requested. This is a workaround for the lack of global notifications about the active state of Android applications.android.permission.READ_PHONE_STATE is used for accounting and auditing purposes by advertising networks. Advertising networks use anonymous unique identifiers to limit the number of impressions and clicks attributed to individual users. android.permission.SET_WALLPAPER is used to set the home screen background wallpaper.android.permission.VIBRATE is used to vibrate the phone on successful completion of setting the wallpaper.android.permission.WRITE_EXTERNAL_STORAGE is used to save images to the SD card. Images are automatically saved in a sub-folder of /wallpapers/ on your SD card named based on this app. They are only saved to the SD card when you set them as a wallpaper. This way, if you remove the app, you will retain the wallpapers on the SD card. You may delete the wallpapers from your SD card if you wish without affecting the functionality of the app.tags: boats, lakes, fly,",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_WALLPAPER",
+      "android.permission.SET_WALLPAPER_HINTS",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Sell Books Univ of Colorado",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.colorado",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 24, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "2.25",
+  "contentRating": "Everyone",
+  "creator": "CutCom Software, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.colorado",
+  "extendedInfo": {
+    "installSize": "5.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Sell your used textbooks to the University of Colorado Bookstore using this instant price quote app! It allows you to scan the barcodes of books that you'd like to sell using your phone's camera. You'll find out instantly how much we'll pay you for your used books. Please note: This application is able to use your camera to scan barcodes, however the camera on IPod Touch doesn't have the resolution to capture barcodes reliably. But, you can always type in your ISBN. This app was developed by CutCom Software Inc. on behalf of the University of Colorado Bookstore. If you have any trouble, please let us know!",
+    "reviews": [
+      {
+        "timestampMsec": "1336311328616",
+        "starRating": "5",
+        "title": "Works great!",
+        "comment": "Really easy to use. Bar code scanner works, though not on used books. You have to type in the ISBN for those.",
+        "commentId": "lg:AOqpTOEtB3higcgODFo2-kY_03Ve4IvO3quYRaD3Pvy3fGxMT7SVzcPll2yuqjrmy-t5dJcjJHWbvPwyV5QExxQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336328840400",
+        "starRating": "2",
+        "title": "Its aighhtt",
+        "comment": "Works well but crashes a lot.  Probably paid some  computer science major minimum wage to do it.",
+        "commentId": "lg:AOqpTOEYdXKBjjwRuHoFgq7cal2JNN14BTW2RUYMz2R9M1zHGHxVKAAl3YjFz7YaoFkibRUmodOSUti5AxIrD8Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355680906088",
+        "starRating": "1",
+        "title": "Can\\'t even open the app",
+        "comment": "Crashes after splash screen",
+        "commentId": "gp:AOqpTOFwQtCGZhc6t4oIgT1NcuaV0tAZ4fWX1tt2HGHgCgKB9ZajCPyVnf3-n8IncNUmO8iLPLruXzK9lyx2mBE",
+        "author": "Zack Pyle",
+        "authorURL": "http://lh4.googleusercontent.com/-iJ9mQs7tBl8/AAAAAAAAAAI/AAAAAAAABK0/jnJQzK1CnPQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-iJ9mQs7tBl8/AAAAAAAAAAI/AAAAAAAABK0/jnJQzK1CnPQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

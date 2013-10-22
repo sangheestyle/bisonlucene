@@ -1,0 +1,47 @@
+{
+  "title": "Del Rancho Produce Dgo Inc.",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_90baefa4e9e048578bf59e05130eccf5.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "January 18, 2013",
+  "version": "1.1.2.106",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "cGFantasma",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_90baefa4e9e048578bf59e05130eccf5.app",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "Easily place an order through our app and receive special offers directly to your mobile phone!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_90baefa4e9e048578bf59e05130eccf5.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

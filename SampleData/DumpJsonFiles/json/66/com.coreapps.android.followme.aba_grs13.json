@@ -1,0 +1,51 @@
+{
+  "title": "2013 ABA Government Relations",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aba_grs13",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 8, 2013",
+  "version": "4.2.3.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aba_grs13",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Welcome to the 2013 ABA Government Relations Summit Mobile App!The ABA Government Relations Summit is your opportunity to educate lawmakers and regulators about the vital role banks play in the economy. Creating jobs. Growing businesses. Revitalizing communities. With a new Congress in session, itâs also time to meet with new leadership and advocate for policy change to support the banking industry.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.aba_grs13.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

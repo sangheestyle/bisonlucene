@@ -1,0 +1,40 @@
+{
+  "title": "Public Toilet Vienna",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.customlbs.publictoiletsvienna",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 15, 2011",
+  "version": "1.01",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "2.8333333",
+  "contentRating": "Low Maturity",
+  "creator": "customLBS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.customlbs.publictoiletsvienna",
+  "extendedInfo": {
+    "installSize": "72k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "all public toilets in Vienna in one App - find them and have a rest :)",
+    "reviews": [
+      {
+        "timestampMsec": "1367843922721",
+        "starRating": "2",
+        "title": "GPS is stuck after closing app",
+        "comment": "Drains battery as GPS is stuck. Need to reset phone to release.",
+        "commentId": "gp:AOqpTOHbnNJOJASYEVJmzSWFp4zqcz23e5YG5JY6-BfT3zMyeKKHZmdra8qsiIMjwLpPyhdyFb1DJgSN9ly53vo",
+        "author": "Jonathan Koscik",
+        "authorURL": "http://lh5.googleusercontent.com/-x0806w5gR2s/AAAAAAAAAAI/AAAAAAAAAbY/AoDwcedIXzc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-x0806w5gR2s/AAAAAAAAAAI/AAAAAAAAAbY/AoDwcedIXzc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

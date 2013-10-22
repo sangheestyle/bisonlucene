@@ -1,0 +1,46 @@
+{
+  "title": "ARMtech Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dwb.dev",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 1, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "12",
+  "rating": "4.5833335",
+  "contentRating": "Low Maturity",
+  "creator": "ARMtech",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dwb.dev",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The ARMtech Application is designed for use by both agents and policyholders of ARMtech Insurance Services, Inc. With the application, you may quote available insurance products, open claims, view actuarial changes, reference Special Provisions of Insurance, track commodity prices, and even stay on top of current Insurance News and Agricultural Headlines.ARMtech provides secure logins for account holders, which allows insureds to view their personal policy information and allow agents to view their entire customer database from anywhere at any time.Manage your policies from the palm of your handâ¢Quote available insurance products (secure login required)â¢Open claims (secure login required)â¢View actuarial changesâ¢Reference Special Provisions of Insuranceâ¢Track commodity pricesâ¢Read Insurance News and Agricultural Headlinesâ¢Policyholders view personal policy information (secure login required)â¢Agents view entire customer database (secure login required)",
+    "reviews": [
+      {
+        "timestampMsec": "1342750251839",
+        "starRating": "1",
+        "title": "Nothing works",
+        "comment": "Crashed every time I opened it.  Samsung galaxy s3",
+        "commentId": "lg:AOqpTOFWu3Cy7qn-PYidThMmKeWrUF8aPlHMsBo9R4tjQXqaABC-5wIk-VQJSARCN1dK_HCWSfMj0mi9ejNgC08",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_OWNER_DATA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

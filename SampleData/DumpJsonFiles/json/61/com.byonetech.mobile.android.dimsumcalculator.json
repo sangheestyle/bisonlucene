@@ -1,0 +1,31 @@
+{
+  "title": "Dim Sum Bill Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.byonetech.mobile.android.dimsumcalculator",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 20, 2011",
+  "version": "1.00.002",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "ByOne Coder",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.byonetech.mobile.android.dimsumcalculator",
+  "extendedInfo": {
+    "installSize": "183k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Dim Sum (é»å¿); aka Yum Cha (é£²è¶ - drink tea); is one of the most popular Chinese foods around the world.  It's famous not only by its many delicious traditional Chinese food, but also by its unique serving style where servers push a steam cart that carries fully cooked and ready-to-serve Dim Sum dishes and goes around the restaurant to offer the dishes to customers at a table.  After the server places the dish on the table, the server will stamp a dish size marker on the ticket. At the end, the total bill is calculated by the number of stamps on the ticket. With this app, you can easily calculate the Dim Sum bill by entering the number of people (for tea price) and dishes that you have ordered.  You can calculate the bill during and after dinning, and compare the bill that the server gives to you, so you will not get over charged by calculation mistake.  This app also allows you to enter other dishes and drinks that you have ordered, automatically calculates tax and tips, and presents one total bill to you. Overall, this app has the following features:-  Allows user to enter the number of people and the number of different sizes of dishes ordered, and then calculates the total bill.-  Calculates the tax and tips automatically.-  Calculates tips by percentage or by a fixed amount.-  Can view breakdown details of the bill and emails that to friends and/or yourself.-  Invokes Android Calculator app within the app for simple calculation.-  \"Going Dutch\" â calculates and splits the bill among the guests.-  Allows user to save your favorite Dim Sum places and prices to use next time.-  Import and Export your favorite Dim Sum places to another phone.This is an Ad supported application and uses the following permissions:-  External Storage: Import and Export Dim Sum Places.-  Internet and Network: Supporting ad displaying.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

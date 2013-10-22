@@ -1,0 +1,36 @@
+{
+  "title": "EON 3D Neuron Structure",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eon.eon3dneuronstructure",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "July 23, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "EON Reality, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eon.eon3dneuronstructure",
+  "extendedInfo": {
+    "installSize": "15M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "After the 3D Neuron Structure has loaded (may take a few seconds) an info screen will show. Click anywhere on this screen to start an animation loop that will be played forever.You can rotate the neuron (one finger) as well as zoom in/out (two fingers)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BATTERY_STATS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.SET_ORIENTATION",
+      "android.permission.DEVICE_POWER",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

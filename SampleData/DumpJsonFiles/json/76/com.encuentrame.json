@@ -1,0 +1,59 @@
+{
+  "title": "encuentraMe",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.encuentrame",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "March 8, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "20",
+  "rating": "3.05",
+  "contentRating": "Low Maturity",
+  "creator": "Netser SA de CV",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.encuentrame",
+  "extendedInfo": {
+    "installSize": "348k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "encuentraMe is an application that allows you track your vehicle very easily, using a device that requires no installation. You can now locate and follow the movements of your family or coworkers.      To get your tracking device and buy our service just go to www.encuentra-me.net for instructions.     If you want to check out our service just use the user   demo    and password   demo1Features include:- Tracking device requires NO installation! Never worry any more about lost car warranties!- You can even change the tracking device to another vehicle! No more worries about moving your installed GPS tracking device when you sell your car!- Your tracking device will report its position when you turn on the vehicle, once every five minutes when the vehicle is turned on, when you turn off your vehicle, and every four hours when the vehicle is off.- You will receive a daily email with all of your vehicles movement info. Check how your employees visit your customers, as well as mileage and possible gas stealing. Everything sent directly to your inbox.- APP will allow you to view the Location of the vehicle on a map.- APP will allow you to view the Route of the vehicle on a map. You can specify times or choose one of the preset timeframes for quick response.- APP will allow you to track as many vehicles as you want.Uses include:- Have peace of mind, as you check that your family is ok, as the vehicle is in a known location (work, house, supermarket).- Know that your employees are visiting your customers and really working for you.- Examine for poor routing.- Prevent gas stealing from knowing exactly the mileage every vehicle gets each day- Incredible easy and quick to use.For support please contact us at soporte@encuentra-me.net For your tracking device and service contact us at ventas@encuentra-me.net",
+    "reviews": [
+      {
+        "timestampMsec": "1336527522594",
+        "starRating": "5",
+        "title": "Armando Zavala",
+        "comment": "Muy buena aplicaci\\303\\263n,r\\303\\241pida,amigable, muy exacta...imprescindible en mi Android. GRACIAS.",
+        "commentId": "lg:AOqpTOG7MGQG2Wkg5Ehuq5CCnFy_ah67Ok4k0rW6x5Sl5BilxfllTQ8P0PaWKYFtiaLn9ywCQKxFGHPWdjIP6Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329942967004",
+        "starRating": "5",
+        "title": "Excelente App!!",
+        "comment": "Excelente aplicacion para localizar mis vehiculos y mus facil de usar!!",
+        "commentId": "lg:AOqpTOE_rmTLvZW4NDdJIhERqqbE8qUQG9djVNJyaj7MVo4Oe26fEJUkDaAJ48L3TxPQfMLIJJYokt7ScZTldQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

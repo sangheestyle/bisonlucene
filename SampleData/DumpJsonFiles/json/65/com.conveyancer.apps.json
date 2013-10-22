@@ -1,0 +1,39 @@
+{
+  "title": "House Hunt",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conveyancer.apps",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "October 14, 2011",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "get financed",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conveyancer.apps",
+  "extendedInfo": {
+    "installSize": "277k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "When you are looking to buy real estate you often go to see many houses. After a while it is hard to remember one house from another. Househunt will help you remember the properties you have seen and how you rated them. With Househunt you can -1. Rate each property 2. Take a photo of the house and each room if required 3. Add the rooms and what is included in the rooms 4. View the property location on a map 5. Customed for your use to store additional information 6. Print and forward a spreadsheet to your computer for easy access 7. Add your own notes",
+    "reviews": [
+      {
+        "timestampMsec": "1337072123124",
+        "starRating": "5",
+        "title": "Just what I needed",
+        "comment": "I needed to go house hunting without my husband. This was the perfect app to save all the important info to show him later. Helped keep all the houses straight in my head when they began to run together at the end of the day.",
+        "commentId": "lg:AOqpTOGoNlX79B_5FUcNO9ZXg162XPWAB-vx9rVFKz53lyFysIOhpa_bpgQysVsfPs3RaNceg-wPBeafmrBC3Po",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

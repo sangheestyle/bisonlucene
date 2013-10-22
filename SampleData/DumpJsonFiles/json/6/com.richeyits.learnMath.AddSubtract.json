@@ -1,0 +1,39 @@
+{
+  "title": "Virtual Math Class",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.richeyits.learnMath.AddSubtract",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "February 10, 2013",
+  "version": "1.7",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "richeyit",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.richeyits.learnMath.AddSubtract",
+  "extendedInfo": {
+    "installSize": "213k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Multiple choice math game that teaches addition and subtraction. Two random numbers between 0 and 15 are generated then added together or the smaller is subtracted from the larger so that answers always come out positive. If you're looking for an education app then be sure to check out this gem as well:  https://market.android.com/details?id=com.richeyits.learningenglish",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

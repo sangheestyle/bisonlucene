@@ -1,0 +1,31 @@
+{
+  "title": "Attack Pattern",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.devspring.pwe.apandroid",
+  "category": "Brain & Puzzle",
+  "price": "$0.99",
+  "datePublished": "November 29, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Devspring Software Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.devspring.pwe.apandroid",
+  "extendedInfo": {
+    "installSize": "123k",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "Can you create your randomly generated 2d pattern while stopping the computer from creating its pattern? The computer will try to stop you while you alternately select 2 game squares per turn. 3 difficulty levels with 3 game grid sizes. Level 3 is almost impossible.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

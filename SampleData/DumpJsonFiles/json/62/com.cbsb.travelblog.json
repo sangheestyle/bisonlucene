@@ -1,0 +1,31 @@
+{
+  "title": "Save your Travel",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cbsb.travelblog",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "November 9, 2012",
+  "version": "1.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Medium Maturity",
+  "creator": "ProaLab",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cbsb.travelblog",
+  "extendedInfo": {
+    "installSize": "201k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Application allows you to  make notes and save coordinates  on the route of your journey.  It is convenient for the organization of small notes in the conduct of the blog or to save the route of your journey. If you do not want to miss anything, or you have trouble remembering where you were, or had seen this application is for you.This is a very simple and small app. Availability of Internet Access is not required. There is a search for the location coordinates of the network or the GPS. Saves data to a file. KML (located in / SaveMyTravel / on your SD card). After you find the location by GPS (or the coordinates of the network) GPS otklyuchaetsya automatically to save battery on your device. The route of your journey, you can save to a file or send e-mail (facebook, skype, SMS or transferred to any program that supports file import KML). You can always see the route your trip using Google Maps on your Android device or PC.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Central Florida FSBO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_ab9a43c7ddd449ff8805727e6ec8b2f3.app",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "December 3, 2011",
+  "version": "1.28.38.9822",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Central Florida For Sale By Owner",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_ab9a43c7ddd449ff8805727e6ec8b2f3.app",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Central Florida For Sale By Owner (CentralFloridaForSaleByOwner.com) is a site for Florida homes dedicated to making \"Real Estate, Real Easy!\" We are the lowest priced full service FSBO company in Florida, the best value in the world, and we're right here in Central Florida!As an added value, this app is 100% FREE and allows for full access to CentralFloridaForSaleByOwner.com on the go!  We display featured homes, access to our original articles and advice on selling your home - all developed over years of experience and analysis of the FSBO market.In this economy, who wants to pay an extra 6%+ realtor commission to sell an already in-the-hole home or property? In fact, who wants to EVER pay for that extra step in the middle? That's the beauty of FSBO listings. Sellers don't take the commission hit and can price their home accordingly, and buyers benefit from better-priced properties.Central Florida For Sale By Owner will aggressively market FSBO homes in a targeted area (Central Florida) to try to make the entire FSBO process even easier. Specifically, Central Florida For Sale By Owner will target Orlando, Tampa, Lakeland, Winter Haven, Ocala, Sarasota, Melbourne, The Villages, Gainesville, and areas surrounding.Our mission is to create a centralized, consolidated, easy-to-use tool, in which both buyers and sellers can utilize when dealing with for sale by owner and rental properties in Central Florida. With this app, you can take advantage of all the features of selling your home, even when you're not at home!",
+    "reviews": [
+      {
+        "documentVersion": "5.35.9072",
+        "timestampMsec": "1320627877931",
+        "starRating": "4",
+        "title": "Good start for the first release",
+        "comment": "This works as a nice gateway to the main website. Definitely has lots if room for improvement.",
+        "commentId": "lg:AOqpTOEqhx3R0LwEJwP2FDw9LMAOF-m6Lu9S-iycqbmDlofHTrujElWeD2vsTqti_INEmk-HyiyYR21tPpsTdw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_ab9a43c7ddd449ff8805727e6ec8b2f3.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

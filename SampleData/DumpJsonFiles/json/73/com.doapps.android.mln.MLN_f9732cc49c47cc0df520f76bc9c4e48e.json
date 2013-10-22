@@ -1,0 +1,62 @@
+{
+  "title": "Portland Events from KGW.com",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_f9732cc49c47cc0df520f76bc9c4e48e",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 30, 2013",
+  "version": "4.6.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "4",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "DoApp, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_f9732cc49c47cc0df520f76bc9c4e48e",
+  "extendedInfo": {
+    "installSize": "5.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Get the latest events, concerts, festivals, and family friendly activities happening in the Metro Portland area with the PDX Events calendar app from KGW.com, including: - Music/Concert listings - Next 72 Hours - Most Popular Events - Family Friendly Events - Outdoor Best Bets - Plus the latest Activity Forecast from KGW-TV Get the latest local entertainment and event information for free by downloading the Portland Events app for smartphones today.",
+    "reviews": [
+      {
+        "documentVersion": "2.5.3",
+        "timestampMsec": "1357611448866",
+        "starRating": "5",
+        "comment": "Great way to keep informed on upcoming to-dos",
+        "commentId": "gp:AOqpTOEfgReDRIma1z7NveiKxVV_FF3V6b3zdJUANgnsWNwOhret0fxgTzVL-RpPq3CJ08zlXHaUX5hV4G_OOA",
+        "author": "Mike Bates",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.7",
+        "timestampMsec": "1326814836406",
+        "starRating": "1",
+        "title": "Spyware",
+        "comment": "Bad spyware app.",
+        "commentId": "lg:AOqpTOGIHsgpDdC0MJIHl-bsQF3pCq_-ffKtt2RumbIteI7v9wadB3x82WmISQM94pAJcJziriW_BgByeNmHxw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1319515293945",
+        "starRating": "3",
+        "title": "great app",
+        "comment": "will give it 5 stars when they fix screen size for motorola bionic",
+        "commentId": "lg:AOqpTOEQCuw-tavKmWI4jgyds8VgdDm0eCAvQDdrvbjxpESDnDq2jS0zXQ9k800RLrwH6Gqsp0ra5hylzwvRsQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

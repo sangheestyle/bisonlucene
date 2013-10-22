@@ -1,0 +1,35 @@
+{
+  "title": "Chinese Letter Hope 3D",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dakotainc.chineseletterhope",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "January 20, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dakota Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dakotainc.chineseletterhope",
+  "extendedInfo": {
+    "installSize": "160k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Take advantage of your Smartphone or Tablet of the animated background with chinese letter of hope in 3D high definition format.Fully configurable application (speed, movement, transparency, ...).It will create a shortcut on your desktop to access the settings and see the chinese character.To install:Settings -> Display -> Wallpaper -> Live Wallpapers",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

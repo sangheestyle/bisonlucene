@@ -1,0 +1,37 @@
+{
+  "title": "KidsTimer - Protector of Child",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.campmobile.android.kidstimer",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 8, 2013",
+  "version": "1.0.4",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "48",
+  "rating": "4.7916665",
+  "contentRating": "Everyone",
+  "creator": "dodol.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.campmobile.android.kidstimer",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Are you worried that your kids may be addicted to smartphone? Smartphone became a daily necessity- even to your youngsters. So why not give them a guide to a safe and responsible Smartphone habits? 1. Limit the usage time and encourage to abide by Make a vow regarding the daily allowed time for smartphone, and after the limited time, inspire them to spontaneously pull out. 2. Take security actions to protect your kid's smartphone Allow only safe apps for your kids to use, prohibit accidental phone calls or inappropriate downloads. 3. Other actions for protections Blocking incoming calls, blocking app purchases and installations, blocking electromagnetic wave",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.VIBRATE",
+      "android.permission.GET_TASKS",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_SETTINGS"
+    ]
+  }
+}

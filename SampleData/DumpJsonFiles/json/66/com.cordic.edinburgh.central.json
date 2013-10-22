@@ -1,0 +1,59 @@
+{
+  "title": "Central Taxis Edinburgh",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cordic.edinburgh.central",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "January 7, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.25",
+  "contentRating": "Low Maturity",
+  "creator": "Cordic Android",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cordic.edinburgh.central",
+  "extendedInfo": {
+    "installSize": "518k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Thank you for your interest in the Central Taxis Edinburgh Android App.This App allows you to book a Black Hackney Cab from Central Taxis, Edinburgh's largest black cab fleet.You can:Get a Quotation for your journeyMake a bookingCheck its statusCancel a bookingTrack the vehicle on a mapManage your previous bookingsManage your favourite addressesThe App is intended for U.K. use only, and therefore all addresses are restricted to within the U.K.",
+    "reviews": [
+      {
+        "timestampMsec": "1375952238885",
+        "starRating": "2",
+        "title": "Syncing errors.",
+        "comment": "Have used this for a while and its been great, but for the last two weeks have also been experiencing syncing errors. Please fix. Update: after testing it seems the app switches to a basic connection therefore is unable to connect to the server.",
+        "commentId": "gp:AOqpTOGhV8XaM_6wRPAwiYGCfBIv_4WgMfWOSs4qpPYghC9pBaqTO7dTbMYYNtjHXiy5Bf6BI6WCR9wlbFpBqnE",
+        "author": "Catherine E",
+        "authorURL": "http://lh3.googleusercontent.com/-a670gwx7b_U/AAAAAAAAAAI/AAAAAAAADOI/j3LE2l09o28/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-a670gwx7b_U/AAAAAAAAAAI/AAAAAAAADOI/j3LE2l09o28/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355882399107",
+        "starRating": "5",
+        "title": "Sparky",
+        "comment": "Great App for booking your Black Taxi in Edinburgh.",
+        "commentId": "gp:AOqpTOGY43FJO4LO673e-LlHpd_wDWN_2IH3Sm2E4j0gL2xafIX7ARYFygDDEE0HAAdARBV2rg89als0dfvP30k",
+        "author": "mark huggins",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374742677391",
+        "starRating": "1",
+        "title": "Syncing with server",
+        "comment": "All this app says these days is syncing with server.  :/ Please fix.",
+        "commentId": "gp:AOqpTOEchOMN7ME2V750Db_nC93PVgb9WBCHoyCYYo_09d9DM1sJioMAIG30Oitn0Z8C54moWmtXTP2-dgSU1y4",
+        "author": "Christopher Williamson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Trails2go SmartTrails",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.barz.tourguide.smarttrails",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "February 7, 2013",
+  "version": "4.0.1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "BarZ Adventures",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.barz.tourguide.smarttrails",
+  "extendedInfo": {
+    "installSize": "800k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "âFor my part, I travel not to go anywhere, but to go. I travel for travelâs sake. The great affair is to moveâ - Robert Louis StevensonThe Trails2go SmartTrail application is a digital tour guide for your Android device. This app invites you to select from a growing number of individual SmartTrails, each which can be either streamed or downloaded.Do you wonder about the world beyond the internet or television set, that space beyond your front door? Are you willing to explore a world that is part gritty, part sublime?Then move.  Weâll show the way.Forget dreary roads, maps, topos, and GPS, the endless boring ways to show point A to point B.  A SmartTrail meanders along a continuum, a virtual path intermittently punctuated by moments of epiphany, poignancy, insight, and bliss.Which do you choose? Boredom or bliss?You will be aided in your SmartTrails adventure by:â¢  Rich text that illuminates the history, culture, nature, heritage, and recreations of special places;â¢  Selective audio and video to help you better understand and enjoy the SmartTrail;â¢  Interactive, zoomable  GPS maps that indicate your current location and the location of all points of interest on the SmartTrail;â¢  Pause, play, fast forward, and rewind for any trail segmentâs audio  and video;â¢  Multiple means of finding points of interest, from a zoomable map to a sortable list of points of interest;â¢  Location-based waypoint triggering; as you explore, a dynamic list of points of interest near you will continue to refresh and content is delivered automatically based on your location;â¢  Images of points of interest that will help you orient to your surroundings and find points of interest quickly;â¢  Rich text for addresses, email addresses, physical locations, and websites to ensure that you have access to all necessary information for each point of interest;â¢  Listings of events along the SmartTrail.",
+    "reviews": [
+      {
+        "timestampMsec": "1292006075985",
+        "starRating": "1",
+        "comment": "It only has 2 tours? Don\\'t waste your time",
+        "commentId": "lg:AOqpTOHS2jx_ErPcppGpvIaK2UNNrsoQJTTlaB0KWwLU8D3sgyJ-zhtb6CyDln0HkXXuhmJFb9wAeWIyqiaRcw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1287543334281",
+        "starRating": "3",
+        "comment": "Needs more for Texas areas. Then ill give it a top score.",
+        "commentId": "lg:AOqpTOEZ7-1-CT-_OWLUX6kjrJ0ehx_tsha0vbk5y4Lev_pd6xo1GconenpuUp2QrOmnaxzLxVW0SI0UsLMkag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_LOGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

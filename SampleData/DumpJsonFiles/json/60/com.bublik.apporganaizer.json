@@ -1,0 +1,33 @@
+{
+  "title": "Smart Task Manager FREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bublik.apporganaizer",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "November 19, 2012",
+  "version": "1.1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "46",
+  "rating": "4.130435",
+  "contentRating": "Everyone",
+  "creator": "Dmitry Yablokov",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bublik.apporganaizer",
+  "extendedInfo": {
+    "installSize": "86k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "A convenient tool to manage apps and services:- View CPU and RAM usage for running apps and even for closed apps (average values).- Sort all (not only running) apps by Popularity, CPU and RAM. - Monitor, launch, stop and uninstall apps (including background) and services.- Search apps by name.- Special background service calculates average CPU, RAM and frequency of use for all running apps every 5 seconds. When app is closed the average values are displayed for CPU and RAM.App is 100% FREE and with NO ads!  PLEASE NOTE:  1. When some app is closed the last values are displayed for CPU and RAM. The average values will be displayed after the next launch of the Task Manager.2. \"CPU -> Services\" tab is not yet supported (black screen)3. \"MEM -> Services\" tab is not yet supported (black screen)4. \"Popular -> Services\" tab is not yet supported (black screen)5. The black screen (for results) may be displayed for short time while sorting by popularity (\"Popular\" tab).  6. You may haven't Privileges to start/stop some services. \t7. App was tested on Samsung Galaxy Tab 7\", and LG Optimus Me phone.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_TASKS",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

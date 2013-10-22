@@ -1,0 +1,40 @@
+{
+  "title": "Will County Collector",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_1d0f0ca8355b4f078b8f176f64aac14d.app",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "May 12, 2013",
+  "version": "1.2.8.83",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Will County Treasurer's Office",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_1d0f0ca8355b4f078b8f176f64aac14d.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app allows you to research and pay your property taxes for land in Will County, Illinois.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_1d0f0ca8355b4f078b8f176f64aac14d.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Educa Touch",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.educa.EducaTouch",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 10, 2013",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "2.75",
+  "contentRating": "Low Maturity",
+  "creator": "Educa Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.educa.EducaTouch",
+  "extendedInfo": {
+    "installSize": "9.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "With the Educa Touch you can view and upload your child's learning stories from your Android device. Educa is the ideal mobile portfolio solution for Teachers and Parents.What is Educa?Educa is a web-based portfolio of a child's growth and development at an early childhood centre. It allows parents and early childhood teachers to share a child's journey and gain valuable feedback.Who is Educa for?Educa is specifically designed for early childhood education centres, teachers and parents. It is built with recommendations from early childhood teachers and parents.Why use Educa?- Educa saves money! Significantly reduces colour printing costs, saves on non-contact time and requires no investment in expensive IT hardware systems, Educa has proven to be a cost-effective solution for early childhood centres.- Educa saves time! Beautifully designed and easy to use, teachers can get their work done in half the time. Parents give feedback as soon as stories, photos and videos are available, no more chasing for the profile books.- Educa makes families happy! With Educa, parents are more engaged and connected with their children's learning. More family involvement leads to more feedback, which leads to better quality education.- Secure data: All of your children's data is securely stored in a 24/7 monitored data centre and all traffic is encrypted with SSL - the same security banks use - so you know your data is safe.IMPORTANT NOTICE: To be able to use this app, you need to have an existing Educa account. This account is provided to you by your Early Childhood Centre.",
+    "reviews": [
+      {
+        "timestampMsec": "1362651640973",
+        "starRating": "2",
+        "title": "Could be better",
+        "comment": "Is this meant to be a cut down version of what I can see on the PC web version? I seem to be missing many stories on the android version. Also have you considered sorting/filtering by child or centre? I have children in >1 centre and a have got a very jumbled timeline. Also would be nice to be able to swipe between full size images rather than returning to story and selecting next image. I will stick to PC version for now.",
+        "commentId": "gp:AOqpTOHKKEAow7U3PXlU_CpcpZFLddP_N-z0OUa1lT54Ck1yzetH6ufzCueboCpNt1VLkwURDHqXWLfkRwacGQ",
+        "author": "Moira Stewart",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363038813012",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "Good app for seeing whats happening at daycare.",
+        "commentId": "gp:AOqpTOEK7gpDDQkaBrmS2PhgB4EhtVsIgVuUyfUypRlzvS2YxyNkHxCx0nEs-4uKeYTqn0gdyadbrlRfnCcsfA",
+        "author": "Katrina Bellamy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354737582326",
+        "starRating": "4",
+        "title": "Great start.",
+        "comment": "I personally found the website to clunky - eg not remembering logon info and PDFs/photos/stories being displayed inconsistently (might be in part due to how my daycare uploads stories). This app solves some of that and is now my preferred way of accessing Educa. Above average because it exceeded expectation, but otherwise a basic app that is still greatly appreciated.",
+        "commentId": "gp:AOqpTOHUEZGCjQZwqhmrnEosJ4qnYtTn8GClaiijKBi-lzxD7Epo7ujavrL3rsCOC3DLEYR6qBtP4zAm4Z82ww",
+        "author": "Christophe Baudet",
+        "authorURL": "http://lh4.googleusercontent.com/-8mN5ypcu_Lw/AAAAAAAAAAI/AAAAAAAAECE/6VrNHGR3oOw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-8mN5ypcu_Lw/AAAAAAAAAAI/AAAAAAAAECE/6VrNHGR3oOw/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

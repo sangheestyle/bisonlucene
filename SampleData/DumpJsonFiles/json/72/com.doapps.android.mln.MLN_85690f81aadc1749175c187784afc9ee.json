@@ -1,0 +1,61 @@
+{
+  "title": "Port Orchard Independent",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_85690f81aadc1749175c187784afc9ee",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "May 16, 2013",
+  "version": "4.5.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "DoApp, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_85690f81aadc1749175c187784afc9ee",
+  "extendedInfo": {
+    "installSize": "5.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Port Orchard Independent is the only news organization (in print and online) that is dedicated to covering Port Orchard and South Kitsap County, WA. And if *you* care about our community, you count on the Independent for local news, opinion, sports and coverage of the arts. Our app brings you everything from our site and more, including: - Our award-winning local and regional news - Send us your news photos or video right from your mobile phone - Sports - Entertainment - Business news - Opinions and letters to the editor - Local blogs - Weather - Traffic - Intuitive, patent-pending navigation - Easy news sharing by e-mail, text message and post to Twitter and Facebook - And moreâ¦ Today, with weekly print publication and daily online updates as part of Sound Publishing Inc., the Independent is committed to keeping South Kitsap households - and, via the Internet, our many friends and family members abroad - up to date on this amazing community around them. Annual special sections highlight local leaders and volunteers, women in business, scholars and athletes, and tourism destinations. If it happens in Port Orchard or South Kitsap, we've got it covered. We care about our community, because you do too.",
+    "reviews": [
+      {
+        "documentVersion": "0.0.2",
+        "timestampMsec": "1346252521968",
+        "starRating": "5",
+        "comment": "Great design easy to use",
+        "commentId": "lg:AOqpTOFUZclRc-Y0WvdA24ZGWUND8k74aHOUSKgyUQOa4p5_AURonH5C2PJm50c1hSWJtjvk8EKBnJY0obJeBQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.8",
+        "timestampMsec": "1318097411416",
+        "starRating": "1",
+        "title": "Not good",
+        "comment": "Will not load news. Get \\\"error loading content\\\"",
+        "commentId": "lg:AOqpTOEvix6dME0UlO-Uc-2ubU-XvlbbDctZw0mBz37IDGt_qPf1LhF4zfwgU0HvM53oD9Pqm-k-1AmbnK1YfA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1288722217060",
+        "starRating": "5",
+        "comment": "Good app, independent just needs more up to date content",
+        "commentId": "lg:AOqpTOGaDIgm4CBwM24BQvWWcRfu2sBgXRJIUs5dLRfNbKugDvE8jdqIv6Ft10etv8Z16_5M3jr9FbBWQsh3rA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

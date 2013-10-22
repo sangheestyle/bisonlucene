@@ -1,0 +1,50 @@
+{
+  "title": "Easy Notepad",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ememo.main",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 14, 2012",
+  "version": "2.0.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "18",
+  "rating": "4.111111",
+  "contentRating": "Everyone",
+  "creator": "postic",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ememo.main",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "* Easy Notepad Application is a simple to use.* You can manage groups of note.* Use the widget you can see groups of note.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.4",
+        "timestampMsec": "1367836893402",
+        "starRating": "2",
+        "title": "Difficult to understand interface",
+        "comment": "Cutesy, but Very complicated interface",
+        "commentId": "gp:AOqpTOFuorT45RB0mcGyye8GaCRYKzXI-qt1NxDDxdOCwk__E8Md_yTnvH-Rn1FdHWd5enTv9e2KsGy0iImfbg",
+        "author": "John Harrison",
+        "authorURL": "http://lh3.googleusercontent.com/-gY7oTjDY4M8/AAAAAAAAAAI/AAAAAAAAAHk/wxBoInQXy4c/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-gY7oTjDY4M8/AAAAAAAAAAI/AAAAAAAAAHk/wxBoInQXy4c/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.2",
+        "timestampMsec": "1323379288476",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Calendar plus notes",
+        "commentId": "lg:AOqpTOFlNphLBgEwqzstZi66Mx1c_laRxXQeqMbuXCchY06uf2zjvaOu0_-_Rlql8e8L8PtSKSqmBsiNjj_xHA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

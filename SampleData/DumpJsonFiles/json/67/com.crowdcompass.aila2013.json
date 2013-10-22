@@ -1,0 +1,38 @@
+{
+  "title": "AILA Annual Conference 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.aila2013",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 10, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.aila2013",
+  "extendedInfo": {
+    "installSize": "3.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The AC App is here to make your conference experience a breeze,we hope you use it as your interactive guide to everything related to the 2013 Annual Conference. This four-day conference, which is the largest gathering of the immigration law community each year, offers a comprehensive educational program and CLE offerings with over 125 substantive sessions. The program includes advanced tracks on business- and family- immigration, criminal consequences, and asylum law, as well as trial skills for immigration attorneys. Speakers come from around the world and from various immigration agencies. You can use the AC App to: -View Detailed Session and Speaker Information -Build Your Own Mobile Conference Schedule -Explore the Hotel and Exhibit Halls with Interactive Maps -Learn About Exhibitors -Take Notes -Submit Your webCLE and webEvaluation -Get Conference Updates -View Speaker BiosApp Keywords: AILA Annual Conference 2013 San Francisco American Immigration Lawyers Association",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.aila2013.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

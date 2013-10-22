@@ -1,0 +1,70 @@
+{
+  "title": "Worcester PD Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ezaxess.icampus.android.worcesterma",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 30, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "6",
+  "rating": "2.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Worcester Police Department",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ezaxess.icampus.android.worcesterma",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "PLEASE NOTE: Due to limits on concurrent connections, the scanner feature could take up to two minutes to start working. This issue will be addressed in the near future.The Worcester Police Department mobile application gives you access to the latest news, updates, alerts, video productions and crime prevention methods.  Serving the second largest city in New England, the men and women of the Worcester Police Department are committed to public safety and ensuring quality of life, through exceptional police services.  As an agency at the forefront of utilizing social media and technological innovation, the Worcester Police Department is proud to present one of the first branded mobile applications for law enforcement on the East Coast. Chief Gary J. Gemme believes in embracing new technology in order to enhance the free flow of information to the public.  Join us in our latest endeavor to provide current and valuable information that can now be accessed in the palm of your hand. Features include:â¢ Scanner: Wondering why the police were in your neighborhood? The live scanner feed will tell you.â¢ Tips: Provide crime tips right from your phone!â¢ Maps: View real-time crime maps of activity occurring in your community.â¢ News: Get the latest news written directly by the Chief, department officers and staff.â¢ Video: Watch videos from our YouTube channel.â¢ Photos: Browse through Worcester Police Department's photo albums.â¢ Alerts: Receive trusted, instant alerts directly from the Worcester Police Department. â¢ Facebook: Keep up to date with the Worcester PD facebook account.â¢ Twitter: Follow Worcester PD's twitter updates.This application is powered by, and was developed in collaboration with MobilePD at http://gomobilepd.com",
+    "reviews": [
+      {
+        "timestampMsec": "1365722058063",
+        "starRating": "4",
+        "title": "Scanner works after 30 seconds",
+        "comment": "Provides news, crime map, scanner, and other useful features.",
+        "commentId": "gp:AOqpTOFJMIiAjHEMFIdoI78ZzIcPL47vDmQq5AP5vR8WRBBMCrZn3lyllHhIhEMI_DvKD-jE-7Qhde6yzOl9",
+        "author": "Tyler Wales",
+        "authorURL": "http://lh4.googleusercontent.com/-w8FDYzSw7DU/AAAAAAAAAAI/AAAAAAAAAhI/IQJLm4wIJ7w/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-w8FDYzSw7DU/AAAAAAAAAAI/AAAAAAAAAhI/IQJLm4wIJ7w/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365471928168",
+        "starRating": "1",
+        "title": "The man is tracking you",
+        "comment": "Hardware controls let\\'s app track you via GPS & record sound through your phone without your knowing. Too invasive! Delete!!",
+        "commentId": "gp:AOqpTOGcKQNWZeWgPbov5drlkrlTgJ6eK2v5WslXSu4FI-iikbqVWTAtBTBps_hR7Eb83ODHHXp_9Lvh_BwU",
+        "author": "Carrie Arbuckle",
+        "authorURL": "http://lh4.googleusercontent.com/-IGSgty3qeCY/AAAAAAAAAAI/AAAAAAAABbY/rsrF5st6tFc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-IGSgty3qeCY/AAAAAAAAAAI/AAAAAAAABbY/rsrF5st6tFc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365457438663",
+        "starRating": "3",
+        "title": "So far ok",
+        "comment": "I know its the first day and I see a lot of potential. The crime map is cool but doesn\\'t give you much info. Scanner not working yet but I\\'m excited",
+        "commentId": "gp:AOqpTOHzFDh04r9zfbljMByDu9kVnelduXh2jIukd1MiNaEkDmeNoqKUPKVjtgUTdNzDjPves4PSS5l6FeGu",
+        "author": "John Santley",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372976896978",
+        "starRating": "2",
+        "title": "Tracks",
+        "comment": "Do not track my location.",
+        "commentId": "gp:AOqpTOGyX06JnTXQBU7G7r-aDJJTAEf4dQUFPbcYn2laVx3oWor2OZqOnQ-h3c1W3aincej8v8vuSSrjQSr_",
+        "author": "Niss Mejia",
+        "authorURL": "http://lh4.googleusercontent.com/-DCV2ihyHkHk/AAAAAAAAAAI/AAAAAAAAAAA/WEJrZd-uxNk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-DCV2ihyHkHk/AAAAAAAAAAI/AAAAAAAAAAA/WEJrZd-uxNk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "eProspector",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.data.ad2action.campaign.eprospector",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 3, 2012",
+  "version": "1.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "ad2action, Inc. (Werner Bro's)",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.data.ad2action.campaign.eprospector",
+  "extendedInfo": {
+    "installSize": "74k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The eprospector mobile app allows you to easily share your marketing campaigns (Landing Pages) with a click of the button. Imagine being able to share a complete marketing message by simply entering an email.  This is the power of the eprospector. When you log into the prospector app. You will be presented with a list of your ad2action.com landing page campaigns with the option to select the campaign of choice and share the campaign. This is done by entering in the email address of the receiver. The app will then send the campaign to the specified email address.",
+    "reviews": [
+      {
+        "timestampMsec": "1347828158282",
+        "starRating": "5",
+        "comment": "Awesome!!!",
+        "commentId": "lg:AOqpTOGbhCVh6IYh_QA8O6uhE8305YqKUC0NAH4T7uRAFK7gxolcxFcAd7vp7r6ypP03pQayyFm7QmkwTUsD4g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

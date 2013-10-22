@@ -1,0 +1,52 @@
+{
+  "title": "Discover Square - Group Share",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.discoversquare.android",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "November 16, 2011",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Discoversquare",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.discoversquare.android",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "The best way to share your in photos and pictures is with group sharing â now available on Android! It's a free, fun, and simple way to make and share gorgeous photos.Share your photos in a simple group sharing with friends to see - and follow your friends' pictures by joining groups. Every day you open up Discover Square, you'll see new photos from your closest friends, and creative people from around the world.Features:â¢ Share photos only with people you want with easy privacy settingsâ¢ Add new people to group or simply make the group public for the world to seeâ¢ Upload your photos to share straight from Android deviceâ¢ Sign up directly from the app or login if you already have an accountâ¢ Full screen photo browsing and slideshows for your pictures inside any groupâ¢ Instant sharing to Facebook, Twitter, Flickr, Email client, and Google Voiceâ¢ Instant Messaging is another of sharing thoughts on a photo or inside groupsGroup Photo Sharing has never been easier, try Discover Square today, and it's free!",
+    "reviews": [
+      {
+        "timestampMsec": "1317406165927",
+        "starRating": "5",
+        "title": "Good start",
+        "comment": "I like it!",
+        "commentId": "lg:AOqpTOH4Qsg0pyfL0IPcUHagjrfmbbragmf8m1iP4XNxtdq5BSZR4tHcaes7P28lTrwp83LCAsikqMcglZu85A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

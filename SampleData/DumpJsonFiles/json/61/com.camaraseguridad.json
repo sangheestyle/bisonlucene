@@ -1,0 +1,32 @@
+{
+  "title": "Security Camera",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.camaraseguridad",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 8, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "LASOFT",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.camaraseguridad",
+  "extendedInfo": {
+    "installSize": "588k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Â¡Convierte tu mÃ³vil en una cÃ¡mara de seguridad! Enciende la aplicaciÃ³n, configura las imÃ¡genes que tomarÃ¡ por minuto y comienza a grabar en segundo plano sin bloquear el uso del movil. PodrÃ¡s revisar las grabaciones posteriormente.Â¡SÃ¡cale partido a tu mÃ³vil!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

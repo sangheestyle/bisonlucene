@@ -1,0 +1,36 @@
+{
+  "title": "Age Monitor - Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.devsign.biz.age.monitor",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 18, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "8",
+  "rating": "4.75",
+  "contentRating": "Everyone",
+  "creator": "DevSign",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.devsign.biz.age.monitor",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Age monitoring beta version        How it worksSimply enter your birth date and it will calculate your age in years, months, days, hours, minutes and seconds then you will see your age counter increasing.The second part of the program gives you a detailed analysis for your age and how you spend it, we focused on three major categories:- Sleeping.- Work.     - Sitting with the family.So when you enter your basic info in the setting screen you will see how much did you sleep, how much did you work, how much did you sit with your family in years, months, days, hours, minutes.",
+    "reviews": [
+      {
+        "timestampMsec": "1360559783684",
+        "starRating": "3",
+        "title": "Still buggy...",
+        "comment": "Discovered issue on first attempt. Setting date to Sept. 5th defaults to Oct. 5th always even after saving and reloading. Works as advertised though. Just subtracted one month from date calculated.",
+        "commentId": "gp:AOqpTOHbFLNSlFtyRBD69Bka2zDAhgGlLXIM-Dia68YErKzKwjnyaYPqU-OOCXaeS-sIX2-jPHOHaQdhpDQUsw",
+        "author": "Brandon Horwath",
+        "authorURL": "http://lh3.googleusercontent.com/-9loafog8ozg/AAAAAAAAAAI/AAAAAAAADOc/IKIlRdyLWf4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-9loafog8ozg/AAAAAAAAAAI/AAAAAAAADOc/IKIlRdyLWf4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

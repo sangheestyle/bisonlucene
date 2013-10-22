@@ -1,0 +1,41 @@
+{
+  "title": "Geo Information Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eleksheep.gim",
+  "category": "Travel & Local",
+  "price": "$2.99",
+  "datePublished": "May 20, 2011",
+  "version": "Ruby",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Low Maturity",
+  "creator": "Elektronik Sheep Productions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eleksheep.gim",
+  "extendedInfo": {
+    "installSize": "881k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "GeoInfoManger(GIM) is a geographic information management tool for Android phones with GPS. GIM will store location information with photos, address and notes. The program allows users to navigate to stored locations and share location information and photos with friends, family or work associates. A GPS tape-measure tool is also provided to measure distance and area. Coordinate conversions are provided for over 60 countries.Navigate to stored locations using the link to Google Navigate. Google Navigate provides turn by turn voice navigation with a map display. Revisit stored locations with Google Street View which allows you to explore street-level views in 360 degrees. Navigation Dashboard gives you bearing, heading, current speed, velocity made good (VMG) and estimated time of arrival. Share information with friends, family or co-workers using Email or SMS. The photo, address and note is added to the email with a google map link so your contact can easily find the location.The GPS Tape-measure feature allows a user to measure the distance or calculate an area with the GPS. Distances are annotated to lines drawn on the map or satellite views. Distances and areas are reported in meter or feet units. Area is shown in Sq Ft and Acres or Sq M and Hectares.GPX (GPS exchange) format is used to save and exchange GPS information. The GPX format is supported by most GPS manufactures. GPX files are available from many sources and can be imported to GIM. GIM provides a coordinate conversion utility and provides grid coordinates throughout the program. Over 60 countries are now supported with additional countries being added in future versions. The Coordinate Conversion Dashboard has easy user interface for coordinate system selection and shows both grid and geographic coordinates. The program will suggest a projection system when a region is selected.",
+    "reviews": [
+      {
+        "timestampMsec": "1315250535192",
+        "starRating": "5",
+        "title": "GREAT! Found what I was lookingo for",
+        "comment": "REALLY NEEDED THIS. An app that records GPS positions with map coordinates. Point DB with photo storage. NAV link bonus.",
+        "commentId": "lg:AOqpTOELTglCgBxQCtmwpN8jjU_WMLVY33HCCWzKP_QZQNzy2tEdYn1ZQ30SmsIHNFFEMjJxavejdsKuaDWJ8g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COURSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

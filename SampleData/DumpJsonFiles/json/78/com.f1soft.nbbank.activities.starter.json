@@ -1,0 +1,31 @@
+{
+  "title": "NB BANK - Mobile/SMS Banking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.f1soft.nbbank.activities.starter",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 3, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "F1soft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.f1soft.nbbank.activities.starter",
+  "extendedInfo": {
+    "installSize": "130k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "NB Bank Mobile/SMS Banking application facilitates our customer to perform convenient, secured and anytime banking to manage their finances from their Android phone.The application is applicable to all the customers having their Nepal Bangladesh Bank accounts with NB Bank Mobile/SMS Banking  Subscriptions.Features available under Mobile/SMS Banking serviceBalance EnquiryMini StatementInformation regarding banking hourCheque book requestStatement RequestForeign exchange rateFund transferNTC Landline bill paymentNTC GSM Postpaid bill paymentNTC ADSL bill paymentNTC GSM prepaid mobile recharge pin requestNTC CDMA prepaid mobile recharge pin request NCell Postpaid (PRO) bill paymentLoad eSewa balanceVaroius merchant paymentSecurity::Your Personal and Financial information will be protected while using this application.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.SEND_SMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

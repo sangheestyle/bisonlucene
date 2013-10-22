@@ -1,0 +1,248 @@
+{
+  "title": "VpnROOT - PPTP - Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.did.vpnroot",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "January 10, 2013",
+  "version": "1.6.6.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "308",
+  "rating": "3.9545455",
+  "contentRating": "Everyone",
+  "creator": "IonutD",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.did.vpnroot",
+  "extendedInfo": {
+    "installSize": "947k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "This application was designed to allow connection of a VPN server without having to use PIN or Pattern Lock-Screen in Android 4.0.The application is also compatible with older versions of Android.To use the VPN service application needs ROOT.* if you like my application, you can donate and you will uprgade to Pro.* posibility to add multiple widgets for vpn server quick connect in Pro version* you can backup and restore vpn servers configuration.* support reconnect on disconnect, manual dns, automatic dns, get dns from vpn server, dns search domains.* possibility to send logs to developer via email* added WakeLock option to keep device awake* added WifiLock option to keep wifi connection alive* added support for Tasker using \"Send Intent\" on servicecom.did.vpnroot.CheckRun using two parameters :  - vpn_server:1..5   - vpn_connect:on/off*  added possibility to select authentication methods :   PAP, CHAP, MSCHAP, MSCHAPv2, EAP* added support for IPv6 (PPPD must be built with IPv6 enabled)* changed the default route push on device that use policy routing for default route",
+    "reviews": [
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1374002318980",
+        "starRating": "1",
+        "title": "Didnt work",
+        "comment": "Native client does not allow default route for some reason. Thought this would do the trick but it simoky does not work on my s4.",
+        "commentId": "gp:AOqpTOGwCypm904J6APZVqTYNNkcmFP2bYlaw-S5NurO6oe3mHfl461tUprnGLH1OljXBVVu6tEz-vdIuUsQNqk",
+        "author": "Mark Mahle",
+        "authorURL": "http://lh6.googleusercontent.com/-Zhh-vFw_kfc/AAAAAAAAAAI/AAAAAAAAADc/sFxyDVhFJZM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Zhh-vFw_kfc/AAAAAAAAAAI/AAAAAAAAADc/sFxyDVhFJZM/photo.jpg"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1362873389695",
+        "starRating": "4",
+        "title": "Works good when you get it setup right",
+        "comment": "Does exactly what I want.  One click on/off VPN for Pandora/Spotify access.  Trick being if you on 4.1.1+ is to use SuperSU instead of Superuser.  Dunno why but it works.  Fixed my connection problems with this and DroidVPN.  Also IPs instead of hostnames always connect faster for me too.  Who has two thumbs up and got lots-o-music now ... this guy :D",
+        "commentId": "gp:AOqpTOHIUzfwWZzyPDFas7hTjpldJayOyG83OzwYr6m9rjuBm439x8VqEls_J8DBm-mXzvIPS2r-Efs04j7fyzI",
+        "author": "Jason Gregory",
+        "authorURL": "http://lh3.googleusercontent.com/-uuoK7XbBMrg/AAAAAAAAAAI/AAAAAAAABGM/u_OMCbOPwTI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-uuoK7XbBMrg/AAAAAAAAAAI/AAAAAAAABGM/u_OMCbOPwTI/photo.jpg"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1363823684384",
+        "starRating": "5",
+        "comment": "Excellent, just what I needed, a simple VPN client",
+        "commentId": "gp:AOqpTOGKWSKqgU4Wp1094FeB0zWq4hrMHmQ_QmlUCwK7bfgtr4MGtRSqIpAKTFti0VEnXO243vWWzK5kek8s-Is",
+        "author": "Rodrigo Molina",
+        "authorURL": "http://lh3.googleusercontent.com/-tBfGkWXt8qU/AAAAAAAAAAI/AAAAAAAAD00/qF6h_9B3N10/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-tBfGkWXt8qU/AAAAAAAAAAI/AAAAAAAAD00/qF6h_9B3N10/photo.jpg"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1358731839711",
+        "starRating": "2",
+        "title": "Worked once",
+        "comment": "Tried contacting dev but email failed to send because it was a spamming address? O well.",
+        "commentId": "lg:AOqpTOH_KUHTNFzWpJm79OPa4Nrb_pGXgn6IzU3L-WdVhVyOBQuADDsfOWqldnlITtlSkiQMAJqTW4dDU6ssd4U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1362591517105",
+        "starRating": "5",
+        "title": "Showing support",
+        "comment": "Love this app. Helps me a lot. I suggested a few features and the Dev not only responded quick he surprised me. Very cool dev",
+        "commentId": "gp:AOqpTOEHaFk9SyNUy3d_6dCZMnX-1j1SNVgde-3aKlebJIrUp-fnMWaa34HIWeKwmxKNo72G3beDGY9PtVjH-tc",
+        "author": "J Goode",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1372367714111",
+        "starRating": "4",
+        "title": "Better than native vpn setup..",
+        "comment": "It\\'s great and serves its purpose, especially useful with the widget.. I use it every day. The one issue I found with it is I have to reset my network off then on again after disconnecting from vpn on any network (3g wifi or ethernet). On galaxy s2, note2, and stock Android tv box (all rooted running jellybean).",
+        "commentId": "gp:AOqpTOEpvqZ4vl5D3AQb8E0vycQGT78idE2OwxfwVvEYPqf6rL_OUV3kholkm6T0Mr0ffO81Rb6cLlqDeCRfnJg",
+        "author": "Trev McNaughton",
+        "authorURL": "http://lh5.googleusercontent.com/-McOf8P26C80/AAAAAAAAAAI/AAAAAAAAA4I/CE0obTCUzWA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-McOf8P26C80/AAAAAAAAAAI/AAAAAAAAA4I/CE0obTCUzWA/photo.jpg"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1366411208067",
+        "starRating": "5",
+        "title": "Great product.",
+        "comment": "Still waiting on my key to be sent though. Been waiting more than a day.",
+        "commentId": "gp:AOqpTOGt3LqVgJ2AoWLxIsYMx5XxCP6_6IA6y2HM-1sa_NEcPuLjJS-6B9gts5XeNQRTYD-BB3NuilNaqi9pCPo",
+        "author": "Mike B",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1362241836296",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "Keep getting a pptp connection is down error even though it works perfectly with the stock client. Got a response from dev but still no luck in making it work",
+        "commentId": "gp:AOqpTOFJLJ52bFm3U-4-kqg91t7l9vaLU4xJLkRD3DUv9LQC1Ke0GqNhdzQAUsvvxCs_RysRMfzkx4ECFinlApE",
+        "author": "Gaby Accad",
+        "authorURL": "http://lh3.googleusercontent.com/-ZUTBSyKVLnw/AAAAAAAAAAI/AAAAAAAACKg/QbLAUZ25-IY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ZUTBSyKVLnw/AAAAAAAAAAI/AAAAAAAACKg/QbLAUZ25-IY/photo.jpg"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1358875329866",
+        "starRating": "3",
+        "title": "In app purchase please",
+        "comment": "Your app is working with astrill vpn . I want to go pro but no paypal please!!! In app purchase and i give you 5",
+        "commentId": "gp:AOqpTOHaDBlV4nEonJnAJ1EMYpHlSojj7MthD0YaXaSmz2WNZ6bNfQgY3RCUil9F4Y8P5AJTqEuO5CAPq0k7-44",
+        "author": "Alexandre Mottier",
+        "authorURL": "http://lh4.googleusercontent.com/-zxUaUjE14zA/AAAAAAAAAAI/AAAAAAAADeU/ozUyTFd1Org/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-zxUaUjE14zA/AAAAAAAAAAI/AAAAAAAADeU/ozUyTFd1Org/photo.jpg"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1360449400930",
+        "starRating": "1",
+        "title": "Doesn\\'t connect",
+        "comment": "Doesnt connect. It works with android\\'s VPN though",
+        "commentId": "gp:AOqpTOFqnPMEg_jLMuItOIEAwvLnYtC-Ixz4ixRZao-cFrGOTB5h14GODVwsSJWw-pe2wx-TGVWyggikglnn4ao",
+        "author": "Johan Olsson",
+        "authorURL": "http://lh5.googleusercontent.com/-gyBjfbfSG5U/AAAAAAAAAAI/AAAAAAAAACs/D35cDq9vd7U/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-gyBjfbfSG5U/AAAAAAAAAAI/AAAAAAAAACs/D35cDq9vd7U/photo.jpg"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1365982907454",
+        "starRating": "5",
+        "title": "id this dont work",
+        "comment": "i found a solution if this is not working for you load this app TUN.ko Installer 1st and install it as some andriod have a vpn bug in it",
+        "commentId": "gp:AOqpTOGJVLsjMxhHNkZGZ3dxh7qCWGIyjuoSVMGo_McSdhM6fb0Xt9Vs55EUe8d1tf9J2soSD6ho0dquUOuldCA",
+        "author": "Rob Gee",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1377559121813",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Simple and flawless, works great.",
+        "commentId": "gp:AOqpTOFzNO2tm3P_6hZB4mjk9n3UXUGG6sA3Z7thTmqACSXOhX--mRJywmQ221GqqMKHUAmydaoSuf5mNAmkN90",
+        "author": "Endre Cseko",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1359022352419",
+        "starRating": "5",
+        "comment": "perfect",
+        "commentId": "gp:AOqpTOGf1kGzJVqB0BfXZ8J07MUiATgz5wH5sxxKk6qYUowtSpudy2Y9hPz5mBM6y4Nwwvx7Dy7k_fn4ix1SXW8",
+        "author": "Amir Mohamadi",
+        "authorURL": "http://lh3.googleusercontent.com/-LLhmhXCLT84/AAAAAAAAAAI/AAAAAAAAALE/GLX45VWMB_M/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-LLhmhXCLT84/AAAAAAAAAAI/AAAAAAAAALE/GLX45VWMB_M/photo.jpg"
+      },
+      {
+        "documentVersion": "6.6.1",
+        "timestampMsec": "1369255310570",
+        "starRating": "5",
+        "title": "Verry nice",
+        "comment": "Works well.",
+        "commentId": "gp:AOqpTOGEn23sXF96tAXw_HMPa2C6nEqjss40wvNaiBf26Q6UuGD-NwiJ2EmzxQ15FX97GrfvmaHA7heJEbHo_nE",
+        "author": "Alex Markessinis",
+        "authorURL": "http://lh3.googleusercontent.com/-aC2TEngbdXc/AAAAAAAAAAI/AAAAAAAAAv8/roaBPSkwuG0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-aC2TEngbdXc/AAAAAAAAAAI/AAAAAAAAAv8/roaBPSkwuG0/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.4",
+        "timestampMsec": "1357312409667",
+        "starRating": "5",
+        "title": "The only PPTP based VPN app that reconnects!",
+        "comment": "As someone who uses a VPN to route all their internet traffic back through my home router for safety\\'s sake I had a heck of a time using a VPN with juice defender. If you loose connection the built in VPN disconnects you and never tried to reconnect or even alert you that it has disconnected. It becomes a tedious PINTA after not too long with the multiple clicks to re-enable every time.   I\\'ve tried all the VPN apps out there, there are some great ones that do reconnect, VPNcilla is great for IPsec and the straight up original open VPN installer and settings never has a problem or has failed me, it has a auto reconnect built in........but very few apps are specifically designed for PPTP and if your running a home VPN that\\'s what it will be. This app is a god send for PPTP users, the widget alone is worth the donation to go pro, truly 1 click VPN connection that can operate side by side with juice defender and reconnect you when juice defender disconnects and reconnects your radio to save power.  This is the only PPTP VPN app you will ever need, period.",
+        "commentId": "gp:AOqpTOEw4Dll_xSQDSKapDrDSY_n1zy1sT5I7GtMFbtWd6di4GdgFw91b_2C_Li-LF8iN2zfvmIlnLhFmPkKGrY",
+        "author": "E. Eric",
+        "authorURL": "http://lh4.googleusercontent.com/-efYsEyTj50k/AAAAAAAAAAI/AAAAAAAAADU/EpmBxzd9K7w/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-efYsEyTj50k/AAAAAAAAAAI/AAAAAAAAADU/EpmBxzd9K7w/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.4",
+        "timestampMsec": "1357429135953",
+        "starRating": "4",
+        "title": "Got PPTP to work",
+        "comment": "I had problems with PPTP and finally got it to work by disabling EAP. Now works great!",
+        "commentId": "gp:AOqpTOFol5E99KLCaLFv31oC7KYn4KGOUgY-HOqYWMROknsVF9Zu5KarcHqBGGmB3fTYpRnjvrZXH3jGoiC10yk",
+        "author": "Andy Wiener",
+        "authorURL": "http://lh5.googleusercontent.com/-dOELZbRM4lQ/AAAAAAAAAAI/AAAAAAAADik/BqgW2SulkxE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-dOELZbRM4lQ/AAAAAAAAAAI/AAAAAAAADik/BqgW2SulkxE/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.4",
+        "timestampMsec": "1357864983521",
+        "starRating": "4",
+        "title": "VPN and no more PIN",
+        "comment": "this software allows VPN without PIN or lock screen. please allow free version to change name of server",
+        "commentId": "lg:AOqpTOH8rS6nhtnmyih73CbUfOdmbPasC6zHpACY8p80NAOFcKTLFSwQ3RErjrmtk2n7mFMWiVA1Qi-oHwEiAxE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.5.4",
+        "timestampMsec": "1355523298060",
+        "starRating": "5",
+        "title": "Lifesaver!",
+        "comment": "Great app.  When I upgraded to ICS my 1VPN broke.  This fixed it.  The widget alone is worth the $.  Thanks!",
+        "commentId": "gp:AOqpTOG6QGEwiKiiI348SAClqt3ZHIsh9SlmPwdS1CgzoidP4BpwSW3cmZr8GGaj0qgHwx8G9jzjdCbwNCCgZxw",
+        "author": "Jeremy Smith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.5.4",
+        "timestampMsec": "1355496699264",
+        "starRating": "5",
+        "title": "Incredible.",
+        "comment": "I had a VPN and I couldn\\'t connect to it with the default android VPN interface (tried on 3 different phones) but this connected very quickly.",
+        "commentId": "gp:AOqpTOEVyVJ_H0ovbvX1iism98MfBmPG3gUyTfmXGVxs0QVVSWOQnd_cB7GGDmbBOq1b2NRISJBBPYuNZqhUqJ4",
+        "author": "Sadra Fadaei",
+        "authorURL": "http://lh3.googleusercontent.com/-RxYs3TeXpmo/AAAAAAAAAAI/AAAAAAAAADc/60qFRNcNykI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-RxYs3TeXpmo/AAAAAAAAAAI/AAAAAAAAADc/60qFRNcNykI/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.4",
+        "timestampMsec": "1357910967945",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Absolutely no complaints at all. Lets me VPN in to my work network and do anything from file transfers to RDP. Just what I wanted!",
+        "commentId": "gp:AOqpTOH-s5g-l8TO6h9rV0M4Wq2BIN17ITLJylEt_uogmLEcBNXEuNTWDdq6casV7E2OOUMBhc7t8aLkRDF4yzw",
+        "author": "Nick Sutrich",
+        "authorURL": "http://lh6.googleusercontent.com/-Yxmpqo6naG0/AAAAAAAAAAI/AAAAAAAAfos/3JZD6OrxZ-8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Yxmpqo6naG0/AAAAAAAAAAI/AAAAAAAAfos/3JZD6OrxZ-8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Let It Flow",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.counter.simplesoft.bigfishgames",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "August 30, 2013",
+  "version": "1.0.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "High Maturity",
+  "creator": "Rondey Solution",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.counter.simplesoft.bigfishgames",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Fit the pipes together and then pump by clicking fast on the gauge.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1375813428150",
+        "starRating": "5",
+        "comment": "Good game",
+        "commentId": "lg:AOqpTOFfsGS-JhhK2EGY0dgADYG8DIFew4GMZUnsFdyfMuPn2C6yAiq3HKfa2pw2Vmxey9wkozSmXsZRyqcJGw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "title": "EvaluationKIT Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evaluationkit.mobile",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 1, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "3.2857144",
+  "contentRating": "Low Maturity",
+  "creator": "EvaluationKIT",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evaluationkit.mobile",
+  "extendedInfo": {
+    "installSize": "246k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "EvaluationKIT Mobileâ¢ makes it simple for students to participate in their institutionâs course evaluation and survey processes.  Note, this app will only work if your institution is a current EvaluationKIT customer, and users are required to insert into the app their EvaluationKIT Mobile User Token, which is provided by your institution.",
+    "reviews": [
+      {
+        "timestampMsec": "1340569860357",
+        "starRating": "4",
+        "title": "So far so good.",
+        "comment": "The token is not something that I\\'m afraid someone else will use it, and it\\'s not my password that I\\'ve memorized it, I\\'m gonna look it up and insert it into the app, so I rather be able to see and check what I\\'ve entered.",
+        "commentId": "lg:AOqpTOEjJRteUTyx0kE3Lo5anCB4WZ2vML444IN3lN-vm_UxecvoQeD1qGIk_uAv6ZuM9dW_fCOUk-dLk6e8IIA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334614131191",
+        "starRating": "1",
+        "title": "Freezes",
+        "comment": "Unchecking enable notifications immediately freezes the app permanently. Restarting it just brings you back to the frozen screen.",
+        "commentId": "lg:AOqpTOF0xt19FF8suowBwOCYpmc_7Q2roCUHQNg8l1Szo-Q7oAKyfjMBdw_YMXaQmjas5btOl3Z07dtMhTpc6Ak",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335505285583",
+        "starRating": "4",
+        "title": "Straightforward",
+        "comment": "Does what it should, but that\\'s it. Needs an auto save feature so that I dont have to start over an evaluation each time I get interrupted.",
+        "commentId": "lg:AOqpTOHgm0pUv9OmRLJHI2OFzDWNzF-hQNzpwpWMIlevNj3VDARjVC1wvWcqMNVxas7956ShEgcsPyStzCBZwhI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375719362245",
+        "starRating": "3",
+        "title": "Works",
+        "comment": "It worked for me. Two things that annoyed me was that it would kind of freeze when you get the token number or whatever submitted and you can\\'t save. It was good, but I uninstalled for the lack of their ability to have a save button.",
+        "commentId": "gp:AOqpTOGkahonkyd4ZAlV5dkn4yM8LQbzRGR3qkRErxqBX989w5oNROENGwZ7OFxX-MwK8cEHtSnzG9n-6QNFYrQ",
+        "author": "Eduardo Ramos",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365442759024",
+        "starRating": "1",
+        "title": "Crashes",
+        "comment": "I never can get to my response rates.  Every time I try the app crashes.  Motorola RAZR HD, Android 4.1.",
+        "commentId": "gp:AOqpTOEPxPT9DXkR0babFiLZ5nBop1cptrHLJxh0aRsay4OWs9AEgese3SWJEXlmg1GVpsQK_LxUnBDGOz6nhb0",
+        "author": "Jim Ahern",
+        "authorURL": "http://lh5.googleusercontent.com/-XPW2cJcT-hY/AAAAAAAAAAI/AAAAAAAACYs/TcjKXvnaxb8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-XPW2cJcT-hY/AAAAAAAAAAI/AAAAAAAACYs/TcjKXvnaxb8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.evaluationkit.mobile.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

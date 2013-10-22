@@ -1,0 +1,38 @@
+{
+  "title": "Gödöllő GUIDE@HAND",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=hu.sztaki.guideathand_godollo",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "June 22, 2013",
+  "version": "4.0.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "MTA SZTAKI",
+  "creatorURL": "https://play.google.com/store/apps/details?id=hu.sztaki.guideathand_godollo",
+  "extendedInfo": {
+    "installSize": "4.0M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Explore the events of Muzej 2013 (MÃºzeumok ÃjszakÃ¡ja / Night of Musemus) in GÃ¶dÃ¶llÅ.GÃ¶dÃ¶llÅ GUIDE@HANDâs full audio sightseeing content, tourist information, map and software is available in English and Hungarian. You can choose the default language when installing GUIDE@HAND to your mobile.EXPLORE WITH OFFLINE MAPYou can also discover the cityâs points of interest on your own, using the âExploreâ tab and our offline city map. Whenever you approach a point of interest your device will automatically provide you with basic relevant information. You can then choose to listen to additional, related stories.TOURIST SERVICES YOU CAN SEARCH AND DISPLAY ON YOUR MAPGUIDE@HAND also helps you choose from a range of handy tourist services near you such as restaurants, bars, shops etc. which you can display on your map.What to gain by getting GUIDE@HAND?INSTALL:By installing GUIDE@HAND, you already have access to our offline city map. Your current location will be indicated on the map and you can easily browse various services (POIs) available in the city. You can set the default language here.ATTENTION: Continued use of GPS running in the background can dramatically decrease battery life. This only applies to pressing the HOME button on the map view.Have fun and enjoy discovering!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "hu.sztaki.guideathand_godollo.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

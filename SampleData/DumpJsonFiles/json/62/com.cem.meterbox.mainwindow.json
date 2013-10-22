@@ -1,0 +1,40 @@
+{
+  "title": "Meterbox iMM Classic",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cem.meterbox.mainwindow",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 5, 2012",
+  "version": "2.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "2.6",
+  "contentRating": "Medium Maturity",
+  "creator": "Meterbox",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cem.meterbox.mainwindow",
+  "extendedInfo": {
+    "installSize": "5.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Meterbox(R) is a kind of smart mobile software for metersâ cloud computing. Using this software, the measured data can be transmitted to smart mobile via Bluetooth. Users can share the meter data with the cloud storage and cloud computing of the metersâ cloud service by a smart mobile. These can satisfy the continuous growing on-demand of business in the mobile internet era, and help users to achieve the functions which other meters canât realize.Features:a. Back Splint of Meters:Meterbox can make the ordinary meters become an industrial high-end meter, realize some functions (status trend capture, remote duty, time measurement, event alarm, etc.) which only high-end meters do. Meanwhile, it makes the complex measuring work like playing games, free and relaxed.b. Friendly User Interface:Provide the meter measuring panel; Display real-time measuring curve; Review historical data; Analyze meter data; Access meter cloud service conveniently, realize the data multipoint sharing and powerful calculation capacity as a mainframe; Powerful function of data export which convenient for different uses measured data.c. Meter Cloud Storage:Provide virtual storage and virtual computing services of the meter on demand. Users can realize the meter data centralized management and multipoint sharing by connecting meter cloud, and can obtain powerful calculation capacity as a mainframe. Manage, share and protect business data safely and properly.d. Meter Cloud Computing:Large number works of computing and storage can be accomplished in meter cloud server, and the user's business computing can be added and deleted through the network, therefore, mobile can break through the limit of software function, computing power, storage capacity to achieve the powerful calculation and storage function as a mainframe.Official website: http://www.cem-instruments.com/Key words: Bluetooth meter; Bluetooth multimeter; Bluetooth; Infrared meter; Thermometer meter; Bluetooth clamp meter; Meterbox; Smartphone meter; Smartphone; Measurements; Cloud meter; Cloud measurement; Meter Cloud",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

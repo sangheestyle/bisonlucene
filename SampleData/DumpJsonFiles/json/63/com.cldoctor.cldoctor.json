@@ -1,0 +1,39 @@
+{
+  "title": "Doctor Spa",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cldoctor.cldoctor",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "August 19, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Angelina",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cldoctor.cldoctor",
+  "extendedInfo": {
+    "installSize": "5.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Challenge the Doctor in town!3 games available block game, puzzle game and memo game.How to Play Block Game:- Change the block so that it can fit each other.. - There is no time limit, but each stage has target points to proceed to next stage.Tips on Scoring:The more blocks you clear, the more score you will get.Features:- You can pause the game and resume later.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.cldoctor.cldoctor.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

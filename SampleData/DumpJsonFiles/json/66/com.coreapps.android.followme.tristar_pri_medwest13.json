@@ -1,0 +1,51 @@
+{
+  "title": "Pri-Med West 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_pri_medwest13",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 26, 2013",
+  "version": "4.2.4.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_pri_medwest13",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Pri-Med West 2013 will be held Wednesday May 1 through Saturday May 4, 2013 at the Anaheim Convention Center in Anaheim. The Pri-Med West 2013 mobile event app helps you navigate the conference, browse educational programming, faculty bios, social media, and more. Choose educational sessions you are interested in attending and add them to your personal itinerary (My Schedule). Plan your time in the Exhibit Hall with the exhibitor directory and create your list of âmust seeâ booths. View maps and access logistical information about the conference that will help you make the most of your time out of the officeâall in one place.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.tristar_pri_medwest13.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

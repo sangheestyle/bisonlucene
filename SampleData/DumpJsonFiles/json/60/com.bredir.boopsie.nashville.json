@@ -1,0 +1,50 @@
+{
+  "title": "Nashville Public Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.nashville",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 2, 2012",
+  "version": "4.5.79",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "4.8",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.nashville",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Get your library on your phone web-enabled mobile device. Search for books. Request books to be sent to you. Renew your borrowed items.Search offers the fastest way to locate books in your library. Just type in the first couple letters of words in the title. To find the book \"A Supposedly Fun Thing I'll Never Do Again,\" type \"sup fun th.\"Browse new books and best sellers, then request to have them await your next library visit. Find the nearest library wherever you are in town using your device's location functions.",
+    "reviews": [
+      {
+        "documentVersion": "4.5.71",
+        "timestampMsec": "1333563222129",
+        "starRating": "5",
+        "title": "Love the Convience",
+        "comment": "This is a very cool & useful app.  I especially like the news and calendar sections in the menu.  I like knowing what\\'s going on at NPL.  Nashville has a great public library system.  The residents of Nashville can really be proud of the facilities & the staff that makeup NPL.   I gave it four stars only because, for some reason, I couldn\\'t login to my library account through the app.  Maybe it\\'s a bug... I don\\'t know.  But I\\'m sure whatever it is, it\\'ll be fixed soon.  Now, if I could only use this app to check books out.  That would be awesome! Edit:  Now I can login!",
+        "commentId": "lg:AOqpTOE76syq36QgYX3qQo4j_E--ZVunQh40y5vFPx9hbVHQ5uW4Cqc1mKHa2F5CL6gQUTWcref3X-UPy4adSA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340253444382",
+        "starRating": "5",
+        "title": "Anita",
+        "comment": "This is a great app. What a wonderful way to stay in touch with events and keep up with all the daily tasks on the go. Well done!",
+        "commentId": "lg:AOqpTOE3Puu-uUL9UNxembDvGb-RxsHKExUE-O3rs3ZFuvTnAGZ68xpw7AX0XsDBSWZbwkrnr0LC9apw_Zi6jw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

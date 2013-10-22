@@ -1,0 +1,68 @@
+{
+  "title": "Explore Seoul Subway map",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exploremetro.sl",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "December 3, 2012",
+  "version": "2.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "37",
+  "rating": "3.8648648",
+  "contentRating": "Low Maturity",
+  "creator": "ExploreMetro",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exploremetro.sl",
+  "extendedInfo": {
+    "installSize": "29M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Seoul's best subway map! Up-to-date with all the metro lines for 2012; Works offline; Routeplanner, GPS, Google Maps; English and Korean included.WHY EXPLOREMETRO?1. Fully up-to-date for 2012Accurate metro map, includes every station on every line. Free updates for future station openings and timetable changes.2. Designed for AndroidSupports all devices running Android 2.2 or higher. Designed to use the latest Android technologies like the Action Bar, HDPI screens and global search.3. Google Maps for every station Need to get your bearings at a station? Integrated Google Maps show you metro exits and nearby streets for every station.4. Route-planner A really easy route-planner. Get route, time and price information for any journey with just three taps. 5. \"Find my nearest station\" Using your GPS, see a list of the closest metro stations to your current location. 6. Works offline Everything works without an Internet connection. Search stations and plan routes on the go.SUGGESTIONSWe'd love to hear your comments and suggestions on ways to improve the app. Please contact us via support@exploremetro.com, as we can't respond to comments left in the reviews.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1339322080322",
+        "starRating": "1",
+        "title": "Will not launch....",
+        "comment": "Had really good experience with ExploreShanghai. So, I thought I would try Seoul, my next stop. Kept getting a forced close.",
+        "commentId": "lg:AOqpTOE2hjpLjXSnaIS4V_Q8EM1tKQX5LlEJJvpbo1oK5A5vZYp8G1Jn3RYUvdkF4UVqdAR8FRi6l_FCM-eG1Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1335698816221",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Thanks very much. Very helpful^^",
+        "commentId": "lg:AOqpTOEz-UvlKmZicEzb1WjvFoZuIbO6O2bKFsvjJESfjlT-5yTkXHUNA2eWTHpBKXejogh0eQf5IUulQa19sg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1336083206864",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "It doesn\\'t work at all.",
+        "commentId": "lg:AOqpTOFQRHkfjZnIH88UMdpszMuoFYpsNf4nBZxkreAY98Ip8IB-zgFdHi-I-qOlUIjAJv02R6IEGAAyQLUX9A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344182027056",
+        "starRating": "5",
+        "title": "Gav",
+        "comment": "Great App!",
+        "commentId": "lg:AOqpTOFRq5IzAOVHcVhHE3TWofg3_1S8VHJOsNshyoQneZEBDWo55JH72lzca-pE739eGpQI0t28v_tlr6dANg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "College Search Guide",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dormmom.collegeguide",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "March 6, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dorm Mom Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dormmom.collegeguide",
+  "extendedInfo": {
+    "installSize": "5.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This application is for anyone across the world looking to enroll in a college or university in the United States. Foreign students, high school students, current college students looking to transfer, parents, the working professional looking to go to grad school will find this application very useful.All information are 100% authentic from the US Department of Education. Some things you could do with the application include:- Searching for colleges by zipcode, city, state and distance.- View colleges around your current geographic location- View details about the top 100 colleges in different categories and the best graduate schools, undergraduate colleges for different majors, community colleges and trade schools. Includes over 3000 colleges and virtually any college in the United States can be found using this application. Information about each college includes:- Address and Mapping - Phone Number, Website- Type of college (private, public, 4-year, 2-year, trade schools)- Degrees Offered- Campus Setting (rural, suburb, large city, etc)- Campus Housing Availability Information- Student population with charts on diversity- Special Learning Opportunities- Religious Affiliation- Credit Accepted- Estimated Student Expenses for three (3) years- Financial Aid Information- Enrollment Information- Admissions- Application Fee- Freshman Retension Rate- Programs and Majors (students in each major)- Varsity Athletic Teams- Accreditation- Campus Security Information for 3-years- Federal Load Default Rates- Videos - User ReviewsYou have the ability to write a review, bookmark a college, and so much more. Browse the college site right from the application and apply for admissions.This application more than delivers and we would be listening for ideas to improve functionality",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

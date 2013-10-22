@@ -1,0 +1,40 @@
+{
+  "title": "KXCast -Enjoy VideoMusic on TV",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudsiva.kx.cast",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "September 9, 2013",
+  "version": "0.2.2",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "KX Player",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudsiva.kx.cast",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The software can change your android device to Apple-Google TV.It's a beta version, We will update new version once a week. Airplay/DLNA Streaming Receiver.KXCastThe easiest way to enjoy local/online video, picture and music on your TV.Sit back, watch togetherWith KXCast, you can easily enjoy your favorite local and online entertainment on your HDTV. Movies, TV shows, music, pictures and more from the Video Apps which sopport DLNA and Airplay on iPhone/iPad/Android Phone/Pad. No more huddling around small screens and tiny speakers. Remote freeKXCast works on your Android devices you already own, including Android SmartTV,Dongle, tablets and smartphones, Browse for what to watch, control playback, and adjust volume using your device. You won't have to learn anything new.Install and playGet started in 3 easy steps: Install KXCast into any Android HDTV/Pad/Phone, connect it to WiFi, then send videos\\Music\\Picture from your smartphone, tablet or laptop(Which support DLNA and Airplay) to your KXCast with the press of a Airplay/DLNA button.User need knowFor android phone user, you can push your video/music/picture to KXCast by KX Player.For iPhone/iPad user, you can push your video/music/picture to KXCast by iOS own Airplay Button.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

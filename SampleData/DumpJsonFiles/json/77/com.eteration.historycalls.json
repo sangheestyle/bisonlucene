@@ -1,0 +1,53 @@
+{
+  "title": "History Calls",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eteration.historycalls",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 30, 2012",
+  "version": "v1.3.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Armador Technologies Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eteration.historycalls",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "What's History Calls?History Calls is an information system prepared by the Fatih Municipality to allow visitors to access historical information on site. This multilingual system has been prepared by experts and covers all monuments on the Historical Peninsula. You can either use it as an audio guide with your cell phone or access it over the Internet. The information is not only categorized by category and district, it also provides you with routes to make visiting the Historical Peninsula a great experience.How to Use the Audio Guide?In order to access the Audio Guide, you call 444 ANIT (444 2648) near a monument. This is a service number and if you are using a local operator, it will be charged as a local call within the operator network. First, you'll be asked to choose your language. After this choice, you'll be asked to enter the three digit code of the monument in front of you. For example if you are next to the Milion, you'll be entering the code 100 and pressing the # key. After that, you'll be presented with a one minute recording about the monument and asked whether you would like to repeat it or listenm to another monument.What is an QR Code?There are symbols on the lower right corner of the informative labels. These are two dimensional barcodes used to identify the monument. These are called Quick Reach (QR) Codes. With cell phones that can run applications, you can read these barcodes. After taking a picture with your phone, the code will be read and you'll be immediately redirectd to a web page that has information about this monument. If you want you can save this information and reach the page later on.Does It Work on My Phone?QR code readers are available for almost all cell phones capable of running applications. Currently brands like Apple, Nokia and Samsung offer more than 450 different phones capable of reading these codes.How to Read?In order to successfully read QR codes you would take picture of the symbol to the right of the informative label. You might not be able to read the code under poor lighting, from improper angles and from a large distance. For best results take a direct picture in front of the label.",
+    "reviews": [
+      {
+        "timestampMsec": "1340321473255",
+        "starRating": "5",
+        "comment": "Excellent",
+        "commentId": "lg:AOqpTOF2w8NSLtm7b2tbFc3NjT8M4kpuYj16kpIdPpWCEQUEDuON_8opc_HrGEFm3cbqFc6fBfsKIx8VBQldFDs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350023001551",
+        "starRating": "1",
+        "title": "Good idea - Horrible implementation",
+        "comment": "Test it before you distribute it... It basically does not work...  ICS 4.0.4",
+        "commentId": "lg:AOqpTOFa2SUg769QcIhpW6momuzBuxNKWgEhy17YTOIMNn0fTTIUgPvDPqDn5RR0TTblEZ9aUr9lSVxtLFCeWKM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

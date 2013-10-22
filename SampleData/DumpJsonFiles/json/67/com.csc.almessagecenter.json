@@ -1,0 +1,80 @@
+{
+  "title": "Agency Link Message Center",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.csc.almessagecenter",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "April 2, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Computer Sciences Corporation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.csc.almessagecenter",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The CSC mobile Message Center provides a registered POINT INÂ® Agency Link agent the ability to exchange messages and photos about an individual policy with the insurance carrier's home office personnel. The messages and photos are retained on the agent's mobile device as well as within the carrier's Agency Link application for later viewing.Features: â Improve your efficiency through this on-the-go communication with an underwriter or other home office staff â Immediately receive a message pushed by the home office to your mobile deviceâ Attach photos taken with your mobile device to your mobile messages  â Access mobile message history for any policy on which you've received messagesâ Retrieve all your messages and photos back in your office through the Message Center in Agency Link",
+    "reviews": [
+      {
+        "timestampMsec": "1364896740619",
+        "starRating": "5",
+        "title": "Aditya",
+        "comment": "Great app..",
+        "commentId": "gp:AOqpTOGhR88e9hLB6Rp1WgtshNCmgPvlr_-CAqZQzi-qjK1wJ9cznn-Tz9DINehMITzBB_45xwKyZ5tErhSGfw",
+        "author": "aditya singh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364893962260",
+        "starRating": "5",
+        "title": "Kapil",
+        "comment": "Great app works very smoothly without any crashes",
+        "commentId": "gp:AOqpTOGUe5fL7-1LW8r1SY_CdYIGYOcg1Eq8cH46r2Y5RotQUOb9yObV5LjVrcuUc64AMAy6NlK9Y-SmqnG7Dg",
+        "author": "Kapil Sharma",
+        "authorURL": "http://lh4.googleusercontent.com/-YImQuf4F21c/AAAAAAAAAAI/AAAAAAAAAAA/1fIwtmfU4zY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-YImQuf4F21c/AAAAAAAAAAI/AAAAAAAAAAA/1fIwtmfU4zY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365586145661",
+        "starRating": "5",
+        "title": "Perfectly works!!",
+        "comment": "Must for every CSCian :)",
+        "commentId": "gp:AOqpTOGM2WeXwdGTzR7sfUCGtTvRcCXCVjaC-iPHkWKGcK5tn7b5YgfwbzJWONL-PK-m9WolmpwspBBiDJqslA",
+        "author": "Karanvir Singh",
+        "authorURL": "http://lh3.googleusercontent.com/-19fowPTKoQ8/AAAAAAAAAAI/AAAAAAAAARY/Dz-3bTZPF04/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-19fowPTKoQ8/AAAAAAAAAAI/AAAAAAAAARY/Dz-3bTZPF04/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_ASSISTED_GPS",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.csc.almessagecenter.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

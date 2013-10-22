@@ -1,0 +1,37 @@
+{
+  "title": "Show music",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bxdm.xiuman.view",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "August 15, 2012",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "4.285714",
+  "contentRating": "Everyone",
+  "creator": "秀漫网",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bxdm.xiuman.view",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The latest intelligent voice player! \" Show me the music - online search massive music behind the platform, set many features in one. New music list, along with your search, specifically for Android users create, more humane experience. [ function ] shining 1 online voice search massive song 2 green province flow, a huge orgasm 3 key cache audition, lyrics, star and picture synchronous display 4 high-definition picture, character beautiful skin as you choose.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

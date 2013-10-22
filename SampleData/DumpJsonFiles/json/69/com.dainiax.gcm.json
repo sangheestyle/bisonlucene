@@ -1,0 +1,51 @@
+{
+  "title": "SkyDater - Alone? Meet someone",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dainiax.gcm",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 18, 2013",
+  "version": "1.21",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "4.428571",
+  "contentRating": "High Maturity",
+  "creator": "Skydis",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dainiax.gcm",
+  "extendedInfo": {
+    "installSize": "201k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Location based datingBrowse members photos by distance!Make your first date via Skype: Get your dates Skype contacts, meet first time online, then decide what to do next.Popularity is spread evenly:Most popular will not be bombarded with too much skype requests. The less popular - receive more skype contacts!Be introduced via this SkyDater app and later have contacts in your regular Skype!--This app and app developers company has no relation to Skype nor Skype, Inc.",
+    "reviews": [
+      {
+        "timestampMsec": "1377018990579",
+        "starRating": "2",
+        "comment": "Need to improve a lot.",
+        "commentId": "gp:AOqpTOGeuN3-Yzlws7XwGdpWqKF_Y6hOMnNzO8V9HrK3MIOzLAN1EswIihFiqa1Vweaa1fhhfz1cnepE0p-wHA",
+        "author": "Claudio Vieira Jr.",
+        "authorURL": "http://lh4.googleusercontent.com/-A-l2p0e_7io/AAAAAAAAAAI/AAAAAAAAANI/7TztPcPMFno/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-A-l2p0e_7io/AAAAAAAAAAI/AAAAAAAAANI/7TztPcPMFno/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373143203852",
+        "starRating": "5",
+        "comment": "# 1 dating app",
+        "commentId": "gp:AOqpTOEqOIXzmWi8eXR_V6HWMNhBDM0QASVswQXwOc8XOgP-GJXdpEoOXCZAZbzpgJ8JHgFUlr0Q7DGVyOwL_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.dainiax.gcm.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Energy Watchdog",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.energylabs.eem",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "November 25, 2012",
+  "version": "2.1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "13",
+  "rating": "4.3076925",
+  "contentRating": "Everyone",
+  "creator": "EnergyLabs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.energylabs.eem",
+  "extendedInfo": {
+    "installSize": "680k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The world is going green, and electricity costs are rising. How would you like a tool that will enable you to check the efficiency of your electrical appliances, and find those that are costing you more than they should. No fancy equipment is required, just your phone and this app.How does it work:- When electricity flows, it generate a magnetic field. The app detects the change in these magnetic fields through the magnetometer/compass in your smartphone. At the moment, we only detect if electricity is flowing or not.- Place your phone in close proximity to the motor of a fridge or at a point of maximum magnetic field dispersion e.g. on the plug or alternatively on the cable. Try different orientation ie vertical horizontal. A narrow bar on the right of the display shows the instantaneous value of the magnetic field to assist with optimum placement. NOTE: Do not place your phone on un-insulated conductors, you will get shocked and may damage your phone!- There are two measurement modes1. Free running 2. Timer based - useful for doing overnight tests of standby consumption.- The power consumption of the appliance needs to be configured - default is 1 kW(Or use the new experimental analogue algorithm to determine how much your appliance is using)- The currency and costs per kilowatt can be configured - currency is auto-detected and the rate is defaulted at $ 0.12/kWH- Due to different board layouts in smartphones and the use of different magnetometers it may be required to adjust the detection settings. There are 2 algorithms available:1. Historical (Default) Default values: Magnetic sensitivity of 0.8, sample depth of 50, and  number of matching samples 20%. 2. Past Average  Default values: Magnetic sensitivity of 5.0, average period of 10 secondsPlease provide us with feedback on what works for you and your smartphone. (duanemck.dev@gmail.com)Use Cases:- Providing information around discretionary and base costs associated with HVAC appliances (Fridge , deep freeze,  heater, hot water cylinder (geyser)) by monitor use and standby consumption.- Support business cases of switching to more efficient and or smaller appliances for example comparing consumption with quarterly costs of highest efficiency fridges on the market- Finding defect of partially defect appliances i.e. permanently on deep freeze not reaching its target temperature- Determining what the cost difference is between taking a shower versus a bathIn effect, you can use your smartphone as a non-intrusive smart meter.Please provide us with feedback. The default settings were tested on an HTC Desire.NOTE: The primary intent of providing the magnetometer on the smart phones is for compass functionality. Compass functionality may have opposing goals to the goals of the energy watchdog. The compass would aim at suppressing of 50Hz mains interference while energy watchdog relies on detecting of 50 Hz signals. The suppression of 50Hz interference may under certain circumstances e.g. temperature variantions reduce the sensitivity of the energy watchdog for detecting mains induced magnetic field changes . in best case scenarios i.e. when measuring on extension plugs that disperse the magnetic field sensitivity of 90 and better has been achieved.",
+    "reviews": [
+      {
+        "documentVersion": "2.1.0",
+        "timestampMsec": "1357320416701",
+        "starRating": "5",
+        "title": "Just Wow! Amazing idea!!",
+        "comment": "The first thing i did after using this app was to rate it 5 star!!!",
+        "commentId": "gp:AOqpTOGdeu60LQg-0FIr902WroYwIP-hUXQd83lLqB1Z6xr0eam2IKCZXqoGLGfLzHTa3OF8N74BQtzndnXvxVQ",
+        "author": "Sachin Jain",
+        "authorURL": "http://lh3.googleusercontent.com/-vFUKFU7WEZY/AAAAAAAAAAI/AAAAAAAAABM/YJz1TeRNwRk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-vFUKFU7WEZY/AAAAAAAAAAI/AAAAAAAAABM/YJz1TeRNwRk/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.0",
+        "timestampMsec": "1378426990130",
+        "starRating": "1",
+        "title": "USELESS CRAP APP",
+        "comment": "This app is as good as the support.  THERE IS NONE ! ! !   I\\'m a patient person and was a Technician for 20+ yrs. This is one of THE WORST NON FUNCTIONAL apps I\\'ve ever used or seen before.   I\\'ve tried contacting the developer but received no responses to my mail.  Don\\'t waste your time with this app or the developer. Neither of them work.",
+        "commentId": "gp:AOqpTOFngJGTAx-iVurWsYI8fFjJt5j97rXGqF72batTJMGdPNx7ciNhG2a4BvtS5zX9_myHzTMXYDDcGF1Eq_A",
+        "author": "Bob Rogers",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.0",
+        "timestampMsec": "1375846297246",
+        "starRating": "2",
+        "title": "Useless.",
+        "comment": "Doesn\\'t detect anything accurately. Is a toy.",
+        "commentId": "gp:AOqpTOEfrMlPSkQLjpgwykR7r1V3Olk1YUNmQrIVKBiwqXRuocmRS9zfBe-TTOQrZ-6KqoRaF-h6GRRrSliVfb0",
+        "author": "Alvin Brinson",
+        "authorURL": "http://lh5.googleusercontent.com/-bLp9qgzu3Uw/AAAAAAAAAAI/AAAAAAAAENw/XsjdN0giIGA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-bLp9qgzu3Uw/AAAAAAAAAAI/AAAAAAAAENw/XsjdN0giIGA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.0",
+        "timestampMsec": "1342268259676",
+        "starRating": "5",
+        "title": "Fridge / Geyser standby comparison - Vodafone 858",
+        "comment": "Used the application to determine the standby power consumption of my fridge and geyser. Now in winter my geyser standby consumption is 6 times the standby consumption of my fridge.  I plan to lower the  geyser temperature and install a geyser blanket and test again.   The app makes one aware of the consumption and running cost of individual HVAC appliances. The ability to measure and compare is likely to motivate more people to improve their energy efficiency.  Keep up the good work!",
+        "commentId": "lg:AOqpTOHbad_ipwQC8KchWGWyBti979oj6Mhb95xUzDeQvcy8ObRqfFyNYhLFOBuOWITRvItPMmxnzkJlOfWtLII",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.9.0",
+        "timestampMsec": "1342730375367",
+        "starRating": "5",
+        "title": "How much does it cost to boil your kettle?",
+        "comment": "I\\'m not sure about the accuracy of the magnetometer on my Nexus S but a quick test with the app at R1.19 per kWh (which I pay according to my monthly utility account in Pretoria / Tshwane) reveals that I could pay as much as 20c to boil the kettle. Am not sure whether that is realistic. A very interesting app indeed!",
+        "commentId": "lg:AOqpTOHWl1QjYiA0ZgTJPQu4DWN-6_kaaEYjp64N7DdMVSLM0gk2GzPOCcB7zl20nBR9GtykNRo-Xo9QLU3eVrs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.9.0",
+        "timestampMsec": "1343067103936",
+        "starRating": "4",
+        "title": "Innovative and usefull",
+        "comment": "Like this tool a lot, calculated how much my fridge costs to run. Found this tool very useful.",
+        "commentId": "lg:AOqpTOFPHmmxFsS0AxFy0D_bj-YQnwog4x8SBl_jZjaZuNX9uMCEUWyuhKDb8knoEUgphOgypxHOm66TGjdhq_o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342367739446",
+        "starRating": "5",
+        "title": "Ha it cool",
+        "comment": "Ut working, but not working with CFL bubble.",
+        "commentId": "lg:AOqpTOF9qS9UwngmndmjENk8BQcvLZeapwbQ1O62C8CPpWeC8SGPdmHz8cVw9qIvEJXyoISEBGA7he97YVZmp9A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

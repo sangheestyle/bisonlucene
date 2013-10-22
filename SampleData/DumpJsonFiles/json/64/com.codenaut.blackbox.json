@@ -1,0 +1,51 @@
+{
+  "title": "SMS Black Box",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codenaut.blackbox",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "November 27, 2012",
+  "version": "1.3.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "16",
+  "rating": "4.5625",
+  "contentRating": "Everyone",
+  "creator": "Codenaut",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codenaut.blackbox",
+  "extendedInfo": {
+    "installSize": "875k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "SMS Black Box- ItÂ´s kind of like Dropbox for your smart phone.- Quick and easy access to all your messages and call logs.IMPORTANT: The Black Box Team does NOT have access to your personal data. We cannot see or edit your data on your SMS Black Box Account.Record your smart phone history to your personal SMS Black Box, - a free and dedicated account for your smart phone history. No ads! Automatic or scheduled backup to the secure SMS Black Box Servers. No need to keep a local backup on your smart phone or SD card.SMS Black Box is a free service* that automatically records the activities on your mobile device. For now, SMS Black Box records your SMS and MMS messages, call logs and contact list real time, then seamlessly transfers the data to your secure and personal SMS Black Box*.You will never lose your important messages if your mobile device fails or if you accidentally delete a message. More importantly, you can always keep track of all your messages as well as call-logs over time and you can perform full-text searches in your messages and call-logs.Features:- Records SMS messages.- Records MMS messages.- Records Call-logs.- Records Contacts.SMS Black Box records all this real time directly to your personal SMS Black Box account on the SMS Black Box Servers*.  SMS Black Box does not need to record and backup your activities locally on to your smart phone or on a SD card and no personal SMS and MMS message backups are sent to your regular e-mail inbox.Why a unique SMS Black Box account for your smart phone history?- A dedicated account for your personal messages and call-logs on the secure SMS Black Box servers.- No need to keep a local backup on your smart phone or SD card.- If your smart phone fails or you lose it, you will still have your recorded activities on the secure SMS Black Box servers.- Your personal content of your smart phone is not sent to a regular e-mail inbox among e-mails and spam.- No ads.Setup a free SMS Black Box account today: - Get SMS Black Box on Google Play on your smart phone.- Sign Up for a free SMS Black Box account.- Done!Access your SMS Black Box from everywhere:- Go to https://smsblackbox.com- View and manage your recorded content of your smart phone on any computer or mobile device.- Done!WeÂ´re working on many more exciting features for SMS Black Box.*SMS Black Box Personal Account has a 5 MB limit.*You can set SMS Black Box to backup your activities to the SMS Black Box servers instantly, every two hours or daily. *SMS Black Box services are securely encrypted to keep your personal information safe. The SMS Black Box team does not have access to your personal SMS Black Box, nor will the team be able to view or edit the content of your personal SMS Black Box.",
+    "reviews": [
+      {
+        "documentVersion": "1.3.1",
+        "timestampMsec": "1363421009145",
+        "starRating": "5",
+        "title": "Help",
+        "comment": "Wits WRONG W APP,  keeps boot me out.",
+        "commentId": "gp:AOqpTOH8IVGd5P2c1QtM5bxQhjrszSqDJ37IH24O6lszi1I1uYW-Q6T6G4na9PZDvF_0ezBsMnLHL7DLrKef",
+        "author": "Mindy Wyer",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348302183072",
+        "starRating": "5",
+        "title": "So awesome I say....",
+        "comment": "A whop bop a lua a whop bam boo!",
+        "commentId": "lg:AOqpTOGqU6PYj2OgZCmHdpF9_H5vgipt74zIqdW9ZZRkjAinZiEPSg26gdm8-GdmeC-4WSmAsQmlOQjsWwA5",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

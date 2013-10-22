@@ -1,0 +1,31 @@
+{
+  "title": "Financial Car Agent",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.espritmobile.financialcaragent",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "February 15, 2013",
+  "version": "1.0",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "SIM MOBILE DEVELOP",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.espritmobile.financialcaragent",
+  "extendedInfo": {
+    "installSize": "14M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Application dÃ©veloppÃ©e par l'Ã©quipe ESPRIT Mobile pendant 48H.L'Ã©quipe de dÃ©veloppement est composÃ©e de 3 Ã©tudiants: Mohamed Amine Haj Ali, Mohamed Khalil Zendah et Youssef Meherzi, et encadrÃ©e par M.Houssem Eddine Lassoued enseignant Ã  ESPRIT.Principe:L'application est destinÃ©e Ã  Ãªtre utilisÃ©e dans un milieu professionnel plus prÃ©cisÃ©ment par un agent d'un Ã©tablissement financier, oÃ¹ ce dernier peut proposer Ã  un client plusieurs type de financement pour acheter un matÃ©riel dans ce cas une voiture.FonctionnalitÃ©s:-AccÃ¨s sÃ©curisÃ© Ã  l'aide d'un mot de passe en utilisant le concept d'un Wheel Picker, et aussi par l'intermÃ©diaire d'un schÃ©ma de verrouillage (Lock Pattern).-Interface principale qui offre 3 services: Nouvelle offre, Trouver une offre et Catalogue-Nouvelle offre: elle propose au client de choisir la marque de la voiture, puis le modÃ¨le Ã  l'aide de deux Carroussel 3D et d'une faÃ§on fluide et conviviale, une fois la voiture est choisie, le pris et plusieurs d'autres informations seront affichÃ©s, le client peut ajouter plus d'option pour la voiture en cochant les cases correspondantes.Une fois le client a pris son choix, il procÃ¨de Ã  la saisie de la durÃ©e du financement de la voiture qu'il a choisi, les durÃ©es possibles sont les suivantes: 24 mois, 36 mois, 48 mois et 60 mois.Par la suite le client peut ajouter des services facultatifs comme l'Assurance et l'EntretienL'agent peut ensuite ajouter les informations concernant le client que se soit une personne physique ou morale.Une fois les informations ont Ã©tÃ© saisies on passe Ã  la synthÃ¨se oÃ¹ on va afficher un rÃ©sumÃ© des informations les plus importantes, et un e-mail sera envoyer au Client qui contient un fichier joint au format PDF contenant les informations de l'offre.-Trouver une offre: Cette fonctionnalitÃ© offre Ã  l'agent la possibilitÃ© de consulter ou modifier une offre dÃ©jÃ  enregistrÃ©e-Catalogue: cette fonction offre la possibilitÃ© de consulter un vrai catalogue 3D de modÃ¨les des voitures disponibles.Les marques existantes dans cette version dÃ©monstrative sont Ã  titre d'exemple: KIA, Citroen, Opel et Peugeot.Mot de passe par dÃ©faut: 12344 ; ModÃ¨le de dÃ©verrouillage par dÃ©faut 1->2->3->5->7*Cette version est destinÃ©e principalement pour les Tablettes 10\" avec une rÃ©solution de 1280 x 800, et fonctionnant sur la version 4.0 ou supÃ©rieure**Pour plus d'information concernant ce produit merci de nous contacter Ã  cette adresse sim.mobiledev@gmail.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

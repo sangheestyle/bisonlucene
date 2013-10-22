@@ -1,0 +1,35 @@
+{
+  "title": "Not Only Car Performance Meter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eventronic.performance",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 9, 2013",
+  "version": "1.0.6",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "11",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Master Timing",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eventronic.performance",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Para coches, motos y cualquier vehÃ­culo.Esta aplicaciÃ³n no es solo un velocÃ­metro.Con esta aplicaciÃ³n usted podrÃ¡ medir las prestaciones reales de un vehÃ­culo, coche o moto. Mediante un sencillo interface, en base a unos pocos parÃ¡metros, podrÃ¡ medir, en tiempo real, las prestaciones dinÃ¡micas del vehÃ­culo. Dispone de un display que monitoriza los parÃ¡metros fÃ­sicos del funcionamiento, mostrÃ¡ndolos mientras se conduce. Los parÃ¡metros que la aplicaciÃ³n mide son:Velocidad instantÃ¡nea, mÃ¡xima y media, con velocÃ­metro analÃ³gico y digital.AceleraciÃ³n instantÃ¡nea y mÃ¡xima.DeceleraciÃ³n mÃ¡xima (potencia de frenado).Potencia instantÃ¡nea y mÃ¡xima, en caballos (HP) a la rueda.Se pueden ir realizando tantos tests como se deseen y quedarÃ¡n almacenados para una posterior revisiÃ³n. Asimismo el programa realiza un track de cada test que luego podrÃ¡ ser visualizado en un mapa, en donde se verÃ¡n los puntos de mÃ¡xima potencia y frenado. Estos datos son especialmente importantes en los tests de circuitos de velocidad, en donde puede usar la aplicaciÃ³n para monitorizar estos datos para poder afinar las prestaciones, como un ayudante a la telemetrÃ­a y poder compararlos con otros participantes.Si es usted aficionado a las motos o a los coches y desea conocer las prestaciones de su vehÃ­culo, esta es su aplicaciÃ³n.La potencia de frenado medida es muy importante para conocer el estado de los frenos y neumÃ¡ticos de un vehÃ­culo, por lo que la puede usar antes de adquirir un vehÃ­culo de ocasiÃ³n.TambiÃ©n puede usarse como monitor en los viajes para poder visualizar los kilÃ³metros, recorrido realizado y las velocidades medias y mÃ¡ximas.Si usted es un profesional, esta aplicaciÃ³n le puede ayudar a medir las prestaciones tanto en vehÃ­culos de calle como de competiciÃ³n.Ante cualquier problema, por favor enviarme un email.Uso:Active primero el GPS.Configure el peso total del vehÃ­culo con pasajeros, tipo y la frecuencia de refresco segÃºn la potencia del terminal. En mÃ³biles de doble nÃºcleo o mÃ¡s, poner el refresco en 500 milisegundos. Grabe los datos y ya estÃ¡ listo para las mediciones de los tests.Con la aplicaciÃ³n PRO (disponible en breve) podrÃ¡ ademÃ¡s exportar los datos en fichero kml para poder importarlos en cualquier navegador o compartir con sus compaÃ±eros, generar un fichero csv de anÃ¡lisis de todas las variables fÃ­sicas con respecto al tiempo, ademÃ¡s de mejoras en el interface y mayor precisiÃ³n.Palabras clave: Velocidad, tacÃ³metro libre, libre velocÃ­metro, tacÃ³metro PRO, grÃ¡fico, historia, medidor de velocidad, mediciÃ³n, mediciÃ³n de la velocidad, V-max, medidor de potencia, medidor de prestaciones, tracking, track, power, car power, potencia del motor, prestaciones",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

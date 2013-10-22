@@ -1,0 +1,66 @@
+{
+  "title": "CoolRom App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "February 20, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "3.625",
+  "contentRating": "Everyone",
+  "creator": "Coqui Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit",
+  "extendedInfo": {
+    "installSize": "795k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Southwire has created this great tool to help electricians, engineers and contractors answer the question, âWhat size conduit do I useâ per the NECÂ®, includes fill percentages and jam probability.  If you do not have the NEC book handy or do not want to spend time manually calculating the Conduit Fill %, this is the right app for you. The app provides quick and easy navigation.  Enter the Conduit Type and Size and specify your conductors.  The App will calculate the Conduit Fill % as per NEC Guidelines.  Southwire Company is North Americaâs leading manufacturer of wire and cable used in the distribution transmission of electricity.  Throughout its history, our company has sought to deliver power through our products, our service and by helping empower our customers, employees and communities. The App Answers the question, âWhat size conduit do I useâ includes fill percentages and jam probability per the NECÂ®.  With one click, you can email your results.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1377177011407",
+        "starRating": "1",
+        "title": "Shuts down after entering diameter",
+        "comment": "Waste of time",
+        "commentId": "gp:AOqpTOE0V54tlfALY0_PexeWXZ9g_m5baEVduu2WrJWOFRhvL23_jfGCCIdfMQHXhC1O6GKNsZWWG1VBZCMAB1k",
+        "author": "Roy Cullipher",
+        "authorURL": "http://lh6.googleusercontent.com/-tM-K6AUz-tw/AAAAAAAAAAI/AAAAAAAAAEI/VkL31Iqof5A/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-tM-K6AUz-tw/AAAAAAAAAAI/AAAAAAAAAEI/VkL31Iqof5A/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360205769432",
+        "starRating": "3",
+        "title": "good simple app",
+        "comment": "This helped me figure 39.1% fill for existing 1\\\" PVC with 4 #8,  3 #10, 8 #12, and 2 #14.  I wish I could enter my wires and have it tell me smallest conduit with less than 40% fill.  As is you must enter conduit and wires, then it will tell you fill %.",
+        "commentId": "gp:AOqpTOGEcJ-eHQ1v3FzhbaERNUflXP5hqUHROnoBnJFgUTCxHVj1NNa1csrmVKUxXkvXBWuyRYni4N3jswkzq9A",
+        "author": "MIke B",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372310423601",
+        "starRating": "4",
+        "title": "Mj",
+        "comment": "Kool",
+        "commentId": "gp:AOqpTOEkouH4R-kRJtUp_8gryJ5J5sXccXgUEnCGpnyFw5pneBMsXI9VKnGWmQaiabyZHneIfU3uoX4_KtgVlos",
+        "author": "Manuel Urbina",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352629821771",
+        "starRating": "5",
+        "title": "South",
+        "comment": "South",
+        "commentId": "lg:AOqpTOGys7neXd1anVeOraDQNkO50NZvT4_9zVGEerDsO4-1w-CWDrenP_nvNgwx1zhHqCZYnoIEAm_MQW1RKXg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

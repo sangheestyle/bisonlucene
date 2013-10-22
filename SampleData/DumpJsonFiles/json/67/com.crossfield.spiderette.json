@@ -1,0 +1,47 @@
+{
+  "title": "Solitaire　Spiderette",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crossfield.spiderette",
+  "category": "Cards & Casino",
+  "price": "Free",
+  "datePublished": "January 9, 2013",
+  "version": "1.1.8.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "65",
+  "rating": "4.0307693",
+  "contentRating": "Everyone",
+  "creator": "Cross Field Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crossfield.spiderette",
+  "extendedInfo": {
+    "installSize": "1,013k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "\"Spiderette\" is the one-deck version of Spider.The first 28 cards are dealt the same way as solitaire game \"Klondike\".The first column should have one face-up card, the second column should have one face-up card and one face down card at the bottom, and so on.Cards in the tableau are built down regardless of suit. Only the top cards of each column can be moved; however, a sequence of cards that are in suit can be moved as one unit.Face-down cards that become exposed are turned face-up and empty column spaces on the tableau are filled by any card. If all possible plays have been made, a new set of seven cards are dealt, provided that each column must contain at least one card. After three such deals, and the game becomes stuck, the three left over cards are dealt on the first three columns.Once a suit sequence of thirteen cards from king down to ace is successfully built, it is discarded from the game. The game is won when four such suit sequences were built and discarded this way.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.6",
+        "timestampMsec": "1331710096112",
+        "starRating": "5",
+        "title": "Ernie\\'s Bird",
+        "comment": "Love the variety!And bonus games rock!",
+        "commentId": "lg:AOqpTOFTwOlG_N_XLAWasP70pM94xa8-0Kwl4LMuOqjEVuzf_RLzC9xjqZSCPbuOAN2fQHBpWSyUdlhtptNIjN8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.4",
+        "timestampMsec": "1326240470439",
+        "starRating": "1",
+        "title": "Crashes",
+        "comment": "Every time I hit the play button, the app cashed...would not recommend.",
+        "commentId": "lg:AOqpTOHtMTolZqgKhyNjMnK4eKEUQgMKHdaKdEwiOcRf10ZF7wcMQa736GXuOaOqTa6X0bx6qjpr3nXRaa82ztg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

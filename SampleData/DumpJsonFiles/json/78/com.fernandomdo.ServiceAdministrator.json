@@ -1,0 +1,54 @@
+{
+  "title": "Service Administrator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fernandomdo.ServiceAdministrator",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "June 26, 2012",
+  "version": "2.2",
+  "operatingSystems": "3.1 and up",
+  "ratingsCount": "4",
+  "rating": "2.5",
+  "contentRating": "High Maturity",
+  "creator": "Luis Montes de Oca",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fernandomdo.ServiceAdministrator",
+  "extendedInfo": {
+    "installSize": "411k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This is an organizer for Jehovah's Witness servants that are in charge of the service areas. Keep track of your service areas through a very easy to use interface.Features:*Keep record of the service areas, including whether or not a service area has been checked out to someone. More features to come, as this is only in its initial stages...This project is open source and I would really appreciate help in programming and translating. Email me if you are interested or visit my website for more information.",
+    "reviews": [
+      {
+        "timestampMsec": "1348312992946",
+        "starRating": "3",
+        "title": "Good start",
+        "comment": "When checking out the territories it does not show the latest borrowers or dates it was checked out. Also settings and export not working. I\\'m liking it so far. Needs a way to list current available territory only.  Keep going!",
+        "commentId": "lg:AOqpTOFHtvL8xu6MaGxnJmAsK1n6n62hBZjD9gVQrL-yRVs8_VqIGeBIwCpk52-jTUtnBMHwj1yl5QdpFHFEzA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339746852743",
+        "starRating": "1",
+        "title": "Needs working on",
+        "comment": "Crashes all the time,also other isues include data being left on the sheet that was edited. Please fix this because the app would be very usefull to me as the Territory servent.",
+        "commentId": "lg:AOqpTOHN1YkRNKnd_u57uUgGwoQfQOdK33Wu6xa4M-lHfPDS1GN6wkAVQzq9hZwpyFfi1-hS2zxxjxW8Qlpcig",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344104625850",
+        "starRating": "2",
+        "title": "Good start",
+        "comment": "Crashes, but keep working on it. I love the idea, the UI is good, and it\\'s simple. When all the bugs are worked out this is going to be very useful.",
+        "commentId": "lg:AOqpTOGyECL7MKntsijON4KARYQ3m1dmrKmMeXfpBAE4hp6kmsNI9EsCagANRJiqZJqZOKlzg7jXoW1BAvm0uw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

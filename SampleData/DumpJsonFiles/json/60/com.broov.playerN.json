@@ -1,0 +1,33 @@
+{
+  "title": "Dolphin Player ARM v7 Neon",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.broov.playerN",
+  "category": "Media & Video",
+  "price": "$5.00",
+  "datePublished": "July 25, 2012",
+  "version": "2.8",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Broov",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.broov.playerN",
+  "extendedInfo": {
+    "installSize": "5.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Dolphin Player is an open source, audio and video player for Android. This version is for ARMV7 + Neon supported Devices. (This version is for top of the line mobile and tablet models like Samsung Galaxy S2, Galaxy S3, Droid Razr MaxX, Droid Razr HD, Tegra3 devices)Known Device List:Asus Eee Pad Transformer Prime, IdeaTab K2 / LePad K2, Acer Iconia Tab A510, Acer Iconia Tab A700, LG Optimus 4X HD, HTC One X, ZTE Era, ASUS Transformer Pad Infinity 700 Series (WiFi-version), ASUS Transformer Pad 300 Series, ZTE PF 100, ZTE T98, Toshiba AT270, Toshiba AT300 (Excite 10), Asus Tablet 610, Samsung Galaxy S2, Galaxy S3, Droid Razr MaxX, Droid Razr HD, Galaxy NoteTrial Version and Previous versions can be downloaded from the below link: http://code.google.com/p/dolphin-player/downloads/detail?name=DolphinPlayer_v7Neon_v2.6.apkPermissions:1. Phone State is read for pausing the Audio and Video when an incoming call is received.2. Internet permission is required for receiving feedback from the User.Features:Supports playing audio files one by one. The same can be set in Settings screen. This feature is very much useful for music bands and stage players.Supports a simple interface to browse audio and video filesNo Advertisements or \"Nagging\" Icons in player screenApplication can be moved to \"SDcard\" from Android 2.2 and above. This can be done inside the \"Manage Applications\" screen, by selecting the Dolphin PlayerSupports most of the subtitle file formats including 'srt' and 'sub'Supports most of the available audio file formats. Files like ogg, flac, flv, wma, are supportedSupports playing \"AVI\" file formats comfortably with subtitlesUnicode subtitle files require font file to be specified in the file browser screen. Subtitles for languages like Chinese, Japanese requires TTF/font file. Copy your unicode supported font file from Windows/Linux to sdcard. Select the same in the file manager of Dolphin PlayerSupports viewing hidden files. Enable the same in Settings screen.Supports intents, audio and video streams. Create a file with the http link with the extension \"astream\" for Audio Stream and \"vstream\" for Video StreamSupports the latest FFmpeg 0.11.1 version.If you have any suggestions or bugs, please send the details of the same to support@broov.in.Known issues:Playing HD files have video lagging issueNote:If you face any problems with the Player, please send those details to support@broov.in It will help us solve the problem at the earliest. Version 2.6Supports languages translations now for English, Spanish, Japanese, Korean, Russian, French, Italian, Vietnamese, Chinese, Indonesian, Thai, Portuguese, German, Arabic and HindiAudio Buffer size is fine tuned for better audio and video playbackFixed - Automatic resume of audio/video after incoming callFixed - Audio clock is set as default.(same as v1.2). Previous versions has Video Clock set as default which was causing audio to play very slow.Seek in large files (> than 2GB) was failing earlier. Is fixed nowSome mkv files had audio missing and is fixed now.Screen dim while playing video is fixed.KW: best audio player video mplayer rockplayer videoplayer ffmpeg mobo moboplayer moboplayer vplayer qqplayer vlc kmplayer mx",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

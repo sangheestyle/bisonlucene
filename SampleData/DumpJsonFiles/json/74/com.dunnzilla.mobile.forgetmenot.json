@@ -1,0 +1,71 @@
+{
+  "title": "Forget Me Not",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dunnzilla.mobile.forgetmenot",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "May 19, 2012",
+  "version": "0.6.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.6",
+  "contentRating": "Everyone",
+  "creator": "Dunnzilla",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dunnzilla.mobile.forgetmenot",
+  "extendedInfo": {
+    "installSize": "260k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Do you have trouble remembering to call your friends and family every so often?  If so, this app is for you!  It will gently remind you once every so many days to call or text the people you choose to remember.It also monitors the numbers of outbound calls, so that if you initiate a call outside of the app, it still knows you called someone you said you would.Permissions?  Here's why it needs what it does:READ_CONTACT: To let you pick a contact.CALL_PHONE: To place a call.PROCESS_OUTGOING_CALLS: To update a Reminder that you have called someone even if you did not initiate the call using this app.INTERNET: For future use, to get status updates and tips of the day.RECEIVE_BOOT_COMPLETED: To start the service upon bootup.GET_TASKS: To determine if the Forget Me Not service is currently running.",
+    "reviews": [
+      {
+        "documentVersion": "0.6.5",
+        "timestampMsec": "1338655285520",
+        "starRating": "3",
+        "title": "Been looking for an app like this",
+        "comment": "Can you add option to measure by  inbound calls and inbound/outbound SMS?  Also, option to track members of groups or categories?  Ie; friends group members are added and  everyone defaults to X days.",
+        "commentId": "lg:AOqpTOEsFPZYlsDsAKhrvre8wJ2wEIZBv2g90I1WQLfU0UWPniFtu3GyoIMw1lPIbdYCSJ6PNbhr2EdQO5lOEFA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.4",
+        "timestampMsec": "1337146578475",
+        "starRating": "5",
+        "title": "Very useful ...",
+        "comment": "... new app.  Looking forward to its future development.",
+        "commentId": "lg:AOqpTOGhlgqHBBMMBvMYjLxGwjujdodFO_HNa49CJwv3ruBwHh-9T90rWX1ajhUCJejKCkRD0f1wIpPbKfCL9TI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.4",
+        "timestampMsec": "1337187554283",
+        "starRating": "5",
+        "title": "Why didn\\'t i think of this!",
+        "comment": "I really like this app.",
+        "commentId": "lg:AOqpTOHSgmcZaGQdrl46Vep4LkFsM-wzjml6hKfeSs3IJj4tTRYWREO8o2T6YQdBojWxctKOzciOB_hGezdW-sk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.4",
+        "timestampMsec": "1337187987318",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "Very useful in keeping up with friends, family and business contacts.",
+        "commentId": "lg:AOqpTOGdHJncwdxbHST-Ha0r90v-U9Y7pkpfkTIfmxinoaavJlPw9d1LodR8Ybxet4E3psqYXnAgWGmMFqUJow0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

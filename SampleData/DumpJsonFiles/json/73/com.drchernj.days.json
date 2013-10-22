@@ -1,0 +1,28 @@
+{
+  "title": "Patient Day",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drchernj.days",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "June 27, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Chernyshkov Evgeny",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drchernj.days",
+  "extendedInfo": {
+    "installSize": "346k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Calculates the number of patients-days spent by the patient in the hospital, as well as for similar calculations.The program performs the basic mathematical manipulation of dates. It can be very useful for fast calculations in the absence of the calendar.It is also possible to set a reminder for a certain number of days. At the same time there are four time for reminders. The multiplicity of reminders can be changed in the settings.Dear users, the program is highly specialized and designed for professional use by physicians and / or needs calculate the difference between two dates. If you do not need it, please do not install the program.The application is available in the following languages:- English- RussianAny suggestions, inquiries, and requests for adding other languages are welcomed by e-mail to drchernj@gmail.com with the \" Android-PatientDay \" mark in the subject line. Please, help us to make the application available in your own language.Keywords: hospital, therapy, neurology, surgery, payment date, subtract dates.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

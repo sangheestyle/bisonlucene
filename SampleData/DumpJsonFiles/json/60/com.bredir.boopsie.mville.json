@@ -1,0 +1,34 @@
+{
+  "title": "Mville College Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.mville",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "September 3, 2011",
+  "version": "4.5.62",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.mville",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mville College Library app lets you find books, articles, media, hours and contact information. Searching the catalog is easy. Type the first few letters such as: Ja au for Jane Austen. And if you have questions, we have answers! Text, email, visit, or phone the library. We can help you - on the run and just in time.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "2013 Securities Industry Inst.",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.sifmasii13",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "February 25, 2013",
+  "version": "4.2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.sifmasii13",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "The Securities Industry InstituteÂ® (SII) is the premier executive development program for securities industry professionals. Now in its 62nd year, the Institute is held each March at The Wharton School of The University of Pennsylvania. The mission of the Institute is to equip each participant with practical information, ideas, and answers directly applicable to their present and future responsibilities.NOTE: The SII 2013 Mobile App is for attendees of the 2013 Securities Industry Institute only. Login information will be provided by SIFMA",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.sifmasii13.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

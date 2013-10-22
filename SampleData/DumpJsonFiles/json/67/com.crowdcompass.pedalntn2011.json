@@ -1,0 +1,37 @@
+{
+  "title": "Pedal Nation PDX Bicycle Show",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.pedalntn2011",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "April 5, 2011",
+  "version": "1.6.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.pedalntn2011",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Bicycles are taking over the Oregon Convention Center April 9 and 10 for the PDX Bicycle Show presented by Drive Less/Save More. There will be LOTâS of fun activities for everyone, plus check out Portlandâs largest display of bicycles, gear and apparel under one roof.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "title": "Java SCJP on Android",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dlss.scjp",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 13, 2013",
+  "version": "1.32",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "115",
+  "rating": "4.347826",
+  "contentRating": "Everyone",
+  "creator": "David Lang",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dlss.scjp",
+  "extendedInfo": {
+    "installSize": "93k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "333 Questions to help study for the SCJP Sun Certified Programmer for Java 6 Exam.Asks a series of multiple choice questions to help study for the SCJP Version 1.6 exam.The questions are displayed in random batches of 10 and a score is given at the end.If a question is answered incorrectly, the correct answer is displayed and explained.  Exam tips are displayed for some of the harder questions.An example question isWhat will be the result of attempting to compile and run the following code? abstract class Base {         abstract void amethod();         static int i; }public class DLSoftwareSolutions extends Base{     public static void main(String argv[]){         int[] dl=new int[10];         for(i=0;i < dl.length;i++)                 System.out.println(dl[i]);    } }OPTIONS1) a sequence of 10 0's will be printed 2) Error: dl is used before it is initialized 3) Error: DLSoftwareSolutions must be declared abstract 4) IndexOutOfBoundes Error ANSWER 3The answer is 3) DLSoftwareSolutions must be declared abstract. A class that contains an abstract method must itself be declared as abstract. Exam Tip---------------------------------------------------abstract methods must be implemented by a subclass, so they must be inheritable.abstract methods cannot be private.abstract methods cannot be final.abstract methods may have parameters, a return type, and optional throws clause, but are not implemented.abstract methods end in a semicolon-no curly braces.A single abstract method in a class means the whole class must be abstract.An abstract class can have both abstract and nonabstract methods.",
+    "reviews": [
+      {
+        "timestampMsec": "1374408074244",
+        "starRating": "4",
+        "title": "Very simple yet useful app.",
+        "comment": "I\\'d recommend this one to get you started, not the ultimate solution though. Would like more questions. 600+ questions would make this app an ultimate solution to crack the exam. Keep it up! :)",
+        "commentId": "gp:AOqpTOGzaNVKj_HX40IdUuhKV01sq_4zubOmVlHUbHlrGcFYeGGqe3XGxdzG5EvfTlyUGLe87fpzR_0jq7cXuQ",
+        "author": "Suraj Bajaj",
+        "authorURL": "http://lh5.googleusercontent.com/-HPfxkNbBw1A/AAAAAAAAAAI/AAAAAAAABXg/ycfeAf6ETxg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-HPfxkNbBw1A/AAAAAAAAAAI/AAAAAAAABXg/ycfeAf6ETxg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375382876301",
+        "starRating": "5",
+        "title": "Thank you!",
+        "comment": "Simple yet delivers what it says. Helped me a lot to clear my ocpjp exam Thank you developers. Cheers!!!",
+        "commentId": "gp:AOqpTOFUCbR_1AjX8bcaIeN5VcAhWedRCLFHGZ9eX_PBIArrwJyZoFBO5LajKpzhjGKiHBeNIxmmac10d4pJ-Q",
+        "author": "Aditya Gaykar",
+        "authorURL": "http://lh3.googleusercontent.com/-YgCVMAoYMZE/AAAAAAAAAAI/AAAAAAAAASg/Ay4kJVeu0vg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-YgCVMAoYMZE/AAAAAAAAAAI/AAAAAAAAASg/Ay4kJVeu0vg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372835886312",
+        "starRating": "5",
+        "comment": "very good collection",
+        "commentId": "gp:AOqpTOF3903bmvm3f9Y1X3n4i3I4xkTXtsZY6qc3Qh113JzwgtyCOXEU1tb_O4AYM_2NGee-Enl_C0pmOgd0BA",
+        "author": "Mahesh Kanse",
+        "authorURL": "http://lh5.googleusercontent.com/-gi3l6qzMIz8/AAAAAAAAAAI/AAAAAAAAIDg/tJl-SRSqIOc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-gi3l6qzMIz8/AAAAAAAAAAI/AAAAAAAAIDg/tJl-SRSqIOc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360793630557",
+        "starRating": "4",
+        "title": "Like it but...",
+        "comment": "Would be even better if showed answer details even if got correct. Also maybe allow list access to all questions to easily get back to question",
+        "commentId": "gp:AOqpTOG2jeNKZHfp5nH9t2552HcS3MaRgutG_p-p52efLS10KtAjBW_ges9ap4q7UweFWEYkUHIEsNr_VEKJIw",
+        "author": "Neil Walker",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352799336474",
+        "starRating": "5",
+        "title": "Correct answers",
+        "comment": "Just beginning to learn java and this is a wonderful tool to learn new concepts.  Might I suggest that the same explanation that is given for incorrect answers also be given when the correct answer is selected.  This way when an answer is \\\"guessed\\\" correctly we can still get the benefit of the explanation.",
+        "commentId": "lg:AOqpTOHz-kJpClsliAgVHCnBTVaKSBGUn4C877QVOerKorHVm5hgAH3ue3EpqhMSrTFQB9ZerHsNgQ14z0BVPg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348245517022",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "But a bit simple",
+        "commentId": "lg:AOqpTOGWDLL_i_NuURBuhak7fhVYB33HXOQlA69waV81uQZwmO-81We0lx3STqNPrXPfPE_hnLCn1ePomliYUQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343275143887",
+        "starRating": "5",
+        "title": "Samsung galaxy S2",
+        "comment": "The best Java app in Android market. Thanks guys. Keep it up.",
+        "commentId": "lg:AOqpTOGBNrP-onvd6o3QMn36tRI2D2re2JM7Es82uDfYtvQIr6K1UGZomX-Qy3RDs6umXlvGq-tOsG-6GfUDhQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347224785966",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "It gives you explanations of the answer that you miss, which is great to learn faster",
+        "commentId": "lg:AOqpTOEi1ylV-akKM12TvTf1mYdjaPLHK9FYFHZgyxwgkDGohqSPgjdOK3xysj7QgU90wi9uwzuAXkuEPuUSwA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337510101639",
+        "starRating": "3",
+        "comment": "Has wrong answers",
+        "commentId": "lg:AOqpTOFFENcPM8_05JMv4i-PO381aReBPkI1iHc_z-N4EXP2j5rm58EM2kqZBrPxcnzNlebeGLkIHThEdhQY9Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331589472448",
+        "starRating": "5",
+        "title": "Best SCJP app out there",
+        "comment": "Fantastic app, has by far the most amount and varied questions of any scjp apps i have tried, and its all free with no adds. Thanks.",
+        "commentId": "lg:AOqpTOHUNive-35MfYeGDtYhaj2vrHZMUpaGRIXzCg9IGawZOV5b7ePciOiUqWyFTG7u53EWWhLoZujuODkgOw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1327958810937",
+        "starRating": "4",
+        "title": "Very practical",
+        "comment": "It\\'s a very practical app. I would really like a flag function in order to report the questions i believe to be erronated.",
+        "commentId": "lg:AOqpTOGn6NYF1TJcZMo8Rweqr3gAJ89yY8TvORRq-xNptbHb5kb3YfBEsLcZ0w33zebd8ZpJFlba_s92f6pvJg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332799102950",
+        "starRating": "5",
+        "comment": "Excellent & challenging !",
+        "commentId": "lg:AOqpTOGDugFlfYAQxrxkh2zuZonzBZ6C9Hkr6pIkS6Zv6v7ZD9Io0OAcfMT1286tshpGnmM2t9nsm1RJna97vQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330420526831",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Love it",
+        "commentId": "lg:AOqpTOFaZGBkza0UC5I5TZvSJuA8ATz2A0UP_dcDFnf9OnxpNzCLgGbZ-Cmq9OiYAxJ8zHwcNlo1_cmVSoBbGQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332661533929",
+        "starRating": "4",
+        "comment": "Nice app..",
+        "commentId": "lg:AOqpTOHLQsrLARkChvv8Gnfd2WQZGRAcjp40YzLtjCiKyhAgYz_WAiOBKOlbAZstNXmKe6Cs8XdEWkPfZzTqRQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329826841535",
+        "starRating": "5",
+        "comment": "Really \\\"awakening\\\" examples",
+        "commentId": "lg:AOqpTOF8tRCyPMmUmOZF6Pw5XPQfZt5DxJuzSDkfvH7dw4St1vxj_U1FX-4d5P_rtGLsDrr9zEGPEVf9I98V2w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1326898135490",
+        "starRating": "5",
+        "title": "HTC",
+        "comment": "Ok",
+        "commentId": "lg:AOqpTOHfEE1RxOKe2yB2drNm712EeXqJK8zWL_bDmZMQqMJ-2n6QnZA6J2pxD1PFnKhYN5q3w5JXETJmcDZfIw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320335884563",
+        "starRating": "4",
+        "title": "Does the job nicely",
+        "comment": "Could use some more feedback on reviewing wrongly answered questions, but for the rest a very nice and useful little app!",
+        "commentId": "lg:AOqpTOF3ls3UnESHnfWK0GLSDqbCm9SWwPP-c09GtmxEeBCtfaHHm4qIhpR2gS-T9xtdV9i6uuBk93i-WkKWjA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320087047379",
+        "starRating": "5",
+        "title": "Does what it\\'s ment to do.",
+        "comment": "Cool thanks.",
+        "commentId": "lg:AOqpTOFt0wbZN_7scnP3ajggFbORw4XoDicWbX1X7nnkQiWZmkJe_WfaMmjhuBA_kCaeTnQPnllYAfZq8Hk8LQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320436822098",
+        "starRating": "1",
+        "comment": "Tem perguntas erradas no meio",
+        "commentId": "lg:AOqpTOFohk-0D32e4LyGN7isHh0yiSwE6e1QC5ZnDW9MId03gH2DMauMmrxyt7T3ix9UNjgFUIWKCLFwA7aJNA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1319463264378",
+        "starRating": "5",
+        "title": "Thanks a million to the dev!",
+        "comment": "Books and this excellent app combined, I managed to pass the exam with 86%. Every candidate should grab this!",
+        "commentId": "lg:AOqpTOEa609rHGM5mKjBAkC2xrjBgNwjN4TTnzWcHnk8LOoFmDnzvbhqTvdt7T7fWQbheQh4ZA90auxTIFs44g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

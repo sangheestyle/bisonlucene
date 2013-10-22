@@ -1,0 +1,31 @@
+{
+  "title": "Chinese Character Test",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clavisinica.chinesetest",
+  "category": "Education",
+  "price": "$0.99",
+  "datePublished": "March 3, 2013",
+  "version": "1.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Clavis Sinica",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clavisinica.chinesetest",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "How many Chinese characters do you know? Take the Chinese Character Test to find out! This app is based on the popular web-based Chinese Character Test applet on the Clavis Sinica website. It estimates the number of characters you know based on a simple character recognition test. For each test item, you're shown a character and then offered a choice of five pinyin pronunciations and five brief English definitions to match with the character. If you get them both pinyin and definition correct, you go on to the next character. If you get either one wrong, you're shown the correct answer along with a list of compound words using the character so you can see how it is used in context. Once you've completed the test, the app estimates the total number of characters you know based on your ability to recognize characters at different levels of difficulty. The app includes test modes at the following levels: Beginner (300 most commonly used characters), Lower Intermediate (800 most commonly used characters), Upper Intermediate (1600), and Advanced (3500). Characters at every level can be displayed in either simplified or traditional form. For more information on how the app calculates your score, please see the Clavis Sinica website (http://www.clavisinica.com/character-test.html).",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.PERSISTENT_ACTIVITY",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

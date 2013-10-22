@@ -1,0 +1,226 @@
+{
+  "title": "CPU Spy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bvalosek.cpuspy",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 1, 2013",
+  "version": "0.4.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3942",
+  "rating": "4.7064943",
+  "contentRating": "Everyone",
+  "creator": "Brandon Valosek",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bvalosek.cpuspy",
+  "extendedInfo": {
+    "installSize": "31k",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "500,000 - 1,000,000",
+    "description": "This is a simple app to display the time the CPU spends in each frequency state. This can be a useful tool in diagnosing battery problems or tweaking your over-clock settings.It also displays the current kernel information.Source: https://github.com/bvalosek/cpuspyXDA Developers thread: http://forum.xda-developers.com/showthread.php?t=1011497",
+    "reviews": [
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1368457414446",
+        "starRating": "5",
+        "title": "Great! Minimalistic and useful!",
+        "comment": "All that is needed is a beautiful looking icon for this amazing application",
+        "commentId": "gp:AOqpTOGSmTpLBsYb8fyErkdW15hzYbZPlJdo-SVpNFI47WKTtWAYlp-d5FO5WR9bycSmKuMKYmx8nAIR2pUFkxo",
+        "author": "Rithul R",
+        "authorURL": "http://lh3.googleusercontent.com/-Z84Lg1Q7t_8/AAAAAAAAAAI/AAAAAAAAESQ/zexrqe0hCNo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Z84Lg1Q7t_8/AAAAAAAAAAI/AAAAAAAAESQ/zexrqe0hCNo/photo.jpg"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1351106465970",
+        "starRating": "3",
+        "title": "Good, but needs to be smarter",
+        "comment": "Is Good, but really needs multiple timers, including ones which reset after each charge cycle.  Also a history and graphing function would be nice.   Not working with latest  CM10 builds for defy",
+        "commentId": "lg:AOqpTOEm-JausaaqQ3-sF9OXpTLT1XXiuOPQ-FCj4nOAheJL7pqJNLlr8jpodaOU5_vc5hDWqKIYlwj6GoEtnTQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1335703685101",
+        "starRating": "5",
+        "title": "Great apps",
+        "comment": "Great way to determine if your phone doesn\\'t go to deep sleep. It always help me figure out the deep sleep issues and to test which kernel is better! Thanks dev. Is their any donate version?",
+        "commentId": "lg:AOqpTOGZd-T1rqs28p2TuXNY2pu0dzuboLIeSMO6UkCdnVXxGgvoYDyJXxGcn8Ybg24xxm6E7rFqZe_vyx6jYm0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1328820907152",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Would be far more useful to me if it reset timers on unplug as my phone doesn\\'t sleep while plugged in. I believe most phones work this way so I\\'m not sure why there isn\\'t an option for it. Other than that, works perfectly. Guess ill keep manually resetting when I\\'m done charging.",
+        "commentId": "lg:AOqpTOGdcG0gUO3hfAUBsLpBHlcMz8TZr5c59wb3glXIy6-R4rMG2cT2Fx6VqtNvzGLvyaiwyK3e3b3aaTYl-3Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1376029374907",
+        "starRating": "4",
+        "title": "Pretty basic.",
+        "comment": "Good information, but could you add the amount of time each core was on for multi core phones and should the current usage? It\\'s helpful if you hotplug.",
+        "commentId": "gp:AOqpTOHMHIw_S_L7orqN5uTtOZuRIp0b2IQfjMdqQp8C3LMMZBFqHB5JLOPttaxbF_DREasf5GlSXsa1KSK7iq8",
+        "author": "Joseph Lewis",
+        "authorURL": "http://lh4.googleusercontent.com/-q7a03YsZEMM/AAAAAAAAAAI/AAAAAAAAACw/t5ApzuJA658/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-q7a03YsZEMM/AAAAAAAAAAI/AAAAAAAAACw/t5ApzuJA658/photo.jpg"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1362898363288",
+        "starRating": "5",
+        "title": "Very useful if you want to monitor your phone",
+        "comment": "You could check your rom\\'s battery profile and performance by how how it stays at deep sleep and peak performance",
+        "commentId": "gp:AOqpTOHUiQm20MU6NokTQZyK4LdDXZi0M5c3D9XmvC97geNvYbw1a3e8JAHAEKf844sp8s0La2kHy4LVhA-90GY",
+        "author": "Cheuk Wa Wong",
+        "authorURL": "http://lh6.googleusercontent.com/-CLu-0jAmPYs/AAAAAAAAAAI/AAAAAAAAABA/VgeunY7ZC6M/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-CLu-0jAmPYs/AAAAAAAAAAI/AAAAAAAAABA/VgeunY7ZC6M/photo.jpg"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1352486027078",
+        "starRating": "1",
+        "title": "No Go",
+        "comment": "This did not work on my T-Mobile HTC Sensation. I am running ICS. Sorry for the 1 star, but not good if it does not work.",
+        "commentId": "lg:AOqpTOEaVRdb34ec-I5ItF8rkmROhYDFE5bh_V84s4ID57O4q7ana8SXks9tdaP7GpmImB2VEvSJAQpG4nIZBNw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1344213784831",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Hekps to check if somethings preventing your cpu from taking deep sleep naps in idle",
+        "commentId": "lg:AOqpTOFPhn6GB_-HmObP6ZWgVabg_qnxY9TgthFHpOckzg6KvbmJ1MCyPYeXvcisNMNLv7PycEmMEpcemyiRdFE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1332151557167",
+        "starRating": "5",
+        "comment": "I don\\'t know why a five stars,but I feel the different in my xperia mini,more faster.thx",
+        "commentId": "lg:AOqpTOFIIViclnji9ubhDQyNQRA_ooDJZDP2hqjI26Uk1uiY3HsbI0WOc0N581Qyc7BuEDn8lI6gDl5f47lKEvs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1325913437897",
+        "starRating": "5",
+        "comment": "Really good application, but it would be nice if can detect application make cpu high",
+        "commentId": "lg:AOqpTOGNpR2RdJjXa3W_fLs-1NtvbXcw6AtcN40LRhH19W5_h2Pdc6HXW7quM0fINFJRHFbNUrcbSCs_461ufO0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1325723721581",
+        "starRating": "5",
+        "title": "Just perfect!",
+        "comment": "Very useful if you want to check if the device idle properly. Very simple and require no additional permissions, love it. Galaxy Nexus & Nexus S",
+        "commentId": "lg:AOqpTOEiHC3gZjopweGSminidDgiekW34Lv0_sFgNb5Xr9h-C4DizSPfhArN2nBi-Q4yUKW0EJlz8Iqplmv6J9k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1333778908494",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "My samsung transform runs 800MHz full speed all day... minus the sleep time...",
+        "commentId": "lg:AOqpTOHz6c0B9RauyZbdcHAURLD-2xhDRjsi58zjmRDk82gRRW9UHtxn-bm-r7vNq73zB28U5U3w3ZEImdX9vU0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1341375227102",
+        "starRating": "5",
+        "title": "So helpful",
+        "comment": "While this app doesn\\'t show much info. The info it does show is priceless. Dunno jo I live without it.",
+        "commentId": "lg:AOqpTOEHcsd3Hhrow767jbEMx5zYye1UXR9F6cQeD6hx7F1zVDaGYtO4Z6aBiygMFb_e-JOBmxZ8GESk6WPOxWg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1351667214522",
+        "starRating": "5",
+        "title": "Excellent..",
+        "comment": "Works great. I can now monitor my battery usage. 3rd day of my lenovo p700i and it still got 25% left. I should give it 6 stars.",
+        "commentId": "lg:AOqpTOGFMH97EgF9w78_ouUYoOsw1-9vHxyhMQjmgw9ZBGq_48j1X25aP3gdKcVo76aCnBRbX4lIOnIS0kN6EH0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1350910378984",
+        "starRating": "5",
+        "comment": "Excellent app - Always installed on my phone to check deep sleep after installing new apps. Thanks dev.",
+        "commentId": "lg:AOqpTOHgfpqTpKzBDew94uhjuoXFZKtpcufAoOk1Tmk7ntBp5F8EuWAgm7FEe9_5H3l8CdEMcCm6sxtC4zk3iCI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1329846223944",
+        "starRating": "3",
+        "title": "Good, but not great",
+        "comment": "Would be far more helpful if it reset the timer automatically after unplugging and reported the level the battery was charged to. Please consider adding these options.",
+        "commentId": "lg:AOqpTOGnD14AaATQ1plCuPWcFV1hEAuHbMBnpGiB3w7wgQmuEthgzRcoeAs8VnMBX-NkrQ79PlD0ymqqjexTd0A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1346177072033",
+        "starRating": "5",
+        "title": "Very Useful",
+        "comment": "It\\'s a wonder Android doesn\\'t give you this information itself.",
+        "commentId": "lg:AOqpTOEAM_Ewgt_TbZJc86qR1x8agROEqGNVvNbuYVrhWpF7qMIJALIt4fchEebu7Jmjy42LlqRoT5n8SHvXj7E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1356763410650",
+        "starRating": "5",
+        "title": "Must have app",
+        "comment": "Now, this is my battery saver. it keeps record of my CPU speeds and lets me choose the best custom kernel.  Extended my battery life almost to double.",
+        "commentId": "gp:AOqpTOGsvsHoK0KFttjM5mtY2lk3qoLCBtwl9gc4maHnA9mpg0Jx-tfLDRZxkJ1INPcR9wpfv_qUddQlPQ_EKv4",
+        "author": "Akhil Gopi",
+        "authorURL": "http://lh6.googleusercontent.com/-vkC_rAvDCNk/AAAAAAAAAAI/AAAAAAAAAD4/Qo9mVeTWSrc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-vkC_rAvDCNk/AAAAAAAAAAI/AAAAAAAAAD4/Qo9mVeTWSrc/photo.jpg"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1338087106878",
+        "starRating": "5",
+        "title": "Very Good",
+        "comment": "If you have battery problems, this app can help you diagnose it. If your phone is off for a few hours it should go into deep sleep for those hours you don\\'t use it. If it does not, you have a problem.  This app will allow you to see that.",
+        "commentId": "lg:AOqpTOECcj3Qg0pXksR8XVT_AldEYhyZ-X1Xv3mCKGRSaGYpOmbzYW8h3UWqkZS1nlEi-WTfCQsOz2lwucg7uMs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.0",
+        "timestampMsec": "1334527828813",
+        "starRating": "5",
+        "title": "Useful",
+        "comment": "Nice little utility. Does what it says and uses the new Holo theme on ICS.",
+        "commentId": "lg:AOqpTOGud8WCqqigMWcOC9B7wv-ug6CR1w7rGbnvpgoa_cfHlMwXAkmDo8yDhQFlM9kXfOnfwSCk4mZAZNOu8go",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

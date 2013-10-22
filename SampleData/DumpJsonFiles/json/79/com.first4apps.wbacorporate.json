@@ -1,0 +1,36 @@
+{
+  "title": "West Bromwich Albion Corporate",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.first4apps.wbacorporate",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 8, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "first4apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.first4apps.wbacorporate",
+  "extendedInfo": {
+    "installSize": "5.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Download the 'OFFICIAL' West Bromwich Albion, Corporate App!Get the inside track on all the Events taking place at the Hawthorns and other venues, from corporate hospitality to end of season awards.The App also provides local businesses with the ability to search and attend the networking events that have become renowned for it's innovative structure, content and cutting edge techniques used in todays business networking.The BBB (Baggies Business Breakfast) is A VIP Networking Club for Senior management , Directors, Managing Directors & Business owners.After the great success of the previous events. We are looking forward to welcome attendees and their guests back to future events. One attendee took a Â£25,000 order from an earlier event. See the great comments in recommendations which confirms that it is the No 1 event to attend.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

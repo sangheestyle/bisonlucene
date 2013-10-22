@@ -1,0 +1,38 @@
+{
+  "title": "Mobile Banker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.mobilebanker",
+  "category": "Finance",
+  "price": "$49.99",
+  "datePublished": "October 8, 2012",
+  "version": "20",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Business Compass LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.mobilebanker",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Mobile Banker is the most comprehensive financial application for investment bankers, MBA students and finance professionals. Key Features: 1. Amortization 2. Bonda. Straight Bondb. Convertible Bondc. Accrued Interest3. Calendar Functiona. Date Add/subtractb. Days/Month/Years between datesc. Day of Week4. Advanced Post-fix Scientific Calculator Calculatora. 20 Basic Arithmetic Operationsb. Ability to specify and perform fractionsc. 3Probability Operationsd. 5 Memory Operationse. 13 Trigonometry operationsf. 7 Statistics functions + data repeatg. Specify significance and precisionh. Simplify mixed fractionsi. Roundingj. Random number generationk. Rectangular to plar and vice versa5. Consumer Finance a. Auto Finance i. Amortization ii. Comparison iii. Lease iv. Lease vs. Buy v. Hybrid Break Even Point Analysis vi. What if analysis b. College Finance i. Amortization ii. Comparison iii. Consolidation iv. What if analysis c. Home Finance i. Amortization ii. Affordability iii. APR iv. Balloon Payment v. Comparison vi. Cost v. Duration vi. Qualification vii. What if analysis 6. Depreciation a. Straight Line b. Accelerated Depreciation - Double Declining c. Sum of Years Digits d. Production or Use e. MACRS 7. Forward & Future a. Commodity b. Currency c. Index d. Forward 8. Interest Rate a.Annuity b. Compound Interest c. Effective Annual Cost (EAC) d. Effective Annual Rate (EAR) e. Nominal/Real Interest Rate f. Perpetuity g. Simple Interest 9. NPV/IRR a. Intervali. Calculate NPV of a series ofcash flowsii. Calculate IRR of a series of cash flow in APR and in Continuous Compounding (CC)iii. Flexible cash flow (CF) timingiv. Flexible discount rates for NPV. Discount rate is carried over if none specified for a CF.v. Accepts CF repetitions.vi. CF starts at non-zero CF timing, if specified.Other wise, CF for IRR starts at 0 and NPV at 1. CF starts at next numberb. Timei. Specify cash flow start timeii. Specify date of occurrance of cash flowiii. Specify cash flow repeat frequency in Month, Quarter, Half-Year, Year.iv. Rest of NPV/IRR - Interval functionality follow.10. Monte Carlo SimulationSimulates prices from the following 4 parameters:a. Trading daysb. Initial valuec. daily averaged. daily standard deviation of prices11. Option a. Equity/Index i. Option Value ii. Greeks iii. Implied Volatility iv. Profitability analysis b. Foreign Currency i. Option Value ii. Greeks iii. Implied Volatility iv. Profitability analysis c. Option On Future i. Option Value ii. Greeks iii. Implied Volatility iv. Profitability analysis 12. T-Bill a. T-Bill Eq - Bond Equivalent Yield of Treasury Bills from settlement date, maturity date ,  and discount rateb. T-Bill Price Returns the price per $100 face value for a Treasury bill from from settlement date, maturity date , (or time to maturity in days, months and years) and discount rate.c. T-Bill Yield 13. Time Value 14. Valuation - APV, Beta Un-lever, Beta Re-Lever, CAPM, WACC, WACC Valuation 14. What if analysis 15. World TimeSelect city and time zone from regionSelect of 600 time zones and 600 cities by regiona. Local time in 242 capitals by regionb. Local time in 50 major citiesc. Save cities, time zones, date input format, country specific display format, base city and base time zoned. Jump to base city and time zonee. Obtain local time, search and convertf. Display in 8 locales16. Yield Curve17. Z-Score & bankruptcy probabilityComputes Z-Score, bankruptcy probability and interprets Z-Score (safe zone, distress zone, gray area) from market value measures.18. What's Related displays related Business Compass LLC apps19. Places call to Business Compass20. Context sensitive help video21. Graphs & Charts22. Save/E-mail Result23. Weather24. News Reader25. Stop Watch",
+    "reviews": [
+      {
+        "timestampMsec": "1290215769993",
+        "starRating": "5",
+        "comment": "Great app. Very useful tool. Works very well on my X10. Excellent response time from the development team.",
+        "commentId": "lg:AOqpTOEemorWbdy3fgf7SzYx5yOURsiG7eA4YkAFZroZsQ6VBouf3k7AzypFVAF1hhSIWYZIOGijHpJ5Nxhsevs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

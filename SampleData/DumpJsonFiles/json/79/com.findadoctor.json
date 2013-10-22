@@ -1,0 +1,40 @@
+{
+  "title": "Find A Doctor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.findadoctor",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "October 26, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Millennium Technology Solutions, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.findadoctor",
+  "extendedInfo": {
+    "installSize": "3.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "FindADoctor is a powerful search app to find the doctor of your choice. Registration is easy and includes several benefits for patient and provider. The app can be used to find a doctor by their name, location or specialty. You can also search by a type of service such as âlasik surgeryâ or âopen MRIâ or search for any type of specialist of your choice. Find A Doctor also provides a secure portal for communication between doctors and their patients. Doctors and patients can freely interact, and all communications are encryptedSearch for doctors and book appointments online for free!Features:- Find a doctor using simple and advanced search- Book an appointment and get appointment reminders- Communicate with your doctor",
+    "reviews": [
+      {
+        "timestampMsec": "1343779532002",
+        "starRating": "1",
+        "title": "Sucks!!!",
+        "comment": "Asks for all your personal info and when you search the app crashes and burns. Shame is that the app would be very useful especially if you could find cash only networks.",
+        "commentId": "lg:AOqpTOENoWZB7ZLI5wy3XNWQrpbDmdWqZkGTuBa8apEuMoq_Mz_XULq3DW7YRSkIbYkbwi7J7M7hCF-SWr4PUWE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

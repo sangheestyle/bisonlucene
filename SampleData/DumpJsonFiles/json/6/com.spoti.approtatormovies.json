@@ -1,0 +1,37 @@
+{
+  "title": "Motion Picture Trailers @SPOTI",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.spoti.approtatormovies",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "May 22, 2013",
+  "version": "1.1.8",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "SPOTI",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.spoti.approtatormovies",
+  "extendedInfo": {
+    "installSize": "707k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "+info: https://twitter.com/approtatorâ High quality trailers and showtime with no advertising.â Optimized for Tablets, TV screens and horizontal layouts in general.â Choose among 9 languages and 11 countries.Compatible with @AppRotator Digital Signage app.Follow us on Twitter: https://twitter.com/approtatorFollow us on Facebook: http://www.facebook.com/groups/approtator",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

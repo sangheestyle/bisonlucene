@@ -1,0 +1,76 @@
+{
+  "title": "Npr Station Finder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.caritos.android.nprstationfinder",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "January 28, 2011",
+  "version": "201101310607",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "13",
+  "rating": "2.2307692",
+  "contentRating": "Low Maturity",
+  "creator": "Caritos Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.caritos.android.nprstationfinder",
+  "extendedInfo": {
+    "installSize": "88k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Npr Station Finder finds the nearest npr stations in your current location.Best on road trips.  Does not require internet access.Homepage: https://bitbucket.org/caritos/nprstationfinder/wiki/Home",
+    "reviews": [
+      {
+        "timestampMsec": "1350283992277",
+        "starRating": "1",
+        "title": "Extremely limited",
+        "comment": "The Locate function is stuck in the DC area.",
+        "commentId": "lg:AOqpTOG4tQFLB9LQhgO8sm1kraeT-xv6eRCAPXWtt3WgxDPUdXW6L0Ms83YndkgW3rCFU5NC2IgJD0QwD_wLWJ8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344824422260",
+        "starRating": "2",
+        "title": "Screenshots not matching",
+        "comment": "I didn\\'t find the maps shown in the screenshots but other than that it finds NPR station based on the location you input (town or zip). Of course there is little advantage to this app when there is an official one.",
+        "commentId": "lg:AOqpTOGfmVHUh1uXzjvSdLdLfyHA1GljonFBoeNAonaF5a2kswq4NKY77cHtiJXbJIN_GU6aaPMcq9JdCRnc058",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357693605880",
+        "starRating": "1",
+        "comment": "Does not work at all. Possibly it is no longer active?",
+        "commentId": "lg:AOqpTOHawIQ-1sUgCHTwAdJTEwlDLoJp-JAH-jm84tGPk31dolyB01mlpQ35-MvhTfovl2t00e9L6FWOyEDcQvo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310650312591",
+        "starRating": "1",
+        "comment": "Completely broken on my Vibrant/Galaxy S. Emailed author but address bounced.",
+        "commentId": "lg:AOqpTOHQcWRL2c-7tJXL0Am94-kATS7iDybydAcE2zm83z1jPrrFmRRJWxa9v2wLNNXa5wATLXKOe0fw6VAzk5A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310902289961",
+        "starRating": "1",
+        "comment": "Useless",
+        "commentId": "lg:AOqpTOEIphS6f_Pg1r1jP8KWu6KbJN5GIos-JuXCdLIS_vC_1vlV_h9GH5lwjSn_9KNEQxR9-ziftudfdUkJeis",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1295838039003",
+        "starRating": "1",
+        "comment": "Doesn\\'t even try to find any stations and shows a list of 7 or 8 random stations.",
+        "commentId": "lg:AOqpTOGrkRAnlQbNTwveMXZJdM3hwEmmjH81e0JcEIN9CZ4jyJ-Z_X9Q3MrnIKRtRbdQHsWbLHo_k132BfKJKJ0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET"
+    ]
+  }
+}

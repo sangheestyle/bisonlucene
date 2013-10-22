@@ -1,0 +1,38 @@
+{
+  "title": "Legal News",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_6df16ef7f80a487780095f6dba1832d4.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "May 1, 2012",
+  "version": "1.5.4.74",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "SNS Analytics",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_6df16ef7f80a487780095f6dba1832d4.app",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "We scour the web to bring you all of the legal news that is happening as it occurs. Plus, you see commentary on social media about the legal events of the day.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.conduit.app_6df16ef7f80a487780095f6dba1832d4.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

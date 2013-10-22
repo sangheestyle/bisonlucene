@@ -1,0 +1,45 @@
+{
+  "title": "Business Insurance Tablet",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crain.businessinsurance",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "July 12, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "2",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Business Insurance",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crain.businessinsurance",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Experience Business Insurance on your tablet. The Business Insurance Android app is free to download and allows you to subscribe to the publication or purchase individual issues. Print subscribers to Business Insurance can access each full print edition on the app at no extra charge. Each interactive tablet issue of Business Insurance offers the full content of the print edition as well as additional video, photography, interactive features, and more. The app also includes a user-friendly toolbar that allows you to e-mail articles, search past issues, bookmark pages, and write and save personal notes. SUBSCRIPTION OPTIONS: â¢ 1-year subscription for $149.99, automatically renewed until canceled â¢ Buy individual issues for $9.99 each â¢ Special issues will also be available for purchase Business Insurance is the authoritative news and information source for executives concerned about risk and the impact on their business. With information for risk managers, benefits managers, insurers, brokers and other providers of insurance products and services, Business Insurance delivers in-depth analysis on new and emerging risks, case studies of successful programs, market intelligence on trends, and guidance on how to capitalize on opportunities and overcome challenges. Business Insurance covers core risk management and insurance areas such as property/casualty insurance, health insurance, captive insurance and other alternative risk transfer vehicles, and enterprise risk management. Business Insurance provides in-depth coverage of specific industries such as health care, construction, transportation and energy. You will also read about the latest trends in specialty risks such as cyber liability, political risk, reputational risk and emerging risks such as green energy and fracking. We also cover workers compensation and a spectrum of topics within employee benefits such as legislative developments and wellness programs. We explore the technology and processes that facilitate the management of risk and the delivery of insurance products and services. Business Insurance covers the operational and strategic concerns of brokers, insurers, reinsurers and consultants for the industry. Delivered in a multi-media mix, including a bi-weekly print magazine, a digital tablet, and daily online and mobile news, Business Insurance helps readers to their jobs better.",
+    "reviews": [
+      {
+        "timestampMsec": "1378465754716",
+        "starRating": "1",
+        "title": "Too big and slow",
+        "comment": "Too big and slow.   Too bad.",
+        "commentId": "gp:AOqpTOF_VAV7NJJuyb9pqYLsPSC42AWKtlsKrQgUBwvqxpKapZKAMA6ShhVl2TcwC5sy0781pATea3C-Dxn_fuI",
+        "author": "John McGillivary",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "com.crain.businessinsurance.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

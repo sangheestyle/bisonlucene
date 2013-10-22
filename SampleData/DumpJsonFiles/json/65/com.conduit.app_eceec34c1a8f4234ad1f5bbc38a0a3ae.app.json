@@ -1,0 +1,44 @@
+{
+  "title": "First Touch: Soccer & the City",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_eceec34c1a8f4234ad1f5bbc38a0a3ae.app",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "July 3, 2013",
+  "version": "1.3.18.388",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "First Touch Magazine",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_eceec34c1a8f4234ad1f5bbc38a0a3ae.app",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "\"First Touch: Soccer and the City\" helps you find somewhere to watch the beautiful game - wherever you are in America! Look for live soccer broadcasts with our comprehensive listing, then use our map to find a bar near you to watch the game. Keep track of live scores and read featured soccer stories from First Touch magazine while you're watching, and listen to First Touch radio on the way home. All in one place - the First Touch app. Listing of live soccer broadcasts: - updated almost every day - TV listings cover all major European and North/South American leagues as well as Champions League, Europa League, Copa Libertadores, Copa America, World Cup, and European Championships - TV listings include Internet feeds such as ESPN3 and FoxSoccer2Go Map of soccer bars: - our curated list of soccer bars highlights genuine soccer-friendly locations - not just generic sports bars - zero in on your location and find the bar closest to you - touch the soccer ball to find more information about each bar Live scores: - updated every minute with scores from all over the world - clean, fast, simple interface - no clutter! First Touch feature stories: - First Touch writers provide regular original content covering English, Italian, Spanish, and American leagues as well as international play - regular competitions and promotions for the soccer fan - test your knowledge in our weekly soccer quiz First Touch radio: - listen to our podcast with news and views about the world's major leagues - exclusive interviews with soccer legends like the Cosmos Shep Messing Brought to you by the USA's most fan-friendly soccer magazine - First Touch.",
+    "reviews": [
+      {
+        "timestampMsec": "1372199184924",
+        "starRating": "5",
+        "comment": "BBNYC",
+        "commentId": "gp:AOqpTOGmxzNTzvybogW4n2MCqjV3okYbQ_4-XflXmcy4sSOHe668Of9mkAPwZw-7sErNSxPLAJmQtxn7LAumjg",
+        "author": "Anthoney Stephens",
+        "authorURL": "http://lh5.googleusercontent.com/-H-eN_JcQ_PU/AAAAAAAAAAI/AAAAAAAAAmc/6Qdw9sUIGpE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-H-eN_JcQ_PU/AAAAAAAAAAI/AAAAAAAAAmc/6Qdw9sUIGpE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_eceec34c1a8f4234ad1f5bbc38a0a3ae.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

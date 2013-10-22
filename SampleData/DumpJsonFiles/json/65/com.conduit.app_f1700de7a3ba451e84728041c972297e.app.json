@@ -1,0 +1,39 @@
+{
+  "title": "Popular Artists",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_f1700de7a3ba451e84728041c972297e.app",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "November 13, 2011",
+  "version": "1.2.18.1735",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Auto-Pilot Biz Coach",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_f1700de7a3ba451e84728041c972297e.app",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Find performances by Rhianna, Beyonce, Lady Gaga, Santana, Led Zepplin and more music and entertainment, when you choose to download this music app. Your pleasure experience starts here. Link up to great performers and enjoy unlimited entertainment.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_f1700de7a3ba451e84728041c972297e.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

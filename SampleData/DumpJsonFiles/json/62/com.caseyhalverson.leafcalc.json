@@ -1,0 +1,36 @@
+{
+  "title": "Nissan LEAF Field Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.caseyhalverson.leafcalc",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "June 19, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Everyone",
+  "creator": "Casey Halverson",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.caseyhalverson.leafcalc",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Ever wondered if you had enough range to make a trip or needed to figure out if it was best to stop for a charge first? Is the Guess-o-Meter driving you nuts? Then this app is for you.It is well known that the Nissan LEAF does not provide enough detailed and accurate information in its actual range and performance. However, by entering in the 120V charge time and your current miles per kilowatt hour, you will get a pretty good idea how much actual range you have left.To find your \"120V charge time\", use the selector on the left side of the instrument panel. And to find your current miles per kilowatt, press the zero emissions button, energy usage, and current miles/kWh economy screen. Be sure to reset and trend often so you get an accurate reading.Please note that if you charge to only 80%, simply tap the 100% before continuing, this will calibrate the calculation to the 80% 120V charge times.Background Info:This field calculator makes use of many detailed calculations and studies on actual power consumption on the Nissan LEAF. It leverages some very well known spreadsheets and charts that have been produced in the past, but available for use in a quick and easy application!  Note that while great attention to detail and accuracy has been made, please use at your own risk. Also, please do not use while driving. Let a passenger run the calculations for you.",
+    "reviews": [
+      {
+        "timestampMsec": "1340989636994",
+        "starRating": "5",
+        "title": "Dave",
+        "comment": "Very easy to use which is good since will probably be used mostly while \\\"on the move\\\"",
+        "commentId": "lg:AOqpTOFUzyOcfV7Cbsjhpc8LyzwYhvX8siESarKleDSIIjTckhCE9p97FyH-aHJRjTa7rvUAvYJwVt9Ct_z5hWk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

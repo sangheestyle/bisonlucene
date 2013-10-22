@@ -1,0 +1,65 @@
+{
+  "title": "C++ Interview Questions",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cppquestions",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "September 1, 2013",
+  "version": "1.8",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7",
+  "rating": "4.857143",
+  "contentRating": "Everyone",
+  "creator": "Java Experience",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cppquestions",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "C++ language Interview Questions application provides you frequently asked interview questions for assistance in the ever green arena of C++ language related jobs. C++ is an object oriented language. Many of the famous software have been created using C++.It was C++ which redefined object oriented programming with its revolutionary concepts like Polymorphism and STL etc. It is stil being used on many platforms.Sample Questions:Q) What is friend function?Ans: As the name suggests, the function acts as a friend to a class. As a friend of a class, it can access its private and protected members. A friend function is not a member of the class. But it must be listed in the class definition. Q) Which recursive sorting technique always makes recursive calls to sort subarrays that are about half size of the original array?Ans: Mergesort always makes recursive calls to sort subarrays that are about half size of the original array, resulting in O(n log n) time. Features:easy to use user interfaceoption to send question/answer to email/dropbox/sms etc.If you have any complaint/suggestion regarding this application, do contact us at http://www.javaexperience.com/contact-us",
+    "reviews": [
+      {
+        "timestampMsec": "1378390297068",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "Very good",
+        "commentId": "gp:AOqpTOGIOQ1cFYJ3WO7Vu3KUAuYokHtUwA7bVeTRaO1pM-ePMtzi2wtyD43_59GfWFxQQUOMea3pxBPqbPBVHg",
+        "author": "Val Arry",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376912990763",
+        "starRating": "5",
+        "comment": "great",
+        "commentId": "gp:AOqpTOHrC8-jlTGHD7PNc9NcU5eOuwbQU4LrtexQBLD9iAm_kqL3gO0NccWSC3Ja35rzpkrAmjPnk9k17QziRQ",
+        "author": "Jayesh Umre",
+        "authorURL": "http://lh6.googleusercontent.com/-3mt2N9ZgmIk/AAAAAAAAAAI/AAAAAAAAAAA/45I9-hLwKbg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-3mt2N9ZgmIk/AAAAAAAAAAI/AAAAAAAAAAA/45I9-hLwKbg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368020072765",
+        "starRating": "5",
+        "title": "Good application",
+        "comment": "helps me a lot during viva....",
+        "commentId": "gp:AOqpTOHNEv0mlUvt8b5KiN2tDnoABsvN-GddxyEhnqb3JWu45p1BNpheCbdCPhIh7FA-czdhi2FklzmM8oEp0g",
+        "author": "sylesh waran",
+        "authorURL": "http://lh5.googleusercontent.com/-_Y6a3TKXfUY/AAAAAAAAAAI/AAAAAAAAEXo/Tj2tvm3Ri24/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-_Y6a3TKXfUY/AAAAAAAAAAI/AAAAAAAAEXo/Tj2tvm3Ri24/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366674582199",
+        "starRating": "4",
+        "title": "Nice",
+        "comment": "Its a good app for brushing up the knowledge.",
+        "commentId": "gp:AOqpTOGYx0HdfaKw0QtcwkdYj3ZXtakVSIEcy4tTQUpmRk67q6emKSrneZ9bUhyQobzb9Y78Mhou0LpxCI_ktQ",
+        "author": "Abhishek Mishra",
+        "authorURL": "http://lh3.googleusercontent.com/-oRI1KliUqpA/AAAAAAAAAAI/AAAAAAAACeo/Cuhp_MdZ99U/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-oRI1KliUqpA/AAAAAAAAAAI/AAAAAAAACeo/Cuhp_MdZ99U/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

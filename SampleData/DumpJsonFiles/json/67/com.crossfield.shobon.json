@@ -1,0 +1,37 @@
+{
+  "title": "shobon shooter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crossfield.shobon",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "December 5, 2011",
+  "version": "1.2.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "9",
+  "rating": "3.3333333",
+  "contentRating": "Everyone",
+  "creator": "Cross Field Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crossfield.shobon",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "\"shobon shooter\" is a shooting game which is using stick key and tap action.Dodge the attack of enemies, and destroy all of them!-Gameplay-Player moves by manipulating the stick in the bottom left and fired a bullet towards the tap location!Player switches the mode of weapon by pressing \"red\", \"blue\", or \"green\" button in the bottom right.Red weapon's mode: fire a bullet towards the tap location.Blue weapon's mode: put a shield to reflects enemy bullets in the direction you tap.Green weapon's mode: put a shield to recover the player's hit point by absorbing enemy bullets in the direction you tap.Gauge is decremented each time using each mode.Player can't use the mode when the gauge is empty, and the weapon's mode is shiftted to red weapon's mode automatically.The guage of red weapon's mode will be replenished at regular intervals.-Item-When player destroy a enemy, the enemy leaves an item at random.There are some items which replenish the guage of red weapon's mode, repair the guage of blue and green weapon's mode, or being Complete the missions successfully to take advantage of those items!This game has international and domestic ranking. Can you put your name on the leaderboard also?",
+    "reviews": [
+      {
+        "timestampMsec": "1356257393847",
+        "starRating": "3",
+        "title": "What IS that thing??",
+        "comment": "What is it? Is it an animal?",
+        "commentId": "gp:AOqpTOFi6Q9Lf1cLT-GlOsjoAAUQaqFk2NvfNRwkYxnLDiI6Sb9uhtzc6aHCZGgG1lMA3iIUajjRpmj7Pkzn",
+        "author": "Justine Penny",
+        "authorURL": "http://lh6.googleusercontent.com/-IjwpJIOazmU/AAAAAAAAAAI/AAAAAAAAACE/P8sImqCTLQg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-IjwpJIOazmU/AAAAAAAAAAI/AAAAAAAAACE/P8sImqCTLQg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Subway Tweeter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=jp.juggler.SubwayTweeter",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "May 27, 2011",
+  "version": "0.14",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "16",
+  "rating": "4.375",
+  "contentRating": "Everyone",
+  "creator": "tateisu",
+  "creatorURL": "https://play.google.com/store/apps/details?id=jp.juggler.SubwayTweeter",
+  "extendedInfo": {
+    "installSize": "275k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "this app receives 'share' intent sent from other twitter client, and booking favorite/retweet/reply/RT/QT in app without network connection.and then, you can sync queued action when you find network connection.this is pain medicine for subway commuter they got/loose network connection at short intervals.",
+    "reviews": [
+      {
+        "timestampMsec": "1372063819654",
+        "starRating": "4",
+        "title": "Not able to log in",
+        "comment": "It is very high featured app that can really make tweeting easy and cozy. But I do not able to even log in. It is very sad. Please, please, please fix this. Thank you.",
+        "commentId": "gp:AOqpTOE21DFnv3X29m9XVBXpYoeLurcx9j9-NGnY8J2KVZzQWvq09lj3pv8ZBkMMyevD_GMO3Ru3RJVg0j4cQAQ",
+        "author": "Ankit Patel",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371247826487",
+        "starRating": "4",
+        "title": "Used to work great, now twitter API error 410",
+        "comment": "This used to be the perfect companion for twicca, as I happen to use twitter primarily in the subway and this app perfectly queues all retweets and favorites. But since some days ago it always gives a sync error: twitter API error: 410. I haven\\'t been able to use it anymore (it stills stores tweets, though). Also, this app handles perfectly tweets sent to it by Twicca via twit menu. However, when it receives twits shared by other apps, it can\\'t make any twitter action on them (retweet, favorite, etc). It treats said shared tweets as text, and it can use some of its elements (links, for example), but it can\\'t retweet or favorite, which is what I\\'d really like it to do. I must say that this app is (well, used to be, until it fixes API errors) a must for me. Actually, I don\\'t understand how is it possible that none of the major twitter clients that are around have not implemented such a basic feature (for me) as an action queue in case your internet connection fails. Only TweetDeck had something similar, though too often it ended up force-closing the app.",
+        "commentId": "gp:AOqpTOHB4nkAfs743OugQsg5s2ft2MgstFnTEl_9Sr0de8dQZMs5OHY1Ymtt-VtD91C8HZLufxqAC744ee9X5DA",
+        "author": "Nestort Ura Illa",
+        "authorURL": "http://lh3.googleusercontent.com/-G1ETyw6U0is/AAAAAAAAAAI/AAAAAAAAAC4/tsH8vdBRpkg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-G1ETyw6U0is/AAAAAAAAAAI/AAAAAAAAAC4/tsH8vdBRpkg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1338952630192",
+        "starRating": "4",
+        "comment": "\\351\\233\\273\\346\\263\\242\\347\\212\\266\\346\\263\\201\\343\\202\\222\\346\\260\\227\\343\\201\\253\\343\\201\\233\\343\\201\\232\\343\\203\\204\\343\\202\\244\\343\\203\\274\\343\\203\\210\\343\\201\\247\\343\\201\\215\\343\\202\\213\\343\\201\\256\\343\\201\\257\\344\\276\\277\\345\\210\\251\\343\\201\\247\\343\\201\\231\\343\\200\\202\\343\\201\\237\\343\\201\\217\\343\\201\\225\\343\\202\\223\\343\\202\\255\\343\\203\\245\\343\\203\\274\\343\\201\\253\\345\\205\\245\\343\\202\\214\\343\\201\\246\\343\\202\\213\\343\\201\\250\\343\\203\\211\\343\\202\\253\\343\\203\\211\\343\\202\\253\\343\\201\\243\\343\\201\\250\\351\\200\\243\\347\\266\\232\\343\\203\\204\\343\\202\\244\\343\\203\\274\\343\\203\\210\\343\\201\\227\\343\\201\\246\\343\\201\\227\\343\\201\\276\\343\\201\\206\\343\\201\\256\\343\\201\\247\\351\\226\\223\\351\\232\\224\\343\\202\\222\\347\\275\\256\\343\\201\\204\\343\\201\\246\\343\\203\\204\\343\\202\\244\\343\\203\\274\\343\\203\\210\\343\\201\\247\\343\\201\\215\\343\\202\\214\\343\\201\\260\\344\\276\\277\\345\\210\\251\\343\\201\\240\\343\\201\\250\\346\\200\\235\\343\\201\\204\\343\\201\\276\\343\\201\\231\\343\\200\\202",
+        "commentId": "lg:AOqpTOHEWGjbEd6PxAKzbFAAGLgBNPQGZYLRv5thEUx0MaCVRPWt25JQ6fLBQZGP3_mp5oB2EEhf5bL-g-r9IgQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

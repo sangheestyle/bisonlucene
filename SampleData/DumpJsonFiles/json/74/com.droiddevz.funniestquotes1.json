@@ -1,0 +1,40 @@
+{
+  "title": "The Funniest Quotes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droiddevz.funniestquotes1",
+  "category": "Comics",
+  "price": "Free",
+  "datePublished": "October 21, 2012",
+  "version": "1.13",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "12",
+  "rating": "3.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Droid Devz",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droiddevz.funniestquotes1",
+  "extendedInfo": {
+    "installSize": "273k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "A large collection of some of the funniest quotes, along with the person being quoted.Use and memorize and be the life of the party while rhyming off hilarious lines!Get one of the funniest quotes from the entire internet!tags/keywords: quotes, funny quotes, funniest quotes, quote famous, famous quotes, web's funniest quotes, quote collection, quote list, random quote",
+    "reviews": [
+      {
+        "timestampMsec": "1345628284635",
+        "starRating": "1",
+        "comment": "It sucks, they arent even funny there mean. And the app freezes.",
+        "commentId": "lg:AOqpTOG-EoTihLA7YkVUYLYJpe1Q7jz3ez6LUR6caojDheH2h8GYZeL2bclhjwUNVPB9Tn1iRzvSgKb3PfyyCJM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

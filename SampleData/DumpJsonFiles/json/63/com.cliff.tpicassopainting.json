@@ -1,0 +1,48 @@
+{
+  "title": "Pablo Picasso Painting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cliff.tpicassopainting",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "October 18, 2012",
+  "version": "1.5",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "3.2",
+  "contentRating": "High Maturity",
+  "creator": "Time2Relax",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cliff.tpicassopainting",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Pablo Ruiz Picasso (25 October 1881 â 8 April 1973) was a Spanish painter, draughtsman, and sculptor who lived most of his life in France. He is widely known for co-founding the Cubist movement and for the wide variety of styles that he helped develop and explore. Among his most famous works are the proto-Cubist Les Demoiselles d'Avignon (1907) and Guernica (1937), a portrayal of the German bombing of Guernica during the Spanish Civil War.Picasso demonstrated extraordinary artistic talent in his early years, painting in a realistic manner through his childhood and adolescence; during the first decade of the 20th century his style changed as he experimented with different theories, techniques, and ideas. His revolutionary artistic accomplishments brought him universal renown and immense fortune, making him one of the best-known figures in 20th century art.",
+    "reviews": [
+      {
+        "timestampMsec": "1346793519985",
+        "starRating": "1",
+        "title": "Nice app",
+        "comment": "Shows all the great works.",
+        "commentId": "lg:AOqpTOFuwitzRa1UrBc7jqTNlydFeXQ_MxVKiwyLuG4ObJei3lzPTF13soK5NzcEO1rmw1shJ57zpQkkBVyP",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Flying Phone",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.etne.flyingPhone",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "May 16, 2013",
+  "version": "1.1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.8333335",
+  "contentRating": "Medium Maturity",
+  "creator": "ETNE Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.etne.flyingPhone",
+  "extendedInfo": {
+    "installSize": "339k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "If you want to test your strength and ability 'Flying phone' is the right App for you.Have you ever throw something up in the air (your phone, for instance) and then you have asked to yourself: what height have I reach? what could you see up there? could I throw it higher?'Flying phone'  measures the length of a throw of your phone up in the air using the Accelerometer, records the video of the throw using camera and microphone and saves it to your phone, so you can review your best shots when you want and show them to your friends. It also records a graphic of the throw where you can see the exact moment of the throw and the catch of the phone, total time in the air, total height, etc...Who is stronger? Who is more brave? Who made the prettier throw? Now you can know it.It's VERY important to catch the phone in the air before it reaches the floor. If the phone hits the floor, the throw will not be usable. And maybe the phone will be not usable either.If you want my advice, test the app with small throws, and when you fill confident you can start with higher throws. ALWAYS keep this in mind: Is more important to catch the phone safely than to throw it.In some devices the video recording does not work pretty well, but you still can watch the graphic and the throw data.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

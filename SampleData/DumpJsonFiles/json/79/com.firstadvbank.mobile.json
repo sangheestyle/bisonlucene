@@ -1,0 +1,65 @@
+{
+  "title": "First Advantage Bank Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.firstadvbank.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 1, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.firstadvbank.mobile",
+  "extendedInfo": {
+    "installSize": "675k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The First Advantage Mobile Banking app puts everyday banking tasks at your fingertips. You can check your account balances, view your recent activity and more!Itâs fast, itâs secure andâbest of allâitâs free. All you need is a First Advantage Online Banking account.â¢Check balances, search transaction history, and move money between your First Advantage accounts â¢Use your phoneâs GPS to find the ATM and Banking Center nearest youHow to get startedâ¢Mobile Banking is free from First Advantage Bank (but your mobile carrier's message and data rates may apply) â¢Use the same username and password that you do for Online BankingHow youâre protectedâ¢We never store personal or account information on your phoneâ¢All transactions are encrypted with the same secure technology as Online Bankingâ¢The login process is the same as in Online Banking, with your same authentication image and phrase used as an added layer of protectionMember FDIC | Equal Housing Lender",
+    "reviews": [
+      {
+        "documentVersion": "2.5.19",
+        "timestampMsec": "1358903652843",
+        "starRating": "4",
+        "title": "Great start",
+        "comment": "Totally grateful to have the app... Just a few suggestions: a 4 digit pin for logging in, instead of a full password, and some sort of alert options (like every transaction, or transaction over certain amount, or low balance alert). Please and thank you.",
+        "commentId": "gp:AOqpTOHh67E6w8hE1Gy-RC9IYU2Nh1d1bfZjf0y-lFG7iu_kX-vQhr8t3cgA7ZSr6775DevMf8wfcT8U1G7-XQ",
+        "author": "Shawna Lowe",
+        "authorURL": "http://lh4.googleusercontent.com/-6TPVIYgU9LA/AAAAAAAAAAI/AAAAAAAAAGQ/jq0mgIT3jG0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-6TPVIYgU9LA/AAAAAAAAAAI/AAAAAAAAAGQ/jq0mgIT3jG0/photo.jpg"
+      },
+      {
+        "documentVersion": "2.5.19",
+        "timestampMsec": "1358986184644",
+        "starRating": "5",
+        "title": "Permissions?",
+        "comment": "Needs permission to use the camera?",
+        "commentId": "gp:AOqpTOH7Jkd7g5jLmO3m97_4npEMTAu88H74NXELCCOpXLWUZJfbfGjSOD8-cMXQv1lbsTT_7HGX6xHoxvD1Kg",
+        "author": "Raymond Holden",
+        "authorURL": "http://lh6.googleusercontent.com/-EM4ERglXTyE/AAAAAAAAAAI/AAAAAAAACb4/Mfvsl7o32pg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-EM4ERglXTyE/AAAAAAAAAAI/AAAAAAAACb4/Mfvsl7o32pg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358884100023",
+        "starRating": "5",
+        "title": "About time!!",
+        "comment": "Thank you!! Works great so far.",
+        "commentId": "gp:AOqpTOENQ5_SYJWwe8JqaDlshU9d8Z57Y_dIGbPFBeatFCfmGOXd4b_OhDgwv1xvm6zwnka7gySSMJHsS4abPQ",
+        "author": "danny lowe",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

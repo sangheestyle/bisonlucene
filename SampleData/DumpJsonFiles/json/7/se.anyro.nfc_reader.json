@@ -1,0 +1,219 @@
+{
+  "title": "NFC Reader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=se.anyro.nfc_reader",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "July 5, 2013",
+  "version": "0.13",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "144",
+  "rating": "3.3541667",
+  "contentRating": "Everyone",
+  "creator": "Adam Nybäck",
+  "creatorURL": "https://play.google.com/store/apps/details?id=se.anyro.nfc_reader",
+  "extendedInfo": {
+    "installSize": "246k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Simple app for reading various tags (NDEF, RFID, FeliCa, ISO 14443, etc) using NFC (Near Field Communication).The app also supports basic NDEF Push (Android Beam) for people who don't have any tag to read but happen to have two NFC enabled phones.The source code of this app is published at https://github.com/nadam/nfc-reader.",
+    "reviews": [
+      {
+        "timestampMsec": "1377051097769",
+        "starRating": "1",
+        "title": "Not working for Nexus 4",
+        "comment": "Enough said. Beeps but doesn\\'t show anything.",
+        "commentId": "gp:AOqpTOHeUZOQJKGM5dQuY9rsa8tjTQbN5QM9NZJSJZrVi2ZVN21sGm8WFoeWXbSb_RyBqLJiA3_F7_RVzcEL0Tw",
+        "author": "Rodrigo Cavalheiro",
+        "authorURL": "http://lh3.googleusercontent.com/-m37T_uRA0YI/AAAAAAAAAAI/AAAAAAAAFak/RL0k3HJbQN4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-m37T_uRA0YI/AAAAAAAAAAI/AAAAAAAAFak/RL0k3HJbQN4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373790844140",
+        "starRating": "1",
+        "comment": "Does not work at all. The phone bleeps but no Read data is displayed.",
+        "commentId": "gp:AOqpTOGNM-40BYeuXOcxSM4rhxqqxZc2WMVOyZScblbvMoxLBK6KHDpqnwXEAukRGFUB0uLLMA6sIIlJYcc1e3o",
+        "author": "Radek W",
+        "authorURL": "http://lh5.googleusercontent.com/-FFCePgEouZM/AAAAAAAAAAI/AAAAAAAALNc/93_IFeUH62E/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-FFCePgEouZM/AAAAAAAAAAI/AAAAAAAALNc/93_IFeUH62E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373121144141",
+        "starRating": "5",
+        "title": "Thanks for the source!",
+        "comment": "I am a beginning Android developer and really appreciate your posting a link to the source code!",
+        "commentId": "gp:AOqpTOFln8F5XhMH-z1xbKnbBdgsDB16trpJUIB0u8X0P0UdzZtnc2jvaqLN5y_hPFJl-5WksTDWMT3M-2zSI_w",
+        "author": "Ollie Ready",
+        "authorURL": "http://lh3.googleusercontent.com/-DcHtddjNXK4/AAAAAAAAAAI/AAAAAAAAAMU/ut9Xe3gc4Bc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-DcHtddjNXK4/AAAAAAAAAAI/AAAAAAAAAMU/ut9Xe3gc4Bc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376176863120",
+        "starRating": "5",
+        "title": "Works fine",
+        "comment": "If you\\'re phone sucks, be mad at yourself.",
+        "commentId": "gp:AOqpTOEPp8fjlnsWkjI-HX-9Pr_GGm17Xw59QGX0cFRPe4Slr_YcSiIB1KUNDqd45Q6Ao9-cWhcZ1ccjq1V1Tiw",
+        "author": "Brandon Thompson",
+        "authorURL": "http://lh6.googleusercontent.com/-lUnw6R7hHPE/AAAAAAAAAAI/AAAAAAAAAUo/77-jrkseevM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-lUnw6R7hHPE/AAAAAAAAAAI/AAAAAAAAAUo/77-jrkseevM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376159136026",
+        "starRating": "1",
+        "title": "Not working for me",
+        "comment": "Not working on versus tablet, app opens then just closes again",
+        "commentId": "gp:AOqpTOHcWLjwBaSDlu0D1LGSMvF4XIEk1-b2HNjfbeZXtdE8Rf2VXvIo5bJsj02yg_q1nHKEWfBRjZhfoNtzzzY",
+        "author": "anthony quinn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374752893606",
+        "starRating": "1",
+        "title": "Doesn\\'t work.",
+        "comment": "I have 3 different nfc tags. Didn\\'t work on all 3x.  Reply: Nfc task launcher detects them for some reason. The tags came from items that I purchased. I even restarted the phone just in case.. kind of frustrating because I wanted something simple like this app...",
+        "commentId": "gp:AOqpTOF4aQlPOrI11zs11nwFnfuWz1uqvsp7V6Ptmz7AcW7gLdkJ57dqZVcuRBcJ4Y6IPJw9R_Y95vWMqRKAxc8",
+        "author": "Massimiliano Cacciamani",
+        "authorURL": "http://lh6.googleusercontent.com/-vqJfT2aHjwM/AAAAAAAAAAI/AAAAAAAAAUw/Iil8ocDIYVU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-vqJfT2aHjwM/AAAAAAAAAAI/AAAAAAAAAUw/Iil8ocDIYVU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375459733859",
+        "starRating": "4",
+        "title": "Does what it says...",
+        "comment": "But i\\'d actually like to see the data on the tag :-)",
+        "commentId": "gp:AOqpTOFiRnSF6HKrEXnrf_kZY6SJkGpEQvKeOx-G_fQHbXxRq8o6PrT08SB-IhaU2lc4-siIaMXs3rLjLr8cRpA",
+        "author": "H Marc Bower",
+        "authorURL": "http://lh6.googleusercontent.com/-JFkp_UK8xmc/AAAAAAAAAAI/AAAAAAAAAAA/EpIWVyRHaBE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-JFkp_UK8xmc/AAAAAAAAAAI/AAAAAAAAAAA/EpIWVyRHaBE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376523015038",
+        "starRating": "5",
+        "title": "Works as described",
+        "comment": "Tried it in my buspass. Pop\\'d right away. Thank.",
+        "commentId": "gp:AOqpTOFxlY0UYd_mxZ2kqGthS3Cxv9X8RvqdBGCeuO2XQ5gPI30HKq-er-Kj_cxp3oirz8nZZT83vR1R0JEAHG8",
+        "author": "anthony comunale",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376282546263",
+        "starRating": "3",
+        "title": "Not working..",
+        "comment": "May be my apartment key fobs work on some other standards.. -Sony ZL",
+        "commentId": "gp:AOqpTOHmdaKbCkg8Svya5q7xTURCze3oYlXHE-ztaMRH6G_tRBZurwK8GATJfAE7m9BXw3IgvxOraIVzXrcE6DM",
+        "author": "Harman Preet",
+        "authorURL": "http://lh6.googleusercontent.com/-PFhsF0UKXtE/AAAAAAAAAAI/AAAAAAAAA8c/pTOwzpjQZN4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-PFhsF0UKXtE/AAAAAAAAAAI/AAAAAAAAA8c/pTOwzpjQZN4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374873678976",
+        "starRating": "5",
+        "comment": "Works on nexus 4. Thanks.",
+        "commentId": "gp:AOqpTOGuOz1hlZkLqm_5CQsTVHfruX8y3fqcnpGNwKpBcN48VzREibiHXG8hX8SIqmcfrJEqCESukCVsMmxJkoI",
+        "author": "Richard Jack",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369172257730",
+        "starRating": "5",
+        "title": "Very easy to use and does exactly what it says!",
+        "comment": "Not only is the app easy to use but the developer has also been responding to us when we request additions, can\\'t get much better than that.",
+        "commentId": "gp:AOqpTOEuO3urvLHI9uag98YOnt4q7MjY5rUGzisWEzK0ETvcjoaZhA8Avm_tGCS2aV5AvloFYeftWt8aIIY3ehM",
+        "author": "Hector Jimenez",
+        "authorURL": "http://lh3.googleusercontent.com/-fhPubIYu6Bc/AAAAAAAAAAI/AAAAAAAAD68/LMLyunkC9jY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-fhPubIYu6Bc/AAAAAAAAAAI/AAAAAAAAD68/LMLyunkC9jY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367475760633",
+        "starRating": "4",
+        "title": "Does what it says on the tin...",
+        "comment": "Being able to select text / copy to the clipboard would improve usefulness 100%",
+        "commentId": "gp:AOqpTOE9JAZ5tsKJ16_VW-tRVwSXra_xX5Az8woYTJ4NcEukoBo9hoTRFsEjFlchuz9NEeq2LonERw5GmRlinbc",
+        "author": "Hugh Campbell",
+        "authorURL": "http://lh5.googleusercontent.com/-JKrud2kKkC4/AAAAAAAAAAI/AAAAAAAACu0/eKWooMZ__mY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-JKrud2kKkC4/AAAAAAAAAAI/AAAAAAAACu0/eKWooMZ__mY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1361456230088",
+        "starRating": "5",
+        "title": "HTC one x 4.1",
+        "comment": "Excellent app extremely useful considering all the  NFC ports appearing all over Liverpool,uk. Thanks.",
+        "commentId": "gp:AOqpTOGVIuhQFCPVNa3PRR0uf2eSYiG-v1O9U0SoOr_QcNwlJHcPce2YHbjOHE6_vGfbhN78d6xtD96qa0HKpTg",
+        "author": "terence rooke",
+        "authorURL": "http://lh3.googleusercontent.com/-j38rr7Cqy98/AAAAAAAAAAI/AAAAAAAABFM/125LsYqCakk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-j38rr7Cqy98/AAAAAAAAAAI/AAAAAAAABFM/125LsYqCakk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1347704368007",
+        "starRating": "4",
+        "title": "NFC Reader",
+        "comment": "Reads data about the tag, not the data fields stored. Nice simple interface with timestamp is a nice touch. Read Barclaycard and library books no problem.",
+        "commentId": "lg:AOqpTOEkCM8gPIUTN3DxT24c-7acYcplKXADQDOoDuE8Ze2ryGE5zIn_HQvXhNEbednxcocv3Cs8fZwjMPpqaVM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353385119383",
+        "starRating": "1",
+        "title": "Doesn\\'t do anything",
+        "comment": "Just displays page saying what the app does. No options it buttons or Swyping makes a difference. Samsung Galaxy SII",
+        "commentId": "lg:AOqpTOFcj4AqIigdhBeKva6mzePhnLfyNdldvTawyuSRFwIojOjbgqKQkbSGK187-THCbw2qNeenbUntcDhuZu4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356200030706",
+        "starRating": "1",
+        "title": "Not working with Galaxy Note 2",
+        "comment": "Must be in beta stage and only works on certain devices. Nice idea though. Hope it develops.",
+        "commentId": "gp:AOqpTOGYNZ3AT96_wfUWfJvyvcv2W7hMnxQr5gzu9BYRByEZbaRwEw4TDsKJ64GgiZBzZFEHmcOfqQOcep4KiXg",
+        "author": "Stephen Keating",
+        "authorURL": "http://lh4.googleusercontent.com/-YAHFC8uRaCQ/AAAAAAAAAAI/AAAAAAAABhs/G7OBhywzF2E/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-YAHFC8uRaCQ/AAAAAAAAAAI/AAAAAAAABhs/G7OBhywzF2E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1356565099991",
+        "starRating": "1",
+        "comment": "Does not work on Nexus 4",
+        "commentId": "gp:AOqpTOGkZGGsNpaRQpLwujWcEPyYtUgYNzuZlwSJMrSetmWbLc6F7erF-mdgkqURA1QzP7pLvPsgS-HTEGOIZTU",
+        "author": "Richard Tea",
+        "authorURL": "http://lh4.googleusercontent.com/-Y424oipvkOA/AAAAAAAAAAI/AAAAAAAANtw/q-lKGTIP3OA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Y424oipvkOA/AAAAAAAAAAI/AAAAAAAANtw/q-lKGTIP3OA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364428335479",
+        "starRating": "1",
+        "title": "Does NOTHING.",
+        "comment": "Is this a joke app?",
+        "commentId": "gp:AOqpTOGUoflc7qC5WJou9c65y3o8DkTQNMGdmDZ5VwUBBY7psk2e1G8UQsI7SLcp2_HWjOuj_vF7nfhhmlUijio",
+        "author": "joshua j. hayward",
+        "authorURL": "http://lh3.googleusercontent.com/-S_ox5uHktxY/AAAAAAAAAAI/AAAAAAAABKo/oxslJrG2fJw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-S_ox5uHktxY/AAAAAAAAAAI/AAAAAAAABKo/oxslJrG2fJw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366901755029",
+        "starRating": "1",
+        "title": "Nothing",
+        "comment": "On nexus 4",
+        "commentId": "gp:AOqpTOFfu6AgTm_Asn1r_QM_eZB3IQO5tbcbNunKnj3L2O7vlxpAT38Jv2obHtQW-2yjO_uEBhEqXAQJJNs7PHo",
+        "author": "Thomas Erskine",
+        "authorURL": "http://lh4.googleusercontent.com/-0B7-TCWNQcg/AAAAAAAAAAI/AAAAAAAAAEg/wJivqhyPtzI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-0B7-TCWNQcg/AAAAAAAAAAI/AAAAAAAAAEg/wJivqhyPtzI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1345394882821",
+        "starRating": "5",
+        "title": ".",
+        "comment": "No-nonsense app. Does exactly what it says on the tin.",
+        "commentId": "lg:AOqpTOFzBindP3ACx0fCTJlNUa9Eth1oW_8LdAMseXnLtv9C-QIkc3mqGbedRto_FuXG3WJvxaoR9FAI-k4O8j0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.NFC"
+    ]
+  }
+}

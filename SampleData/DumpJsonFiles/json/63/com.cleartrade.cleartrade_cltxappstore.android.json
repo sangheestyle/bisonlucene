@@ -1,0 +1,29 @@
+{
+  "title": "Price View",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cleartrade.cleartrade_cltxappstore.android",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "June 21, 2012",
+  "version": "1.0.1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Cleartrade Exchange Pte. Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cleartrade.cleartrade_cltxappstore.android",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Welcome to the Cleartrade Exchange (CLTX) price discovery app enabling access to multiple OTC cleared derivative markets. The app gives you dynamic access to multiple worldwide derivative commodity contracts. With the CLTX App you have access to the markets you trade and benefit from price updates wherever you are.Key Featuresâ¢\tOver 40 contracts available including Dry Bulk FFA Freight swaps, Container swaps, Iron Ore swaps, Steel swaps, Coking Coal swaps, Bunker Fuel Oil swaps and moreâ¦â¢\tConfigure multiple order books on the contract set up page (insert + picture)â¢\tSelect individual contract tabs to view and view bid/offer prices by scrolling up and down the contract forward periodsâ¢\tAccess Bid/Ask spreads and volumes being offered â Green prices show a tick up from last trade and Red prices show a tick down from last trade.â¢\tUse the Market Events tab to watch live bids, offers, spreads and trades entering the marketâ¢\tUse the Trade Events tab to watch live trades by contractâ¢\tOrderbook tabs list standard forward period with special periods dynamicallyNote: Our free application provides all data from the exchange 30 minutes time delayed",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

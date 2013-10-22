@@ -1,0 +1,31 @@
+{
+  "title": "Collar Option Play",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.s33me.shotcollar",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "October 21, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Independent Agent",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.s33me.shotcollar",
+  "extendedInfo": {
+    "installSize": "25k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "For option traders. This assumes that you own the underlying stock and want to protect profits and limit downside by selling an out of the money call and buying an out of the money put. You want the price of the put to be less than the call premium in order for this to make sense, shot-collar not a broke baller.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

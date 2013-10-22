@@ -1,0 +1,68 @@
+{
+  "title": "Safe Drive Enforcer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.computerassistantsinc.safedriveenforcer",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 12, 2012",
+  "version": "2.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "3.4",
+  "contentRating": "Low Maturity",
+  "creator": "Don Myers",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.computerassistantsinc.safedriveenforcer",
+  "extendedInfo": {
+    "installSize": "523k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "SAFE DRIVE ENFORCER 2.2Celebrating 1 year after development Safe Drive Enforcer is now FREE for a limited time. In return we ask for user feedback via email on ideas to help improve the application. Enjoy and thanks for using Safe Drive Enforcer.*See recent changes for change log.Safe Drive Enforcer was originally designed to prevent text messaging while driving. We are building off of that and adding features that can be useful while driving or otherwise, such as Auto Text Reply.MAIN FEATURES:    * Prevent distractions while driving.    * If installed on a secondary Android phone (such  as  a teenage drivers phone) you can receive text alerts that the driver has exceeded speed limits. And prevent the driver from using their phone while driving.     * Auto Text Reply can be used at anytime to answer text if you are too busy to answer.",
+    "reviews": [
+      {
+        "timestampMsec": "1329010813622",
+        "starRating": "5",
+        "title": "In response to comment by Micheal",
+        "comment": "Thank you Micheal for your feedback. All feedback, negative or positive, is appreciated for product improvement. Unfortunately your comment is misleading. The auto reply feature was intended from introduction to function independently so it could be used without GPS enabled to turn the feature on and off while driving. To refer to the application, which functions correctly per design, as \\\"garbage\\\" is unfair. An addition that would give users the option to use auto reply only while driving is being considered.",
+        "commentId": "lg:AOqpTOGC6moWRN0OPtvsqr8VLP2S76sgeo7Xsyb683-maNwXZ4_bfOPW42obZEPVjsf3UOV3U3KymISXdKN0JTw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1326575783335",
+        "starRating": "1",
+        "title": "Garbage!!!!!",
+        "comment": "Waste of 99 cents, not worth 9 cents.  Sends auto text even when ur not driving!!!!!",
+        "commentId": "lg:AOqpTOGCBBDEdk0l3MQfqqcr3jraPaXg-G1ixxg4M8esOU9NlrKGYNFBMbNE58SW0nC9lLUVk3xW77ohUkhIq64",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1313440909100",
+        "starRating": "5",
+        "comment": "excellent and I highly recommend every teenager install this on their phone\\tBrilliant!!!",
+        "commentId": "lg:AOqpTOEybN7li98X3ecR35R9fy_M8wGS1Z0tDFsuTnyfUcJwRwtjmXqIpbee0BIxHgxOqIFz0jNdPEri3O_-DDM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1285895707809",
+        "starRating": "5",
+        "comment": "This is a really cool app. Works well. Does what its intended to do. Discourage distracted driving.",
+        "commentId": "lg:AOqpTOH-yVdjnRJ0S0ytEdFodu-SCC0NMgYkhzT7Z9F-y5pG4TrAZj6m5wZLAemFxO125z5KIbPIj2UBK4NHbvM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

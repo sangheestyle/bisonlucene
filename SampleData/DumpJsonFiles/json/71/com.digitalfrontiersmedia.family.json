@@ -1,0 +1,35 @@
+{
+  "title": "The Family Radio",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.digitalfrontiersmedia.family",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "July 25, 2013",
+  "version": "1.6.9",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Digital Frontiers Media",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.digitalfrontiersmedia.family",
+  "extendedInfo": {
+    "installSize": "14M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Family Radio serves to educate, encourage and preserve the family through a Christ centered contemporary and versatile communications platform.  The Family will help families build healthy relationships with God and one another.  We will advocate and protect the ideals of the traditional family as it is defined and established in the Holy Bible.  We believe that truly healthy relationships can only be attained through a healthy relationship with Jesus Christ.  We will feed the souls of individual family members by offering a daily diet of the Holy Bible in a variety of compelling ways.  The context and content of all our offerings will intentionally and unapologetically be presented from a traditional Biblical world view.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Where R U _ Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.choguechoul.odi_lite",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 4, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "144",
+  "rating": "3.8611112",
+  "contentRating": "Low Maturity",
+  "creator": "Haeryong TC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.choguechoul.odi_lite",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "What is Where are youAcquaintances among the current character \"Where are you\" is installed between user terminals transmit location information to inform the other side of the point of arrival, and tell you where to Android.It can be used only if users Accept the supply of positional information, and the positional information is not saved in a separate server.Arrival alarm function:Acquaintances promise if there is somewhere in between arrival notification request by selecting the appropriate point when you go out is when it comes acquaintances when passed the point of selection, because it tells convenient to take advantage of when you have an appointment, andBecause it runs a regular route school bus, commuter bus, car Cofell arrive near the point of arrival when entering alarm and vibration to the requestor tells you that if you request a map by selecting it from the driver's point of arrival, arrival notifications, user the arrival is the ability to know the point of the bus, departure time, calculated as a stand by waiting, etc., without the inconvenience of travel so that you can use in everyday life, such as the promise of interpersonal, child curfew checkCurrent location search function:This function is to display the other's current position, including whether children go to a private institute or not, where family, friend, or acquaintance is up to or where they are, on the map. This function can be also used diversely in usual life to check a delivery man's location and an appointed place.keyword : Arrival notification,Vehicle arrival,Appointment,Location tracking, Where?How to use:. After searching by entering a name saved in a telephone address book or entering a phone number, click \"Add\" button to ask for friend addition.. If a message of friend addition is received, [Accept/Reject] is decided and accepted, [Accept] text message is sent to a requester.. If it is accepted, a requester and an Acceptr are registered as friends in their mobile phones so they can use this application.. If you press an registered phone number short or long, an execution menu appears. Notices:. It can be only used among mobile phones with \"WHERE R U\" application.. Use after putting a proper check in \"Setting\" (It may also provide undesired positional information.). Indoor or dense space, or is not receiving a GPS signal is weak and there are many errors can be. WIFI or network value, depending on the location of the error can be many differences. GPS, WIFI signal does not receive a response not",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

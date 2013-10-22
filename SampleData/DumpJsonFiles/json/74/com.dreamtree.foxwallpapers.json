@@ -1,0 +1,48 @@
+{
+  "title": "Fox Wallpapers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamtree.foxwallpapers",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "March 20, 2012",
+  "version": "2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "15",
+  "rating": "4.4",
+  "contentRating": "Everyone",
+  "creator": "dreamtree™",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamtree.foxwallpapers",
+  "extendedInfo": {
+    "installSize": "4.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Cunning fox is known for his tricks! 20 images of a beautiful mammal with distinct features optimized for your Android devices. Highlights:â Optimized for high res phonesâ Unique images you won't find anywhere elseâ Hand-picked and cropped to precise dimensionsFeatures:â Works offlineâ Contains 20 high definition imagesâ Offline optimized for speedâ Install to SD card (requires Froyo+)Legal / Credits:Application by dreamtree. Based in Seattle, WA.  www.dreamtreemobile.comApplication icon and image source material are public domain. If you have any concerns regarding the use of this art in this application, please contact us for immediate retraction upon request. dreamtreemobile@gmail.comNote on Permissions:android.permission.INTERNET is used to connect to the advertising mediation servers and our partner advertising network servers for the purpose of retrieving advertisements. android.permission.ACCESS_NETWORK_STATE is used to determine the existence and quality of a phone's network connection for retrieving advertisements. android.permission.GET_TASKS is used to prevent advertisements from being retrieved when an application is in the background by checking to see if the application's task is active when an advertisement is requested. This is a workaround for the lack of global notifications about the active state of Android applications.android.permission.READ_PHONE_STATE is used for accounting and auditing purposes by advertising networks. Advertising networks use anonymous unique identifiers to limit the number of impressions and clicks attributed to individual users. android.permission.SET_WALLPAPER is used to set the home screen background wallpaper.android.permission.VIBRATE is used to vibrate the phone on successful completion of setting the wallpaper.android.permission.WRITE_EXTERNAL_STORAGE is used to save images to the SD card. Images are automatically saved in a sub-folder of /wallpapers/ on your SD card named based on this app. They are only saved to the SD card when you set them as a wallpaper. This way, if you remove the app, you will retain the wallpapers on the SD card. You may delete the wallpapers from your SD card if you wish without affecting the functionality of the app.tags: mammal, free, nature",
+    "reviews": [
+      {
+        "timestampMsec": "1355543282231",
+        "starRating": "2",
+        "comment": "The pictures are great but it keeps force closing if I try to scroll right... I can only see first four pics; also force closes b4 set. Please fix!!!",
+        "commentId": "lg:AOqpTOG4sN-mYVrxEu1fP8nSESQhP-M0pLuGd_E5M4fYedUYw0zweyFxHGbwfHDZdzJwvcXnwbF9quIusCm3GQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353229501049",
+        "starRating": "5",
+        "title": "I love foxes",
+        "comment": "The best",
+        "commentId": "lg:AOqpTOEtTi3yJhpgz1kQLxDgfg6QrEJdKeITrdwykM0cMxz0PP9FZ81K14NXeQX1nYzvOCFb6S9tpptU0e94fw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_WALLPAPER",
+      "android.permission.SET_WALLPAPER_HINTS",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

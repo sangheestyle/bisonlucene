@@ -1,0 +1,55 @@
+{
+  "title": "WebSMS: Betamax Connector 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.betamax2",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "September 17, 2012",
+  "version": "1.4.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "24",
+  "rating": "3.7916667",
+  "contentRating": "Everyone",
+  "creator": "Thomas Ritter",
+  "creatorURL": "https://play.google.com/store/apps/details?id=de.ub0r.android.websms.connector.betamax2",
+  "extendedInfo": {
+    "installSize": "104k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "IMPORTANTThis app is a connector for WebSMS, an cannot be used stand-alone (like a plugin or addon). You have to install WebSMS first: https://play.google.com/store/apps/details?id=de.ub0r.android.websmsIf you like this app, please consider rating it.With this connector installed, you can use most of the Betamax providers. Most providers don't support balance checks. See http://code.google.com/p/websmsdroid/wiki/BetamaxProviderSupport for more information. If your provider does not support balance checks, a question mark (\"?\") will be shown instead.If you can confirm a working provider or find out that one does not work, send me an email or post an issue on the WebSMS website http://code.google.com/p/websmsdroid/If you like this app, you can flattr me: https://flattr.com/submit/auto?user_id=nethad&url=https://github.com/nethad/websms-betamaxThe code for this app is hosted on GitHub https://github.com/nethad/websms-betamaxA non-complete list of supported providers: www.voipcheap.com www.voipbuster.com www.12voip.com www.dialnow.com www.freecall.com www.justvoip.com www.lowratevoip.com www.smsdiscount.com www.voipwise.com www.intervoip.com www.poivy.com www.voipbusterpro.com www.voipstunt.com www.webcalldirect.com www.budgetsip.com www.powervoip.com www.voicetrading.com www.voipblast.comwww.voiparound.com www.jumblo.com www.rynga.com www.telbo.com www.actionvoip.com www.smartvoip.com www.easyvoip.com www.voipmove.com www.internetcalls.com www.sipdiscount.com www.voipdiscount.com www.voipraider.com www.freevoipdeal.com www.cosmovoip.com www.budgetvoipcall.com www.cheapbuzzer.com www.callpirates.com www.cheapvoipcall.com www.dialcheap.com www.discountcalling.com www.frynga.com www.globalfreecall.com www.hotvoip.com www.megavoip.com www.pennyconnect.com www.rebvoice.com www.stuntcalls.com www.voipblazer.com www.voipcaptain.com www.voipchief.com www.voipjumper.com www.voipsmash.com",
+    "reviews": [
+      {
+        "documentVersion": "1.4.2",
+        "timestampMsec": "1347906491422",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Thanks a lot. This update motivated me to delete the old connector and check my account settings. I excluded the WWW. at the beginning of the provider address and all is working perfectly now",
+        "commentId": "lg:AOqpTOGreIv3qD9r8Oan3MbOPEDbI_XQOge39DIrDNdsyXhqBelE943z1H_IXwieDHG-THjRDILLrLvJN9Jf1w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.0",
+        "timestampMsec": "1334314653377",
+        "starRating": "1",
+        "title": "Actionvoip, Justvoip not working",
+        "comment": "This connector does not work with the new versions of the Betamax websites. If your provider already has the new look, this connector won\\'t do you much good.",
+        "commentId": "lg:AOqpTOGg2_eRu6R-cmswkdLpLI9akoNfIfkNwQjY-EoFnA8QlW7BGFbK7TFpp8KVKr4VTUVAAHO4yB7LvD4AbQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340705056577",
+        "starRating": "4",
+        "title": "Stopped working",
+        "comment": "Suddenly stopped sending messages :( just remains \\\"sending\\\" in the notification bar but nothing happens, not even error message. I\\'ve used it a lot for a long time as the best SMS via VOIP app, therefore 4* hope it\\'s not dead... Please fix soon :)",
+        "commentId": "lg:AOqpTOGyqCkH3C4zxtN_U5qPBMxpvm23QVseLF0XelG2boVGct94iRAmySami83J7ZDloZRLfAvbpeaba_wLyQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

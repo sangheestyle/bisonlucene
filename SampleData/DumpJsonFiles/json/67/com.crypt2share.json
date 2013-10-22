@@ -1,0 +1,36 @@
+{
+  "title": "Crypt 2 Share",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crypt2share",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 4, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Valfa",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crypt2share",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Crypt2Share Ã¨ il modo piÃ¹ sicuro per condividere i tuoi file con i tuoi amici. Tutti i file presenti nella \"zona sicura\" sono criptati con AES e la password di criptaggio/decriptaggio non viene mai salvata in chiaro nei nostri sistemi. Per l'upload dei file sfruttiamo il protocollo HTTPS che garantisce allo stato attuale il maggior livello di sicurezza per il trasferimento dei file.Attraverso il client Android avrai l'impressione di lavorare con i tuoi files come se fossero locali al dispositivo, oltre a questo il cient ti permetterÃ  di interagire con la piattaforma e di:- Registrarti ai servizi offerti dalla piattaforma www.crypt2share.com- Accedere in maniera veloce e semplice  alle informazioni salvate sul server- Creare cartelle per l'organizzazione gerarchica dei files- Avere un'anteprima dei files multimediali storicizzati in remoto prima di decidere se scaricarli sul terminale- Copiare/Spostare/Cancellare/Condividere files con un semplice menÃ¹- Inviare celermente i tuoi files sul server attingendo da piÃ¹ fonti locali sul terminale- Caricare video/foto direttamente dalla Gallery- Caricare video/foto creandoli in tempo reale con la tua cam- Caricare i files salvati in qualsiasi posizione sul tuo smartphone- Scaricare i files in un' area di download per la gestione locale- Aprire i files scaricati tramite le tue app installate- Criptare e decriptare facilmente i files contenenti informazioni sensibili a colpi di click- Condividere celermente i tuoi files, anche protetti, con un semplice click- Condividere con i tuoi amici che utilizzano Crypt2Share i files con un semplice click- Pubblicare i tuoi files pubblicamente su Facebook",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

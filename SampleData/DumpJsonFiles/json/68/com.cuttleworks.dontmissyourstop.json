@@ -1,0 +1,39 @@
+{
+  "title": "Don't miss your stop! FREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cuttleworks.dontmissyourstop",
+  "category": "Transportation",
+  "price": "$0.99",
+  "datePublished": "June 13, 2011",
+  "version": "1.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.8",
+  "contentRating": "Low Maturity",
+  "creator": "Cuttleworks",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cuttleworks.dontmissyourstop",
+  "extendedInfo": {
+    "installSize": "872k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "100 - 500",
+    "description": "Sometimes you hop on the bus not knowing exactly where your stop is. Instead of looking out the window for clues, tell your app where you're heading, and your phone will ring when you get close to your destination. And why not save your favourite destinations and enjoy a nap during your daily commute?Main features:- User friendly UI- Save your common locations- Ring or vibrate when you reach your stop- Intelligent algorithms that save your batteryIf you encounter any bugs or want to suggest features, please use the contact button within the app. Unfortunately we can't reply to comments here.Keywords:bus stop gps location alarm reminder",
+    "reviews": [
+      {
+        "timestampMsec": "1326718174353",
+        "starRating": "5",
+        "title": "Awesome for the Melbourne trams",
+        "comment": "This worked really well during my trip in Melbourne. It was so handy to know when to get off the tram. Thanks!",
+        "commentId": "lg:AOqpTOHqB7yKwJbsNSUy-STdZFwBO99P5e96LgjmFw0aJzi7Ph5BJUu2tqyJsLAEgEZ1mtK2YSoI3slOIwm5la4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "title": "SshAdapter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flopcode.android.networkbrowser",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 16, 2010",
+  "version": "1.4",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "88",
+  "rating": "2.7272727",
+  "contentRating": "Not rated",
+  "creator": "flopcode and cooperations",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flopcode.android.networkbrowser",
+  "extendedInfo": {
+    "installSize": "62k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The networkbrowser lets you examine your wifi network and shows you all registered bonjour services. You can browse the instances of those services and finally launch adapters for those instances.Other applications can use this application to search and resolve a specific service via intents.See http://goo.gl/TmQ3",
+    "reviews": [
+      {
+        "timestampMsec": "1294916756547",
+        "starRating": "1",
+        "comment": "Stuck on initial search for services in all networks tested so far. Desire Z",
+        "commentId": "lg:AOqpTOFiDunsgHq8h8e7qu52o5kDW5-a6SieEVdElfmhAkXgfubVMMpq65EUmS7HxDu_cqixB2abjwmkkYn1mA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1289411273299",
+        "starRating": "1",
+        "comment": "Stuck on initial discovery like most others. Evo running cyanogenmod nightlies.",
+        "commentId": "lg:AOqpTOG9ObMeyr5TBLDQQ1uduyjbTYcu-Lr_s5RWqJmaTB1ABuhwBrjzHttvwbJgM7DREEIqImQQnHK4U9wi8w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1284704027875",
+        "starRating": "2",
+        "comment": "Actually does something on my Nexus now. Pretty basic atm, look forward to updates.",
+        "commentId": "lg:AOqpTOEoOiB97ULivQxf5ey7TfNRn-Owi72Xtdr9HEZvPj5p714vC8MaT45aMUvjCjD84DZ2D7xHceCW53p-tg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1299037813539",
+        "starRating": "2",
+        "comment": "Doesn\\'t seem to let you do anything with the hosts/services found. It also didn\\'t replace the low-level service names with \\'nice\\' versions.",
+        "commentId": "lg:AOqpTOHTa1SEf1BPtri5yI6QolkQnS-zgl5UjoddVIkUjCAkH4wWw77Q2qyKdQse83Y7cc8gSLy0yVCtXJx7Zw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1298681688347",
+        "starRating": "2",
+        "comment": "Definitely a good idea, and I hope the author irons out the compat issues. Did not get past service discovery -Samsung Epic. Thanks for trying!",
+        "commentId": "lg:AOqpTOHfPwvNGiyPc_AeUlaihx0Pm6C1L_biyRDfprObg2u4FoaAVKKZw1OfAHWn8emtKeJwfI4MB1CJFBylFw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1288153816305",
+        "starRating": "1",
+        "comment": "Does not work.",
+        "commentId": "lg:AOqpTOFmIAaWUoA8fsTEn1UAq7hBhrlyu19Ev1gQvJyYZY9f3wdwlkCQ8r6cmMrQElinqpY3mgU9_O579cOrrA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1290528641967",
+        "starRating": "5",
+        "comment": "work on the nexus one running cianogen nighty",
+        "commentId": "lg:AOqpTOGBwdS1wJrF5d6gGEd12riBrXsas0LKykKdDvsy-jbZ3INRgwq9WskKvBeL8OvqYhVDAFOfSdf-048W5Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1284785321834",
+        "starRating": "1",
+        "comment": "Fc",
+        "commentId": "lg:AOqpTOG8ASwp8hstlZRS0YKGemlPLe6il-A7ZsIR_NIKLcrnheU99gr_pudOaYjGeSfpxhy9NLjod0k57OHztQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1276069202286",
+        "starRating": "1",
+        "comment": "HTC Desire on network with several boxes running avahi: just spins searching _services._dns-sd._udp.local. Pity - this could have been so useful.",
+        "commentId": "lg:AOqpTOGwEF8aHqyP0fvu9FvQ0nJDvSD8gi8JtMbFlEpQTxeC1DhXeleo9zwUh2oXCB5zNwI8RRjg6AoZNO6DzQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1277998406890",
+        "starRating": "5",
+        "comment": "Does what it says it does and the developer is responsive and helpful. Great job!",
+        "commentId": "lg:AOqpTOH1s000ITagzxTOD6STiuaC0-P8eWY4nS5Sx0WL8clYznMORmIQD_MDNCSX-E69zCXxpd4DEKiDQ4nfwQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1277531260004",
+        "starRating": "5",
+        "comment": "I like it. The initial scan message could be changed to something more readable.",
+        "commentId": "lg:AOqpTOEIYxZkrIWQrcI_fIGECnjQUqlAVrgh7OLTYEyhVOc5bh-Eeow3jEDieE2B-RVb8B7pWE_cTleyZR2fvQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1276794109627",
+        "starRating": "4",
+        "comment": "Works as advertised. Download a plug-in, jump on a wifi network, and it will discover available services. Requires third party apps to use services.",
+        "commentId": "lg:AOqpTOGbcQ3XOpU0i6FOl8d8H88_BX2l3gPl4YFmoAPanipT78I9OqMG95VHuLyZJ0YEvZyZceyM0sBpM4OPIA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1283871685178",
+        "starRating": "3",
+        "comment": "Works fine on my network & dell streak",
+        "commentId": "lg:AOqpTOH8rRMSECFa5EhScUg4RBjI_z5Ynq9i41aFWCrcGCjN5XO0NObe1_SML_YMGE2gyNQvc7yosq6rELa4Gg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1282442132601",
+        "starRating": "1",
+        "comment": "stuck on initial scan...rooted capitvate",
+        "commentId": "lg:AOqpTOHYOgXlOz0qOmqPHqJf5VwKcOL1dU8XqFHcF2LXTyMue3dBw3UzFg9TDz4DMmJ52DA69zF94nGHsoHicA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1281596237316",
+        "starRating": "1",
+        "comment": "Stuck on service discovery. HTC evo.",
+        "commentId": "lg:AOqpTOG6ebrnRaQp9JGm4SAY2tncM0Y9cy06lMmpyuSyn0OvyehSCSMRagMl2Ei1DcSg3PSeXT5TiMw_Rn5eRg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1279774918543",
+        "starRating": "1",
+        "comment": "Droid X. Initial scan message stays for 30 minutes. Tried twice and uninstalled.",
+        "commentId": "lg:AOqpTOGuyK6WEJDLkFK7D_0xqis4Hld8-tXRAzPoq1-XSo3LHGk6V7a09qmnij2CjnrZu0ufNSoRIYRRA8rkBg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1276406668200",
+        "starRating": "4",
+        "comment": "Works well. To those who say that it does not work then read the application. description.",
+        "commentId": "lg:AOqpTOGIbW5qr9k_H9tNwbuilbBb33LelHhHSs1DS2dP0GzPcvtj0iq0eiOPzjXTpvqpZitucTrYmtmabrSr1g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1275314780213",
+        "starRating": "1",
+        "comment": "Just spins on Incredible.",
+        "commentId": "lg:AOqpTOFfSOKUZ22Sk4_OWGlhhy4PxxfNZPFzoRVVUFVPnxEu_4Uw_8-TmcKondG67_WZd7QnUdubIaHl_X74wQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1272181039186",
+        "starRating": "1",
+        "comment": "Doesn\\'t even deserve one star, this doesn\\'t work at all.",
+        "commentId": "lg:AOqpTOHBUJRyX7sMkdSdZ4MOW_FgqN5n_g3tVm1emWEBpqvEzfttJWkDB2kYlHvDsoz1jwgT0P5pX1LozwRGTQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1283681881129",
+        "starRating": "1",
+        "comment": "just hangs searching for services",
+        "commentId": "lg:AOqpTOE61k16XwKJgh9CD12NQ7UtlwBGPdCKajqVdCp37KJLEYnr0HjIhF69ChDfzUMgaI-Y1xwRdmuR_v4Bag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

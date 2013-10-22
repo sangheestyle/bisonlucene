@@ -1,0 +1,67 @@
+{
+  "title": "Quick GPS Measuring Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.finestandroid.gpsmeter",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 8, 2013",
+  "version": "1.60",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "25",
+  "rating": "4.2",
+  "contentRating": "Low Maturity",
+  "creator": "FinestAndroid.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.finestandroid.gpsmeter",
+  "extendedInfo": {
+    "installSize": "702k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This app is perfectly tracking the distance, path length, current, average and top speed. It also keeps measuring the time during your journey. You can use the Quick GPS Measuring to:1. measure distance from point A to point B2. measure the exact path you go to your office3. walk and get the path to the nearest market, buss station or what ever you want4. keep track of your travel5. keep track of your training 6. measure your top speed while running, driving or cycling7. know your average or current speed8. measure the time you need to go to your office9. We also found it great to track your Camino de Santiago progress.The Quick GPS Measuring combines a stopwatch, GPS and some clever logic to measure the:1. Distance - this is the distance between current location and point A (start point) 2. Path: - the path length traveled between start and end. 3. Top Speed - quickest speed reached 4. Average Speed 5. Current Speed6. Time passedQuick GPS Measuring is the accurate and very easy to use GPS distance / path / speed meter. You will find many more situations where you can use it. It is gps person tracker and personal location tool.",
+    "reviews": [
+      {
+        "timestampMsec": "1347457612773",
+        "starRating": "5",
+        "title": "Looks good on a tablet",
+        "comment": "It works! One of the most accurate distance and speed GPS  meters on the market.",
+        "commentId": "lg:AOqpTOH0xdlauweViEGNjr7HMLXfKrbpmERPRvHghYl2F2sbzYSdTavaj6qZ9WleMwxmKUmBGtq-YN_tmvJow1E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346662219029",
+        "starRating": "5",
+        "comment": "Very useful app",
+        "commentId": "lg:AOqpTOHOFoAjubqZWv2UDrzR3jfmSYyepluRtyE5CoGFi7IUCRHZoSYxFN0mDOXolbSGtrFPCqN8m2vW6Nc4lJw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347601317780",
+        "starRating": "5",
+        "title": "Prachir",
+        "comment": "Good.",
+        "commentId": "lg:AOqpTOGy4XeX7v7rso-ehJ7pyQmxQWdqeENsjDaV7Qp5T34Do_L-BJqI_FHgLBkFbhES9_PVGNTDJMpmlZjV454",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346880300143",
+        "starRating": "1",
+        "title": "Cock",
+        "comment": "Sucks balls",
+        "commentId": "lg:AOqpTOHnNOD_fqRT3D4Mz1jbetHGbL1I_IeIJzrmcZUzKX6uG2LAWO_HlJZ9NEeBkAEpzh9Fkn8KZ1sN1umMYts",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.CONTROL_LOCATION_UPDATES",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

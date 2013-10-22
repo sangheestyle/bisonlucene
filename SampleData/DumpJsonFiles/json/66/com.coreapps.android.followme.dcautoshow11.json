@@ -1,0 +1,33 @@
+{
+  "title": "The 2011 Washington Auto Show",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.dcautoshow11",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "January 8, 2011",
+  "version": "1.4.6",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "4.25",
+  "contentRating": "Everyone",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.dcautoshow11",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Follow Me is the official application for the Washington Auto Show (2011 WAS), January 28 - February 6, in Washington, DC. Navigate like a pro with our interactive maps, search the exhibitor directory, or create your show schedule by choosing sessions you want to attend and speakers you want to hear. Enjoy the show!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

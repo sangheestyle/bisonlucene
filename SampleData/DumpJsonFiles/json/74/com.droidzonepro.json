@@ -1,0 +1,39 @@
+{
+  "title": "DroidZonePro - Zone Diet",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidzonepro",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "July 14, 2013",
+  "version": "2.3",
+  "operatingSystems": "2.3.3 - 4.2",
+  "ratingsCount": "24",
+  "rating": "4.125",
+  "contentRating": "Everyone",
+  "creator": "Federico Lettieri",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidzonepro",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Compilatore completo per la dieta zona ideata dal dr. Barry SearsQuesta app Ã¨ la naturale evoluzione della precedente DroidZone. E' stata migliorata e aggiornata sulla base dei tanti consigli degli utenti.Con DroidZone potrai gestire un database di oltre 800 alimenti, per ognuno dei quali Ã¨ specificato il contenuto di macronutrienti e l'indice glicemico. Utilizza questi alimenti(o aggiungine altri) per creare i tuoi pasti in zona . In base alla quantitÃ  degli ingredienti e al numero di blocchi impostato DroidZone ti permetterÃ  di capire se il pasto Ã¨ in zona oppure no. Con il tuo database dei pasti in zona potrai effetturare un pianificazione alimentare per ogni giorno dell'anno, decidendo cosa mangiare e come distribuirlo nell'arco della giornata. A partire dalla tua pianificazione alimentare potrai IN AUTOMATICO generare la lista della spesa .",
+    "reviews": [
+      {
+        "timestampMsec": "1373943462254",
+        "starRating": "1",
+        "title": "No Stars",
+        "comment": "The app keeps kicking me to the beginning of my profile set up because I have to manually convert all my measurements from inches to centimeters....   DELETE!",
+        "commentId": "gp:AOqpTOHoyYoQiWJevvscekLTE-hMcgVsrGFAz9sFpRbeFP2MnbW6WM3I0ewD78sSAtmXob6oT8Fc1eA6Y9js1g",
+        "author": "Erin Mcleese",
+        "authorURL": "http://lh3.googleusercontent.com/-J5-jZGl5o-0/AAAAAAAAAAI/AAAAAAAAABQ/IWeO_VLwbVU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-J5-jZGl5o-0/AAAAAAAAAAI/AAAAAAAAABQ/IWeO_VLwbVU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

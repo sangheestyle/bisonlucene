@@ -1,0 +1,57 @@
+{
+  "title": "Golf Tip-A-Day by Bill Kroen",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.customtbt.main",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "April 16, 2012",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Chris Annase",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.customtbt.main",
+  "extendedInfo": {
+    "installSize": "884k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "For more than twenty years, golf professional Bill Kroen has offered the best golfing tips and strategies.Covering all aspects of the game, this application features daily practical tips delivered directly to your android device on fundamentals such as driving, chipping, putting, and positioning, beneficial for the beginner as well as the seasoned professional. Golfers who apply these useful techniques will boost their enjoyment of the game while lowering their scores.Share, Rate, provide feedback, schedule, search and tag your favorites tips are a few of the features available within the Tip-A-Day application.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1342926620165",
+        "starRating": "3",
+        "title": "Great app.",
+        "comment": "The info you received with this app is great however i installed it 2 days ago and i have yet to receive a tip a day. All i have are the tips from that loaded with the install.",
+        "commentId": "lg:AOqpTOH5MLGe34WpUbWpbiBtDwx2JBH2hDb-brSOLzu6hkzh0IAXB6Hy9qJhYV05qw9mFbOvjCdU-LETCaMQ48Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344550793442",
+        "starRating": "3",
+        "title": "Good and bad",
+        "comment": "The tips you get are very helpful for the average golfer and that is the good part. The bad part is that I have had the app for a month and never got a tip a day. You have to load the old tips then it stops giving tips",
+        "commentId": "lg:AOqpTOHHvRnb3AEhUbaKvadEBuaTHDlbn3eRdSx0CgcXPKuq56bb2VMAui1oowuBiW72jB1HURnQFljabw24N1I",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.customtbt.main.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.ACCOUNT_MANAGER",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.access_network_state"
+    ]
+  }
+}

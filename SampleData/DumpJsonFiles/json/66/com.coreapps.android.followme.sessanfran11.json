@@ -1,0 +1,49 @@
+{
+  "title": "SES New York Conference & Expo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.sessanfran11",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "March 12, 2012",
+  "version": "2.4.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.sessanfran11",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Approximately 5,000 marketers and search engine optimization professionals attend SES New York each year to network and learn about PPC management, keyword research, SEO, social media, local, mobile, link building, duplicate content, multiple site issues, video optimization, site optimization, usability and more. SES New York will be packed with 70+ sessions, multiple keynotes, 100+ exhibitors, networking events and parties. Your customers, colleagues and competition will be in attendance â will you?",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

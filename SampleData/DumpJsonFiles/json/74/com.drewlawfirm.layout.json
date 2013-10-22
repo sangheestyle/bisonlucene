@@ -1,0 +1,37 @@
+{
+  "title": "Drew Law Firm",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drewlawfirm.layout",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "November 7, 2011",
+  "version": "1.103",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "westrumbrown",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drewlawfirm.layout",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "If you have been injured in an accident at work or by the fault of another person or company, let Drew Law Firm take care of it for you. Why should you contact Drew Law Firm? Attorney Tom L. Drew has practiced primarily in personal injury and workers' compensation. Representing clients who have suffered from catastrophic injury, construction accident, motor vehicle accident, premises liability, trucking accidents, wrongful death, and motorcycle accident claims for over 22 years. He has been lead trial counsel in personal injury cases throughout the state. Tom has handled cases against most major insurance defense firms in Iowa. Tom L. Drew is respected by his peers and has obtained an AV (the highest) rating as published in Martindale-Hubbell. He also served as President of the C. Edwin Moore chapter of the American Inns of Court in 2005 which is comprised of members of the bench and bar.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_LOGS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

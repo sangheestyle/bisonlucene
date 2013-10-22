@@ -1,0 +1,34 @@
+{
+  "title": "System Manager Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidappfactory.systemmanagerpro",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "June 18, 2010",
+  "version": "1.0.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Not rated",
+  "creator": "Droid App Factory",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidappfactory.systemmanagerpro",
+  "extendedInfo": {
+    "installSize": "184k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "System Manager is task manager, application manager and system information tool. There are many mobile applications that donât have an exit button. System Manager solves this problem by providing a safe way to see your cpu load, manage running applications. You can also backup your apps to your SD Card. new* tabs fixed.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.GET_PACKAGE_SIZE",
+      "android.permission.READ_LOGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

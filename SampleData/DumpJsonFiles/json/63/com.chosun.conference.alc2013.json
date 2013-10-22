@@ -1,0 +1,35 @@
+{
+  "title": "AsianLeadershipConference 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chosun.conference.alc2013",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "April 7, 2013",
+  "version": "1.0",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Digital Chosun",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chosun.conference.alc2013",
+  "extendedInfo": {
+    "installSize": "19M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "3ì 26ì¼~27ì¼ ìì¸ ìë¼í¤ê·¸ëëìì»¤í í¸íìì 'ìììì ìë¡ì´ ê³¼ì : ì°©í ì±ì¥, ëëí ë³µì§'ë¼ë ì£¼ì ë¡ ì´ë¦¬ë ì 4í ìììë¦¬ëì­ì½í¼ë°ì¤ì ê³µì ì íë¦¬ì¼ì´ììëë¤. ìììë¦¬ëì­ì½í¼ë°ì¤ë ì¸ê³ì ì ì¹ ì§ëì, ê¸°ìì¸, ìíë¤ì´ ëª¨ì¬ íë ì¬íê° ì§ë©´í ì£¼ì ì´ìë¤ì í´ê²° ë°©ìì ëª¨ìíë êµ­ì íìë¡, 2005ë ì²ì ììí´ ì¬í´ë¡ 4íì§¸ë¥¼ ë§ììµëë¤. âìììì ìë¡ì´ ê³¼ì : ì°©í ì±ì¥ê³¼ ëëí ë³µì§âë¼ë ì£¼ì  ìë ì´ë¦¬ë ì¬í´ íì¬ë í-ì¤-ì¼ 3êµ­ê³¼ ë¯¸êµ­ìì ìë¡ì´ ë¦¬ëì­ì´ ì¶ë²íëë° ë§ì¶° ê°êµ­ì ê°ì¥ ìí¥ë ¥ ìë ì ì¹â¢ê²½ì â¢ì§ì ë¦¬ëë¤ì ì´ì²­í´ ì´ë¤ì´ ë´ë¤ë³´ë ì¸ê³ì ììì, íêµ­ì ë¯¸ëë¥¼ ì¡°ë§í©ëë¤. ì´ ì±ìë ì½í¼ë°ì¤ì ëª¨ë  ì¼ì ì ëí ìë´ì 50ì¬ëªì ì¸ê³ì  ì°ì¬ë¤ì ëí ìê°ê° ë´ê²¨ ìê³  ë¸í¸ ê¸°ë¥ë í¬í¨ëì´ ììµëë¤. ì½í¼ë°ì¤ì ëª¨ë  ê³¼ì ì´ íë¸ë¦¿PCë¥¼ íµí´ ì´ë¤ì§ë âí­í¼ë°ì¤(tab-ference)âì ì ì¸ê³ë¥¼ ê²½íí´ ë³´ì­ìì¤.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.chosun.conference.alc2013.permission.C2D_MESSAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "iShare Fund",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_ce71c8767f5149faaddaa480c2243e80.app",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "October 23, 2012",
+  "version": "1.2.6.95",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Embry Media",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_ce71c8767f5149faaddaa480c2243e80.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Reciprocity, in exchanging ideas and products.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_ce71c8767f5149faaddaa480c2243e80.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

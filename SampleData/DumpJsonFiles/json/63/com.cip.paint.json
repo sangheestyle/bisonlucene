@@ -1,0 +1,45 @@
+{
+  "title": "Go Paint",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cip.paint",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "November 12, 2011",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "3.1666667",
+  "contentRating": "Everyone",
+  "creator": "Cip, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cip.paint",
+  "extendedInfo": {
+    "installSize": "789k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is a Paint app similar to PC paint. You can draw shapes, copy and paste and crop pictures like you do on PC. Plus, you can use gestures to zoom and resize the image and do finger paint too. More features will be added in coming releases.",
+    "reviews": [
+      {
+        "timestampMsec": "1331708989487",
+        "starRating": "3",
+        "title": "Meh",
+        "comment": "Does everything right, but it\\'s kind of difficult to navigate",
+        "commentId": "lg:AOqpTOHXgZyq_GTPxLlze6MiNnnwldYs94NJdRGXexJYmoCjl4LZK0PkYNLDsmI8VXhhDxRUBC2IMrtGzdgayNk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340791399991",
+        "starRating": "1",
+        "comment": "Um ya right on copy and paste. As soon as i started to. It forced a close. Test things b4 u bring em out. Eesh.",
+        "commentId": "lg:AOqpTOFFIjFdSJnEj3JBInrA5yv0KA1ZBKTlF7IDk2UU2fB1fSd9cyYz1TdDY--4xs_M6pNFBftSqQNVnwoyvO8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_OWNER_DATA",
+      "android.permission.BIND_INPUT_METHOD",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Five Live GPS - Family Tracker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.five.live.gps",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "April 27, 2013",
+  "version": "1.03",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "Secure SMS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.five.live.gps",
+  "extendedInfo": {
+    "installSize": "344k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "If you are looking for a free family GPS tracker that is simple to use you have found it! Five Live GPS is super easy to use for the young and the not so technical. You can share your GPS location with family and friends as often or as little as you like. You can now track up to five family members or friends in real time. Five Live GPS is 100% free there are no subscription fees, you dont even have to go through the hassle of setting up an account.Five Live GPS requires text messaging, your GPS location is sent through a text message. The text message contains a clickable link for google maps like this: http://maps.google.com/?q=34.102708,-118.243561How it works:1. Install Five Live GPS on your phone.2. Enter up to 5 phone numbers that you will be sharing your location with.3. Enter how often you would like to share your location.4. Specify if you want Five Live GPS to start automatically everytime the phone powers on.It's that simple and Five Live GPS is a great way to locate your children and know where they are at all time and it can also be used as an employee tracker. You are able to locate and track the person in real time. Rest easy knowing where your loved ones are at all times.  For example, if you install the app on your phone and your childs phone you can share your real time location with each other as often as you would like. Now not only will you know where your child is but they will know where you are too. This app is a great way to keep track of eldery loved ones. You no longer have to call to see if they made it home ok, you can relaxing knowing where they are. Five Live GPS has many other uses, it's ideal for a personal GPS tracking device. It can also help locate lost or stolen phones.POLICY REGARDING THE ADS IN THIS APP: We want to keep this app completely free, In order to do so we have included ad support which may contain ads in the notification tray. This will help keep it free and help us bring you more cool apps like this in the future. You can optout of the notification ads from Leadbolt Optout: http://opt.leadbolt.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET"
+    ]
+  }
+}

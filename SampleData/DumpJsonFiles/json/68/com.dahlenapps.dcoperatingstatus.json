@@ -1,0 +1,46 @@
+{
+  "title": "Federal Gov't Operating Status",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dahlenapps.dcoperatingstatus",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "March 31, 2012",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "DahlenApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dahlenapps.dcoperatingstatus",
+  "extendedInfo": {
+    "installSize": "152k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Work for the federal government in the Washington, DC area? Curious if you have to work today? Never miss missing that closing announcement again! Be notified every day - or every day there is a delay or closing - so you don't need to both remembering to check the OPM's web page.OPM - U.S. Office of Personal Management Operating StatusFeature run-down:-Set the time of day to check the status-Status is checked every 24 hours-Notification will trigger depending on user settings-You may choose to be notified on every status check, or only when the status is not open-manually check status whenever you want-status checking will persist even after phone reboot",
+    "reviews": [
+      {
+        "timestampMsec": "1351534640948",
+        "starRating": "5",
+        "comment": "Works great! Alerted me about closing due to Hurricane Sandy!",
+        "commentId": "lg:AOqpTOE5NDWZWoIkdXOAmpondMy4278c87nCQyQlkxI0GcJAGhZTe2XZh-tTgRjFU0-iwV9V6ILz3Y0KLEFn0A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370578170769",
+        "starRating": "1",
+        "title": "Only thing working is the ads",
+        "comment": "The only thing working in the app is the ads.  It stopped updating in April.",
+        "commentId": "gp:AOqpTOHsAHPeimXXOWvyItBBWlt_4wevRo7s5IQ7AsHx3VGPUyvPmEiseyO3c8nUAIFti7BVehNhGdokhowZmQ",
+        "author": "Bernhard Behling",
+        "authorURL": "http://lh6.googleusercontent.com/-qQk7ScUrJks/AAAAAAAAAAI/AAAAAAAAAWM/7LmdKctyaMc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-qQk7ScUrJks/AAAAAAAAAAI/AAAAAAAAAWM/7LmdKctyaMc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

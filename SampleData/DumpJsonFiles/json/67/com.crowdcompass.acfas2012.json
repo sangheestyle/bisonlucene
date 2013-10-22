@@ -1,0 +1,39 @@
+{
+  "title": "ACFAS 2012 Annual Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.acfas2012",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "February 16, 2012",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.acfas2012",
+  "extendedInfo": {
+    "installSize": "5.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official Android app for the ACFAS 2012 Annual Conference",
+    "reviews": [
+      {
+        "timestampMsec": "1330286763157",
+        "starRating": "4",
+        "comment": "Acfas2012",
+        "commentId": "lg:AOqpTOG6S2zRKUAiDYKPjFm_SOQGXFnJj83j67iLyUMLsRRWFPyJBaMCFZYK4rki0WLvVahVJT-H6sMbWEzkfqc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

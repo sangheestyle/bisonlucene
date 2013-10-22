@@ -1,0 +1,31 @@
+{
+  "title": "Sms Replier",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.davidhuculak.smsreplierplus",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "April 25, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "2.5",
+  "contentRating": "Everyone",
+  "creator": "David Huculak",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.davidhuculak.smsreplierplus",
+  "extendedInfo": {
+    "installSize": "81k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "5 - 10",
+    "description": "Do you ever miss calls from people while you don't have access to your phone? Don't you wish that in those situations, you could let those people know why you're currently unreachable and when they'll be able to reach you? Well now you can, using this tool available for all versions of android!Sms Replier is a simple app which, when enabled, will react to any missed calls that you receive by sending any message you want to the caller. It consists of a very simple settings page which is easily accessed via notification in the status bar when it's actually running. You just type in a message you want it to say, turn it on, and leave it to do it's work while your away from your device.This app relies on your phone's caller ID to function(your phone needs to be able to see which phone numbers are calling you otherwise it will not work). This app sends sms messages in the same way that the stock messenger app does, so don't worry about any extra charges from your service provider.Paid Features:-No adds-Quick toggle widget in two sizes: small (1x2) & medium (2x2)-New option to ignore any unknown callers (those who aren't in your contacts)-Running notification can now be made clearable; check if the app is running through the widget!Basic Features (available in free version):-Enter any message you want to be sent by the app(supports long messages which need multiple SMS' to be sent).-Sends an automated message if the reply message is left blank. If the number is that of somebody in your contacts, it includes that contact name in the message.-Posts notifications to the status bar to let you know at what time it sent automatic messages, and who the messages were sent to. Indicates whether the messages were sent successfully or not.-A running notification appears in the status bar when Sms Replier is running, allowing for quick access to the interface of the app.-Option to enable a cool dynamic rainbow background in the interface.Permissions:-READ CONTACTS-SEND SMS-READ PHONE STATE",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

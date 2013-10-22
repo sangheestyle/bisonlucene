@@ -1,0 +1,58 @@
+{
+  "title": "Market Account Center",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.insydemarket.account",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 2, 2013",
+  "version": "1.0.006",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "46",
+  "rating": "3.673913",
+  "contentRating": "Everyone",
+  "creator": "Insyde Market",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.insydemarket.account",
+  "extendedInfo": {
+    "installSize": "206k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Market Account Center",
+    "reviews": [
+      {
+        "documentVersion": "1.0.006",
+        "timestampMsec": "1368462746988",
+        "starRating": "2",
+        "comment": "Best",
+        "commentId": "lg:AOqpTOFlYGLXKbd47SQnpV1uzTc2aqmqHZKsntUF4S7_Zhm2dpJ2MrPWDRdCr87GbQ6BHkT0itQMxxP5XlmDDw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368711425752",
+        "starRating": "1",
+        "comment": "Cannot be launch tae",
+        "commentId": "lg:AOqpTOG2KXDQ8ymt8Qj3sWovNlwlwavSNMlnFAGPc64SnVkKDPHUfNwJcxoelo85RKUKJaSYvJqDqu2RkyZhvw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_SECURE_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_SYNC_STATS",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

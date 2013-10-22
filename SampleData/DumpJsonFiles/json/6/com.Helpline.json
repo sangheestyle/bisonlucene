@@ -1,0 +1,61 @@
+{
+  "title": "Verge Helpline",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.Helpline",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "March 2, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "Verge Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.Helpline",
+  "extendedInfo": {
+    "installSize": "75k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Verge Helpline is an application to help you get all the Emergency / Toll-Free / Helpline Numbers for public services, major hospitals, Banks, etc. for the NCR region. Right now, there are 200+ entries which will be updated in our next release with more functionality.",
+    "reviews": [
+      {
+        "timestampMsec": "1299756362669",
+        "starRating": "4",
+        "title": "Good Application",
+        "comment": "Very helpful in emergency when you required Helpline No, or Address",
+        "commentId": "lg:AOqpTOFgWk2K0A236bCZFItLJW6E7F6rNQOlkBqALC7rVj02_9pZaNubaBWylNlGeDj_W7dNAJ_3GmeRAvfTow",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1314718189854",
+        "starRating": "4",
+        "comment": "Very useful app but database cn still be updated wth more information......",
+        "commentId": "lg:AOqpTOECK2UUo80ryOruGWLYgClD-EtRBo4msx9kUeVX6myD2KP3cwyzaAWhPfkCtox-6GxE1sHi2mPsGmU6dg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338319877672",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Outstanding app",
+        "commentId": "lg:AOqpTOGS2kHCTqUYLqIaHXVaNHyCA5e96eusOngIymufrRdufHrDFcKpi7bFmypOfFVWyYaAwx1MPw2E7PxJcQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

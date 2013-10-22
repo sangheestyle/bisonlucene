@@ -1,0 +1,66 @@
+{
+  "title": "Joomla Admin Mobile!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.covertapps.joomlaadminmobilefull",
+  "category": "Tools",
+  "price": "$9.99",
+  "datePublished": "January 19, 2012",
+  "version": "1.1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "3.1666667",
+  "contentRating": "Everyone",
+  "creator": "Covert Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.covertapps.joomlaadminmobilefull",
+  "extendedInfo": {
+    "installSize": "645k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Joomla Admin Mobile! (JAM!) allows you to blog and edit many of the core features from your Joomla! 1.5, 1.6, 1.7 and 2.5 sites right from your Android device! Have someone spamming your forums? Block them with the flip of a switch. Did a user email you that they forgot their password? Change it for them and send them an email to let them know. All without leaving the app! Think you have no reason to 'administer' while on the go? JAM is also the perfect blogging app! Create new articles, set the title and category, and even upload images (coming soon to Android version) from your phone. It couldn't be easier. JAM! allows you to manage these Joomla features:    * Manage unlimited Joomla! sites    * View/Add/Edit/Delete Joomla Articles w/ images (images coming soon to Android)    * View/Add/Edit/Delete Joomla Sections (Joomla! 1.5 only)    * View/Add/Edit/Delete Joomla Categories    * View/Add/Edit Joomla Users    * View/Add/Edit/Delete Joomla Menus    * View/Edit/Delete Joomla Menu Items    * Pagination for all groups - You select how many articles, users, etc you fetch at a time    * Article filtering by section, category, or publishing status    * Edit and insert images into articles (coming soon to Android)    * View/Edit Global Configuration    * Unlimited 3rd Party Plugins    * 3rd Party Plugins allow you to use plugins to access any data on your site (including custom tables and files)All this is made possible with a Joomla! 1.5/1.6/1.7/2.5 xml/rpc component installed on each site. A Getting Started Guide can be found here: http://www.covertapps.com/get-started-with-j-admin-mobile The Joomla component is available below: http://www.covertapps.com/jam Feature planning and request forum: http://jadminmobile.uservoice.com/ Support Forum: http://www.covertapps.com/forum/forum?id=45",
+    "reviews": [
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1336220739863",
+        "starRating": "4",
+        "title": "JAM is Great! Administration on the move...",
+        "comment": "JAM is Great! Administration on the move, keeps me in business.  Quick check to see new users are registered correctly, on the move, so useful.  Really looking forward to the User - Group - Edit feature 2.5/Android ICS, on an HTC Sensation.  Brilliant work Coverts Apps, keep it up!",
+        "commentId": "lg:AOqpTOGmg9LvITqW2totNvdjIW1UefZ9Afk24YX_gyMN6yj2ow6Cul3Hi_9o3swht0D8PeKjdKaZcpA3FHh5cA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1319567436022",
+        "starRating": "5",
+        "comment": "Managing one site was helpful, but I wanted to manage them all from one app. Thank you, Joomla Admin Mobile!",
+        "commentId": "lg:AOqpTOF6AVeSsoSh49hr1s-ADIbhNgbwJOXR8DdG3bsu2u7VaHvHiM4uCeEUj-CZxg46T3n3hOWt45I1L7nq_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1320081632929",
+        "starRating": "2",
+        "title": "Still needs work",
+        "comment": "Getting it to work took a little time butthe staff at covertapps were awesome as far as support goes. Force closes every time you switch to landscape",
+        "commentId": "lg:AOqpTOEbQ78c3yhZ3aaVDvNruA0lWtPnlaFyNFUFDFnLRnDRZYKDBbSA_nd3ETrGMvhspxMoFs-lcJ8wUCqk8A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1320157681955",
+        "starRating": "5",
+        "title": "Worth it",
+        "comment": "Managing multiple sites from my phone just made my life 10x easier.  I look forward to 3rd party support!  Great support too.  Thanks!",
+        "commentId": "lg:AOqpTOHnpgBOWYnsAUWHqeFgqEnPEv5afkl2LtxzpP2Zn2WsMVOkgdGhm6tKxFYAtl7UDly5m5We5HVM6WBGkg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.CHECK_LICENSE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "EcoCAR Year Two Competition",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.ecocar13",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 1, 2013",
+  "version": "2.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.ecocar13",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "During the second academic year of EcoCAR 2: Plugging In to the Future, teams have been developing prototype advanced technology vehicles, and will come together in May to compete in more than a dozen dynamic and static events at this yearâs competition. From May 13-23, 2013, teams will gather for the EcoCAR 2 Year Two Competition at the General Motors Desert Proving Ground in Yuma, Arizona and at locations throughout San Diego, California to compete in more than a dozen technical, communications, and business events. Throughout the ten days, vehicles will undergo engineering tests similar to those conducted by the automotive industry to determine a prototypeâs readiness for production, and ultimately prove the viability of their advanced technology vehicles.Keywords: EcoCAR 2, General Motors, U.S. Department of Energy, Argonne, Automotive Engineering, Plug-In Hybrid",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.ecocar13.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

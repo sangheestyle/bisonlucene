@@ -1,0 +1,46 @@
+{
+  "title": "WIMC - Where Is My Car?",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fmtec.android.wimc",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "June 24, 2012",
+  "version": "9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "10",
+  "rating": "3.3",
+  "contentRating": "Low Maturity",
+  "creator": "Felice Murolo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fmtec.android.wimc",
+  "extendedInfo": {
+    "installSize": "79k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Always find your car with the help of GPS!This application was written to solve one of my everyday problems. Every morning, systematically, I forget where I left the car the night before. The same thing happens to me even when I park my car in one of those big car parks, close to hypermarkets. This application allows you to save your car's position on a map. When you run the application again, it will show your location than your car, allowing you to reach the car without too many problems.From version 5, the app shows also your current direction with an arrow icon on the map.You can use this app also for save GPS position of an hotel or pub or trendy place in a new city where you are in visit.Note: This application uses your phone's GPS and Google Maps, so that the phone must have internet access. The GPS does not work indoors.Note 2: This application is free, but contains within it a space for a banner ad whose content is determined by AdMob, Google's advertising service, like countless other free apps on the market. If you install this application and does not like advertising, can safely uninstall it without posting stupid comments, as did someone.Key: car, auto, parking, moto, GPS, position, location, satellite",
+    "reviews": [
+      {
+        "timestampMsec": "1345972388746",
+        "starRating": "5",
+        "title": "Bionic",
+        "comment": "Pretty accurate, I like the way you can save the GPS position close app and open it up again",
+        "commentId": "lg:AOqpTOGEuCbENjeovbwHqAXGLhRd7kHwEoftpNrLvKhgWZFjs7rMTtgmTWHNm93hjqiol0wmp8KtaBGVQU_cQA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357845089107",
+        "starRating": "1",
+        "title": "Place",
+        "comment": "Why does it say I\\'m in italy",
+        "commentId": "gp:AOqpTOEIvqqzE9NxYpBfcmZlkXB-LKJhnvigV01fc6DKdL5oLHYpWgoNunCX-nkOavWDOE4Ae_VJgUafQ3yvfA",
+        "author": "Smuve MassBeatz",
+        "authorURL": "http://lh5.googleusercontent.com/-a6G-OT8NcKs/AAAAAAAAAAI/AAAAAAAAAY8/Zqaxp_4CCdw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-a6G-OT8NcKs/AAAAAAAAAAI/AAAAAAAAAY8/Zqaxp_4CCdw/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "The UK Crime Guide",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crimeplotter",
+  "category": "Social",
+  "price": "$1.10",
+  "datePublished": "March 27, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Plato's 21st Century",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crimeplotter",
+  "extendedInfo": {
+    "installSize": "374k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Crime location powered by GPS technology.Are you moving? Night out? Going on holiday?The Crime guide is a useful and easy to use way of checking the safety of your area aswell as keeping your family safe and raising societies awareness of the high levels of crimes.By using this app, you are able to find upto 13 different crimes! Using real time data, find exactly how many crimes have taken place in your area or in a specific location of your choice, clearly laid out in google maps. On the map, zoom in to get the specific details of the crime.Crime data from the official police data of the whole United Kingdom. Regularly updated.",
+    "reviews": [
+      {
+        "timestampMsec": "1333021421937",
+        "starRating": "5",
+        "title": "Absolutely fantastic",
+        "comment": "Hooks up your gps and let\\'s you know all the juicy crime data for your area, as well as map views and a handy crime and punishment search. Very quick and easy!",
+        "commentId": "lg:AOqpTOGkH-QSkM7cm2LpGLt96VqXo4r-nub1X85dCTYbeGbxGmIAHnQxrt0Y2Eonz0K9VlBQmM4srvEbLDz1bvk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332956968703",
+        "starRating": "5",
+        "title": "HTC desire",
+        "comment": "The best crime app on android, so easy to use",
+        "commentId": "lg:AOqpTOFoYLHvPtldXXTqKn2P3hBE90XaHp2wE_bV4hasZqMVCRwTdVghOxf66XF6YuU8a4xgso8bC6NktlzDRuU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334625684476",
+        "starRating": "5",
+        "title": ":D",
+        "comment": "Brilliant app..does what it supposed to do.. 5*",
+        "commentId": "lg:AOqpTOFXyWwcZoeCpaR3BCC4ASmslBRWdy9y3lt6CGTDcXnbR4-BRnskO54MXTyleddOuJRrQcGprNggRpq7YAo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333476533150",
+        "starRating": "5",
+        "title": "TrueHero",
+        "comment": "love it",
+        "commentId": "lg:AOqpTOH1PtBMcWI5ANYdn4LZaGzg3bAXAtm5626gBvOWM_9FHDnVR7qxtQT28on_fJYO4n7shTiQeAVOalcF34M",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334579294390",
+        "starRating": "5",
+        "title": "Quite good",
+        "comment": "Wow, a lot of crimes have happened around my area.",
+        "commentId": "lg:AOqpTOGNB8HzIcJZ72tMDfi8xdDsGTTZBI8llqAg08F633vhhJtKzM-_qa_meEEjK_GVYBVZtagGVycbce9E7lc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.PROCESS_OUTGOING_CALLS"
+    ]
+  }
+}

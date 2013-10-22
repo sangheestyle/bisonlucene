@@ -1,0 +1,39 @@
+{
+  "title": "Walk Right Music -App-",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_0f9ab3db9be34361a5b1d0fa4ad80d7b.app",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "January 22, 2012",
+  "version": "1.2.24.20821",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Preston Thompson Jr.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_0f9ab3db9be34361a5b1d0fa4ad80d7b.app",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Walk Right Ministiries presents its first generation mobile applicaton. Its features include free Music, News, Shows and Events right to the palm of your hand. It's Purpose is to give you the leisure to check out Walk Right Music on the Go and talk about it with all of your friends.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_0f9ab3db9be34361a5b1d0fa4ad80d7b.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

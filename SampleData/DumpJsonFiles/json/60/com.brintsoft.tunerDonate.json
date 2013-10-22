@@ -1,0 +1,32 @@
+{
+  "title": "G-Tuner (Donate)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brintsoft.tunerDonate",
+  "category": "Media & Video",
+  "price": "$1.60",
+  "datePublished": "December 22, 2009",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Not rated",
+  "creator": "Mark Brinton",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brintsoft.tunerDonate",
+  "extendedInfo": {
+    "installSize": "26k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Chromatic guitar tuner using microphone input.Notes are shown for the standard guitar tuning, and the colour indicates how close you are to the correct note.Please try the free version first to make sure that it works on your phone.22 Dec 09, v1.2 - keep screen active, minor GUI change",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

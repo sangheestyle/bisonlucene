@@ -1,0 +1,57 @@
+{
+  "title": "Mind Reader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wMindReader",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "September 29, 2011",
+  "version": "0.21.13173.04946",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "ToNic Enterprises",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wMindReader",
+  "extendedInfo": {
+    "installSize": "113k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Mind Reader Wizard reads your mind!",
+    "reviews": [
+      {
+        "documentVersion": "1.13173.04946",
+        "timestampMsec": "1329669497187",
+        "starRating": "1",
+        "title": "Easy",
+        "comment": "Just like every other trick of this sort itvinfact removes all the cards replacing them with similiar looking cards.",
+        "commentId": "lg:AOqpTOHvx9d5B8vW5dk2vlNmqHvDbnP73xieUEwIfg5SNoFTObiTqjgR0_qr3SUyMD-yhyqxKHt3BdLN2MhYy98",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351393662164",
+        "starRating": "5",
+        "title": "Cute trick...",
+        "comment": "I\\'ve seen better but free and keeps my kids entertained.",
+        "commentId": "lg:AOqpTOEFLnCciTt87NUdBwyu4485kkn559SdAVnXYcwyX71Gw-fkL7Vlgtsa2IELv8y4ZO7_7dnVKWijqzuq-ZI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340828998659",
+        "starRating": "1",
+        "title": "Suckess game",
+        "comment": "This sucks I wasnt even thing about anything but it just choose a vard for me.",
+        "commentId": "lg:AOqpTOFGjEeq1MPJ-j9fimkAc85bPIu1cIgQYobui5cmQTH4vucaflENRWVMzfWM4iVKA5bsm1V8hRM9ovvd3rk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wMindReader.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

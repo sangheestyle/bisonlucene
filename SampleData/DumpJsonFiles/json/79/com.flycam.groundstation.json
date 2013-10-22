@@ -1,0 +1,37 @@
+{
+  "title": "Ground Station",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flycam.groundstation",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "April 15, 2013",
+  "version": "6.0.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "FlyCam MultiCopter",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flycam.groundstation",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The FlyCam's MCFC can be controlled using Bluetooth.This application is free.Connect the bluetooth and you are ready to fly!By tilting your smartphone you control the direction of your Multicopter. When you release control, the Multicopter is instantly stabilized in the air. FlyCam Ground Station is compatible with the FlyCam's MCFC and the Naviboard supports only PID setting.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.flycam.groundstation.permission.MAPS_RECEIVE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

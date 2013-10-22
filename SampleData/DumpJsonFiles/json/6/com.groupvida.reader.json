@@ -1,0 +1,59 @@
+{
+  "title": "BajaLibros Reader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.groupvida.reader",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 3, 2013",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "233",
+  "rating": "3.8454936",
+  "contentRating": "Everyone",
+  "creator": "VI-DA Digital S.A.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.groupvida.reader",
+  "extendedInfo": {
+    "installSize": "13M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "BajaLibros Reader is your go-to reading application for ePUB and PDF content. It allows you to read your favorite titles any time, anywere. BajaLibros Reader includes support for eBooks protected by AdobeÂ® Content Serverâthe industryâs most widely adopted rights management system.BajaLibros Reader was designed thinking of you, the reader. Nothing gets in-between your eyes and the texts on screen. Bookmarks, annotations and highlighting are all accessible with a tap. User configurable settings include font size, brightness, page margins, night mode and more! You can even edit the titles information in your library.With BajaLibros you will be able to find your favorite eBooks from the major editorials and also from independent editorials and authors.Try it out and enjoy 5 eBooks for free! (1 in English, 1 in French and 3 in Spanish)",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1351262628777",
+        "starRating": "1",
+        "title": "I don\\'t like it .",
+        "comment": "I don\\'t like the fact that you have to re-download books you already have. Second there is no option for highlighting.",
+        "commentId": "lg:AOqpTOGipZg2_yLN6KLkx65_3_W9Y4asoPNEz8lUW-hgcMlkj0oKquJrrEXS9k3z2eP6bGUMDqPVKsRv4DpUtg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342137708203",
+        "starRating": "3",
+        "title": "Good",
+        "comment": "It does not have good navigation controls and it is too slow. It looks like an iphone application. I\\'m waiting for an update. :-)",
+        "commentId": "lg:AOqpTOGnafPGRcBcVWRSVbCkAE-0UWGgConv3ovIGyHvMIXSeX_o5WL75GBL9DWjkN8tv-kH7P93bmPhcpel_A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341698993210",
+        "starRating": "5",
+        "title": "Jess",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOFdzAIla8fA_XmGMdZs7FyY-Tng3qPhgmJYm1CIM3_YMCKF7U74bCK4XZQXB-xKTYjeF9cwVZGyOwn8qA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

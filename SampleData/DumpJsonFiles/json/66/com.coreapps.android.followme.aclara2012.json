@@ -1,0 +1,49 @@
+{
+  "title": "Aclara Client Conference 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aclara2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 16, 2012",
+  "version": "2.4.5",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aclara2012",
+  "extendedInfo": {
+    "installSize": "7.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The annual Aclara Client Conference provides almost 650 gas, water and electric utility attendees the opportunity to learn about new Aclara solutions for advanced metering, network with peers and industry colleagues, and help drive Aclaraâs product planning. Customers attending the conference also are briefed on upcoming enhancements to Aclara products, including its STARÂ® Network system, TWACSÂ® technology, and software solutions for customer engagement and meter data management, ENERGYprismÂ® and Energy VisionÂ®. Attendees provide feedback to Aclara and meet together to exchange best practices, share solutions to challenges, and validate strategic directions.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Abcba - Group expenses",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.did.abcba",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "September 6, 2013",
+  "version": "1.3.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "15",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "Didier Degioanni",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.did.abcba",
+  "extendedInfo": {
+    "installSize": "5.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "ABCBA: Bons Comptes Bons Amis(this means Good Accounts Good Friends in french)This is a group budget control application. It's goal is to ease the management of expenses in a group of friends.During holidays, roommate, or any event, expense management can be complicated. ABCBA will allow you to enter any expense done by members of a group, specifying who must participate. The application calculates automatically who owes to whom. No internet connection required. No need anymore to make a kitty, or to do money exchanges at each expense!To allow all group members to verify expense details, ABCBA can generate and share reports in different formats: PDF, Excel (XLS), email, SMS... Supports English, French and Italian. Special thanks to Carlo Pite for Italian translation!This free version is adequate in most of situations.Features:- Graphical interface designed to minimize user actions- Possibility to change who owes to whom according to affinities*- No internet connection required- Receipt scanner with powerful cropping and image processing- Icon customized for accounts and expense categories- Not only manage expenses but also refunds and prior debts- Possibility to customize the currency and amount precision for each account- Contact integration (name, picture, email addresses and phone number for reporting)- Generation and sharing/saving of PDF, Excel and text reports by email, sms, Drive, Dropbox, Evernote, etc...- Possibility to export/import accounts directly from Drive, Dropbox, SD card... (for backup or sharing)- Displays user friendly charts to ease understanding of accounts (PDF reports as well)",
+    "reviews": [
+      {
+        "documentVersion": "1.2.0",
+        "timestampMsec": "1372846888792",
+        "starRating": "4",
+        "title": "Good expense sharing app...  only lacking multiple currencies",
+        "comment": "Great app to share expenses for families travelling together.  If features like handling multiple currencies & ability to convert all expenses to home currency for settling debts are added, it will be really great.",
+        "commentId": "gp:AOqpTOHk3jFJ-24kleLdmc1tnpNg4Mwo8S3KQf8HrghaOLiodJl1bXTqilwhHm9mJJO-TsJm4L7EPGOF2GjWEA",
+        "author": "Sum Lim Ho",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.0",
+        "timestampMsec": "1373928171215",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Nice group budget control app. Totally recommend it",
+        "commentId": "gp:AOqpTOHJVOjk4pTnGax9vxv3s5NC8DPzJ8KJBIHu5-J8ctCoQM8qC9EWJ7MdXtl8a98kEZrN2v6Dj3LwkF8t2Q",
+        "author": "Bruno Cavalcante",
+        "authorURL": "http://lh4.googleusercontent.com/-l6AhH2kTAAY/AAAAAAAAAAI/AAAAAAAAFKw/9DL6pssK_v4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-l6AhH2kTAAY/AAAAAAAAAAI/AAAAAAAAFKw/9DL6pssK_v4/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1369164165557",
+        "starRating": "5",
+        "title": "Best Household Expense Splitting App in 100\\'s",
+        "comment": "This app is great. Easy to enter transactions. Allows you to split transactions both equally and unequally.  Also sorted transactions in date order.  Plus allows you to assign a category to each expense to monitor your spending type as a household, rather than just individually.  If only it would export to Excel it would be very close to perfect, but the summary PDF is very nice!",
+        "commentId": "gp:AOqpTOHlNaql4UjGEfgkuFBW_Sf4wyNH5Zc6AobSzJM63ZmDhbrXy2INZhDHLupf2R6dTUv0bmP8cXKcyfXsqg",
+        "author": "Fiona Whitby",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Speed QR",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doubleguy.zxing.client.android",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "February 16, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "25",
+  "rating": "4.56",
+  "contentRating": "Everyone",
+  "creator": "DoubleGuy Corp.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doubleguy.zxing.client.android",
+  "extendedInfo": {
+    "installSize": "295k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "ê°ì¥ ë¹ ë¥¸ QRì½ë ë¦¬ëìëë¤. ìì£¼ ë©ë¦¬ ìë QRì½ëë ì ë§íë©´ ë°ë¡ ì¸ìë©ëë¤. QRì½ëìì íìí ê¸°ë¥ ì´ì¸ì ê¸°ë¥ë¤ì ë£ì§ ìì ë§¤ì° ë¹ ë¥´ê³  ê°ë³ìµëë¤. *ì£¼ìê¸°ë¥ * QR ì½ë ë¦¬ë© ëªí¨ì© QR ì½ë ì¸ì - ì£¼ìë¡ì ë°ë¡ ë±ë¡ ê°ë¥ ì¸í°ë· ì£¼ì QR ì½ë ì¸ì - ì¸í°ë· íì´ì§ë¡ ë°ë¡ ì´ë ì§ë¦¬ì ë³´ QR ì½ë ì¸ì - ì¢íì ë³´ë¥¼ ì§ëì íì ê°ë¥ E-mail QR ì½ë ì¸ì - ë©ì¼ ì ì¡ ê°ë¥ ì íë²í¸ QR ì½ë ì¸ì - ë°ë¡ íµí ê°ë¥ íì¤í¸ QR ì½ë ì¸ì",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.INTERNET",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "title": "Assistant Event for Tasker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emptypath.taskerassist",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "February 22, 2013",
+  "version": "1.4.0",
+  "operatingSystems": "4.1 and up",
+  "ratingsCount": "20",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Empty Path LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emptypath.taskerassist",
+  "extendedInfo": {
+    "installSize": "69k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This Tasker plugin lets you use the \"Google Assistant\" gesture (that by default fires up Google Now) as an event in Tasker to execute the task of your choice.The gesture exists since Android 4.1 and can be activated by long-pressing on the Home button and then dragging to the icon that appears in a half-circle above.It may also be available on some devices by hitting the Search button.This plugin should also function in Locale and other apps that use the same API, but I have not tested with anything other than Tasker.Note: This is not a full app on its own; it only functions in conjunction with Tasker or another app that implements the Locale plugin API.Once you have installed this app, you will see the plugin as a context within Tasker (under State > Plugin).  Then, if you perform the Assistant gesture, you should be asked which application to direct it to.  Choose this application, and for best results, select that you want it to always be the choice.Please contact me via email with any issues, as I can't respond to your review directly.Neither this app nor Empty Path LLC are affiliated with Tasker, Locale or any similar app or author.",
+    "reviews": [
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1376213836419",
+        "starRating": "2",
+        "title": "It tries",
+        "comment": "When I set it to always touch wiz crashes",
+        "commentId": "gp:AOqpTOGaIHs56-Ve3ecVyq4sE4FIfT2_xlrXKzv2rZfshhIHkgmDQVgiH4oHUe4KCOwc-3GwN7eo0SuS7-hPQA",
+        "author": "ethan frienling",
+        "authorURL": "http://lh3.googleusercontent.com/-gOr_EceOZxU/AAAAAAAAAAI/AAAAAAAABZY/OFP1AjhuNxY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-gOr_EceOZxU/AAAAAAAAAAI/AAAAAAAABZY/OFP1AjhuNxY/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1358358965311",
+        "starRating": "5",
+        "title": "Brilliant",
+        "comment": "Does exactly what is says on the tin. Great work.",
+        "commentId": "gp:AOqpTOHL0P6o_COduLwknwwQ72_YPzu-JtopNr6ZeK8sHylVTDXuLUrGmU7FZZFyP3VfB7UtqBK7kZ8jeIY_xg",
+        "author": "Scott Almond",
+        "authorURL": "http://lh3.googleusercontent.com/-3hGeAtqRoAw/AAAAAAAAAAI/AAAAAAAAAoI/vW2eWBTlK5k/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-3hGeAtqRoAw/AAAAAAAAAAI/AAAAAAAAAoI/vW2eWBTlK5k/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1376305803514",
+        "starRating": "4",
+        "title": "Samsung touchwiz issue",
+        "comment": "I got a touchwiz problem too. When set up as default it makes the recent tasks command crashes, says the system ui crashes or something like that",
+        "commentId": "gp:AOqpTOGTCI0g3wmhKqd3BIGMyaBkQ-BYuPHAWp-f7PwIOJZhAlmDdM5QcJHPErdYiBR2Vcj5GbIXXnULCUKwuw",
+        "author": "Sigit Pratomo",
+        "authorURL": "http://lh4.googleusercontent.com/-Z94fMkQi9QM/AAAAAAAAAAI/AAAAAAAAA0E/jlWoxSbwqHw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Z94fMkQi9QM/AAAAAAAAAAI/AAAAAAAAA0E/jlWoxSbwqHw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1371609741446",
+        "starRating": "2",
+        "title": "Does what it does but ...",
+        "comment": "When you set assistant event as all ways by default,  touchwiz crashes when you call it again. Will change to 5 star if there is a workaround or is fixed.",
+        "commentId": "gp:AOqpTOHIcf78yj40oQuALKjiGxVO-BsLyPIZH8CgH59cXnzCyv8yCKmLXfSHFoHiLBq_v7JSNJMF7j3cXMK10w",
+        "author": "Keith Garcia",
+        "authorURL": "http://lh4.googleusercontent.com/--y4S7l_T9DA/AAAAAAAAAAI/AAAAAAAAAxc/jSmaSPk8nKg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/--y4S7l_T9DA/AAAAAAAAAAI/AAAAAAAAAxc/jSmaSPk8nKg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1373618987880",
+        "starRating": "3",
+        "title": "Works perfectly but",
+        "comment": "Only if I choose to start the tasker task just once  If I press on always and start the action again my \\\"system ui\\\"  crashes which means that I can\\'t use my phone for several minutes - sgs4 with stock rom",
+        "commentId": "gp:AOqpTOEmvBZf2fBL30QpZ-S8BDI7E59oWoLQkYBdvVXkCvxg_Z2pZmHHs8oWmgsyQ_eVJSf_pa2ZQX_YCBTopg",
+        "author": "Bharat Bhatia",
+        "authorURL": "http://lh4.googleusercontent.com/-C2GBrrcZkmw/AAAAAAAAAAI/AAAAAAAAA2o/FgUygjSQxEM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-C2GBrrcZkmw/AAAAAAAAAAI/AAAAAAAAA2o/FgUygjSQxEM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1367896378213",
+        "starRating": "5",
+        "title": "Phenomenal!",
+        "comment": "Especially useful since sliding the home button can be exchanged for this! Basically, sliding the home button means you launch whatever you want!",
+        "commentId": "gp:AOqpTOGkKbQJHbnWdfnoCgB7HywgRqb65wyz-DVZd-46Gu2_AgZKF-VPLXc14LpToqYt9Hb4Dx7_mNVUzbRlrA",
+        "author": "Michi Anne",
+        "authorURL": "http://lh6.googleusercontent.com/--AeeTm54oKU/AAAAAAAAAAI/AAAAAAAASos/0-G_cmLJmXM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/--AeeTm54oKU/AAAAAAAAAAI/AAAAAAAASos/0-G_cmLJmXM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1361743991722",
+        "starRating": "5",
+        "comment": "Excellent",
+        "commentId": "gp:AOqpTOFKLEcCx2vnWghuk66NKBE7nYPUPkmpHLmHhi4wlyw1VYMzjW0ekRxIcrR8xSsVxiJaNeH49ej8NKm9tw",
+        "author": "Shahar Ofir",
+        "authorURL": "http://lh5.googleusercontent.com/-gmWEYofztpE/AAAAAAAAAAI/AAAAAAABjao/SEgwpgx1C6Y/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-gmWEYofztpE/AAAAAAAAAAI/AAAAAAABjao/SEgwpgx1C6Y/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1355597357394",
+        "starRating": "5",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOFuo9qhjcHCn63ieKVpGuS3bVg8f_Hi6BhzFw3QjvFzNJ4myPUIhA5s5NaRmRRMG17-q1EooIzn4eXCFQ",
+        "author": "Amir Hossein Navabi",
+        "authorURL": "http://lh3.googleusercontent.com/-Fk_ivQ9L8FU/AAAAAAAAAAI/AAAAAAAAAGg/qeCi5JtKogk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Fk_ivQ9L8FU/AAAAAAAAAAI/AAAAAAAAAGg/qeCi5JtKogk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1368376270265",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Does what it says, which is exactly what I wanted.",
+        "commentId": "gp:AOqpTOEIxmeqy95UA749-oG6s-yWgTljjGDdyqzIy4iU7MD8OXk7aLm8ywnzp55qgmd-pJAQlXMGbnwrGPv__Q",
+        "author": "E. L. Wilson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368198916598",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "I was looking at using Secure Settings Pro to do exactly this. I\\'m glad I didn\\'t spend the $1.50 on SS since that was the only feature I wanted and this does it perfectly. Great App.",
+        "commentId": "gp:AOqpTOGpUkA7AFGo20VTIIvR4lDDiGdRU7Tg7wqjA57Da_kZjifqWXtg_r3dedvcVbOi5HptPQIee0pVEY-GeQ",
+        "author": "Paul Denson",
+        "authorURL": "http://lh5.googleusercontent.com/-gyaoYJlyG1I/AAAAAAAAAAI/AAAAAAAAAkU/Yv5rDNbgVEw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-gyaoYJlyG1I/AAAAAAAAAAI/AAAAAAAAAkU/Yv5rDNbgVEw/photo.jpg"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

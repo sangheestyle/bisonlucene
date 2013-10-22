@@ -1,0 +1,229 @@
+{
+  "title": "Nexus S Charger",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elondra.nexusscharger",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 8, 2011",
+  "version": "1.1.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "85",
+  "rating": "3.8705883",
+  "contentRating": "Everyone",
+  "creator": "Elondra",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elondra.nexusscharger",
+  "extendedInfo": {
+    "installSize": "30k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Warning: This app is only for Nexus S, not for any other model.Many Nexus S have a bug that makes battery charge above 95% impossible, unless you use some nasty tricks (enabling the debug option that keeps the screen on while charging and enabling the Wifi AP mode / Wifi tethering).This app makes that easier for you:When you plug your Nexus S the app launches automatically and keeps the screen on while it's running. It will try to enable the Wifi AP mode, though sometimes that doesn't work, but it will warn you and take you to the settings screen so you can activate it.When the charge reaches 100% the app automatically disables Wifi AP, and closes, so the screen will go off after a while.PLEASE, TAKE NOTE THAT THIS APPLICATION ONLY HAS SENSE WHEN YOUR PHONE IS CHARGING.IT IS NORMAL THAT THE PHONE GETS HOT: CHARGING, PLUS SCREEN ON, PLUS WIFI AP LEAD TO THAT.Please, take into account that when trying to enable the Wifi AP the application will try to use your current configuration, and if it doesn't find one it will create a random WPA-PSK protected one. Be careful and if you create you configuration make sure to use WPA-PSK and a good password, because you are sharing your 3G connection to anyone connecting to your wifi.Hopefully, this bug will be resolved and this app will not be necessary, but in the meantime it makes it more bearable.The application will show a black screen with a dim clock, so the screen is not too bright, making it easier if you want to put the phone to charge in your bedside table (and use it as a clock).Please, take into account that this app is BETA software, so don't give a bad score to it. Mail us with any issue you might have.We have tested the app with a Nexus S phone, and in fact the application will refuse to work on any other model.By installing this application you do it at your own risk, and accept the following:Disclaimer of Warranty.THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM âAS ISâ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.Limitation of Liability.IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1350923100796",
+        "starRating": "5",
+        "title": "Works Great! (When Used as Directed)",
+        "comment": "Have been using this for a year or so and while it doesn\\'t always get me to 100%, it does make a huge difference in battery life.  Thanks for this very useful app on what is now sadly considered an outdated device.",
+        "commentId": "lg:AOqpTOG3xxBZoGM-F5F7yNVjk5yrGsFCSnSAQKhV6stm2rbEut6lMTPjELIFHNvvUavdxe_7ivoV6RMpKP2yDw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1330712138067",
+        "starRating": "2",
+        "title": "Unable to get 100%",
+        "comment": "- ICS 4.0.3 version is used in my Nexus S, and always shows, wifiap is disabled... Even if it is enabled... Pls fix",
+        "commentId": "lg:AOqpTOEatRd_JI7n4kZ2e6KnlgQfrTsUtwt_NDwPHVhrN3oIgSOE-wXZtLMyQHFxNXZ6xjIOUhsGlUxC6tjf1A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1325349644515",
+        "starRating": "4",
+        "title": "Interesting app. Seems to work on my NS4G.",
+        "comment": "Samsung\\'s kernel stops charging at 95% or so to protect the lithium cells, but I\\'d rather have a full charge than a battery that lives for years. Odd thing about this app: my phone starts discharging at -800mA as soon as it hits 100%. NS4G, ICS 4.0.3 AOSP rom",
+        "commentId": "lg:AOqpTOHAsZA7cWS9jfM4Y9RFAEvtGT9Gz59LFD86MWGDv8dr9D_GdW1SgvOPaJDXPS0ZHrgQchoxl1ZXhPoanw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1351646933992",
+        "starRating": "5",
+        "title": "It Works!!",
+        "comment": "My Nexus S 4G used to be reached only 94%, now it can be charged until 100%.  Please consider to add sound notification when the battery is fully charged. Somehow, It\\'s such a relief to here \\\"Charging complete!\\\" :)",
+        "commentId": "lg:AOqpTOEDuNveBhTFjxVOOtip7a9Vu5A8CvGqDxDDgS_9hKKR1gjQepEzqVHGv-SuzVs5wfW4b2SzgSrq_ErxNQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1329353908230",
+        "starRating": "4",
+        "title": "Works great, BUT...",
+        "comment": "The only problem that a found is that after it charges completely, and it still is on thr charger, it starts to discharge up to 96% again.  This succs because when I leave it charging at night, on the morning I don\\'t get 100% battery life.",
+        "commentId": "lg:AOqpTOE4WswnI48ZNfXn1CdeSbuEddOLL2XijedO6Zbhn2QZkuw-8d6sHRFN8EryH7MlFatSiUCvrpzKTi30BQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1361507474510",
+        "starRating": "5",
+        "title": "Does exactly what it says it will.",
+        "comment": "What more do you need? This fixes a problem.",
+        "commentId": "gp:AOqpTOHLI5xtDnHnvyFxZElKZpGgNiyshHr1WONSWZG6Fu8HqTBQPP6hHtxR-lStKTrP2mXNnC_YzKCGlCquBg",
+        "author": "James Cox",
+        "authorURL": "http://lh6.googleusercontent.com/-DpHXsQMxOj8/AAAAAAAAAAI/AAAAAAAAEzY/Jh1MWkt6acw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-DpHXsQMxOj8/AAAAAAAAAAI/AAAAAAAAEzY/Jh1MWkt6acw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1338041383307",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "Samsung Nexus S, once I upgraded to 4.04, program always says AP is disabled but when you go into settings it\\'s enabled",
+        "commentId": "lg:AOqpTOFrkv4FE8ABVbfKHGTFoBtvhAMXxJtbaBnHIMAxBtXAW5QiHYybEdKTtMRMCG0nmNo0xchUNdI36z-fDw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1371398191372",
+        "starRating": "1",
+        "title": "Bugs",
+        "comment": "Unable to connect to my pc while connect usb",
+        "commentId": "gp:AOqpTOGD7rV2cXVMVDTTQRgLCYMZldkXAYVSS2RtOheIJox0m_PAkczoDv1oTb_ZkS3jKpV-kVZx0UAc7ow9MQ",
+        "author": "Sheryl Xuan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1330776918374",
+        "starRating": "5",
+        "title": "good",
+        "comment": "thanks,good to have finally the 100%!",
+        "commentId": "lg:AOqpTOFgUvdHWpiN8RSI8Y3PHyhXfU5450kicVgNKfQB383kqCIcrtctYDySSMHwOWiz-OpNwcEky5TtF-636Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1317703810048",
+        "starRating": "4",
+        "title": "No longer stuck at 97%",
+        "comment": "Finally the \\\"charged\\\" battery which says 97% on the battery info page is now 99-100%.. even the new android system didn\\'t fix the bug but thanks!",
+        "commentId": "lg:AOqpTOFFu3H0ZSN-9xxw6xPJhw9Ip_-ZYizrHBhmw0ASlfSWghrPWyAMLrLI21G8H-Ce5q37F-vM0Oqa41ZEew",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1330782076388",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "Works well",
+        "commentId": "lg:AOqpTOEtkgTQZf3T0o3ScVB82P_314MI8edozFB63etZPR0uoda9kFY0-fiqACZcK7rrF0o9jKXKtMqyw40kUg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1311856835876",
+        "starRating": "1",
+        "title": "NOT SAYING THIS IS A BAD APP",
+        "comment": "I did not give it a 1 star because it is a bad app, but because it will not work on the Nexus S 4G running 2.3.5.....",
+        "commentId": "lg:AOqpTOGpuSqUuAZQLT4mk1SJbhs2vADFMVVA9FD-gu6e-CytmOXTwQpqaLSEBwWWDQvSDR9EshANIlpSfBgzgQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1313100873155",
+        "starRating": "5",
+        "title": "Works perfectly!",
+        "comment": "Works as described now at 100%!",
+        "commentId": "lg:AOqpTOHWEl6AC1HUgjCbzoKgRKPLWgUtVsu81QOZMggmS3Zt7JYRIn0rQ9s_5IIRoB0gzVPGK_nu5IwbIldHjA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1350692607949",
+        "starRating": "1",
+        "title": "Bad",
+        "comment": "Doesn\\'t work on my nexus",
+        "commentId": "lg:AOqpTOEffBOGuA01bGCN6zghoQJqwvezwUqpU6-4utOKB-wnw36XYbpyW-TsJ2EM4bvKy6RULLI3UlKqpdislQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1313613258386",
+        "starRating": "4",
+        "comment": "changed to 5 star because found the option to dim the clock. Now I use this application everyday.",
+        "commentId": "lg:AOqpTOGgZr4zblQnR50VV3Ngdt0RdWN-AM_m4ZUVX_q0LFy0zb91g0drjrXX8fH3jqQ9iF3ngaUYgGLpuEUY4w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1364712899554",
+        "starRating": "1",
+        "title": "Didn\\'t work :(",
+        "comment": "No better then 96%",
+        "commentId": "gp:AOqpTOEPUkRC8z22ilOuNPAm-dU7WzJnzTx42DFJbc0I3LouSzroYnaPA0-T40yZko8oMAu_z6NRvOEwID-bCA",
+        "author": "Tina Aubut",
+        "authorURL": "http://lh5.googleusercontent.com/-68iKBa6yxpg/AAAAAAAAAAI/AAAAAAAAAD8/iPRBgtvRWZs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-68iKBa6yxpg/AAAAAAAAAAI/AAAAAAAAAD8/iPRBgtvRWZs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1316190430210",
+        "starRating": "4",
+        "title": "worked but was too long period",
+        "comment": "it worked for mine but charging period was too long can be it harmful for battery life ?",
+        "commentId": "lg:AOqpTOGVsggJ7R2eAIUdh7Qng_0tW8V0tXQ4BCLpqoVxWZzb-Zf7S2j3kDwc0nDqquOmOpuFmA-FGod5oVRk7g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1329923437547",
+        "starRating": "4",
+        "title": "Needs a toggle switch",
+        "comment": "I don\\'t want this everytime I plug in...",
+        "commentId": "lg:AOqpTOGqZnNPLiDZy0CpGUhwzYY320X1iOJqP5bNcKRXQTKvPEHjz_RErsv2YEQLg9cz-yNes1TMTF5_t9zmLQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1318619289927",
+        "starRating": "1",
+        "title": "Wifi issues",
+        "comment": "Everytime I turn this on it keeps turning on my hotspots.",
+        "commentId": "lg:AOqpTOFYVxW17-ASvhazhB4DbR7NJK_p7UmF2_PwOBT078KQdScngRGa5y1QXmpoImbv1W8nnY7SCB4TNe9ZrQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1326994915849",
+        "starRating": "5",
+        "title": "Nexus S",
+        "comment": "Works great on my Nexus S :) and it improved my battery life  Thank you so much.",
+        "commentId": "lg:AOqpTOErsjFQnLEF0ySc-X2yqRwg9d9msVFNk1q-qK4iJosv2QtJsK7uEvCjiN-RH_9n6RlReo0HKlbv5t7WEA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Park Yourself !",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dveteam.parkirajse",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 4, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Aranea",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dveteam.parkirajse",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "is used to find and save your location with the help of the internal GPS device in your mobile phone.In order to save your location press the green button on the home screen\tto delete the currently saved location press the menu buttion and choose the option \"Clear saved Location\" If you park in an area that has zone parking you can send a message with the press of the message button on the home screen just below the save location button.Note: This option is available even if there is no GPS fix available.If you want to send a message for Start then the zone closest to you is picked and added to your message. In case the zone is not correct you can pick from a list of available nearby zones.In case of zone parking the counter starts after the \"start\" message is sent.You can also automatically add alarm notifications (by clicking the menu button and then configuration)that will notify you before the expiration of every hour you are parked at Zone parking or Paid Parking.",
+    "reviews": [
+      {
+        "timestampMsec": "1295143284147",
+        "starRating": "5",
+        "comment": "Great app",
+        "commentId": "lg:AOqpTOF-FYG-xBM24rbPA0SzpkL-n_IcAAkJy04WPGYRFt0_aCWtIdNSrbfGopXQIMJFDH62jdq_g5nXOeEmjA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1295139999639",
+        "starRating": "5",
+        "comment": "Great app. Lot of potential, lets see where it leads",
+        "commentId": "lg:AOqpTOEuXVyiOclCWfX3f4ai-C2daEZNoNuycbBIrVutyD-kzSMn-0s_wcgOKSWTrbu3dxvA8NteQjyKvjsqnA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.SEND_SMS",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

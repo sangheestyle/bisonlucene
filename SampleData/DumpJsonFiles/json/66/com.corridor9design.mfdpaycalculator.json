@@ -1,0 +1,30 @@
+{
+  "title": "MFD Pay Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.corridor9design.mfdpaycalculator",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "July 21, 2013",
+  "version": "0.40",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "C9Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.corridor9design.mfdpaycalculator",
+  "extendedInfo": {
+    "installSize": "397k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This application is designed specifically for the members of Madisonville Fire Department. There is currently no way for this application to apply to anyone else as the formulas are currently static. This may change in the future, but not until I have a bit more coding experience as this whole application is a learning process.This application is designed to calculate the base & gross amounts that a member will receive on their paycheck. it takes into account the number of scheduled shift days, holidays, and any unscheduled overtime that an employee worked. It will calculate based upon the base pay, overtime 1, and overtime 2 values of a particular pay scale. There is also an advanced mode that will allow users to tweak their pay rates for an even closer approximation. Also factored in are longevity and state incentive based upon which pay period is selected before calculating.While this application is designed to update while preserving your preferences, understand that this is still a work in progress and changes in the preference structure may affect the way updated versions work. If you experience 'force closing' of the application, please delete all data from the System Settings->Apps->MFD Pay Calculator menu. Also note that there was a previous build of this application that is not compatable with this one. If you have something other than \"MFD Pay Calculator\" installed, please uninstall that application prior to installing this one. You will likely receive errors and force closes if you do not.NOTE: Premium key purchase is implemented in the application uploaded. However, there is very limited functionality for this currently. In short... DO NOT purchase this unless you're considering it a donation for work up to this point, or any future additions that may be included in a premium version._______________Ver_0.40Fixed landscape usability bugDeductions 90% implementedRefactored CodeVer_0.37Bug fixesVer_0.35Complete rewrite of codeOnly supporting ICS & AboveSimplified UIAdvanced layout displays null errors in redMore advancements to come: deductions next!Ver_0.30:Moved ad to About Screen; much less annoyingChanged SImple Layout Preference to default offTransitioned to ICS style action barVer_0.29Added AdMob for testingChanged PreferencesFix: Rank was incorrectly calculatingVer_0.28aFixed rotation bug on tabletsVer_0.26Added rank information to main viewVer_0.25:Created simple layoutFixed decimal point bug in tablet landscape viewImplemented rank preferenceFixed FC on empty GUI fieldVer_0.15:Moved GUI elements in tablet versionChanged the way values are handledFixed major calculation bug for all tabletsVer_0.10:Keyboard now hides on calculate functionRemoved settings from menu.Bug fixesVer_0.08Complete rewrite of entire application.Initial version._______________Permisisons:Uses Internet: Necessary for advertisingAccess Network State: Necessary for advertising",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

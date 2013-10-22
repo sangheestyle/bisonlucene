@@ -1,0 +1,30 @@
+{
+  "title": "Error Function Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.erf",
+  "category": "Productivity",
+  "price": "$0.99",
+  "datePublished": "December 13, 2009",
+  "version": "1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Not rated",
+  "creator": "Business Compass LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.erf",
+  "extendedInfo": {
+    "installSize": "429k",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "1. Computes the value of the error function (a.k.a the Gauss error function) evaluated at a value of x. The value returned will be the error function evaluated along the integral from zero to x.2. Computes value of the complementary error function.  Error function evaluated along the integral from x to positive infinity.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

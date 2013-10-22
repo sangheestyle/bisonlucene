@@ -1,0 +1,38 @@
+{
+  "title": "2013 Honeywell Users Group",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.hug2013",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 16, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.hug2013",
+  "extendedInfo": {
+    "installSize": "3.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Honeywell Users Group for Buildings Symposium is a 4-day educational event where customers have the opportunity to network with industry peers, explore different problem-solving approaches and discover best practices implemented by other attendees. The 2013 symposium will be held at the Fairmont Scottsdale Princess, June 9-13. Further details at www.honeywellinteract.com Note: This app is restricted to conference attendees only through password protectionKeywords: Honeywell, Users Group, HUG, Honeywell Users Group, Honeywell Users Group for Buildings",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.hug2013.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

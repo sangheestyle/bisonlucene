@@ -1,0 +1,39 @@
+{
+  "title": "Expert Witness Directory",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wWitnessDirectory",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "November 4, 2011",
+  "version": "0.21.13204.03731",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Veritas Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wWitnessDirectory",
+  "extendedInfo": {
+    "installSize": "109k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Witness Directory has linked lawyers with expert witnesses from the US, UK, Canada and Australia for over 14 years.",
+    "reviews": [
+      {
+        "documentVersion": "1.13204.03731",
+        "timestampMsec": "1328270680914",
+        "starRating": "1",
+        "title": "No better than web browser",
+        "comment": "Doesn\\'t seem like an app.  Works just like the browser.",
+        "commentId": "lg:AOqpTOHWDHkhGm73US8IvkoQ9HQGvDXYi-Ns4AFEa9qR3BcvqpPAe5-fI7o5Zn9SGJnWVyeHlMGFiHWZOvUgag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wWitnessDirectory.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

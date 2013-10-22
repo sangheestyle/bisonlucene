@@ -1,0 +1,51 @@
+{
+  "title": "UNLVino 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.unlvino2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 10, 2013",
+  "version": "4.2.3.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.unlvino2013",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "UNLVâs William F. Harrah College of Hotel Administration and Southern Wine & Spirits of Nevada proudly welcome wine, beer and spirit enthusiasts to the 39th annual UNLVinoÂ®, captivating Las Vegas with four days of events, April 18-21, 2013. Nevadaâs original wine festival continues its mission to raise millions of scholarship dollars for students of UNLVâs Hotel College.   No one under 21 will be allowed entry into any of the following events.  Current State issued photo ID will be required for admission. âBubble-Liciousâ at The Venetian â Thursday, April 18: 7-10 p.m. Guests to Bubble-Licious will enjoy an evening of exquisite champagnes, sparkling wines and champagne cocktails accompanied by delectable cuisine from The Venetianâs celebrated restaurants. âSake Feverâ at The Mirage â Friday, April 19: 7-10 p.m.Sake Fever, this celebration of the most authentic Asian beverages and cuisine, will immerse guests in the tropical oasis of The Mirageâs resort pool.âGrand Tastingâ at Paris Las Vegas â Saturday, April 20: 7-10 p.m.The main event and a Las Vegas tradition, UNLVinoâs Grand Tasting features an incredible collection of international wines, specialty beers and craft cocktails complemented with cuisine prepared by UNLV studentsâBAR-b-qâ at Cleveland Clinic Lou Ruvo Center for Brain Health â Sunday, April 21: 11 a.m.-2 p.m. UNLVino debuts a mixology-focused, star-chef-studded BAR-b-q, featuring cuisine from celebrity chefs and craft-cocktail creations by Master Mixologist Francesco Lafranconi.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.unlvino2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

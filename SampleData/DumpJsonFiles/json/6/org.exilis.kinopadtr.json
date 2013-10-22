@@ -1,0 +1,35 @@
+{
+  "title": "KinoPad Turkish - Image Search",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=org.exilis.kinopadtr",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 16, 2012",
+  "version": "12.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "exilis",
+  "creatorURL": "https://play.google.com/store/apps/details?id=org.exilis.kinopadtr",
+  "extendedInfo": {
+    "installSize": "613k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "KinoPic is an interactive image searching box for toddlers.- very simple interface- type a letter or words and get image search results- the Text-To-Speech engine(Powered by iSpeechÂ®) reads out what you typed- bad word reporting feature protects your kids from inappropriate search results",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

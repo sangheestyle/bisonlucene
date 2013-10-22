@@ -1,0 +1,52 @@
+{
+  "title": "Cake Face",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cakefaceapp",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "February 9, 2013",
+  "version": "1.0.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Low Maturity",
+  "creator": "Cake Face, Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cakefaceapp",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Cake Face - the real time photo sharing app for special events!Capturing, collecting, and sharing event photos just got a whole lot easier! Guests take pictures through the app, which are uploaded to an online album the moment they are taken. To use Cake Face for your event, register at http://cakefaceapp.com and purchase an album which includes unlimited photos and storage. Guests take pictures by entering your unique album ID and then just snap away!Additionally, if you choose to set your wedding as public, it will be displayed in the map on the day of the event.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1339516660956",
+        "starRating": "5",
+        "title": "Liz",
+        "comment": "Looking forward to using the app at my wedding! Amazing idea",
+        "commentId": "lg:AOqpTOEoVleLl-D0figGSWxu_LOOynKe6znco48VEPVpKiiMxTCNOSJDkE2FT25fO1SR1SjF2cNS8rh9m-c2GZI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1336840991716",
+        "starRating": "5",
+        "title": "Great Job",
+        "comment": "Such a great idea, looking forward to my wedding!      -Nick",
+        "commentId": "lg:AOqpTOH0B7CfguZKbtteeu4bNHEZB9zBd4PXWC2v280U58dQlUxCDyBysXYFjOny2B-NxJ4uGHk-XDE2Mg7jaQU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

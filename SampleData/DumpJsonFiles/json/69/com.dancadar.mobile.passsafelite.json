@@ -1,0 +1,55 @@
+{
+  "title": "Pass Safe Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dancadar.mobile.passsafelite",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "January 23, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "8",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Dan Cadar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dancadar.mobile.passsafelite",
+  "extendedInfo": {
+    "installSize": "65k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Pass Safe Lite is a password manager for Android. With Pass Safe Free you can have all your passwords in one place, protected by a master password, so you'll never lose a password again. All passwords are stored locally on the phone.MPORTANT NOTE:THIS APPLICATION REQUIRES INTERNET CONNECTION IN ORDER TO GET AND DISPLAY THE ADS. THIS APPLICATION WILL NOT SEND YOUR PASSWORDS TO THE DEVELOPER OR ANYWHERE ELSE. IF YOU STILL DO NOT TRUST IT, YOU CAN BUY THE PAID VERSION, WHICH DOES NOT REQUEST INTERNET CONNECTION BECAUSE IT'S ADD FREE.This is a free version, supported by ads. If you like it and you want to support the developer, please consider the paid version (Pass Safe).KW: Android Password Manager, Password Safe, Save Password, Store Password, Manage Passwords, Password, Manager",
+    "reviews": [
+      {
+        "timestampMsec": "1334206986154",
+        "starRating": "1",
+        "title": "Disappointed",
+        "comment": "I backed up file, had to get new phone, went to download in New phone n wouldn\\'t work.  It was a broken file.  Lost all my passwords",
+        "commentId": "lg:AOqpTOGdh9HS8DN7qg16DmIxX0eSMi_zXOcaGMHHpy2Kz_WLaD3-msVzlVQY9xXV8usFr1cVMIw2xAz3sjFCfQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324399808919",
+        "starRating": "5",
+        "comment": "Very nice app!!!",
+        "commentId": "lg:AOqpTOF5CfYd-7m_jaUBWJQrWCBgGdemF59Ph5Jm9kUaxlfNNI4fLS6vHgYc-0gFfLeZ4zJbWO-TArkXoVtcoQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317375255447",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Great little application. Simple and easy to use.",
+        "commentId": "lg:AOqpTOFNWIO_dZSdy_yGigdWGa7T38TRNltTB5Wfa8F8fMHmQ7TOkzVGswU7_DSht_f8cbV7kYp0wBXmfc1C5w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

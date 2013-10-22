@@ -1,0 +1,43 @@
+{
+  "title": "Shoot The Can",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.egames.shootthecan",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "September 17, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "ethicalbob",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.egames.shootthecan",
+  "extendedInfo": {
+    "installSize": "205k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Have you ever used a slingshot? Show us you have good aim and hit the can. Keep the can in the air and get many points.Instructions:Shoot the can and keep it in the air. Use the TAP to aim and shoot.Tags: shoot, shooting, can, keep, beat, slingshot, addictive, en",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

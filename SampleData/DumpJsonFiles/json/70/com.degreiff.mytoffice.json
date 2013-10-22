@@ -1,0 +1,49 @@
+{
+  "title": "Mighty-Office",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.degreiff.mytoffice",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "July 14, 2013",
+  "version": "1.29c",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "70",
+  "rating": "4.785714",
+  "contentRating": "Low Maturity",
+  "creator": "Mighty GmbH",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.degreiff.mytoffice",
+  "extendedInfo": {
+    "installSize": "7.3M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Mighty-Office is now provided by Mighty GmbH and Alexander de Greiff.Incubated by Deutsche Telekom. When you work in a large enterprise, with the Mighty-Office App you find your offices worldwide and leverage the potential of your company. Thank you for over 9000 active users from Bayer, BMW, CapGemini, Dachser, DBSchenker, Deutsche Telekom, EADS, E.ON Henkel, IBM, Remondis, Swiss Post, TÃV, UBS. hub:raum, the Incubator of Deutsche Telekom has selected Mighty-Office for the Accelerator Program.  Office data can only be downloaded after successful verification process. Therefore the office email address is mandatory.Functions:- Find offices worldwide- Browse offices in your vicinity- Interactive indoor maps (min. Android 4.x)- Route with your favorite app- Photos, files, messages and widgets per location (company internal)- Upload photos and messages- Push notification in case of warnings for favorite locations- Telemetry data like car park occupancy can now be displayed live- Search locations by tags (#Video, #News, #Telepresence, #canteen etc.)- Cloud Services enable interactive features like checkins, accreditations, polls etc.- Cloud Service CoffeeRadar help find colleagues in your vicinity- Cloud Service TripshareRadar matches your business trips to share cars etc. with your colleagues- Cloud Service ActivityRadar helps find e.g. sports events from and for colleagues worldwide- remote wipe of location data on your device if your Phone is lost- NO connection from your Phone to the enterprise network needed- NO enterprise credentials needed (And we will NEVER ask you for company internal credentials)",
+    "reviews": [
+      {
+        "timestampMsec": "1357302406561",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "Making travel easier",
+        "commentId": "gp:AOqpTOHqDKYMJYCdzKEQUBpb2PyIItJW4q0ky7CwQ8p8UPkaRpH0xDkwEHqjfOtnZstxRR2E2osbgwelmUygxfw",
+        "author": "Steve flanagan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "com.degreiff.mytoffice.permission.C2D_MESSAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.NFC",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

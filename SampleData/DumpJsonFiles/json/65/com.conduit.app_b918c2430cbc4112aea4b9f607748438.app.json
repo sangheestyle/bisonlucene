@@ -1,0 +1,39 @@
+{
+  "title": "Walk for Lupus Now-Greater OH",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_b918c2430cbc4112aea4b9f607748438.app",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "February 6, 2012",
+  "version": "1.3.16.5114",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Lupus Foundation of America, Greater Ohio Chapter",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_b918c2430cbc4112aea4b9f607748438.app",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Stay up to date on the latest walk info. Access our Twitter updates, register online, get directions, and more.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_b918c2430cbc4112aea4b9f607748438.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

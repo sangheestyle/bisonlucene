@@ -1,0 +1,34 @@
+{
+  "title": "PCO Conference 2011 Mobile App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.pco2011",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "December 1, 2011",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.pco2011",
+  "extendedInfo": {
+    "installSize": "3.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Presenting the CrowdCompass mobile app for the 2011 PCO Conference in Auckland, New Zealand. The Conference will take place December 4-6 in the Langham Hotel.The PCO 2011 mobile app by CrowdCompass combines the conference's full schedule, exhibitor directory, local & floor maps, communication tools and more into one easy-to-use app for iPhone, Android, BlackBerry and iPad.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Bol.hr official travel guide",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buljan.bolinfo",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 19, 2013",
+  "version": "2.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "12",
+  "rating": "3.9166667",
+  "contentRating": "Low Maturity",
+  "creator": "Tonci Buljan",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buljan.bolinfo",
+  "extendedInfo": {
+    "installSize": "17M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Official Bol.hr Android application. Find everything you need about your stay in Bol.",
+    "reviews": [
+      {
+        "timestampMsec": "1346073305985",
+        "starRating": "1",
+        "title": "Dosent do anything",
+        "comment": "I cannot use anything in this app",
+        "commentId": "lg:AOqpTOF9Zy4aogUcnGrfpWaCfzDJuMo1QK_zUAzoUB51-7FuBTkFsF5lsytL-P5pRbQLQ0cWvod4m9QY8hyEgg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "com.buljan.bolinfo.permission.C2D_MESSAGE",
+      "android.permission.GET_ACCOUNTS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Career Search",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.connectedu.canmobile",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 28, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "ConnectEDU",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.connectedu.canmobile",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Plug into your campus career and job portal with your smartphone! View the recruiting event calendar at your school, browse jobs, submit applications, and more on the go. Powered by Experience, a ConnectEDU company. App support page: http://www.experience.com/entry-level-jobs/student-alumni-mobile/",
+    "reviews": [
+      {
+        "timestampMsec": "1377181693237",
+        "starRating": "1",
+        "title": "Doesn\\'t work.",
+        "comment": "When it opens, there are 2 drop down boxes to choose a state and a school. Neither opens up a list to choose from and the app will go no further until you choose.",
+        "commentId": "gp:AOqpTOH6TEEKR2S15DoaC1znU6dtPznsI8LX9wU-wKEL-9UMZyiRDwSg8NupLxxz5g04FPQOJBaWgXf6bfZkDQ",
+        "author": "Jo McGehee",
+        "authorURL": "http://lh6.googleusercontent.com/-4JabhjmwTIc/AAAAAAAAAAI/AAAAAAAAAC8/UWhIoiCZt5c/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-4JabhjmwTIc/AAAAAAAAAAI/AAAAAAAAAC8/UWhIoiCZt5c/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

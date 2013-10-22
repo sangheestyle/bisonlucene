@@ -1,0 +1,29 @@
+{
+  "title": "HVE QR Checker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.daganghalal.hveqrchecker",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "February 28, 2013",
+  "version": "1.1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Dagang Halal",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.daganghalal.hveqrchecker",
+  "extendedInfo": {
+    "installSize": "580k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The HVE QR Checker allows certification bodies to verify QR codes embedded in the certificates downloaded from the Halal Verified Engine system. Scan the QR code on your downloaded certificate and the validity of the download will be displayed.The result will also contain the certificate number and the certification body of each of the certificates included in the download.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET"
+    ]
+  }
+}

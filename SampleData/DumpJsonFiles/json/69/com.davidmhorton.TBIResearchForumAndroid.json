@@ -1,0 +1,50 @@
+{
+  "title": "TBI Research Forum",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.davidmhorton.TBIResearchForumAndroid",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "May 24, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "David M. Horton",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.davidmhorton.TBIResearchForumAndroid",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This is the official Android app for the 2013 TBI Research Forum at the VA Palo Alto Healthcare System, focusing on TBI and Aging. Read about the conference schedule, location, poster presenters, abstracts, and featured speakers.  Also includes details of services offered at the Polytrauma System of Care (PSC) and Defense and Veterans Brain Injury Center (DVBIC) at the VA Palo Alto Healthcare System.  Release version 1.1 has been redesigned for multiple platforms, but retains the content and features of the original version.",
+    "reviews": [
+      {
+        "timestampMsec": "1369081839187",
+        "starRating": "5",
+        "title": "Easy",
+        "comment": "So happy to see this come to android!",
+        "commentId": "gp:AOqpTOHX81p_AvPD6t25Rlo5tDktK9Y1r_hJabKpxFTa66K_PfewuO39Y5fcLkXKnX_bc3b3oKMA0Q_2xRXWxg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

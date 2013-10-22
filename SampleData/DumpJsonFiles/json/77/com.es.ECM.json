@@ -1,0 +1,65 @@
+{
+  "title": "East Coast Metals HVAC Assist",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.es.ECM",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "3.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Watsco, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.es.ECM",
+  "extendedInfo": {
+    "installSize": "10M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "EAST COAST METALS strives to make life as an HVAC Professional easier and faster. The HVAC Contractor Assist provides access to product information and easy to use tools while on the go.Saving you time and hassle through innovationâ¦do you know any other HVAC distributor with this kind of technology?Key Features:* See current Product Availability at EAST COAST METALS Stores Near You (Product Availability)* Search for an HVAC equipment model, see the Bill Of Materials, check availability at EAST COAST METALS locations (Equipment B.O.M.)* View Spec Sheets, Wiring Diagrams, Installation Guides, Consumer Literature, etc. for EAST COAST METALS Products (Document Library)* See nearby EAST COAST METALS locations, their Hours of Operation, get Directions, call the store (Branch Locator)* Receive Push Notifications of Special Offers & Promotions at EAST COAST METALS* Scan QR Code & UPC Bar Codes for fast product look ups* See Turn by Turn Driving Directions to EAST COAST METALS locations* Light up attics, closets and basements while you work with the built in FlashlightOur goal is to make your life in the field more efficient and doing business with us easier. That's our passion...stay tuned for more!",
+    "reviews": [
+      {
+        "timestampMsec": "1348140805176",
+        "starRating": "5",
+        "title": "kennyg",
+        "comment": "AWESOME!! Very helpful!",
+        "commentId": "lg:AOqpTOF6phcssoDCLMudVOU53MYwrbsV31VPw3Ao_xxDQaRbsJW6z9PAwIzq01wQ2gSpIaY8RamMOulcBc8-Xw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345663733211",
+        "starRating": "1",
+        "title": "its sucks",
+        "comment": "does not work",
+        "commentId": "lg:AOqpTOHbvsvwE3_wHUhN3z4WYP7e0bzb03oJUo20GSQnZPFKJKae6lwSrsHVt4bAPRHq4uxlvJSQ1ScYbHgV6g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352339053337",
+        "starRating": "1",
+        "comment": "Crap",
+        "commentId": "lg:AOqpTOFgmR9GH-XExMnTdqWxCnE5Dm_hbnNKmSsmf1FtwrskhL7XFFGlwSmOsT7xvl0ZFFpZLxzBAGno9C3r7Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "com.es.ECM.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

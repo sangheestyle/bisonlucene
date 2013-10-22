@@ -1,0 +1,53 @@
+{
+  "title": "Supermarket Price Information",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ctm.ui",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "June 18, 2013",
+  "version": "1.9",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "68",
+  "rating": "3.8235295",
+  "contentRating": "Low Maturity",
+  "creator": "CTM",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ctm.ui",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "ãSupermarket Price Information PlatformãMacao SAR Government Consumer Councilâs âSupermarket Price Information Platformâ is an official and currently the most extensive database, providing consumers with retail prices of over 300 kinds of products from over 10 supermarkets.The 5 individual functions inside the âSupermarket Price Information Platformâ app are:âSupermarket Price Watchâ, which categorizes products with pictures and allows consumers to conveniently select their favourite items.âBest Price in Townâ, which allows consumers to search items according to their nearest supermarkets for the best price.âShopping Basketâ, which allows consumers to sum up their desired items and make price comparisons.âSpecific Product Price Platformâ, which provides specific price surveys on different categories of daily commodities, compares prices of the same product in various retail spots, and calculates price differences of the most expensive and cheapest items.âCertified Shopsâ, which includes a list of over 1,000 âCertified Shopsâ with information such as their locations, and types of businesses. âCertified Shopsâ are recommended by Consumer Council and each shop bears an emblem which signifies them as âthe only official guarantee for shoppingâ.",
+    "reviews": [
+      {
+        "timestampMsec": "1347507368309",
+        "starRating": "4",
+        "title": "Great app",
+        "comment": "Should let more people in Macau to know about it.",
+        "commentId": "lg:AOqpTOH7g343ua7NMHFnf36avM0vlYbxdlFPqdSe-kVrFRqq6xWwdKQLJ8XjwATiYqPkpC4CbdVkrrqqRTpOZ0c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346713203942",
+        "starRating": "1",
+        "comment": "Not in america",
+        "commentId": "lg:AOqpTOHHiqpMGNzzaK1IsOtQzknDkwSW2GoxbcBNR-oyeu6k1-NatCehBaSO331d2No41DfosQS8EUWVr_U4D3I",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.ctm.ui.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

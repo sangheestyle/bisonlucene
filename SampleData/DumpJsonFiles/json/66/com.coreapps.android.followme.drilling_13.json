@@ -1,0 +1,53 @@
+{
+  "title": "SPE/IADC Drilling Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.drilling_13",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "February 20, 2013",
+  "version": "3.8.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Society of Petroleum Engineers",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.drilling_13",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The SPE/IADC Drilling Conference and Exhibition is the E&P industryâs premier drilling event. With 18 technical sessions and over 100 exhibiting companies, it provides the opportunity for producers, contractors, and service company professionals to meet, discuss, evaluate and share ideas to advance worldwide drilling operations.Topics covered in the 2013 conference:Drilling Process and TechnologyTubularsDeepwater and SubseaWell Technology and Field DevelopmentManagement and SystemsLeading and New Technologies/MethodologiesCase Studies",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.drilling_13.permission.C2D_MESSAGE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

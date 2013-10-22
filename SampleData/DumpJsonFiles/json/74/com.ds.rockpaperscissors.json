@@ -1,0 +1,53 @@
+{
+  "title": "Rock Paper Scissors",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ds.rockpaperscissors",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "July 9, 2013",
+  "version": "v1.6",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "17",
+  "rating": "4.7647057",
+  "contentRating": "Low Maturity",
+  "creator": "D's MnM's",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ds.rockpaperscissors",
+  "extendedInfo": {
+    "installSize": "5.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Play the 'Rock Paper Scissors' game in a simple way, with elegant graphics.It is easy play:Rock breaks ScissorsScissors cut papersPaper captures rocksThe score system:it is multiplication of two numbers: x * yx increses by 2 if player wins, decreses by 1 if it is a draw and reset to 1 if player loses. (minimum is 1, no limit)y is multiple of 10, it will be multiplied by 10 if player wins, it is devided by 10 if it is a draw and reset to 10 if player loses. (minimum is 10, maximum is 10000).Enjoy!",
+    "reviews": [
+      {
+        "timestampMsec": "1373190537841",
+        "starRating": "5",
+        "comment": "Nice game",
+        "commentId": "gp:AOqpTOG4QmqWy_NAbtsW6d1k4FL30WCyuHJy2d3iq6k2wS1Bn3t-g0ZE94oIyTbX43rytxdVgWO61X19JLshN4A",
+        "author": "Alan Dane",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373365899054",
+        "starRating": "5",
+        "comment": "TEPSOVANN",
+        "commentId": "gp:AOqpTOH2nkZ4SfBzAKT6QLWYK278ZWsVE-btKSBR1pyJ0ChYwgMrLD0FxZR_K3mvt9k1jqSYEO4N2zm3jaUfee0",
+        "author": "TEP SOVANN",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

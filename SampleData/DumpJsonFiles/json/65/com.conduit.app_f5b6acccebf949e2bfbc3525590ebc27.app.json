@@ -1,0 +1,39 @@
+{
+  "title": "BEAT PACK PRODUCTION",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_f5b6acccebf949e2bfbc3525590ebc27.app",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "November 21, 2011",
+  "version": "1.4.7.475",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "RAYLYNE BARNER",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_f5b6acccebf949e2bfbc3525590ebc27.app",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "GET THE LATEST MUSIC, INTERVIEWS, BIO, PICTURES AND RECORD RELEASES FROM BEAT PACK PRODUCTION",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_f5b6acccebf949e2bfbc3525590ebc27.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

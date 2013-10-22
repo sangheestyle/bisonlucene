@@ -1,0 +1,47 @@
+{
+  "title": "Mr. Tien",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cubic9.android.tensan",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "December 22, 2012",
+  "version": "0.0.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Everyone",
+  "creator": "diabah",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cubic9.android.tensan",
+  "extendedInfo": {
+    "installSize": "62k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "If you take a photo of someone by this app, you can get  a photo of someone's forehead which has third eye. It is same as an eye of Mr. Tien who appeared in a famous comic.You can choose one of dialogues like \"Kikoho!\", \"Dodonpa!\", \"Taiyoken!\" and \"I left xx.\"A photo will be stored in \"tensan\" folder.*Historyver.0.0.3- Fixed bugs.- Added error message for face detection.ver.0.0.2- Added linework.- Added balloon and dialogue.",
+    "reviews": [
+      {
+        "documentVersion": "0.0.4",
+        "timestampMsec": "1371062256022",
+        "starRating": "5",
+        "title": "Rao sb Vehari.",
+        "comment": "Great for fun. Its cool really.",
+        "commentId": "lg:AOqpTOEGTuuY0GZ2MURcledorolZEH82O2qj1RHNEEPTtxSDxVrnoelAYRPMehIevbIlbt4OnnD024i0XJ-rGg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.0.2",
+        "timestampMsec": "1338797266381",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "Good just for fun n simple",
+        "commentId": "lg:AOqpTOG2Y3qBadag9-rhZfvXmlSJxZC7kpWDgAxdca8lvD9pitmZc60F2y1-dPpvRcpNICO1lcH2PQm1q-9Y4A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

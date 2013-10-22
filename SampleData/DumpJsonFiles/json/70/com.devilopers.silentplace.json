@@ -1,0 +1,30 @@
+{
+  "title": "Silent Place",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.devilopers.silentplace",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 25, 2011",
+  "version": "0.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Devilopers",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.devilopers.silentplace",
+  "extendedInfo": {
+    "installSize": "148k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "If you're the kind of person who systematically forgets to put theirmobile phone in silent mode, this is the app for you.In a finger stroke you can register the locations where your phoneshouldn't ring. The list of these locations is very easy to manage,as well as the radius of your newfound bubble of silence.With a low battery consumption and a clear design, SilentPlace will bea handy day-to-day companion.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_ASSISTED_GPS",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

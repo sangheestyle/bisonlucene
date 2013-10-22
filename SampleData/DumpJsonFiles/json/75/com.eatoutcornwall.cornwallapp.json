@@ -1,0 +1,39 @@
+{
+  "title": "Eat Out Cornwall",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eatoutcornwall.cornwallapp",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "December 10, 2012",
+  "version": "1.1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Virtual LIfe",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eatoutcornwall.cornwallapp",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Eat Out Cornwall is the number 1 guide to eating out in Cornwall. From Fish and Seafood Restaurants to Fine Dining, from Bistros to Brasseries and from Gastro Pubs to Cafe Bars you will find it all in Restaurants in Cornwall.The app is updated daily and features the very latest restaurants in Cornwall.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1373605460961",
+        "starRating": "1",
+        "comment": "No vegetarian category.",
+        "commentId": "gp:AOqpTOE8p8nNJyjijK59lbghZKYc4aUsD_9sWWDd3L5M0x3Xg0E2RWX84S8bNQ-wrdxaQTw1n4PwRYkd7AapUkQ",
+        "author": "Alastair Young",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

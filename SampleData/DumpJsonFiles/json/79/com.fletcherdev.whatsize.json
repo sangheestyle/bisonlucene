@@ -1,0 +1,64 @@
+{
+  "title": "What Size",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fletcherdev.whatsize",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "September 21, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "Apps By Ryan",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fletcherdev.whatsize",
+  "extendedInfo": {
+    "installSize": "103k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "What Size is a free app that lets you keep track of clothes sizes for the people closest to you.Add a person, choose his/her gender, and describe his/her taste in clothes.Based on the gender you choose, certain articles of clothing will appear.Enter clothes sizes for the people in your list.Backup your data to an SD card and restore it.  If you have at least Android 2.2, this application utilizes a backup service that will automatically backup your data for you to the cloud. When you reinstall this app, your data will be restored.",
+    "reviews": [
+      {
+        "timestampMsec": "1338709249527",
+        "starRating": "4",
+        "title": "Finally",
+        "comment": "I\\'ve been looking for something like this for some time now. This does the job good, but it needs more options...",
+        "commentId": "lg:AOqpTOF6viJ55FKywt5cGSPCC_R8-IQ_y0hyk4AL05-fZSTmNhSMZBlfKBwm5OLuYSB28BDq35iOyCf0zN2fVg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361392993158",
+        "starRating": "2",
+        "title": "Extremely basic",
+        "comment": "No bells, whistles, or even a decent GUI.",
+        "commentId": "lg:AOqpTOFLFi_eBa9-BO3bdhNt6KIfUeOUQAqumMqqY2O9rtXbGhf6PZKKqyjtCQ0jaD72lNNq12xbuWmYlwALHA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1328648827797",
+        "starRating": "3",
+        "title": "Its ok",
+        "comment": "Don\\'t like having to click name then edit to get to list, should go straight there. Also no way add other things to list besides default items?",
+        "commentId": "lg:AOqpTOGjWdD_EkNlBb808yF7Z5DRyDrINtYzELr1z9nfYqtUqbDJdrI3rACajCeOYg_zjOsjPbmd4q9gMH4slA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317949741949",
+        "starRating": "5",
+        "title": "Does what it says",
+        "comment": "I like it.  Keeps track of all my sizes.",
+        "commentId": "lg:AOqpTOE0BvL0E9mKqtzSrgoUSLaZqMb64PnJtNJYLfMtUsiA84L23mr3Ftni8s-LRyZAbv5bh-J8hD_AT8e6aA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

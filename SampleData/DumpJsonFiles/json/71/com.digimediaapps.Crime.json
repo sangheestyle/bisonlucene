@@ -1,0 +1,31 @@
+{
+  "title": "Crime-Book",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.digimediaapps.Crime",
+  "category": "Books & Reference",
+  "price": "$0.99",
+  "datePublished": "July 17, 2011",
+  "version": "1.0.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Digi-Media-Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.digimediaapps.Crime",
+  "extendedInfo": {
+    "installSize": "915k",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "Crime, its cause and treatment by Clarence Darrow. Reflections and experience of more than forty years spent in court.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

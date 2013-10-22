@@ -1,0 +1,53 @@
+{
+  "title": "Buy Local Market",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buylocalmarket.store",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "February 26, 2011",
+  "version": "1.0.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Buy Local Market",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buylocalmarket.store",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Get great deals from Santa Monica businesses! The Buy Local Market application allows users to purchase products and services from Santa Monica businesses at discounted rates. You can browse our listings by business type, or simply see which deals are closest to your current location. Buy Local Market also has special offers for the Los Angeles Marathon and the Buy Local Expo, and we donate a portion of each purchase to Santa Monica public schools. Save money and help your community with the Buy Local Market application.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1310329362675",
+        "starRating": "5",
+        "comment": "Great app... it\\'s like a local Groupon for Santa Monica.",
+        "commentId": "lg:AOqpTOEvMYee6jwu_nSxxq3o0dr7qp5c5edyY6clG-REVGJ7AODkaMDdWOVhnPQYqCsGZcimrzPiGKud95b3",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359085121514",
+        "starRating": "1",
+        "title": "Won\\'t open",
+        "comment": "Won\\'t open - droid razr",
+        "commentId": "gp:AOqpTOEwMSWnA_HFjCnfceliFJlVT5gAzw-17cpY0OghRQQTTFsTyeqTsTDNWGbLRjdEaQNuKV9zCnQ-gBgD",
+        "author": "Cindy Hutter",
+        "authorURL": "http://lh4.googleusercontent.com/-e4Gt7cPkWoA/AAAAAAAAAAI/AAAAAAAABYw/KAxGB4HIffU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-e4Gt7cPkWoA/AAAAAAAAAAI/AAAAAAAABYw/KAxGB4HIffU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

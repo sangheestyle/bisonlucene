@@ -1,0 +1,34 @@
+{
+  "title": "Sell to SP",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cisco.selltosp",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 8, 2013",
+  "version": "1.3.37",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cisco Systems, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cisco.selltosp",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "*** THIS APP IS FOR AUTHORIZED PARTNERS ONLY *** This is a anywhere, anytime sales enablement app for your Android Smartphone and Tablet. The app is designed to provide our partner sales users a one-stop \"unified\" interface to everything you need to effortlessly present, market and sell our Service Provider products and solutions portfolio to your Service Provider customer base. Through this integrated app, we are committed to helping you make your sales process more efficient, reduce sales cycle and drive higher levels of productivity. The app enables you to get the critical information you need while you are in front of a customer. We have integrated the app with many of our enterprise systems that are available currently via our website. Our goal is to provide instant access on your fingertips to product information, promotions, incentive programs, alerts, news, configuration, quick quoting tools and more. There is a feedback icon in the app itself. We look forward to hearing your feedback on what content, resources and tools to include in this app to make it more useful for you in your day-to-day sales activities.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

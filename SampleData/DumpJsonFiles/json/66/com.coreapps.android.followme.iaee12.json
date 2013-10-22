@@ -1,0 +1,101 @@
+{
+  "title": "Expo! Expo! IAEE’s Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.iaee12",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "December 4, 2012",
+  "version": "4.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.iaee12",
+  "extendedInfo": {
+    "installSize": "5.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "IAEE represents over 8,500 exhibition organizers, suppliers, exhibitors and event marketers who conduct and support exhibitions around the world.Expo! Expo! IAEEâs Annual Meeting & Exhibition is the industryâs must attend event for the most interactive networking and experiential education.",
+    "reviews": [
+      {
+        "documentVersion": "4.0.1",
+        "timestampMsec": "1359046247988",
+        "starRating": "4",
+        "title": "Great app!",
+        "comment": "My only suggestion for next year would be to have the option to connect it with LinkedIn or Facebook.",
+        "commentId": "gp:AOqpTOGgOoDlP--hR4KktUdjQBffeBN2eWfXVNy8q-z3bVecSD-DKN_EbpHnhiZ2t7ej4ZReGVje61WTaXymew",
+        "author": "Kim Zonca",
+        "authorURL": "http://lh5.googleusercontent.com/-Yh1lLkbFJoo/AAAAAAAAAAI/AAAAAAAAAG0/AC4PbbGYmw4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Yh1lLkbFJoo/AAAAAAAAAAI/AAAAAAAAAG0/AC4PbbGYmw4/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1354596137236",
+        "starRating": "5",
+        "title": "DM",
+        "comment": "The app.works as it is.supposed to",
+        "commentId": "gp:AOqpTOHlCIaBa1BielWzEjoEDJ9-3tilnam-_a9LybY4-HONVo7hqvS4vyrkXrBQEmTe2jw7TyHSRrh_rB01KQ",
+        "author": "Derek Murphy",
+        "authorURL": "http://lh4.googleusercontent.com/-eG3ALES1ut4/AAAAAAAAAAI/AAAAAAAAAD8/S7DyPwkugSg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-eG3ALES1ut4/AAAAAAAAAAI/AAAAAAAAAD8/S7DyPwkugSg/photo.jpg"
+      },
+      {
+        "documentVersion": "3.6.9",
+        "timestampMsec": "1353438667233",
+        "starRating": "1",
+        "title": "HORRIBLE",
+        "comment": "App constantly crashes.  When will IAEE get a new vendor?  Just as bad as last year.  Ugh.",
+        "commentId": "lg:AOqpTOFIi8fAMxqbFcpxLt3z1UWGkOQwqvaVjYYdLAaS5-5iG6hB0LsoD_fG07hFgF5R-ee3s2LDJQd92Dy38w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353018949811",
+        "starRating": "1",
+        "title": "Expected much better from IAEE",
+        "comment": "It has info but the UI is terrible. Poor design.",
+        "commentId": "lg:AOqpTOGuazj0ZsKXllgergg_Ni9wyOyjKdxypJN8VGN0WwmFuW6je0w1A7tCa8AaSpH-vVYH48qPZn4gtrcO5w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355538090786",
+        "starRating": "5",
+        "title": "Good job",
+        "comment": "Great app! Cool conference tech.",
+        "commentId": "gp:AOqpTOFYk8i9F6bRXqD0hlllNQ_xJuG0R_FCfcmFrnWPa4-crMlcEgvYPZFZPaPUhI4ER57pcmGVQbqOkAhFgg",
+        "author": "Noah Turner",
+        "authorURL": "http://lh3.googleusercontent.com/-pZUQPSa7e_8/AAAAAAAAAAI/AAAAAAAAAa4/aJG9EMaibbc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-pZUQPSa7e_8/AAAAAAAAAAI/AAAAAAAAAa4/aJG9EMaibbc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.iaee12.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

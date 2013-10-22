@@ -1,0 +1,32 @@
+{
+  "title": "Security Title Gateway-XM",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fntg.sta.mobile.Gateway.Xoom",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "May 1, 2013",
+  "version": "2.0.20130426",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fidelity National Financial",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fntg.sta.mobile.Gateway.Xoom",
+  "extendedInfo": {
+    "installSize": "970k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "With the Security Title Gateway application, Real Estate professionals can get immediate property information on their Android device. By entering a Property Address, Owners Name, Assessors Parcel Number (APN) or search Near by Properties, Security Title Gateway can provide real time access to valuable property information. Key Features: Real Estate Professionals can search for real time property information using their Android device. Get property address, mailing address, legal description, parcel and tract information, tax information, property characteristics, transfer history, nearby properties, comparable sales and a plat map.* - Search by Property Address* - Search by Ownersâ Name* - Search by Assessors Parcel Number (APN)* - Contact your local Sales Representative - View Near By properties using the Android device's built in GPS* - Saves your recent searches for easy retrieval* - Share property information with clients Download the Security Title Gateway application today and get fast, accurate property information at your finger tips. It could just be the deciding factor in getting a sale. * Use of Security Title Gateway requires registration on Gateway from Security Title. To Register on Gateway, please contact your local Security Title Account Manager. Gateway is not available in all areas. Not all information is available on all properties",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.SEND_SMS",
+      "android.permission.WRITE_SMS"
+    ]
+  }
+}

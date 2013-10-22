@@ -1,0 +1,230 @@
+{
+  "title": "Music Library Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dandydev.medialibraryfree",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "July 31, 2013",
+  "version": "2.4.3",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "119",
+  "rating": "3.6302521",
+  "contentRating": "Low Maturity",
+  "creator": "DandyDev",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dandydev.medialibraryfree",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Easily catalog your record and/or CD collection and browse it on your Android device.  Add titles by barcode scan or via the integrated Amazon.com search.  Sort and search to quickly locate titles on the shelf.  Use the coverflow view to effortlessly flip through your collection.  Add custom album art by taking a picture or selecting from the gallery.  Use the wish list to keep track of albums you want to purchase.  Quickly load albums from a Google Docs spreadsheet.  Full tablet support.Like Music Library Free? The paid version of Music Library offers: - Export to a Google Docs spreadsheet- Backup/restore functionality to protect your data- The latest enhancements first- No adsVersion History:2.4.3Updated to latest version of Google Drive SDK to fix breaking changes that were causing creation of import spreadsheet to fail.2.4.2Bug fixes for issues that can occur on initial launch on some devices.2.4.1Fixed issues with Google Drive upload when creating import spreadsheet. Revised import process to load from a comma separated value (CSV) file on the SD card as a workaround for lack of support for downloading a Google Drive spreadsheet as a CSV (see updated instructions on import tab). Added \"title already exists\" confirmation when scanning barcodes.2.4Ability to add more than one copy of an album. A confirmation prompt is now displayed instead of the \"title already exists\" message.2.3.1Resolved an issue with incorrect buttons being displayed on the action bar when editing a title on some devices.2.3Moved \"Search\" button to action bar for a more intuitive flow when adding titles (changes to \"Save\" after a search result is selected). Fixed issues with spreadsheet import from Google Docs.2.2Massive overhaul to bring application design and functionality in line with paid version.  Full tablet support.  Added footer with counts to title list.  Added condition and comments fields.  Various bug fixes.1.3Added \"Import\" menu item for bulk import of albums from a Google Docs spreadsheet.1.26Added \"Download from Amazon.com\" item to menu displayed when album cover is tapped on title edit screen.  Fixed bug in cover flow view that was causing errors when cover art is missing.1.24Added barcode button to action bar.  Modified scanning to support bulk scans for faster entry of library titles.1.23Added action bar for quicker access to common menu items.  Fixed Amazon search functionality for older devices.1.22Fixed barcode scanning issue for Honeycomb users.1.21Modified image storage so that album covers do not appear in Gallery application with other images.  Added enhanced crash reporting for quicker resolution of issues.  Fixed bug in cover flow view when running on older versions of Android.1.2Added the ability to migrate titles and cover images from the free version to the paid version.  This can be triggered via the \"Complete Upgrade\" menu item in the paid version of the application.1.1Added wish list functionality.  Items can be added to the \"Wish List\" shelf and then moved to the appropriate shelf when purchased.  Also added a filter option for wish list.  Scroll position is now retained when returning to list and cover flow views from other screens.1.0.4Added the ability to change album covers by tapping the image.  This displays a dialog with options for taking a picture, selecting from the gallery, or using the \"no image available\" image.  After taking a picture or selecting from the gallery, the image can be cropped before saving.Future enhancements will include a web site for syncing & sharing your collection with friends.",
+    "reviews": [
+      {
+        "documentVersion": "2.4.3",
+        "timestampMsec": "1369046624676",
+        "starRating": "4",
+        "title": "Great app",
+        "comment": "With my large music collection this helps prevent second guessing  if I already own an album",
+        "commentId": "gp:AOqpTOFuuDhKOOyzlxTICAgtNYM-FDq2Ih9nxaiFjARJWeK6oT94_yU9fYa6K7idzfaaoOabhZFmVqpr3tiblqE",
+        "author": "Robert Ellis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.3",
+        "timestampMsec": "1370110176138",
+        "starRating": "4",
+        "title": "Works and is great",
+        "comment": "This is exactly what i was lookig for. Im hoping adding lost album covers works as good as everything else. Makes it easy in a store when trying to remember obscure albums i already own.",
+        "commentId": "gp:AOqpTOG_8bZaQJybFrcEcPdyv7oebg9zBnm-RY4dsvOSUfkbx679CB-YSF7mpdVRO3zyihdAouv7zWlgzZmYnxk",
+        "author": "jerry adams",
+        "authorURL": "http://lh5.googleusercontent.com/-3AvxFMxCPPM/AAAAAAAAAAI/AAAAAAAAAAA/KLIGXgHIPw8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-3AvxFMxCPPM/AAAAAAAAAAI/AAAAAAAAAAA/KLIGXgHIPw8/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.3",
+        "timestampMsec": "1365103470397",
+        "starRating": "3",
+        "title": "New user",
+        "comment": "Just started using the app. My vinyl shelf is getting out of hand and this is helping me fill the gaps is my collection, without duplicates, on the go.  I would give it 5 stars if there was an option for sorting via release date and record label. An option for creating you\\'re sorting category would also be useful.  Overall, I would recommend this app. Keep up the good work.",
+        "commentId": "gp:AOqpTOFyF1rbMCTd7vmgJOfh1Q5J6h1kb4qYtTid6qcHGHZdMdGaLuA1birOahuGCnnBpJHU5NjZsjUroQMTQes",
+        "author": "Lou D\\'Amico",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.3",
+        "timestampMsec": "1374588038841",
+        "starRating": "1",
+        "title": "Shame",
+        "comment": "Really wanted this to be good but it\\'s only found 2 of the 20 CDs I\\'ve scanned so far (all of them on Amazon) and the bulk load failed but doesn\\'t say why. I have too many CDs to type them all in manually. Would be good if you could select an artist and choose multiple albums. Even failed to find Dark Side of the Moon, I mean come on!",
+        "commentId": "gp:AOqpTOFHdu-bf9du5ubREkOIobcxizWKfpnt4FT9HnJmZCLa9HpF4PFQCS8ZavjJ-knqEwz9CkklCz38Fe7IeDc",
+        "author": "Alan Hyde",
+        "authorURL": "http://lh3.googleusercontent.com/-KBWm8hdmi8M/AAAAAAAAAAI/AAAAAAAACCM/pyZ4TbolIEU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-KBWm8hdmi8M/AAAAAAAAAAI/AAAAAAAACCM/pyZ4TbolIEU/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.3",
+        "timestampMsec": "1376086332268",
+        "starRating": "1",
+        "title": "Won\\'t Install",
+        "comment": "It won\\'t install on either my Transformer 700 or my Samsun Galaxy Nexus.",
+        "commentId": "gp:AOqpTOGVcUmPovF8Plx1lDpYVTad5B6qR72ThK03ipSvPfAjQBixrdV8D8FCUL54v1-t76-2ot1tnl9Yqx08hcs",
+        "author": "Gregory Vaillancourt",
+        "authorURL": "http://lh3.googleusercontent.com/-cxQDzyk4dgM/AAAAAAAAAAI/AAAAAAAAA0o/qCHNpAkW1_Q/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-cxQDzyk4dgM/AAAAAAAAAAI/AAAAAAAAA0o/qCHNpAkW1_Q/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.3",
+        "timestampMsec": "1378024992487",
+        "starRating": "4",
+        "title": "Great app",
+        "comment": "I love the fact I can take a picture of the album cover if none other are available.",
+        "commentId": "gp:AOqpTOGVluC2ru1lao1honUqkstdR3eoakANLvBN6jrm8vHFgFi4b8FMokRH7dxQabfhV_ywMT0wYT_ELQ_GVJk",
+        "author": "Andrew Stephan",
+        "authorURL": "http://lh6.googleusercontent.com/-Nvjz4_MNMqc/AAAAAAAAAAI/AAAAAAAABJk/ZCsjTkV82sU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Nvjz4_MNMqc/AAAAAAAAAAI/AAAAAAAABJk/ZCsjTkV82sU/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.3",
+        "timestampMsec": "1375147551039",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Great",
+        "commentId": "gp:AOqpTOGWPDkRhgTRj5rTIDuagy5dlCgQDwuo2ZO_kRA_Wm97612iHJG97Hz506HZewsV11dHjel_VRbiKgz6ACc",
+        "author": "Jatniel Viera",
+        "authorURL": "http://lh6.googleusercontent.com/-AiS2vJL0luw/AAAAAAAAAAI/AAAAAAAAADk/ItR1sBgyP2g/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-AiS2vJL0luw/AAAAAAAAAAI/AAAAAAAAADk/ItR1sBgyP2g/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.1",
+        "timestampMsec": "1363435999894",
+        "starRating": "4",
+        "title": "Overall very nice",
+        "comment": "the best app so far. Would like to have entries for song titles / tracks. But enjoying getting my collection organized.",
+        "commentId": "gp:AOqpTOFY45zSxzYTj_cbftIzn5jdghrbIgnBos9xPVilJs5Nl2CvRrCeLJ0Zb28nUcrMGmAKcGXmMZ22RXnfYHI",
+        "author": "david barrett",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358780904888",
+        "starRating": "5",
+        "title": "Exactly what I was looking for!",
+        "comment": "Basic but very useful for organizing the CD collection. Wish the barcode reader can recognize more titles.",
+        "commentId": "gp:AOqpTOGjtg2fKvIfbL55ZUPmnC-NV3vVReL8m8Wns6a96JqdLuSx-nhNByg1tLqPkvVCBHdU-0wjA9nJdmwCHw4",
+        "author": "Leonard Ng",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359903237660",
+        "starRating": "1",
+        "title": "Music libary",
+        "comment": "No album of track info",
+        "commentId": "gp:AOqpTOEAfxVy2ZtsrCWefuXfNrMqDNPldITvsUqK5MVfMJqlzmVB8bTbmyxJVRtx-Vx9mTV_QKIoK_uJtQb-keU",
+        "author": "Graham Lindsey",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349092475244",
+        "starRating": "5",
+        "title": "Nexus 7-Big Collection",
+        "comment": "This does the trick for cataloging my music collection. It is basic and that is all that I wanted. I wasn\\'t really even looking for album covers so that was a nice bonus. Barcode scanner is not the deal breaker...I\\'m sure its a little faster, but not necessary.",
+        "commentId": "lg:AOqpTOFUYa5hKyu_B4YmM7SspLAAqg1QcSGdCsD_mXQr2wvs2--QkBQtwVE62wqefyGgLZV7549e42Mk2JU5pv0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351550978041",
+        "starRating": "3",
+        "title": "Could be much better",
+        "comment": "Would be much better if it used different sources when searching for example Discogs. It also needs an option to add more fields, I have all my collection numbered and it doesnt show useful info like tracklisting, year released, genre ect ect.",
+        "commentId": "lg:AOqpTOE7F92xY0XcZBXjuD_3jsaeOCoRPgzutLWmV60u_VZTsm4WokesRaRkTrc58VIxYGnSQ9psdqAA5OfBVZ8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340152701389",
+        "starRating": "5",
+        "title": "Great for music enthusiasts!",
+        "comment": "Love this app! Does exactly what I need. Excellent cataloging and wish list functionality. Now I can keep track of all the music I have left to buy.",
+        "commentId": "lg:AOqpTOHLj7jVnvCdMPy5AUuhmniu9iYPN8lvLg67BnIh2XMG14asKpUh-dPXihORSESc2GRKkDMWrVL8Ocow_BI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348515364662",
+        "starRating": "1",
+        "title": "Barcode scanner doesn\\'t work. Tablet Android 4 ICS",
+        "comment": "Installed then said I needed to install the barcode scanner.  Installed scanner software, then says there\\'s a problem with my cam.  My camera works fine.",
+        "commentId": "lg:AOqpTOHKIcltSleh7RVxUdZuqiQ9x-DsF7NCIwEGy9yYsRnoUrO95cPs2fNPZKTaIeL0x1XiDhjl-bJqLLXNCJI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340996590306",
+        "starRating": "5",
+        "title": "Carol",
+        "comment": "Very good music organizer! Get this app worth it.",
+        "commentId": "lg:AOqpTOFiP2bBMQYFBhP_Kkj9pcTPJX7iJCoicldqVGgdW3YUfji9rFIy1eORP1d_0FtZnho7-lWUfIFsvN-3eoc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339859057457",
+        "starRating": "5",
+        "title": "Missing some features, but it\\'s the best",
+        "comment": "Missing some features, but definitely the best implementation of a CD inventory system I\\'ve found. Works fast and finds everything.",
+        "commentId": "lg:AOqpTOGQ5THJWq3GKWRnw-q_2IMNsnM2lXGVRECURuhpQauThKtZwbpXVhfN3bGapr-_TgresyXxnxdTRr8Dvkc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360536448099",
+        "starRating": "4",
+        "title": "Ok but could use help",
+        "comment": "What can i say,  i use it. Wish there were more sorting options. Camera never works with app. Wish there was a place for notes. Dont like how ads pop up at the wrong place at the wrong time.  Over all good but not great... Yet",
+        "commentId": "gp:AOqpTOGtZiqUgP8_zId-78FE3Cb_miY3dJp_MZhdKJ_QyV2Q5N-sAgPzWt7S5CtIqoSYDhp0NNMExOOZrwI1S4c",
+        "author": "augustine becerril",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339684282352",
+        "starRating": "1",
+        "title": "Kept saying ad block detected",
+        "comment": "Would not work",
+        "commentId": "lg:AOqpTOGLxb4_WYPecAA72Be-d3I2ZeY05To6YjqLBWHcFP3SLJ6BCkseS37pv4-lcJERNWHYV4jbhq31MjiI8Fo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348067315072",
+        "starRating": "5",
+        "title": "Odli\\304\\215no",
+        "comment": "Odli\\304\\215na aplikacija za arhiviranje CD-ova.Vizualno veoma dobra.",
+        "commentId": "lg:AOqpTOFlX2jx9lnebN7nHvYXv27pWLS7cXqFZEj7QoiJkaL6pM4OGMBzzL21hL-9Xt8iyax3ULrsifZJT7qIDKw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336251318698",
+        "starRating": "4",
+        "comment": "Very nice!",
+        "commentId": "lg:AOqpTOGHbzOTGkZVJFQunP3QacGCsbuS33UWR9WQbGbj2SYfGioWj9UHTLAc8Po1OEgiGGMW8vmfpIXJH6yzOWU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "GeoNotes: Location Based Notes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidsolutions.geonotes",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 30, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "2.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "321Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidsolutions.geonotes",
+  "extendedInfo": {
+    "installSize": "85k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "GeoNotes can be used to create notes that will notify you when you are close to the address associated with the note. For example you can create a note that reminds you to buy groceries. This note will track where you are and when you are close to the grocery store will remind you that you need to buy groceries.",
+    "reviews": [
+      {
+        "timestampMsec": "1285028184676",
+        "starRating": "2",
+        "comment": "Needs capability to add note from map, rather than only by typing address.",
+        "commentId": "lg:AOqpTOHtrEmGzYGfi5xT31-GDuIjZ2EZb2BnFLaPUbOLK73u4qpdAR2wXhVxvgdrZWtUgDcw-_0EF9EGhWoU0Cs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1313724062617",
+        "starRating": "4",
+        "title": "Battery",
+        "comment": "Too much battery usage",
+        "commentId": "lg:AOqpTOHuu62j380_YZZbGNAamvGHdlOnROjS_Sd9BwZZruQoAIDjWSjZOIHVN_s_ki_Mhg4bVVpYovSeJNjEOBk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356024570479",
+        "starRating": "4",
+        "title": "Try TipsAnywhere app instead",
+        "comment": "Try TipsAnywhere app (search on Google Play for it) and view Foursquare venues with tips and Google places with reviews both on one Google map!",
+        "commentId": "gp:AOqpTOGxQrys1Uny9-XumYI01CfioD_cWpbvylUgcxYMRz4XTleh9UtByC55wXDFcM0pz31z-tuQbyl9un2XiFw",
+        "author": "\\320\\220\\320\\275\\321\\202\\320\\276\\320\\275 \\320\\241\\320\\274\\320\\270\\321\\200\\320\\275\\320\\276\\320\\262",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

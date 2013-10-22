@@ -1,0 +1,71 @@
+{
+  "title": "Ashland Police Department",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_b7311a4281574cfeafa672730cb6e741.app",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 1, 2013",
+  "version": "1.52.61.1305",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.6666665",
+  "contentRating": "Low Maturity",
+  "creator": "Ryan Conley",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_b7311a4281574cfeafa672730cb6e741.app",
+  "extendedInfo": {
+    "installSize": "7.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Ashland Kentucky Police Department has created this non-emergency app for its citizens and patrons to have quick access to information and services, all in one location. Anonymously report criminal activity or tips with photos, live links to news updated though social media, submit a tip, contact information, geolocate map to the Police Station. The app also allows APD to send push notifications in emergency events, such as a missing or abducted child, emergency road closure, etc.",
+    "reviews": [
+      {
+        "documentVersion": "2.61.1305",
+        "timestampMsec": "1378103179261",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "Excellent tip line and livery nice detours",
+        "commentId": "gp:AOqpTOG2E1bWleDxslkrNx8LOHYra5w2yCxCMWtI7U1UrwK4NJ7GnxhSq1juu6e2kwWnd70el4V28YeQbNf4kq4",
+        "author": "Nathan Blevins",
+        "authorURL": "http://lh6.googleusercontent.com/-RyXnqM0GiBE/AAAAAAAAAAI/AAAAAAAAAEQ/OWTDO2dmdJU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-RyXnqM0GiBE/AAAAAAAAAAI/AAAAAAAAAEQ/OWTDO2dmdJU/photo.jpg"
+      },
+      {
+        "documentVersion": "2.61.1305",
+        "timestampMsec": "1376490159737",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Cool app",
+        "commentId": "gp:AOqpTOFkToAfNdnJW7AhmN63ElJAom21gOgL6Dz0LSM53qZKrJs-OgiHMhIWeBG6AklIjYw-sHRkSPl1gDFdblg",
+        "author": "Jeremy Johnson",
+        "authorURL": "http://lh4.googleusercontent.com/-3f-VXAQREaA/AAAAAAAAAAI/AAAAAAAAAXE/D28Kcn5wiTw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-3f-VXAQREaA/AAAAAAAAAAI/AAAAAAAAAXE/D28Kcn5wiTw/photo.jpg"
+      },
+      {
+        "documentVersion": "2.61.1305",
+        "timestampMsec": "1376346690770",
+        "starRating": "5",
+        "comment": "Nice app",
+        "commentId": "gp:AOqpTOFU5DW2Wm6x5fDTZIkSKvNk5u2JiRrlPRxWT73xXWFT6GLENlcK5003qYgnTNYFh78guUKYcWAQ6Wvfhmg",
+        "author": "Jim Wallace",
+        "authorURL": "http://lh5.googleusercontent.com/-n8_Upbd9wOo/AAAAAAAAAAI/AAAAAAAAAmc/P0PZxWTwDMA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-n8_Upbd9wOo/AAAAAAAAAAI/AAAAAAAAAmc/P0PZxWTwDMA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_b7311a4281574cfeafa672730cb6e741.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.conduit.app_b7311a4281574cfeafa672730cb6e741.app.permission.RECEIVE_ADM_MESSAGE",
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

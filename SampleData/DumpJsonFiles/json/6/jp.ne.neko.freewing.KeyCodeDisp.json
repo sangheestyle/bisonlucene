@@ -1,0 +1,67 @@
+{
+  "title": "KeyCode Display for Developer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=jp.ne.neko.freewing.KeyCodeDisp",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 26, 2012",
+  "version": "2012.10.27",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "11",
+  "rating": "4.7272725",
+  "contentRating": "Everyone",
+  "creator": "FREE WING",
+  "creatorURL": "https://play.google.com/store/apps/details?id=jp.ne.neko.freewing.KeyCodeDisp",
+  "extendedInfo": {
+    "installSize": "12k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "KeyCode Display for DeveloperKeyCodeDispAndroid Application KeyEvent.javaKeyEvent Code Displayfor debug programNo Ads, FreeCopyright (c)2012 FREE WINGhttp://www.neko.ne.jp/~freewing/-- Source codeimport android.view.KeyEventpublic static int getMaxKeyCode() Returns the maximum keycode.android.view.KeyEvent.getMaxKeyCode()@Overridepublic boolean dispatchKeyEvent(KeyEvent event){if (event.getAction() == KeyEvent.ACTION_DOWN){String.format(\"%3d,%04X,%06X,%05d,'%s'\\n\",    event.getKeyCode(),    (event.getFlags() & 0xFFFF),    (event.getMetaState() & 0xFFFFFF),    (event.getEventTime() % 100000),    keyCodeToString(event.getKeyCode()));}}https://play.google.com/store/apps/details?id=jp.ne.neko.freewing.KeyCodeDisp",
+    "reviews": [
+      {
+        "documentVersion": "2.10.27",
+        "timestampMsec": "1376079022257",
+        "starRating": "3",
+        "title": "good, not perfect",
+        "comment": "won\\'t show all keycodes on my droid4. capslock and sym have keycodes > max_keycodes var and show up as keycode 0. android docs say to use getmaxkeycode() method (sp?) rather than the static var to determine the actual maximum keycode",
+        "commentId": "gp:AOqpTOFptu80rB8BayIrEnAyINmGsg3wYbqM5_eRx_ig98gklnG6oTb8hhC-HNWxc3LLmdYBjpNNnp7ofoid1F8",
+        "author": "Dan Quittman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.10.27",
+        "timestampMsec": "1374614971905",
+        "starRating": "5",
+        "title": "no permissions",
+        "comment": "no BS. great app!",
+        "commentId": "gp:AOqpTOECuVwKUF9kQGPo6WKlcPJ2d9NuNZlYZOg0vKEm5tryKHLgjpc0B4JwBIvr2CJyJHWFJl6Pw27qdU1Nv58",
+        "author": "Fabio Spelta",
+        "authorURL": "http://lh4.googleusercontent.com/-S_ZSlB3Xepw/AAAAAAAAAAI/AAAAAAAABcg/3w0avf7tmBQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-S_ZSlB3Xepw/AAAAAAAAAAI/AAAAAAAABcg/3w0avf7tmBQ/photo.jpg"
+      },
+      {
+        "documentVersion": "2.07.18",
+        "timestampMsec": "1348163586667",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Just what I needed. Works perfect. Thank you.",
+        "commentId": "lg:AOqpTOEmSK-FWe_E4W-RZUZJWsZGaVj1Bnp4_rpxBIsgzVwD7f6PAw3lacmOpJAF49ZrLcmGESqqSV26UVzyF6I",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356664362873",
+        "starRating": "5",
+        "title": "Simple and neat!",
+        "comment": "But please add scan codes so I can configure keylayouts for my gamepads.",
+        "commentId": "gp:AOqpTOHecVNK3ANf9la3HhV3jIsqx1F_r748E9ZaHVHhwKUkVIDJfnh7Xk_jebBystKuL_oIEylrUtmhXHtZUTU",
+        "author": "Ryza Jr",
+        "authorURL": "http://lh5.googleusercontent.com/-0MgXtUws9jw/AAAAAAAAAAI/AAAAAAAAAUo/A2MYuHYlAtM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-0MgXtUws9jw/AAAAAAAAAAI/AAAAAAAAAUo/A2MYuHYlAtM/photo.jpg"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

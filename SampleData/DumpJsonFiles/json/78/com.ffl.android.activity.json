@@ -1,0 +1,35 @@
+{
+  "title": "Fuel For Less",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ffl.android.activity",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "February 28, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fuel For Less",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ffl.android.activity",
+  "extendedInfo": {
+    "installSize": "4.8M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "For those lucky customers who have found a business that offers the Fuel For Less system this app is for you. No longer do you have to be in front of your computer to see your rebates or claim your fuel discount. This app has been designed to make your life a lot easier. In this app you can:- Register a new account- Change your personal details- Have a digital version of your barcode/qrcode so you no longer have to carry the card around- Quick access to help if you get stuck- Monitor your current loyalty spend to see if your close to a larger fuel rebate- Keep up to date with how many fuel rebates you have left to use- And much more...And my favorite the claim your fuel discount button where you can click which rebate you want to claim (or a combination of a few), then enter the amount on your fuel receipt and finally with the camera on your phone take a photo of your fuel receipt.... that is it... it couldn't be any simplerI hope you enjoy this app and gain many more Fuel Discounts!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

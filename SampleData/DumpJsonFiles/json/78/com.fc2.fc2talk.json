@@ -1,0 +1,51 @@
+{
+  "title": "FC2 Talk",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fc2.fc2talk",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "September 1, 2013",
+  "version": "1.1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "65",
+  "rating": "3.8615384",
+  "contentRating": "Medium Maturity",
+  "creator": "FC2,inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fc2.fc2talk",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "FC2 Talk is an App that lets Users message and chat with friends for free!Thanks to the GPS feature you can find other members around you,or even send your location on a map to friends around you.All in all, it's a great new way to communicate with others!- High-Quality Talk FunctionFC2 Talk gives Users the ability to message their friends for free,but with extra functionality and decorative pictograms.Take photos and share them instantly, use FC2 Talk's location feature,or chat with others using the Group Talk feature!- Find People around you via GPSUsing FC2 Talk you can use the GPS Map to find other people around you,as they display on your map.Not only that, you can protect your privacy with the Block User functionand place restrictions on your location's publicity, to avoid any of the more troublesome characteristics of communicating with others. - Ever-Expanding FunctionalityFC2 is continually adding more features and functionality to FC2 Talk.Each update will hopefully make FC2 Talk even more enjoyable.- NoticeThis App uses Google Play Services.If you do not have this App installed yet, please install it from the following URL.https://play.google.com/store/apps/details?id=com.google.android.gms",
+    "reviews": [
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1363536302650",
+        "starRating": "5",
+        "comment": "Should add some where to recommend friends to join",
+        "commentId": "gp:AOqpTOGu6rJN2d-ziqaO1kfVB8swXs0Ej3zd8zSQGAfSZVe6x5hUqqY8gka4J2cvuGiYwsBmOXMp8PU9CXSbng",
+        "author": "Andy Lam",
+        "authorURL": "http://lh4.googleusercontent.com/-wBEhYojnLVg/AAAAAAAAAAI/AAAAAAAABHw/Uw9JkoCfOas/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-wBEhYojnLVg/AAAAAAAAAAI/AAAAAAAABHw/Uw9JkoCfOas/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.fc2.fc2talk.permission.MAPS_RECEIVE",
+      "com.fc2.fc2talk.permission.C2D_MESSAGE",
+      "com.fc2.fc2talk.permission.LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

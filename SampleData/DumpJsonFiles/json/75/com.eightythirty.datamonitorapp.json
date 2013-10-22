@@ -1,0 +1,64 @@
+{
+  "title": "Data Monitor App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eightythirty.datamonitorapp",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "November 2, 2012",
+  "version": "1.2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "14",
+  "rating": "4.785714",
+  "contentRating": "Everyone",
+  "creator": "BestSignal",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eightythirty.datamonitorapp",
+  "extendedInfo": {
+    "installSize": "391k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "#1 Data Monitor AppIntroducing BestSignal's stand-alone data tracking app.  BestSignal's Data Monitor App offers users a first-of-its-kind UI -- one that reports WiFi and cellular data usage by application, day, week, and billing cycle ALL on ONE beautiful, intuitively-designed PAGE.  Android data tracking has never been easier -- simply select the settings button, input several pieces of information, and allow BestSignal's Data Monitor App to do the rest.  All you'll need is a phone and a finger.  Download it for free right now and avoid future data overages.Features Include:â Easily swipe through your cellular and WiFi data usage.âScroll through a descending list of data hogs â functions and applications.  This makes Android data tracking so easy!â Built-in warning system to help users avoid data overages â default setting of 80% of total data.  Users may personalize by telling our Data Monitor App when and how theyâd like to be notified.â Beautiful, modern, and first-of-its-kind user interface.  This alone makes it worthwhile.â and much, much more!No other data tracking app combines more information and ease-of-use!  Download it now and improve your Android data tracking.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1378746779444",
+        "starRating": "5",
+        "title": "100% brill",
+        "comment": "superb",
+        "commentId": "gp:AOqpTOGXgOd8OkWV0bZT21dUEqQfNQAjA40V-JjQ5IsH6He-sklaAwc2eK4dkjeXHBlP6WRFzUqEQOFp8TPXPwQ",
+        "author": "linda chatterley",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355557228498",
+        "starRating": "5",
+        "title": "Wow",
+        "comment": "Improve phone ig gotta test myself",
+        "commentId": "gp:AOqpTOGvC7tN6pbr2XBVX2heZhQI-d3QzAa6kqShwduW8DeXN8A4rSNTx1bBqia-75ShBuxrfYaWvetOmMD_B-A",
+        "author": "Hassan Mcclain",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357464519997",
+        "starRating": "5",
+        "title": "v",
+        "comment": "v",
+        "commentId": "gp:AOqpTOHGyopT16I-PnyTUK83Dlz2epdHsU-Bwec6rOS_KaMH0QVz5KMsxxDWq_rXGPWQIpzhON-o9pXfi-9x3BI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

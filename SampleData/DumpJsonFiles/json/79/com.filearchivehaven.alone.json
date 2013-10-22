@@ -1,0 +1,51 @@
+{
+  "title": "Alone",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.filearchivehaven.alone",
+  "category": "Cards & Casino",
+  "price": "$1.00",
+  "datePublished": "December 4, 2012",
+  "version": "1.0.14",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "FileArchiveHaven",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.filearchivehaven.alone",
+  "extendedInfo": {
+    "installSize": "22M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "This simple choose-your-own-adventure type game, follows the journey of a person after waking in the post-zombie apocolypse world.Do you have what it takes to survive the apocalypse?",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BATTERY_STATS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.SET_ORIENTATION",
+      "android.permission.DEVICE_POWER",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.android.vending.CHECK_LICENSE",
+      "com.android.vending.BILLING",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

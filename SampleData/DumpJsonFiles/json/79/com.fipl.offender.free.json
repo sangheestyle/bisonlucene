@@ -1,0 +1,38 @@
+{
+  "title": "Sex Offender Record Archives",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fipl.offender.free",
+  "category": "Tools",
+  "price": "$1.99",
+  "datePublished": "August 13, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Sex Crime Data Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fipl.offender.free",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "750,000 ARCHIVED SEX OFFENDER RECORDS NATIONWIDE. This is the only app like it anywhere! This app will tell you if they were EVER on the registry.The One-of-a-Kind App That Can Truly Make You Safer ...  We Have Both Current Sex Offenders And Past Sex Offenders (That No Longer Have To Register In The Official Registry). ONCE PUBLIC RECORD ALWAYS PUBLIC RECORD.Currently over 750,000 registered sex offenders in the U.S.  As years go by, these criminals are set free to live as our neighbors mostly going unnoticed.  Some Sex  Offenders often commit crimes again and again and can threaten the safety of our communities.  Most online listings are incomplete and only contain current offenders.  You need to know who may put you and your family in danger. YOU HAVE THE RIGHT TO KNOW YOUR NEIGHBORS PASTOur latest release, SEX OFFENDER ARCHIVES puts the power of knowing -- In your hands.  The SEX OFFENDER ARCHIVE app, is the only sex crime archive application in the world that actually archives sex offender records.We have taken the same advanced technology and attention to detail that we have implemented in our websites, to bring you the most comprehensive listing of current and past offenders.  This listing can be a useful tool in knowing if the people living in your area (or wherever you choose) have a history of sexual offenses..",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_MMS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

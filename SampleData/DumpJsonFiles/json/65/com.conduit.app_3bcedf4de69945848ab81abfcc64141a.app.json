@@ -1,0 +1,39 @@
+{
+  "title": "American Horrors Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_3bcedf4de69945848ab81abfcc64141a.app",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "December 26, 2011",
+  "version": "1.2.4.876",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Christopher Jimenez",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_3bcedf4de69945848ab81abfcc64141a.app",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Follow America's best 24 hour uncut horror channel with a channel guide, exclusive YouTube features, plus rare photos trailers and more.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_3bcedf4de69945848ab81abfcc64141a.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

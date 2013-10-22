@@ -1,0 +1,47 @@
+{
+  "title": "Consider Us Rescued",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_96b9e63b67134e58aa0700593652c60f.app",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "May 1, 2013",
+  "version": "1.1.2.35",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Four Flame Records",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_96b9e63b67134e58aa0700593652c60f.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "Mobile application for Consider Us Rescued, Contemporary Christian band from Greenville, TX on Four Flame Records.Keep up with Consider Us Rescued on the go with the band's new application, available on all Android devices!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_96b9e63b67134e58aa0700593652c60f.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

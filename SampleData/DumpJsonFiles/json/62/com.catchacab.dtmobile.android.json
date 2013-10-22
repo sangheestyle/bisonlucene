@@ -1,0 +1,40 @@
+{
+  "title": "DriveTime",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.catchacab.dtmobile.android",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "July 3, 2012",
+  "version": "2.0020",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Private Hire Service (Catchacab)",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.catchacab.dtmobile.android",
+  "extendedInfo": {
+    "installSize": "785k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Private Hire Service Ltd presents DriveTime for Android - an app for licensed taxi and minicab drivers whose taxi or private hire company are currently registered as a catchacab.com service provider. DriveTime for Android allows drivers on the road to receive jobs despatched by controllers from the DriveTime Desktop system at base. This makes this app suitable for licensed drivers who work as part of a fleet.Private Hire Service Ltd also owns www.catchacab.com, which is UKâs largest consumer search engine for Taxis and minicabs. DriveTime for Android also allows drivers on the road to attract nearby jobs from our internet customers, making this app suitable for licensed carriage drivers who work alone or independently.Your customers also benefit from your use of DriveTime as they are able to track and share their journeys on catchacab.com, get updates on how far you are from their pick up location, feel safer and get a better service - all of which attracts repeat bookings.Whether you drive a taxi or minicab, or work alone or as part of a fleet, DriveTime for Android makes you more efficient by easing communication, filling your seats with more happy passengers, attracts local jobs, and gives a general professional appearance. FEATURESâ¢\tReceive jobs from baseâ¢\tReceive internet bookingsâ¢\tGPS Navigationâ¢\tCredit card terminalâ¢\tCustomer & Base trackingâ¢\tCheck-In functionsâ¢\tTrack jobs & earningsâ¢\tJob reminder alertsâ¢\tReminder alerts for expiring documentsâ¢\tGeneral communication with base & customersNOTESâ¢\tOnly drivers with valid licenses from their local authorities can use this app.â¢\tThis app can only be set up through its DriveTime desktop parent system, which must be installed firstâ¢\tThis app requires an Android 2.2 operating system (Froyo) or higher For more information regarding DriveTime Despatch Systems or how to register as a Catchacab supplier, please email info@catchacab.com or call 0207 193 4959.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.catchacab.dtmobile.android.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_LOGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE"
+    ]
+  }
+}

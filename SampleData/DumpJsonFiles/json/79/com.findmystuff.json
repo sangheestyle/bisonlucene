@@ -1,0 +1,77 @@
+{
+  "title": "Find My Stuff",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.findmystuff",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "2.8",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "6",
+  "rating": "3.1666667",
+  "contentRating": "Everyone",
+  "creator": "F9 Systems",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.findmystuff",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Lots of stuff to remember, lots of things getting lost - forget everything now relax your brain and let me remember it for you.I am Findmystuff - your Personal Assistant to make an index of all stuff important in your life. Add them to my list from important documents to your favorite lipstick and use my voice enabled search to find them out. Record a sound note to every stuff you add and I will play it to remind you whenever you need it.Use it and you will love it this app is surely a Keep.## Now with a Set Reminder Feature in your Calendar.** There is a help guidance inside the app for your need.WILL WORK ON ALL LATEST AND UPCOMING VERSION INCLUDING Android KitKat 4.4",
+    "reviews": [
+      {
+        "timestampMsec": "1378292023654",
+        "starRating": "5",
+        "title": "First ever app like this",
+        "comment": "Cool",
+        "commentId": "gp:AOqpTOGk9dO3HbsqCuC8x5cvGjnsomLnaUIeyjv2LLnpHX5M1akg0E8MChaq4DL0Jp4eQG_BkOt4deiV343OZg",
+        "author": "mohan kumar",
+        "authorURL": "http://lh3.googleusercontent.com/-JVjKWkjtYPo/AAAAAAAAAAI/AAAAAAAAA3E/Zxyr93QHGM4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-JVjKWkjtYPo/AAAAAAAAAAI/AAAAAAAAA3E/Zxyr93QHGM4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376311480897",
+        "starRating": "5",
+        "title": "Very helpful",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOHu4rIgEd19jwBWQ0tOHFanOSnyqeEpTbrzSz_LuCBA_pL34WZzBKrvXnz6rGo4nzdyuQzKG2phn_PGvw",
+        "author": "Prasad Rodepatil",
+        "authorURL": "http://lh3.googleusercontent.com/-71p7lFZ_-Fc/AAAAAAAAAAI/AAAAAAAAAF8/WOfI2sLYVKw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-71p7lFZ_-Fc/AAAAAAAAAAI/AAAAAAAAAF8/WOfI2sLYVKw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367319131500",
+        "starRating": "1",
+        "comment": "It nice app but too slow to loading",
+        "commentId": "gp:AOqpTOGZu0Qv0yDeuiRo_60P6izYedgwIHtZgN8CaEs2-gSFZHQfR2tDx05NXbW12eJnOh4r2qNN1vAkXjYCig",
+        "author": "ngoc an luong",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377958630690",
+        "starRating": "4",
+        "title": "Needs some ux work",
+        "comment": "Good concept helps me at times to remeber things",
+        "commentId": "gp:AOqpTOF_BkzyKJDMycX9eCa7qG2akgokEQa6nYvu5p04-8_pPk0taI-hvmCJ9A_Uly8xJwuGDB7AqHnmDAjvPA",
+        "author": "Vijay Kukreja",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

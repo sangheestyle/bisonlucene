@@ -1,0 +1,52 @@
+{
+  "title": "Messe Stuttgart",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.excelsisnet.android.lms",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "January 14, 2013",
+  "version": "1.7.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "33",
+  "rating": "1.8787879",
+  "contentRating": "Medium Maturity",
+  "creator": "Messe Stuttgart",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.excelsisnet.android.lms",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Plan and organise your visit to Messe Stuttgart with the Messe Stuttgart app. Our multi-event app gives you access to all Landesmesse Stuttgart GmbH events.  Details about the respective trade fair, exhibitor lists and congress programmes are available in advance. Add your favourites to the watchlist and be reminded of important appointments. Dynamic hall and site maps will additionally facilitate your orientation. Messages, images and videos on the current event will keep you up to date. Overview of features:â¢ Multi-event support â¢ Exhibitor lists â¢ Trade fair and congress programmes â¢ Hall maps for the trade fair centre â¢ Watchlist with appointment functionâ¢ Event newsâ¢ Images & videosâ¢ Routing functionalityThe app is optimized for smartphones only.Permission hints:â¢ ACCESS_NETWORK_STATE: Data connection checkâ¢ INTERNET: Downloading of trade fair data via Internetâ¢ ACCESS_COARSE_LOCATION: Network based determination of current position for routing purposesâ¢ ACCESS_FINE_LOCATION: GPS based determination of current position for routing purposesâ¢ WRITE_EXTERNAL_STORAGE: In order to save image data on external storage (if applicable)â¢ WRITE_CONTACTS: In order to add trade fair contacts to the address bookâ¢ READ_CONTACTS: In order to check if a trade fair contact has been already added to the address book",
+    "reviews": [
+      {
+        "timestampMsec": "1353113838186",
+        "starRating": "4",
+        "title": "Nice tool",
+        "comment": "Works great.",
+        "commentId": "lg:AOqpTOGTQ2-8nkwNa8TFR6vU2BavBn1IzjJGk-teRrF5K8xf7Wjsorqu5wwRu5nTFxXlbwJdXZge9YXnQ84VhQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347959103412",
+        "starRating": "1",
+        "title": "Download of content",
+        "comment": "Could download the app but not the necessary content for the fair.  Makes the app useless!!",
+        "commentId": "lg:AOqpTOF34uO7VOkhnqyPBRyZJiiqlsqGbzrkV8aBzpn7I3c12gaXpnTgivPbpOocmjXjzrmGszXkMB5dXF-zQg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Choose to disturb (Pro)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.choosetodisturb",
+  "category": "Communication",
+  "price": "$2.61",
+  "datePublished": "May 6, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "13",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Oddworks",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.choosetodisturb",
+  "extendedInfo": {
+    "installSize": "428k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "If you are in a situation where you do not want to be disturbed by a phone call, you can activate this app. There are two ways of protecting yourself from disturbances with C2D Pro; Either by SMS activation or by allowing someone who calls you twice in a short time period to get through! With SMS activation whoever calls will receive an SMS with instructions on how to activate your phone along with your message. Then if the user sends you a SMS with the ALARM code they get through.Description:This is the app to use if you want to silence your phone, but still be available.Examples: - Your in a meeting and do not want your phone to ring if it's not urgent- You want to have a powernap without being disturbed unless it's important- You can activate it every night without being afraid that you will not get noticed if something should happen to one of your loved ones.There is an editable message box where you can write a message to the caller that describes why you do not want to be disturbed, and interesting app will add one description paragraph how the caller can activate your ringtone, if he chooses to disturb.There is also a white-list where you can put those contacts that will reach you without going through the app. For example your child's kindergarten, your babysitter or your stock broker.You can also setup ringtone from you phone ringtone list. Also, this app has a special âblue iconâ with a very noisy and louder rig tone if you want to use!",
+    "reviews": [
+      {
+        "timestampMsec": "1357750481790",
+        "starRating": "5",
+        "title": "Finally!",
+        "comment": "There is alternatives on the market, but nothing as polished as this. Easy to use, beautiful and very useful. Can\\'t wait for more apps from Oddworks!",
+        "commentId": "gp:AOqpTOHmwrjRufewM2eeJzJZgR0ZNZ5s47EEwfCs17weJSJtmxPdHTQoj4Uk4IEKmmofS8bngVL3NOwc5dWFmGQ",
+        "author": "Tom-Erik Larsen",
+        "authorURL": "http://lh3.googleusercontent.com/-AinggPoky9I/AAAAAAAAAAI/AAAAAAAAFEc/fClhE5ZfKxg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-AinggPoky9I/AAAAAAAAAAI/AAAAAAAAFEc/fClhE5ZfKxg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357680834074",
+        "starRating": "5",
+        "title": "Finally!",
+        "comment": "Finally a real guard against unwanted disturbances!",
+        "commentId": "gp:AOqpTOExszYvKQ1KbWqECZrT4PMbSzp6hS8xqRLqYmbBkdILcyyvECWGhgr0GDHiXhPIrr8iX55Bbw9cmqRMvkY",
+        "author": "Odd Joachim Aschim",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357735945559",
+        "starRating": "5",
+        "title": "Great app!",
+        "comment": "This is really great in work situations where you need to not be disturbed unless it\\'s really important",
+        "commentId": "gp:AOqpTOH3PnczcbtlGggBQULzIyvLfZmXF3K_bjqm2lHgtZvoLfN5SpKalTXilQbQhawPIISrpg7LboOPyQaTj1I",
+        "author": "Jill Nordby",
+        "authorURL": "http://lh6.googleusercontent.com/-Mck-QUnGNps/AAAAAAAAAAI/AAAAAAAAATg/hzwvyHK5PiM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Mck-QUnGNps/AAAAAAAAAAI/AAAAAAAAATg/hzwvyHK5PiM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357683978097",
+        "starRating": "5",
+        "comment": "Thank you guys! Have been looking for this app 4evah",
+        "commentId": "gp:AOqpTOEnbvIy1Xk2qeDv5iWtc6P9JY_G_t-pPKDm42ae241ZIqBY2J_V2Lepn3X9xn9TCi7XDyk3P-ECLiNdRwA",
+        "author": "Lars-Erik Ravn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

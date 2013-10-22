@@ -1,0 +1,50 @@
+{
+  "title": "Where is Coffee?",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chowchi.Coffee",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 3, 2012",
+  "version": "0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "8",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "Don Chow",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chowchi.Coffee",
+  "extendedInfo": {
+    "installSize": "284k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Find the nearby Starbucks and Pacific Coffee shop in Hong Kong. The shop will be shown in list sorted by distance as well as in map.(Unofficial apps by Hong Kong Coffee Fans)Keyword: Hong Kong, Coffee, Starbucks, Pacific Coffee, Beverage, Drink, Cafe, Latte, Mocha, Cappuccino, Espresso, PCC, Starbuck",
+    "reviews": [
+      {
+        "timestampMsec": "1353089489985",
+        "starRating": "4",
+        "title": "\\345\\276\\210\\346\\226\\271\\344\\276\\277",
+        "comment": "\\345\\216\\273\\345\\210\\260\\351\\202\\212\\351\\203\\275\\345\\245\\275\\346\\230\\223\\346\\220\\265\\345\\210\\260cafe,\\346\\255\\243",
+        "commentId": "lg:AOqpTOGylwCVQVO_GGA7-DIj0JWGEfX4--_IHNfgpkQbDWZFhZaIkPbA801LYQ0kiVcW0a5YJfjayzJl12AoBB0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362662923558",
+        "starRating": "1",
+        "title": "\\345\\200\\213app\\345\\245\\275\\345\\273\\242",
+        "comment": "\\350\\243\\235\\345\\267\\246\\344\\275\\240\\345\\260\\261\\347\\237\\245\\345\\276\\214\\346\\202\\224",
+        "commentId": "gp:AOqpTOEmKTKkD7_xvQJpmSlR27vMu_gVETZ9jNOef1ydEn3hqffdXUvjgYoCWNQFu57sJz18PwA40eCU5uYAdiU",
+        "author": "Raymond Au",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

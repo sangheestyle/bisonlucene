@@ -1,0 +1,134 @@
+{
+  "title": "Truly Random - Dice Roller",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ecsoftwareconsulting.TrulyRandom",
+  "category": "Entertainment",
+  "price": "$0.99",
+  "datePublished": "August 11, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "23",
+  "rating": "4.4347825",
+  "contentRating": "Low Maturity",
+  "creator": "EC Software Consulting, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ecsoftwareconsulting.TrulyRandom",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Whether you are exploring the depths of your favorite dungeon, staring in the face of an evil dragon, or just making a nuisance of yourself with the local townsfolk, Truly Random can handle your dice rolling needs. Our powerful application gives you the flexibility to handle those dicey situations.RPG - Dice Roller=================This portion of the application is aimed at those brave adventurers engaged in the world of fantasy role playing games or if you just lost the dice to your favorite board game. No need to worry about forgetting your dice again, we got you covered. You choose the number of dice to roll (1..99), which die (d4, d6, e8, etc), apply a modifier (-99..+99) and make your roll. The totals will be calculated and displayed for you along with the detail for each die. Itâs as simple as that.We also support an \"exploding\" version of each of the dice. See our website or the in-app help for more information.RPG+ - RPG Dice Notation========================Enter a formula in RPG Dice Notation to handle those complicated scenarios where rolling a number of d6 just doesn't cut it. Now you can define powerful expressions allowing you to mix various dice together, multiply, add, or subtract their result in almost any way you need. We also support a number of functions including IF, MIN, MAX, and many more. A few examples are likely to provide the easiest explanation.- 4d6+3 = Roll 4 d6 dice, sum them, add 3 to the result- (4d6+3)*2 = Roll 4 d6 dice, sum them, add 3 to the result. Then multiply this value by 2.- IFLT(Level, 5,4d6+3, 4d6+Level) = If the Global Constant \"Level\" is less than 5, roll 4 d6 dice and add 3, otherwise, roll 4 d6 dice and add the Level.Multiple equations can be stored together as a group. This can make complicated weapon attacks easier to calculate and evaluate.For example, you have special sword with the following characteristics:- Attack 1: 1d20+12- Attack 2: 1d20+10- Attack 3: 1d20+8- Damage: 2d8+1d6+5 (3 throws, 1 for each attack)All of these equations can now be saved as a group. One roll will calculate the results for each equation in the group and you decide what applies. Imagine the possibilities!You can even Import/Export Groups from the SD Card!RPG Char - Character Generation================================Developing that new wizard or cleric you have wanted to play? This will roll 4 d6 (six sided) dice and total the highest three. You can also select specific dice to re-roll if your DM/GM allows. (Some allow the re-roll of 1s for example.) Six sets of dice are rolled for the typical attribution of your character.Custom Dice Sets================You are no longer limited to just numbers on the faces of each die.Each Dice Set includes one or more dice. Each die can have as many faces as you choose and each face contains the text you enter. The faces can include embedded expressions, custom formatting, and distribution weights.This is ideal for those gamers who are constantly using random generation charts. Some great examples submitted by our users include: Tavern Generator, Pick Pocket Yield, NPC Encounter Conditions, Corpse or Bag Yield, and more.You can even Import/Export Custom Dice Sets from the SD Card.Campaigns================Group the saved items from the RPG, RPG+, and Custom Dice Sets together to define your own Campaign. The Campaign gives you ready access to your character or game specific equipment, abilities, spells, etc.Global Constants================Global Constants can be used in the expressions you define for RPG Plus and Custom Dice Sets and can be applied to many calculations allowing you to update it in one place.",
+    "reviews": [
+      {
+        "documentVersion": "4.3.0",
+        "timestampMsec": "1371297011163",
+        "starRating": "5",
+        "title": "Just what I was looking for!",
+        "comment": "No more physical dice with complex rules. Instead: clear text on each \\'face\\' of the dice.",
+        "commentId": "gp:AOqpTOEblnaIrKWNMz-pNDMeay8rQTInv249K_sl7VrMn8y6hKeQMoDwZqGE1kM4YG_V08ytL5Saqj0UDqxHcvc",
+        "author": "Bas Meijer",
+        "authorURL": "http://lh5.googleusercontent.com/-wP6vWJzjAQQ/AAAAAAAAAAI/AAAAAAAAIls/L6iILEbX2NI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-wP6vWJzjAQQ/AAAAAAAAAAI/AAAAAAAAIls/L6iILEbX2NI/photo.jpg"
+      },
+      {
+        "documentVersion": "4.2.0",
+        "timestampMsec": "1363921174642",
+        "starRating": "5",
+        "title": "Solid App Great Support",
+        "comment": "I discovered this app when hunting around for something to load custom dice. The functionality base was there but I found that I had a few ideas that would make my life easier and make for (I thought) a better all around app. I reached out to the designer and he agreed with almost everything I sent him. And now most of it (and then some) has been integrated into the app. This app is absolutely worth the investment with the functionality it provides, especially for all those DMs, RMs, and GMs out there.",
+        "commentId": "gp:AOqpTOG8E7b0qZly9vOYHpxKrFrIs-tB5ySNcpo8i29yu_OwKlXMh37xF37xtYtBib1cJ2flGTGXf3vXRJ3XlWQ",
+        "author": "Ryan Hardy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.2.0",
+        "timestampMsec": "1364956772800",
+        "starRating": "5",
+        "title": "Great - Sorry took so long to rate it.",
+        "comment": "I have had this APP for quite a while, it was great when I first downloaded it back in the day however it has continueed to improve.. It is an extremely handy APP. Sorry it took me so long to rate it. Keep up the excellent job!  Cant wait to see what might come next.  ;-)",
+        "commentId": "gp:AOqpTOErTMM-6r8cNyTo4q0Lezk-KMkSxNaTv6dvbh1jnRuEHer_LYclhBdCCWV_U_q1e-Hstaom6RyC4L_tnYg",
+        "author": "Chaz man",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.6.0",
+        "timestampMsec": "1319340817893",
+        "starRating": "5",
+        "title": "AWESOME!",
+        "comment": "A DM\\'s best friend.  Has everything U would ever need for RPG & more.",
+        "commentId": "lg:AOqpTOHtqIiJdT-Jq-vqw0esXjD8hImlJzb9OEX_gz5OR_dLQADAFElOEOBjW49tKuHQJX-lIfNV9yNxJufxj64",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.6.0",
+        "timestampMsec": "1307018299125",
+        "starRating": "5",
+        "title": "Best App I\\'ve Splurged On",
+        "comment": "This is a well thought out & robust app. The latest update worked in many user suggestions due to the dev being fantastic, quick to respond, & willing to listen. If you\\'re a TTRPG\\'er & have android, you should add this app to your gaming arsenal. I\\'ve also yet to have any crashing, & it\\'s compact coming in at just under 600kb for the app itself, just over 600kb with what I have added.",
+        "commentId": "lg:AOqpTOGUAgS25SxyPavTo_M4d0pf4eDVEIjLX4gCW2KjlX0KTLmWgKObn87P5KsG7-DMtFxAx7Z55PbZaj3zHdI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.6.0",
+        "timestampMsec": "1315123151838",
+        "starRating": "5",
+        "title": "Awesome but won\\'t update",
+        "comment": "Pretty much as I said above.",
+        "commentId": "lg:AOqpTOGJcTWzlpDEVGOC8Frnq81xJSOwG4U6v8-BRJRM3H65grsMvt41d5msL_BRxqcmaUi9M7dBnO-k0I5zqio",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.2.0",
+        "timestampMsec": "1305050318273",
+        "starRating": "5",
+        "comment": "Very kewl app!",
+        "commentId": "lg:AOqpTOG3l8xuxWUUrmSfLiSbeOsjqz0heZGUrX-5AQfc8BdboxEXgPl40ZSpDBUsJj-XghqH_SlCt33jJqYlYBM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.0",
+        "timestampMsec": "1296229588411",
+        "starRating": "5",
+        "comment": "Awesome app. Love the RPG+ and the char generator.",
+        "commentId": "lg:AOqpTOH8AU_-q0tt6O_Nfwzy3Us_toh9p25X3UY0mQQXCdWXsw1Xf36aOQ_yPKrsXUdHn0nmsNY84Zk9WvkW8mE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.0",
+        "timestampMsec": "1299264081543",
+        "starRating": "5",
+        "comment": "First class app for any roleplayer. Use the custom dice for making instant critical and fumble charts. Friendly responsive developer.",
+        "commentId": "lg:AOqpTOFiqFhUtyFLLe4GOdw9TvZk2eFcZBUevlFwzweEeHbTXvM7Ei0i3sny7x6Gk8cM_QhTUsNT6bWRDO_pW_Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1254036548671",
+        "starRating": "4",
+        "comment": "U added multipliers! Awesome! Now if i could name my dice sets i would be truly happy",
+        "commentId": "lg:AOqpTOEAvbiEaPvax6yZzP0VJKMncOELJ2SOxW7CB6iggWtbR2Y9CeK5xr_5QfFSlw6Y4uuwiACzBcyX23GnZjc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1253911607534",
+        "starRating": "4",
+        "comment": "Polished and clean, but doesn\\'t add much over other dice rollers. Liked the programmable dice pools, but needs a difficulty option for other games",
+        "commentId": "lg:AOqpTOH3BuEk9uvEJMkn8XwdtBYiUAwPEm1ALbCD07gamgBnhMhAgBsBOg9vvgxgqHC53xCtZQylExpOAd4SX2Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

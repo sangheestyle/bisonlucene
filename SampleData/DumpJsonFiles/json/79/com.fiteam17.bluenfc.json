@@ -1,0 +1,214 @@
+{
+  "title": "Blue NFC",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fiteam17.bluenfc",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "December 12, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "50",
+  "rating": "4.14",
+  "contentRating": "Everyone",
+  "creator": "FITeam17",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fiteam17.bluenfc",
+  "extendedInfo": {
+    "installSize": "333k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Application for simple Bluetooth file sharing using NFC. Run this application from the context menu of a selected file and tap phones to start the file transfer.Application does automatically, without requiring user interaction: * enable Bluetooth * establish a connection with the second device * disable Bluetooth after file transfer to save a batteryNOTE: Only for devices with NFC support, tested on Nexus S. The application has to be installed on both devices.TO-DO: With new Adroid 4.0 SDK: Automatic installation of this app on the second device, screen switching right after NFC tag is transmitted.",
+    "reviews": [
+      {
+        "timestampMsec": "1336365213093",
+        "starRating": "3",
+        "title": "Very nice concept but error in G Nexus",
+        "comment": "Same as another reviewer, error near the end of transfer. Why? Note: I tested it using a Gnexus 4.0.4 with a Nexus S 4.0.4, same error at both directions.",
+        "commentId": "lg:AOqpTOH6URty_e6_TTAtDyhwQOOCo9dfxu2YM7n77jxe2sQN0c13UJR7JUuOc5c-RSTHHsCgLXAyCu-79I-2v4Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360877723439",
+        "starRating": "2",
+        "title": "Nice idea, doesn\\'t work for me or my family",
+        "comment": "I will give FITeam17 credit for how this is supposed to work.  I like the idea of becoming an item in the Share menu.  From there, the use is very easy (in theory).  However, I have tried to share files (pictures, mostly, but other items, too), with 4 different people who all have the exact same model of phone.  Every single time, the two phones vibrate in recognition of the attempted connection, and even look like they\\'re starting the \\\"handshake\\\".  Yet, in the end, the file transfer never starts...never....let alone completes.  I\\'ve written to the developer with zero response.  HTC EVO 4G LTE, on both Ice Cream Sandwich, and later Jelly Bean.  Stock OS as delivered by Sprint.  Checked, double, even quintuple checked BlueTooth settings in both phones, and can\\'t find any reason why the transfer doesn\\'t go.  I work with technology for a living and think I\\'m a pretty technically savvy person.  And, yet, I can\\'t get it to work.  So, nice intentions, but no go on execution, at least for me.",
+        "commentId": "gp:AOqpTOGCZ8PidK1K1cVwNXmV7-3xeIYfNqgfHLD6OfsU6AovfhQjhoCVkM2oJdTgQmOt6Zpn6ya1AQLvHTkseRQ",
+        "author": "Andrew Cook",
+        "authorURL": "http://lh4.googleusercontent.com/-pyj59-eO_1U/AAAAAAAAAAI/AAAAAAAACQ8/gXUhA9MRCKA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-pyj59-eO_1U/AAAAAAAAAAI/AAAAAAAACQ8/gXUhA9MRCKA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1354001017238",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "It\\'s what I\\'ve been looking for for quite some time. There are some quirks like having to toggle Bluetooth every once in a while to initiate transfer but that\\'s nothing compared to how crappy sending files was before this app.",
+        "commentId": "gp:AOqpTOFwL4TpZuQ0ttWVFd6haWnlFN4NBdrtXfrjxCLmCVXUKgruV6QeXFN4eAXYr_pPGDK8xRYM2vgxw0gIrA0",
+        "author": "Tyler Shivers",
+        "authorURL": "http://lh6.googleusercontent.com/-DFblc3gbYQw/AAAAAAAAAAI/AAAAAAAAWD0/WPcXJspK8iY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-DFblc3gbYQw/AAAAAAAAAAI/AAAAAAAAWD0/WPcXJspK8iY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1323716603881",
+        "starRating": "5",
+        "title": "Good job.",
+        "comment": "Perfect app!",
+        "commentId": "lg:AOqpTOF_V5zCXBro4wW8k5Ww628BiAAAqSiAvC_gbfPGhweBlmzf_pFFu2FW4JmnQAZLwsr0JHNl178YeXwI574",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340242517612",
+        "starRating": "3",
+        "title": "Should have been better",
+        "comment": "I can send/receive files using 2 Galaxy Nexuses but need a little tweak, I have to uncheck \\\"Disable Bluetooth after....\\\" otherwise the transfer will be error at the end. Should the turn off of bluetooth have a delay about a few seconds after the transfer, this will be better.",
+        "commentId": "lg:AOqpTOFFXWwk2hhlDZt2d0g8Tv_oMHWQpr85iZcGRiL-OvnrbZMkE90ArYhKG9lWyBgPHz5X0BvBZaqn-7mUnGI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336917666894",
+        "starRating": "1",
+        "title": "Good idea but did not work",
+        "comment": "Tried between Galaxy Nexus and Sony Xperia S and it did not work.",
+        "commentId": "lg:AOqpTOHONl50C6UxcwyUpCJxMNEL2NEv4gPfUqscToy5Gw0PH1GlNyIPhPmxBSfBDm0zD4ZQ5m78IgC1DFynZpQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346160976820",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "My Bluetooth wouldn\\'t let anyone send me anything this cures that.",
+        "commentId": "lg:AOqpTOGPkYgS3MXMP0UcIB6h9K4gBQKQ2mtQ9UV_u9UjaObkFHjNJwbFlPCsbQ_kgGg4SyXuhxRwAs25dLo3iaU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1326867234724",
+        "starRating": "5",
+        "title": "Flawless",
+        "comment": "No setup needed ...just download and share",
+        "commentId": "lg:AOqpTOE_B8hfOPf7HqVq65VXmtWv43SZFHzn1o4pS5AF3AgygAgqw2_iG7h_2DjLME5G362qxz_WhJ2O-7X4nlY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350089143337",
+        "starRating": "5",
+        "comment": "I love your app! Thanks! :D",
+        "commentId": "lg:AOqpTOF5x9KVFFSwx6Ii3aVg8M7ZZ4sF-NpA381t5W-JmOfjFcYyyd758oOdG5Es4XfzIEc84VnjuuD2q0j_liY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345372607315",
+        "starRating": "5",
+        "title": "THANKS",
+        "comment": "I love the convenience of sharing files between devices using Bluetooth without using Bluetooth...just give the phones a little bump...nice",
+        "commentId": "lg:AOqpTOEpUPQpJ1a8-wAPuYbTIYMIAP90HABZRUqfeBp5AOfAfnNOfTYnRrQdQOtEDkAD579Z2dda1i6DJDo0AWo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354792364205",
+        "starRating": "5",
+        "title": "This...",
+        "comment": "Is what nfc file transfer on ics and jb should\\'ve been.",
+        "commentId": "gp:AOqpTOGVZ2S9sMD0JhtU_7LRyMLZHkNmCyotFzq4XhIyZV0-tVX1VY0ifnijdEnAun4T1izHoEFhU2AqmK3uIB8",
+        "author": "Franklyn Pearson",
+        "authorURL": "http://lh3.googleusercontent.com/-XAEfnnl_-iw/AAAAAAAAAAI/AAAAAAAAAAA/8XEUZp2nfqU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-XAEfnnl_-iw/AAAAAAAAAAI/AAAAAAAAAAA/8XEUZp2nfqU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1349713962678",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Very good but how long should it take to send 700mb",
+        "commentId": "lg:AOqpTOEnmzfpVpCrmCe9pEznRaivh0Sb4iRjvGhQj0yRCaK4UMEIBo9oMMfFjPoTs8_ZVdKPgXGURdgl5qwrWhc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348626540554",
+        "starRating": "4",
+        "title": "To avoid error",
+        "comment": "Have to disable turn off Bluetooth after transfer",
+        "commentId": "lg:AOqpTOHiqMtoM1tayATth5btURHYiQRWeWxTgGhfwBVdDvBhH61pvgNwG80w2dsGD25hwXYCpuE07bk7D7V6D4c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331733217008",
+        "starRating": "4",
+        "title": "I love the idea",
+        "comment": "But I get a error while transferring files.",
+        "commentId": "lg:AOqpTOEhjlp6lWjDjMA3Wt1nuiv5fvx0ArEJnPxxA5KIbY5q__KiDlq7uSXQSasA1oM6nx-USbxL0S5bvTH1W_k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324369178504",
+        "starRating": "5",
+        "title": "Wow",
+        "comment": "Haven\\'t even tried out this app yet, but already giving it 5 stars for the premise alone! Simply awesome....trying it out with my GNex tomorrow at work...",
+        "commentId": "lg:AOqpTOElh-PKzSI0B7C-kC6d3wh1N4kVr7lem9QjvfoiZP-dcSOnkYXrwDItIqGQGwvQ-DmQjq_01JIwFKVkF5E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341446296890",
+        "starRating": "2",
+        "title": "almost great",
+        "comment": "a 2 for trying. error at the end with gnex and gs3",
+        "commentId": "lg:AOqpTOE8gOsWZf8iEu2OOQ68eryVy8E6zUGOPVUHZwmfOXotxP30GtIrKYC77kivsAQyeQDCKomfliuFl5QWFxA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350449297235",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "Galaxy s3",
+        "commentId": "lg:AOqpTOEBeDSBJIEyikyEbyab2dOrzMe_XIOBlwEg2ynvQpkftXP6K2HH08VNzLgvJvzIAu7iG1qhaDPXfPJ1A8o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357272703215",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "Error while receiving file from my nexus 7 to galaxy nexus. Please fix it.",
+        "commentId": "gp:AOqpTOFDMK6NhSEVcIXTA5qcV2TDziAdPpSaXrEtgCDe2EPhpVk70spxbwVFuZ40I5BnSPFtzFFOvLkZzYlqQ58",
+        "author": "Ed Reef",
+        "authorURL": "http://lh6.googleusercontent.com/-An5bHlRLbYE/AAAAAAAAAAI/AAAAAAAAG2Y/EsFNqnEp-wg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-An5bHlRLbYE/AAAAAAAAAAI/AAAAAAAAG2Y/EsFNqnEp-wg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1342833225793",
+        "starRating": "2",
+        "title": "Good concept,but...",
+        "comment": "Cannot xfer photos between HTC one x and Google nexus 7 tablet. Sigh... E",
+        "commentId": "lg:AOqpTOEUvVAJuSqXpqp2DPGmVx6MdsZpTGh0nTTjD1CghDUFUf2pyPSl51Ajjw_sEYKFR4asoo4ihjyYgqGKeVU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376057514040",
+        "starRating": "3",
+        "title": "Great concept",
+        "comment": "Doesn\\'t work on the HTC One",
+        "commentId": "gp:AOqpTOEtobApUuFM0UZb_CX0C3QCQye9lVJlHWa-PPEvsuK3QnmyNeM5NEz7syy5niA7d8skw9wmoVo-TInEvsU",
+        "author": "Jeb Eldridge",
+        "authorURL": "http://lh4.googleusercontent.com/-HBksFzbzuxg/AAAAAAAAAAI/AAAAAAAARfk/tlld_FLZwLo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-HBksFzbzuxg/AAAAAAAAAAI/AAAAAAAARfk/tlld_FLZwLo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.NFC",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Tampa Pain Relief Center",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.WilliamMilo_91",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "January 15, 2012",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.WilliamMilo_91",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Tampa Pain Relief Center provides the latest comprehensive pain management, rehabilitation services and leading-edge procedures for our patients. We believe in a multi-disciplinary, multi-modality approach, which includes interventional pain blocks, medication plans, and psychiatric treatments all prescribed rationally for each patient's best possible recovery.We are compassionate in understanding that each individual requires a personalized evaluation and unique treatment plan. Our team intently listens to each patient's needs, examines the patient in a comfortable setting, performs MRI's on-site, and evaluates patient history to determine a minimally invasive procedure to improve quality of life.  In certain cases, a treatment plan may include interventional procedures, for which sedation is available and administers by a Board Certified Anesthesiologist. Our surgery center is just minutes from our facility, and we are affiliated with several local hospitals for your convenience. Put simply, we offer a full spectrum of solutions for reducing pain and improving functionality.",
+    "reviews": [
+      {
+        "timestampMsec": "1341948635027",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "I can make appt changes, request my medical records etc.",
+        "commentId": "lg:AOqpTOHzT8Ot6Pt6mrGSrNWT5o6ypbJ3EY00Jb5GISnH-FW2tyBxT_hJyFG6gTtq_oL8w-b9rsGp6bCLm16ajMw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367248654351",
+        "starRating": "5",
+        "title": "Helpful App",
+        "comment": "App is the reason I made an appointment with Tampa Pain Relief Center. Thus far, I\\'m pleased.",
+        "commentId": "gp:AOqpTOH23nl2SG8avkEb5K0b6kndQBmkjjCmcVeGk6JKt8lZjaT2MArwpN8givuQNNM5ZTLqe5pXwtTfIGhuj1s",
+        "author": "Michael Strehl",
+        "authorURL": "http://lh6.googleusercontent.com/-xI-Mv-x3z1M/AAAAAAAAAAI/AAAAAAAAAF8/axlm87WAvCk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-xI-Mv-x3z1M/AAAAAAAAAAI/AAAAAAAAAF8/axlm87WAvCk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.cloudninedevelopmentllc.WilliamMilo_91.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

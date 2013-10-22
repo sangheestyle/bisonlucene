@@ -1,0 +1,70 @@
+{
+  "title": "iGotYa",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cneasta.igotya",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "January 14, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "101",
+  "rating": "3.227723",
+  "contentRating": "Low Maturity",
+  "creator": "Fintan Killoran",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cneasta.igotya",
+  "extendedInfo": {
+    "installSize": "623k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "iGotYa is a simple little app for managing GPS or WPS positions and areas of interest. Positions like where you left your car or where your friends house is etc. You can take geotagged photos and attach a description of the location. You don't have to take a photo to save information about the position you are at if for instance you are saving battery power. With each position a map is displayed. You can also attach a trail to this map. So you can plot out a route if you wantYou can enhance your experience with this app if you signup with our web service http://www.igotya.mobi/site/signup you can upload this data and share with your friends or only certain people you can setup within private groups. People then can comment on your contentWe hope you find this app useful and enjoyable. We hope to periodically add new updates to it. All of which of will free",
+    "reviews": [
+      {
+        "timestampMsec": "1338957604639",
+        "starRating": "4",
+        "title": "Hard to understand",
+        "comment": "Installed the app..as per a report in newspaper. The software is hard to understand on phone. Don\\'t know exactly whats happening in background.",
+        "commentId": "lg:AOqpTOGw9il8RVZp-vbxGWCDVRFa8SsKdMUC-v8SS30uJth3H6ALKJ4ssUr2RsrZGIjHs8i-MHBu3oHafOBdstw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338999922145",
+        "starRating": "1",
+        "title": "Coolblue",
+        "comment": "I dont think this prog.will track yr.smart phone when lost",
+        "commentId": "lg:AOqpTOHtcXDhR2CZcPJVBoEDeelBPrzhW9XB9YcerhKM7c62lIzm1lP2Hvun-aM3cjh6lK6gP2jGhty8LpG7ZhY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361544609082",
+        "starRating": "4",
+        "title": "Not For The Clueless, But Fun",
+        "comment": "Very straightforward if you understand its purpose, otherwise you\\'re wondering in the dark. That said, It\\'s nearly a secret geo caching tool and aranger of clandestine meetings.",
+        "commentId": "gp:AOqpTOFk9lya8XCNyfcn4eiz--VOd7Xf8aYIrk3w5uL1tAlvOiII9l1x8CZ9FBmCV0aGyuzloCmtdKZTFoRUrbw",
+        "author": "David Broadwell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355268724121",
+        "starRating": "1",
+        "title": "How does it work??",
+        "comment": "Dont seem to do anything?",
+        "commentId": "gp:AOqpTOGlDecHJRwS3yeFLTR6YhVgGVy2JmwwL3_qD-il5rCrATcQr-bht0LUia2NoEfE7tEeiwEx6xVdleiN4qA",
+        "author": "Tony Groves",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

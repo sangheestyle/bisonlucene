@@ -1,0 +1,52 @@
+{
+  "title": "ESTimetable",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eTime",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 30, 2013",
+  "version": "2.8.9",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "615",
+  "rating": "4.3186994",
+  "contentRating": "Low Maturity",
+  "creator": "postic",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eTime",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Timetable and manage grade application.Both full-term management of the grade is available.= ESTimetable =1. Course Management2. Timetable Management3. Subject report management4. Grade Management (grades Management)5 Silent mode6. Test Management- Day / lessons as desired by adjusting the timetable can be set.- Date / Subject to complete the unfinished report provides the ability to see the sort.- Completion of the group will be set up and manage grade.- 4.5 hours / 4.3 credits / 100 that are supported.- Provides support for various widgets.",
+    "reviews": [
+      {
+        "documentVersion": "2.2.2",
+        "timestampMsec": "1325314879531",
+        "starRating": "4",
+        "title": "Nicely Designed and Feature Rich.",
+        "comment": "Challenging at times to figure out how to use this app. Good app. Need improvement to the help file! Use of colors and attractive wigget are its strong points.",
+        "commentId": "lg:AOqpTOG3Vu3TJ8ZDxs10_wTNbskJarWuG40_uPvyRm2SB3Xa8tDVCP-kiy924QkJKhOmXTRLxDc05mHVLQ7iJA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1308622109551",
+        "starRating": "5",
+        "comment": "Simple, intuitive, and nicely done. The widget is appealing",
+        "commentId": "lg:AOqpTOHdbiapQw5SxEBPfbCwSsEUlmiKRpIUZP1QM2qSUiO4hMAfDByXafA4zy2KMpcVCdUNoeLtE0OR9lkVcg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

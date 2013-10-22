@@ -1,0 +1,37 @@
+{
+  "title": "Greentrac Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eventzero.mobile.android",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 25, 2011",
+  "version": "v1.0.6",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "24",
+  "rating": "4.8333335",
+  "contentRating": "Everyone",
+  "creator": "Event Zero Pty Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eventzero.mobile.android",
+  "extendedInfo": {
+    "installSize": "84k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Event Zeroâs Greentracâ¢ is a revolutionary energy consumption monitoring, cost analysis and environmental emissions measurement application. Greentrac Mobile (for Android) enables you to pair your Android device with an existing Greentrac server in your organization (check with your company, educational institution, etc.). You can then view your energy efficiency and wake up or turn off your computers by remote control.Greentrac delivers realâtime visibility to PC workstation fleet owners and operators of energy consumption patterns, costs, and CO2 emissions associated with dayâtoâday corporate operations. More importantly, Greentrac empowers users to modify their behaviour to minimise their own energy wastage and environmental impacts.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1321573499236",
+        "starRating": "5",
+        "title": "Very useful app!",
+        "comment": "A great app! Lets you monitor your pc\\'s, see your score, and perform power actions on your pc\\'s. Only for people who have access to a Greentrac server",
+        "commentId": "lg:AOqpTOEmstviuTDUbFXthKenzrl3zj3jLLX1FHuENsmEvttFzPFuBJEN6J26wzSG_kJoYzfW64X5VdVMHd-4vcI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

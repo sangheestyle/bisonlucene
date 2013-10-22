@@ -1,0 +1,42 @@
+{
+  "title": "Come Out With Pride",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edgepublications.orlandopride",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "June 26, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "EDGE Publications Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edgepublications.orlandopride",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Come Out With Pride for AndroidVersion 1.0Welcome to the official mobile app for Come Out With Pride Orlando! This app is a joint development of EDGE Media Network and Come Out With Pride; it's designed to be a comprehensive guide to Orlando's annual Pride events in October, including events, photos and interactive features.Features for AndroidEvents :: All of the information you need to know about Come Out With Pride is right on your phone!  Our events calendar is a comprehensive list of what's going on - and you can add each event right to your phone's calendar, so that you never miss a beat.Photos :: View official photos from EDGE and Come Out With Pride's official photographers... or easily create your own account and let the fun begin! Snap your own photos at the official Pride events, then upload them right from our app so that your friends and the rest of our partiers can see your pics.Sponsors :: We love our sponsors - so should you! Get information on the organizations that make Pride possible.",
+    "reviews": [
+      {
+        "timestampMsec": "1349801037519",
+        "starRating": "5",
+        "title": "I\\'M FIRST!",
+        "comment": "AND THIS YEARS PRIDE WAS #1 AS WELL!",
+        "commentId": "lg:AOqpTOGR-TCqQahJybZ9v0C2Q746G4rktzEzFRy-LuOgDOb3fzbnB9TttuIXfEbapdvRmaaTwTk4BepHAi34Jg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.edgepublications.orlandopride.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

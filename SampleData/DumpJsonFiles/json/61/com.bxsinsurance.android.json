@@ -1,0 +1,36 @@
+{
+  "title": "BancorpSouth Insurance Service",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bxsinsurance.android",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "October 31, 2012",
+  "version": "1.11",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "SeattleClouds",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bxsinsurance.android",
+  "extendedInfo": {
+    "installSize": "5.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "BancorpSouth Insurance Services offers advice on protecting your business and personal assets. Areas of expertise include personal lines, business, employee benefits, safety consulting, life and disability, aviation, and marine among other areas. We work with hundreds of insurance carriers to offer you a variety of options to insure your various exposures. Request more information, locate an office, stay current with our news, or document and report a claim via our app.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

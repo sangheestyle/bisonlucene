@@ -1,0 +1,36 @@
+{
+  "title": "Simply Clocks",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cosmic.simply.clocks",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "December 25, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "3.625",
+  "contentRating": "Everyone",
+  "creator": "Cosmic Barrel",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cosmic.simply.clocks",
+  "extendedInfo": {
+    "installSize": "3.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Simply clocks\"simply clocks\" is a collection of clocks constantly updated. Select one or more clocks to put on your home screen. It's easy and cool. Try them all!\"Simply Clocks\" is a widget, so you can put as many as you want in all your home screens. To add, download SimplyClocks and go to your widgets area, depending on the system that will be accessed either prolonged pressing the home screen or in the Applications screen, widgets tab. Select it and drop it in the area of the screen where you want to put. It then launched a configuration screen where you can select the clock that you like.And there's more! ... you can be part of SimplyClocks, too! Make a design for a watch and send to the email address simplyclocks@gmail.com and your design could be one of those selected for the next update SimplyClocks! How do you do? This is very easy:A SimplyClocks consists of 3 layers: Background, hour hand and minute hand. You should note that the order displayed on the screen is the same. therefore:     -Create an image of 512x512 for background clock.     -Create an image of 512x512 for the hour hand.     -Create an image of 512x512 for the minute hand.     -notes:           * Png preferably.           * Intelligently uses the alpha channel. I mean, especially the hands, just draw the hands. else should be transparent!           * Hands, should be drawn centered on the image and checking at 12.When you have everything, send an email to the address simplyclocks@gmail.com, indicating that borrow the rights of your design to be included in the application SimplyClocks, provide a name for your clock and a nick to show up as a creator and ready! CosmicBarrel team will evaluate all designs we receive and include the top 5 for the next update.",
+    "reviews": [
+      {
+        "timestampMsec": "1358570201384",
+        "starRating": "2",
+        "title": "One good one.",
+        "comment": "I think the ringed clock is cool. The rest suck. The ads suck.  Needs loving care to survive the market. Actually the icon for this app looks cool, but, it\\'s not one of the choices.",
+        "commentId": "gp:AOqpTOFMV547Z35t905SNeoNLrK4-oBqBqeMLJidrgdzJnoQCXagvTYmWTddoPTMhdt77l-fju-pgBd9CzHSyMk",
+        "author": "Denis Evangelou",
+        "authorURL": "http://lh5.googleusercontent.com/-js5ygNh0QYw/AAAAAAAAAAI/AAAAAAAAABU/BFBSmvYODFw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-js5ygNh0QYw/AAAAAAAAAAI/AAAAAAAAABU/BFBSmvYODFw/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Hair Clippers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cwb.hairclipper",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 15, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Appy Hobo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cwb.hairclipper",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Hair Clippers is possibly the coolest app you can get! With actual sound from real hair clippers and the vibrating action of your device, this app is sure to fool any unsuspecting victim. Make people think you have just buzzed their hairiest spot off with real clippers. They will be feeling for the bald spot as soon as they hear the sound! A great prank for friends. Simple and easy to use. Just touch the clippers and the buzzing starts.This app does not actually cut hair. I am not responsible for misuse of this app. Use at your own risk! Remember, the difference between a good haircut and a bad one is two weeks!",
+    "reviews": [
+      {
+        "timestampMsec": "1363287698291",
+        "starRating": "5",
+        "comment": "Cool",
+        "commentId": "gp:AOqpTOFMJuD5qfqvLBft6S5ErmYuY4PFVkOQj3Tu3zZlfvPRlVjIz_ldTz2KWe3Xs3oLgIW-u5p-yyBkCzsmwg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS"
+    ]
+  }
+}

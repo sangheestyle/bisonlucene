@@ -1,0 +1,45 @@
+{
+  "title": "Simply Swim",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.explodingphone.simplyswim",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "January 29, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "3.3333333",
+  "contentRating": "Everyone",
+  "creator": "The Simply Group",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.explodingphone.simplyswim",
+  "extendedInfo": {
+    "installSize": "53k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Simply Swim is a leading online swimwear and equipment store that sells everything you need for Swimming and delivers it straight to your door. We offer competitive prices, excellent service and great customer service.",
+    "reviews": [
+      {
+        "timestampMsec": "1302018830696",
+        "starRating": "2",
+        "comment": "A great app they have some really awsome swim gear but the app kept force closing on me every time. Had to uninstall",
+        "commentId": "lg:AOqpTOEhyrVC816ypYCCFAbHur0xWpfqL4Pgg2wTGkaWNtBbvrLLq1Z1wSHbt5AFwA-UbrbiZPDkr-M_7LYq-Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334312498343",
+        "starRating": "1",
+        "title": "app does not display same products as website",
+        "comment": "and the checkout is via website, not in the app.   Their mobile app has similar issues (ie database of products is not the same as the full website)  pointless...",
+        "commentId": "lg:AOqpTOEv5_bLRW7dl09vBPkXh7SBEHH33B1MHoZY1JDybEEytkPT4tiiEKCZbN7gBB6zW6S47hiR1i5SHfc7VQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

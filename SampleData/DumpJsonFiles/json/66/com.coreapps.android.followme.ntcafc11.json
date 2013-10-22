@@ -1,0 +1,51 @@
+{
+  "title": "NTCA Fall Conference 2011",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ntcafc11",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "September 12, 2011",
+  "version": "2.0.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ntcafc11",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The NTCA Fall Conference App puts everything you need for the Fall Conference in the palm of your hand.  Download the app and make sure you have immediate access to important information that will help you make the most of your trip to the NTCA 2011 Fall Conference.This app provides attendees with:â¢\tDaily schedulesâ¢\tLists of sessions & events â¢\tSpeaker profilesâ¢\tMap of the Sheraton Seattle Hotelâ¢\tTour informationThe NTCA Fall Conference is an education-oriented meeting with more than 1,500 attendees each September.  A wide variety of educational sessions and roundtable discussions are offered, along with several social events.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1315942209123",
+        "starRating": "5",
+        "title": "Sweet Ap!",
+        "comment": "Like how I can bookmark sessions in the conference schedule and they show up on my personal schedule!",
+        "commentId": "lg:AOqpTOHskYjEhzPqt73y2gjHhi6ZZq3EQ-8tYhmMuwA1S9UjuUQIZsgQA2XyRa9Fh5mF5dHq4hzyDx_VxEsE37o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1316004926642",
+        "starRating": "5",
+        "comment": "Great",
+        "commentId": "lg:AOqpTOH5lbNqc2qA9S5_OvAx7E6zrHiWMnZ3ZW4yTOdQa6FC6xzJkTKh7zxWHATUQif2vr5GId8yU50h5-wAl9Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "CrossStreet Point of Sale DEMO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.electapps.retail.demo",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 8, 2013",
+  "version": "1.7.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "ElectApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.electapps.retail.demo",
+  "extendedInfo": {
+    "installSize": "10M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "CrossStreet POS is a full featured mobile Point of Sale (POS) geared at small and medium sized retailers looking for a powerful mobile solution. More than a simple cash register, this full featured point of sale solution will allow you to concentrate on growing your business. This is by far the most complete and robust POS of its kind.This system is designed with the small independent retailer in mind, and has been developed with over fifteen years of retail experience. The POS is designed to easily track items, customers, and sales with a robust reporting feature that will allow you to focus on increasing sales rather than keeping track of them.Features:Smooth User InterfaceDirect Selling implementationBarcode Scanning Natively (using zxing library)Barcode Decoding Adjustments for UPC-A, UPC-E, EAN-13, EAN-8Department StructureMultiple User LoginCustomer TrackingComplete Item InfoSelect Item Image from Gallery or Capture ImageDate Driven PromotionsEmail Receipts to CustomersMultiple Price LevelsDefault Customer Price LevelsRobust Date Driven ReportsAbility to Accept Credit CardsDatabase on External Storage* (survives uninstall and wipe)Database Scalability*Complete App Rebranding with your Logo and Info*more..* DEMO version is limited to 10 items/transactions and does not have Rebranding capabilities",
+    "reviews": [
+      {
+        "documentVersion": "1.7.6",
+        "timestampMsec": "1372786125531",
+        "starRating": "2",
+        "title": "So much promise here!",
+        "comment": "This is a really great program, but it\\'s missing a feature that would make it perfect: the ability to import/export item databases.  I have hundreds of items and it would take me hours upon hours to put all that information in by hand...   Everything else about this app is great, but they really need to add this feature.",
+        "commentId": "gp:AOqpTOG1GlvmrdQxCO6rvWoFfQKIE0A71K33rBtGLTVgjAvuGqlc96wbFBSZpmzLtjfJbnP_JivSnwhH2Hw-Gd8",
+        "author": "Brian Oehl",
+        "authorURL": "http://lh6.googleusercontent.com/-TAzbTYVuX04/AAAAAAAAAAI/AAAAAAAAAfQ/Q1FiWY_0CnQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-TAzbTYVuX04/AAAAAAAAAAI/AAAAAAAAAfQ/Q1FiWY_0CnQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1344948899448",
+        "starRating": "1",
+        "title": "Rubish",
+        "comment": "Keeps crashing and forcing to colose",
+        "commentId": "lg:AOqpTOGmraNNkMw-PuDJfD7p3dLCQstp0fMTKjSP4BJv_jQ5qJ_ZOtPx-JR0bKqcgTBRI2lxROssThLqBatu24E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1338217923390",
+        "starRating": "4",
+        "title": "Scanning crashes app on Xoom Family Edition",
+        "comment": "Seems to work OK on Samsung Stratosphere, but the scan feature causes the app to force close on the Xoom Family Edition, even after reinstalling the barcode reader app.",
+        "commentId": "lg:AOqpTOHiqo9_WVGpfnbctQPb9nM7dy4vzRxo41YAUx1hyWPvgOqQtcv073eMDbD3RfSvttXR6LSWU2osKMz9pRw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1344195590665",
+        "starRating": "1",
+        "title": "Force close",
+        "comment": "It force closes every time I try to set up the price for an item. Should be a great appt once bugs are worked out.",
+        "commentId": "lg:AOqpTOFBfZE-II8zeeIluKT3gn8b8Mx3wKl8NMXo-ZY1ZQlKDkSVXb50oIsE8__KxTPLGvkvRj64eTi7D-V41D8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

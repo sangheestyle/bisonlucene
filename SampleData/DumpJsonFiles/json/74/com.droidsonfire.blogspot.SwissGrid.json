@@ -1,0 +1,44 @@
+{
+  "title": "SwissGrid",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidsonfire.blogspot.SwissGrid",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 13, 2012",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "54",
+  "rating": "4.388889",
+  "contentRating": "Low Maturity",
+  "creator": "DroidsOnFire",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidsonfire.blogspot.SwissGrid",
+  "extendedInfo": {
+    "installSize": "126k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "SwissGrid displays the location received by GPS in Swiss grid coordinates (Schweizer Landeskoordinaten), which is very usefull when you want to determine your location on a Swiss map.You can also convert Swiss coordinates into WGS (world-) coordinates and vice-versa. Entered coordinates can then be displayed on a map.You can also determine the Swiss grid coordinates of any location by taping on Google map.As a new feature, a compass is now included.If you have questions or encounter problems, please send me an e-mail since I can't answer on comments here.",
+    "reviews": [
+      {
+        "timestampMsec": "1337029757731",
+        "starRating": "5",
+        "title": "Recommended",
+        "comment": "Nice tool. Simple but beautiful interface.",
+        "commentId": "lg:AOqpTOHvfRp10xmkYAtWbWtItrx_jx9X5QUOiKnVixvrLaIg_MfO5aHtjR7QXSr0E4VBuvI1iNZ8KKHE1ee_IJM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1281512405718",
+        "starRating": "5",
+        "comment": "Does what it says, no problem on htc desire.",
+        "commentId": "lg:AOqpTOG7U_krHeZYB5XmEdoLX2Rc-cd6tiALO4wxwQjqVhuLWIzN5ee_nRVDVF5-rdkMCvi7_XiSMuwKDmukfrY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Daily Scheduled Signal On/Off",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.diyphonegadgets.autosignaloff",
+  "category": "Tools",
+  "price": "$1.19",
+  "datePublished": "March 20, 2013",
+  "version": "3.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "DIY Phone Gadgets",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.diyphonegadgets.autosignaloff",
+  "extendedInfo": {
+    "installSize": "22k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This is perhaps the most beautiful and the most intelligent (and simple-to-use) application to automatically switch off your WiFi and cell signals, or to toggle airplane aode with your own timed schedule.An application here to care about our health!An application here to kill all radiation and data consumption when we sleep!This application is especially useful when we sleep. It is a must-have for everyone who loves life and wants good health.Have you ever been sleeping with your cellphone turned on just beside your pillow? How many times did you forget to turn off the phone or toggling it to airplane mode? Do you realize that the phone's signal radiation is 20 times stronger than that of WiFi? With application \"Auto Signal Off When I Sleep\", you don't have to worry about your forgetfulness. You don't have to toggle at all before you sleep. You don't have to retoggle to have your signal back in the morning. This application automatically does everything for you. In our daily life, it has 4 benefits:1. It protects our health (even our whole family's health): when we sleep, it keeps us away from all cellphone and WiFi signal radiation. Now we have ZERO radiation every night.2. It keep us away from disturbing calls, emails or SMS at night.3. It saves our phone's battery life.4. It saves our data consumption. Now we consume ZERO data when we sleep.How does it work? This application is NOT at all a 3G or WiFi toggle button, it is very autonomous. Everyday it can automatically manage your signal's on/off status WITHOUT manual toggling. When you sleep every night, it automatically turns the phone to airplane mode, stopping cell signal, WiFi signal and all possible radiation and disturbance from the phone, keeping your data consuming to zero and your battery usage at a very low level.Every morning when you get up, it automatically regains signals for your phone, so that you will never miss an important call in the morning.Sure, you can also disable the \"auto signal on\" function for Saturday and Sunday mornings, if you want to sleep more!When you are playing a video game or sending an email with your phone at late night but normally it is time for stopping the signals, it kindly gives you a notification so that you can choose to continue to use the signal for this special night:)How to use it?It is really easy to use with this beautiful intuitive transparent interface. Once you have set up your daily schedule (just choose two time points), you don't even have to do anything from then on!Steps:1. Click on the application icon.2. Click on the modify buttons to choose the time at which you would like to stop or start the phone signals.That's all!There is also a video if you want more ideas about this innovative and easy tool to make your life easier and healthier. Health-caring, autonomous, beautiful, easy to use, get it for a good sleep!",
+    "reviews": [
+      {
+        "timestampMsec": "1321476535569",
+        "starRating": "5",
+        "title": "awesome!",
+        "comment": "This is exactly what I have been looking for. Life is a lot simpler!",
+        "commentId": "lg:AOqpTOF6WxKLRRV4sxAZ4DUVBJ8RUeY8Uv_sdCBkr9oCWn1Mal0dEU4R-3DL-l84TPi8EGEtA2ZUZgUo13XJemE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

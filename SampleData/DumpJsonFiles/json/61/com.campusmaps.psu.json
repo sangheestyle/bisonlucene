@@ -1,0 +1,62 @@
+{
+  "title": "Penn State Campus Map",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.campusmaps.psu",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 31, 2013",
+  "version": "1.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.6666665",
+  "contentRating": "Low Maturity",
+  "creator": "Simple Android Apps ",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.campusmaps.psu",
+  "extendedInfo": {
+    "installSize": "833k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "A simple, accurate, and fast map of Penn State's University Park campus. For the web version of this map, please visit http://www.psumap.com/.Highlights:- Search (with auto-complete) for any of the 289 university buildings.- Shows your current location on the map with a blue dot.- No ads.Note: This is not an official app from Penn State.",
+    "reviews": [
+      {
+        "timestampMsec": "1378001458935",
+        "starRating": "5",
+        "title": "Great app for those who are new to the campus.",
+        "comment": "Keep up the good work!",
+        "commentId": "gp:AOqpTOH09Z1ZW4Ql_2Brk4z7fUuKscH_0fCaKB_z3TITJWzeFHARp-BzWRaLhSBFBdw-1QoFYkYrE1NMA_d6YQ",
+        "author": "Hank Lin",
+        "authorURL": "http://lh5.googleusercontent.com/-wTf3nBmilhw/AAAAAAAAAAI/AAAAAAAAAGE/CCGT3AAv5ak/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-wTf3nBmilhw/AAAAAAAAAAI/AAAAAAAAAGE/CCGT3AAv5ak/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370239245421",
+        "starRating": "5",
+        "title": "Love it but...",
+        "comment": "I love this app!!! The campus is huge and this helps me get where I need to but I would love to see some of the less known things marked on here such as the lion surplus located on services road or the community garden by the baseball field. They are awesome stuff on penn state they should be on the campus map too!!!",
+        "commentId": "gp:AOqpTOH30q3uCMe6D5i77YLemHnAHWfUbqr-Upo_1LF-72JzlC2D6rF_y05yUTLZDRLVFiJkslcftmU1E6jWkw",
+        "author": "Denise Flack",
+        "authorURL": "http://lh4.googleusercontent.com/-9c6AgQxhZnU/AAAAAAAAAAI/AAAAAAAAMKk/nEXF-TxsPag/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-9c6AgQxhZnU/AAAAAAAAAAI/AAAAAAAAMKk/nEXF-TxsPag/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362635299732",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "I used to just use the regular downloadable map, but this is much easier because the search tells you where to go.  Great!",
+        "commentId": "gp:AOqpTOHj3YQZjcA2hbOkjkMhIft9HY9hqrOto89ozUF8yIBQcpGnv148me46e-bQnnKqKHqRn2e4wRVRCKMC2w",
+        "author": "Yash Ashar",
+        "authorURL": "http://lh3.googleusercontent.com/-gD6fktmoSpU/AAAAAAAAAAI/AAAAAAAAAHU/ibfutbvH4to/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-gD6fktmoSpU/AAAAAAAAAAI/AAAAAAAAAHU/ibfutbvH4to/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.campusmaps.psu.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

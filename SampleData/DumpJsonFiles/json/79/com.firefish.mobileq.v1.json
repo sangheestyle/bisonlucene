@@ -1,0 +1,38 @@
+{
+  "title": "Mobile Aquarium",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.firefish.mobileq.v1",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 3, 2013",
+  "version": "2.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Firefish Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.firefish.mobileq.v1",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mobile Aquarium is an extension of Firefishâs proprietary market research platform, Aquarium. The app allows users to answer questions and complete research project-related tasks using the power of their smartphone or tablet, anytime, anywhere. It allows you to upload your thoughts, the things you see and do and much more in a variety of easy to use methods. Just download the app and login with your details to get started.  Firefish adhere to the Data Protection Act 1998 and the Market Research Society Code of Conduct to ensure we always respect and protect any personal data you provide.Firefish is an independent, international market research agency born in London in 2000. To find out more about what we do, please visit www.firefish.ltd.uk DISCLAIMERContent you upload (including but not limited to Text, Images, Audio or Video footage) through your participation will be used by Firefish Ltd/the client for market research purposes & for internal business uses. Data could also potentially be used by Firefish Ltd/the client in presentations and seminars etc aimed at âbringing to lifeâ certain points and topics (for example research reports, conferences or sales meetings).  You understand that your personal data would never be broadcast, put in the public domain or used for other purposes not stated here without getting your explicit consent.  Firefish Ltd may wish to re-contact you for the following: â¢\tFuture market research \t\t\t â¢\tFurther activity with this project\t\tâ¢\tTo discuss your input/answersFirefish need to keep your contact details on record to show your participation and in the event we need to contact you. Just to reassure you we carry out market research in line with our Industry Code of Conduct and Data Protection and if youâre ever worried, or have a question about something, please do contact us.By installing this app and continuing to use it, you hereby give consent that you are happy with the above terms and are happy to take part in any research study therein.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.firefish.mobileq.v1.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

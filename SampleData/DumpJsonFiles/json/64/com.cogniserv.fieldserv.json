@@ -1,0 +1,43 @@
+{
+  "title": "FieldServ",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cogniserv.fieldserv",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "December 10, 2012",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cogniserv, LLC.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cogniserv.fieldserv",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "FieldServ is a powerful field service automation and mobile workforce management solution. It is a perfect solution for service companies that want to automate job tasks and dispatch to the mobile workers out in the field. FieldServ coupled with Android Smartphones and tablets, enables field service technicians to be more productive, complete more work tickets in a day and transmit job related information including audio, pictures, and location information to the office real-time. FieldServ delivers cutting-edge features for mobile workforce management and optimization, increasing productivity and enforcing accountability.Benefits:â¢\tFieldServ helps in completing more calls each day: Field workers get instantly notified through SMS/Email about new tickets and they get quick access through the mobile app. Access to job related documents including audio and video help field workers be more efficient in closing more orders each day. Directions to new job sites also help accommodate more number of service calls. More service calls = more revenues.â¢\tIncreased maintenance revenues: FieldServ alerts the operation personnel on upcoming PM schedules and helps in completing PM calls in a timely fashion. Disciplined PM schedule and SLA adherence will help in renewing maintenance agreements with customers, thus resulting in increased recurring revenues.â¢\tQuickly schedule and dispatch orders to the fieldâ¢\tView workers on map and use closest worker for a rush orderâ¢\tReal-time access to job statusâ¢\tTechnicians and contractors can have access to documents, video and audio through their Smartphones and Tabletsâ¢\tGet directions to job site using GPS based navigationâ¢\tReduce the time the team spends on phone calls, paper-work, unnecessary travel and non-productive administration tasksâ¢\tQuickly re-assign service tickets due to employee unavailabilityâ¢\tInformed customers are happy customers: When a customer calls, most often the person answering the call has next to no information about the job or the customer enquiring about it. Putting the customer on hold and making a phone call to the assigned field worker is the common remedy. With FieldServ, all job related information can be immediately accessedâ¢\tFieldServ empowers customers to schedule service calls on their own through a web-based self-service portalâ¢\tAbility to manage and monitor work orders real-time gives them increased comfortâ¢\tAvoid renewal of service contracts helps customers maximize equipment uptimeâ¢\tService cost is a collection of various activities throughout the service management lifecycle including field worker productivity, back office activities, inventory/parts management, scheduling and dispatching orders, contract management etc. FieldServ plays a powerful role in all of these activities.â¢\tFieldServ gives field workers instant access to job information such as service and asset history, parts information, manuals/documents, which will help them get the job done faster without having to spend time in fact-finding and administrative tasks. This will result in service cost savingsâ¢\tRight person for job: FieldServ helps in choosing the right person for the service call based on region, account, skills and availability. This will help I getting the job done faster and cheaper with no rework and re-visitsâ¢\tReduced paper-work: FieldServ captures all job related information electronically to start with. This avoids use of paper, digitizes the workflow and hence reduces the call creation to invoicing timelineFor more information, please contact Cogniserv â www.cogniserv.com, Phone: 214-995-6955",
+    "reviews": [
+      {
+        "timestampMsec": "1367568330350",
+        "starRating": "5",
+        "title": "Great Application",
+        "comment": "Great tool for managing your service technicians",
+        "commentId": "lg:AOqpTOFAzkPs-zcp_UWu2dE3PITxquVElYP_iyM8WVNxVzt6LePjyUdQB7gscEODAunAzA3xYfhpRO_dXzKQ1w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

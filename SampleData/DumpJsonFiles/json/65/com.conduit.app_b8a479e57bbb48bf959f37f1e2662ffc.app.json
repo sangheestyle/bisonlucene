@@ -1,0 +1,38 @@
+{
+  "title": "SuperHero Stuff SA",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_b8a479e57bbb48bf959f37f1e2662ffc.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "December 9, 2012",
+  "version": "1.2.4.115",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "KirstyCarrot",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_b8a479e57bbb48bf959f37f1e2662ffc.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "All All your geeky Superhero updates in one place! We cover news, reviews, funnies and whatever else goes on in the world of the nerd. From stories on gaming to action movies, to bobblehead reviews and awesome gadgets... come and embrace the geek culture! Superhero Stuff is a South African blog written by @KirstyCarrot - geek humour is high on the list too ;) Content uploaded daily.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_b8a479e57bbb48bf959f37f1e2662ffc.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

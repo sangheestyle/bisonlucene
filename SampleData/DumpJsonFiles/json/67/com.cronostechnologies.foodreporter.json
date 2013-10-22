@@ -1,0 +1,46 @@
+{
+  "title": "Food Reporter: cooking,recipes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cronostechnologies.foodreporter",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 14, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "90",
+  "rating": "3.2777777",
+  "contentRating": "Medium Maturity",
+  "creator": "Food Reporter SAS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cronostechnologies.foodreporter",
+  "extendedInfo": {
+    "installSize": "3.5M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Food Reporter is a social network for food lovers, allowing users to share food photos with a community of foodies.Everyday, hundreds of Food Reporters take pictures of what they are eating and share them into the application.Then, photos are the starting point of passionate discussions between the Food Reporters.As a Food Reporter, you can:-Explore best dishes, recipes and your friendsâ favorite restaurants-Follow people you trust in and explore their food photos-Vote up for the best food photos by doing some âYumsâ (and win âYumsAwardsâ)-Explore your neighborhood to see the nearest and the best restaurants around you-Find a particular dish that you are craving for-Look up a restaurant and see whatâs good in there by consulting visual menusSo, if you are greedy and if you like eating, Food Reporter is for you.More about Food Reporter:-Follow us on Facebook-Follow us on Twitter @food_reporter-Visit our website www.foodreporter.netContact the team at contact@foodreporter.net",
+    "reviews": [
+      {
+        "timestampMsec": "1375040261827",
+        "starRating": "3",
+        "title": "Finally a app I really like but...",
+        "comment": "The only thing I don\\'t like about is how it freezes and closes ALOT. If it were fixed it would be perfect",
+        "commentId": "gp:AOqpTOFohve4L8io1si9dJizy4DilePIskS0MOezB03ToQrRORYhvjtJ7KI_z6Z4QZ7MFsLbT0kte0JaoI4QLuo",
+        "author": "crsta martinez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.cronostechnologies.foodreporter.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

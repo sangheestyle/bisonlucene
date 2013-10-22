@@ -1,0 +1,74 @@
+{
+  "title": "Fast Hang Up",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fasthangup",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 27, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "10",
+  "rating": "4.1",
+  "contentRating": "Everyone",
+  "creator": "Moment",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fasthangup",
+  "extendedInfo": {
+    "installSize": "30k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This small app allow you to end phone call by pressing Lock key.It is simple :1. When you received a phone call, and if you do not want to answer it - Press the lock key, it will end it.2. If you are in the call, and you want to hang up - Move your phone away from head, and press the lock key.Please note that this app only work when your phone screen is on, so if you put your phone near your head, it does not work.Also, this app does not work on all phones ! Just try :)(Tested on Galaxy S3)",
+    "reviews": [
+      {
+        "timestampMsec": "1355377904613",
+        "starRating": "5",
+        "title": "HTC Thunderbolt, works beautifully",
+        "comment": "Works perfectly. On my Thunderbolt, when display shuts off, this app ends the call. The display turns off one of 2 ways. First way is if I hit the lock button and I want call to end. Second way is if the display times-out and app accidentally ends call. By increasing the time required for the display to timeout I can stop the accidental end of calls. Go to settings/display to change it. It\\'s a great start to a big problem for some of us so please understand it\\'s limitations and don\\'t be hard on developer.",
+        "commentId": "gp:AOqpTOEcIvg2dnaEsTzlq9lTdwyB2BFl6YkVJyAJ177zny6bZOVGzd7gz-1tBAFugBfdnWVwEyIdX4KqXp4vUJk",
+        "author": "D Judson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350218641096",
+        "starRating": "3",
+        "title": "Love the app but cant use it",
+        "comment": "Great app but on my galaxy s2 it causes calls to disconect if screen goes black on its own like in speaker mode... if you fix this please let me know",
+        "commentId": "lg:AOqpTOGh0aasuolCXfXdhgu-sOkLfJaE59zuweGCx-JMoAIfugzoFWj-p78aqNR4-_5teJdwto1p0lEmvQdb3fg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340967602151",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Works perfectly, that was the feature I was looking for a long time! Works on HTC Desire Z",
+        "commentId": "lg:AOqpTOEWsUYSrMHuMcH3bK57FgMzJdurCuyybgOzB85f8GopqJneqDG3dKGfa-mFAtCMYFtU1BwfFVpaTN5ahF4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341651072038",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Works perfectly on my galaxg mini ...thank u dear CREATOR",
+        "commentId": "lg:AOqpTOGtzJ0IzrRL_lSWYXNz6CNDaBb9-eLoLWwuksliz2JwPavVcvYPMV9kqDVc2HZIDyVHi8O9kieaKFNFOao",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350474121475",
+        "starRating": "3",
+        "title": "Not working sgs2",
+        "comment": "Disconnect call when display goes black",
+        "commentId": "lg:AOqpTOFjiwJ_YhR2MKOL3b2nIhnokorYwBcO7A4cfqBCVF1W1FJgRtJvco4_8jzT2VIqllZwllF2wrPv97jCTBg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.MODIFY_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

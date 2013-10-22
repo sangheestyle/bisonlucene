@@ -1,0 +1,51 @@
+{
+  "title": "Mobile Field Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coaxis.viewpointcs.mfm",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 27, 2013",
+  "version": "2.040",
+  "operatingSystems": "4.0.3 and up",
+  "ratingsCount": "4",
+  "rating": "4.25",
+  "contentRating": "Low Maturity",
+  "creator": "Viewpoint Construction Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coaxis.viewpointcs.mfm",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Note: Mobile Field Manager by Viewpoint Construction Software requires an activation code provided by Viewpoint.Mobile Field Manager is a mobile software application designed specifically for construction employees to track their labor, time and productivity from anywhere with an Android tablet or smart phone. Once data is captured, Mobile Field Manager is connected directly to Viewpoint Construction Software â so your office personnel can easily update your crew, equipment and production time for faster management of field information. With Mobile Field Manager, youâll now be able to stay on top of your time, equipment and production in the field more efficiently than ever before. Mobile TimeOne of the most difficult tasks for a construction worker is managing the time worked on a project. With Viewpointâs Mobile Time, an application of Mobile Field Manager, the field team can easily enter labor hours and costs and deliver that information directly to the office for fast payroll processing in Viewpoint V6 Software. Even in places without internet connectivity, you can enter your time on smartphones and tablets and send that data for review prior to updating V6 Payroll. Mobile Time is supported by the Android mobile platform and there are no limits on how many people can use the application, giving your office optimal flexibility in deciding who needs access. Easy to administer and fully usable outside network coverage, Mobile Time allows construction workers to easily enter labor hours from their mobile device. Requirement: Must already have Viewpoint V6 Software and Mobile Field Manager.Mobile EquipmentGetting equipment usage information is a real challenge for field personnel looking to maintain accurate operating time records. Viewpoint Mobile Equipment, an application of Mobile Field Manager for Android smartphones and tablet devices, addresses this challenge. Mobile Equipment is an innovative application that enables you to quickly and accurately enter and track your equipment time in the field. Seamlessly integrated with Viewpoint V6 Softwareâs Equipment Module, this easy-to-use application allows you to utilize a smart phone or tablet for fast entry of equipment usage, delivering unparalleled time savings. Requirement: Must already have Viewpoint V6 Software and Mobile Field Manager.Mobile ProductionViewpointâs Mobile Production, an application of Mobile Field Manager, is an innovative application for Android smartphones and tablet devices that enables you to quickly and accurately enter and track production units in the field. The production units are aggregated in Mobile Field Manager until they are uploaded as a batch to Job Cost progress entry in Viewpoint V6 Software. Once entered, Mobile Field Manager users can view daily and job-to-date totals and see how daily quantities will affect the totals in real-time. The seamless integration of Mobile Production with V6 Job Cost allows multiple users to enter production units for the same phases on a job - and then be uploaded for the day by an administrator. This application provides users the ability to maintain control of information reviewed before updating the V6 Job Cost module and eliminates double-entry and potential costing errors. Note: Mobile Field Manager by Viewpoint Construction Software requires an activation code provided by Viewpoint.",
+    "reviews": [
+      {
+        "timestampMsec": "1362353449372",
+        "starRating": "2",
+        "title": "CODE????",
+        "comment": "What is the short code to open app?????",
+        "commentId": "gp:AOqpTOE7LMUTacwZGzs-Tn99puVo4R-oEkOgfMm83P7-hdv56ANirUV9GqZAs_cn-jFWYm36YWOkf7UY27Rkvw",
+        "author": "Dan Cox",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_TASKS",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

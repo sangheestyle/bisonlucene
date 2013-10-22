@@ -1,0 +1,237 @@
+{
+  "title": "Wifi Connecter Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.farproc.wifi.connecter",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "April 19, 2012",
+  "version": "2.0.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "15633",
+  "rating": "4.265272",
+  "contentRating": "Everyone",
+  "creator": "farproc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.farproc.wifi.connecter",
+  "extendedInfo": {
+    "installSize": "40k",
+    "downloadsCount": "1,000,000+",
+    "downloadsCountText": "1,000,000 - 5,000,000",
+    "description": "An OPEN SOURCE library which allows you to connect to Wi-Fi hotspots. This is NOT a standalone application. It is required by Wifi Analyzer and more. Do NOT install until required! Thanks.The source code:  http://code.google.com/p/android-wifi-connecter/",
+    "reviews": [
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1346800971234",
+        "starRating": "5",
+        "title": "You\\'re not supposed to open this app!",
+        "comment": "To all those complaining that the app does not open - it\\'s not supposed to.  The farproc WiFi Analyzer uses this app to connect to a wifi hit spot.  When in the Analyzer, tap in the SSID to automatically connect.  Generally works like magic!",
+        "commentId": "lg:AOqpTOGpCo1iGftOZbSx7EVoV7klFYjeLDZkeSvZXuiH3G9UWf4hUO2lqTskQb-w00kQhmH4Tuiv1M9Ll4G1Ng",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1365443529653",
+        "starRating": "5",
+        "title": "Awesome feature!",
+        "comment": "For every user that is saying that downloaded this and don\\'t know how to use it, read the damn description! It requires Wifi Analyser to work. Now to the app... It\\'s a very handy addon to connect to specific networks when they share the same SSID (for example FON_ZON_FREE_INTERNET). Now I\\'m able to select which AP under the same SSID has the best signal and connect to it. It saved me a lot of time. Thank you team! :)",
+        "commentId": "gp:AOqpTOHXW4ttilsp_LlNKIBaILXa5uZCeRsTK8cfor-DjQeWHIA30Ok186lkWTDKohwAquO66A8qe9rl-JbZUQ",
+        "author": "Francisco Henriques",
+        "authorURL": "http://lh4.googleusercontent.com/-QXPx0G3_-4k/AAAAAAAAAAI/AAAAAAAAAVQ/5w_mCx9-Ous/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-QXPx0G3_-4k/AAAAAAAAAAI/AAAAAAAAAVQ/5w_mCx9-Ous/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1367274395415",
+        "starRating": "5",
+        "title": "Kicks butt!",
+        "comment": "I literally have instant wifi every where I go all the time. No worries! Thanks mate.",
+        "commentId": "gp:AOqpTOFtqNoU3ULrFpsN4leh8hRm1iFdeXFz5WZqCH7jB2AdJfwtj6d6ho54fSv3Im5QNlYgJcS2Rvqtk8RMeQ",
+        "author": "Tracy Jessop",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1361037963937",
+        "starRating": "5",
+        "title": "This +Wi-Fi Analyzer = Usefulness Maximus!",
+        "comment": "With this, I am getting to better Wireless APs with more detail, thanks to its ties with Wi-Fi Analyzer.   If you haven\\'t downloaded that app, check that out too (and download this app while you\\'re at it.)",
+        "commentId": "gp:AOqpTOHphQS8B69-DZWyTkpJXVepn0HS05YjYLafvnTJZj87pYj4JjBskHxE1YzEVIMoG4yQsGEEeJ2vNEIPmA",
+        "author": "Alexander Tsui",
+        "authorURL": "http://lh5.googleusercontent.com/-SL3UG5Kpi-w/AAAAAAAAAAI/AAAAAAAACg4/FJeSf8Z1f3w/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-SL3UG5Kpi-w/AAAAAAAAAAI/AAAAAAAACg4/FJeSf8Z1f3w/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1341725555474",
+        "starRating": "5",
+        "title": "Rezound",
+        "comment": "Idk Wtf it \\\"does\\\" but it did it n it worked .... Can someone please explain why... WiFi wasn\\'t working downloaded this did nothing n like magic it works",
+        "commentId": "lg:AOqpTOE1zhU8QqC3UzAaTewtus8l5hfBvNvgm1DZS1uWqVXGvuWILyJKkkNoRSBgseGmxf38qr46_jFGbeedPQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1361455202685",
+        "starRating": "1",
+        "title": "bullshit",
+        "comment": "total bull I put in the ssid nothing happened ill change my rating once someone helps me",
+        "commentId": "gp:AOqpTOEJx-FN-LzDUBhEPvarw3T0EXLRjpSvHDXHF1JWKdHHdD9Xqqoxd5FPTcUAbsO_gGmgB46LWwFJE1xaxQ",
+        "author": "Joseph Shipman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1355534135888",
+        "starRating": "5",
+        "title": "Works beautifully",
+        "comment": "This is so amazing - I went from super slow speed to super fast ... I dont believe how there can b any bad reviews ... seriously. This is amazing .!!!!!",
+        "commentId": "gp:AOqpTOEeBEplXfFCjdNyEZOyrBcFKUCUnV-7uXKybLR_qIk49JbRqf2zYQk8TO4NE8ZzMZS84vKBhfDzQmQ97Q",
+        "author": "Sandy Beach",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1353345670903",
+        "starRating": "5",
+        "title": "Good App",
+        "comment": "This is very good application for me",
+        "commentId": "lg:AOqpTOGtJxS2ZdXSU_hvL41qdlnrb1KcSShIzd4XXkYkr9HhjMbYFRU-mMH3T_zPKerVMhw6bb2bHqsKdugC6A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1364183900262",
+        "starRating": "1",
+        "title": "S3 problem?"
+      },
+      {
+        "commentId": "gp:AOqpTOGJHUFDPj1yKBqqY5G1XZYWDNjzhJk-IQKK3dUWToUwR61QsdeU1zHga4sQenbuzGrNJoheNPWQ64Z7yg",
+        "author": "Ted Rooney",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1376780244951",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "It amazes me how people do not seem to care about showing the world how stupid they are. Rating this app as poor because they have no clue. Awesome app! Keep it up!  Everyone else needs to READ before reviewing in ignorance.",
+        "commentId": "gp:AOqpTOETuNT26uA01gGGrUVEl4WNnhrylOAJK0x5l2vlJU8OiYkHToiBz1QJymuD3QzszEZp-mtH7YM6Q5RhZA",
+        "author": "David Netherland",
+        "authorURL": "http://lh3.googleusercontent.com/-AY1gshLk16Y/AAAAAAAAAAI/AAAAAAAAJn0/zd5ZZRloi2U/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-AY1gshLk16Y/AAAAAAAAAAI/AAAAAAAAJn0/zd5ZZRloi2U/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1354904834504",
+        "starRating": "1",
+        "title": "Messed up my wireless",
+        "comment": "Installed after the Wifi Analyzer asked to for connecting to wifi networks. Wifi Analyzer locked up right after install. Also, my phone no longer connects to wifi, locks up when going to wireless settings, and constantly restarts the GUI. CPU is 100% all of the time. I removed this as well as wifi analyzer and things are still broken. This app must have done something to the wireless settings. Finally got an opportunity to install the library and wifi analyzer from the Play website. I went into Wifi Analyzer and it was locking up. I closed it and made sure it was killed. From the Play website, I removed Wifi Connecter library. Then, I removed the Wifi Analyzer. My phone immediately locked up afterword. I force rebooted phone (hold power down for long time). Then, when it came back up, I could turn off the wireless again and my phone is cooling down. This was BAD! If I saw that others had the same thing I\\'d think it malware but it seems like I\\'m the only one...",
+        "commentId": "gp:AOqpTOHIKbkIwq3JztpYfJuCUAXELxz7lj9L-WGjI01LJwvIyKq3keTzoCuuElXOcmorLo1BP1lKkw8TZaTMQg",
+        "author": "Curtis Gabrielson",
+        "authorURL": "http://lh6.googleusercontent.com/-vpFEKrHhD40/AAAAAAAAAAI/AAAAAAAABJ0/pSicQemx-oo/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-vpFEKrHhD40/AAAAAAAAAAI/AAAAAAAABJ0/pSicQemx-oo/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1362819285875",
+        "starRating": "1",
+        "title": "Confusing",
+        "comment": "Hi everybody:  I\\'m sorry I\\'m giving a very low rate and that\\'s because I\\'ve just installed this app after your amazing posts; BUT after the installation is done there was no option to open it from the market like all other app\\'s have and there\\'s no widget on my phone when I can kick to inter the app. So what are all your excitements are for? Can somebody explain to me? And maybe I\\'ll change my rate. Thanks and best regards",
+        "commentId": "gp:AOqpTOFKCed7ef7_qMywmy_6uIbmGhRkxzwCizExgx4UepVf2lUmJQrREEiHvCkTekO7HknAtnw6xpalx8Za3A",
+        "author": "TT gaTes",
+        "authorURL": "http://lh3.googleusercontent.com/-hfoWcXuB-kA/AAAAAAAAAAI/AAAAAAAAAKo/sd06S4KaBy8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-hfoWcXuB-kA/AAAAAAAAAAI/AAAAAAAAAKo/sd06S4KaBy8/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1336056912372",
+        "starRating": "5",
+        "title": "Why standalone?",
+        "comment": "Works as it should. I cannot help but wonder why it is not a part of Wifi analyzer by default. Too bad really.",
+        "commentId": "lg:AOqpTOFXaVCh_s7I9Yl7fCqZboFKN3xBPQ5E5L68Juj_iSoMS3gr1o7JMaf9u8Dv7N4A4cfNihnq7UjX2lll6Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1344407888462",
+        "starRating": "5",
+        "title": "Betsy",
+        "comment": "This app is awesome, does exactly what it says. Wifi works like magic now..thanks guys  ;-)",
+        "commentId": "lg:AOqpTOGy8CkavT2heWd8q3ZGR8rruef0CbbiNKlLJVDtQ9gfRci3gO4L5x6cKaKbgjIOMQgpLJYkH0d2WoIB2g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1358080178973",
+        "starRating": "3",
+        "title": "Hmmm...",
+        "comment": "This app isn\\'t meant to open! It dosent take much to read the description. The app works with wifi analyser! Don\\'t complain about something you dont know.",
+        "commentId": "lg:AOqpTOHks2Y6xLcjgclBJLhoYMM0fr0QP_HXdfqorm39kygFWFYW0mQjuFXftQHl5UlmqvhO5jhi-l5oc871ZA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1365379011591",
+        "starRating": "5",
+        "title": "Useful",
+        "comment": "This app plus Wi-Fi analyzer have fixed the annoying\\\"authentication error\\\"bug with jellybean.. am able to connect to any network on first try now",
+        "commentId": "gp:AOqpTOGPrSxrZMF-P73p15xNKbfXUfOLrsdxVytC2Ut-YsmJtTeUfIvWMjYu6UzsWd-TJK-0osqSY_kHy4bF9Q",
+        "author": "Andres Reyes",
+        "authorURL": "http://lh6.googleusercontent.com/-cj1vucSaaX8/AAAAAAAAAAI/AAAAAAAAAds/5dLzmF7XBMw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-cj1vucSaaX8/AAAAAAAAAAI/AAAAAAAAAds/5dLzmF7XBMw/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1352588545423",
+        "starRating": "5",
+        "title": "Makes Wifi Analyzer work",
+        "comment": "See that app for the functionality to this library. It allows said app to connect you to wireless networks from directly within, greatly simplifying the process of connecting to wireless networks.",
+        "commentId": "lg:AOqpTOFJW1QS6ocVVeG2lWqNemUAlgF84CS12pscK5pAZstBXgXJbAKbmRuwT0SoV_-f5UF7zRge8UbRZWe4Yg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1344576469945",
+        "starRating": "1",
+        "title": "Waste of mahh quality time",
+        "comment": "Like I installed it because I thought it would\\'ve helped\\342\\200\\246 It said succesfully installed and I can\\'t open the app so this sh-t is just a waste of time",
+        "commentId": "lg:AOqpTOEoZznbn3QJ8fg9lYJtrIL8A-KbQ7hKLwnLb92TqO_tsNdfUD9LyWNx5bmrJpUZ-b_bGmuATM_tPpBVVQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1343245936135",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Works as described. Can find sub networks on airports free WiFi now.",
+        "commentId": "lg:AOqpTOEjk3Ww_TTQZ6aOds2n3ppQEampHo6w6wotCtzegY6_s7_WHcOh_3aqBVHD2Ua1c0LKh4GmUEk9m9cCag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1347133927224",
+        "starRating": "5",
+        "title": "Fantastic!",
+        "comment": "Wow. Thanks for the plugin. Sweet...",
+        "commentId": "lg:AOqpTOGYViM4o3k0GBXNh735dQfFm37zY_Pl_7DvCiWPMddeapPaotwP3m80dXH1ngHtanTd_xyMTmaq5FG8mQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE"
+    ]
+  }
+}

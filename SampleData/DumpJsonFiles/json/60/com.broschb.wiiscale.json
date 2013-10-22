@@ -1,0 +1,216 @@
+{
+  "title": "WiiScale",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.broschb.wiiscale",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "May 17, 2013",
+  "version": "1.9",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "227",
+  "rating": "2.8590307",
+  "contentRating": "Everyone",
+  "creator": "Brandon Broschinsky",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.broschb.wiiscale",
+  "extendedInfo": {
+    "installSize": "916k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "This application enables the Wii Balance Board for use as a scale on your Android device.  **DOES NOT WORK on NEXUS devices or JELLY BEAN or ANDROID 4.2 devices.*Bluetooth must be synced through the application, no passcode is needed.  Press the info button in the application to get information about button functions.**Instructions for use-After launching app allow app to enable bluetooth.-press rulers to enter weight mode.-press double arrows button to start searching for balance board to sync with.-press red sync button on bottom of balance board under batter cover.-if you phone is supported the phone will pair with balance board.-press the ruler button again to record weight.**Press the 'i' button at anytime to get descriptions of buttons.Application now supports integration with 3rd party services for storing weight.  Currently Runkeeper is supported.  Please contact developer for more services.The application also allows the user to save the weight recorded.  The application allows syncing of the Wii Balance Board via bluetooth to your Android device. WiiScale also allows integrations into other Android applications via Intents, see http://broschb.blogspot.com/2011/01/android-wii-balance-board-scale.html for details.**NOTE**Application may not work on all devices specifically HTC devices with senseUI(EVO) and newer Samsung devices.  If you wish to use these devices you must root your phone and use a supported ROM such as Cyanogen.If your device does not work and is using HTC SenseUI, or is a newer Samsung device, please don't contact me, contact your device manufacturer for resolution.",
+    "reviews": [
+      {
+        "timestampMsec": "1344405745398",
+        "starRating": "3",
+        "title": "working ok. S2 4.0.4",
+        "comment": "Need to reset every day, annoying!",
+        "commentId": "lg:AOqpTOHsVZyb0V-iUP20Y_qShfUu2rsg3jjFnypaYjByZ_Tl1tgNqXVpMMTPsVPsFV_IpzY0DyQThG_ged9Ib4Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332507471764",
+        "starRating": "3",
+        "title": "Works, but not well",
+        "comment": "I already had a regular scale and there are lots of Android apps for logging your weight (by entering the weight into Android by hand), but there only seem to be 2 apps that will automatically sync that data to RunKeeper: This and some app that\\'s not even in the Android Market. So I tried this one. I was able to get it working with my T-Mobile MyTouch 4G (AKA HTC Glacier), but as others have mentioned, you need to re-sync the phone to the scale (which involves pressing a button inside the battery compartment on the bottom of the scale) every time you use it. I also realized that the weight reported by this app is about 5 pounds less than it should be. (I compared the reading taken by the app w/ a reading taken w/ the scale through Wii Fit, my other scale, and a professional scale in my gym).  BUT - If you don\\'t bother syncing the app w/ your scale, it gives you the option to enter a weight manually and then it immediately syncs that with RunKeeper. So far, that seems to work great. But it\\'s kind of silly to have to use this app for something that simple. And you *will* have to pay $1 for the Wii Scale Extensions companion app to get the RunKeeper syncing functionality.",
+        "commentId": "lg:AOqpTOG8u9yych2aSiyjA8-HPcx_omzOYSTlHVzZj0k1Kt3ggNfb8pKtVIkxIPMabeHGlnA5dXS0KA11ilhlBCQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351675107447",
+        "starRating": "4",
+        "title": "Works but is it accurate?",
+        "comment": "Works on my Samsung S3 running Jelly Bean. Syncing with the board each time isn\\'t that big a deal - I think this is a limitation of the board not the app (and pressing the sync button is quicker than firing up Wii Fit each time). My only concern is whether it is accurate - I weighed myself in Wii Fit then immediately after with WiiScale and I was 3 pounds lighter according to the app. I think Wii Fit is pretty accurate after comparison with other scales, so a little wary of trusting this app\\'s readout. However, if you are weighing yourself only with the app and comparing your weight only with its readouts, I guess it doesn\\'t really matter!",
+        "commentId": "lg:AOqpTOHleGvJ7xlrdWIPYFARbBDCVB3RXYLBS0kDveGQTiOG7EWletR5vMoGnD6mfVUm_CoNi76WtJsVFvnWkfU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331103577695",
+        "starRating": "3",
+        "title": "Great app won\\'t stay synced",
+        "comment": "3 stars for potential versus flaw. Tricky, runs great on all my 4.0 tabs but not my LG Optimus Slider Great app with one huge flaw Requires that you press the sync button each time you use it.  Fix that and it is perfect. (may hack my Wii Board with a foot pedal.",
+        "commentId": "lg:AOqpTOFnNwaOk49gZ3HmgDP8HRuAGry7XDYOTh9_XrkcUXeGs0CC_zH9KOIWMFAgwoVSon6zPHac0GdFMQq8Fd0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329441888958",
+        "starRating": "4",
+        "title": "Works as advertised!",
+        "comment": "It works really well! I like the responsiveness and how it saves previous measurements. It should be noted that RunKeeper support part of the paid extensions.",
+        "commentId": "lg:AOqpTOEcFKWK54h3ZAcMJkoSvOjd8JNh8fEVpUFDYqzFYo6NKP3zQVRiAYMPaIY1lgAfyUvSlt2IAcobcsaDVP0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349610613779",
+        "starRating": "2",
+        "title": "Have to sync every time",
+        "comment": "Would be handy if you did\\'t have to sync it with the board every time you use it.",
+        "commentId": "lg:AOqpTOGHZukvPsSt1whC1Klv11RQ7fNwIQkOLFE3K60sqPGPp-JwAI04dhthHRzBzFfivOU9NWNHFdczugb-wL0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360507592769",
+        "starRating": "3",
+        "title": "Works great",
+        "comment": "Works as intended. 4 stars good solid app. So what if I have to resync - that\\'s an Android limitation anyway. Nice work (although I\\'m still going to try write my own for fun).",
+        "commentId": "gp:AOqpTOG_TGuBE9Bl1NEeKGCC8_ZO7oPIih46Obtfj34yyQA4eMqfMj_-QiCTeFVRkFg1oAFTp6TjlfIlF-BnA3E",
+        "author": "Richard Le Mesurier",
+        "authorURL": "http://lh5.googleusercontent.com/-pU9Y4wodNTI/AAAAAAAAAAI/AAAAAAAAA3s/Im8a4t4h-zU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-pU9Y4wodNTI/AAAAAAAAAAI/AAAAAAAAA3s/Im8a4t4h-zU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1348932822078",
+        "starRating": "2",
+        "title": "Ok",
+        "comment": "Works, but impractical because you have to open the batt compartment every single time. Sucks.",
+        "commentId": "lg:AOqpTOGrooLLsxPDkB-CUueSEu7MsTirG6VhtJATshVrTlGRkOrOU1t3EsmwMtOut5kWBe6nyk4HnYSqqJbMg8c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1326561494148",
+        "starRating": "1",
+        "title": "Would have been great",
+        "comment": "If it worked more than once...",
+        "commentId": "lg:AOqpTOGtsQDPQIW6wg80y4fEUp2u4zv-dRBZXsOLbbea-fdV_b9MS9YSCwXv_Nd1YYmWx4EpnUmMB_YxvVnnWhE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356622420221",
+        "starRating": "3",
+        "title": "Varying results",
+        "comment": "Works on my Google Nexus S (4.1.1) but not on my Google Nexus 7 (4.2.1).  The latter cannot sync with the tablet whereas the former has no issue.",
+        "commentId": "gp:AOqpTOGVeKHfwefZGEUPmG9VcxLcUY8RnQrrG5SNJKskV1k8lzVXhPL7zZeS7v-jsIAxKCYMbYaE3CtZKqaADek",
+        "author": "Andrew Billyard",
+        "authorURL": "http://lh4.googleusercontent.com/-WFhCZuqZMtA/AAAAAAAAAAI/AAAAAAAAAEc/92nyiu6qyRc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-WFhCZuqZMtA/AAAAAAAAAAI/AAAAAAAAAEc/92nyiu6qyRc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1327189331047",
+        "starRating": "5",
+        "title": "DROID X",
+        "comment": "Works great with my Droid X!",
+        "commentId": "lg:AOqpTOFVZkh4JRQ-HdN8fLk0dOa6tgMTzik9Yrwg-pSjSCASJt_2YlPE-LoqiRdNltxVvkTA0x5F73-suK5ohxM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353204235409",
+        "starRating": "1",
+        "title": "It\\'s not working on Samsung SGH-T679",
+        "comment": "It\\'s not working on my Samsung SGH-T679. When I press Arrows it just flashes for split second and makes no connection",
+        "commentId": "lg:AOqpTOHcWrlBS7-uY7rxX5860DUS1WUf30-DeF9-AG06cYEUiJ6rd-NNxAO6IzWJ3arTKR4lfRdaQXfOw5X5kbk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376304514832",
+        "starRating": "3",
+        "title": "Doesnt work on galaxy s4",
+        "comment": "Cant rate due to not connecting to phone.",
+        "commentId": "gp:AOqpTOFG8uuFfer2KWYGHbFtrUO22nrhjZ-SqjVTJhJpqLsUK7mc2SmGJzoAvCajXIpmxNe8DppOlU1MdZkWj7U",
+        "author": "Philip Harrington",
+        "authorURL": "http://lh3.googleusercontent.com/-H-g8gkc6yMU/AAAAAAAAAAI/AAAAAAAAAEs/IiaC5qo0kD4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-H-g8gkc6yMU/AAAAAAAAAAI/AAAAAAAAAEs/IiaC5qo0kD4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1345965627473",
+        "starRating": "3",
+        "title": "Doesn\\'t sync",
+        "comment": "I\\'m using cm9 on an sgs2 and it asks for a pass code.",
+        "commentId": "lg:AOqpTOFKZpdT7Hv5ymcrrWZzAcbfz65wVRV2pcjrO97njflcO4wBg5hVk3JuRQ46fjk2L4VO1gyZTlzBfwR4aCU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340832180746",
+        "starRating": "5",
+        "title": "If it doesn\\'t work it\\'s your ROM",
+        "comment": "Works perfectly on my AOKP ROM. Very useful. No one wants to go through the Wii Fit menu every time you want to weigh yourself",
+        "commentId": "lg:AOqpTOH_0C-oyLiKKdpzoJdaycGYgqKLph-Y9Qc_dU9GuwcgmZ7gk7SsvgzZDAEn9BSRCxdkUIiuzCTDURfnY2g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357043682918",
+        "starRating": "1",
+        "title": "Disappointed",
+        "comment": "It does not work with my Nexus 7",
+        "commentId": "gp:AOqpTOHuJ6TM3j1Opik13EXfMbZDoMpzDXddh21mR-fRJFE53Bidx2YrxcFeYzOjSOH5r3qmUvslr9r9rLzMQ0M",
+        "author": "Patrick Gibson",
+        "authorURL": "http://lh5.googleusercontent.com/-Qis3TUqLfMM/AAAAAAAAAAI/AAAAAAAAACs/2OZYgcdzXJw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Qis3TUqLfMM/AAAAAAAAAAI/AAAAAAAAACs/2OZYgcdzXJw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1324948616540",
+        "starRating": "2",
+        "title": "No sync galaxy note",
+        "comment": "Hit sync button. A message flashed too fast to read and then nothing",
+        "commentId": "lg:AOqpTOHPahv3r6BjypdN27ElYLkaS5vUfkCn31a6k2za9_f8eHOkqaQbzOcyRHwAxzQSkGhykof1kLyA2QNW0PY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357403765634",
+        "starRating": "5",
+        "title": "Thanks, Brandon",
+        "comment": "You saved me a bunch of money on a fitbit or withings scale.",
+        "commentId": "gp:AOqpTOGcrxAQyi17o4DTP9i942wUJplX_bBq0dh2fbFRb6MRRPzyZc_BToTgj-eo6_bKQsROHcYBEqZhSTrOn0M",
+        "author": "Jonathan Spencer",
+        "authorURL": "http://lh4.googleusercontent.com/-mIfLKD-IImY/AAAAAAAAAAI/AAAAAAAAPeg/xszQMIQn7nI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-mIfLKD-IImY/AAAAAAAAAAI/AAAAAAAAPeg/xszQMIQn7nI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1320888575490",
+        "starRating": "4",
+        "title": "Good app",
+        "comment": "Works great on Xoom, don\\'t work on Vizeo.",
+        "commentId": "lg:AOqpTOHfBV6rXw_J_qmVt5A3K6ZR2VaFqGbWGzB0-7MATQI7cWAeW_sSaXtnkf1cnigLfoJ8ALAgMg4jjEajLAA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357540802824",
+        "starRating": "1",
+        "title": "libbluetooth.so is no longer available in 4.2",
+        "comment": "Please recompile your app for latest SDK... the libbluecove.so you\\'re using is linked against a missing file in the latest 4.2.1 releases.",
+        "commentId": "gp:AOqpTOEMbiURNELlA152Jbf_yVp11JihMfZwtsztjsKQ7x8C6n1ZULvZJg4C5XsD6SSYnE0bVYN6RZ93NaFlMr0",
+        "author": "Gad Krumholz",
+        "authorURL": "http://lh5.googleusercontent.com/-9O76wNmfIpY/AAAAAAAAAAI/AAAAAAAAB0Y/-rVKfytSLfI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-9O76wNmfIpY/AAAAAAAAAAI/AAAAAAAAB0Y/-rVKfytSLfI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Guest Check",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crysware",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "July 24, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Crysware",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crysware",
+  "extendedInfo": {
+    "installSize": "22k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Guest Check is an easy to use tip calculator. In addition to calculating the tip, Guest Check calculates how much each person will have to pay out of the total bill.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

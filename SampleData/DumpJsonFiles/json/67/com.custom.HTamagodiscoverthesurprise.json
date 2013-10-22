@@ -1,0 +1,33 @@
+{
+  "title": "Tamago discover the surprise!!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.custom.HTamagodiscoverthesurprise",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "March 6, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Hunter Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.custom.HTamagodiscoverthesurprise",
+  "extendedInfo": {
+    "installSize": "793k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Download Tamago game for fans of tamagotchi you'll enjoy clicking on tamago egg and discover a wonderful surprise for you!Start Now !!!!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.custom.HTamagodiscoverthesurprise.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

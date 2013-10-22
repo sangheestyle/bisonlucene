@@ -1,0 +1,76 @@
+{
+  "title": "Find Banks and ATMs",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elbatrop.banks",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 8, 2013",
+  "version": "1.7",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "54",
+  "rating": "3.7407408",
+  "contentRating": "Low Maturity",
+  "creator": "Elbatrop Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elbatrop.banks",
+  "extendedInfo": {
+    "installSize": "467k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Search for your nearest ATM / bank or for ATMs and banks around the world. You need never worry about getting hold of cash quickly again! Our current coverage is approximately as follows:Germany *****Austria ****Finland ****Belgium ***Denmark ***The Netherlands ***Sweden ***UK ***",
+    "reviews": [
+      {
+        "timestampMsec": "1348437580429",
+        "starRating": "2",
+        "title": "Too many missing..",
+        "comment": "Practically all the banks/ATMs in my area are missing (Greater London - TW). It did help me find a cash point in Central London, though.",
+        "commentId": "lg:AOqpTOHWhv1juP4Va2KR-3NTYebz-cxikBa2YOBVnoHHb3RaHtWf6Z5gMHcZvc-pAa5-mYJk1k5vcAL26WkUUg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347215000832",
+        "starRating": "1",
+        "title": "Poor",
+        "comment": "Way too many missing to be a reliable app - shame, as it has potential. Edit: still too many missing.",
+        "commentId": "lg:AOqpTOEZrHIOWqVoK4yhQVHzYKG0DGUpbxhHcoGSAjFdgLbB-d4NPteiSC5X9s90DMnHK8RiCgchjZYprlGbpg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354023818390",
+        "starRating": "1",
+        "title": "Inaccurate",
+        "comment": "Searched my home town, which has 5, and it\\'s saying there are none but 2 in the next town along, which actually has about 6 or 7! Not enough research has gone in to this app unfortunately",
+        "commentId": "lg:AOqpTOFFAJ9isksWs3kitYBHITpc8ZfXKHPycS580WSQ4MQs4PFvPr01gw0v-9ENCeB2gKuYuU_TEwGUqOL8yg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359511139559",
+        "starRating": "1",
+        "title": "S3",
+        "comment": "Not great at all",
+        "commentId": "gp:AOqpTOGAlZpWbuJOH2jadaLt2dBUsu_dLTgzqg_XIVZjOSWPsN511Nux7IF1fdZv6ipLdjF8b_Z_5zwCY2rW-Q",
+        "author": "David feehan",
+        "authorURL": "http://lh3.googleusercontent.com/-S9nSmWf_1CE/AAAAAAAAAAI/AAAAAAAABLY/QIlOnn7aw8E/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-S9nSmWf_1CE/AAAAAAAAAAI/AAAAAAAABLY/QIlOnn7aw8E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1345937979361",
+        "starRating": "1",
+        "comment": "Has ads",
+        "commentId": "lg:AOqpTOHnbxMqlCQVMbH3mFpx96PxyjAOrXnkd-jnx9MPMQmH-So-SiPp80EgHF_l93FYAT6Xt25cMbjuLF-Tqw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

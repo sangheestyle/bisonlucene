@@ -1,0 +1,46 @@
+{
+  "title": "see Air Quality",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.everbum.saq",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "March 21, 2013",
+  "version": "1.02",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "15",
+  "rating": "4.8",
+  "contentRating": "Everyone",
+  "creator": "eVerbum",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.everbum.saq",
+  "extendedInfo": {
+    "installSize": "153k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "We cannot provide a better air for us, but we can help you avoid polluted air.Now with more than 1200 stations from Belgium, Germany, the UK and France (without Aquitaine, Centre, Franche-Compte, Poitou-Charentes and PACA).Note: All this information comes from public sources. Please let us know if something is changed (or not working anymore) or new public sources appear. We'll try to keep our database and the app up to date.This small app will show the air pollution index for the selected station. You can now choose if it is safe to take a walk, ride a bicycle or maybe go to a picnic.Available in English and French.Features:- Scan an area for the air quality index.- Choose from three different indexes.- Graphical widget for a quick look.- Alerts at a certain level or if a change occurs.- Automatically refresh data at a customized interval.- Show raw data for pollutants.General:- Fastest and easiest way to check air quality- Very small size. Our app will not eat up much memory- Very flexible. It works in landscape, but also in portrait positionVisit our site and leave us your comments, they can help us improve the app.Note:We plan to extend the app for a number of other countries.Please send us an email, if you like our app, with the title \"see Air Quality\", and in the body with the countries you like to have implemented. This way we can plan the implementation based on your requests and alert you when a new version with your desired countries is available.",
+    "reviews": [
+      {
+        "timestampMsec": "1371508533223",
+        "starRating": "5",
+        "title": "User friendly",
+        "comment": "Easy n very nice to look at.very reassuring because  its accurate",
+        "commentId": "gp:AOqpTOHN1qvdCkmjKV0nIfKI4Fe6pbHr8pjAawQC6ZjIsgKFznMTTIwIpQSyr30Iu2xLf6vne1785Rr-RiKTRNE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360163272905",
+        "starRating": "5",
+        "title": "Very good",
+        "comment": "Many thanks",
+        "commentId": "gp:AOqpTOGgxKzLGvGRYmqv9ivhrIeMWR__kkqcfSpjAaZayByjm6e_RUBMKY1TSh9ckhHNpNjKG8cg5nKIxywz0fo",
+        "author": "Kennie Yallop",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

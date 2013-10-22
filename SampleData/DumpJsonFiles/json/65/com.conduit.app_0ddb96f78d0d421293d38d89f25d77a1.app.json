@@ -1,0 +1,65 @@
+{
+  "title": "Federalist Society Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_0ddb96f78d0d421293d38d89f25d77a1.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "September 11, 2012",
+  "version": "1.51.76.19885",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "The Federalist Society",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_0ddb96f78d0d421293d38d89f25d77a1.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Federalist Society for Law and Public Policy Studies is a group of conservatives and libertarians interested in the current state of the legal order.  It is founded on the principles that the state exists to preserve freedom, that the separation of governmental powers is central to our Constitution, and that it is emphatically the province and duty of the judiciary to say what the law is, not what it should be.  With this mobile app, the Society seeks both to promote an awareness of these principles and to further their application through its activities.Note concerning the \"Read Phone State and Identity\" permission:This permission is used to access your call logs in order to determine if your phone is on a call, which is helpful for two reasons.  First, the app will know to mute any audio it may be playing if it can detect an incoming call.  Second, the app can utilize a \"call us\" feature where simply pressing a link in the app will instruct your phone to call a phone number, such as our main office number.  The Federalist Society does not use this permission to collect any personal information.",
+    "reviews": [
+      {
+        "documentVersion": "5.47.19045",
+        "timestampMsec": "1347734568596",
+        "starRating": "1",
+        "title": "Oh NO you don\\'t!",
+        "comment": "You do not list \\\"bug fixes\\\" as your update change log but then try to get an unexplained \\\"read tablet state or identity\\\" permission slipped by us. I will not update until you guys explain why you actually need that permission. Was a 5 star app, now a 1 star app in my rating until this is resolved, because I do not appreciate what appears to be a gross deception. You claim to be a group that \\\"wants to preserve freedom\\\", well then why are you not respecting my privacy or at least my right to know what you want to do with my data? Please at least show the users more respect by explaining why you want the permissions that you do. Please just don\\'t try to take them without explaining why. Thank you.",
+        "commentId": "lg:AOqpTOEKFwIMbN5fXYYn-OzzNX6qHEwhqlwg6-r7pHCtMA9tCLMlpbgfPmm5u1RtWAtOu0qTo1zgN2R_oTTYgw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "5.47.19045",
+        "timestampMsec": "1346567254462",
+        "starRating": "3",
+        "title": "Great app,",
+        "comment": "But constantly wants to run, tracking and burning battery. Not recommended.",
+        "commentId": "lg:AOqpTOEH-Hait67ykwJqbcZaTEj0FSWaLy8me5qICQVxAazXXa9ktdeLRnY9ayVet6CF1U_jn5l3P_WgcYXLRQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "5.17.14898",
+        "timestampMsec": "1331335057604",
+        "starRating": "5",
+        "title": "I have been waiting for this!",
+        "comment": "I can finally keep up with Fed Soc without being tied to a browser.",
+        "commentId": "lg:AOqpTOGDtj1_xpJG3VPJNXtnvVG7Xw_c3wFP3b55m5HB9HvA82_nwHyw-pZx79rlCF_0pIe3bgI4sU_1SrN-oQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_0ddb96f78d0d421293d38d89f25d77a1.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

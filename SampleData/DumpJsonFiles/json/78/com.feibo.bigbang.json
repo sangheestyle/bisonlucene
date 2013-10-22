@@ -1,0 +1,41 @@
+{
+  "title": "The Big Bang Theory",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.feibo.bigbang",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "October 13, 2011",
+  "version": "1.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Birdy Leo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.feibo.bigbang",
+  "extendedInfo": {
+    "installSize": "92k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "çæ´»æºæ§ï¼å°½å¨çæ´»å¤§çç¸",
+    "reviews": [
+      {
+        "timestampMsec": "1332067217587",
+        "starRating": "1",
+        "title": "Sucks",
+        "comment": "Rubbish",
+        "commentId": "lg:AOqpTOFhW_o0vSM1KsLHl7aq_BlJCdfWvhW36zPw_1mX4P4mllvM_v-1VFiM2A2Ib068uBWj-T5OSA27JK-euZo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

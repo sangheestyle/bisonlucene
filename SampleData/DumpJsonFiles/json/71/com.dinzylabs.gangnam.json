@@ -1,0 +1,64 @@
+{
+  "title": "Gangnam Pool Party",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dinzylabs.gangnam",
+  "category": "Racing",
+  "price": "Free",
+  "datePublished": "March 29, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.0.1 and up",
+  "ratingsCount": "6",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "DinzyLabs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dinzylabs.gangnam",
+  "extendedInfo": {
+    "installSize": "8.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Gangnam Style Pool PartyWelcome to Gangnam!!There's a Pool Party in full swing, and YOU are Invited!The Craziest Pool Party in all Gangnam is HERE!!Dance, Jump and move in Gangnam Style!!*****Main Features*****# Really simple Game play# A Challenge to conquer# Play with your beloved Gangnam Guy# Clean Graphics# Cool MusicYou are in Gangnam..... have a BLAST!Let's get this Party Started!!The Ladies are waiting!",
+    "reviews": [
+      {
+        "timestampMsec": "1376764039058",
+        "starRating": "3",
+        "title": "It is......",
+        "comment": "It is good but it tacks a bit long",
+        "commentId": "gp:AOqpTOEC-H7rgcCOf76XZhO4lRhrGsZx0slTL_MBk5bT8ICfl6lxL0JugcEIQabJ5oOKng-64jawljfBjbJ0iw",
+        "author": "Chantelle Graham",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366079229166",
+        "starRating": "1",
+        "title": "Corny",
+        "comment": "It takes forever to load",
+        "commentId": "gp:AOqpTOFPCR1bWabCMucY0UdXUM9P-Ooqgx-RtyCwKMEigkmEm14RjVqhO-3_5-s8diDE8-MatVxV-ZL_XOfRdQ",
+        "author": "Kayla Bennett",
+        "authorURL": "http://lh3.googleusercontent.com/-YSu669b-Ebs/AAAAAAAAAAI/AAAAAAAAABU/8Jq-sZnlAaE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-YSu669b-Ebs/AAAAAAAAAAI/AAAAAAAAABU/8Jq-sZnlAaE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364704534671",
+        "starRating": "1",
+        "title": "Sucks",
+        "comment": "Not even a game",
+        "commentId": "gp:AOqpTOEE69fUD2seeWYZ3vPU6gxgxLyUNR7fMa6WAPEgxE9tuzXNRcoC6ly63JULa60Gc5Au6HVN2P-iX4OXSg",
+        "author": "Lissa Magarrell",
+        "authorURL": "http://lh4.googleusercontent.com/-hTqLKTAOr4M/AAAAAAAAAAI/AAAAAAAAABM/Yr4Qjxx4uzM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-hTqLKTAOr4M/AAAAAAAAAAI/AAAAAAAAABM/Yr4Qjxx4uzM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "com.dinzylabs.gangnam.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

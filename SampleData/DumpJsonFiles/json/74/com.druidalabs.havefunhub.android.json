@@ -1,0 +1,51 @@
+{
+  "title": "Have Fun Hub",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.druidalabs.havefunhub.android",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "June 17, 2013",
+  "version": "1.2.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Druidalabs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.druidalabs.havefunhub.android",
+  "extendedInfo": {
+    "installSize": "468k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Been kicked out of the pub and want to have another drink but you don't know where?Bumped into a friend randomly and feel like going out but you haven't got a plan?Party mood got you in the street but you don't know what's going in the area?Gone to the wrong place? Give you a second chance!Want to impress a friend with a non planned night out? These are the best ones!HaveFunHub app helps you with that.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1356294589942",
+        "starRating": "5",
+        "title": "A great app!",
+        "comment": "It really works! Now I can use my phone to find out where the party is at! And it even tells me how the party is and shows me pics of it. It\\'s a must have!",
+        "commentId": "gp:AOqpTOFHUxvhdezMJaSjeTCxK-i2WYbMTGMWD8RVZVsfBGxPppzOILh46B0sggZhPnG40JFz9FTD8NojNFi2mE8",
+        "author": "Martin Tesselhoff",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345651517002",
+        "starRating": "5",
+        "title": "Brixton market",
+        "comment": "Very simple to use and fun...got lost in the market checking live music I found through this service. That\\'s all you need. Loving it. Keep the good work!",
+        "commentId": "lg:AOqpTOEITE51nUzMXH7TAib8rPtxE8-NMSx0TcRLz6DkfCXyDvDgoC_FqdeJQNpkOnLx-dWWRxx1JqU16A1CBbQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

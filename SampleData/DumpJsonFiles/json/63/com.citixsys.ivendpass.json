@@ -1,0 +1,44 @@
+{
+  "title": "iVend Pass",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.citixsys.ivendpass",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "June 17, 2013",
+  "version": "1.0.4",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "iVend",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.citixsys.ivendpass",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "iVend Pass brings Apple's Passbook to Android.iVend Pass allows you to store Gift Cards, Coupons, Loyalty Cards and other forms of mobile passes in Apple's Passbook file format.Passes issued from pass.ivend.com will support Push Notifications.To add a passbook pass in iVend Pass, simply click on the link / attachment in your email or browser. This will store the pass in iVend Pass.For more information, visit https://www.ivend.com/ivend-passes/",
+    "reviews": [
+      {
+        "timestampMsec": "1371535555005",
+        "starRating": "5",
+        "title": "Nice & simple",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOH4u_cNo_KOPXc8cgq-r_HWQ1sj21KJOgESd0OcJElnrSAQqALvhiZgyhyWr4Syk6Js51aAwIRuFNi_ddk",
+        "author": "Neeraj Rautela",
+        "authorURL": "http://lh3.googleusercontent.com/-mYNuSnVpVfo/AAAAAAAAAAI/AAAAAAAAAIk/BGe8pZzcM3g/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-mYNuSnVpVfo/AAAAAAAAAAI/AAAAAAAAAIk/BGe8pZzcM3g/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_DOWNLOAD_MANAGER",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.citixsys.ivendpass.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

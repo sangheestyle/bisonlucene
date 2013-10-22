@@ -1,0 +1,93 @@
+{
+  "title": "Autorun For Skype - US",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crosseyejack.arfs",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 5, 2013",
+  "version": "1.2.0b",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "12",
+  "rating": "4.9166665",
+  "contentRating": "Everyone",
+  "creator": "Crosseye Jack",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crosseyejack.arfs",
+  "extendedInfo": {
+    "installSize": "165k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "A simple \"Set and Forget\" app to re-enable Skype launch on boot.  Install, Enable and Forget about it. Skype removed the option to auto sign into Skype on device boot. I tried to ask Skype if this was a permanent change or just a bug and got a \"Thanks for the feature request\" canned response so I decided to fix the issue myself. I understand Skype's reason for this, but I also like the feature hence this application exists.  *** How to use:  Download and install Skype  Sign in and in Skype Settings make sure that \"Auto Sign In\" is enabled (This tells the Skype App to remember your password and sign you in on app launch). Download, install and run this app, Press Home and forget about it. (The default options should be fine). For 2.1, 2.2 and 2.3 devices the app will do its thing once its installed, but for 3.0+ devices you will need to open the app at least once before it will start Skype on boot.  Please keep this App on your phone main storage and not the SD Card else the app can not start Skype. App is set to install onto internal memory but mods like CyanogenMod can override this.  Depending on your Android version and Skype's install location the app will try and launch Skype in different ways. Hopefully these methods will get Skype to launch for you.  If you're getting the \"no connection to internet found\" message when you are actually connected then disable the internet check, its a bug in android itself. If you have any problems with this app, you can contact me at apps@crosseyejack.com *** PERMISSIONS BOOT_COMPLETE is used to wake on device boot, then starts the Skype app, waits a few seconds then returns to the home screen.  INTERNET Permission is used for the error reporting tool and ads. ACCESS_NETWORK_STATE is used to check the network connection to make sure you are connected to the internet before trying to launch Skype. VIBRATE is used for the notifications when the app couldn't launch Skype. INTERACT_ACROSS_USERS_FULL is used for 4.2 support. This permission might be removed in later versions as I think I can do the same job without it. *** The name change from Skype Boot is because I have received a notice from Microsoft regarding the Skype Trademark (as I've said throughout this app's life, I am in no way connected to Skype). Its their trademark so I have to play by their rules. So the name had to be changed. Yeah I know the Icon on the Play Store is... Lets say \"poor\"... but to be on the safe side I just threw together a new icon. I will make a better one once I get the time (Which is Very Limited ATM). *** This is a Skype companion app, YOU NEED SKYPE INSTALLED in order for this app to work...  This is a 3rd party app that starts Skype when your device boots, I am in no way connected to Skype. If you are having a Problem with the Skype App itself you will need to contact Skype directly as I can not help you. For Skype for Android support visit https://support.skype.com If you need to install Skype and you can not find it in the market for what ever reason then check.  https://support.skype.com/faq/FA10653/How-can-I-get-Skype-on-my-Android-phone  ***   Skype is a trademark of Skype and Crosseye Jack is not affiliated, sponsored, authorised or otherwise associated by/with the Skype group of companies.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.0",
+        "timestampMsec": "1373573779266",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "I\\'d like a paid version to easily support development.",
+        "commentId": "gp:AOqpTOEI0SLkmBoM467W2qidQYFAHiKtQxdrbP5UrLthZxMB8u_TDhi6d98zy6vFDrhJKgdKz4yBTmHeFUhIVbE",
+        "author": "Ralph Lawrence",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.0",
+        "timestampMsec": "1378085393574",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "I love when an app does exactly what it says it does.  Luv this app. Thk u",
+        "commentId": "gp:AOqpTOH6-NR2zOXj_QWV4-BjAWgvFQj-4IrEFiKnSAZQikn4Dem9mqNcFyrNfWzNjFGn3B98FCssxeILpWr1Kxo",
+        "author": "Jerald Brooks",
+        "authorURL": "http://lh5.googleusercontent.com/-koBjcIKReu4/AAAAAAAAAAI/AAAAAAAAAb4/KCwXr_Zy0Co/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-koBjcIKReu4/AAAAAAAAAAI/AAAAAAAAAb4/KCwXr_Zy0Co/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.0",
+        "timestampMsec": "1365449377499",
+        "starRating": "5",
+        "title": "Works as it should",
+        "comment": "This app works great on my T-Mobile Galaxy S2 and my Samsung Galaxy Note 10.1 tablet. The app is small, simple and while is does have ads on the Settings Screen, the DEV is kind enough not to load the thing up with them. This is a great app, at a great price.",
+        "commentId": "gp:AOqpTOELJ5wXhw4h4o1p0ONeeDiMUXOepLMLEdGPID5ELZef5XOToCQuQ0tpDi9rzkYyvQZ4h0DXOrg1qOpp8ro",
+        "author": "John Smith",
+        "authorURL": "http://lh4.googleusercontent.com/-bQvP3YATDb0/AAAAAAAAAAI/AAAAAAAAAAA/ZBrLDNERAm8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-bQvP3YATDb0/AAAAAAAAAAI/AAAAAAAAAAA/ZBrLDNERAm8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.0",
+        "timestampMsec": "1366169294566",
+        "starRating": "5",
+        "title": "Works as advertised",
+        "comment": "Thanks for the useful app.",
+        "commentId": "gp:AOqpTOHkvZY1rqpj68pxxsKWIJ_sRiB_hNOfgVGMYEHE7Y2rJF32DUjQpXJe54UqnS4cnFCZ_YUbqra04PKQfeQ",
+        "author": "Charles Fleisher",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369076759983",
+        "starRating": "5",
+        "title": "Awesome App and it free!",
+        "comment": "Works great on mt T-mobile SGS2!  Free is soooooooo cool!",
+        "commentId": "gp:AOqpTOHKVM2WO1iov_0KmADdsBsc-RuiRrj2pFWkCRthBvN62THPHmshu8Mp_XFaruMusBF_zRaS6vhn6VfMXtc",
+        "author": "Charles Jarzynka",
+        "authorURL": "http://lh3.googleusercontent.com/-sDOOQ5w3Ua0/AAAAAAAAAAI/AAAAAAAAAN0/CszmZhYbhys/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-sDOOQ5w3Ua0/AAAAAAAAAAI/AAAAAAAAAN0/CszmZhYbhys/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368889719864",
+        "starRating": "5",
+        "title": "Great idea",
+        "comment": "What I love so much about developers like you is that you just made my life a little better. \\342\\211\\247\\357\\271\\217\\342\\211\\246",
+        "commentId": "gp:AOqpTOGcuv-ZZeoV1-U6_q8TBRbSoWUcXLH4ZK_S0qWQIVrKYZrXpRYTu6VAu4nGQXquxhcsqTup1ixDIoctjs4",
+        "author": "Nancy Xiong",
+        "authorURL": "http://lh5.googleusercontent.com/-ghd5fiMliFY/AAAAAAAAAAI/AAAAAAAAAL4/NPGnKSUs5hs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ghd5fiMliFY/AAAAAAAAAAI/AAAAAAAAAL4/NPGnKSUs5hs/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERACT_ACROSS_USERS_FULL",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

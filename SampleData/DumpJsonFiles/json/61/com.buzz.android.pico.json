@@ -1,0 +1,58 @@
+{
+  "title": "V-Line",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buzz.android.pico",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "May 2, 2013",
+  "version": "1.0.40",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Buzz Connect",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buzz.android.pico",
+  "extendedInfo": {
+    "installSize": "4.1M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "âV-Lineâ is a business quality Mobile VoIP solution from V-Line Connect that allows you to make low cost calls from your smartphone or tablet using a Wi-Fi or 3G data connection.Used as a means of avoiding roaming charges away from home, users can experience big savings with calls back  to the UK at only 1.00p per minute! User to user calls are free.Why not choose one of our UK landline numbers for inbound calls, or even port your home/office number to make a fully integrated mobile solution?â***VOIP OVER 3G - IMPORTANT NOTICE - PLEASE READ***Be aware that some mobile network operators prohibit or restrict the use of VoIP (Voice over Internet Protocol) over their network.They may prohibit the use of VoIP over their network or impose additional fees and/or charges when using VoIP over their network.By using V-Line for Android over 3G, you agree to familiarize yourself with and abide by any restrictions your cellular carrier imposes and agree that V-Line Connect Ltd will not be held liable for any charges,fees or liability imposed by your carrier for using V-Line for Android over their 3G network.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.40",
+        "timestampMsec": "1372359298144",
+        "starRating": "1",
+        "comment": "Doesn\\'t even work",
+        "commentId": "lg:AOqpTOFzP3KuCeTB8wDWi_oVFx1IG1N6N3eliJcj8hXlvoX0pEKIEYVV9S1FURub5mYCZYbuPq_qHCoX3U7DZg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.PERSISTENT_ACTIVITY",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.WRITE_APN_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

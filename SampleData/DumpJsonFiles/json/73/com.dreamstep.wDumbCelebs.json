@@ -1,0 +1,32 @@
+{
+  "title": "Dumb Celebs",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wDumbCelebs",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "October 10, 2011",
+  "version": "0.21.13182.90572",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Mike Guinta",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wDumbCelebs",
+  "extendedInfo": {
+    "installSize": "110k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app provides you with the dumbest tweets from your favorite celebrities. Laugh at all the nonsense these famous people say on a daily basis. You can then share the laughs with your friends through Twitter or Facebook.Works in conjunction with www.DumbCelebTweets.com to bring you the latest laughs directly from celebrities Twitter handles.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wDumbCelebs.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

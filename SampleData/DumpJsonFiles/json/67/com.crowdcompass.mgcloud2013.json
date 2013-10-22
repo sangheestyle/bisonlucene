@@ -1,0 +1,38 @@
+{
+  "title": "Federal Cloud Comp Summit 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.mgcloud2013",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 10, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.mgcloud2013",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "The 2013 Federal Cloud Computing Summit and Technology Showcase will examine how agencies have implemented Cloud solutions within their organizations. It will also look at the Cloud broker model and examine the future of Cloud solutions within the government.App Keywords : cloudfeds, Federal Cloud Computing Summit, cloud summit",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.mgcloud2013.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

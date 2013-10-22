@@ -1,0 +1,29 @@
+{
+  "title": "Take A Note Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bscsoftware.takeanote",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "February 1, 2013",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "BSC Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bscsoftware.takeanote",
+  "extendedInfo": {
+    "installSize": "241k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Free VersionIn a meeting and forgot you note book or tablet? No worries just use your phone and Take A Note. Take A Note is a simple text note taking app that will save your notes in a *.txt file to your external storage. It will also open other (limited to *.txt) note files on your external storage for editing. Upon first opening Take A Note, it will fill in a file name for your note that has the time stamp in the name of the file. You can use this file name or edit it to the name that you would like to use. If you would like to open an existing file press the open file button and a new scene will present you with a list of possible files with the txt extension. Select a file and then press the select button. This will then take you back to the main Take A Note screen.If you would like to save your note or edits to your note simply press the Save Note File button and the note will be saved to your external storage as a txt file.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ]
+  }
+}

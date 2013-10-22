@@ -1,0 +1,29 @@
+{
+  "title": "Pass Safe 2",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dancadar.mobile.passsafe2",
+  "category": "Productivity",
+  "price": "$0.99",
+  "datePublished": "August 12, 2013",
+  "version": "2.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Dan Cadar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dancadar.mobile.passsafe2",
+  "extendedInfo": {
+    "installSize": "49k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Pass Safe 2 is a password manager for Android. With Pass Safe 2 you can have all your passwords in one place, protected by a master password, so you'll never lose a password again. All passwords are stored locally on the phone, encrypted so only Pass Safe 2 can read them. There are no visible differences between Pass Safe and Pass Safe 2, the same UI was used, however, there are multiple \"under the hood\" changes, the most important being the encryption mechanism so the passwords should be properly encrypted or decrypted by different Android versions. Unfortunately, wasn't possible to maintain compatibility with Pass Safe. You will still be able to import unencrypted passwords from Pass Safe or Pass Safe Free.IMPORTANT:- NOT COMPATIBLE WITH PASS SAFE ENCRYPTED DATABASE.KW: Android Password Manager, Password Safe, Save Password, Store Password, Manage Passwords, Password, Manager",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

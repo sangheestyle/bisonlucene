@@ -1,0 +1,33 @@
+{
+  "title": "message pets",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dough.newspets",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 18, 2012",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "12",
+  "rating": "3.0833333",
+  "contentRating": "Everyone",
+  "creator": "Dough OnLine",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dough.newspets",
+  "extendedInfo": {
+    "installSize": "1,019k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "message pets: after each other's phone number in the software set, when received each other text messages, the corresponding virtual pet will follow grow up",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_SMS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

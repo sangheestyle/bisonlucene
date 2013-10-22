@@ -1,0 +1,39 @@
+{
+  "title": "Mirudake MyMap",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.kamoland.mirudake",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "53",
+  "rating": "4.1509433",
+  "contentRating": "Medium Maturity",
+  "creator": "kamoland",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.kamoland.mirudake",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Point and track list viewer of Google My Maps and Fusion Tables. - Open map application with the point and track - Share the point - Create shortcut at HOME screenâWhen viewing a MyMap, Please note that you will need to add your own URL for the MyMap.1. How to use (a) import fusion tablesmenu, refresh (b) add my mapSend url mail from Google Map (PC) to Android machine.Open the mail on Android machine and click the url.â»Description of the risks of passwordIf you have that they would \"save password\" when logging in to Google, this app will encrypt and store the password in the internal private area of Android.Because they can not be viewed if there is no root privileges from other apps, this area is generally safe, but for example, if the user is allowed to root privileges Malicious apps, leakage risk is not zero.If you want to save, please recognize that point.In addition, there a way to to this app-only password, increase the safety in the case of the leaking if.[Google Account settings]https://accounts.google.com/IssuedAuthSubTokensIt is a way by issuing the \"application-specific password\", and of using this on Mirudake MyMap.2. Supported data type of fusion tables - Tracks uploaded by Yamatabi logger - Tracks uploaded by MyTracks - Bookmarks uploaded by Chizroid3. NOTICEYou can't edit anything in My Maps.This application only support viewing point list.This app is affected by the changing specification of Google.I do the correspondence as much as possible, but there is a possibility that can not be used to not completely compatible.",
+    "reviews": [
+      {
+        "timestampMsec": "1285085882199",
+        "starRating": "1",
+        "comment": "Terrible. You cant edit anything. You cant even make new map markers. Completely worthless.",
+        "commentId": "lg:AOqpTOG9i6HIhs_o-ZShgXUl_P-y9r8g8XGgQ6ABUlt-KWBNvNgrwJT4cp0DvDDlBiA2JOTWUdXYIdK8d8FVcqA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.kamoland.mirudake.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

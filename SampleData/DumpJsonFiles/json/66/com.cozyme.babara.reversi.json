@@ -1,0 +1,39 @@
+{
+  "title": "Babara Reversi",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cozyme.babara.reversi",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "August 6, 2013",
+  "version": "1.0.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "10",
+  "rating": "4.9",
+  "contentRating": "Everyone",
+  "creator": "Cozyme",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cozyme.babara.reversi",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The board game of Reversi, also known as Othello is a strategy board game for two players, played on an 8x8 board. The aim is to trap opponent's pieces between your pieces.  When all squares are filled or there are no valid moves, whoever has more pieces, wins.You can play Babara Reversi with a computer or a human.In addition, you can play against your friends over Network or Bluetooth.This game's features include:* One player mode (Human vs Computer)* Two players mode (Human vs Human)* Network multiplayer* Bluetooth multiplayer* Selects a character to play* Automatically save the game data when you quit a game* Four levels of difficulty* Fast computer play* Undo, RedoBabara Reversi is the best addictive free Reversi game!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1369390970170",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Fun pieces, there is bluetooth multiplayer playing.",
+        "commentId": "gp:AOqpTOGBs35aXbER8lAB5YuCYygZBfFh9tJW8bIQVtkyW42-GSPNWiDoD7JYBzwEawX5iW62frfIVfcHa_XS24M",
+        "author": "Adi Chandra Wijaya",
+        "authorURL": "http://lh3.googleusercontent.com/-bQSF2LoOqpU/AAAAAAAAAAI/AAAAAAAAAEw/wdEdiZE_FVQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-bQSF2LoOqpU/AAAAAAAAAAI/AAAAAAAAAEw/wdEdiZE_FVQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH"
+    ]
+  }
+}

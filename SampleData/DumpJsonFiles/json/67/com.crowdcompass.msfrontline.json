@@ -1,0 +1,36 @@
+{
+  "title": "National MS Society Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.msfrontline",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "November 1, 2011",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.msfrontline",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Move to the Frontline and join other leaders of the MS movement in Dallas, November 2-4 at the Hyatt Regency, Dallas Fort Worth Airport The National Conference provides a great opportunity for everyone who is part of the MS movement to come together to share, learn, celebrate and be inspired. Volunteer leaders, activists, researchers and clinicians, team captains, fundraising champions and staff from around the nation will gather for three days of motivating sessions, informative workshops and networking opportunities.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

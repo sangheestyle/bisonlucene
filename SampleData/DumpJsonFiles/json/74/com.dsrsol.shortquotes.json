@@ -1,0 +1,50 @@
+{
+  "title": "Short Quotes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsrsol.shortquotes",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "April 29, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "DSRSOL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsrsol.shortquotes",
+  "extendedInfo": {
+    "installSize": "4.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "There is not a feeling in this world that cannot be expressed in words, with short, cute quotes to help!Now, keep a stack of short quotes ready with you for all purposes and situations, with this Android offering.Explore and choose from different alternatives like:â¢\tshort inspirational quotesâ¢\tshort quotes on attitudeâ¢\tshort funny quotesâ¢\tshort friendship quotesâ¢\tshort quotes about lifeAnd something for almost every situation in life.Whether you are trying to boost somebodyâs morale, or just a collector of quotes from around the world, this is an app you would not want to miss.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.dsrsol.shortquotes.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

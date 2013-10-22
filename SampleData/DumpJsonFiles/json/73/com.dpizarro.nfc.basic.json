@@ -1,0 +1,99 @@
+{
+  "title": "NFC Basic",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dpizarro.nfc.basic",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "October 3, 2012",
+  "version": "2.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "43",
+  "rating": "4.4651165",
+  "contentRating": "Low Maturity",
+  "creator": "David Pizarro de Jesús",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dpizarro.nfc.basic",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "NFC Basic is an application that allows writing and reading data using wireless technology NFC. Allows you to write content following the NFC-FORUM standards, such as: -> Writing URL -> Writing text -> Writing contacts (vCard) -> Writing phones -> Writing sms -> Writing email -> Writing SmartPoster -> Writing application -> Writing map -> Clone tag Also can delete contents of any label.Allows writing tasks for Android phones, such as:-> Enable Wi-Fi-> Enable 3G-> Enable Bluetooth-> View battery information (status, voltage ...)-> Compass!-> Turn on Silent profile-> Turn on a continuous vibration-> Add events to the calendar-> Change screen timeoutIt also includes a new aspect. NFC Basic allows you to create your custom profiles, so you can do some actions in the same time.So, you can create a profile called \"Home\" for example, which will activate at the same time some actions, such as Enable Wifi, Disable Bluetooth , Enable 3G connection, set the Normal Mode and open the application Mobile News . With regard to reading, to read the contents of a label specifying: -> Type content -> Tag content -> Content Size -> Tag Size -> Access Modes of tag -> ID Tag -> Tag Type -> Android Technologies supported by the tagIn the next important version, including new features such as writing multiple records within the same message.Feel free to contribute ideas: dpizarro89@gmail.com",
+    "reviews": [
+      {
+        "timestampMsec": "1351071220518",
+        "starRating": "5",
+        "title": "Super",
+        "comment": "Super app 100% work, very th!!!!",
+        "commentId": "lg:AOqpTOFZW-_KMZLrWt9QOADh_Z2UXtFv7k-MMwuB6idG_QDc2JOHSWoFQTiYzIpLaUk1Yq31zUcykEFHhLLuhA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344774010331",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Thanks for sharing this free application!",
+        "commentId": "lg:AOqpTOEVloXfClinnhecKCKSggkhCL5-ohBaQJ_VHigPnb8CGi7HlLVi-HzkmWukh2W0r7pZrTTSjtJ_BuK4BA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344773364981",
+        "starRating": "5",
+        "title": "Very good!",
+        "comment": "Nice app!",
+        "commentId": "lg:AOqpTOE8gjMpXrBKQzaSbuUA_mqNncFGR29D0WZTJca7PcJmKkngM9rPQ8gN2rWUs9TTW48cC3BOX7nSVrYKgw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344774321512",
+        "starRating": "5",
+        "title": "Nice!",
+        "comment": "Waiting for new updates!Something of music!",
+        "commentId": "lg:AOqpTOHEJ94MCcM_nQbO7ooegwVpf27W9THuLFaZlI-xnDxUp_8USA5R9_oej504NUTWwb_EM5JyBdTUhygAlw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344773546959",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Congratulations to developer.",
+        "commentId": "lg:AOqpTOHm2210F6kw58YTmlGz-AllcQUadj7vwwjf3RyWjouq3YDvKxawwKPTZP-ke6u_l_B0tUSeprDay53WYw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344796341600",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "Useful writers and excellent tag reader showing raw data.",
+        "commentId": "lg:AOqpTOGWHDs3M1iR25_94lJRtKbfyG3ZnXXiwPJIbaKom3QSgcmiE2L29By4AI87bW69iAG32rtnKtWmFuquaw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.NFC",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.UPDATE_DEVICE_STATS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

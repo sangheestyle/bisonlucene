@@ -1,0 +1,32 @@
+{
+  "title": "My Network Details",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chihuahua.android.mynetworkdetails",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 30, 2011",
+  "version": "3.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "chihuahua",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chihuahua.android.mynetworkdetails",
+  "extendedInfo": {
+    "installSize": "57k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Application to view phone and network details. Prototype.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

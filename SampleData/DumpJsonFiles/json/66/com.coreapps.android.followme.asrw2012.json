@@ -1,0 +1,57 @@
+{
+  "title": "ASRW 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.asrw2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 3, 2012",
+  "version": "3.3.4",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.asrw2012",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Automotive Service & Repair Week (ASRW) was created with the overall goal of bringing together buyers and sellers of automotive products and services in one venue that includes both education and trade show activities. As part of this initiative, NACE and CARS co-located to create an industry-wide event that includes both the collision and mechanical segments of the automotive service and repair industry.  ASRW continues to grow and include activities for other organizations' industry segments and events with the goal of creating a \"mega\" service and repair event that will touch all aspects of the automotive service and repair industry.",
+    "reviews": [
+      {
+        "documentVersion": "3.3.4",
+        "timestampMsec": "1349748000165",
+        "starRating": "5",
+        "title": "Perfect!",
+        "comment": "This is a great tool for planning my schedule for the expo. Top notch.",
+        "commentId": "lg:AOqpTOH1XZRJAfOy52L06zaYimORtWWvsp3DfGmCLTV4nq6L-eo8a0p_czgLiktrXM-zjhjqoF47AVnPoHCvvw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

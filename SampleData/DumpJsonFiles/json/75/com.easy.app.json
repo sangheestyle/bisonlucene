@@ -1,0 +1,44 @@
+{
+  "title": "Easy App Lock - Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.easy.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 24, 2013",
+  "version": "1.05",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "2Easy Team",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.easy.app",
+  "extendedInfo": {
+    "installSize": "9.2M",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "50 - 100",
+    "description": "Throughout history, some inventions have changed the world, they have transformed the way we see ourselves and each other, we at Tell Me First have new inventions and have improved on old technology to bring you some amazing products which are going to change the way you think. From our ice cooler, the ice bucket made of ICE to the Ice Jacket for keeping bottle of spirits ICE cold or our Art Glass Radiators to the personal air-conditioning we have amazing ideas and products you will find nowhere else.For great business opportunities and new product ideas we at Tell Me First have a new idea and products for everyone. We are a UK based company of designers, engineers and inventors. Our first major product was called a d-skin, this product gave us the in-site into many designs and from that we have now launched various product. From energy saving to to just fun gadgets. We will be launching new products that will be practical and amazing.",
+    "reviews": [
+      {
+        "timestampMsec": "1360012905361",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Nice products",
+        "commentId": "gp:AOqpTOGekCYw1zHTgWJbgFTpUKEt-wR6UE2RLR1Buu9qOAHJGtQeO0kcmIQ86VmLRsUg9963zUeOo5jj5dgBJxk",
+        "author": "Maya Steadman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.easy.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

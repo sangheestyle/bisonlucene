@@ -1,0 +1,48 @@
+{
+  "title": "Find The Best Mobile Deal",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.findthebestmobiledeal",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "May 22, 2012",
+  "version": "2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "CompareMobileDeals.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.findthebestmobiledeal",
+  "extendedInfo": {
+    "installSize": "318k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Are you sure you got the best deal on your mobile phone? Is your contract due for renewal?Many mobile users are wasting money by paying substantially more than they need to for their mobile phone usage simply because they are on an ill-fitting tariff or purchased a deal that isn't as competitive as others.With this consumer app you can select the most popular mobile phones and then compare mobile phone deals from across the UK to help find yourself the best mobile deal.All mobile phone deals are available for comparison be it monthly contract, pay as you go or sim free deals.Full search functionality is provided so you can refine and compare mobile deals based on your needs; be it deals on a certain network, with a set amount of data allowance or mobile deals with free gifts. Whatever your mobile requirements we have you covered.Provided by leading mobile comparison site CompareMobileDeals.com with the UK's largest mobile price comparison range, this app helps take the effort out of choosing a new mobile deal by allowing you to quickly compare millions of UK mobile phone deals to help you save both time and money.Note. Please be patient while the deals page loads, it may take a while to show but once loaded they will be cached. Best viewed using a Wi-Fi connection. If you have any issues please let us know or visit CompareMobileDeals.com for the best experience.",
+    "reviews": [
+      {
+        "timestampMsec": "1351718625688",
+        "starRating": "3",
+        "title": "Not great",
+        "comment": "Basically this app diverts you to a website, but dies save time finding that website, hence average score.",
+        "commentId": "lg:AOqpTOFCVbPyc1eiWMxMteBFVaSze6RpxzO26HVuQag0wsmAsx2jTtST-SENVz-Vg4S3ElaRlAh7-0aonPw9wgM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337727936573",
+        "starRating": "4",
+        "comment": "Useful",
+        "commentId": "lg:AOqpTOE9ophUpKtPZkC2352AKIsvECUpfRuJlgDc-pAR2_7Gix0zZ8pu6qYHTEbI818rPEut_Ha3nrrE-dnSsro",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

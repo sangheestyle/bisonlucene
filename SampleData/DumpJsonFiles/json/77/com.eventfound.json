@@ -1,0 +1,31 @@
+{
+  "title": "Event Found",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eventfound",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "June 21, 2011",
+  "version": "1.01",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "6",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Araneum Group srl Italy",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eventfound",
+  "extendedInfo": {
+    "installSize": "416k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Con Event Found potrai facilmente e rapidamente organizzare il tuo tempo libero!Tutte le informazioni e le indicazioni per decidere dove andare per un aperitivo, una mostra, un concerto e per migliaia di altri eventi.Lâapplicazione individua gli eventi intorno a te ordinati per distanza dalla tua posizione rilevata dal tuo dispositivo GPS. Eâ possibile selezionare la categoria dellâevento ed anche impostare un indirizzo, un giorno ed un ora differenti da quelli attuali per pianificare la tua giornata nellâarco di un mese. Event Found Ã¨ il primo social network di eventi ottimizzato per dispositivi mobili. Al momento gli eventi disponibili sono relativi allâarea di Roma e provincia, gestiti dalla redazione della rivista Romeing (www.romeing.it). Presto verranno gestiti gli eventi di altre cittÃ , grazie anche al contributo degli utenti.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Bus Stop Toledo FREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cicsystems.paradastoledo",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "March 30, 2012",
+  "version": "1.18",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "23",
+  "rating": "3.7826087",
+  "contentRating": "Low Maturity",
+  "creator": "CIC S.L.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cicsystems.paradastoledo",
+  "extendedInfo": {
+    "installSize": "197k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This application, in beta, lets you see the prediction of arrival of buses tobus stop in our vicinity.Using the current location will show the closest bus stops, the lines that pass through itand the estimated time of next bus on each of them.Ver 1.04  Better battery use.  refresh times.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

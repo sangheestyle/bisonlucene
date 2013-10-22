@@ -1,0 +1,45 @@
+{
+  "title": "Flash Forward",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flashforwardapp.www",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "June 9, 2013",
+  "version": "1.0.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "milab@IDC, Israel",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flashforwardapp.www",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Flash Forward is a great way to combine the present with the future. Via Augmented Reality, the app enables you to experience confirmed construction plans, by integrating building simulations with the existing city landscape.",
+    "reviews": [
+      {
+        "timestampMsec": "1370555376472",
+        "starRating": "5",
+        "title": "Wow!",
+        "comment": "Really cool concept!",
+        "commentId": "gp:AOqpTOEhXDujgK2q6GHk7d4Wvo8lt36f46e9RDkVjvE3I1Je8FX7x76TpOSk9C6q-kpuwfdHDGOE18WpCOsQkl8",
+        "author": "Alex Man",
+        "authorURL": "http://lh5.googleusercontent.com/-3Dgcu4YDXSM/AAAAAAAAAAI/AAAAAAAAAFk/dmoZ17lg2WY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-3Dgcu4YDXSM/AAAAAAAAAAI/AAAAAAAAAFk/dmoZ17lg2WY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.flashforwardapp.www.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_GPS",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

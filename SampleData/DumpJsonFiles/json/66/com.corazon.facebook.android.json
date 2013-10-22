@@ -1,0 +1,32 @@
+{
+  "title": "Send a heart",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.corazon.facebook.android",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "November 25, 2011",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Alexandre J.G",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.corazon.facebook.android",
+  "extendedInfo": {
+    "installSize": "206k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Send a heart to your facebook friends.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

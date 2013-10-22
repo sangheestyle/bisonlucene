@@ -1,0 +1,38 @@
+{
+  "title": "Knitting Wool Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.devling.apps.kwc",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "November 21, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Devling",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.devling.apps.kwc",
+  "extendedInfo": {
+    "installSize": "58k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Free calculator to work out the number of balls you will need for a pattern, if the only balls available to you are of a different length to that specified in the pattern.",
+    "reviews": [
+      {
+        "timestampMsec": "1326327015042",
+        "starRating": "5",
+        "title": "Very helpful",
+        "comment": "Love it. I\\'m always substituting helps me when I\\'m shopping!",
+        "commentId": "lg:AOqpTOGxc5v4o0ComA13pGHeGTcuSxjSPKFyRQRquhauwsgPl1XGE7DTDIpD0mJ5qI9QstcSJsV6r9F6JM5eQw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

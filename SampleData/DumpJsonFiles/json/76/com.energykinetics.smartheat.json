@@ -1,0 +1,32 @@
+{
+  "title": "SmartHeat",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.energykinetics.smartheat",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 3, 2013",
+  "version": "2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Energy Kinetics",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.energykinetics.smartheat",
+  "extendedInfo": {
+    "installSize": "13M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "AFUE labeling of heat and hot water appliances alone fails to indicate actual annual performance.  SmartHeatâ¢ estimates the deep energy saving potential possible with a system upgrade using United States Department of Energy Lab studies and calculation methods for combined heat and hot water systems.  Upgrades over AFUE alone include estimates of the impact of high efficiency controls, thermal purge, oversizing effects, idle loss, hot water efficiency, and estimates of chimney and draft related losses.This app is not for consumers.  Requires a dealer ID number and authorization from Energy Kinetics, Inc.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

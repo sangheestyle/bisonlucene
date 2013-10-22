@@ -1,0 +1,39 @@
+{
+  "title": "The Eye Care & Surgery Center",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.JeretteLerner_74",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "October 15, 2011",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.JeretteLerner_74",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Eye Care & Surgery Center has been providing premier patient care and outcomes through the most advanced medical and surgical procedures available, for over 38 years. Our experienced physicians are among the most highly skilled in the Metropolitan area. Their commitment to excellence has established our practice as a recognized center of superior patient care coupled with a premium patient experience.Our board-certified, fellowship trained ophthalmologists, each with a mastered sub-specialty, are supported by a skilled team of ophthalmic technicians, nurses, surgical care specialists, licensed opticians and administrative staff. Together, we are committed to providing you the very best in customized eye care.The Eye Care & Surgery Center is a full-service ophthalmologic practice.  For your convenience, we provide the following procedures and surgeries at our state-of-the-art facilities:A Center of Excellence - * Bladeless LASIK laser vision correction * Cataract Surgery* General eye examination and vision testing* Laser surgery of the eye* Contact lens fitting, including specialty & custom lenses.* Glaucoma evaluation, treatment and laser surgery* Oculofacial plastic surgery (eyelids, under-eye, lifts, etc.)* Cosmetic treatments and fillers (Botox, Restylane, Juvederm, Sculptra)* Retinal Disease evaluation & treatment* Pediatric eye care* Intraocular lenses - premium lens implants that can reduce or eliminate the need for all glasses or contact lenses and achieve BOTH near and far vision.* Toric lens implants for patients with astigmatism* Advanced lens technologies for nearsighted patients who may not be candidates for LASIK.* Amblyopia and Strabismus procedures (pediatric & adult)* Superior optical shop with complete selection of prescription eyewear, sunglasses, designer brands and vision accessories.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.cloudninedevelopmentllc.JeretteLerner_74.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Beauty and the Beast (MULTI)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.collection.multi.bellabestia",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 18, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "PlayTales Books",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.collection.multi.bellabestia",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "** Can a beautiful girl truly fall in love with a horrible beast? **Playtales is excited to add to its catalogue one of the most popular classics of childrenâs literature, âBeauty and the Beastâ.The story beautifully reiterates once again that true beauty lies within, beyond oneâs mere physical appearance. ItÂ´s full of colorful illustrations that will inspire even the youngest of children, thanks to the many interactive elements and sounds incorporated into every page.  For children 8+.  Add it to your collection today!This beautiful love story between a sweet, gentle young girl and terrible Beast posses a great question:  Is the Beast truly so terrible?  Behind his intimidating appearance hides a huge heart and great tenderness for his new love.But this classic tale of love doesnât start perfectly.  The Beast, isolated from the others, imprisons a merchant who is searching for a rose for one of his daughters.  The merchant becomes ill and must return home, but not without his daughter sacrificing herself in his place.  Thus starts the curiously endearing story of love between Beauty and the Beast.Additional features:Â· Multilanguage (English and Spanish)Â· Interactive surprises guaranteed!!Â· 12 pages of colorful, child friendly graphics.Â· Story narrationÂ· Exciting sound effects and original music!Â· Option to âRead by myselfâ or âRead to meâ and âAutoplayâÂ· For ages 8+.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.collection.multi.bellabestia.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_TASKS",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

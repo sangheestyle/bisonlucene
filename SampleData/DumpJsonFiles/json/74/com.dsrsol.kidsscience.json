@@ -1,0 +1,64 @@
+{
+  "title": "Kids Science",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsrsol.kidsscience",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 20, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.0",
+  "contentRating": "Medium Maturity",
+  "creator": "DSRSOL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsrsol.kidsscience",
+  "extendedInfo": {
+    "installSize": "4.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Kids often love science. To make the subject even more interesting for the kids, we are here now with a real stunning kids science android app that will help you know on various kids science projects.Some of the great features of this app are mentioned below.â¢\tThe app provides you with up to date information on kids science human body.â¢\tMany articles and blogs related to kids science projects for school are linked directly to the app.â¢\tThe app gets in touch with you the entire kids science encyclopedia.â¢\tMany picture and video presentation on various science topics make the app more interesting.DISCLAIMER: The content provided in this app is collected using Feeds and Videos are hosted by YouTube and all are available in public domain. We have not uploaded any videos to YouTube. Apps are fetching the data from RSS feeds of different sites.This app provides an organized way to browse, read contents and watch YouTube Videos.",
+    "reviews": [
+      {
+        "timestampMsec": "1369927709451",
+        "starRating": "5",
+        "comment": "It is really good!",
+        "commentId": "lg:AOqpTOHOIDwNNrsj261spBTp10LWkytq83JGLozZkv-tyrxsxi1Wk7JUVUiazhQKqdr4uUy7NPEGFs_t-Z87G4s",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371361080135",
+        "starRating": "1",
+        "comment": "And",
+        "commentId": "gp:AOqpTOFJq_J459-EBoy7jhTww88UdD_3H91wpv0YTpmmGrsZ8ZZiz-QE1ZvpXhKPkTTirGEQVvdDcSqPyMGfLR8",
+        "author": "Kervin Paul Manzano",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.dsrsol.kidsscience.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

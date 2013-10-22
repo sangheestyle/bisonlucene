@@ -1,0 +1,49 @@
+{
+  "title": "Emergency Alert",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emergencyAlert",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 4, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "3.6",
+  "contentRating": "Low Maturity",
+  "creator": "Country Tryst",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emergencyAlert",
+  "extendedInfo": {
+    "installSize": "62k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Emergency Alert app is the most efficient way to notify your friends and family in case of an emergency. After setting up the app,  when in the emergency mode, it can send your GPS information to a selected number of contacts through text message with little or no interaction.Two methods are used for triggering the emergency mode:1) At any moment you can provide two matching incorrect patterns (check out the screenshot with 9 circles) which triggers the emergency mode after a short delay.2) After any interval of your choice, the app will ask you to check in using your customized pattern code. If you successfully checked-in by inputting the correct pattern twice) the app will keep you checked-in for the next couple of hours. If you do not check-in, the app sends a new notification every half an hour for two hours. After two hours the app goes to the emergency mode.When app is in the emergency mode, the app sends your GPS location to your selected contacts every half an hour until you check-in again.Notes:The app starts running on the background as soon as you turn on your phone. Please read the instruction if you need to disable the app.Some phone service providers might charge you for sending text messages, so please check with your provider.One time setup instructions:1) Use the âChange/Create PassPatternâ button to setup a check-in pattern. Any pattern with three or more circles is acceptable. The order of selecting the circles is important, use a pattern that you can easily remember.2) Use the âEdit Emergency Contact Listâ button to add/remove new emergency contacts from the phone contact list.3) Select the start time using the âSet Start Timeâ button. The time can be in the past or future, the app finds the closest check-in time based on the start time and the interval.4) Select how often you want to receive check-in notification from a list of numbers.5) You can disable the app by selecting the âdisable permanentlyâ. For security reason this will not take effect until you restart the phone.6) You can enable/disable sound and vibration for the check-in notifications.7) When you receive the notification, you can check in by clicking on the notification bar and providing the correct pattern twice. Providing two incorrect matching patterns or not checking in for 2 hours from the check-in time will trigger the emergency mode. This mode enables the app to send GPS information to the emergency contact list every half an hour.8) To cancel the emergency mode go to the application, click on the âCheck-inâ button, and provide the correct pattern two times.Example:1) You are in emergency situation, open the application, select check-in and provide two matching incorrect patterns.2) A normal setup would be for a low risk routine activity. For this case you can setup the app to check on you at 6pm (a time that you are usually back at home). In this case you can set the intervals to 24 hours. With this setup the app checks on you every day at 6pm.3) If you are going for a mountain climbing or going to a night club. You can setup the phone to check on you every 2 hours starting at 8pm.Feedback:Please let me know if you have any suggestion or if something is not working properly.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1303858355606",
+        "starRating": "3",
+        "comment": "I think adding an option to instantly send an alert message with custom text followed by the automatic 30 minute updates would be great.",
+        "commentId": "lg:AOqpTOFZu4Cjk8JpdNKTWB-ZM0Vipz2kAOHMpMdJZ-hi-S-E-ctBf5fhN5twAeB7PpI7xRC2KjzoSFmyUYQJNQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1303069379190",
+        "starRating": "5",
+        "title": "Re Josh",
+        "comment": "Josh, thanks for the comment. I fixed the bug with GPS I\\'d like to know if there is something you want me to change/add.",
+        "commentId": "lg:AOqpTOGXUAYDOtNYoLLJqzVwXClGh68ieZjHH0D_DxUX_IqUVpXapLFo_OeXoe6UhWV7_0-0hRD4A2T46YuyYw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

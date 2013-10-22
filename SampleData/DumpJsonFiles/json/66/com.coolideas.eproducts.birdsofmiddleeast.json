@@ -1,0 +1,43 @@
+{
+  "title": "Birds of the Middle East",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coolideas.eproducts.birdsofmiddleeast",
+  "category": "Books & Reference",
+  "price": "$29.99",
+  "datePublished": "March 27, 2013",
+  "version": "1.0.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "mydigitalearth.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coolideas.eproducts.birdsofmiddleeast",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "The eGuide to Birds of the Middle East is an interactive companion to the Birds of the Middle East field guide â the comprehensive guide for birdwatchers visiting the region. It covers Turkey, Cyprus, Syria, Lebanon, Israel, Jordan, Iraq, Iran, the Arabian peninsula and Socotra. This application has specific features that will enhance your birding experience.NB: Please note that an additional download of 164MB is required once this app has been installed. Please ensure you use a WiFi connection to prevent additional data costs.FEATURES:- Hi-res images, distribution maps and detailed text descriptions of over 800 bird species including breeding species and regular visitors. These images can be expanded to fill the entire width of the screen in portrait and landscape.- Audible calls for more than 400 bird species- \"Bird Compare\" that allows you to compare two birds on the same screen.- A personal bird list that stores your bird sightings saved to the device that can then be exported to your storage card and through email.- View the Bird Index by Common or Scientific bird names either alphabetically or taxonomically.* Uninstalling the program will result in the loss of your list, it is recommended that you keep your own master list separate from the program.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1364292559565",
+        "starRating": "4",
+        "title": "Excellent Support",
+        "comment": "I was the user to find out it this app didn\\'t like Jelly Bean, but the communication and support and rapid fixes was exceptional by digitalmedia There is Possibly still an issue with complete JB compatibility (hence 4 stars), but it seems fairly stable on 2 out of 3 of my devices and I am confident mydigitalmedia will address.  Now I can at least identify the birds I\\'m seeing on my working trip to Dubai. Special thanks to Dianne and her excellent communication.",
+        "commentId": "gp:AOqpTOEXun-iosA5rV3gB8ZY7AgIqXrpnv1v1rJnJMccrCT3YGo7CPDx4qdbebpFFoJ7Ei8GrINkilGpL8LXVs8",
+        "author": "Bob Dunn",
+        "authorURL": "http://lh5.googleusercontent.com/-I5oVfnFkBQc/AAAAAAAAAAI/AAAAAAAAFt4/abQn3LTSF-8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-I5oVfnFkBQc/AAAAAAAAAAI/AAAAAAAAFt4/abQn3LTSF-8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

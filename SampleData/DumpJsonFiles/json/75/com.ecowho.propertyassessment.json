@@ -1,0 +1,52 @@
+{
+  "title": "Property Search Organizer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ecowho.propertyassessment",
+  "category": "Lifestyle",
+  "price": "$2.57",
+  "datePublished": "August 18, 2011",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Aykira",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ecowho.propertyassessment",
+  "extendedInfo": {
+    "installSize": "238k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Buying a house for sale or renting a flat? Planning to buy or rent a house? This organizer will be of use to you, it provides a handy way to collect and maintain details of realty for sale as you do your searching and appraisal of the real estate market. No more lost notes or phone numbers, unreadable scribbles, missed appointments or mixed up photos of property.Property Assess literally is a property search organizer in your pocket!Key Features of Property Assess:  * Import key details off property listing web sites or emails; do not be tied to any one property provider. Keep all your property info in one app and stay in control.  * Per room enter notes, take photos or voice recordings  * Add, remove, change or rename rooms as you see fit  * Rate the property and each room  * Email your findings to friends and family  * Property zip file export/import via email, easily share all the photos and info. Allows collaborative working.  * Set appointments and sync to your calendar  * One click agent call or email  * Works if buying or renting property  * Built in mortgage/costing calculator  * Map integration - see the Property on Street View  * Does not require network access to view property details, held in local phone side database, this ensures your privacy as well.  * Built in resource directory of useful articles and sites  * Full instructions built inWe think Property Assess would be extremely useful to:  * property buyers,  * property investors,  * real estate inspectors and appraisers,  * architects, designers, builders and contractorsShown to work in USA, Australia and UK markets.Property Assess is under constant refinement and all updates are free after initial purchase.Half price until 11th May!!Keywords: property assessment, property assessor, rental properties, property valuation, property management",
+    "reviews": [
+      {
+        "timestampMsec": "1334578602616",
+        "starRating": "4",
+        "title": "Great tool",
+        "comment": "An asset to any budding home owner or investor",
+        "commentId": "lg:AOqpTOE4lsdcLdri8VIU69J3BCeXBmcpKjpBYtMbSvmXRlBsnrCRS60KpUBcsnYuaYz7zj4iyyc6a4vo7wpndOU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338172031211",
+        "starRating": "4",
+        "comment": "seems useful enough.",
+        "commentId": "lg:AOqpTOF5rzU9boBcR2YlLxvPZzeUiuuIhXovhLdrYgVFmDe3lHko1H8jpGdmB_z5dGoDer9LHLYiX4z5ePoSwXE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

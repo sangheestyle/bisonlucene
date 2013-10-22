@@ -1,0 +1,39 @@
+{
+  "title": "Will Hoge Mobile App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_66a6c9d803c24c769aba03470a7db8e3.app",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "September 8, 2011",
+  "version": "1.1.4.4131",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "CountryWired",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_66a6c9d803c24c769aba03470a7db8e3.app",
+  "extendedInfo": {
+    "installSize": "1,005k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official app of Will Hoge. Get the latest tour dates, news, tweets merchandise and more!Truth be told, Hoge has sold quite a few albums on his way to regional and national fame, and heâs been moving people on stage for well over a decade. Itâs what he does. Heâs an artist people see over and over again, because every show is unique and gripping. His songs, while not cheerful on the surface, have the cathartic power of the blues for their recognizable human situations. And then thereâs the voice â like a human Hammond B3 â clear here, rough there and drenched with dynamics and soul. Heâs blazed brightly without going off the rails and heâs grown as a songwriter. Heâs survived and thrived through endless miles in vans and busses, landing and unraveling a mainstream record deal as well as a life-altering scooter accident. If, as we read in Rolling Stone and elsewhere, Nashville has finally landed on the national rock and roll map, Hoge has been there all along.Learn more at WillHoge.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_66a6c9d803c24c769aba03470a7db8e3.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

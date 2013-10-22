@@ -1,0 +1,32 @@
+{
+  "title": "Phone Plan Widget",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coderect.planrect",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "December 26, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "CodeRect",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coderect.planrect",
+  "extendedInfo": {
+    "installSize": "220k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is a simple widget to keep track of your monthly phone plan. As I wanted to keep it as simple as possible, the settings are quite limited. Let me get this straight - it may just not cover your phone plan because so many different ones exist. To extend these limits though, you are able to exclude entries from the calculation within the log.Additionally you can customize the colors of the widgets.I just want to say this one more time and please keep it in mind. Due to the nature of the underlying infrastructure the information might be inaccurate or simply wrong.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_SMS"
+    ]
+  }
+}

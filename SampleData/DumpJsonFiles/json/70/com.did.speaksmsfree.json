@@ -1,0 +1,45 @@
+{
+  "title": "Speak My SMS Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.did.speaksmsfree",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "July 27, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Dry Ice Droid",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.did.speaksmsfree",
+  "extendedInfo": {
+    "installSize": "734k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you want to hear and reply to your text messages without touching your phone? Speak My SMS will read your incoming messages based on easy to configure settings. Using a very simple easy to use interface, you can set conditions for when you want the app active.The free version has a limit of 8 SMS messages. Purchase the full version to unlock all the features and support development.Features:- CONDITION BASED: Ability to set up conditions for when the app is active.- BATTERY EFFICIENT:  Drains little to no battery. Does not run until you receive a text message.- CUSTOMIZABLE: Change the way Speak My SMS works with many customizable features.â Hear incoming SMS sender and messageâ Reply to message easily with speech recognitionâ Hear caller name/phone number during incoming phone callsâ Self activation based on headphones, Bluetooth, music, USB power, and screen state.- Speaks and accepts speech via Bluetooth headsets- Works great with music and videos- Easy to use quick toggle widget (Full Version Only)- Supports SMS encryption app, TextSecure- Great solution for answering an important text while driving.- Low memory and system resource usage- In call detection- Smart and very easy to use- A perfect driving assistantCompatible with other messaging apps like GoSMS, Chomp SMS, and Handcent SMS.Don't want to deal with any settings? Don't worry! Just press the start button and the app will take care of the rest.If you use Go SMS for your SMS messaging, make sure the \"Disable Other Message Notification\" setting is disabled.I care about your privacy as much as I care about mine. Speak My SMS does not have any internet permissions and your personal data will not leave your device.Many more features are coming soon!",
+    "reviews": [
+      {
+        "timestampMsec": "1373051474980",
+        "starRating": "5",
+        "title": "Very useful",
+        "comment": "I love this app. I full version was definitely worth it.",
+        "commentId": "gp:AOqpTOH8Y_tUOmvCX0z3KbtdFAmnlX9yd2Nq-mziLp8V57iCgmxKzK20QK26A978IGk7-XlqV0iKSfeaFlGJ6Sc",
+        "author": "Ashley Welser",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.BROADCAST_STICKY"
+    ]
+  }
+}

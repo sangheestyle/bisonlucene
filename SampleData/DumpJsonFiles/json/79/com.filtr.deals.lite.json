@@ -1,0 +1,38 @@
+{
+  "title": "Filtr Deals",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.filtr.deals.lite",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "1.9.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "FiltrSoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.filtr.deals.lite",
+  "extendedInfo": {
+    "installSize": "847k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Custom online deals monitoring app.Using keywords that you set, Filtr Deals will \"filter\" deal sites for your keywords, making it easier to find articles you are interested in reading.There is a \"pro\" version available with additional options and no ads.Features:* Filter online deals using keywords* Automatic updates and alerts* View/add recent and popular keywords* Tablet optimized layout* Lightweight (~600KB installed)* Move to SD* Assign sites per keyword* Set keywords to exclude* Save articles* No adding and maintaining RSS feeds.* Control the sites you want to monitor* Shake to filter* Read articles offline (pro version)",
+    "reviews": [
+      {
+        "timestampMsec": "1326084817284",
+        "starRating": "5",
+        "title": "Works",
+        "comment": "Great!  Except after latest update... doesn\\'t work.  Ha ha",
+        "commentId": "lg:AOqpTOFFqeWfRFdXvQExgVntJtmhcCKYG01sPgYjWPddH-kV-9t5xwKrviviAhlrO3f4vBpKZY83UmVgRku0-5Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Chief Learning Officer mag",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clo.clo",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "December 19, 2012",
+  "version": "2.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "MediaTec Publishing Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clo.clo",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Chief Learning Officer magazine is the foremost business resource for senior executives in the workforce learning and development industry, providing access to reliable information and insight into trends and developments in organizational development, strategy, employee training, leadership development, succession planning and instructional technology.Features:â¢\tEvery issue is push notified right to you if enabled. â¢\tAccess up to 3 months of back issues. â¢\tReal time feed of articles from the editors of Chief Learning Officer magazine and featured blogs. â¢\tBuilt-in support for Facebook and Twitter so you can share valuable information via the magazine editions or share via email through the application.â¢\tSave and bookmark articles for easy reference. â¢\tEasy to navigate indexing and search functionality.Chief Learning Officer magazine is part of the Human Capital Media Group, a division of MediaTec Publishing Inc., which is a leading integrated media company serving the human capital, management and workforce development industries.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

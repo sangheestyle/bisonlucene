@@ -1,0 +1,69 @@
+{
+  "title": "2013 AIA National Convention",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aia2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "June 13, 2013",
+  "version": "4.2.5.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "The American Institute of Architects",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aia2013",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The 2013 AIA convention app is the official application of the 2013 AIA National Convention and Design Exposition held July 20-22, in Denver. Use the app for complete show information during the AIA Convention: download or view your schedule, search education and tour opportunities, find valuable links to exhibitors, browse city attractions, meet the sponsors, and more. Building Leaders: Leadership for Architecture â Leadership beyond Architecture.",
+    "reviews": [
+      {
+        "documentVersion": "2.5.9",
+        "timestampMsec": "1372372422889",
+        "starRating": "3",
+        "title": "Okay, not all there yet.",
+        "comment": "Great concept, not the greatest implementation. Slow to start up and download updates. Frequent crashes when on a poor internet connection. Clunky \\\"add friends\\\" interface. Should be able to sync to phone\\'s calendar. Unclear that \\\"add to address book\\\" was going to the phone\\'s address book, not something within the app.",
+        "commentId": "gp:AOqpTOEn60QHapN9gWD_-86Dk_viY2v3mw029qRRodez7pysjxezDD6bi4-T9g6Ah4Ypxm4NYbTZbfwFk_nBvg",
+        "author": "Ian Roth",
+        "authorURL": "http://lh3.googleusercontent.com/-lfdPKJhhRnc/AAAAAAAAAAI/AAAAAAAAKBc/IQNzlgS_Jrc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-lfdPKJhhRnc/AAAAAAAAAAI/AAAAAAAAKBc/IQNzlgS_Jrc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371658728871",
+        "starRating": "5",
+        "title": "Enjoying the app",
+        "comment": "Great idea, much more convenient than paper!",
+        "commentId": "gp:AOqpTOGOMW2QHWFglns1ydNsq63gQCBjZYI6aLOUsPaCHXy_3eBYTCXHUX54gd_bxeZkmBdWjPHgOfDeiTnQJQ",
+        "author": "Enoch Sears",
+        "authorURL": "http://lh4.googleusercontent.com/-4kqcleWw08Q/AAAAAAAAAAI/AAAAAAAAAoU/8uk35UfhAZg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-4kqcleWw08Q/AAAAAAAAAAI/AAAAAAAAAoU/8uk35UfhAZg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.aia2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

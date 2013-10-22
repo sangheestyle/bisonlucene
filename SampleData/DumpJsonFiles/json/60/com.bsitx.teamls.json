@@ -1,0 +1,76 @@
+{
+  "title": "Team LIVESTRONG Challenge",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bsitx.teamls",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "August 8, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "6",
+  "rating": "3.8333333",
+  "contentRating": "Low Maturity",
+  "creator": "Brilliant Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bsitx.teamls",
+  "extendedInfo": {
+    "installSize": "5.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The official mobile application for the Team LIVESTRONG Challenge Series including events for Davis, CA, Philadelphia, PA, and Austin, TX. Features include: participant tracking, weekend event schedule, interactive course maps, Team LIVESTRONG blog feed, and much more.",
+    "reviews": [
+      {
+        "timestampMsec": "1375300808479",
+        "starRating": "3",
+        "title": "Philly Event has 2012 info",
+        "comment": "Just downloaded this app. The info for the Philly event (schedule and maps) is all for the 2012 challenge event even though the web site said all info was updated for 2013. The event is less than 3 weeks away. -2 for that. The only way it kept 3 stars was hoping that tracking works.",
+        "commentId": "gp:AOqpTOFMOgOBqPYR0PW6ecVfDo2X5VH6WIh5CpOo4YPI8ehkcNNzYEmWSa-7M5BU5JcyuKKH0OKeQSSkjdl7FGU",
+        "author": "Gordon Uchenick",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341417238557",
+        "starRating": "4",
+        "comment": "The tracking worked great!  -1 star for the buttons being a little tough to click (evo 3d).",
+        "commentId": "lg:AOqpTOFfLasJWtu0r3WvbIMG-Qj5kZjpQdZpb9iAzGsTGry6cg7gqHKzkGFqq1pmO6DHtmksONlEUXb0Iy8qXLI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340305998220",
+        "starRating": "5",
+        "title": "Will Try",
+        "comment": "Maybe this will due in place of me actually being at the event since I am not able to make it.  Donated to Team ITM America and will be tracking them. Go Chris!",
+        "commentId": "lg:AOqpTOEPNwVobmfm7vksr6yebJLILftYxblQcNkvS2Cf0uEVE7lcP1-ErSjLutuzWy0Fw8Klw7wJrH0WWKQ20kM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340293785852",
+        "starRating": "5",
+        "title": "This is going to be great!",
+        "comment": "Assuming this works, it will be very handy for my family to be able to track our ride! Thanks!",
+        "commentId": "lg:AOqpTOEfpUhufWBooUpyGAQgJ7YAsFE3bfgXFd_FVpdbTL1ZWi2LglVMK_wt0DywNtGWzzUtdkJBIPjgdjgot3g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347851045124",
+        "starRating": "1",
+        "title": "glitchy",
+        "comment": "i can\\'t rate something that doesn\\'t work on my Samsung galaxy s2.  tried entering bio and it doesn\\'t go anywhere.",
+        "commentId": "lg:AOqpTOGftLubb9OUCmHReNS9WC0WkQo16GR0qgi_bqz6cv9nJEsoFfW0l3EA1W7UNB2f7hxbUr8bHSglbAXHQQA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

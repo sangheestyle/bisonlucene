@@ -1,0 +1,60 @@
+{
+  "title": "TCEA 2013 Convention",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tcea2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "February 4, 2013",
+  "version": "4.1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "2.5",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tcea2013",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "At the TCEA 2013 Convention & Exposition, enjoy more than 400 sessions and hands-on workshops.  With exhilarating keynotes and content experts presenting on the latest tools and techniques in the field, the 2013 Convention & Exposition will capture the hearts of tech-loving and tech-learning educators.Explore new technology solutions through the  900+ booth exhibit hall and be sure to stop by one of the interactive lounges open daily from 9:00 to 5:00pm to network with fellow conference attendees, colleagues and exhibitors.",
+    "reviews": [
+      {
+        "documentVersion": "3.8.5",
+        "timestampMsec": "1359944311770",
+        "starRating": "4",
+        "title": "Best conference app I have used",
+        "comment": "Great conference app. I wish all conferences I attended used this app. Multi-device sync is a nice feature & works across platforms. If I could search for sessions across all days instead of individual days it would be 5 stars.",
+        "commentId": "gp:AOqpTOFhuJ5PHQ53yOeoi_qj47bUIzGtYL2OeHRErGMiQn70YMQ2ObKluJ9jMgGrLMCRWSEf0cKzuSNkEWaW0VA",
+        "author": "Trent Moehlman",
+        "authorURL": "http://lh4.googleusercontent.com/-r65bDHZMDUg/AAAAAAAAAAI/AAAAAAAACmc/NKeurHswqRM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-r65bDHZMDUg/AAAAAAAAAAI/AAAAAAAACmc/NKeurHswqRM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.tcea2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

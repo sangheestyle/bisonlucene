@@ -1,0 +1,44 @@
+{
+  "title": "Hospital Charge Capture",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doctus.hccapp",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "July 18, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Rama Krishna Tummala",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doctus.hccapp",
+  "extendedInfo": {
+    "installSize": "667k",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "Hospital Charge Capture provides mobile based medical billing services. Doctors and clinical staff use the app on their mobiles in performing several activities including capture of patient information, record the charges for that day, schedule appointments, etc.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Sell Books Kansas",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.kansas",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 11, 2011",
+  "version": "1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "CutCom Software, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.kansas",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Sell your used textbooks to the University of Kansas Bookstore (KU Bookstore) using this instant price quote app! It allows you to scan the barcodes of books that you'd like to sell using your phone's camera. You'll find out instantly how much we'll pay you for your used books. Please note: This application is able to use your camera to scan barcodes, however the camera on IPod Touch doesn't have the resolution to capture barcodes reliably. But, you can always type in your ISBN. This app was developed by CutCom Software Inc. on behalf of the University of Kansas Bookstore. If you have any trouble, please let us know!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

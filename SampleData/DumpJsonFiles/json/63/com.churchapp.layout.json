@@ -1,0 +1,39 @@
+{
+  "title": "The Vineyard Church",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.churchapp.layout",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 16, 2012",
+  "version": "1.161",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "GoMobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.churchapp.layout",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This App enables you to be up to date with your vinyard church wherever you may be and puts all of the churches pod-casts at your fingertips!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.churchapp.layout.permission.C2D_MESSAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

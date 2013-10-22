@@ -1,0 +1,37 @@
+{
+  "title": "Lucky Boot",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emily.apps.luckyboot",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "August 1, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "2.4",
+  "contentRating": "Everyone",
+  "creator": "emily",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emily.apps.luckyboot",
+  "extendedInfo": {
+    "installSize": "866k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Well...the goal of this funny game is to throw your shoes at the president. And he is pretty good at dodging!Cursor to aim, press the mouse button to throw a shoe!You have come to interview a politician, and he has always eludes the answer? Throw in his shoes and get points.I will give you a hint, it is about a president and a boot. (Ok, two hints.) You remember the story now, right? It is still fresh in my memory like it happened yesterday. I remembered I laughed and laughed till tears welled up in my eyes. (He is the only politician who has power to move me to tears.) Unfortunately, the owner of the boot was thrown into prison, but you donât have to suffer the same fate and at the same time enjoy the fun! Play this creative and memorable game Lucky Boot presented to you with great pleasure by our also super creative and memorable ! You can have double even triple fun! (This poor man only got two shoes, but we give you a lot more!) Still having the regret that it lacked a little accuracy and speed to be more memorable? Not anymore! This cute game offers you training shoes, regular shoes and jack shoes to complete the mission! (The more destructive the shoes are, the more points you got!) cursor to aim . One more thing, âJesus Christ, this man is quick!â(This was the first impression I had when I watched the news.) Yes, he is really quick! And he provokes you too! So no need to be sorry, he asked for it.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_LOGS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

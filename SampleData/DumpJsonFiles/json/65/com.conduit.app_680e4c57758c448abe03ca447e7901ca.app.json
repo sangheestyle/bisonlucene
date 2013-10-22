@@ -1,0 +1,39 @@
+{
+  "title": "Minnesota Hotel by Lost Travel",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_680e4c57758c448abe03ca447e7901ca.app",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 16, 2011",
+  "version": "1.3.10.1404",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Lost Travel",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_680e4c57758c448abe03ca447e7901ca.app",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "If your traveling or live in Minnesota and looking for a hotel this is the app for you.  Locations include hotels near the Mall of America, Downtown St. Paul and Minneapolis, and more.  So don't wait download this app and get great deals at locations in Minnesota!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_680e4c57758c448abe03ca447e7901ca.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

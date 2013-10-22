@@ -1,0 +1,40 @@
+{
+  "title": "FAO Knowledge Forum",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cattid.fao_kf",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "September 3, 2012",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "C.A.T.T.I.D. - Università \"Sapienza\"",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cattid.fao_kf",
+  "extendedInfo": {
+    "installSize": "448k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mobile app for Knowledge Forum of the Food and Agriculture Organization (FAO)",
+    "reviews": [
+      {
+        "timestampMsec": "1346695582793",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Perfect",
+        "commentId": "lg:AOqpTOE8sh1xOXgmOw3-pzpWzCZBLO2W-Cg1dWEEaA57pyfm7RBOOhd1n3qgA45MQoXPkAZjs5-bLrLEn_7UZw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.cattid.fao_kf.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Falcon Customer Service",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.falconjet.mobile.osg",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "June 6, 2013",
+  "version": "4.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dassault Falconjet Corp.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.falconjet.mobile.osg",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "New app puts Falcon Customer Service at Operatorsâ fingertips: Falcon Customer Service has launched a new app for mobile and tablet users: The Falcon Customer Service app puts global resources at usersâ fingertips, and offers instant touch-call features for its AOG Hotlines, Technical Center, Spares, Field Service, and more. The app is compatible with the iPhoneÂ®, iPadÂ® and Androidâ¢ phones and tablets. Development for use with WindowsÂ® phones and tablets is currently in progress. The team responsible for development of the app plans to update it regularly and continually enhance its content and capabilities. For example, the first update to the app will include a map view of Field Service coverage and contacts, as a complement to the list view and information currently provided. Dassault Falconâs Customer Service app includes:â¢\tAOG Hotlinesâ¢\tField Service Contactsâ¢\tService Centers â searchable by location or by Falcon aircraft modelâ¢\tFalcon Pilot Contact â¢\tSearch for nearestâ¦(Service Centers, Reps, more)Depending on usersâ device settings, updates will either be automatic or an alert will be sent to users in order for them to install the updates. Users who download and experience the app are welcome to provide feedback to Falcon Customer Service via: customer.service.communications@falconjet.com",
+    "reviews": [
+      {
+        "timestampMsec": "1374163576096",
+        "starRating": "2",
+        "title": "Almost Good",
+        "comment": "I have always stood in awe of Dassaut\\'s use of leading edge of technology and at the same time been frustrated at how difficult they make it for their customers to use it.  This app doesn\\'t allow text to be enlarged so an AvManager over the age of 14 can read it.",
+        "commentId": "gp:AOqpTOFa8PseLOlFq6n9OuoThGpiuIe6ft9Ou1pHcqjojKAl7KSdc46tMo698kmWq6Ip4Fk5o7rIUYvjSSy_",
+        "author": "DesertJet FlightDepartment",
+        "authorURL": "http://lh6.googleusercontent.com/-sTxQ2q-9lnM/AAAAAAAAAAI/AAAAAAAAACU/UnKwUWHO9do/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-sTxQ2q-9lnM/AAAAAAAAAAI/AAAAAAAAACU/UnKwUWHO9do/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

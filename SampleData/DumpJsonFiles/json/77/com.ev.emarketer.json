@@ -1,0 +1,56 @@
+{
+  "title": "eMarketer Executive View",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ev.emarketer",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 3, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "11",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "eMarketer Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ev.emarketer",
+  "extendedInfo": {
+    "installSize": "717k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Designed exclusively for eMarketer clients, Executive View keeps you one step ahead of the competition by delivering the digital marketing and media information you need to knowâanywhere, anytime.Features and Functions:- On-the-go access for eMarketer clients.- Read the latest digital articles, analysis, interviews and reports.- Search for the exact information you need in seconds.- Mark âFavoritesâ with a star for quick reference. - Read content offline without internet access.Please note: your company must be an eMarketer client to use this app. Contact our sales team at 212-763-6010 for more information.",
+    "reviews": [
+      {
+        "timestampMsec": "1357261812836",
+        "starRating": "1",
+        "title": "Force close",
+        "comment": "App force closes every time. HTC one X 4.1.2",
+        "commentId": "gp:AOqpTOFOElvljF4w9hUnEms1UBjqX-jmggb_RwM2RXORcIA-swfy67I0YKPxhPwinbWvB_EE9_uX9yAsc9XjrbY",
+        "author": "Craig Nebeker",
+        "authorURL": "http://lh4.googleusercontent.com/-htQIGGajsbI/AAAAAAAAAAI/AAAAAAAAAe8/fHRGrSJRy2M/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-htQIGGajsbI/AAAAAAAAAAI/AAAAAAAAAe8/fHRGrSJRy2M/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367600068736",
+        "starRating": "4",
+        "title": "Good app but...",
+        "comment": "Randomly crashes at times and then keeps doing so for a while! option to share ought to be present as well!",
+        "commentId": "gp:AOqpTOGyC5UvlTIRicljznb_sGxZ4gwdIux5o2OqwCCN4QmPwqbLUxgICi7W_4EZPXPXkkrtm2aHaT1vvuMxR5M",
+        "author": "Prateek Chhillar",
+        "authorURL": "http://lh5.googleusercontent.com/-dvuDuZpIzKE/AAAAAAAAAAI/AAAAAAAAArk/X8lWyCK9iks/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-dvuDuZpIzKE/AAAAAAAAAAI/AAAAAAAAArk/X8lWyCK9iks/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.ev.emarketer.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

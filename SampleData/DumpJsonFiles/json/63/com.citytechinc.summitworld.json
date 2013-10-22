@@ -1,0 +1,32 @@
+{
+  "title": "Summit World 2010",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.citytechinc.summitworld",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "June 10, 2010",
+  "version": "1.0.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Not rated",
+  "creator": "CITYTECH, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.citytechinc.summitworld",
+  "extendedInfo": {
+    "installSize": "217k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Summit World 2010 is a trivia game created exclusively for attendees of the Red Hat Summit / JBoss World 2010 conference in Boston from June 22nd - June 26th.  Each question you answer earns additional raffle entries  to win! Stop by the CITYTECH, Inc. booth to learn about the technical architecture of the game.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

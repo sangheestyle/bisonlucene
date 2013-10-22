@@ -1,0 +1,40 @@
+{
+  "title": "PubHunter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.delightsolutions.pubhunter",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 28, 2013",
+  "version": "1.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "35",
+  "rating": "3.9714286",
+  "contentRating": "High Maturity",
+  "creator": "Extreme Net Kft.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.delightsolutions.pubhunter",
+  "extendedInfo": {
+    "installSize": "9.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Are you going out regularly? Do you want to find the best pubs, and the most awesome parties? Then you are at the right place. Download the PubHunter application for free, and take your nightlife to a whole new level.Are you having trouble to find the perfect place to drink? Use our detailed search engine to find the closest pub, that meets your requirements! TV, projector, Wi-Fi, billiard, etc.? Just name it! Be a PubHunter!Did you get bored of the dull, one-sided parties? Or you just constantly miss the best happenings? Check out every available âcanât missâ event with our application! Be a PartyHunter!Sign in with your Facebook account, so you can see where your friends are tonight, and what they are up to! As a member of the PubHunter community, you can also receive huge discounts, review, and even register your favorite pubs, create your own party, or call a TAXI at any point of the night.Stay tuned for the updates, there are more awesome functions to come, which complete the PubHunter experienceâ¦",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CAMERA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.delightsolutions.pubhunter.MAPS_RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.delightsolutions.pubhunter.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

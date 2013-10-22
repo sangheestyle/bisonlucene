@@ -1,0 +1,38 @@
+{
+  "title": "Monster House (MULTI)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.collection.multi.monsterhouse",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 18, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "PlayTales Books",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.collection.multi.monsterhouse",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Everyone is prepared the haunted house for their favorite event of the year, the Halloween Party!But, who said it was going to be scary? With friendly monsters, cute vampires and many more surprises, Halloween Party is the perfect book for your little one to learn to enjoy this special day. Try out this terrifyingly fun storyâ¦if you dare!!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.collection.multi.monsterhouse.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_TASKS",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

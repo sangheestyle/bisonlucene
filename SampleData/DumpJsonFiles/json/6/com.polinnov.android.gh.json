@@ -1,0 +1,75 @@
+{
+  "title": "E-Bilal",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.polinnov.android.gh",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "May 4, 2011",
+  "version": "2.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "70",
+  "rating": "4.1",
+  "contentRating": "Low Maturity",
+  "creator": "Polinnov",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.polinnov.android.gh",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "1Ã¨re app. gratuite collaborative tout-en-un pour trouver le temps des Salat, Qibla et gÃ©olocalisation des mosquÃ©es.E-Bilal est la premiÃ¨re application collaborative islamique gratuite dÃ©veloppÃ©e dans sa version initiale sur Android 2.1 sous forme d'une application et d'un Widget.E-Bilal permet de localiser les mosquÃ©es les plus proches. E-Bilal permet aussi de fournir les horaires des priÃ¨res (Salat) musulmane avec des alarmes ainsi que la direction de la Qibla, etc.E-Bilal se diffÃ©rencie des autres applications disponibles sur le marchÃ© par l'utilisation de la fonction de gÃ©olocalisation grÃ¢ce au GPS du mobile, et par l'appel Ã  la collaboration et Ã  la bonne volontÃ© des utilisateurs musulmans pour construire et enrichir le contenu en taggantla position des mosquÃ©es dans votre rÃ©gion en utilisant E-Bilal.Aidez cette jeune application pour le profit de la communautÃ©, donnez nous vos remarques et suggestions sur l'adresse:info@e-bilal.com",
+    "reviews": [
+      {
+        "timestampMsec": "1313591616031",
+        "starRating": "3",
+        "comment": "The time is almost ok. but the qibla direction is false in Surabaya, Indonesia",
+        "commentId": "lg:AOqpTOHkuTKMgMxAD481lp2b1NUF_j1geSD11ymztPqN7w9_yqvlUTR0dDSE4hdCPjrGHbN4j7ZxSJIkr9C8TQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1327524310259",
+        "starRating": "3",
+        "title": "Nice concept but....",
+        "comment": "Incorrect salat timings. Doesnt work on samsung galaxy tab 10.1",
+        "commentId": "lg:AOqpTOEwmnH388m0Rf8MQwEmrHWHEiF1cmsCnVyUYVrItbcsdqKO7QgB6w-jfHJ497M9EJFQSCUg7LDUV3NQoQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1306064344960",
+        "starRating": "1",
+        "comment": "Force close on HTC desire.",
+        "commentId": "lg:AOqpTOE1ZaQUCvbjcKBu9L-zBvrDAHk1uiDxqd66-YIT3CGe6ScavSwZ42R8KJkxrRsKyBc71eruwNhV3pVmNw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1313214579522",
+        "starRating": "1",
+        "comment": "Forcecloses always need update",
+        "commentId": "lg:AOqpTOFfMMi_qUQi2crEc5lUqooX53uc1e0gNyZE7ZTlcXD8ap7atIvEF9dwTJZ3itryMHwJrDSsqDSkDSQtvQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1304243368182",
+        "starRating": "5",
+        "comment": "Tagger la position des mosqu\\303\\251es est excellent",
+        "commentId": "lg:AOqpTOHx6W2mTMH3CSoT_V09ytUzwlPrbw5FLl4egAEatexTIJkmXF2h3tzdoWNuFGxcktRwluunW4_Lc3CHtg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

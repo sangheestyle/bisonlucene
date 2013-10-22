@@ -1,0 +1,46 @@
+{
+  "title": "Droid48 Reader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drehersoft.droid48reader",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "January 14, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "12",
+  "rating": "4.75",
+  "contentRating": "Everyone",
+  "creator": "Drehersoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drehersoft.droid48reader",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Droid48 Reader is used to:* Read HP 48-Series calculator files* Read data from Droid48, a separate HP 48 calculator emulator* Easily navigate through the data* Save or share portions as HP48 files* PNG support: HP48 graphics are convertible to standard PNG filesFor example, if a user were to write a new program inside of 'Droid48', the user can then use 'Droid48 Reader' to extract this program as a stand-alone file onto their SD card.  From here, the user can do whatever they normally would do with this file such as simply store the program for archival purposes, download this file into a real HP 48 calculator, share it with a friend to load into their own Droid48, or post it on the Internet at sites like http://www.hpcalc.org (note: these are beyond the scope of 'Droid48 Reader').As another example, the user can read a large stand-alone file that is an HP 48 directory file, navigate to an algebraic equation, then share this algebraic equation via email (requires a separate Android email program that supports sharing).A stand-alone HP 48 file is a file for the Hewlett-Packard 48-series of calculators (ex: HP 48S, 48SX, 48G, 48G+, and 48GX).  More can be read on these calculators on Wikipedia.'Droid48' is an Android program which emulates an HP 48GX calculator on Android.  It is independently developed (not developed by Drehersoft) and is a separate program from 'Droid48 Reader'.  'Droid48' is available on Google Play.When using 'Droid48 Reader' with 'Droid48', it is important to first use the Save memory/state menu in 'Droid48'.  This saves its data to the SD card.  After doing this, return to 'Droid48 Reader' and select Refresh Droid48 from the menu.",
+    "reviews": [
+      {
+        "timestampMsec": "1345786016030",
+        "starRating": "5",
+        "title": "OUTSTANDING!",
+        "comment": "Droid 48 is a great program, and inability to export was one of the few weaknesses.   This program fixes that.",
+        "commentId": "lg:AOqpTOGKPfenX9EbPapXb3UucXEcZguBKfN0siaOOXy__DIQjuHPdQ9_Uzn6BGuV7igCwP5IerHWzfWH0UpTkjo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341256970119",
+        "starRating": "5",
+        "title": "Abs",
+        "comment": "Works perfectly.",
+        "commentId": "lg:AOqpTOFeePFMlXS3mu2s2wzK12ZArEgQM8a1ltLy91YmcpLN4z5-GltW9Bf1apZGbIfoNcHa3iJIXTRThV5uDg8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

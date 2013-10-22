@@ -1,0 +1,49 @@
+{
+  "title": "The 2012 Washington Auto Show",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.washautoshow12",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "February 7, 2012",
+  "version": "2.2.7",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.washautoshow12",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The 2012 Washington Auto Show is showcasing the latest innovations in sustainable technologies and drawing the most influential leaders in the industry. Bringing more than 700 new makes and models from over 42 manufacturers, The Washington Auto Show marks a new era for Washington, D.C.âs largest public show being held at The Walter E. Washington Convention Center. With its doubled time frame, from five to ten days, itâs an even bigger bonanza to enjoy the fully stocked, two-story convention center with an automotive showcase many describe as ânew-car heaven.â",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Magic Collage",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.complitech.magiccollage",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "August 24, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Complitech Solutions Private Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.complitech.magiccollage",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This app makes it easy to create collage using photos, and there are bunch of other features that makes a fun to use app. Major features include: - Import photos from library, camera and recent used from gallery - Photo layouts (Grid, Single, Free Style, Horizontal, Vertical etc.) - Photo effects to apply on images - Stickers to apply on collage - Add text labels - Drawing (shapes & free style) - Set background colour- Crop image - Swap two images in grid - Save photo to phone library - Sharing via email, facebook and twitter.",
+    "reviews": [
+      {
+        "timestampMsec": "1377765996925",
+        "starRating": "5",
+        "title": "Good one. I like wide and high mode.",
+        "comment": "Love too use app. Waiting for more stickers in next version.",
+        "commentId": "gp:AOqpTOEpPmnf_Yl2Zj426LEIwmQQnFGTAE3C-lHz8-MZ37KcSv9A1mEaQQWkum2Doz9Sv5Q7FSMAsLmcRwmhhA",
+        "author": "Chintan Mehta",
+        "authorURL": "http://lh6.googleusercontent.com/-O-irA0OthNA/AAAAAAAAAAI/AAAAAAAAAC4/RPY7cu7NS2I/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-O-irA0OthNA/AAAAAAAAAAI/AAAAAAAAAC4/RPY7cu7NS2I/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

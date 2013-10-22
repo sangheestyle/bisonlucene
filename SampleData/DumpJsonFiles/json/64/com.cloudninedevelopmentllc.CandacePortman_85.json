@@ -1,0 +1,39 @@
+{
+  "title": "Eye Associates Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.CandacePortman_85",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "October 15, 2011",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.CandacePortman_85",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Eye Associates is the only practice in the Louisville and Southern Indiana area that offers a full array of specialized vision care; from a fellowship-trained pediatric ophthalmologist who can treat premature infants, to world-renowned cataract surgeons who have played significant investigator roles in FDA clinical trials, and retinal specialists whose research is helping find a cure for macular degeneration. Our doctors use the latest technology and techniques. They focus on optimizing your individual visual outcomes for results when you need them the most. Our doctors will work with you to create a personalized vision plan for your entire life. We offer an array of options to help you achieve your best possible visual outcome, for Results You Can See!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.cloudninedevelopmentllc.CandacePortman_85.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

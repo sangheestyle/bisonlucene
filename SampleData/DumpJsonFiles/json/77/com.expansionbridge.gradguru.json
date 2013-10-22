@@ -1,0 +1,70 @@
+{
+  "title": "GradGuru",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.expansionbridge.gradguru",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 14, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Low Maturity",
+  "creator": "GradGears",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.expansionbridge.gradguru",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "GradGuru is your free community college advisor in your pocket. Based on your school, GradGuru gives you the deadlines, tips, and personal guidance you need to finish community college faster. We help you find your way through community college to finish faster. Download us now and tell your friends! Need more detail? GradGuru helps you: --keep track of deadlines --better understand the milestones you need to hit --learn what proven behaviors lead to academic success --take advantage of existing student support and financial aid resources, and --share these lessons with your friends! If you can't find your school, send us an \"unlock\" email! GradGuru is GradGears.org's first product. We're a registered nonprofit whose mission is to increase and accelerate community college student success.Grad Guru  Grad Guru  Grad Guru  Grad Guru  Grad Guru  Grad Guru  Grad Guru  Grad Guru",
+    "reviews": [
+      {
+        "timestampMsec": "1377106521314",
+        "starRating": "5",
+        "title": "Easy as pie",
+        "comment": "Love all the update for my deadlines and schools stuff, try it out!",
+        "commentId": "gp:AOqpTOEebOve1_xTYP1jabb8aOoGaXcF3xtH8_HPIuGiEaQawUrMoV3OTqjERFUxRq3GNtSTXIpPRfZVykzsSQ",
+        "author": "Ben Chang",
+        "authorURL": "http://lh3.googleusercontent.com/-Ut6KtBtdSoc/AAAAAAAAAAI/AAAAAAAAAAA/aZyWeRW2Xgw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Ut6KtBtdSoc/AAAAAAAAAAI/AAAAAAAAAAA/aZyWeRW2Xgw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376974075959",
+        "starRating": "4",
+        "title": "Very useful ap..could be great with tweaks",
+        "comment": "The calender feature is great for keeping up with deadlines..",
+        "commentId": "gp:AOqpTOEjjNrL9obFMyQv0A1TtCwoqOboUWQOoc1C8ZPFhrP5P1EIDy1NsD70TcwE0UQZDh74AKBEFDXNzx3tWQ",
+        "author": "John Weathers",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360302060839",
+        "starRating": "5",
+        "title": "Grad Guru is just what I need!",
+        "comment": "This app really is a community college counselor in my pocket!",
+        "commentId": "gp:AOqpTOHWWVmgbSuv-mzba0yUi_a7XiAFvVeGGTcKkmsEsetom3FPT0LnRyNS8k7GmlRFKaFzeRcqaJMFwMJaKA",
+        "author": "Jonathan Kevles",
+        "authorURL": "http://lh4.googleusercontent.com/-F879gEGHM3Q/AAAAAAAAAAI/AAAAAAAAAWE/a9UHyNY5p14/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-F879gEGHM3Q/AAAAAAAAAAI/AAAAAAAAAWE/a9UHyNY5p14/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366430915717",
+        "starRating": "5",
+        "comment": "Excellent",
+        "commentId": "gp:AOqpTOE6P5s-fEOHsrpL-DFa1NPg8OlL_m83QdVjPi1dpw0WCmB3fsW9H_8iZJ6hehDPFFZR_CohPfT0IuKSUg",
+        "author": "Alyssa Vigil",
+        "authorURL": "http://lh6.googleusercontent.com/-S8yytzaA2Tk/AAAAAAAAAAI/AAAAAAAAAGc/3BsrN2e_GJY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-S8yytzaA2Tk/AAAAAAAAAAI/AAAAAAAAAGc/3BsrN2e_GJY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.expansionbridge.gradguru.permission.C2D_MESSAGE"
+    ]
+  }
+}

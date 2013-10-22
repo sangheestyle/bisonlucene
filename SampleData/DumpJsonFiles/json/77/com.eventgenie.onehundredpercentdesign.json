@@ -1,0 +1,56 @@
+{
+  "title": "100% Design",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eventgenie.onehundredpercentdesign",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 24, 2013",
+  "version": "1.0.20",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "13",
+  "rating": "4.230769",
+  "contentRating": "Low Maturity",
+  "creator": "GenieConnect",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eventgenie.onehundredpercentdesign",
+  "extendedInfo": {
+    "installSize": "5.8M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This is the official app for the 100% Design exhibition.The app features all the latest news, photos and videos from the design industry and is also your pocket guide to the show, helping you stay on top of the market, and prepare for the event.The app includes:+ News from despoke.com+ Show and industry news from 100% Design+ Event and industry videos+ Show Photos+ Industry Twitter feeds+ Everything you need to know about the show.Closer to the show the App will be updating to include:+ Full event schedule+ Searchable exhibitor directory+ Interactive Floorplan+ Route Planning at the Show+ Your Event Planner+ Speaker Profiles+ All our news and social media channelsThe app is free to download and will be constantly updating with the latest news, photos and videos100% Design is the UKâs first and leading contemporary design show is a hub of creative talent from the UK and around the world and a key event in the international design calendar.Please note that every effort has been made to include as much data in the app as possible so that it can be used whilst offline and abroad. Some features such as messaging and Twitter do use live data and may incur charges depending on your carrier and plan.Whether you are attending 100% Design in 2013 or not this is the perfect way of keeping up to date with all the happenings on and around the event. The app will continue to be updated throughout the year with more news and content.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.9",
+        "timestampMsec": "1337039379625",
+        "starRating": "1",
+        "comment": "Forces close when trying to open, worked fine for last year.  Deleting.",
+        "commentId": "lg:AOqpTOGQFeq16Rz6VG3VPNbvdDFzzona-aalcUnRhNLwwVZJbS4Eh6Kt_cRn8GR4CeNy4f58lWXwp6uxn_44HWc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311254445982",
+        "starRating": "5",
+        "comment": "Cool app, looking forward to the show.",
+        "commentId": "lg:AOqpTOF2Nq99dhLkVA1j14vWfSgStDq7LPcCYGNP0qVhLDHwXboFcQZDTXYvpe3oWd0Fr0I4OIEd0XJsMzcYnKM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.eventgenie.onehundredpercentdesign.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.eventgenie.onehundredpercentdesign.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

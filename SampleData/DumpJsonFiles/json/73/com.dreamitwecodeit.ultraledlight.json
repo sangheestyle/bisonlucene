@@ -1,0 +1,42 @@
+{
+  "title": "Ultra LED Light",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamitwecodeit.ultraledlight",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 8, 2013",
+  "version": "1.0.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "48",
+  "rating": "3.8125",
+  "contentRating": "Everyone",
+  "creator": "You Dream It We Code It",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamitwecodeit.ultraledlight",
+  "extendedInfo": {
+    "installSize": "464k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Try now the best designed Flashlight app: Ultra LED Light!!Use your device's camera LED as a useful torch.Very simple and with a carefully and useful design.Incredible tool that will help you in many situations. Use this tool when you have to open doors, find the car keys in the dark or just when the light is gone.If you have any suggestions please contact us and gladly attend to upcoming versions.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1368781303953",
+        "starRating": "1",
+        "title": "Bad app",
+        "comment": "Crashes HTC one to black screen have force shut down",
+        "commentId": "gp:AOqpTOHiaDAgLM6TFjgTl2KyF0tOfH5eJNoi_7qIJVQLa6-0nQj3Gogos-FQwYw-7JqyORhFprNdas94mNCGTZc",
+        "author": "Michael Johnson",
+        "authorURL": "http://lh6.googleusercontent.com/-CBGfBTzVX2M/AAAAAAAAAAI/AAAAAAAAAEI/nzvqmLHkJ4I/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-CBGfBTzVX2M/AAAAAAAAAAI/AAAAAAAAAEI/nzvqmLHkJ4I/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE"
+    ]
+  }
+}

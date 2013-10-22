@@ -1,0 +1,36 @@
+{
+  "title": "Type Greek",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.facegroom.greek",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 4, 2012",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "FaceGroom Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.facegroom.greek",
+  "extendedInfo": {
+    "installSize": "774k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This free app is ad supported and may contain ads in the notification tray and/or home screen.With TypeGreek universal application which runs on your favorite Android devices, you can WRITE in GREEK and share it to the world via Facebook,Twitter,SMS and mail with a click of a button!!! This is a very simple and easy to use app which translates the word you type in English to Greek as soon as you press Space or Enter key. Here is an example of what you type: Andron gar epiphonon pasa ge taphos Dos moi pa sto, kai tan gan kinaso Thanatos ouden diapherei tou zev Elthon, eidon, enikesa What you get: ÎÎ½Î´ÏÏÎ½ Î³Î±Ï ÎµÏÎ¹ÏÎ¿Î½ÏÎ½ ÏÎ¬ÏÎ± Î³Îµ ÏÎ¬ÏÎ¿Ï ÎÎ¿Ï Î¼Î¿Ï ÏÎ± ÏÏÎ¿, ÎºÎ±Î¹ ÏÎ±Î½ Î³Î±Î½ ÎºÎ¹Î½Î¬ÏÏ ÎÎ¬Î½Î±ÏÎ¿Ï Î¿ÏÎ´Î­Î½ Î´Î¹Î±ÏÎ­ÏÎµÎ¹ ÏÎ¿Ï Î¶ÎµÏ ÎÎ»Î¸ÏÎ½, ÎµÎ¹Î´ÏÎ½, ÎµÎ½Î¯ÎºÎ·ÏÎ± You can scroll to any word you just typed in and make a correction, just by pressing the backspace key - you will be shown the list of most popular mappings for the typed word and you can either choose from the list displayed or can delete the word. Surprise your friends by dropping your favorite line in Greek on your Facebook page or tweet on Twitter, type an email, send an sms. !!!!! Please note that this app works only with an internet connection available !!!!!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS"
+    ]
+  }
+}

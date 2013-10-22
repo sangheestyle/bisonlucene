@@ -1,0 +1,231 @@
+{
+  "title": "Void Lock",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.devjackey.voidlock",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 25, 2012",
+  "version": "2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "138",
+  "rating": "3.231884",
+  "contentRating": "Everyone",
+  "creator": "DevJackey",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.devjackey.voidlock",
+  "extendedInfo": {
+    "installSize": "397k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "**IMPORTANT**Market Bug. Pressing Open from Market app will say the app is not installed, but it is installed properly. Find it in the app drawer. If you have any questions or problems with Void Lock, send me an email. There's an option in settings for that.I can not respond to problems written in the market comments.------A gesture lockscreen replacement that offers both convenience and security.Imagine this scenario:A guy picks up your phone. What's the first thing he'll do? Turn it on of course.He presses the power button... no response. Presses a couple other buttons and touches the screen... no response.What's the first thing he'll think of? Phone's Off. Battery's Dead.It wouldn't occur to him that the phone is actually ON, but pretending its off.Features:-Two methods of unlocking--Gesture Mode--Key CombinationsBoth offering an incredible amount of security-App launching from lockscreenYou're able to create gestures for ANY app and launch it from the lockscreen. Please be advised that if you use simple gestures for these, it places your device at risk more-Activate Settings from lockscreenNeed to turn phone to vibrate? Normal lockscreens requires you to unlock the phone, then unlock the lockscreen, then pull down the status bar to press Volume. Now, just do a volume down gesture, its safer too-MugShotFor Android 2.3+ devices, there is front camera support to take pictures after a certain amount of failed attempts at unlockingIssues:-Certain devices will have their screens turned off if Display brightness is too low. The Setup screen will try to take care of that. So read the instructions, and email me if anything. I should probably address the issues that some users are having with uninstalling. Void Lock can not be uninstalled after you have set it as a Device Admin. To uninstall, go to Settings, then find Security, find Device Adminstrator, and disable it.Now, if there's any questions or suggestions, email meThis version is free, but still the full version. Differs from the paid version because of the ads, but DO NOT WORRY, ads will only appear after a successful Unlock and only once every 2 hours. Sorry, but... I need to eat too. However, I don't want anyone to miss out on the lockscreen because of price so at least now there's an alternative way to get the lock?Now if anyone is curious about the permissions used...-android.permission.RECEIVE_BOOT_COMPLETED, Used to run at boot.-android.permission.WRITE_SETTINGS, Used to lower the display's brightness-android.permission.SYSTEM_ALERT_WINDOW, Used to make the lockscreen-android.permission.DISABLE_KEYGUARD, Used to make the system lockscreen not show up-android.permission.WRITE_EXTERNAL_STORAGE, Used for mugshot image files-android.permission.BLUETOOTH_ADMIN, Used for bluetooth on or off, forgot-android.permission.BLUETOOTH, Used for... if the other was on then this is off, or vice versa-android.permission.ACCESS_WIFI_STATE, Used for enabling or disabling wifi-android.permission.CHANGE_WIFI_STATE, Same as above-android.permission.READ_PHONE_STATE, Used to detect incoming call-android.permission.WAKE_LOCK, Used for WakeLock mode, for the users who has battery and wants to avoid pressing Power button-android.permission.VIBRATE, Just Vibrate-android.permission.INTERNET, MugShot Emails and ads-android.permission.ACCESS_NETWORK_STATE, same as above-android.permission.GET_ACCOUNTS, Used to find default EMail account to mail to. Impossible to get account information-android.permission.CAMERA,Take a picture-android.permission.SET_PREFERRED_APPLICATIONS,Necessary for getting default launcher-android.permission.READ_CONTACTSNecessary for getting number of missed calls-android.permission.READ_SMSNecessary for getting number of unread SMS number",
+    "reviews": [
+      {
+        "timestampMsec": "1361235848559",
+        "starRating": "4",
+        "title": "Backup unlock",
+        "comment": "Setting the \\\"button configure\\\" is your backup way to unlock your phone if the program doesn\\'t recognize your unlock gesture (which it wont because the sensitivity is to high to start, but you can change it) so pick something simple like press the Volume Down button 3 times the combo should say 25 25 25. So when the phone looks broke just push the Volume Down 3 times give it a sec and it will start up. IF YOU ARE GOING TO LOCK YOUR PHONE MAKE SURE YOU PICK A COMBO YOU CAN REMEMBER!!",
+        "commentId": "gp:AOqpTOHkf726NWIkoq_MoSZyMf7Mpe2Lkr1tINZDKlvXwgfXocxY0tUK--pidJFxBz61Wxd5oxfFDLB_2zTcxas",
+        "author": "Adam Hancock",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353896321341",
+        "starRating": "1",
+        "title": "Don\\'t like seeing your screen? Get this app",
+        "comment": "What a horrible app! I couldn\\'t unlock the screen, in fact my screen wouldn\\'t even show up! I had to restart my phone multiple times and race to get rid of this app before it started up and locked me out. Such a troublesome, worthless app. Don\\'t get it.",
+        "commentId": "lg:AOqpTOHxUJvo0y4t0b1NeMBCojKHo6Zu20AKrjfvLDyVA30ygHLhi8j5MeFpEt_-f08Kfs7teVesp9Y1FB8igPY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357927313902",
+        "starRating": "1",
+        "title": "App crashes my phone",
+        "comment": "It took 2 attempts to get through the confusing setup and then when I tried to use it it crashed my entire phone, i had to restart and remove the app or I couldn\\'t use my phone at all.",
+        "commentId": "gp:AOqpTOHkQl3ZKoKIGTVpQIzByShlVoXX4sTS9qWp9T1fIRYLBqqhznLRvV8G-fFR_fBYBHVbUL15-tYxOpzc-4Y",
+        "author": "Peter Franceschini",
+        "authorURL": "http://lh3.googleusercontent.com/-cYUoK1At9M4/AAAAAAAAAAI/AAAAAAAAEys/WK9ZokFJo7s/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-cYUoK1At9M4/AAAAAAAAAAI/AAAAAAAAEys/WK9ZokFJo7s/photo.jpg"
+      },
+      {
+        "timestampMsec": "1349613994246",
+        "starRating": "2",
+        "title": "Samsung Galaxy Europa (5)",
+        "comment": "Traumatically crap specific individual locks are meant to be persuasive and fundamental to make the function work. Unfortunately towards my device the application has force-close and when selected to adjust and alter the brightness my devices screen somehow turns off. 2 stars.",
+        "commentId": "lg:AOqpTOEwME6XdtNktCg6RvsHYAEygTYkbj2y8Q7LxzxejCE4aYWA3Qs0ggPd_rL1XjyLv7gX6X0c85SfYk5WMe0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375877124815",
+        "starRating": "5",
+        "title": "Best",
+        "comment": "Best",
+        "commentId": "gp:AOqpTOHCmTyjJhHwu8S38YKvAaDAOLwnTE-_5kE6lS7daa2HtMgUJzxaHuCaZybWG5AGLOUaZgWgn3pdohDeXqg",
+        "author": "Aahil Soorya",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347110933919",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "I don\\'t know what\\'s on people\\'s mind. This app is great! :D",
+        "commentId": "lg:AOqpTOFyfr7X_AgMy-0A9WUpvpjc754tPH8Nk7lOeefI9eTevrRTXM_Tyah2f85Flj_zH271k6pruF8m7PByD5Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354205322917",
+        "starRating": "5",
+        "title": "Venkatesh (USR)",
+        "comment": "Nice but need work..",
+        "commentId": "gp:AOqpTOEBmlyfuoMj1PzSdoyg6VfkRToTJXC1RAqdDxvPsCJe2G8QQvXgiN489E1YHUfIVBA-UysbKUub-GHLF2k",
+        "author": "VENKATESH USR",
+        "authorURL": "http://lh5.googleusercontent.com/-d3P-hsKIQRo/AAAAAAAAAAI/AAAAAAAAAGU/hJfu8mm9rPA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-d3P-hsKIQRo/AAAAAAAAAAI/AAAAAAAAAGU/hJfu8mm9rPA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372671751604",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "This is something i wanted for a long time. Total Protection from intruders. Great use of gestures to open what you want exactly. Kudos to the developer",
+        "commentId": "gp:AOqpTOHZ81wGbQ8Pk5pAB-utQujudXtUdZg3zMFq1WQp2regOIJmxdUJp3TeJAdeiZGustR4w7GyipA_kkRkpF8",
+        "author": "Atul Bhat",
+        "authorURL": "http://lh6.googleusercontent.com/-jXlrcYfrQzw/AAAAAAAAAAI/AAAAAAAAAZQ/a7ZWGHu9x4A/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-jXlrcYfrQzw/AAAAAAAAAAI/AAAAAAAAAZQ/a7ZWGHu9x4A/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375354126331",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Great lock app screen. Thanks!",
+        "commentId": "gp:AOqpTOFZx8Nz6E3GTLkJalt7lX_NfB3664wL6itg9LIJWD0xcua6-o1ZPta7BZrIyRn2PxkfqzhoAXs4se2Fkvk",
+        "author": "Satria Perwira Jati",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377694260439",
+        "starRating": "3",
+        "title": "Really wish I could get mug shot to work",
+        "comment": "Mug shot feature makes the app force close every time.",
+        "commentId": "gp:AOqpTOFAp5k-GVF1DdmO02GWjISKqwC1jTKSoJpy_-ExU3-WxudL7mHpIHXFM-LtufAnZKsN0oNxWHfxcjQFgzc",
+        "author": "abraham younis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353403894865",
+        "starRating": "2",
+        "title": "Interferes with internet",
+        "comment": "Stops strreaming music",
+        "commentId": "lg:AOqpTOE56udyW4JH-rIQqRbriC5_LrElfmhuJLvdflKdJQeQ_FA-XqtsksDQSjs6Nq-FjGJGMKASZj4FqaDDF8o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336658642432",
+        "starRating": "1",
+        "title": "Crap.",
+        "comment": "This could be such a great app if it just WORKED.  Gesture inputs fine, button inputs fine, but when it tries to find lowest brightness it just turns my screen off, whether the brightness is all the way down or all the way up. So as it is right now, this app does not work and is completely useless. Uninstalling.",
+        "commentId": "lg:AOqpTOEcdn2jp4aq4prMHa5hd4z-axjzg2iUW04lsXNcelowoxPfuiy673OtX9WQ2k_tuYcuStYNUxtRDpi9f84",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340478355627",
+        "starRating": "1",
+        "title": "This is horrible"
+      },
+      {
+        "commentId": "lg:AOqpTOGAl4so9zdMWivu6hrYzfDMDfj-qRq695v0gNRx3GP5lTb9FR2wX4pJIVr7brSQ5L39CJwDJpUpGkP6D4w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345259195099",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "I am already using it as the primary lock screen.  People, please read READ the instructions from top to bottom. I too got stuck at the lowest brightness detection and had to pull battery once,  because I hadn\\'t read the instructions.",
+        "commentId": "lg:AOqpTOHi-hosx5nBXYTpIHctb6nQoHvjXLTJam3vR7zFcSbSNPx-3gspLQDRcVSJE05EZkI_USe3tNHpJCno7D4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336161000333",
+        "starRating": "3",
+        "title": "Bro",
+        "comment": "I can\\'t even remove it as a device administrator, so i can delete it.",
+        "commentId": "lg:AOqpTOGl-DQUUMld1xfK5Vg4svqpR2fi_2XQHbFENVIuSYuooXynzxkj3SQwDiS5UhrninlBNoKIkUSsVY0_Z0k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333775787181",
+        "starRating": "1",
+        "comment": "Useless",
+        "commentId": "lg:AOqpTOF_uQFv7fJykCFfOY4k8mN9IOprKMHlo_7IHOu9LpDYlSL3aHeBibcFiaJkSoCSTJAPlc4ODQ-gygROgOU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336693479403",
+        "starRating": "1",
+        "title": "Fck",
+        "comment": "This shyt aight",
+        "commentId": "lg:AOqpTOFta3BM6Cb0Q2MHXXiQuPF4QIj7o3kOf_myXtT9FC-i-iEravze16nVndPd_9a-8a_VU2Wg4W3g8J_foLg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329908249708",
+        "starRating": "1",
+        "title": "Ahhh",
+        "comment": "I take back my good review...Dev wants money too bad and throws up ads every ten minutes...dumb...deleted",
+        "commentId": "lg:AOqpTOHViQxnQoKpjjQm8KJfsJO0kztHNdBBEOYAV-Ba3BWOGzjcLjjifHeJNQXUPGj4wk4X-Wl7w50ytgcrmA4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332091653985",
+        "starRating": "1",
+        "comment": "Defective ..never worked for me( HTC inspire )",
+        "commentId": "lg:AOqpTOGoSdGNJUKA0Caa1C0KNwBeI-4fJ_SuPxDuX3c7_JtBrDk--FwSsiM2pbW4HDzWLwas0QYLPar0NsN76LE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1328759036434",
+        "starRating": "5",
+        "title": "Effin cool",
+        "comment": "Really cool.. Works great with soft keys or by gesture... Good job guys.. I just don\\'t like the ads but hey u have to get ur $$$ some how..",
+        "commentId": "lg:AOqpTOH2HsLhH_VEmHaxbP6Ia0umjD1wWDnmLCi_jCVspkPAWhNAiVt1pYpbs-74LBJro5BafOZcuVDUfuun9tU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.SET_PREFERRED_APPLICATIONS",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_SMS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

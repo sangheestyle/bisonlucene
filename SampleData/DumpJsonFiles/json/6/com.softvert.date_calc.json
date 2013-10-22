@@ -1,0 +1,38 @@
+{
+  "title": "Date Calcs",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.softvert.date_calc",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "November 8, 2010",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Not rated",
+  "creator": "Eugene Agafonov",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.softvert.date_calc",
+  "extendedInfo": {
+    "installSize": "136k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Handy to use date calculations. How long until halloween? Just open this app and get complete information! How long until your birthday? Extend default database with your own dates!",
+    "reviews": [
+      {
+        "timestampMsec": "1306392883823",
+        "starRating": "5",
+        "comment": "Simple cute!",
+        "commentId": "lg:AOqpTOHt0uO654pfd62E5oHugZe_OobFPHFPND0eDXFQ2DkU4NE47HIyS7mCdpIQCv1KacAY_6aXpMklNbse0Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

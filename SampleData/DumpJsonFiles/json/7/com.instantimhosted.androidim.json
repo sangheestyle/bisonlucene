@@ -1,0 +1,42 @@
+{
+  "title": "Instan-t Mobile IM Hosted",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.instantimhosted.androidim",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "April 4, 2013",
+  "version": "1.0.16",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Geodesic",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.instantimhosted.androidim",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Instan-t Mobile IM Hosted is a fully featured, easy to use and secure instant messaging product suitable for small and medium enterprises free to download but requires a paid license to operate.It is also a powerful collaboration tool ideal for businesses that are looking for improving their internal communication ensuring authenticity of users, secure and confidential communications and full control and monitoring of users.You take complete control over your users with Instan-t Mobile IM Hosted.Keep centralized message archive of all communications, manage usersâ contact list and control who is allowed to talk to whom. Enable communications with third-party users on public networks ( MSN, Yahoo, GTalk, Facebook chat and AIM/ICQ). Instan-t Enterprise is the suitable product if you are looking for strict business productivity.Â ",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

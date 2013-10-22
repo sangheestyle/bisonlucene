@@ -1,0 +1,48 @@
+{
+  "title": "Always Mountain Time",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.commotion.KSPN",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "January 11, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Commotion",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.commotion.KSPN",
+  "extendedInfo": {
+    "installSize": "997k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Weâve worked hard to bring you an awesome mobile experience. Our app lets you do much more than listen. Interact in real-time with DJs and other listeners by posting comments, photos and audio clips. See what weâve recently played. Preview songs and give them a thumbs up or down. Itâs easy and fun. What are you waiting for?! It take just a few seconds to download.",
+    "reviews": [
+      {
+        "timestampMsec": "1367447738209",
+        "starRating": "3",
+        "title": "Jellybean support?",
+        "comment": "It\\'s OK on my older device, but would really like to use it on my Nexus 7 tablet with Android 4.2 (aka, Jellybean).",
+        "commentId": "gp:AOqpTOEX6s4LB7rB58phvtk4F8tntTlM2ew6hRooZIDi0NHAo4Y_9yAlpU5_SIb6LEs987-31t6bIwfxGtUrfQ",
+        "author": "Mike Jahn",
+        "authorURL": "http://lh3.googleusercontent.com/-p5k1MMKXsdY/AAAAAAAAAAI/AAAAAAAAEx4/xFRSOOAjjv8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-p5k1MMKXsdY/AAAAAAAAAAI/AAAAAAAAEx4/xFRSOOAjjv8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.commotion.KSPN.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

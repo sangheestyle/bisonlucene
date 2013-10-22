@@ -1,0 +1,50 @@
+{
+  "title": "Siouxland Libraries",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.sllib",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 4, 2012",
+  "version": "4.5.72",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.sllib",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Search for books, DVDs, music, and more. Place holds and renew items. Locate the nearest branch library, check library hours, and learn about upcoming classes and events. Keep up with the latest library news on Facebook, Twitter, and blogs. Ask a librarian a question via phone or email. Siouxland Libraries is dedicated to helping you find what you need from our libraries. We hope you enjoy it as much as we do! Siouxland Libraries provides services to the citizens of Sioux Falls and Minnehaha County, South Dakota.",
+    "reviews": [
+      {
+        "documentVersion": "4.5.72",
+        "timestampMsec": "1337281879230",
+        "starRating": "5",
+        "title": "Love it!",
+        "comment": "I love how easily I can see what is at the library and place requests. And my kids can do their summer reading logs right here! Thanks!",
+        "commentId": "lg:AOqpTOHJHlMKsXsJg9Z1D-pz0AXfX0CXmomKQLM8hyDeyz4CoQ2ci63hXIDiVi1YL4R2t-JC_3otEjDGv1Y7HHw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340994225442",
+        "starRating": "5",
+        "title": "Super Easy To Understand!",
+        "comment": "I can find what I need in a few quick taps without any hassle. Makes it easy to find things when I am away from home and don\\'t have my computer with me! Definetly get it!",
+        "commentId": "lg:AOqpTOHUTzlINfRzuJHgsEIftJy51uU_H5zxWODXJYJ9pweNgdEAzSPhyed1MlFuACjCgzYP9v-dF-oBDRgIpqw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

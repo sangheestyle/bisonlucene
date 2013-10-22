@@ -1,0 +1,42 @@
+{
+  "title": "ECMA",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ecma.sable",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "March 8, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "East Coast Music Association",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ecma.sable",
+  "extendedInfo": {
+    "installSize": "4.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Connect with your favourite East Coast artists and discover new ones with the East Coast Music Association app. Listen to new tracks, watch videos and keep up with what's happening in the music scene on Twitter.Celebrate East Coast Music Week with a complete schedule that always lets you know who's playing and what's up next. You can add an event to your calendar, buy tickets to the show and find your way around on the map. Discover East Coast Music Award winners and nominees, and check out the latest photos and videos from the week's shows.Download the free app and join the party.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1362663651268",
+        "starRating": "5",
+        "title": "Best guide ever!",
+        "comment": "Love the simplicity and responsiveness.",
+        "commentId": "gp:AOqpTOGKreNB_cb2znE_3iuqgfIs8mvib5sQ__THHsRh-wbSScYkI16lDcfB4krsfG260dLO-BO9XYo0ms5mlbQ",
+        "author": "Charles Mitchell",
+        "authorURL": "http://lh5.googleusercontent.com/-O_x8YQg0iYU/AAAAAAAAAAI/AAAAAAAADxQ/2Kazkr2cZQ4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-O_x8YQg0iYU/AAAAAAAAAAI/AAAAAAAADxQ/2Kazkr2cZQ4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.ecma.sable.permission.MAPS_RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Christian Single Mingle",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.christiansinglemingle123.document",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 17, 2013",
+  "version": "4.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Anand chopra",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.christiansinglemingle123.document",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Senior Christian singles may face the old age in the ... 't mingle anymore! Age doesn't mean a thing when it comes to love. If you're a Christian senior ..",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "android.permission.CHANGE_CONFIGURATION",
+      "com.android.email.permission.ACCESS_PROVIDER",
+      "com.android.email.permission.READ_ATTACHMENT"
+    ]
+  }
+}

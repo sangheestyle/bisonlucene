@@ -1,0 +1,31 @@
+{
+  "title": "Shake Locker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.danielling.shakersmartcover",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 11, 2013",
+  "version": "1.0.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Daniel Ling",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.danielling.shakersmartcover",
+  "extendedInfo": {
+    "installSize": "317k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "** Please contact me if you encounter any issues with this app. Please. Because we developers are unable to get ** back to the users directly which is very sad so let me help you if my app gave you a problem. You can still leave a ** negative feedback but still, please let me help. You can email me through this page or through the app. Thanks!This application allows you to Turn Off or On your screen by shaking.Additional Features** Turn on your Screen and automatically unlock!!** Turn on/off your screen without using Power or Home buttons.** Perform magic tricks. ^_^Note:** Do note that this application requires Accelerometer sensor to work.** Requires Device Administrator for the Turn Off screen feature.** To UNINSTALL this application, you have to first remove the Device Administrator rights for this application. When you choose to uninstall this application, it will prompt you to remove the Device Administrator Rights. If not, please go to Settings > Security > Device Administrator > Uncheck this application.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

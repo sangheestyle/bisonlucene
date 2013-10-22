@@ -1,0 +1,68 @@
+{
+  "title": "HxM Training",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ctalaba.hxmtraining",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "January 11, 2013",
+  "version": "1.01",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "3.5714285",
+  "contentRating": "Everyone",
+  "creator": "Ciprian Talaba",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ctalaba.hxmtraining",
+  "extendedInfo": {
+    "installSize": "680k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you own a HxM Monitor from Zephyr and you use it for training? If you train indoor you have discovered that current training apps that use GPS do have all sort of problems. They also use more power since GPS is ON and draining your battery.With this app you can train indoor while wearing your HxM Monitor, and the app will calculate your burned calories and the estimated distance (assuming you are using a treadmill). Main features for 1.0:- shows instant heart rate and estimated distance based on the internal accelerometer- allows to select a heart rate training zone with audio feedback- calculate your maximum HR based on age and sex, or allows you to enter it manually- create your own heart rate zone for specific training- calculate distance and burned calories- audio feedback on selectable interval in order to keep you in the defined HR zone- export in TCX format that can be used to upload the training on major sites like Endomondo, including max HR and average HR",
+    "reviews": [
+      {
+        "timestampMsec": "1359416190980",
+        "starRating": "5",
+        "title": "Great App Works As Advertised!",
+        "comment": "I was recently looking for an application that would calculate calories based of my Zephyr heart rate monitor without running GPS at the same time. HxM Training does exactly that!  I can now track calories while running without having to drain my battery running GPS for no reason!",
+        "commentId": "gp:AOqpTOHYwj_P7wDxVB6by-aCAlynwClOY3vX0RfH_KC2IiBYSiaoMkSxPqlFHO3isGDrwcErQm6jWFn9EX3Lzw",
+        "author": "Eric Bookbinder",
+        "authorURL": "http://lh5.googleusercontent.com/-3h_-tJQSRHE/AAAAAAAAAAI/AAAAAAAAYds/khcb-D_QpRw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-3h_-tJQSRHE/AAAAAAAAAAI/AAAAAAAAYds/khcb-D_QpRw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377530157267",
+        "starRating": "1",
+        "title": "Crashes",
+        "comment": "App immediately crashes when trying to connect to Zephyr. GS3",
+        "commentId": "gp:AOqpTOFDIzR3f4QR_otby9KDexIEUiIwhaN17HNx1uvwnM9F2qNSu_J-xxIeccw62Lstt3cVL81ZGfVXYCVt-A",
+        "author": "andrew hvizdak",
+        "authorURL": "http://lh4.googleusercontent.com/-j_aCIQd9JZo/AAAAAAAAAAI/AAAAAAAAABc/fgaTy7QUGng/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-j_aCIQd9JZo/AAAAAAAAAAI/AAAAAAAAABc/fgaTy7QUGng/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365510878911",
+        "starRating": "3",
+        "title": "Good but confusing",
+        "comment": "This is a good app and does track heart rate without a GPS connection. But for the life of me it\\'s not very clear how you export the TCX data, or where it might be saved automatically.",
+        "commentId": "gp:AOqpTOHSVS71DEkGVveR8yVBY0M_obBmrwdRDmypf-p2BlUbfx7dYINsXQzME_h0109snH6RUUA1qkzokF88dQ",
+        "author": "Simon Philpott",
+        "authorURL": "http://lh3.googleusercontent.com/-PARmw71lyyQ/AAAAAAAAAAI/AAAAAAAATMk/H--UjNzlc-o/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-PARmw71lyyQ/AAAAAAAAAAI/AAAAAAAATMk/H--UjNzlc-o/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362267018820",
+        "starRating": "3",
+        "title": "Calories?",
+        "comment": "Don\\'t see calories anywhere.",
+        "commentId": "gp:AOqpTOE3LmhMF8tUPWfcPV8htyjU2K5Gzdm96PJKu6qk200CUgYvIrlAEdprlN_jm8bfMUE5BpsBs0msPUSXGQ",
+        "author": "Bhavana Chakraborty",
+        "authorURL": "http://lh4.googleusercontent.com/-S2uQg0nIfX4/AAAAAAAAAAI/AAAAAAAAD4o/HLNDVR0uSJ0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-S2uQg0nIfX4/AAAAAAAAAAI/AAAAAAAAD4o/HLNDVR0uSJ0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

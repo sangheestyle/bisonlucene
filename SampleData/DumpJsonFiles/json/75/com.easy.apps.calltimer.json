@@ -1,0 +1,40 @@
+{
+  "title": "Call Timer Pro (Auto Redial)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.easy.apps.calltimer",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 5, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "54",
+  "rating": "4.185185",
+  "contentRating": "Low Maturity",
+  "creator": "Carter.ten",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.easy.apps.calltimer",
+  "extendedInfo": {
+    "installSize": "269k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Call Timer Pro can help your phone auto notify a alert or hang up when your call reaches a configurable predefined time.Help you to limit the time of your incoming and outgoing calls, save some money !!And all that is free for using !!Our features:âAuto hang up.âAuto Redial when call time upâConfigure alert times based on each contact. (default - 5 mins)âConfigure notifications alert.âEnable auto Google Search for unknown numberâNotifications alert by vibrating.",
+    "reviews": [
+      {
+        "timestampMsec": "1376223548767",
+        "starRating": "5",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOHFhAJksxMsjViQVrApnW5A-aosa4rArRBAFMj0w7Ttou7jOq4F63a7jk4BrlWbVU41FfSEmPyVK23un9g",
+        "author": "Trinh Cao",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

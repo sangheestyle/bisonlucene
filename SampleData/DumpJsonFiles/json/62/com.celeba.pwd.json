@@ -1,0 +1,36 @@
+{
+  "title": "My Password Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.celeba.pwd",
+  "category": "Tools",
+  "price": "$2.99",
+  "datePublished": "July 28, 2013",
+  "version": "2.3.6",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "Celeba",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.celeba.pwd",
+  "extendedInfo": {
+    "installSize": "173k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app let you organize all your passwords or securely valuable information.Features:1.All data is 128bit encrypted.2.Password is required at starting or switching from background. 3.Import/Export with csv file.4.A file manager is included.5.Hide photos & videos from gallery.6.Search data.",
+    "reviews": [
+      {
+        "documentVersion": "2.3.3",
+        "timestampMsec": "1286225477972",
+        "starRating": "1",
+        "comment": "Can\\'t even get into initial log in",
+        "commentId": "lg:AOqpTOGAvYSepEAhx8MHJB0_ZxyI7tYcvwSKlxCUweG9sYFbK_ppqMa2cHdCy1mI5bgYEcaUK8mhjnOMARY9auU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

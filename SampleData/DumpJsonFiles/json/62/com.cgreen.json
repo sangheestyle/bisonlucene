@@ -1,0 +1,59 @@
+{
+  "title": "Green",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cgreen",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "April 3, 2013",
+  "version": "1.2.11",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Pronto Communications",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cgreen",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Voip Application to make cheap internet calls",
+    "reviews": [
+      {
+        "timestampMsec": "1351272265839",
+        "starRating": "3",
+        "title": "7601",
+        "comment": "Sankar",
+        "commentId": "lg:AOqpTOEI2xpXPBUtcwXyUx9y612-PwwiD9wjQjt6ml62hpHf_BE2BDjQh0euq-M8ZL3w28SUQqt1kOYtnLwYyw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_LOGS",
+      "android.permission.USE_SIP",
+      "android.permission.CONFIGURE_SIP",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RAISED_THREAD_PRIORITY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

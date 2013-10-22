@@ -1,0 +1,60 @@
+{
+  "title": "Where You At?",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.curlymo.whereyouat",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "June 5, 2012",
+  "version": "1.03",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "4.111111",
+  "contentRating": "Low Maturity",
+  "creator": "Colin Fahy",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.curlymo.whereyouat",
+  "extendedInfo": {
+    "installSize": "87k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Text a Google Maps link of your location. The absolute simplest and easiest way to send someone your location.Simply pick a contact (or many) and you are done. Where You At will try to get the best fix on your location through GPS or Cell Towers and then send an SMS to your contact with a link to your current location. This link opens up Google Maps on iPhone or Android, your friend does not need to have any special app for it to work.If it was able to get an accurate fix on your location, Where You At will send the name associated with the address you are at (\"I'm at Starbucks\").If the address is already in your contact list, it will send the name of your contact (\"I'm at Freddy's\")If after a minute it was not able to get a perfect fix on your location, it will send how accurate it's estimate is \"I'm at http://maps.google.com/?q=-62.59609,-59.901651 (60 meter accuracy)\".",
+    "reviews": [
+      {
+        "timestampMsec": "1338984789244",
+        "starRating": "5",
+        "title": "Been looking for an app like this!",
+        "comment": "Such a useful app for when you don\\'t know exactly where you are but want your friends to come there.",
+        "commentId": "lg:AOqpTOG3FbfARkMPvGLQiLmkRKwKvP4FsxCNKnUsc5a8KdV41t7Ccq76cFN2yWGQeprL8f-J0Da0IxS3bRCsRCI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361484295724",
+        "starRating": "5",
+        "comment": "Ingle",
+        "commentId": "gp:AOqpTOFWwuMjfnc-VGhxNOi4iwS_vtEuhW-wThKIkfvyrklaf6r5wsCV9lnacM7j3PxB5hAUS7GHAofHY2p-UsM",
+        "author": "Raju Majhi",
+        "authorURL": "http://lh5.googleusercontent.com/-oZskUktcKhE/AAAAAAAAAAI/AAAAAAAAAog/oG9fPJTEapc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-oZskUktcKhE/AAAAAAAAAAI/AAAAAAAAAog/oG9fPJTEapc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373268222114",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Thanks",
+        "commentId": "gp:AOqpTOFuU9nQNomz-WoRFCuAtOA6FK7B9SXQ-DDCbQQzBFCN-3N-wzojNjik2YIkM7xAXxD3TpHSjsIrXJsLowM",
+        "author": "Berry Hadi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

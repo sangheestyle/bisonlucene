@@ -1,0 +1,62 @@
+{
+  "title": "Simple Traffic",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.simpletraffic",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "February 24, 2011",
+  "version": "2.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "14",
+  "rating": "3.0714285",
+  "contentRating": "Low Maturity",
+  "creator": "Android Dogware",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.simpletraffic",
+  "extendedInfo": {
+    "installSize": "57k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "This simple, ad supported app uses your GPS along with Google Maps to show traffic in your area. Your screen stays on while the app is open.  Use the menus to enter Pan mode.  This will allow you to pan around the map. The Follow Me option follows your location as you move around. Use this app rather than a GPS, when you know your way, but need traffic info.  The app was beta tested in New York City. It got me across Long Island, Queens and Manhattan in record time on one of the heaviest traveled days of the summer.  Get it, and get going!",
+    "reviews": [
+      {
+        "timestampMsec": "1302272974524",
+        "starRating": "1",
+        "comment": "Does NOT work at all.",
+        "commentId": "lg:AOqpTOEbZPBvFmuaik6XcppO6Itixg_aWV5VtfnhevnlvQufXp-jqgVgUqjCdOMQ7rvNA2xwX-brreNaJMv17C8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1325859696905",
+        "starRating": "1",
+        "comment": "Adware",
+        "commentId": "lg:AOqpTOEennSOLZp8NtCdDgAZ0GXJR1RO1VOBZzTwTRAZyd7wzb3VOYfNqLXP5zLsY6lfMN4LmqguFXN1VAKtXG0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1294014700266",
+        "starRating": "2",
+        "comment": "My traffic is better.",
+        "commentId": "lg:AOqpTOHAg_FVRvoxcwEBGjpHinL4_ZuUHX6np1da-y1Ju_Ub9qSFfg4_JZvv_Dn220lkYicFOBpML2pW_P7iiMs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1286741354546",
+        "starRating": "1",
+        "comment": "Provided a Google map without traffic info. DROID X",
+        "commentId": "lg:AOqpTOGfcgjYafrIoYBICZtYnzGzeeE_GH8YNIHYCDaVWqqsXonHN7ccOgV1Pxg9_ibWhix2p9SoqvbqiNspoTY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

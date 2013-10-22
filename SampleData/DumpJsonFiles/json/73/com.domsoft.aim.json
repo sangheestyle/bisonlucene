@@ -1,0 +1,36 @@
+{
+  "title": "Aeronautical Information Manua",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.domsoft.aim",
+  "category": "Books & Reference",
+  "price": "$9.99",
+  "datePublished": "October 5, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Not rated",
+  "creator": "DomSoft Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.domsoft.aim",
+  "extendedInfo": {
+    "installSize": "10M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The complete Aeronautical Information Manual (AIM) installed on your phone for reference.  No need for internet.  Great for professional and student pilots.  We also have the complete Federal Aviation Regulations (FAR) available in the market.",
+    "reviews": [
+      {
+        "timestampMsec": "1329513901164",
+        "starRating": "3",
+        "title": "UI needs work",
+        "comment": "Please create a tablet compatible resolution / version. Allow for the removal of the graphic header to increase the available viewing area on the screen.",
+        "commentId": "lg:AOqpTOH1nP9Vz8cZ2CNTgbY8JR9-PJlwBYaTAxxA8Py78qP908nx6AZG7oC9El3WRqgCq7djlFCxNUhlN9gzReI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Financial Aid News",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.hippyapps.financialaid",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 26, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "HippyApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.hippyapps.financialaid",
+  "extendedInfo": {
+    "installSize": "10k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is a collection of regularly updated news articles and stories about student financial aid.  Student financial aid in the United States is funding intended to help students pay educational expenses including tuition and fees, room and board, books and supplies, etc. for education at a college, university, or private school.",
+    "reviews": [
+      {
+        "timestampMsec": "1328008855791",
+        "starRating": "1",
+        "title": "Do not download",
+        "comment": "Just ads for payday loans and other such crap.",
+        "commentId": "lg:AOqpTOGpxMIa7ztiq7DSmadwga7ey765a8afGydgWv_tgUNly2zLLHfuqqz9mymqyFttOoMVh4FwhMQCtaR0mCg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

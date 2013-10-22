@@ -1,0 +1,44 @@
+{
+  "title": "Leeds City College Student",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.concept4.leeds",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "10.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Concept4",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.concept4.leeds",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Leeds City College Student App provides students with a wide range of useful information, split into eight areas. These include: news, media from our video channels, events, contact information, local bus and train travel information and a series of useful links.Students can log in with their college accounts to see additional information, such as their individual timetable and attendance and links to the college Studentzone, Moodle and student email. There are also searchable maps of the campuses, both for traveling to college centres and finding rooms through the searchable database once youâve arrived.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_GPS",
+      "android.permission.CAMERA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.concept4.leeds.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

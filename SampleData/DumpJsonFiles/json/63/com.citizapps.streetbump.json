@@ -1,0 +1,58 @@
+{
+  "title": "Street Bump (alpha)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.citizapps.streetbump",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 7, 2011",
+  "version": "1.3",
+  "operatingSystems": "2.0.1 and up",
+  "ratingsCount": "16",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Citizen Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.citizapps.streetbump",
+  "extendedInfo": {
+    "installSize": "106k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "!!ALPHA!!Accelerometer data is combined with GPS data to identify possible potholes. This APP can be very battery intensive,  plugging the phone into a car charger is advised.  The user interface is not designed to be used while operating a car!",
+    "reviews": [
+      {
+        "timestampMsec": "1317306349849",
+        "starRating": "5",
+        "title": "Great concept",
+        "comment": "Combine with publicity effort and hopefully NYC can be less of a third world back country dirt road. :)",
+        "commentId": "lg:AOqpTOHvQtC18vl_h2Bcndj5FckGU4d9PVoMjaTepAWXfA4CT2Gatw36T_8YShw05clVgHuC6cxRBOgK5W5dK6s",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332919934374",
+        "starRating": "3",
+        "title": "Getting there",
+        "comment": "I like where this is going, but I have trouble viewing the bumps on the map.  I would like it to be more sensitive and be able to see more bumpy spots.  Why not plot dots down the road with bigger bumps with bigger dots.",
+        "commentId": "lg:AOqpTOF2r_s6PSFq4oauLTskXMur9irw_WXi4jlU5eFTXUBdB8r-GUqbmpCyRMuFQlXrisFIEL1frvoEJcAOzok",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1309062831129",
+        "starRating": "2",
+        "title": "Still buggy (hence the alpha release)",
+        "comment": "On my Samsung Epic 4g (Galaxy S SPH-D700), the program no longer uploads files. It\\'ll say \\\"Transmitting track\\\", but it never actually posts the track to the CitizApps website. The developers have not responded to an email I sent them a week ago.",
+        "commentId": "lg:AOqpTOFw85UAeYv-UueSW-cyTrRHW2uar3j52J8IFxAzkneOKmDlwMPzTt-4_bI86QQfJATNe1yc2GfHiYQXnck",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

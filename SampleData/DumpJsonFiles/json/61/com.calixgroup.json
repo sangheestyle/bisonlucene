@@ -1,0 +1,50 @@
+{
+  "title": "Calix User Group Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.calixgroup",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "July 12, 2013",
+  "version": "5.1.3",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Calix, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.calixgroup",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "We'll start this year on Saturday, Oct. 26, with your choice of daytime activities. Then on Sunday, Oct. 27, take advantage of Calix training classes offered at no charge. Sunday night join us for our Welcome Reception.Then get ready for two days of high-impact keynote presentations and breakout sessions on Monday and Tuesday, Oct. 28-29. Of course, we'll provide an unforgettable evening of entertainment on Monday night. And we'll give you plenty of opportunities throughout the Conference to join Calix experts for whiteboard discussions about your specific network challenges and to see the latest in Calix partner solutions at the Calix Partner Expo.",
+    "reviews": [
+      {
+        "documentVersion": "3.9.5",
+        "timestampMsec": "1351620642536",
+        "starRating": "5",
+        "title": "Casey",
+        "comment": "Very good app for the conference!  A+",
+        "commentId": "lg:AOqpTOH0RfnEBPgAtRyzio4x4dKeoxkvyY9T_yhjts1o0KVhpPgOIe5uHlivnGqJHC_5zgkzqFy1oDpdkRR8fg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.calixgroup.permission.C2D_MESSAGE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

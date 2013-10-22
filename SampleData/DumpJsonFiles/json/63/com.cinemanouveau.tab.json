@@ -1,0 +1,36 @@
+{
+  "title": "Cinema Nouveau Tablet",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cinemanouveau.tab",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "December 1, 2012",
+  "version": "1.2.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Ster-Kinekor Theatres",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cinemanouveau.tab",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Experience the poster-rich fan-centric Cinema Nouveau mobile app. This feature rich movie app with interactive seating plans, toggling between Cinema Nouveau and Ster-Kinekor Commercial cinemas has been created for the movie fans, by a team of movie fans who just love movies anytime, anywhere!Swipe through movie lists of whatâs currently on circuit and coming soon:- Find out what's \"Now Showing\" and \"Coming Soon\" - use our search function, browse movies by poster and filter movies by- Genre- Cinema- Date- View high-quality trailers that plays seamlessly on the app.- Read detailed movie information that includes synopses, parental ratings, run times, director, producer and casts lists and enriched Movie News from Africa's number 1 Entertainment Content provider.- View accurate performance timesPurchase Tickets:- Buy tickets seamlessly without leaving the app.- Get the seats you want by interacting with the cinema seating plan and choose the exact location of where you would like to sit in the cinema (for cinemas that allow reserved seating).- Sign into your Cinema Nouveau profile account to update your profile information so that relevant movie news gets delivered to you",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

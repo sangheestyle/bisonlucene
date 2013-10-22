@@ -1,0 +1,63 @@
+{
+  "title": "Land Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.discipleskies.android.landcalculator",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 28, 2013",
+  "version": "1.02",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "DS Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.discipleskies.android.landcalculator",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Create, save and view land surveys and geographic measurements with Land Calculator.Simply draw a shape or plot points on a map and store trail length, perimeter and area along with a visual representation of your work.Another method uses your phone's location awareness capabilities allowing you to mark a survey while walking or driving.All data can be stored to a database which is completely editable.  A compass and GPS reporting are included.From DS Software",
+    "reviews": [
+      {
+        "timestampMsec": "1372460972080",
+        "starRating": "5",
+        "title": "Great app.",
+        "comment": "Drawing on the map and walking survey work great.  Nice database tools.  I also downloaded their Geodesy app which I love.  It would be cool if they were combined.  I recommend this to anyone who does any kind of field work, gardening or construction or anyone that just wants to record a path or land area.",
+        "commentId": "gp:AOqpTOHiaOvM1Fl90TO1jVqmuJp0R_1ZQLJtTNjXEbPkP_1RM0nT1AN1t8QbCH2IrO6Krxz0vpJQAhFm2x-IXhM",
+        "author": "Bruce Vileche",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372675628287",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "Excellent! :-)",
+        "commentId": "gp:AOqpTOH84T6_iSZejEk2MD8w4ONbBo9bkRgveiV4-iEmkaUsY19Y7Y7MT2i910QLNVUlR_760rGfL7ZiPApU52k",
+        "author": "Odd J\\303\\270rgen Eide",
+        "authorURL": "http://lh3.googleusercontent.com/-s6aNeGFPDRg/AAAAAAAAAAI/AAAAAAAAAAA/ViK1i6mzc4c/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-s6aNeGFPDRg/AAAAAAAAAAI/AAAAAAAAAAA/ViK1i6mzc4c/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372526451459",
+        "starRating": "5",
+        "comment": "Great app for making land surveys! I love it!!",
+        "commentId": "gp:AOqpTOF2ISTWufeYtmi_eiDltDDKwFWTT0RVxpO3NzfC_t11ITv67cixEGRn4mSWBitd8afCSkRCJgi5JZ6fE3o",
+        "author": "Jonathan Train",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.discipleskies.android.altimeter.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

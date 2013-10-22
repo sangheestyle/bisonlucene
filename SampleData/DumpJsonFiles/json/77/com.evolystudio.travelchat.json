@@ -1,0 +1,63 @@
+{
+  "title": "Travel Chat",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evolystudio.travelchat",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "April 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "14",
+  "rating": "4.642857",
+  "contentRating": "Low Maturity",
+  "creator": "evolystudio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evolystudio.travelchat",
+  "extendedInfo": {
+    "installSize": "6.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Essential App for travel, Travel Chat!Travel Chat provides you with the opportunity to browse nearby travelers speaking your language, enabling you to easily share local information about anywhere you would like to travel.You can easily use Travel Chat without creating a user account by simply setting up your nationality, language, and travel destination. Select a city closest to the area you are traveling to among the list of major cities in 226 countries worldwide. Travel Chat will find the travelers available for free instant messaging and help you share information about the area you are traveling to. Instant messaging is safe because Travel chat does not collect any additional personal information other than nationality, language, and travel destination. You can meet a number of helpful people through free instant messaging in situations where such travel phrase books or translation apps cannot help. Even when you plan ahead a trip to a certain area, you can still obtain the most up to date information from people currently traveling in that area by setting your travel destination to the same area.Now, are you ready for the journey?Travel chat will add extra excitement to your upcoming journey.Have a safe and wonderful trip, and donât forget to leave your memorable moments on Travel Chat message board!",
+    "reviews": [
+      {
+        "timestampMsec": "1356879393023",
+        "starRating": "5",
+        "title": "Aman",
+        "comment": "Zdsd",
+        "commentId": "gp:AOqpTOGyNgEtj__bXt2BIrVNUTYD1IAzr9g8XX7MvwbrDt1FdJ08nJb_KuzwtmZN1jduMOOiqWBcjP87vMivfOA",
+        "author": "Zaid Maniyar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356093113958",
+        "starRating": "5",
+        "title": "Cool!!",
+        "comment": "Very good idea! Very helpful!",
+        "commentId": "lg:AOqpTOENHftKqj0o855zR4q2f1vPyRNNh_plVXSU45EY8l-UqPyVo7ZXLnCCzBFUI1yWEM1OzM3AOVwo6Rl_hFs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371964496718",
+        "starRating": "5",
+        "title": "5 stars",
+        "comment": "How do u delete ur profile",
+        "commentId": "gp:AOqpTOGEOpHcsIxfNqdITfLyIuEtpd-L6yuaCQJ6pbVUnU9mtml2ZYw3ntAHr5zUyj27akWgqAMy-0GD3h35lgg",
+        "author": "Kayla Will",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.evolystudio.travelchat.permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

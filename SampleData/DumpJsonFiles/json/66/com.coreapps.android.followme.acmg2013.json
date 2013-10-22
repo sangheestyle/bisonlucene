@@ -1,0 +1,60 @@
+{
+  "title": "2013 ACMG Annual Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.acmg2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "March 12, 2013",
+  "version": "4.2.3.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.acmg2013",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The ACMG Annual Clinical Genetics Meeting provides genetics professionals the opportunity to learn how genetics and genomics are being integrated into your medical and clinical practice.  This premiere event offers networking opportunities with peers and worldwide leaders, and the opportunity to view the most current products and services available in the field of medical genetics and genomics.",
+    "reviews": [
+      {
+        "documentVersion": "4.2.1",
+        "timestampMsec": "1362683827717",
+        "starRating": "5",
+        "title": "Well done!!",
+        "comment": "Great app!!",
+        "commentId": "gp:AOqpTOHh1VTS43LChlwcCVunfRFuJHgyh6nEdIvO6q-eBnYy32MnhVIJEocLV_-9lTmG7ze7j6Ub-c4CmGVLtQ",
+        "author": "Louis Hoffman",
+        "authorURL": "http://lh3.googleusercontent.com/-eyHBAOMMFJM/AAAAAAAAAAI/AAAAAAAAAJs/d1eIIrUHBfk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-eyHBAOMMFJM/AAAAAAAAAAI/AAAAAAAAAJs/d1eIIrUHBfk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.acmg2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

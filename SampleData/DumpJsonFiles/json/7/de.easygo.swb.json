@@ -1,0 +1,60 @@
+{
+  "title": "SWB easy.GO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=de.easygo.swb",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "August 7, 2013",
+  "version": "1.2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "54",
+  "rating": "3.148148",
+  "contentRating": "Low Maturity",
+  "creator": "TAF mobile GmbH",
+  "creatorURL": "https://play.google.com/store/apps/details?id=de.easygo.swb",
+  "extendedInfo": {
+    "installSize": "5.4M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Mobil zum Ziel â mit SWB easy.GO!Die kostenfreie App fÃ¼r Bus, Bahn und Tram im Stadtgebiet Bonn - downloaden, freischalten und los gehtâs! Tickets per Smartphone kaufen â ohne Anmeldung, ohne aufwendige Suche, ohne Tarifkenntnisse und ganz einfach und sicher Ã¼ber die Handyrechnung oder das Prepaid-Guthaben bezahlen*. Die schnelle Alternative wenn kein Kleingeld zur Hand ist!Und SWB easy.GO bietet noch mehr: - Haltestellenortung- Verbindungsauskunft- Aktuelle Abfahrtszeiten - Interaktive NetzplÃ¤ne- Aktuelle Verkehrsmeldungen- Favoriten- & VerlaufsfunktionInfos Ã¼ber alle Funktionen sowie die Liste der unterstÃ¼tzenden Netzbetreiber gibt es unter www.myeasygo.deFragen zu SWB easy.GO beantwortet Ihnen gern:- das easy.GO-Support-Team unter 03641 5733420 oder- per E-Mail an info@stadtwerke-bonn.de in der Zeit von Montag bis Freitag, 9 bis 16 Uhr.* Der Ticketkauf ist nur mit einem in Deutschland abgeschlossenen Mobilfunkvertrag oderPrepaid-Karte mÃ¶glich.** 0,09 EUR/Min. inkl. MwSt. aus dem dt. Festnetz, Mobilfunktarif max. 0,42 EUR/Min.",
+    "reviews": [
+      {
+        "timestampMsec": "1374071653142",
+        "starRating": "1",
+        "title": "drecks system",
+        "comment": "karten kaufen nur f\\303\\274rs bonner stadtgebiet, der letzte mist...",
+        "commentId": "gp:AOqpTOEQ44H_J6xq7wSYPq-VBp2g2dTLEIFhdN4t42nQsqhRvfJfejtv1aVwJpeK35jJLncyk5vgnbcwePlBZw",
+        "author": "hanno l",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340985210952",
+        "starRating": "2",
+        "title": "Umst\\303\\244ndlich zu bedienen",
+        "comment": "Bis jetzt ist f\\303\\274r mich in dieser App kein Nutzen erkennbar. Alles, was SWB-EasyGo kann, kann \\303\\226ffi auch - und zwar einfacher. Neben \\303\\226ffi, DB Railnavigator und VRS Info sehe ich schlicht keinen Platz f\\303\\274r diese App - die sich gleich 10 MB auf dem Telefon genehmigt. Wichtiger w\\303\\244re, dass die SWB endlich ein API bereitstellen, \\303\\274ber das man auf ihre Echtzeitdaten zugreifen kann. Dass diese Daten nicht einmal in der hauseigenen App enthalten sind, ist Ein Armutszeugnis.",
+        "commentId": "lg:AOqpTOGDY12VX1sg6xE_2yR_xb7MlIm_KfPcuGVgawtYaoS73NnfdzSjqsWgC1RYcTNUdi5Pc-F_5VATpyhSrw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355670363166",
+        "starRating": "1",
+        "title": "Not recommended",
+        "comment": "Counterintuitive and badly designed. Use Deutsche Bahn\\'s Navigator instead.",
+        "commentId": "gp:AOqpTOFLrAaqOfMuvzLhDaEHZ4beCz2tVUXC7DQKi-MS95SuCGiptYOX9Zhy-snrd8s3rbt8XJnf-Pgcq1XAmQ",
+        "author": "Kotya Karapetyan",
+        "authorURL": "http://lh4.googleusercontent.com/-tkQECZiHklA/AAAAAAAAAAI/AAAAAAAAAAA/JQzhFrC8JgE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-tkQECZiHklA/AAAAAAAAAAI/AAAAAAAAAAA/JQzhFrC8JgE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.SET_DEBUG_APP"
+    ]
+  }
+}

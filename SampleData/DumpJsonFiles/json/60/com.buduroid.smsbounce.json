@@ -1,0 +1,49 @@
+{
+  "title": "SMS Forwarder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buduroid.smsbounce",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "July 30, 2012",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Mouse Click Enterprise, Kelantan",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buduroid.smsbounce",
+  "extendedInfo": {
+    "installSize": "280k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "SMS forwarding application to forward incoming message to another phone.This app is useful when:-1. you arrive in the office and realise that you've forgotten or left behind your phone at your home/hometown2. it's not practical for you at that time to go home only to fetch your phone.3. or when you've lost or misplaced your phone.4. and you're expecting important or urgent SMSYou can also use this app to monitor your children's incoming SMS.How to use this app:-1. Install this app in your phone (Phone A). This will become the target phone.2. Using another phone (Phone B), send a text message containing the passcode to Phone A to activate the application.3. Once the application in Phone A is activated, it will forward or relay any incoming messages received by Phone A to Phone B.4. To stop receiving the forwarded messages, send another passcode to Phone A. Or when you have back your phone, you can deactivate it from the application itself.NOTES:-1. Phone B is not necessarily an android phone and need not install with the application.2. You can edit the passcode to suit your own preference which you can easily remember. Make sure you save it or it will return to the default passcode.3. If you use Phone B and Phone C (more than one phone) to activate the app in Phone A, both phones B&C will receive the forwarded messages4. Remember to deactivate the service if you don't need it any more. Once deactivated, both Phone B & C will no longer receive the messages. To deactivate, sms the passcode OR you can do it from within the application itself.5. To test this app, you need to use at least 3 phones. Phone 1 (target), Phone 2 (tracker) and Phone 3 (to send any sms to Phone A).Any query or problem, email mytikus@gmail.com",
+    "reviews": [
+      {
+        "timestampMsec": "1376867108432",
+        "starRating": "5",
+        "title": "V",
+        "comment": "C",
+        "commentId": "gp:AOqpTOHiLQ6pqzUlXODMH_PmVrzuQzJbaJOFErFMCZD1AUxCwPEgOXrjiWQ9JCLRtxBU9idPzj49cpkYfJxe",
+        "author": "Ajay Kumar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352973322132",
+        "starRating": "1",
+        "title": "Fake app.",
+        "comment": "Dont wast ur time",
+        "commentId": "lg:AOqpTOEqCAARkSyZznyzTEvf0bAjwu2voKdxjj0A9X4k5FQqrT6RMMXzz1I_npoQs4EJ91VsCQ3VdAe0zKxG",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_CORSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS"
+    ]
+  }
+}

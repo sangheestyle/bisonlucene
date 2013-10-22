@@ -1,0 +1,45 @@
+{
+  "title": "Type 1 Project",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_c2247d9c9f734d1aa70184f5f646eef8.app",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "December 1, 2012",
+  "version": "1.51.66.598",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "HarrisCountyHOSA",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_c2247d9c9f734d1aa70184f5f646eef8.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Type 1 Project application is for the purpose of educating a younger and broader audience about Type 1 Diabetes. There is information available such as treatment, complications, and management. You can also use the carbohydrate counter provided. There are several information videos available on topics such as \"Ways to Take Insulin\". This app was developed by the Harris County HOSA Health IT Team for educational purposes.",
+    "reviews": [
+      {
+        "timestampMsec": "1354404183036",
+        "starRating": "5",
+        "title": "Love This App!!",
+        "comment": "I Love This App!! Very nice Type 1 Project!",
+        "commentId": "gp:AOqpTOE1H6qRa6_9iVa50FwqVO2Ry_tXBlrKNnHIMBHhEhYg_jB67JFL1F01C7VM6Z14TRoiFJnIWdhSKmfgIw",
+        "author": "Christian Lawson",
+        "authorURL": "http://lh3.googleusercontent.com/-uVTy4kDDQhk/AAAAAAAAAAI/AAAAAAAAAXQ/FYGg7WCjvJg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-uVTy4kDDQhk/AAAAAAAAAAI/AAAAAAAAAXQ/FYGg7WCjvJg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_c2247d9c9f734d1aa70184f5f646eef8.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

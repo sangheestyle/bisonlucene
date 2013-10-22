@@ -1,0 +1,28 @@
+{
+  "title": "Break Alarm!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doandroid.break_alarm",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "January 9, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "doandroid",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doandroid.break_alarm",
+  "extendedInfo": {
+    "installSize": "418k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Minimal countdown timer to control work flow. I realize that I work more productive if I make breaks each 45 minutes. Here is my implementation of promodo like timer. If you need to have brakes in other periods, please use program settings and modify timer period. Now application is very simple it just plays a sound and logs time when timer starts/stops/finishes. Main processing runs as a service, so activity can be closed. In log you can see how much time you have been working, when the work started and finished.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

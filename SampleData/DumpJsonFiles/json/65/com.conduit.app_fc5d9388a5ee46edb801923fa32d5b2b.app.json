@@ -1,0 +1,45 @@
+{
+  "title": "GLO Student Ministry",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_fc5d9388a5ee46edb801923fa32d5b2b.app",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "December 5, 2011",
+  "version": "1.2.2.1488",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "GLO Student Ministry",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_fc5d9388a5ee46edb801923fa32d5b2b.app",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official app of GLO Student Ministry! Like us on Facebook, check out student ministry videos on YouTube, read the latest tweets or browse GLO graphics and pics! Download now!",
+    "reviews": [
+      {
+        "documentVersion": "2.2.1488",
+        "timestampMsec": "1349837894398",
+        "starRating": "1",
+        "comment": "Kept crashing",
+        "commentId": "lg:AOqpTOF5zfw-uj3jVclf86T4Rx35CKHILdyMK9XUVB4R8KS4At8KO_qy-4LPmmXA46F5SPsQeESclGBbAEu2rHc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_fc5d9388a5ee46edb801923fa32d5b2b.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

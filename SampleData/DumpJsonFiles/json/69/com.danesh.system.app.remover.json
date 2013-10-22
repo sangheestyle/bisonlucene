@@ -1,0 +1,211 @@
+{
+  "title": "SystemApp Remover",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.danesh.system.app.remover",
+  "category": "Tools",
+  "price": "$1.02",
+  "datePublished": "March 11, 2012",
+  "version": "4.28",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1175",
+  "rating": "4.2238297",
+  "contentRating": "Everyone",
+  "creator": "Danesh M",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.danesh.system.app.remover",
+  "extendedInfo": {
+    "installSize": "55k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Please if any issues send me a report (Either via in app \"send log\" or if force close, via \"report\") W/o it i can't do much.ATTENTION : Htc Desire owners, make sure your bootloader is s-off.This allows you to UNINSTALL (not just delete) regular & stock/system apps.EXPERIMENTAL : Move apps (Ability to move apps to system and symlink them to data)ROOT is REQUIRED for uninstalling SYSTEM apps and Moving/Restoring appsROOT is NOT REQUIRED for uninstalling REGULAR appsIf any issues, email me a log instead of posting a negative comment.Busybox (Menu -> BusyBox On)Log (Menu -> Send log)When tapping on a system app, choose otherEnable = package is enabled (aka default)Disable = package is disabled, never gets called onUseful for things like twlauncher where an app is never used but the os is not functional without.android.permission.WRITE_EXTERNAL_STORAGE -> To backup/restore appsandroid.permission.READ_LOGS -> To be able to send log (Press menu) in case of a crash or root problems...etc",
+    "reviews": [
+      {
+        "timestampMsec": "1376185759145",
+        "starRating": "5",
+        "title": "Scrubbed away even the most stubborn app.",
+        "comment": "It\\'s cheep! And freed up a bunch of space on my aging \\'droid. Finally got rid of all that battery draining and buggy crapware Rogers Telecom installs on all their phones.",
+        "commentId": "gp:AOqpTOFCWsUdVsfum03dBWNGdIms5FT0f7ROoA_k8_CatWQmEifOJEUxpxK78paR_bWAfI38MqQHfbLER7C09HE",
+        "author": "Ed Labindao",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366942107816",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "This app is my go to app, whenever I need to get rid of system applications. It is flawless and never lets me down. It allowed me to remove over 130 MB of system apps that I don\\'t need or use.",
+        "commentId": "lg:AOqpTOHusDMp0u8DCR65uwBcDBjTly3uc4qvoq0rGhozK7Fd9xo3lRq4knLl3EbIzTTpWOxaf0aVhSfhwe4fX9o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378504251031",
+        "starRating": "3",
+        "title": "Good, except on 4.3",
+        "comment": "This was my go-to for removing carrier and Samsung bloatware. Unfortunately, it doesn\\'t work on Android 4.3 - can\\'t mount /system as r/w. Another similarly-named app works great in 4.3. I\\'m leaving stars for previous usefulness.",
+        "commentId": "gp:AOqpTOHtuppM3QKves5CBaaR5omoHgjp9JGviYewGX5b60sAya1C9KPsC5YHPwcWx4eYUMxTKD0i7I7T1GYICmg",
+        "author": "Andrew Rich",
+        "authorURL": "http://lh6.googleusercontent.com/-deR1kD8Rb7Q/AAAAAAAAAAI/AAAAAAAAiIo/ASXxZx9mt_Q/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-deR1kD8Rb7Q/AAAAAAAAAAI/AAAAAAAAiIo/ASXxZx9mt_Q/photo.jpg"
+      },
+      {
+        "timestampMsec": "1339367433599",
+        "starRating": "5",
+        "title": "Amazing app.",
+        "comment": "Very powerful. Be careful to not uninstall important system files! ... you can brick your phone if you screw around with this app. Do a bit of research before deleting system files.  Also, people: please stop giving 1 star ratings because you do not know how to root your phone. The apps description clearly states root access is required to remove system apps.",
+        "commentId": "lg:AOqpTOHWbBNobyXLymmLwRF0ViQP6xKlnjV4NtM9C8jr4dkmqB44Nh2KfrBzsFAl9PprO28ZhVsvl-MlDVJLE90",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359607296711",
+        "starRating": "3",
+        "title": "Good, but lacking a bit...",
+        "comment": "Biggest complaint is that this app only lists the apk, and not the module name (com.verizon.backup.crapware) so you have to go googling a ton to tie the com.blah.blah listed in the system to the apk listed in this. Nice that it has disabling for system apps that don\\'t allow disabling normally.",
+        "commentId": "gp:AOqpTOGICipHrapyU-aRZBxuIAmy3wFvkYL1W7IuB66ZwC1fDh6fQ4nJUya9wbnvQUnCc7tdjAwTUzRQWu73cCg",
+        "author": "Daniel ML",
+        "authorURL": "http://lh4.googleusercontent.com/-MuxClgAbA1U/AAAAAAAAAAI/AAAAAAAAAWA/sAM-vcjFfTU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-MuxClgAbA1U/AAAAAAAAAAI/AAAAAAAAAWA/sAM-vcjFfTU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378033487629",
+        "starRating": "1",
+        "title": "No response from developer what so ever",
+        "comment": "It seems that the app does not function properly on android 4.3. It can not mount system as read/write though the bootloader is fully insecure and have full root access. Tried contacting developer though email and appstore but got no response what so ever. 1 star until response or update.",
+        "commentId": "gp:AOqpTOH0Q-DxS-36jbwCw3oix6rr-LitljNO7CTmg-QD5mYFrYWN2kQcCI29mCdG1fIzCzqwx1-LxpQVJboKzc4",
+        "author": "Geert Geus",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334583041511",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Great app that does what it says without any problems.  Would love a search or filter function tho! :)",
+        "commentId": "lg:AOqpTOHhNGcw3r_vmAnfLQiDtuQuwa-t33eiPeiAncHc7FBCOq4SaVcLX7eftbkXgg2DbL2t6bV6i0SeEEsr-UM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356059752559",
+        "starRating": "5",
+        "title": "best of the best!!!",
+        "comment": "i have used a lot of these apps but im not mistaken when i say this app remover is bar none... best of the best app remover, period! super clean user interface, freezes, backs up, and removes apps from your rom if you have root access. great job dev!",
+        "commentId": "gp:AOqpTOGZJHsvBeXGMaFFfjJ0KjiBKI4aNaDAW2JLP9laq4KJvGFF5MkAiNgJTphbJUDwuOBjO_7uahF2Ur2rBPU",
+        "author": "Jason Bedford",
+        "authorURL": "http://lh3.googleusercontent.com/-d7-tDuch9QU/AAAAAAAAAAI/AAAAAAAAAMY/90jnkvG-Y_k/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-d7-tDuch9QU/AAAAAAAAAAI/AAAAAAAAAMY/90jnkvG-Y_k/photo.jpg"
+      },
+      {
+        "timestampMsec": "1334087674355",
+        "starRating": "1",
+        "title": "WASTED MY 1 dollar...A crapy application",
+        "comment": "I came to know about this application through one of the forums, wherein they recommended this application for rooting the device (ZTE Blade), I was impressed with the reviews and downloaded, however it turned out to be a nightmare and I wasted my $1.00 for getting nothing, Whenever I tried to access the application it always tells me to follow \\\" How to root/Send Log/ Non root, also the option which pops up is regular application and \\\"system application\\\" is always grayed out.  I\\'ve sent my log couple of times but no response though.  If this still works for me, I myself will come and put a good comment about the same.  For now it\\'s a \\\"BIG NO\\\"!",
+        "commentId": "lg:AOqpTOHBBn3eLXxz9shZVk9v2pOpkTuQHARIBqhEA5gMwVcMB1BWxd8eSpWLoIB9ZsM1ozlElodnoUx0fTdzxiI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333579045326",
+        "starRating": "4",
+        "title": "Good, safe, stable...but.",
+        "comment": "This app is rock solid. I\\'ve tried a couple and all but this one have either not shown me all apps, not removed them properly or just crashed. This one hasn\\'t failed me, and I\\'ve used it a lot!  However, I\\'d love it if I could batch uninstall with it. That, and the ability to uninstall without going through the different dialogs would make it perfect.",
+        "commentId": "lg:AOqpTOGS8MPGa_sMZhZ1wlqBiGIjEUSdvp1uvMFLhpR0mXAFlkqoarePJ-J9CE06oPZAGN0ilTMQZOm9vvjx12w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354017433794",
+        "starRating": "4",
+        "comment": "Garminfone I do believe you need to be \\\"rooted\\\" to achieve the Apps capabilities. Does what it says.\\nDebra",
+        "commentId": "lg:AOqpTOF2JMTnOhhP4n1410Z9wSlRZV0Vb3N6ZrVBVHIMrNi-63ptW-BJeKPQWmg_TSIh6leZRhJA84_JV8xA0M4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340609305685",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "Probably the most important app to me gets rid of all the bloat and can backup apps. always the first or second app installed on my phone worth ten stars.",
+        "commentId": "lg:AOqpTOHg3VuBM8YE9sQXKtd3Y2J9uiJUbsivAoPA-9JHHPwiMlTP4HDcfKF2rHzXh22J8ngPX-cHw-ZE4KbKk_c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332715284571",
+        "starRating": "5",
+        "title": "5 star",
+        "comment": "Great app!!",
+        "commentId": "lg:AOqpTOGLlmRsg74TMvirCYPienrCkEzqdd3hdgPb58OoNdfkh8Gr7izO6Ut6kHzPGqw4VXT2B-GWjLGI-EhNtcs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331985526655",
+        "starRating": "4",
+        "title": "How to set s-off?",
+        "comment": "I\\'m sure this app works, it would be very nice if the developer would explain(in the help) how to set s-off on htc desire.",
+        "commentId": "lg:AOqpTOHKiRFfY1sMEQZpt8pJWV5-uo_meEFEsrwyJY2k2sqo2-oCrhZSUA9Y8Z2jRvLdCfedxA_tqFvphIYxn30",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331535766714",
+        "starRating": "5",
+        "title": "Great Utility App",
+        "comment": "Definitely deserves 5 stars.",
+        "commentId": "lg:AOqpTOGX9ADGYfGpE5LN8U9Yi70UQrnIALVoZa-qdOAHGdmXQI6Wtph66E9Ned55_qNDKzBW4tUY8upc1n_tvhg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353088220170",
+        "starRating": "2",
+        "title": "Was awesome.",
+        "comment": "Needs updated.... Not working prober w/ 4.2 update...",
+        "commentId": "lg:AOqpTOGkLCCC1_Z7fIeFtDRM_yEEKVveQnqoZPUwV_CMkVvgIIoThJMDdk7gWhJLZzf4FCa5WbZ2QC_uG-WNjQo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337877971908",
+        "starRating": "4",
+        "title": "Htc amaze 4g rooted S-on ICS",
+        "comment": "Works great...even with S-on .. destroys bloat!",
+        "commentId": "lg:AOqpTOHJzXmX9IiDc5G_ygK60PxRX0k-rVX30va4ODsAJGp5eQmHQpFMUYHo6mQEBGuXHAOVhKTubKiZ3MD4Jk0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344839164370",
+        "starRating": "2",
+        "title": "BAD APP for Samsung Galaxy Ace GT-S5830",
+        "comment": "MOVING APP FUNCTION DOESN\\'T WORK (on Samsung Galaxy Ace GT-S5830)!! Program deleted apps I wanted to move. I had to re-install them, fortunately settings weren\\'t deleted.  I wanted to delete pre-installed T-Music app and I lost my music player as well which seemed to be another independent app.  Disabling and uninstallation of other apps worked good.  I rate **",
+        "commentId": "lg:AOqpTOG0W7YtItPlMDdyWh4Qrvs-rGSRKtoGxpeEqtsstILbgSWRl9gZ-J1OzDjUxUi-iWwFJQLm09IjpQlt-ss",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359668087395",
+        "starRating": "5",
+        "title": "Improved",
+        "comment": "In ICS it seems to work Better then in crusty bread.",
+        "commentId": "lg:AOqpTOFj_tKt_UJ-afKox73f7IL5UdwXUSSypjsBBSCJ0IgjIrPkyS5FJ2ll6OtivpkSrlLIIwHTtjqJatddtVM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336208098176",
+        "starRating": "5",
+        "title": "Finally...",
+        "comment": "So happy i will never see yahoo sportacular and looped again. Next on the chopping block is metro easy wifi, as soon as i am sure deleting it wont inhibit my phone from connecting to wifi.",
+        "commentId": "lg:AOqpTOEh88nFNx-AA3TL2TlY_rCaJzsK-ed40pXu2z7KjbG6_yRfruO5sPAyQkX34-vj7dpGcyP7mG9ZlB6srHU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

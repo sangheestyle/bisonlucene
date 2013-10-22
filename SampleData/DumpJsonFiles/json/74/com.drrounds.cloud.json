@@ -1,0 +1,49 @@
+{
+  "title": "Dr. Rounds Cloud",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drrounds.cloud",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "May 27, 2013",
+  "version": "03.02.00",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dr. Rounds LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drrounds.cloud",
+  "extendedInfo": {
+    "installSize": "8.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "A Dr. Rounds Cloud Subscription is Required for the Cloud features only (cloud storage and sharing). The App may be used without a subscription!Dr. Rounds Cloud is a beautiful, easy to use, secure, HIPAA compliant, Charge Capture App for physicians, mid level practitioners and support staff such as billing. It streamlines the process for you to capture your daily work when seeing all of your patients. With a few quick taps, you can record all of your charges and your billing staff can get it instantly. The Dr. Rounds Cloud App connects to the Dr. Rounds Cloud service, which enables synchronization among your entire group and billing staff. Once the other members of your group begin using Dr. Rounds Cloud, they will instantly get your updates, charges, additions, notes, pictures, and Face Sheets. You have to do no extra work at all; it is synced to the cloud and synced to them automatically. Features include:* Cloud Sync - Synchronization of HIPAA compliant App Data with our HIPAA compliant Cloud Web App.* CPTÂ® and ICD Integration - Fully licensed from the AMA, the full CPTÂ® database, along with the ICD-9-CM database allow you to capture all of your work. Ability to reorder CPTÂ® codes and attach modifiers to ensure proper reimbursement. * Free Billing and Staff Accounts - All of your support staff can utilize the Web App to populate your data. Your billers have free access to the * Web App to process your claims for reimbursement. No nickel and diming for the people who help you get your job done.* Collaboration between physicians and mid level practitioners - With our Cloud Sync technology, all data is available to all members of your group automatically. All patients, hospitalizations, face sheets, notes - everyone.* Full History - You can view all encounters for a patients hospitalization. * Media and Face sheet capture - Instantly capture and upload your Face sheets and pictures for patients. Face sheets are downloadable by billers in PDF format, for ease of printing.* No backup worries - By syncing regularly, if your child decides to throw your mobile phone in the toilet (because it has happened to us...), once you acquire a new phone, download the App, and login, all your information is there. Your patients, your encounters, your settings. All preserved. * HIPAA Complaint - All data is transported over secure SSL connections. The App leverages AES-256  encryption. All database data is stored using encryption, along with encrypted backups. All media and Face sheets are stored using AES-256 encryption within the App and in the Cloud.",
+    "reviews": [
+      {
+        "documentVersion": "3.00.00",
+        "timestampMsec": "1369705752969",
+        "starRating": "5",
+        "title": "Dr. Rounds Cloud",
+        "comment": "It\\'s here!!",
+        "commentId": "gp:AOqpTOHwSwosMx-ONKNuC2rvIGO6KorB2W3qG07d2UOyvY8YyGSwfhGhC-ETBSmSXZUjyabLLV4WHkSK0zU07Q",
+        "author": "Camil Sader",
+        "authorURL": "http://lh6.googleusercontent.com/-xZe3cKXzYMk/AAAAAAAAAAI/AAAAAAAAADk/fzgGE6Bw1f8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-xZe3cKXzYMk/AAAAAAAAAAI/AAAAAAAAADk/fzgGE6Bw1f8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.drrounds.cloud.permission.C2D_MESSAGE",
+      "android.permission.GET_ACCOUNTS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

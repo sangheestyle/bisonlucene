@@ -1,0 +1,58 @@
+{
+  "title": "Beyond Taskmanager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fancymobile.taskmanager",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "February 15, 2011",
+  "version": "1.7",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "12",
+  "rating": "3.0833333",
+  "contentRating": "Everyone",
+  "creator": "FANCY MOBILE",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fancymobile.taskmanager",
+  "extendedInfo": {
+    "installSize": "103k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Features:-Show and kill tasks & processes-Show autostart apps, autokill when startup-Autokill apps after screen off-CPU usage and top processes-Memory and storage infoKW:task killer taskmanager systempanel cpu usage process cleaner ATK memory clearTry it to speedup your phone and save battery!",
+    "reviews": [
+      {
+        "timestampMsec": "1320242167526",
+        "starRating": "4",
+        "title": "No QVGA support",
+        "comment": "Good ability to spot top cpu app and quick battery status check. Doesn\\'t support new high resolution screens like HTC Amaze.",
+        "commentId": "lg:AOqpTOEKK-0rsiZX4jPF7U1ARfHX8qB6p9gAWFWB63ibKoO-L3iJQhflz_AauBg9oKyXyfAh1e01ovLpbGFXmhY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1289990991332",
+        "starRating": "2",
+        "comment": "Concept of APP is great. It is not working as described. Will not autokill at screen off. Will update comment later.",
+        "commentId": "lg:AOqpTOHzkdQzvxW6EypelRGMwZNX05mY9NSuqUMtebyxC6en-m-KnDE7_N0v0tWzEen2OAU6gDUcyhLyQ-u3rko",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1285214211224",
+        "starRating": "2",
+        "comment": "Good thought but wont refresh the apps. Add widget to kill apps too",
+        "commentId": "lg:AOqpTOH6-5yA_MyFF47qN8_G1IjaepUX68ww03RVVZ5gtk5eRZ5vU04AdSX06tVbdpru15cXCSY-Z1nfMP-D6hE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.GET_PACKAGE_SIZE",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

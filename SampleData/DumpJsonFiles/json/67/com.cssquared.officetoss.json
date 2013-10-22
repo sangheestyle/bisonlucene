@@ -1,0 +1,31 @@
+{
+  "title": "Office Toss",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cssquared.officetoss",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "February 16, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "5",
+  "rating": "3.2",
+  "contentRating": "Everyone",
+  "creator": "CS Squared Games",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cssquared.officetoss",
+  "extendedInfo": {
+    "installSize": "245k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Office Toss is a casual game where you drag the trash can around the screen and catch randomly tossed office items. Catch as many items as you can in a row to get the high score! Compete with your friends!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

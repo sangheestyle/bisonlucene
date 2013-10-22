@@ -1,0 +1,45 @@
+{
+  "title": "Learn Body Language 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dimav.bodylanguage",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "March 1, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dimav Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dimav.bodylanguage",
+  "extendedInfo": {
+    "installSize": "5.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Is a handshake really just a mere handshake, or does it express so much more?>>>>>>> Discover Body Language and How it Can Benefit You! <<<<<<<Features of this app:1) Learn to be a great listener through reading body language.2) Learn to understand the reasons behind certain body language.3) Body language for dummies4) Learn to be a great body language decoder5) Guide to understanding body language",
+    "reviews": [
+      {
+        "timestampMsec": "1366896853568",
+        "starRating": "5",
+        "comment": "Its good",
+        "commentId": "gp:AOqpTOFF4WDBC8DlaAQ1MSe9RHQ11p9BHx9Uo7Y3q9dgadTkG9jBNO4So6r2BgUySwUUvvbI-lVok5gPP7WkzA",
+        "author": "nishant kumar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.dimav.bodylanguage.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

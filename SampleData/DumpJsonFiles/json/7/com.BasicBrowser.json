@@ -1,0 +1,67 @@
+{
+  "title": "Simple Browser",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.BasicBrowser",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "December 21, 2010",
+  "version": "1.0.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "11",
+  "rating": "2.3636363",
+  "contentRating": "Everyone",
+  "creator": "Michael Carpenter",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.BasicBrowser",
+  "extendedInfo": {
+    "installSize": "43k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Simple Browser was designed to let you surf the web faster.  You can type a URL, add bookmarks, and retrieve stored bookmarks. Stored bookmarks are displayed as URLs instead of titles to clarify what the bookmark points to.  The browser works with search engines and is web site compatible for typical surfing use.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1324481597189",
+        "starRating": "4",
+        "title": "VERY NICE",
+        "comment": "Great app, does suffer from the loading please wait banner that wont go away until the back button is pressed on my 10 inch tablet.  Other than that its responsive and easy to use",
+        "commentId": "lg:AOqpTOGQDi3su-h9GU-hDmVQM93tFyhBQA_uvD5PQ2-wl6Y59GkswaGGLSSpy5EF-jNlOmvyTbJnWvigk-MFvw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1310333382028",
+        "starRating": "1",
+        "title": "Defective.",
+        "comment": "When I open the app, it starts to load the Google home page, but then just says \\\"Loading. Please wait...\\\" and never finishes.",
+        "commentId": "lg:AOqpTOFE_IfU0RWQTbCkg-TG5alQP6Ry6yJXb_HHULsIy0kHQ-I_gFGbCFqtZOxBmQH4qO0SnERIsZlDuY-pzg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1336694199885",
+        "starRating": "1",
+        "comment": "Needs lots and lots of work\\nBut good try at making a browser LOL",
+        "commentId": "lg:AOqpTOEIFeze_-7GoD6p-Mr6IPA6frIo3L9lFvTIk0oNvYGNDpsMRSWY38ksk0GcVgoxBDg7dpcRNvwBzCaRig",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1292582075199",
+        "starRating": "4",
+        "comment": "Cool... 5stars if it showed progress of the site loading... we just click and than no sign of site opening and after few seconds site opens... kinda",
+        "commentId": "lg:AOqpTOErfYSIMy_8kZ_YTWod40aNuHgVjBAMEU4XUYCnpYGU-qcHHAzYVbXrB-hieQt7-d9hUgbAUq9FZ82MIA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.broswer.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS"
+    ]
+  }
+}

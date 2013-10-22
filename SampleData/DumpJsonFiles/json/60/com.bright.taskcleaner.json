@@ -1,0 +1,220 @@
+{
+  "title": "Advanced Task Cleaner 2.0",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bright.taskcleaner",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "November 21, 2010",
+  "version": "1.6.7",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7175",
+  "rating": "4.4129615",
+  "contentRating": "Everyone",
+  "creator": "Bright Wallace",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bright.taskcleaner",
+  "extendedInfo": {
+    "installSize": "202k",
+    "downloadsCount": "1,000,000+",
+    "downloadsCountText": "500,000 - 1,000,000",
+    "description": "Cleaning running applications.Making your android phone speed up and saving battery!support android 1.5 and up.   HOW TO USE --------------------------------------It's Pretty simple:-)1.Launch this application and take a look at the running applications list, uncheck some applications you don't want to kill (Such as some system applications). Tap the button \"End Task\", it will kill all applications checked.\t\t2.Tap app item to kill/switch/uninstall/detail.3.Long Press app item to add/remove ignore list,add/remove auto-kill,manage auto-kill list.4.Enable the Auto-kill Setting ,if you want to auto-kill running apps.5.If force close,send bug report by menu->prefrence->Bug Report.6.Long press to add task clean widget on home screen.      NOTICE -------------------------------------- 1.Make the show ignore app setting checked, the ignore app will be displayed in main view.2.The Startup clean scale is same as Widget's kill all apps. Actually it means kill all tasks which exclude ignore list and some system required tasks.\t\t3.If Widget Press Action has been changed ,please remove the widget from Home Screen and add it again!4.Hide the Notification message when the phone screen is from off to on and no task to kill.5.When AutoStart type is Run in Background, means that TaskCleaner will run in background when reboot.6.If you pressed Menu->Completely Exit, all function will be stop except widget.7.You can add widget to clean task by scale mode or set different apps to be killed at different times using the interval options!   NOTES--------------------------------------1.Auto-killer only kills tasks in this auto-kill list.Be careful on what you intend to insert in the auto-kill list.2.this auto-kill function runs when the screen goes off or enters sleep mode.3.Interval Auto-kill Service auto-kill tasks by interval mode. Set the interval of auto-kill in auto-kill list view.4.When first init this app,Message,Gmail,Home will be auto added to the ignore list.5.About widget,You can change Widget Press Action from Menu->Preference->Widget Setting.6..If Message app is killed,you don't show notification any more when new message arrived.Be care of this please!KW: taskiller Task killer taskmanager taskpanel process uninstall task process release memory save battery kill app task panel manager panel system app memory ATK.Enable show system app setting to see more running app.",
+    "reviews": [
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1291695024590",
+        "starRating": "5",
+        "comment": "best killer yet. After using awhile phone started lagging, uninstall..re-install..great! :)",
+        "commentId": "lg:AOqpTOG-88OBw6VEhImS5xFNZQB6rSvRBoGU3LJkJQ3b76mP2ZjhAeg-rt8aYr4p0Qwwi9XzR717VLufOX8FZw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1311816696938",
+        "starRating": "4",
+        "comment": "Even on 2.3.4 with broken Details, no other app has autokill for individual apps. Wish Dev was still around to fix this and show memory crash",
+        "commentId": "lg:AOqpTOGFlPz64NGBf8-U-UGc3aBocGbZNMrZ11m5axMdfFjfSEuCBNQ-hdYs981anVByJX-dgir_Ea6Kr0jzUQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1297842775303",
+        "starRating": "5",
+        "comment": "The absolute best mgr/killer out there. Think about system apps....and it won\\'t freeze up...i.e. dialer is a system app, if\\'n yous autokill it...duh",
+        "commentId": "lg:AOqpTOFdqLYs6KLyIgXmtZU7GsFH9YPFm0aOnLmo-Imb0ZmNxsTcSWnfjDPbsnN1sZQIeJfqQhqL3UucNzka9A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1303488093267",
+        "starRating": "5",
+        "comment": "Absolutely fantastic. My Nexus One doesn\\'t use battery at all because of this app. After upgrade to gingerbread my battery was completely drained.",
+        "commentId": "lg:AOqpTOEJN7HkJ_Z8zwOIGS1yMaOrZ-dobTX4JvRQGVsFYmtrt27N5VlxR0mftt5Y-4DNbzZfZST20LlEz0zzTQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1290582177574",
+        "starRating": "5",
+        "comment": "This huawei ascend runs good for the FIRST time since ownership (2mths.) I tried other ones as well just didn\\'t do it. Hope it stays this way...",
+        "commentId": "lg:AOqpTOHCRgWlkRA1Jq8HSTMv4BLGlSQ3XouNsGnM5to-xzOgLSlk1haGLMAZ9bYTb6sryJeiepeSEZzkSdCcvA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1298737265425",
+        "starRating": "5",
+        "comment": "Keep my phone at the optimum speed. Easy to use. Kills all applications. More functional than others applications of this type. And it\\'s free.",
+        "commentId": "lg:AOqpTOFXwoklDd-hSW2Mh1eoq8JLydOxMWx-F65yjeXgZrQ66sFQvx-a0Fi93MQ3vo7StMsv-VyZc0PY2H8_5w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1376323696061",
+        "starRating": "1",
+        "title": "Adware detected :O",
+        "comment": "I downloaded this app, Advanced Task Cleaner Pro  on my Samsung Galaxy S3 & my favourite antivirus, Eset Mobile Security 2 detected embedded adware inside this app.",
+        "commentId": "gp:AOqpTOFQ1dzmtOkr8-E7fDEiqJ-dpg7EJEgnNvzFSL41wZxfCrHeCH8180RzgML7QmvLTWKWDOI9EIoYhviJ5w",
+        "author": "Muhammad Faezin Bin Mohamed Yasin",
+        "authorURL": "http://lh5.googleusercontent.com/-EU6JJKQrnWE/AAAAAAAAAAI/AAAAAAAAA3g/wdSTTlW2Ri8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-EU6JJKQrnWE/AAAAAAAAAAI/AAAAAAAAA3g/wdSTTlW2Ri8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1342373778963",
+        "starRating": "1",
+        "title": "Poor",
+        "comment": "I\\'ve only seen it autokill my apps once. And then I checked the task manager to see if it had been killing the apps in silence, but all the background apps that I wanted killed were still running.",
+        "commentId": "lg:AOqpTOGZuvEBDZE-qed1idrdtKeLki0VNIo2DJe4SJRMs2yxmGa0WE-QBVPfLgp53w95DWQb9KpuKypk3z7rhQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1314096631778",
+        "starRating": "4",
+        "title": "Very useful",
+        "comment": "Have used other apps. This so far works best. Will kill itself too (though won\\'t auto close). Good features. Wish one could change theme/background.",
+        "commentId": "lg:AOqpTOGBb4wwQJMcF6xbg5332BPoYXSBDG7g_ksuJD5aej-ofE8a-6j3sxhkfpZpDB1cH8fCOrwHCx6HFCDJNw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1298679206638",
+        "starRating": "5",
+        "comment": "Works much better than all others I\\'ve tried. Simple but efficient, can be tweaked to suit, does what it says. Noticed immediate improvement.",
+        "commentId": "lg:AOqpTOGuoaF5kVGaLoecz39DNKEOIQkKIiesu61wZVoPINwu6M1Sdif8ANJ7wdR9vUUZc7775ETXNIkeyJk46g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1308219346815",
+        "starRating": "1",
+        "comment": "Doesn\\'t do anything. Tried to kill apps, but the app is still running. Waste of space. Uninstalled. ZERO STARS.",
+        "commentId": "lg:AOqpTOHZ4d4w3d48hh7eWx3ZO4v0aeI-i4v8F7btYcraUvLTxg3Bf8LO39p6vH_5E6QaJW5riSt_v9DVNblGVg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1314784135376",
+        "starRating": "4",
+        "comment": "Much needed app, it works what it stands for. But interface needs to be compatible to HTC Sensation & larger screens. That\\'s the reason for 4stars.",
+        "commentId": "lg:AOqpTOHcP3MrXJWGITfKGEJzHSiROvofDftBt01a-e0XIZvXWysaFT0vmGFA8896WLVKYp2tryxH63vrp9FZWw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1318927908583",
+        "starRating": "1",
+        "title": "Terrible!",
+        "comment": "Looks great & simple to use, however it doesn\\'t actually kill apps. I kill them then check my running apps and low & behold they are still running.",
+        "commentId": "lg:AOqpTOFz4K-ThucN38vHd2j-mcZ2LVuMz3y3miQCjP99mwaFQHrt6zzULCFRawpEyP5HGQeC94zkzp1QRwszAA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1334781952121",
+        "starRating": "2",
+        "title": "Tedious.",
+        "comment": "Too many constant steps to go throgh every time you manually kill.",
+        "commentId": "lg:AOqpTOFetcCVxFQr03PX_6koy-UKMdPISe-2YNyKwPKUhf8Ltc7pRUfhwqSLeyqD1kQMdUqYgiH6xFQi7u96xQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1314383335131",
+        "starRating": "5",
+        "comment": "Works perfectly! Really clears out, and makes the phone work faster.",
+        "commentId": "lg:AOqpTOEUEBQ8Km13N3F9M3O_kTIsHliu1cP2afIobbt7PUfjz5vVItBJb2DA6VuKl_B4W-JvKEYi5TsB54U8dg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1291263168339",
+        "starRating": "5",
+        "comment": "One of the greatest. Helps speed my phone when i end task i wasnt using and adds to memory..",
+        "commentId": "lg:AOqpTOH_kg3t4eyqfFw6eeMsJeJcc3UpKRxIh8KSLZI_eHNBGnQAeSLNsXSlf_w1KmSCbBP21bXL1nZqmr0E-w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1364632917170",
+        "starRating": "4",
+        "title": "Good but...",
+        "comment": "I use this app constantly to help with the myriad things I do in my Android throughout the day. But it should really have a brief faq/how-to section, and the developer\\'s email within the app doesn\\'t exist. Yet it\\'s a fantastic app, does what it should!",
+        "commentId": "gp:AOqpTOE_B58l1u3XVTc8rqCKvR6OzP07zCjfdl63-SzG6LmyK6rZ1Q15FRUvnpgprGfBDG_TnthVBL-MnUPesA",
+        "author": "Rachel Mojica",
+        "authorURL": "http://lh6.googleusercontent.com/-Shef6ItuPYU/AAAAAAAAAAI/AAAAAAAACGU/G4yeYsA-HTA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Shef6ItuPYU/AAAAAAAAAAI/AAAAAAAACGU/G4yeYsA-HTA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1320182558263",
+        "starRating": "5",
+        "title": "Great!!",
+        "comment": "First one that is easily understandable and easy to use. Have tried 5 others and they are a pita (pain in .....   )",
+        "commentId": "lg:AOqpTOHJ3I2_PMtTuyW2su871_VwF45n6B4oID3A7CBHerFyKSHT94OJKe825xKWJmW_bpSDzTDnMX4w387eFA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1312810039784",
+        "starRating": "4",
+        "comment": "So far I think its the best app that helps me save my battery and run it for a longer time. HTC EVO",
+        "commentId": "lg:AOqpTOG6DjIDzOKIby8Eb1-opVkOqSzuflXwypFcESdYTujhejn1Mqmc-c2uVlf6X0cBMjY8URwMCumzHvOHpQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1299602715678",
+        "starRating": "1",
+        "comment": "Things still running in background....I\\'m getting a little aggravated, I\\'ve tried soo many and still can\\'t find anything that\\'s works..",
+        "commentId": "lg:AOqpTOHB2DTZWZK0csPKSTo7sNZ-ta3ODdVNS2eWBCZH1pRRWZy8uQ5JM7IKln-uzllCd6Y4MhXxnX_Fp7HOqg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

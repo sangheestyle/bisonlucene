@@ -1,0 +1,42 @@
+{
+  "title": "Com4Com Messenger",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.com4com.smartphone",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "September 8, 2013",
+  "version": "2.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "2.6",
+  "contentRating": "Low Maturity",
+  "creator": "Com4Com Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.com4com.smartphone",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Com4Com is a centralized, online directory and message center for homeowner associations (HOAâs), schools, and other community organizations. Originally created as an initiative to help keep schools and parents in sync, Com4Com has leveraged its expertise to develop services for other community organizations that require a comprehensive online directory and the ability to easily communicate with their members.Com4Com offersâ¦-\tReliable and comprehensive Online Directory services and communication-\tUtmost respect for peopleâs time, privacy and personal preferences-\tRobust web-based administrator interface enables simplified management-\tAdvanced privacy policies and access permission rules-\tCustomizable messaging definitions and reports-\tA mobile application that enables community members to view and search the online directory, update profiles, send email or text messages, and receive alerts-\tWhite Labeling for your own logo and brandingWhether youâre an HOA manager, board member or homeowner, a school principal, faculty member or PTA volunteer, a community organization facilitator or community member â Com4Com is designed for you.Com4Com Messenger is an add-on extension to the Com4Com Online Directory and Messaging service. It provides you the ability to view contacts according to your granted permissions from organization of which you are related to (such as your HOA organization, your child's school or your community center), send Email or Text messages and receive 'push' messages.In order to receive push messages your device should be matched with your mobile phone number or as exists in the sending organization's contact listsDepends on the organization's service terms with Com4Com you may be required to purchase a designated subscription in order to receive messages from this particular organization.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.SEND_SMS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.com4com.smartphone.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

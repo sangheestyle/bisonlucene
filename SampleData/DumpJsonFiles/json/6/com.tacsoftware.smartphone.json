@@ -1,0 +1,63 @@
+{
+  "title": "iSmartphone",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.tacsoftware.smartphone",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "1.8",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "12",
+  "rating": "3.5833333",
+  "contentRating": "Low Maturity",
+  "creator": "TACVietnamSoftware",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.tacsoftware.smartphone",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Main Features : Translation text, translation voice, handwriting recognition, image recognitionImage searchBlock SMS, phone callFree Phone call, video call, SMSSMS: Backup, restore, schedule, hide, listen.Hide pictures, videos, facebook messages, call history.Record phone callGames, Social NetworkFind your way, location, restaurants, hotels, gas stations, ... Supports fitnessManage files, notes, office applicationsRead newspapers, books, book in SD card. Save pages, websites, photos, music and movies to reviewEdit and share photos, video. Recognise the name of the song, music Download wallpapers, ringtones, notifications tonesListen to the radio, watch movies, music videosJokes, funny pictures, funny videoTracking, Antilost mobile, get location, SMS inbox, call log, remote and control camera from computer, remote recordingKeywords: iSmartphone, anti-theft, remote recording, remote video recording, SMS tracking, location tracking, eavesdropping, spy, surveillance, children, adultery, , facebook, yahoo, social networking, services, interpretation, handwriting recognition, image recognition, image search, free calls, free messaging, cell phones, skype, tango, whatsapp, Viber, call recording, call blocking, blocking messaging, games, travel, bus, taxi, hotel search, restaurant search, find locations, find your way, read books, read newspapers, read books, copy books, save paper, save video, music store, find gas stations, stores, notes, dropbox, file management, purchasing, gym, office applications: word, excel, pdf, ppt, message storage, message recovery , hidden messages, hidden pictures, hidden video, hidden music, schedule sending messages, listen to messages, photo editing, video editing, song name recognition, wallpapers, ringtones, listen to radio, watch film, music, television, comics, funny videos, funny pictures.",
+    "reviews": [
+      {
+        "timestampMsec": "1375427922787",
+        "starRating": "5",
+        "title": "Tuy\\341\\273\\207t v\\341\\273\\235i",
+        "comment": "\\341\\273\\250ng d\\341\\273\\245ng tuy\\341\\273\\207t v\\341\\273\\235i.Ch\\341\\273\\211 c\\341\\272\\247n s\\341\\273\\255 d\\341\\273\\245ng \\341\\273\\251ng d\\341\\273\\245ng n\\303\\240y l\\303\\240 c\\303\\263 \\304\\221\\341\\272\\247y \\304\\221\\341\\273\\247 c\\303\\241c t\\303\\255nh n\\304\\203ng.Th\\303\\255ch nh\\341\\272\\245t ph\\341\\272\\247n xem tin nh\\341\\272\\257n v\\303\\240 \\304\\221i\\341\\273\\201u khi\\341\\273\\203n camera t\\341\\273\\253 xa",
+        "commentId": "gp:AOqpTOHndGgCiuz1wHrS2RfvsS0G4Fm0ZUHwt_KUHHDz21PiR4h9JrVTNNmy0GjehlH63I2P83O5SFrLEX2uS48",
+        "author": "Trung Dang Thanh",
+        "authorURL": "http://lh4.googleusercontent.com/-UqFAoF4QbhY/AAAAAAAAAAI/AAAAAAAAAAA/mdNQNa6H3B0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-UqFAoF4QbhY/AAAAAAAAAAI/AAAAAAAAAAA/mdNQNa6H3B0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375431585257",
+        "starRating": "5",
+        "title": "Rat hay",
+        "comment": "Nen tai.ung dung rat tuyet.dich noi,tim dia diem,xem phim,hinh nen,nhac chuong...",
+        "commentId": "lg:AOqpTOHbdlXNNf4VGzbEe8gzQbnMLWA_r1K2I-Kj2ABDZDFTmaFknILx5quZ6U7gxFuyiA2nsz0yp2qzNL3Aro0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.READ_LOGS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Grow by FactorLab",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.factorlab.grow",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "1.0-beta22",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "FactorLab, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.factorlab.grow",
+  "extendedInfo": {
+    "installSize": "4.1M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "FactorLab ensures that your sales strategy is successfully and consistently executed in the field and across the sales floor. Grow by FactorLab makes capturing buyer feedback and prioritizing your warmest opportunities faster and easier than ever before. Youâll eliminate wasted sales activity and unpredictable pipelines and forecasts by giving your sales team tools to more accurately capture buyer behavior, identify true purchase intent, and focus precisely on the deals that are ready to move forward and close. The result is more effective sales teams at the point of customer contact, more focused sales coaching opportunities for managers, and sales forecasts that actually come true. The Grow application uses your Android device to capture more relevant, direct indicators (as defined by you and your team) about purchase intent. Information collected after customer calls (in less than 60 seconds) helps you pinpoint answers to critical questions like: -Is this prospect likely to close? -Am I focusing on the right prospects? -What specific actions should I take to close more sales this quarter? Want to know exactly which prospects in your pipeline â today and moving forward â are going to close? Stop wasting time on business that isnât going anywhere, and focus your time on a more accurate, predictable pipeline. Customer testimonials: FactorLab has given us the practical tools to succeed where we have struggled in the past. They understand how to get past the clutter and get to the results. ~CEO/President, Pharmacy benefits management company FactorLab is helping us drive the behaviors that will scale our business. In our last company meeting the team commented that this was the first time in the history of the company that they really understood the state of the pipeline. ~CEO, Specialty drink manufacturer The Grow solution helps me keep track of my leads and the progress Iâm making. The scoring gives me a sense of the opportunity strength, and I am regularly reminded to do certain things. ~Sales Rep, Software development firm This technology can be used to drive behavior change. FactorLabâs value proposition to me is that I have another arrow in my quiver. ~Methodology partner FactorLabâs solution helps us effectively measure sales behaviors in the field, allowing us to weed out bad performers early while helping other hit their numbers much faster. ~Executive search firm",
+    "reviews": [
+      {
+        "timestampMsec": "1374112969426",
+        "starRating": "5",
+        "title": "My mobile mentor",
+        "comment": "Great to have Grow in Android.  Much easier to make the process work for me since I never go anywhere without my Android.",
+        "commentId": "gp:AOqpTOHqh_SUA_BkVhQlY4qIRjQ8Y2cGvYpdIQKoPGpl44vUd2MOkSnTxPrhyAoe8HBjBJjpTsmtaObddS2fBQ",
+        "author": "Guy Cole",
+        "authorURL": "http://lh6.googleusercontent.com/-Jpj6yh7gLIM/AAAAAAAAAAI/AAAAAAAAAAA/bpp9d7YiTCA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Jpj6yh7gLIM/AAAAAAAAAAI/AAAAAAAAAAA/bpp9d7YiTCA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      ".permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

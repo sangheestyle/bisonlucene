@@ -1,0 +1,57 @@
+{
+  "title": "Tab - The simple bill splitter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bring10.tab",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "September 7, 2013",
+  "version": "1.04",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "bring10, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bring10.tab",
+  "extendedInfo": {
+    "installSize": "653k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Tab is the simple way to split a bill among friends. Snap a pic of the receipt and tap your items to claim them. Tax and tip are calculated for you. No more back-of-the-napkin algebra or typing in prices by hand! Here's how it works:â¢ Take a picture of your receipt to read in all the items and pricesâ¢ Go around the table selecting which items each person ordered; multiple people can select the same item if they shared itâ¢ Tax and tip are automatically divided proportionallyâ¢ If it's someone's birthday, you can split their total evenly among everyone elseâ¢ You can also add the last four digits of each person's credit card number to show your server what amount to put on each card",
+    "reviews": [
+      {
+        "timestampMsec": "1378067005582",
+        "starRating": "5",
+        "title": "Works Great!",
+        "comment": "Love the camera feature to automatically input the info. Really easy to use and takes out the guesswork of splitting the bill with a big group.",
+        "commentId": "gp:AOqpTOHKg3D7FvVOpuglTDwHnMf1i29eQGnjJw9ypBlI0r5h5b5VDezIXIUbUI0XXb3NombvlgssxoaEx59Zzic",
+        "author": "Eric Gotthelf",
+        "authorURL": "http://lh3.googleusercontent.com/-3pMBn75rz1Q/AAAAAAAAAAI/AAAAAAAAMpQ/Qq_PS6NHTUY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-3pMBn75rz1Q/AAAAAAAAAAI/AAAAAAAAMpQ/Qq_PS6NHTUY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378172298858",
+        "starRating": "5",
+        "title": "Definitely Useful",
+        "comment": "It\\'s definitely useful, sleek design that serves its purpose at the table.",
+        "commentId": "gp:AOqpTOGbGGJ_hzK69Eaz2Db3dicFv06wq4XMeeIx5b-0GeSizQ4GxKQgxqNOkMiFk9ETg3YFKcMflAmGMsj60Jg",
+        "author": "Jonathan Ford",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377221842545",
+        "starRating": "5",
+        "title": "Bravo!",
+        "comment": "I cannot believe it has taken so long for a well designed app to come along to solve this problem. Fast, beautiful and incredibly useful. I love it.",
+        "commentId": "gp:AOqpTOE4KjLx4MPH1HJrZsb9_3L0E5FZQ6YJTQn7IJ2-h1hQbZ1AWyFLsrYwxhJyQZ29U6oEr9vOT8vNgMbwCkg",
+        "author": "Francois Baldassari",
+        "authorURL": "http://lh5.googleusercontent.com/-EHQiuGmDwUQ/AAAAAAAAAAI/AAAAAAAAAAA/opkIk5hwC3A/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-EHQiuGmDwUQ/AAAAAAAAAAI/AAAAAAAAAAA/opkIk5hwC3A/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

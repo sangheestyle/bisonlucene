@@ -1,0 +1,42 @@
+{
+  "title": "Deep River Waterpark",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_daff15a99a284125b3b787444c5d7f02.app",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 23, 2013",
+  "version": "1.4.22.158",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Bergman Communications/MMOINC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_daff15a99a284125b3b787444c5d7f02.app",
+  "extendedInfo": {
+    "installSize": "7.3M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Deep River Waterpark is the Midwest's most Family Friendly waterpark...and the largest in Northern Indiana, the Chicagoland area, and Southern Michigan!  46 acres of FUN, FREE Parking, Cooler Friendly, Free Tubes for all tube rides, Family Packages, Discount Group Rates, Birthday Parties, Private Parties, lots of Events, and more!Open Memorial Day to Labor Day, 10am - 6pm (9:30pm on Tubin' Tuesdays).\"It's Simply SPLASHtastic!\"",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_daff15a99a284125b3b787444c5d7f02.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.conduit.app_daff15a99a284125b3b787444c5d7f02.app.permission.RECEIVE_ADM_MESSAGE",
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Sell Books Camosun College",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.camosun",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "July 30, 2011",
+  "version": "1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "CutCom Software, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.camosun",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Sell your used textbooks to the Camosun College Bookstore using this instant price quote app! It allows you to scan the barcodes of books that you'd like to sell using your phone's camera. You'll find out instantly how much we'll pay you for your used books. Please note: We have tested the barcode scanning feature on many devices, however the camera on some devices doesn't have the resolution to capture barcodes reliably. But, you can always type in your ISBN. Also, keep in mind that we only buy used books at designated \"buyback\" days throughout the year.  Be sure to check our website for the next buyback dates!  This app was developed by CutCom Software Inc. on behalf of Camosun College Bookstore. If you have any trouble, please let us know!",
+    "reviews": [
+      {
+        "timestampMsec": "1314980913063",
+        "starRating": "1",
+        "title": "Sold nothing",
+        "comment": "Didnt get a single book sold",
+        "commentId": "lg:AOqpTOFme9r5aDGAYkEGd3ZgSq2vYSeKtf_UJrIvYa6jJH4fSQ0x8zSbs1Yrunh_qjzODjvBD0cDIOaLkQm5pg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366047902412",
+        "starRating": "1",
+        "title": "Unable to run",
+        "comment": "This app crashes on startup when run on android 4.0.",
+        "commentId": "gp:AOqpTOEWTrvHWeKvMHuYn948O7WRkcNjHLRRyjhLSwC1C3wU8UFTg6mAzpG-yGw760Ph2XBPozN8axCgycc8sw",
+        "author": "Hayden Trattner",
+        "authorURL": "http://lh4.googleusercontent.com/-849qSKtZfok/AAAAAAAAAAI/AAAAAAAAACs/zlh0mZ49MAI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-849qSKtZfok/AAAAAAAAAAI/AAAAAAAAACs/zlh0mZ49MAI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366047768089",
+        "starRating": "1",
+        "title": "Just keeps crashing",
+        "comment": "Crashed on first use. Samsung Galaxy S3.",
+        "commentId": "gp:AOqpTOHX8UuaAmO2bnY7uMZ_iLwKjlG5IMY0c6WzhM63vWMEA-7MkvfMAYTvupzu5rzEOLgPkhORFpVfOylRbA",
+        "author": "Chris Carpenter",
+        "authorURL": "http://lh3.googleusercontent.com/-9Jfx10lkUjQ/AAAAAAAAAAI/AAAAAAAABQE/ycDlZEuGx-s/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-9Jfx10lkUjQ/AAAAAAAAAAI/AAAAAAAABQE/ycDlZEuGx-s/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

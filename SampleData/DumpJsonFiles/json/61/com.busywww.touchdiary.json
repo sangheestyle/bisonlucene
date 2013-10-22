@@ -1,0 +1,56 @@
+{
+  "title": "Touch Diary",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.busywww.touchdiary",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "June 13, 2013",
+  "version": "3.0.0",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "87",
+  "rating": "2.8275862",
+  "contentRating": "Everyone",
+  "creator": "Busy WWW",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.busywww.touchdiary",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Touch Diary1. Diary Item SettingApplication initially includes commonly used diary ideas. Weather, Me, Family, Health, and Work are them.These diary items could be edited or deleted by the user. Application user might want to add additional diary ideas for own interest. Items could be any kind of subjects for daily life.Each diary item has its own photo, name and icon properties. All the item properties could be modifed. After item properties update, save them before leaving the settings page.Important note:When deleting the diary item, all the Diary entries associated with this item will be deleted and could not be recovered.2. Daily DiaryDiary is entered/edited in daily basis. Each diary items has additional NOTE (comment) property.At the Diary form, user could generate Daily Report and save on the storage. When saving the reports, new folder will be created under the report folder at the daily basis.Storage location is at the \"touchdiary\" folder under the SD Card root folder.Touch Diary has File Explorer function for the convinience.3. Diary ReportDiary entries can be analyzed and viewed by using Report function. There are two main report options; monthly and yearly.All the generated reports would be saved on the storage for the later references.Report Format: jpg, htmlDaily: mm-dd-yy-DR-xxxxxxxMonthly: mm-dd-yyyy-MR-xxxxxxxYearly: mm-dd-yyyy-YR-xxxxxxx4. File ExplorerApplication includes a special File Explorer function. File Explorer is found under the View History and named as View Files menu.It also has File Rename and File Delete sub menu. To see sub menu, make LONG CLICK on the item from the file list.5. Password SettingInitial application password is blank, and could entered app without password requirement. If needed, application can be protected with password.Email: busywww@gmail.comWeb: www.busywww.comFor more additional functions, conctact us with details.",
+    "reviews": [
+      {
+        "documentVersion": "2.1.8",
+        "timestampMsec": "1333660103374",
+        "starRating": "1",
+        "comment": "Rubbish it doesnt even work dont get this app",
+        "commentId": "lg:AOqpTOHoafvh2UrCARc_HUHA-l_xiTpeIZ86_KT5Loz1jBlt-MBvn9P8KkGdRnkx6ecLZoTKXNrahoPR5p2V",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.6",
+        "timestampMsec": "1316250767495",
+        "starRating": "3",
+        "title": "Good app",
+        "comment": "Its a good application, though not what you would expect like an ordinary diary where yo usite down to put the time and date stamp and then your personal feeds into a book and then if you come up with something later, be able to put in a entry like an hour later with a choice of a new time stamp on the same day or to edit a previous entry. Re: A traditional Diary type book",
+        "commentId": "lg:AOqpTOHQ6QxXJr7iXZ9DZuj4jsCEYOmBzwGmPdCTYgLKUSbDo6sh_mAPTOJ5DB0cYjJDNo9e9LVuUqMr-qta",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1306267620140",
+        "starRating": "2",
+        "comment": "Forced closed repeatedly. Uninstalled.",
+        "commentId": "lg:AOqpTOH5surOUZ5QC7_SF7ZbUUhAXspayeRALd7bz3GWF5rdkboEm1QoerjJ8DIixS2_n6faQ6FwF6DPwjqA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

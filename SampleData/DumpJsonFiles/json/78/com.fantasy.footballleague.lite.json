@@ -1,0 +1,44 @@
+{
+  "title": "Fantasy Football League Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fantasy.footballleague.lite",
+  "category": "Sports Games",
+  "price": "Free",
+  "datePublished": "May 30, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "3",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fantasy Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fantasy.footballleague.lite",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Fantasy Football League is a football league simulation application that comes with comprehensive statistics. If you are always intrigued by how teams rise (promotions) and fall (relegations) in a football league, and are also interested in football statistics, this is right game for you! This app comes with 14 soccer leagues, each with up to 5 divisions and maximum of 32 teams per divisions. Some leagues also come with players data. Teams skills ratings follow closely with how good the team is in real life. To play or simulate the football leagues, you mainly use the \"Play Match\" button. Matches will besimulated where scores will be generated for every match in the fixture, including who the scorers are and when goals were scored (for leagues that come with players data). After each round, you can view the league table, top scorers list as well as many others intriguing statistics. You can see how your favourite teams rise or fall in the league table, struggles with relegation or competing for promotion. There is also a knock-out challenge Cup for each league. At the end of the season, there will be a League champion (for each division) as well as Cup winner. You can then proceed to the next season after relegations and promotions are performed based on the teams' positions in the league tables. All seasons data are stored so you can see how a team performed throughout all the seasons.This app leagues are \"Fantasy\" leagues, so expect the unexpected as the season progresses!The following leagues are included:- English League (5 Divisions from Premier League to Conference League, 116 teams)- World Super League (5 Divisions, 160 countries)- European Super League (4 Divsions, 88 clubs)- English Demo League - World Demo League - Singapore S-League - German Bundesliga- Spanish La Liga- Scottish League- Italian Lega - French Ligue- Dutch Eredivisie- Portuguese Liga- USA Major LeagueThis Lite version allows you to simulate the following leagues, without any restrictions:- English Demo League - World Demo League - Singapore S-League Lite version allows you to view all other leagues, but you will not be able to simulate the matches. Consider upgrading to the paid version to play all the leagues.This app generates the following team statistics:- Consecutive Wins/Draws/Defeats- Consecutive Games without Wins/Draws/Defeats- Consecutive Games without Goals For/Against- Most Frequent Scores- Biggest Win (League/Cup)- Highest Scoring Match- Total League and Cup Goals - Total League Goals- Total Cup Goals- Number of Scoring Draws- Number of Goaless Draws (League)- Number of Clean Sheets (League)- Best Scorer (League and Cup)- Best Scorer (League)- Best Scorer (Cup)- Goals per Position (League)- Goals per Position (Cup)- Number of Rounds as League Leaders- Most League Wins/Draws/Defeats\t- Most Home League Wins/Draws/Defeats- Most Away League Wins/Draws/Defeats- Most Home/Away League Goals- Total League Goals AgainstThis app also tracks the following season statistics:- All Time League Table- Past League Champions- Past Cup Winners- Summary of Honours- Table of Honours- Divisions for All  Seasons- Past League Golden Boots- All Time Leading Scorers (League & Cup)- All Time Leading League Scorers- All Time Leading Cup Scorers- Past Seasons' League Results- Past Seasons' League Table- Past Seasons' Cup Results- Past Seasons' Scorers",
+    "reviews": [
+      {
+        "timestampMsec": "1364900123149",
+        "starRating": "5",
+        "title": "Interesting Simulation of Football League",
+        "comment": "Not a typical soccer game but a good simulation of how a soccer league is like. A lot of effort must have been put in to come up with all the \\'live\\' stats.",
+        "commentId": "gp:AOqpTOGjvbPZiKhaJSUquujnArdzfyk2B0oKxFG4zhZ-IYGcTYbMi2YyoSSRNzfXPMym12ARoIeYBQ9D0psEVkc",
+        "author": "Chelsea Dixon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

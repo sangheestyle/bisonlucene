@@ -1,0 +1,58 @@
+{
+  "title": "myMBFS South Africa",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.daimler.mymbfs.za.production.android",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "June 13, 2013",
+  "version": "1.00.03",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Daimler South East Asia",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.daimler.mymbfs.za.production.android",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Not sure which Mercedes-Benz model you want to purchase matches your financial comfort zone? With the new myMBFS application, the answer is at your fingertips!The new myMBFS Android App is the latest extension of the recently launched myMBFS iOS App, and is currently available for Android platforms. Combining a brand new look with an enhanced user experience, the myMBFS App allows the end user to view the latest promotional offerings on Mercedes-Benz vehicles, calculate an estimated monthly finance package on the Mercedes-Benz model of their choice, and request additional information from a local dealer.  Also included is a Dealer Locator with GPS search functionality and contact information for Mercedes-Benz Financial Services.  A WiFi or 3G data connection is required to run the App.FEATURES INCLUDE: - Promotions - Estimator- Dealer Quote Request - Dealer Locator- Contact Us*There is no charge to download this app. Data charges from your network provider apply.â¨â¨",
+    "reviews": [
+      {
+        "documentVersion": "1.00.03",
+        "timestampMsec": "1374309228596",
+        "starRating": "1",
+        "title": "Useless app",
+        "comment": "No finance data, technical specifications, etc. is displayed, not even pictures of the latest model. Waste of data bundles.",
+        "commentId": "gp:AOqpTOED-84gSUVDYf_Lb1pCSkipvqH6p6ZrTPpPMd6j3qImpkQUhaC3Ho76kEOsEvZcu6-XZOZ-D7LDyFbCXfU",
+        "author": "Musa Lubisi",
+        "authorURL": "http://lh6.googleusercontent.com/-YfPaeS2z-d4/AAAAAAAAAAI/AAAAAAAAACI/GRU1T95Jcqc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-YfPaeS2z-d4/AAAAAAAAAAI/AAAAAAAAACI/GRU1T95Jcqc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.00.03",
+        "timestampMsec": "1374791578555",
+        "starRating": "1",
+        "title": "Samsung Galaxy Note 2",
+        "comment": "Only useful as a dealer locator.",
+        "commentId": "gp:AOqpTOHcQjh0PjkXN6L9_jvjAPTVP5AhF83nmpRVZ3nqW_st7Bwd4Jgp-MVRklj2xQdxpw8ahq4zZ_inQfDbhQA",
+        "author": "Shoaib Ebrahim Khan",
+        "authorURL": "http://lh6.googleusercontent.com/-W_cFAEIxTfE/AAAAAAAAAAI/AAAAAAAAAAA/NO_hZztI7Gc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-W_cFAEIxTfE/AAAAAAAAAAI/AAAAAAAAAAA/NO_hZztI7Gc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.CONTROL_LOCATION_UPDATES"
+    ]
+  }
+}

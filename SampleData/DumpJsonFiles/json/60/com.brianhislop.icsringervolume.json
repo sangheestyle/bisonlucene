@@ -1,0 +1,214 @@
+{
+  "title": "ICS+ Enhanced Ringer Control",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brianhislop.icsringervolume",
+  "category": "Tools",
+  "price": "$2.99",
+  "datePublished": "April 9, 2013",
+  "version": "1.4",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "84",
+  "rating": "4.428571",
+  "contentRating": "Everyone",
+  "creator": "Brian Hislop",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brianhislop.icsringervolume",
+  "extendedInfo": {
+    "installSize": "231k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Does it annoy you that in Android 4.0 (ICS) and above, the ability to unlink the Notification and Ringer volume has been removed? It annoys the heck out of me! At night time I want my notification volume muted, but my ringer volume turned up so I don't miss calls. It has bugged me so much since I switched to ICS that I decided to write an app to \"work around\" the issue.So, what does the app do? Well when your phone rings or receives an SMS it tells the phone to ignore the system sound settings in regards to notification volume/vibration, and uses the settings specified within this app instead.* Now With Blackberry style Sound Profiles! Something I've been working on forever!* Now also with integration into Locale, Tasker and Llama!Not sure if you're ready to invest in ICS+ Enhanced Ringer Control just yet? Check out the trial version first! Fully functional 48 hour time-limited version:https://play.google.com/store/apps/details?id=com.brianhislop.icsringervolumetrialPlease don't just leave negative comments if you find issues, or something isn't working correctly. I have no way of directly replying to them! PLEASE report them to icsenhancedringercontrol@gmail.com and I will squash any issues you encounter ASAP.**Jellybean Users** It's confirmed working fine for many users on JB - both 4.1.x and 4.2.xFull instructions - http://goo.gl/ZndaqBasic Instructions: After installing the app, open it, then set your usual alert volume (this affects emails/facebook/twitter/stuff like that) and whether you want it to vibrate or not. Next, choose the volume you want the ringer to be, and whether you want it to vibrate or not. Then, choose the volume you want your SMS notification to be and whether you want it to vibrate or not, then finally check the \"enable\" box in the bottom-right corner of the SMS box to enable it. At this point, when you receive a phone call or sms, it will ignore the notification volume settings, and use these settings instead.At any time, you can decide whether to add the app to the notification bar for easy access and to quickly see if ICS+ Enhanced Ringer Control is enabled or not. Just check the box labelled \"Show Icon in Notification Bar\".To disable ICS+ Enhanced Ringer Control, just launch the app again and uncheck the last checkbox. The regular notification volume settings will kick in as per normal.This application will run in the background, no need to keep the app on your screen, and will auto-start in the background when you reboot.Permissions Explained:\"RECEIVE SMS\" - the app needs to know when you receive an SMS so that it can apply the alternate sound settings temporarily\"READ PHONE STATE AND IDENTITY\" - this is the permission that tells the app that the phone is ringing. When this event is detected, it applies the alternate sound settings until the phone stops ringing.\"RECEIVE BOOT COMPLETED\" - once the phone finishes booting up, this permission allows the app to be aware of the reboot and start itself up. You wouldn't want to have to remember to start the app every time you reboot would you??*** GO SMS PRO users, for ICS Enhanced Ringer Control to work for SMS you must do this -> In Go SMS Pro, go to Settings > Advanced > Receive Settings ... and uncheck \"Disable other message notification\". Then go into the stock SMS app, and disable notifications manually from in there. It \"might\" already be disabled, but its worthwhile making sure.To do list:* Implement same functionality for SMSs **DONE*** Ability to alter phone/sms volume/vibration **DONE*** Give option to have a notification in notification bar **DONE*** Include all the standard android volume streams in the app ... media/alarm, etc. **DONE*** Think about best way to incorporate settings into a widget **DONE*** Look at ways to integrate these settings into automation apps such as tasker/locale/llama. **DONE*** Enable sound \"profiles\" feature, to save volume presets and recall them quickly. **DONE**",
+    "reviews": [
+      {
+        "timestampMsec": "1372629676648",
+        "starRating": "5",
+        "title": "Best app of it\\'s type",
+        "comment": "This application\\'s strength is in it\\'s simplicity. I tried a few others and decided on this one for it\\'s speed and ease of use. I stay away from scheduling and profiles, and just manually adjust my levels as and when requied. Just avoid using any other volume apps at the same time (including the phone\\'s built-in functionality) otherwise it will muck up the settings you chose in this app. For me this app  \\'fixes\\' the most annoying flaw / limitation of Android ICS",
+        "commentId": "gp:AOqpTOFHctWSqrHkhcBBBuqdyIeDfV1dVCGGuWrsWzg-ZN9mgjwjQ2n-30rD-QN_eKqlIhmyIXE0IM7PKdFLcg",
+        "author": "Stephen Bennett",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367806168387",
+        "starRating": "5",
+        "title": "life saver",
+        "comment": "I had an samsung s2x and used nfc all the time, got a new htc one and with ringer locked i couldn\\'t use nfc to set the sound controls anymore. I found other apps to separate volume but had to do it manually. Then i found this app, works with tasker and boom. I can use nfc to run a tasker profile that runs one of the profiles i set up in ringer control. Thanks",
+        "commentId": "gp:AOqpTOE2HnyC9Eu343nuJcFo8gwZ0edXKS0afpfAfWEPSoPuOT7IyEfAI4EINjmXR2TaAlOddrpDueceQ3tTxQ",
+        "author": "Vince Berezowski",
+        "authorURL": "http://lh5.googleusercontent.com/-rtKHYrTJBCk/AAAAAAAAAAI/AAAAAAAAKz8/GzHQN5mjqAQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-rtKHYrTJBCk/AAAAAAAAAAI/AAAAAAAAKz8/GzHQN5mjqAQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376427714761",
+        "starRating": "5",
+        "title": "Exactly what I needed",
+        "comment": "Finally a clean, simple app that works as described. Highly recommend!",
+        "commentId": "gp:AOqpTOF64b7zS66QAbUBCXQexU8zFoOOBY3s4z6gjIrK-zGuK7ii7lQajY2WPU9sELRKpJ4H7T0RaXCSH35txQ",
+        "author": "Julio Viscontti",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369745436651",
+        "starRating": "5",
+        "title": "Google Nexus 4 Jelly Bean 4.2.2",
+        "comment": "This app is hands down the best volume control app I\\'ve tried. Perfectly unlinks notifications from ringer. Clean interface, clear instructions. This should be a  model for well-designed Android apps.",
+        "commentId": "gp:AOqpTOHxGguVxmVZl7WkFLdT0HVbNIWKYxycwbeeFL0AgqRzOATs-DtM8HUiKeDb0ZdCQlpAawbdPMJIcvKN3Q",
+        "author": "Bernard Goldman",
+        "authorURL": "http://lh5.googleusercontent.com/-MAGVmF1wxxg/AAAAAAAAAAI/AAAAAAAAAQk/vMUO7YxaqvM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-MAGVmF1wxxg/AAAAAAAAAAI/AAAAAAAAAQk/vMUO7YxaqvM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366516344688",
+        "starRating": "5",
+        "title": "Fantastic!",
+        "comment": "After reading ALL the instructions I was finally able to separate the notifications and ringtone volumes on my HTC One. Thank you so much!",
+        "commentId": "gp:AOqpTOFOny9GWkPF6wtEf38SmSXJo94mwALXolWYLDwznBXpzkNQMEm7UxCGu8eevnGzMSgs4vHvYGsfSTroMg",
+        "author": "Benjamin Stevens",
+        "authorURL": "http://lh6.googleusercontent.com/-wgiCLN3ir9Q/AAAAAAAAAAI/AAAAAAAAMos/nplL0gLWJ5I/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-wgiCLN3ir9Q/AAAAAAAAAAI/AAAAAAAAMos/nplL0gLWJ5I/photo.jpg"
+      },
+      {
+        "timestampMsec": "1331854498590",
+        "starRating": "5",
+        "title": "Brilliant",
+        "comment": "Brilliant app, now with my galaxy nexus i can get a full nights sleep without notification sounds but still leaving the ringer enabled for emergency calls. would still like to see some sort of sound profile manager and scheduler but this is still a great start. well done to the developer for giving us something that should have been part of ICS as standard.",
+        "commentId": "lg:AOqpTOFjJk3GjehRNN5ZsaLU2s25VxgoqSVXTll6ArK3SlN_3j8N-gizKBM-KAIW3p_lXayJHn_yPFLlcSupYg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361901409798",
+        "starRating": "4",
+        "title": "Thunderbolt (yeah, the old one)",
+        "comment": "App works great.  I was so upset when ICS linked the ringer and notification sounds.  Who\\'s bright idea was that????  Now I can sleep without notification interruptions. Would like to be able to set and off/on time, but I am very happy with this app.  Thank you!",
+        "commentId": "gp:AOqpTOE2LnRZd2A_BBDmn9JHcrxEqkCgNVxWX3vBK94HW52gwLMKWoGmzBeYykcXNDgXC2aiCFJWjU6Pis83Ew",
+        "author": "Carol L",
+        "authorURL": "http://lh4.googleusercontent.com/-4zRQXFWXuS8/AAAAAAAAAAI/AAAAAAAAADo/lf82L3u21_0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-4zRQXFWXuS8/AAAAAAAAAAI/AAAAAAAAADo/lf82L3u21_0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1347483994165",
+        "starRating": "1",
+        "title": "I want a refund",
+        "comment": "This does not work with my HTC EVO 3D.  My volume rocker does not work with this app.  The rocker only adjusts \\\"Alert\\\" volume.  I\\'m really disappointed.",
+        "commentId": "lg:AOqpTOESHnOMoVyzQsySHShC5rCcTp1MWBMvpR2yw-vEju4n_VMoPeDhqBiikpUyXJflj0rIzTbG4KVRMpXOLg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340311953060",
+        "starRating": "4",
+        "title": "Nice work",
+        "comment": "Been looking for something like this for a long time. Profiles in CM9/ICS just don\\'t work correctly.  Would love to be able to save combinations of settings as a profile that\\'s activated with a click.  And would also like to group apps together (Google Voice SMS and Regular SMS) for instance.  Otherwise, excellent!",
+        "commentId": "lg:AOqpTOFXKn642KLBD-CZRYQ6gyYQ-GSS43pArcgxtUnG0JmsQX7l99bz3n7BvyDLOioItvPKeETSQnsj0KRX7Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336747508540",
+        "starRating": "5",
+        "title": "ICS Enhanced Ringer Control",
+        "comment": "I originally purchased the product last night but got a refund because I didn\\'t misunderstood the instructions.  The developer promptly replied to an email and explained the product.  This is what ICS users have been begging for, the ability to unlink ringtone and notification volumes.  This may be a workaround, but until Google fixes this issue, here is the answer.",
+        "commentId": "lg:AOqpTOFGVbZ3fwXFt1eaFIxnbGSf8NAlRe-6fWgwnO7me6ZUe1hIGiWOcWDGoAtMuRXCmWwj4_Nd5SrjCC1FPA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342108232143",
+        "starRating": "5",
+        "title": "rock solid on HTC One X",
+        "comment": "I\\'ve tried what seems countless apps to get simple functionality: allow the phone (HTC One X) to ring at night, while SILENCING ALL OTHER sounds/notifications.  This functionality existed on my Blackberry for years.  It appears that the functionality existed in Android, prior to ICS.  It\\'s a shame the functionality was lost with the ICS \\\"upgrade.\\\"  I hate to pay $3 for an app that should never have to exist in the first place. But it\\'s the only app that worked for me. The \\\"quick profiles\\\" app seemed to work for a short time, but it lead to undesired results (e.g. phone stopped ringing during the night). I\\'m grateful the app (ICS Enhanced Ringer Control) had a trial version for me to test.  I appreciate the developer\\'s time in creating the app to fill the void/gap in ICS. This app, thus far, is rock solid in doing what it was designed to do.",
+        "commentId": "lg:AOqpTOEyHdgIS7lBwLvqrCwOBYkNLOlhzhlFoix5T6NEaD9PAC5J_i2Qa73yL7HDaEPAU7gigjJDjMsP6oEcVQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338058930727",
+        "starRating": "5",
+        "title": "Sprint HTC EVO 4G LTE",
+        "comment": "Great to have the functionality back! Now I can ignore SMS & still get emergency calls when I am on call!",
+        "commentId": "lg:AOqpTOGtGcOJG2RiLEciFM3iMDIPJruuqKXvFeF5blS_mUFDUGlPfJjCIvfppX1r-EssgRFHSK46nLJS_iu07Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330608764402",
+        "starRating": "5",
+        "title": "Fantastic",
+        "comment": "It does exactly as advertised. I now am no longer woken in the middle of the night with emails and text messages, however phone calls due to being on call are never missed. I look forward to the automation via Tasker as I own that too.",
+        "commentId": "lg:AOqpTOFMr_VUOIUHT0GfK1DNeulLDXAs22TqJkisw9Bwl0VhhYKmcfQL58fxnbk5s5GHb5_RcGUOz6hZZykJPw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336074231014",
+        "starRating": "5",
+        "title": "You....Are....The....MAN!",
+        "comment": "Not having the ability to unlink the volumes has frustrated me to no end. I have even un installed awesome ICS ROM\\'s simply because the volumes were linked. Well not any more thanks you your app. It works like a charm. This is exactly what I\\'ve been looking for. Thank you!!!",
+        "commentId": "lg:AOqpTOE6FRLYliIlLY2OlWtvM7zm4WZwg-KiyrStQbH_AGzECxRRCf1GpP144zz4LgfQSCsgI1bIvieEnwBmGQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338873315906",
+        "starRating": "5",
+        "title": "Finally!",
+        "comment": "After much searching and app testing I have finally found one that will let me silence my notifications and media while allowing my ringtone through. I need to be able to have my ringer and alarm on at night while silencing my notifications. None of the other apps that supposedly have the feature actually worked. The sliders slid as though they were letting me choose the options, but they all muted my ringtone regardless of what the app sliders indicated. This one lets you choose the volumes you want and then it actually controls them the way you need it to. Thank you Brian. I tried the trial first and immediately purchased the full version. Worth every penny.",
+        "commentId": "lg:AOqpTOHUFpuC6RBr1Ap6STtAzu3d3aSs55zXSL3deHuHiTDdejjZx-DBAC5KQbc7wXMRew0PedCWz4vo8uLJEA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336099098915",
+        "starRating": "5",
+        "title": "Fantastic!!",
+        "comment": "What can I say but I concur with everyone else\\'s comments about being able to get an uninterrupted nights sleep without being woken by random sms\\'s and alerts but still leaving the phone to ring.  I cannot fathom why this feature was removed in ICS but thanks to Brian we can sleep peacefully once more.   I also need to point out that he sounds like a top bloke after helping me out by email with a couple queries.  Best money I\\'ve ever spent on an app!  Thanks Brian...",
+        "commentId": "lg:AOqpTOEk0kw1Bv7WRdL5Q74lRWcUBTx7Ilrub5Wp6n059X_yYnpdlnBI91vuE5Tkn78_28p6ld4FZ6SDjEMHxw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371941868571",
+        "starRating": "1",
+        "title": "Seer is better & free",
+        "comment": "This has been unstable on my Rezound. Silent mode just stops working.   Seer is free, stable, and includes a widget button & scheduler. I wish I had switched to Seer sooner. Android sucks for even making these apps necessary.",
+        "commentId": "lg:AOqpTOEi0aNV2fJ-7XJshDZr8d2HYOMzisREgaI_jIDBrJ6sit2wri4xKdFE-do-r1URoPD2RHaq4gMxoFlXJQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346703349771",
+        "starRating": "5",
+        "title": "Awesome!!",
+        "comment": "Brilliant workaround for what is a major cock up of the android 4.04 os, linking the notification and ringtone volumes.... Major fail!! But this works great for me, thank you!",
+        "commentId": "lg:AOqpTOEWFJpwnmXo75SzCUtW2zNv3NVsNUrzqUSXahd_vqkdorwxWlJqDaLKyUgRLZbS6BizLK5jZHhcRcwFaA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363019410857",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "The only app I\\'ve found that allows me to customize sound and vibration for messaging. A bit expensive but well worth the price.",
+        "commentId": "gp:AOqpTOGd96C7yxOK2iUmjuFA2zbnxVeGrN074I-fc7eyfJ8RreE11YGbiXwKWXkTmqq0nSHkv1hrbQJMrmZY-w",
+        "author": "Ludovico Magnocavallo",
+        "authorURL": "http://lh6.googleusercontent.com/-ngp3SXvJDRU/AAAAAAAAAAI/AAAAAAAABZA/xc-L8W5dt9s/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ngp3SXvJDRU/AAAAAAAAAAI/AAAAAAAABZA/xc-L8W5dt9s/photo.jpg"
+      },
+      {
+        "timestampMsec": "1348312258407",
+        "starRating": "5",
+        "title": "AWSOME",
+        "comment": "This works!!! i cant believe htc woud put the two sounds on the same thing. i cant be at work and have my phine go off all the time, but i still need it to ring. this app solves the problem.",
+        "commentId": "lg:AOqpTOGhbiJWz2GRyDIocEKO2nXk9GVwOWB4n2eeaY2BR_0keW8gqTiRjjiSrwJVUZY7O_8IDdJooqLfvv0Njw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

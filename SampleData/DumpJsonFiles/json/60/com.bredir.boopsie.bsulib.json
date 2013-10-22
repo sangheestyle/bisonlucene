@@ -1,0 +1,34 @@
+{
+  "title": "Ball State University Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.bsulib",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "July 18, 2012",
+  "version": "4.5.87",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.bsulib",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Find full text in electronic journals and research databases, check hours and calendars for Bracken Library and our two branch libraries, search our new CardCat mobile app, and request and renew items via your CardCat account. Youâll also find quick links to all service areas, ways to contact us, and information about current events.Searching CardCat has never been easier â just type the first letters of the words youâre searching for â âro fr poâ for Robert Frost poetry, for example. No need to specify âAuthorâ or âSubjectâ â just type what youâre looking for and weâll do the rest.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

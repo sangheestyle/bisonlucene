@@ -1,0 +1,45 @@
+{
+  "title": "Panchang and more",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eaft.magictile.panchang",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "October 22, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "12",
+  "rating": "3.25",
+  "contentRating": "Not rated",
+  "creator": "EAFT Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eaft.magictile.panchang",
+  "extendedInfo": {
+    "installSize": "219k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "View panchang information like Rahukal, Thiti, Nakshatra per day. We will update you with new pnchang every year. You can also customise the items you want to track on a daily basis like Milk and News paper delivery. View report of these on a monthly basis.",
+    "reviews": [
+      {
+        "timestampMsec": "1290956313667",
+        "starRating": "1",
+        "comment": "Totally disappointed! Did not see any info at bottom except sunrise on my XPERIA Mini Pro. I even tried to scroll the screen but it didn\\'t. PL fix it.",
+        "commentId": "lg:AOqpTOGlSho6AFuB6PNhKdEuEeKbq50b0hzCSC_FnfD0NRp3Yw0Yrc9fboHpedM0br1F-bFPlNYeFFn6sZuEWQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1294791624014",
+        "starRating": "1",
+        "comment": "I agree with above! Bad application.",
+        "commentId": "lg:AOqpTOHpKA5OmEs01vltYSULtRCPwrgPjfBtBGD_slDrBr-qBOjhXB0Y1iBJbo0EvZ7A36Mtjx73dIWehQK5VQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_DATA",
+      "android.permission.WRITE_DATA",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

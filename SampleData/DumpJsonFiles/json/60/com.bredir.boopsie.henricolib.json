@@ -1,0 +1,81 @@
+{
+  "title": "Henrico_Lib",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.henricolib",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "December 3, 2011",
+  "version": "4.5.68",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "3.7142856",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.henricolib",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Henrico County Public Library. Your library, where you are, when you need it.Search the HCPL catalog for books, DVDs, audiobooks, CDs and more. Place holds or renew items, check out our latest reading lists, follow our blog and tweets, or contact us. We are here for you! We've also included a great new way to search our books. No need to search by field, no need to enter full words, no need to wait for results. Just type the first couple of letters of words and see the search in action while you type. So for books on \"Jacqueline Kennedy Onassis\" simply type \"ja ke on\". We've invested in the latest mobile solution for libraries and we'll be adding new content over time. We hope you enjoy it as much as we do!",
+    "reviews": [
+      {
+        "documentVersion": "4.5.68",
+        "timestampMsec": "1331755732223",
+        "starRating": "1",
+        "title": "Not good",
+        "comment": "Pretty useless app. It would be better if it were just a mobile version of the website. There is no browse feature, only search. Even then, no downloadable materials show. All boopsie apps are pretty much the same and suck equally. Not worth the time. Public libraries need to realize that a free app dev is not always the best road to take.",
+        "commentId": "lg:AOqpTOE1aWLp0RLpwiEO3So7ASh1i-Td7L7P1EQkebmeHmQQ5vlSTqN6cMIR3X-Gj5OkiQwi01K3Y0fVpEct3lY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.68",
+        "timestampMsec": "1331406642125",
+        "starRating": "5",
+        "title": "recommended",
+        "comment": "Handy for search and checking account status.  Should change the app name to something more formal than \\\"Henrico_lib\\\" though.",
+        "commentId": "lg:AOqpTOEMXD-QXfQjQJygRs3Frq8lr3rBHD7dDviLurs1PGPlLhPTKrYdrf7We3SD1wGMzsOhSoLAFBvcOjfII0U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.68",
+        "timestampMsec": "1328636769442",
+        "starRating": "5",
+        "title": "Great library app",
+        "comment": "Does everything it says it does.",
+        "commentId": "lg:AOqpTOF8FmDqp29PC_qHoAaMX_qcGTTx3AE-YNu2QDyUrRoorJ2YRMzjboNoMh9MSZS9XTuOLwfj5I3e5Egw31U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.68",
+        "timestampMsec": "1329613482354",
+        "starRating": "2",
+        "title": "Half baked",
+        "comment": "Searched on author, saw a list of books.  So far, so good.  Selected a book and was told that no details were available (happened more than once).  No matter, I will reserve it.  Selected location and was told \\\"Call number required\\\".  Nothing was saved.",
+        "commentId": "lg:AOqpTOETLJmDJTBfJ2zXa4hbrwLiW-uNPXvZ40maetAWJ74Ifc49SAszUh1YZFZGcId7v3bfQHP9tV9UXVnYvSo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.68",
+        "timestampMsec": "1345044726576",
+        "starRating": "3",
+        "title": "Its okay.",
+        "comment": "Its a great app to use if you forget when your books are due. It does crash often.",
+        "commentId": "lg:AOqpTOEYqqxmMoCfPKijOzslf4URP5edY_wwVTJJna4UqJC6DN8WAPXrX5TjU5TfR32mwXB4DFSzb3jEkHzIt8w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

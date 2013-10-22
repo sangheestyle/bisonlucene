@@ -1,0 +1,38 @@
+{
+  "title": "Find the differences - HD",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dmm",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "September 4, 2013",
+  "version": "2.5",
+  "operatingSystems": "2.3 - 4.2",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Game Lover",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dmm",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "50 - 100",
+    "description": "Whatâs Really Good Mixtapes / US Magazine is the only national magazine showcasing independent artists. We have in depth interviews, their latest releases, and the latest tech to keep music in the ears of fans. You can find out who are the best up and coming artists before they hit the mainstream and get an inside track to their stardom. Want more? You can download back issues of WRG Magazine starting from January 2012. How Subscriptions Work: You may purchase subscriptions to What's Really Good! Magazine through the in-app store. Payment will be charged to your Google Account at confirmation of purchase. Subscriptions available: - 1-month subscription for US$.99, automatically renewed until canceled - 1-year subscription for US$10.99, automatically renewed until canceled AUTOMATIC RENEWAL FEATURE: Your subscription will automatically continue (another month for monthly subscribers) unless auto-renewal is turned off at least 24 hours before the end of the current period. Your credit card will automatically be charged for another subscription period at the current subscription price. You can manage your subscriptions and turn off auto-renewal by going to your Google Account Settings after purchase. Subscriptions cannot be canceled during the active subscription period. For more information, read our privacy policy and terms of use. http://www.wrgmixtapes.com/privacypolicy.html",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.GET_ACCOUNTS"
+    ]
+  }
+}

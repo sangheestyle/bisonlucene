@@ -1,0 +1,67 @@
+{
+  "title": "Extend Your Battery Life",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.esp.taskkiller",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "October 10, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "14",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Battery Life Plus",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.esp.taskkiller",
+  "extendedInfo": {
+    "installSize": "128k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Extend Your Battery Life with this simple solution Task killer Application.",
+    "reviews": [
+      {
+        "timestampMsec": "1318328663134",
+        "starRating": "5",
+        "comment": "Awesome job!!!",
+        "commentId": "lg:AOqpTOEPjEqvkuTEu1C8qBJbi9ps1bJAKQjdG1LQF1zWBVsSSoLBNaxYIhZEDM_I8w4iDWzaez-agMFEt9Nz4Dk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317852318753",
+        "starRating": "5",
+        "title": "Simple and great!",
+        "comment": "Worked well like how easy it is to use",
+        "commentId": "lg:AOqpTOFQaqjc40F_fEsCG_6SRQrvBezHQGXVaPU3IN10F_ihLRwyUr8Db1ZQhdyN4TZ3A8n9GUQ7DCEHsM7lK4k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECEIVE_MMS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.INTERNET",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_TASKS",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.WRITE_SECURE_SETTINGS",
+      "android.permission.MODIFY_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

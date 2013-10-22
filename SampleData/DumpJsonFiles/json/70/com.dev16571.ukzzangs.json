@@ -1,0 +1,41 @@
+{
+  "title": "Spot the Difference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dev16571.ukzzangs",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "August 25, 2013",
+  "version": "1.0.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "3.6",
+  "contentRating": "High Maturity",
+  "creator": "Mr. LY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dev16571.ukzzangs",
+  "extendedInfo": {
+    "installSize": "7.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Use the Heart Light to find the differences, at first you start with 2 heart lights, later you will only have one!Tag casual girl photohunt",
+    "reviews": [
+      {
+        "timestampMsec": "1378482120512",
+        "starRating": "2",
+        "title": "I uninstalled....",
+        "comment": "It was boring after a while, but it works so I give it two stars for that",
+        "commentId": "gp:AOqpTOE8dCOtQIhkUF05mF4vKVAr4xhkecCHBktBWx2ToTkT0hit3VkNQyUy8nHDr-dRZvxyyTb51Rqd3W6aJg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

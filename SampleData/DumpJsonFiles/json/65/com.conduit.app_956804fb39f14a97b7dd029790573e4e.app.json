@@ -1,0 +1,38 @@
+{
+  "title": "HAIR & BEAUTY",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_956804fb39f14a97b7dd029790573e4e.app",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "May 15, 2012",
+  "version": "1.16.24.342",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Global Hair & Beauty Network",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_956804fb39f14a97b7dd029790573e4e.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Where people across the world meet and share their hair,beauty and product experiences with other members in the community.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.conduit.app_956804fb39f14a97b7dd029790573e4e.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

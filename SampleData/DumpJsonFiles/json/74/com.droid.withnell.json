@@ -1,0 +1,45 @@
+{
+  "title": "Withnell Motor Company",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droid.withnell",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "January 16, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "High Maturity",
+  "creator": "Dealerbug",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droid.withnell",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Withnell Motor Company owners and shoppers can conveniently shop, manage, and maintain their vehicles with our App. Features include:â¢Track service history and maintenanceâ¢Schedule service appointmentsâ¢Call roadside assistance with GPS location finderâ¢Get ownerâs manualsâ¢Receive specials and couponsâ¢Ask our service advisors questionsâ¢Store a photo of your car and keep important ownership information such as VIN, license plate, insurance policy information, radio and navigation codes â for up to 4 carsâ¢Keep track of fuel used, expenses and MPG",
+    "reviews": [
+      {
+        "timestampMsec": "1359143889415",
+        "starRating": "5",
+        "title": "Great app to keep track of your cars.",
+        "comment": "For customers of Withnell Motor Company in Salem, Oregon.  Let\\'s you schedule service, see history of service on vehicles, contact your sales or service advisor and much more with easy links to all your automotive needs.",
+        "commentId": "gp:AOqpTOHwG5r085n8k8w7Nuw4Qy6xKyLSj-OLByN4WhfL8VOwluZWx2_jp-QjYPBq6idlU_z9OvjHPM20IInDPQ",
+        "author": "Devin Campbell",
+        "authorURL": "http://lh5.googleusercontent.com/-6RfpAuV_xZM/AAAAAAAAAAI/AAAAAAAAAME/6pyxa6rWc2k/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-6RfpAuV_xZM/AAAAAAAAAAI/AAAAAAAAAME/6pyxa6rWc2k/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

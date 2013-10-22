@@ -1,0 +1,42 @@
+{
+  "title": "PhiCollect",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.webfirst.phicollect.android",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "January 16, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "WebFirst, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.webfirst.phicollect.android",
+  "extendedInfo": {
+    "installSize": "975k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "With WebFirstâs PhiCollect system, we have created an open source data collection platform that is flexible, scalable, cloud-based, and affordable. PhiCollect allows you to collect data from and publish to a variety of platforms (Web, Android, Apple iOS, SMS).  Go to http://www.phicollect.com to find out more.",
+    "reviews": [
+      {
+        "timestampMsec": "1370890828565",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "Amazing app for collecting data!",
+        "commentId": "lg:AOqpTOHPv_AL-M1ohUxVKjzKPQWPVMRTLX8Ar9pPf2Cc_T28PHfiF46oTxqUVwADCfdLLwV9gIw1M4LyY71C6k0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_SURFACE_FLINGER",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

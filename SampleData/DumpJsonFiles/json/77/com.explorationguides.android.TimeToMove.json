@@ -1,0 +1,32 @@
+{
+  "title": "Time to Move!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.explorationguides.android.TimeToMove",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "February 18, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Exploration Guides, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.explorationguides.android.TimeToMove",
+  "extendedInfo": {
+    "installSize": "352k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "After too much time starting at a computer screen, do you get dry eyes?  Eye strain?  Sore shoulders, neck and back?  This app may be the solution.It's easy to use.  Just run the program and drop your Android in your pocket or on the table,  When you feel the Look Away vibration pattern, look at something across the room.  When you feel the Time to Move pattern, get up and move around.  That's all there is to it!  The vibration patterns repeat until you stop them.Set custom Look Away and Time to Move intervals and vibration patterns.Make the time you spend in front of the computer more comfortable, more productive, and more fun!This app is not designed to diagnose or treat any specific medical conditions.  For any serious medical conditions, seek treatment from a licensed medical professional.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

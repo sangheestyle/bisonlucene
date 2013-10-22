@@ -1,0 +1,65 @@
+{
+  "title": "Task Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droid.task.manager",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "March 5, 2011",
+  "version": "1.0.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "40",
+  "rating": "4.25",
+  "contentRating": "Everyone",
+  "creator": "Droid App Team",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droid.task.manager",
+  "extendedInfo": {
+    "installSize": "274k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Use Advanced Task Manager to end applications, speed up phone, and save battery!This tool can terminate apps, switch to app,show app detail, uninstall app,show memoty & CPU,and manager blackapps.this app can manager droid task excellent!!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1377174080545",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Wonderful",
+        "commentId": "gp:AOqpTOHHbolHCwrbwT14VBAlXCE-HOgnfmowQ3EdEDBeG4iq_aQGYFJlWQTb5TZqpOnUhAidrdqDkuCZDf97LAI",
+        "author": "madan sharma",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1377059324890",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "Very useful app.",
+        "commentId": "gp:AOqpTOEPAVYOc7lUutXcU4cjDuZ5DRtH6S7NG5mo14A9Bc_y1Z75GUKzQaIBLoila9rucSYv0tKSC9CgaDkySFI",
+        "author": "Ashwin Rohit",
+        "authorURL": "http://lh3.googleusercontent.com/-UNXp9EsA0SQ/AAAAAAAAAAI/AAAAAAAAAC4/DLP2l9kcLZo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-UNXp9EsA0SQ/AAAAAAAAAAI/AAAAAAAAAC4/DLP2l9kcLZo/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1318889642687",
+        "starRating": "4",
+        "comment": "Ok",
+        "commentId": "lg:AOqpTOGr2vCnOBV96AAOZCzomMP6R7CFBA-fdZXhj-vxVx2XISVA7R1HERY4KNHRByI4pZ6jqFduZKH77pUFBjU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.INSTALL_PACKAGES",
+      "android.permission.DELETE_PACKAGES",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_TASKS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

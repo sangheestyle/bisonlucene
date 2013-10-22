@@ -1,0 +1,49 @@
+{
+  "title": "Choose My Groom",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cmgroom",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "June 14, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "8",
+  "rating": "3.375",
+  "contentRating": "Low Maturity",
+  "creator": "Mohammed Amine TAZI",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cmgroom",
+  "extendedInfo": {
+    "installSize": "109k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "\"Choose My Groom\" will ease your life by helping you find the right groom among the men you know.",
+    "reviews": [
+      {
+        "timestampMsec": "1308050468320",
+        "starRating": "2",
+        "comment": "Rubbish, not worth uploading",
+        "commentId": "lg:AOqpTOHbNQCvR50UHfEEgqyMyX30-CMkaQdkGFgGT6Wit6khokv6gWS_WMCA2koSOoOotf5_TQLa1QDjLuCsFg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378048678832",
+        "starRating": "3",
+        "title": "Bad",
+        "comment": "Sucks",
+        "commentId": "gp:AOqpTOEbLs_DGeuXvs_kfxnm9N6_z5oij2_9mcCt7R4pBZBpeOVcrMOaytgHPH-G0bHgW8-V85eHm3H4tdXRHQ",
+        "author": "Megan Gord",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

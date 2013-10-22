@@ -1,0 +1,49 @@
+{
+  "title": "NC State Crib Sheet for Alumni",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cc.cribsheet.ncstate",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "October 11, 2012",
+  "version": "2.3.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "NC State Alumni Association",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cc.cribsheet.ncstate",
+  "extendedInfo": {
+    "installSize": "8.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Created by NC State for our alumni, \"Crib Sheet\" is your way to stay current with campus news, Wolfpack sports highlights, alumni events, and much more. The app is also your \"real world\" crib sheet on topics like money, housing, etiquette, health insurance, and much more.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1333652055935",
+        "starRating": "5",
+        "title": "Great resource!",
+        "comment": "This is helpful in so many ways!",
+        "commentId": "lg:AOqpTOEXxtVKbiRXiIolhHQY5bflBUU3J9e6_JcieJifTA8tff4pFYnCdP9JzWKxSESeWlrd56hiCtIykmmw5A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.cc.cribsheet.test.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

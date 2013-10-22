@@ -1,0 +1,55 @@
+{
+  "title": "CCDA Quiz",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clerverlearn.quiz.cdna",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "CLEVERLEARN",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clerverlearn.quiz.cdna",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This exam indicates a foundation or apprentice knowledge of network design for the Cisco converged networks based on Borderless Network Architecture. CCDA certified professionals can design routed and switched network infrastructures and services involving LAN, WAN, wireless, and broadband access for businesses and organizations.App features: There are three main functions focusing on program Training In this section, candidate can choose the number of questions in order or random, set the countdown timer for each practicing item.  Exam  \tCandidate will have the opportunity to test with the number of questions in the same time as the exam. After completing, the result will be notified immediately   History  \tCandidate can review the result of previous examThere are two types of questions that app can support:â¢\tSingle choiceâ¢\tMultiple choiceSpeed up your career and make your exam easier with this training app as your guide 1.1\tExam TopicsThe following information provides general guidelines for the content likely to be included on the Designing Cisco Internetworking exam. However, other related topics may also appear on any specific delivery of the exam.1.2\tDescribe the Methodology used to design a networkâ¢\tDescribe developing business trendsâ¢\tIdentify Network Requirements to Support the Organizationâ¢\tDescribe the tools/process to characterize an existing networkâ¢\tDescribe the top down approach to network designâ¢\tDescribe Network Management Protocols and Features1.3\tDescribe network structure and modularityâ¢\tDescribe the Network Hierarchyâ¢\tDescribe the Modular Approach in Network Designâ¢\tDescribe network architecture for the enterprise1.4\tDesign Basic Enterprise Campus Networksâ¢\tDescribe Campus Design considerationsâ¢\tDesign the Enterprise Campus Networkâ¢\tDesign the enterprise data centerâ¢\tDescribe enterprise network virtualization tools1.5\tDesign Enterprise Edge and Remote Network Modulesâ¢\tDescribe the Enterprise Edge, branch, and Teleworker design characteristicsâ¢\tDescribe physical and logical WAN connectivityâ¢\tDesign the branch office WAN solutionsâ¢\tDescribe Access Network solutions for a remote workerâ¢\tDesign the WAN to support selected redundancy methodologiesâ¢\tIdentify Design Considerations for a Remote Data Center1.6\tDesign IP Addressing and Routing Protocolsâ¢\tDescribe IPv4 Addressingâ¢\tDescribe IPv6 Addressingâ¢\tIdentify Routing Protocol Considerations in an Enterprise Networkâ¢\tDesign a Routing Protocol Deployment1.7\tDesign network servicesâ¢\tDescribe the security lifecycleâ¢\tIdentify Cisco technologies to mitigate security vulnerabilitiesâ¢\tSelect appropriate Cisco security solutions and deployment placementâ¢\tDescribe high level voice and video architecturesâ¢\tIdentify the design considerations for voice/video servicesâ¢\tDescribe Cisco Unified Wireless Network Architectures and Featuresâ¢\tDesign wireless network using controllersThe following course is the recommended training for this exam.â¢\tDesigning for Cisco Internetwork Solutions (DESGN)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.READ_SETTINGS",
+      "com.motorola.dlauncher.permission.READ_SETTINGS",
+      "com.fede.launcher.permission.READ_SETTINGS",
+      "com.lge.launcher.permission.READ_SETTINGS",
+      "org.adw.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.INSTALL_SHORTCUT",
+      "com.motorola.dlauncher.permission.INSTALL_SHORTCUT",
+      "com.lge.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_TASKS",
+      "com.clerverlearn.quiz.cdna.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "American Nurses Association",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dub.poweredbydub.assoc.ana",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "December 13, 2011",
+  "version": "1.0.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "Dub Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dub.poweredbydub.assoc.ana",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The American Nurses Association (ANA) Mobile App helps you stay connected and engaged with other members on your mobile device. The app provides the features of the ANANurseSpace Connected Community at your fingertips:â¢ Connected Community Discussions, eGroups and Messagingâ¢ Member Directory and My Contactsâ¢ Event calendarâ¢ News & information: including blog posts, resources, Nursing Insider, Facebook and twitter  updates, etcâ¢ ANA information and notifications",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

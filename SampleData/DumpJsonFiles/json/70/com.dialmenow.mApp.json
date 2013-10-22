@@ -1,0 +1,59 @@
+{
+  "title": "Dial Me Now",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dialmenow.mApp",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "September 7, 2013",
+  "version": "1.1.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "High Maturity",
+  "creator": "Dial Me Now Online Pvt. Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dialmenow.mApp",
+  "extendedInfo": {
+    "installSize": "836k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Dial Me Now is an information medium linking potential buyers to sellers of various products and services through the three most popular communication media - Print, Telecom & Internet.Sunflower Infomediary, manned with a strong team of qualified Personnel, provides the following activities:1.\tDirectory Services\t2.     City Maps3.\tDatabase Services\t4.\tBulk SMS/Bulk Email Marketing5.\tTele-Marketing/SalesBesides the above, Sunflower Infomediary are the publishers of Jaipur City Map, Jaipurites' Survival Guide and Udaipurites' Survival Guide. We have also successfully marketed, distributed and edited the project of Rajasthan Exporters' Directory 2001-2002 & 2006-07 & 2010-11, and Rajasthan Industries' Directory 2003-2004 & 2008-09, Rajasthan Business Directory 2009-10, published by Rajasthan Chamber of Commerce & Industry. The updated edition of Rajasthan Industries Directory 2012 & Jaipur City Map is under publication and advertisement solicitation.The strongest strength the firm possesses is the trio of dynamic entrepreneurs, Mr. Sandeep Kumar Jain, Mr. Monu Jain & Mrs. Flory Jain at the helm of the affairs.Mr. Sandeep Kumar Jain is a Management Graduate from K J Somaiya, Mumbai in Finance, has a work experience with an FMCG-MNC in the field of Marketing and is one of the founder Directors of a leading Equity and Commodity Brokerage House in India. He regularly features on leading national business channels for equities & commodities. He has developed tremendous editorial skills over the last 11 years with 10 successful publications to his credit.Mr. Monu Jain started his academic journey from Mayo College , and graduated from Hansraj College, Delhi University,and then for Post Graduation in Entrepreneurship Management to BIMTECH, Greater Noida. He was a Gold Medalist in his Post Graduation. He has the following NCFM certifications in his academic kitty: Capital Market, Commodities, Derivatives Market, Compliance Officer (Brokers), NSDL, AMFI. He is into the business from last three years and has given a new dimension and a technical edge to the organization.Mrs. Flory Jain completed her schooling from Mayo College Girls School, Ajmer, graduated from Lady Shriram College, Delhi. After this she had done her Post Graduation Diploma in Jewellery Designing. She handled a major telecalling assignment of a leading Insurance Company very successfully and is looking after the back office and call handling operations.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1378035984832",
+        "starRating": "5",
+        "title": "Lunchira",
+        "comment": "This is like juicy ..gud.",
+        "commentId": "gp:AOqpTOGPmnLVEN1FhLqb2AeiPIFF0L5Q1da9N-1aHfzPFJzGsvyi2lqswBiVQYTML-Tx9nJLuXSUJEpHlVU2pw",
+        "author": "Mridul Nandy",
+        "authorURL": "http://lh3.googleusercontent.com/-pzeqU-MnrT4/AAAAAAAAAAI/AAAAAAAAAcY/2DnvXy1RyAQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-pzeqU-MnrT4/AAAAAAAAAAI/AAAAAAAAAcY/2DnvXy1RyAQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1366464310870",
+        "starRating": "5",
+        "title": "Awesome database",
+        "comment": "I liked it.. My search is much more easier now",
+        "commentId": "gp:AOqpTOF9nSibkkRhe9zBlRzXszJRNdHTA8ZR-IwXC5-n7TRCcB0LvKyG034yc8DCdZWi7Rk1ejXqdq2owIaeag",
+        "author": "Monu Jain",
+        "authorURL": "http://lh3.googleusercontent.com/-p1BVzLwrSlU/AAAAAAAAAAI/AAAAAAAAAAA/481bpUiekr8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-p1BVzLwrSlU/AAAAAAAAAAI/AAAAAAAAAAA/481bpUiekr8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.dialmenow.mApp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

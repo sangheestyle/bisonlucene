@@ -1,0 +1,38 @@
+{
+  "title": "Red Red Wine Bar",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dave.wine.barapp",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "February 18, 2012",
+  "version": "1.11",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.8333335",
+  "contentRating": "High Maturity",
+  "creator": "dtrigg",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dave.wine.barapp",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app is intended to enhance the user's experience at the Red Red Wine Bar located in Annapolis, Maryland.With this app you can:-View the most recent menu at the Red Red Wine Bar.-Select current beverages that are available.-Add beverages to your virtual \"Wine Cellar\"-Comment on your beverages in your virtual \"Wine Cellar\"-Take pictures of the beverage, atmosphere, or what ever you desire to be associated with a beverage-Post a beverage name and it's comments to Facebook*Shout out to my brother Doug who made the icon.*Side Note* letter accents have been dropped due to device compatibilityAlso, Please let me know of any errors that you encounter and I will fix them asapRed Red Wine Bar:Located at 189B Main Street, Annapolis, MD. Red Red Wine Bar is a mood, a feeling, a vibe. 18th century Victorian. New Orleans-y. Eclectic. Bohemian. Funky. The space is a living slideshow constantly changing before your eyes. Most importantly, though, itâs a hideaway specifically designed to engage every one of your senses.",
+    "reviews": [
+      {
+        "timestampMsec": "1329607747011",
+        "starRating": "4",
+        "title": "Among my fav Naptown bars.",
+        "comment": "Like the app alot at first glance. They have been building a good rep for live music,would like to see an event calendar in next release if possoble. I have the auto-update box clicked.   :)",
+        "commentId": "lg:AOqpTOFB34SwgBnfg4LE0nTTEU8LIdmQlohIXOFJXpKob5nHb4hFPVr3nD1-c13q7nZWUeq9p3GJ1EvY5uu8eE4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

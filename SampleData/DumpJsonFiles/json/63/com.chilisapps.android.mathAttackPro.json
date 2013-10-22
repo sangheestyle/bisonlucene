@@ -1,0 +1,47 @@
+{
+  "title": "Math Attack Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chilisapps.android.mathAttackPro",
+  "category": "Brain & Puzzle",
+  "price": "$0.99",
+  "datePublished": "March 3, 2013",
+  "version": "2.4",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "11",
+  "rating": "4.5454545",
+  "contentRating": "Everyone",
+  "creator": "Chilis Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chilisapps.android.mathAttackPro",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Upgrade Today!! Math Attack Pro improves your math skills with more game modes, improved stats and no ads!You can practice different types of math like addition, subtraction, multiplication, division, squares and multiple part questions. Scoreloop integration provides global leader boards and awards!Statistics let you see how you are doing over time and in this pro version you can filter by different game modes! Scoreloop integration provides global leader boards and online high-score lists.- Follow us on Twitter @ChilisAppsGame modes include:Practice - Choose the question types and practice.Timed - Answer as many questions as you can in the time limit.Survival - Same as timed mode but correct answers add to time left.Race - Get the best time by answering 25 or 50 questions as fast as you can!Rounds - User is asked 10 questions per round. You can only get one wrong each round so be careful.Keywords: Math, Workout, Practice, Addition, Subtraction, Multiplication, Division, Powers, Scoreloop",
+    "reviews": [
+      {
+        "timestampMsec": "1351548196296",
+        "starRating": "4",
+        "title": "Fun game... but...",
+        "comment": "it needs to handle the ending of the timed games differently. An easy fix would at least be to move the buttons for saving and trying again somewhere else rather than right where you tap the answers, since in almost every game i end up trying to tap one of the answers when the time runs out and i tap the save or try again without seeing the score!",
+        "commentId": "lg:AOqpTOHNmb3sQwYy1P8H3tC2bmLnUV4BaTVzJDOF0VFCkgLHHeLgM-pR7mWiwuEsuZbb58m8HkgADz2L5vQPZg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1309271220718",
+        "starRating": "5",
+        "comment": "Sweet game, super fun! :)",
+        "commentId": "lg:AOqpTOGMklmMRFuXC6M94X8KD01_gaxLuNqHtaGzNyTPF-ncJ1N6_RY8Y3GnzE5L1UUfLdNTZHeenGj7DM-T8g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

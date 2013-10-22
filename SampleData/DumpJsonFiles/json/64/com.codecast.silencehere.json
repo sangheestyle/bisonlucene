@@ -1,0 +1,71 @@
+{
+  "title": "Silence Here",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codecast.silencehere",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 17, 2010",
+  "version": "0.906",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "18",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "CodeCast",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codecast.silencehere",
+  "extendedInfo": {
+    "installSize": "92k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Automatically switch between ring tone, vibrate and silent depending on location and time of day. Different places can have different radius and time. Separate lists for GPS and network-based locations, as they don't always overlap.Working Beta.English and Swedish.",
+    "reviews": [
+      {
+        "timestampMsec": "1337532928256",
+        "starRating": "1",
+        "title": "Needs fine tuned.",
+        "comment": "My locations all just disappeared. Disables when I restart my phone. Needs ability to set location from the map. Needs to work all the time. Hard to trust. Great idea though.",
+        "commentId": "lg:AOqpTOFVMUTS3a52C8HX5TrII3ReuJhkVmH7jHxC5yTbPcfkVRrCqL4oRvXYG4J5vINjjH6fYAZk3Il8gjjWqg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1299990970673",
+        "starRating": "0",
+        "comment": "Very useful, but the separate lists for cell and gps locations has caused problems for me before when I only set up a location in one side.",
+        "commentId": "lg:AOqpTOHBT8NKdasS04_0eIw3IhzYcbahlvq0rWAvL1DCnt5CiJ23DlH5jtS3eR8i03sW9XdYtywLIFj73n1D7w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330459588260",
+        "starRating": "5",
+        "comment": "would be great if it could be configured for low volume ring",
+        "commentId": "lg:AOqpTOHepmD4zzlVWSgXGrZiDkniCzuTG710KK45E37dO3esxKYn0LyEDh899PMKkCglXZOQc5OwKlqM-SyIiw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1293501166938",
+        "starRating": "3",
+        "comment": "How am I supposed to setup desired places? It wouldn\\'t allow me to apply it but only for present location!!!",
+        "commentId": "lg:AOqpTOG9uTjFvDpXusXuSmzY9Ze9Rn8OjZLG7IybESMQfb2bHfJNVratd9FTP0PsGnpwYZiyS6wmTFRIEahP8A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354810184628",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Been looking for something that works with GPS for work and church. This works great!",
+        "commentId": "gp:AOqpTOElprwdUCBY3E8Doy8RolH-Dq9qgtAtCCyNwZivMCZnRxQCO7BZId477RZsOavuZtETKtRXqaXjhSr8pg",
+        "author": "Thomas Carter",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

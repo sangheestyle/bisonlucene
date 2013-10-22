@@ -1,0 +1,38 @@
+{
+  "title": "APACA Conference - Fear No Art",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.apaca2013",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 16, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.apaca2013",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The APACA Fear No Art Conference app provides you with all the information you need to know to make the most of your time at the APACA Conference 2013 in Canberra on 26-28 May.This is the first time we have developed an app to enhance your engagement with the conference content, speakers and delegates. The features of the app include:- Your personalised schedule- Full conference program- Information about the speakers and sessions- Social media platforms- Personalised notes to the sessions you attend- Access to attendees list- Opportunity to share your contact details with delegate- Information about what else is on in CanberraKeywords : Australian, Performing, Arts, Complex, Association, APACA, Fear No Art, Conference, 2013, Canberra Australia, Centres",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.apaca2013.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Texas Alcoholic Beverage Code",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.domsoft.tabc",
+  "category": "Books & Reference",
+  "price": "$2.99",
+  "datePublished": "September 23, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Not rated",
+  "creator": "DomSoft Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.domsoft.tabc",
+  "extendedInfo": {
+    "installSize": "324k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Reference for the Texas Alcoholic Beverage Code.  The entire code is installed on your phone, no internet needed! Also available is the Texas Penal Code, Texas Family Code, Texas Transportation Code, and Texas Code of Criminal Procedure. Great for police!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

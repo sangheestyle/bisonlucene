@@ -1,0 +1,235 @@
+{
+  "title": "Advanced Task Cleaner 2.0",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bright.taskcleaner.activity",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 26, 2013",
+  "version": "2.9.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6523",
+  "rating": "4.3582706",
+  "contentRating": "Low Maturity",
+  "creator": "Bright Wallace",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bright.taskcleaner.activity",
+  "extendedInfo": {
+    "installSize": "329k",
+    "downloadsCount": "1,000,000+",
+    "downloadsCountText": "1,000,000 - 5,000,000",
+    "description": "Cleaning running applications.Uninstall apps.Making your android phone speed up and saving battery!   FOR android 2.2 and above users-------------------------------------------In Android 2.2(and above), the SDK has been changed where terminating applications will not end the associated services and notifications.So We Add some features for 2.2 users as below:1.Press app item and choose \"End Task\" option from pop up menu, if you want to kill an app. it will switch to App Info View,Tap the \"Force Stop\" button please.2.It will auto switch to Running Services View(system provided) to end services,after clicking \"end task\" button.      HOW TO USE -------------------------------------------It's Pretty simple:-)1.Launch this application and take a look at the running applications list, uncheck some applications you don't want to kill (Such as some system applications). Tap the menu \"End Application\", it will kill all checked applications.2.Click item to kill/switch/uninstall/see detail tasks in application view tab.3.Long press item to add/remove ignore list,add/remove auto-kill,manage auto-kill list in application view tab.4.Long press item to manage,uninstall,switch to/find in market in uninstall view tab.5.Auto start type :\tLaunch Application , Service only(default) or None when boot.6.Click tool bar to\thide/show tab.7.Enable Auto-kill Service ,if you\twant to auto-kill tasks.8.Long press to add task clean widget on home screen.9.If force close,send bug report to us by menu->preference->Bug Report.       NOTICE------------------------------------------- 1.In Android 2.2(and above), the SDK has been changed where terminating applications will not end the associated services and notifications.So it will auto switch to Running Services View(system provided) to end services,after clicking \"end application\" menu.2.Make the show ignore app setting checked, the ignore app will be displayed in application tab.3.The Startup clean scale is same as Widget's kill all apps. Actually it means kill all tasks which exclude ignore list and some system required tasks.4.If Widget Press Action has been changed ,please remove the widget from Home Screen and add it again!5.Hide the Notification message when the phone screen is from off to on and no task to kill.6.When AutoStart type is \"Service only\", means my app will run in background after reboot.7.If you pressed Menu->Completely Exit, all functions will be terminated except the widget.8.You can add widget to clean task by scale mode or set different apps to be killed at different times using the interval options!     NOTES -------------------------------------------1.Auto-kill function only kills tasks which is in this auto-kill list.Be careful on what you intend to insert in the auto-kill list.2.this auto-kill function runs when the screen goes off or enters sleep mode or interval mode.3.Interval Auto-kill Service auto-kill tasks by interval mode. Set the interval of auto-kill in auto-kill list view.4.When first init this app, Message,Gmail,Home and this app will be auto added to the ignore list.5.About widget,You can change Widget Press Action from Menu->Preference->Widget Setting.6.Menu->Completely Exit to kill this app.7.In All App tab shows all running apps which contains system app.I suggest that clean tasks in application tab is better.8.If Message app is killed,you don't show notification any more when new message arrived.Be care of this please!KW: taskiller Advanced Task killer taskmanager taskpanel process manager panel app memory ATK uninstaller.Any problem and suggestion please EMAIL me.",
+    "reviews": [
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1378440562954",
+        "starRating": "1",
+        "title": "Duh!",
+        "comment": "What I want to uninstall are the idiotic apps that comes with the phone like asphalt 5 and rock band.  We can uninstall what we download, Duh!",
+        "commentId": "gp:AOqpTOFlK9fc92abwm5aSRjcJxT-_6UxKoGrPs7rL1LtinhKjmk-BWmGxtFLwZFbT_JVzcgCt_WLh4_xFV5YBA",
+        "author": "Ana Lorena Victor",
+        "authorURL": "http://lh3.googleusercontent.com/-G5ZqJzvtMaE/AAAAAAAAAAI/AAAAAAAAAAA/W2SaUb6FooI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-G5ZqJzvtMaE/AAAAAAAAAAI/AAAAAAAAAAA/W2SaUb6FooI/photo.jpg"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1377806848660",
+        "starRating": "5",
+        "title": "Aila I love",
+        "comment": "Best ever app. Realy work. Even any app",
+        "commentId": "gp:AOqpTOFZr0mMWmFxEqpx-YhhNvznTxJDuQlyjy7wa_oRyrRXxwFrJkhWYHOnGEl8g0FUctyPs_ZVysa0AnD2Ow",
+        "author": "Manoj Shinde",
+        "authorURL": "http://lh3.googleusercontent.com/-J7DzGT5KD4Y/AAAAAAAAAAI/AAAAAAAAAFc/hGoVU7HE2c4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-J7DzGT5KD4Y/AAAAAAAAAAI/AAAAAAAAAFc/hGoVU7HE2c4/photo.jpg"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1359502495225",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "Works great and qHD resolution issue has been fixed - Motorola ATRIX",
+        "commentId": "lg:AOqpTOHdG252lIrmTVTqcY6xQYSVkXWh_aTga6EfuazCin-_JsY6m7Lh6NBFpOjnLDnysaOE4m3jtztmt-aAPQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1363382379269",
+        "starRating": "2",
+        "title": "Kept failing",
+        "comment": "App errors and quits every time I try to close running apps.",
+        "commentId": "gp:AOqpTOHDvDAg7kbAWahDJwRmVe_XHQVf3YVFSAOLUyZMX2InORyXx300ImTlWbwPZJKPD4KTb4YrnRAsfU5VkA",
+        "author": "Shawn MacDonald",
+        "authorURL": "http://lh6.googleusercontent.com/-Bm6INwFuH0o/AAAAAAAAAAI/AAAAAAAABMM/dY-zmkQM6eQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Bm6INwFuH0o/AAAAAAAAAAI/AAAAAAAABMM/dY-zmkQM6eQ/photo.jpg"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1376188231918",
+        "starRating": "5",
+        "title": "Great!!",
+        "comment": "Nice!",
+        "commentId": "gp:AOqpTOEj8LLiHx_dRM2fv7yAyCUzVzm4PfjgpoxOsCvj0DNWRyWI6LOJVWIul5JjxzuUkPImcCrOAq4Wc9H28g",
+        "author": "Steven Vazquez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1360203143635",
+        "starRating": "1",
+        "comment": "This app sucks!! It actually turns things on on your phone and helps to suck your battery dry!",
+        "commentId": "lg:AOqpTOE71Dcsc-yUrDfLwXWvipjdXSUnvA6LH9LQb-9gPjIfgUoC3PQozg5pvbr8VqgsCqZg3V3PZCd_QcxOgQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1373716945434",
+        "starRating": "5",
+        "title": "R",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOFlRvgh2Xqw3m9-YdRo8FT7sxYvxGFe2Gtf4S_OaoNwxY0fRNOp2VoxIGhSKs_351fXxzNK4cIsdQWSOQ",
+        "author": "Aslan Rashid",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1377864898525",
+        "starRating": "5",
+        "comment": "That\\303\\237 good",
+        "commentId": "gp:AOqpTOFYzkjhPS9iF6HL1JCQ63hulRiV-AUBDjp0dETjnCfVRwwCVUMGlQ_9kxPOsU5zUBoppuMdKSSblj9-mA",
+        "author": "Aniket Kumar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1361798986203",
+        "starRating": "1",
+        "title": "Lack of settings in recent version",
+        "comment": "Why the hell you removed settings and end application option from the app?? Unlike others Nexus doesn\\'t have any hard buttons to open menu.. not yet rectified. Uninstalling.",
+        "commentId": "lg:AOqpTOH_7mZl3wPUziSo6o8yEH6aqF0gPB0sNGGwHKzl4yQMN6W1S3SW-W4DhwvicCih4cthlVg9d-XT4jLYnQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1371775737174",
+        "starRating": "5",
+        "comment": "Bright",
+        "commentId": "gp:AOqpTOFgppxt0YWK0flXbYXK4MBR0fd-bED09v17eXZJF_OrNp-IZX_UGJf5R34aDOiaVCVXk8k-Sd_FWtWRBQ",
+        "author": "Rommel Aguilar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1368430551289",
+        "starRating": "4",
+        "comment": "Very happy about it!",
+        "commentId": "gp:AOqpTOHZA-BAevxrMcodcyL9Q1seJwpOwFx85htE538BracJElwMuIwIX_NX2V-7JoAAfWCiyZujYFOn5505hQ",
+        "author": "Kathryn Marcel Andrewartha",
+        "authorURL": "http://lh4.googleusercontent.com/-kyb-uGJzaq8/AAAAAAAAAAI/AAAAAAAAADs/DT2s8Eoqlnk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-kyb-uGJzaq8/AAAAAAAAAAI/AAAAAAAAADs/DT2s8Eoqlnk/photo.jpg"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1364408794171",
+        "starRating": "1",
+        "title": "Sucks large  !",
+        "comment": "Does  NOTHING  ! FAKE APP.",
+        "commentId": "gp:AOqpTOF5JTvxpNOaXpePvibKN2RWXQP9mhzJMzZzVi1KpTjKEia2QShuNzq6QuntphbI5WOrw6B5YbT_laXO1Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1372687257831",
+        "starRating": "5",
+        "comment": "Super",
+        "commentId": "gp:AOqpTOE8ZvUXB0mGv7KqXKAEzdWFrIYR95vSvX3xBoK5QDTyFdLO4SZlIM945vPaIavfBxRxdPUfsKSODKFZWw",
+        "author": "ALOK KUMAR",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.8.9",
+        "timestampMsec": "1303828157071",
+        "starRating": "1",
+        "comment": "At first, it looked promising but when I turn on CPU and memory, the apps crashes .... HTC desire HD froyo 2.2.1",
+        "commentId": "lg:AOqpTOHYpB_HDS-REfEd3262Pw8ySXXOfL711z7sBDRL7B23d195wnxbFmgCoxBR74NRg6_j3otl5ZcOH_l2HA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.8.9",
+        "timestampMsec": "1327958196557",
+        "starRating": "4",
+        "title": "Htc droid incredible",
+        "comment": "App works wonders on my droid but i don\\'t care much for the auto switch to running services, is there a way to turn this feature off?!.. Mahalo nui!",
+        "commentId": "lg:AOqpTOHVNFE5ihwtq5F57nvhwHXeuA7Gcl6z7bKDKaHg-9_XlolR5Q2NB7m-F8Bj95dgN28uQlgagolWYhHqKQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.8.9",
+        "timestampMsec": "1341672938433",
+        "starRating": "3",
+        "title": "Stop working after update to v4.0.4",
+        "comment": "Stop loading CPU ans men numbers after update new os",
+        "commentId": "lg:AOqpTOE9VnwSVznfwDfURMhGAjaIt0QT6iD7-Zz3G5XsOnff5GU--YNWKQjhnpR3IrnQWJnnxMWsnaKOG0yLKA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.8.9",
+        "timestampMsec": "1357744934498",
+        "starRating": "3",
+        "title": "Keeps crashing",
+        "comment": "When i try to manually end apps because the auto kill was obviously not working because my battery drained almost 50% while sleeping it just force closed. Uninstalling",
+        "commentId": "gp:AOqpTOGNXxDEA4jIhdZg6isBBh8jx5lt-wNSDp1CxjEFoJ1JAvfjp2DCpIAv9A7LhyD3BcfnNe8UrEbQgsKMVg",
+        "author": "Rebecca Van Hofwegen",
+        "authorURL": "http://lh6.googleusercontent.com/-B-g7VuMBr7g/AAAAAAAAAAI/AAAAAAAAAA4/SwglZ1vE7YM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-B-g7VuMBr7g/AAAAAAAAAAI/AAAAAAAAAA4/SwglZ1vE7YM/photo.jpg"
+      },
+      {
+        "documentVersion": "2.8.9",
+        "timestampMsec": "1335231088004",
+        "starRating": "5",
+        "title": "My Favorite",
+        "comment": "Best task-killer I\\'ve used, lets you disable it from auto-starting, great Widget you can choose the behavior of, fully featured! A+",
+        "commentId": "lg:AOqpTOFORqpzpqTv6MFarr9UKSF3GbvpmubTI3-CkSkMl_kN7l2YNuQkTN7d29Mvl9Cvt9CUy0YGTBu2dMqzCg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.8.9",
+        "timestampMsec": "1314087600240",
+        "starRating": "1",
+        "comment": "Droid - It slowed down my phone\\'s function BIG TIME and made moving from one function to another impossible without having to \\\"Force Close.\\\"",
+        "commentId": "lg:AOqpTOERPdUFBvnOgNLvMm9R6pJ4VNL13Rxo8BiWWqRtq_jpQkw1Qt84ZkzCfpH6CjuvHl9347RaDYDOBqLtGw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.8.9",
+        "timestampMsec": "1308060448712",
+        "starRating": "1",
+        "comment": "Crashes when ending talks HTC Evo 4G runnibg android 2.3.3",
+        "commentId": "lg:AOqpTOFnCrr3haW_Tp2jVP3Ud6IKKKYF6Bf2J6UASgs-WmATxsedhnqfNrEad51-WI0AOrZcsP82t4InckHfLg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

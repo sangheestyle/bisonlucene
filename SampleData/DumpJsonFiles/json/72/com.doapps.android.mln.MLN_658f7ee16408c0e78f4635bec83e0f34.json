@@ -1,0 +1,43 @@
+{
+  "title": "Kentucky College Sports-WHAS11",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_658f7ee16408c0e78f4635bec83e0f34",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "4.6.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "7",
+  "rating": "4.285714",
+  "contentRating": "Low Maturity",
+  "creator": "DoApp, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_658f7ee16408c0e78f4635bec83e0f34",
+  "extendedInfo": {
+    "installSize": "5.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Kentucky College Sports app from WHAS11 is a UK fan's resource for everything about Wildcats Sports! Get all the info you need on UK sports and also check out SEC and NCAA scores, stats and headlines. With live scoring, news, rosters, slideshows, video, and more â the app offers dozens of features, including: - UK sports news, SEC, and NCAA news and scores - Schedule for University of Kentucky & opponents - Player Stats, info - Weekly polls (Coaches, AP, BCS) - WHAS11 sports news - Full live Top 25 scoreboard - Standings - More! It is the only University of Kentucky Sports app you need - whether you're tailgating, sitting in the stands or want to access the sports info you want, where ever you are - track everything UK Sports with the Kentucky Sports app from WHAS11! Go Cats!",
+    "reviews": [
+      {
+        "documentVersion": "4.5.4",
+        "timestampMsec": "1376742653824",
+        "starRating": "3",
+        "title": "Cool",
+        "comment": "This is supposed to be Kentucky sports right ? Then why are all the videos of other teams at sec media days ?",
+        "commentId": "gp:AOqpTOFrlO8DX90N0qRZiK5yNqyITL31UWPNDwFp7UWraj9BtW-r0llMEu9szPTflyTLiW0yFAJd81IT-_GzVA",
+        "author": "kyle volpert",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

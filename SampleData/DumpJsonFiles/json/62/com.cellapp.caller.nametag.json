@@ -1,0 +1,50 @@
+{
+  "title": "Caller Name Tag",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cellapp.caller.nametag",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 2, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "4.285714",
+  "contentRating": "Everyone",
+  "creator": "CellApp Technologies India Pvt. Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cellapp.caller.nametag",
+  "extendedInfo": {
+    "installSize": "885k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Want to know who's calling or messaging you, without picking up your phone.Caller Name Tag helps to call out the caller name and message (SMS) sender name when you receive a Call/SMS. It also helps to readout the SMS if you wish. You can enable Caller Name Talker facility and SMS readout facility by simply tapping to the corresponding buttons.This app requires Text To Speech (TTS) engine. If your phone doesn't have this facility the app will redirect you to Google Play to install the Text To Speech engine.Note: Speaks out the caller name when phone is ringing.Caller Name Tag is not available when your phone is in silent or in vibration mode.When two messages are received at the same time only the first message alert will be readout.",
+    "reviews": [
+      {
+        "timestampMsec": "1364458517472",
+        "starRating": "4",
+        "comment": "Good app",
+        "commentId": "gp:AOqpTOE4UFeOkQIz70qKdco2jYYDi4fclEkqU1UyvpT_dgnN43Ae9AWLRKMVHQyBTE3KPr7PsMojLMJsn95YFq4",
+        "author": "achu p chandra",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369664016802",
+        "starRating": "5",
+        "title": "Kul",
+        "comment": "Swt",
+        "commentId": "gp:AOqpTOGo-me14aepHR94yPgA0t9PvSObfFQZHfvwvk8lYznuAx8QPgYaSSdp3aq2BgvBdpEiLYtZoBgy4-XQNDk",
+        "author": "Ann Salamatu Garba",
+        "authorURL": "http://lh5.googleusercontent.com/-iLsGsIgP4pk/AAAAAAAAAAI/AAAAAAAAAL8/pCw7FoiVRrw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-iLsGsIgP4pk/AAAAAAAAAAI/AAAAAAAAAL8/pCw7FoiVRrw/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

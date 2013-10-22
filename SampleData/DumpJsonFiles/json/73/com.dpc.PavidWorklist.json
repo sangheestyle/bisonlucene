@@ -1,0 +1,63 @@
+{
+  "title": "DSPATCHR Medical Dispatch",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dpc.PavidWorklist",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "October 24, 2011",
+  "version": "20111029",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Digital Power Company",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dpc.PavidWorklist",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "DSPATCHR (Dispatcher) [dih-spach-er] This application is the mobile component of the DSPATCHR-MED Platform. **YOU MUST BE SUBSCRIBED TO THE DSPATCHR SERVICE TO USE THIS APPLICATION***Scheduling - Schedule your patients the way your practice runs. Whether you have a first come - first served approach to scheduling or traditional time and resource based scheduling model, DSPATCHR conforms to your activities allowing your business to be more efficient.Patient Management - Use DSPATCHR EMR functionality to maintain your patients' information. Medical records, demographic information and document management is combined to allow for seemless recordkeeping. Distribute information quickly by faxing or securely emailing diagnostic reports to referring physicians.Integrated Document Management - Scan it, upload it or take a picture. Your patients documents are securely stored and accessable anywhere you have an internet connection.Dispatching - Powerful dispatching and field data acquisition allow you to collect visit data when it happens drastically improving turn around times and efficiency. Dispatch visits based on technician proximity to visit location and/or workload.Billing - DSPATCHR has diverse billing options. From printing HCFA forms for manual billing to facility billing and invoicing or exporting data to billing systems we have many options to tailor to your needs.Workflow automation - Automatically distribute diagnostic reports or other important documentation when completing a visit.***MUCH MORE!***Please visit our website or contact info@digitalpowercompany.com for details.",
+    "reviews": [
+      {
+        "timestampMsec": "1314311116516",
+        "starRating": "5",
+        "title": "Greatest Mobile Healthcare application.",
+        "comment": "This application is unbelievable. It has allowed me to manage my employees in the mobile environment and more effectively service our patients.",
+        "commentId": "lg:AOqpTOGe-g1si0JRbXnFJp8cImeP371k1rbuleIXh-4zdKaw9CQMyfCJv8dCh0CsP6Eni254LgXyZaosVS5lrY0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1314379791476",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "Amazing App!!!",
+        "commentId": "lg:AOqpTOE7EIiMC4mS5tv9tkGZCTmh8kFAxE7efp_SjNbQYWEfJQfvBFCkowRgX29KfzobQB3QoS6KA-m761e38rU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1314291710904",
+        "starRating": "5",
+        "title": "Terrific Application",
+        "comment": "Awesome app! This app and program will change how mobile x-ray/ medical services are done everywhere.",
+        "commentId": "lg:AOqpTOECpfsqH2Yu_yJL7O9p_sp0R_I4R2ndP2nHdltnBKTaSrG5E3S6l2wMDGsr3DaZ6IJ5uUnR6YIBWoek31E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.dpc.PavidWorklist.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

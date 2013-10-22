@@ -1,0 +1,34 @@
+{
+  "title": "SCPL Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.scpl",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "December 3, 2011",
+  "version": "4.5.68",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.scpl",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Search for books, DVDs, audiobooks, CDs and more. Place holds or renew items, view our upcoming programs and events, follow our blogs, tweets and Facebook status updates, or contact us.We've also included a great new way to search our books. No need to search by field, no need to enter full words, no need to wait for results. Just type the first couple of letters of words and see the search in action while you type. So for books on \"Jacqueline Kennedy Onassis\" simply type \"ja ke on\".We've invested in the latest mobile solution for libraries and we'll be adding new content over time. We hope you enjoy it as much as we do!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

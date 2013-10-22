@@ -1,0 +1,43 @@
+{
+  "title": "High End Plumbing",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dytek3inc.dytek.highendplumbing",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 19, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Dytek 3, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dytek3inc.dytek.highendplumbing",
+  "extendedInfo": {
+    "installSize": "4.8M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Complete Plumbing Services in Miami Florida***24 Hour Emergency Plumbing Services***      **Absolutely Free Estimates**\t-High End Plumbing, Inc.-Be pro-active! Don't wait to wake up in the middle of the night to find your bathroom under an inch of water with more streaming out of the top of the bowl so that you then start on the hunt for professional low-priced plumbers. Download the app now and make sure you're prepared. Along with making sure you have a way of contacting a professional plumbing company 24 hours a day 7 days a week, High End Plumbing has created this app so that you may be able to see pictures and videos of our work as examples. You can also easily follow our Twitter and Facebook which include many How-To's and DIY's. ** Remember, Don't wait until thereâs a repair that require immediate attention! Download the app and be prepared! **",
+    "reviews": [
+      {
+        "timestampMsec": "1345407860380",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Just perfect and beautiful :)",
+        "commentId": "lg:AOqpTOE4NzJHyeEUi8eMSSdiPhWc0RG0wvQoiTI5U_RYNrMYm4LMYjmAfTGcwtp5SgzAOxWeQSX73Cgqoj7sDA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CLEAR_APP_CACHE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "com.dytek3inc.dytek.highendplumbing.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

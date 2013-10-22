@@ -1,0 +1,36 @@
+{
+  "title": "Enterprise Ping Demo Toolkit",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.enterprisingapps.android.enterprisepingdemo",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 3, 2013",
+  "version": "1.1.1",
+  "operatingSystems": "3.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Enterprising Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.enterprisingapps.android.enterprisepingdemo",
+  "extendedInfo": {
+    "installSize": "491k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Enterprise Ping is a graphical multi-ping IT network utility. Ping is a network utility tool that test connectivity between your device and a remote device and is an essential network tool for any network administrator toolkit that can be used for network monitoring and network management. Enterprise Ping features a graphical output of Ping response times and a full text log file that can be exported. If you are making changes to your network, remote host, inter-network routing, QOS, access list, or any number of items that can disrupt or change connectivity the continuous ping and graph combination is a great way to immediately highlight the results of those changes. It's a great tool for any network administrators toolkit. If you are an IT administrator responsible for a network, LAN or WAN consisting of routers, switches, servers, firewalls, email, web servers or any other device that you need a tool to monitor for management a solid ping tool is essential to your toolkit. Enterprise Ping FeaturesSupports multiple ping destinations. Currently supports up to 4 ping destinations but we are bringing the capabilities for many more simultaneous pings.Graphical response time chartPing across VPN NetworksFull Ping log export that can be shared via any method your device supportsSpecify ping packet sizeSpecify ping interval time in secondsIf you close or minimize the app, pings will stop but once you open the app again you can pick up where you left off.Continuous pingSaves your host history for quick recall Available Ping StatisticsResponse time per pingTotal combined response time since you started the pingMinimum ping response timeMaximum ping response timeAverage ping response timeNumber of sent ping packetsNumber of received ping packetsNumber of lost ping packetsPercentage of lost ping packets",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

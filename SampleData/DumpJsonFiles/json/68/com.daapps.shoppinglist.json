@@ -1,0 +1,49 @@
+{
+  "title": "Shopping List Sync",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.daapps.shoppinglist",
+  "category": "Tools",
+  "price": "$1.79",
+  "datePublished": "April 3, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "57",
+  "rating": "4.0877194",
+  "contentRating": "Everyone",
+  "creator": "DA Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.daapps.shoppinglist",
+  "extendedInfo": {
+    "installSize": "562k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This beautifully designed app allows you to make lists and sync it with your family's Android devices and iOS devices so they can add items on the go.Why you need this app: â¢ You are at work. Your spouse is at home. Have your spouse compose a grocery list for you so you can visit the supermarket after work on your way home. â¢ You have an Android device and your spouse has an iOS device (iPhone, iPad, iPod touch) device â you can have a fully synchronized shared grocery list. =========Features: =========â Automatic cloud synchronization. â Share your account with spouse/family/friends to manage grocery lists together. â iOS version of the app from the save developer â keep you grocery list in sync on all devicesIf you have an iOS device that you want to use for access to your shared shopping list you need to get the iOS version from here: http://itunes.apple.com/us/app/id513591616?mt=8",
+    "reviews": [
+      {
+        "timestampMsec": "1359332198171",
+        "starRating": "5",
+        "title": "Great app quick sync",
+        "comment": "I really like this app.",
+        "commentId": "gp:AOqpTOEOoX5JQK1eFn53EzOvJOukMZum4uQ_jIIGfSfttHJPiQ0Hn2ou7QUF5XS09_lKungjc7S8920ILM8lpA",
+        "author": "Andrew Skoraro",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364036755412",
+        "starRating": "1",
+        "title": "Can\\'t sort, can\\'t bulk add,",
+        "comment": "Lousy underpowered",
+        "commentId": "gp:AOqpTOEdPBSMk7xSkzXW-c3YyW4q8BfHRBJQBnO7udvz_yA5LtMLPYMiyiNGVhpXpr7rcEvhokt_LA-obY1lAg",
+        "author": "mark palmos",
+        "authorURL": "http://lh4.googleusercontent.com/-Exh7R1ItHvE/AAAAAAAAAAI/AAAAAAAAGM4/5gJbBnKBuSc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Exh7R1ItHvE/AAAAAAAAAAI/AAAAAAAAGM4/5gJbBnKBuSc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

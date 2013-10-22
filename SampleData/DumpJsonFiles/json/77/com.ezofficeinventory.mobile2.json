@@ -1,0 +1,65 @@
+{
+  "title": "Office Inventory Tracking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ezofficeinventory.mobile2",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 17, 2013",
+  "version": "Alpha",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "3.7142856",
+  "contentRating": "Low Maturity",
+  "creator": "EZ Web Enterprise",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ezofficeinventory.mobile2",
+  "extendedInfo": {
+    "installSize": "656k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "EZOfficeInventory - Track Assets with Ease.Pull up asset information in seconds. Access details of asset checkouts and employee possessions with ease. EZOfficeInventory is a popular asset tracking tool used by numerous businesses.Supports custom barcoding!To signup you must visit http://www.ezofficeinventory.com and select appropriate subscription package",
+    "reviews": [
+      {
+        "timestampMsec": "1370614665170",
+        "starRating": "4",
+        "title": "New version a HUGE step up",
+        "comment": "WAY better guys!!  Very nice layout, sorting of pick lists alphabetically, and better functionality for viewing and editing inventory items.  Fixed the scanner for Galaxy S4 sizing as well.   Keep up the good work with more updates!  And to the clowns that gave it 1 star saying it\\'s not free...umm...well it\\'s a companion app for a PAY service for company inventory or equipment...not sure what you expected.  They have a demo where you can use it for free for 30 days as well.",
+        "commentId": "gp:AOqpTOEZeufXDwZukca58HkHBykQuGRhr-c423grLT_v8RUSjHLVPCyoEhjynoGG4QrqCFuBEdQaOEh7aIa6rQ",
+        "author": "Todd Rosenthal",
+        "authorURL": "http://lh4.googleusercontent.com/-OA6xbYmAoGM/AAAAAAAAAAI/AAAAAAAADDQ/8ZsHPj1dOKA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-OA6xbYmAoGM/AAAAAAAAAAI/AAAAAAAADDQ/8ZsHPj1dOKA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366067799998",
+        "starRating": "1",
+        "title": "Useless without a monthly subscription",
+        "comment": "Needs to specify that this app is useless without a monthly subscription",
+        "commentId": "gp:AOqpTOGFRDXUhYjSH04LiNeLDbu4ocQ-6bVIq6z9NNhTeuhImhU-hZSc7UixG-VSXP4DTIvJjFdL1HPK48NgHg",
+        "author": "Jacob King",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364554345753",
+        "starRating": "1",
+        "title": "Waste of time - NOT FREE",
+        "comment": "Makes you follow an online webform then asks for all details then wants you to subscribe monthly... Not free thumbs down",
+        "commentId": "gp:AOqpTOGoM2QsYka-TnwATZMla9msWriTBDF3Xom7NxbjjwmgdqLbc7PGNHU7cQkT80YnBCKLmqfE6vGUhcXXcA",
+        "author": "Sam Jennings",
+        "authorURL": "http://lh6.googleusercontent.com/-yb_xGNnJ1PI/AAAAAAAAAAI/AAAAAAAABO0/bGxH_mjnbKg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-yb_xGNnJ1PI/AAAAAAAAAAI/AAAAAAAABO0/bGxH_mjnbKg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

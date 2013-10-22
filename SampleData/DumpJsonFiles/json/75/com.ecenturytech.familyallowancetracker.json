@@ -1,0 +1,37 @@
+{
+  "title": "Family Allowance Tracker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ecenturytech.familyallowancetracker",
+  "category": "Finance",
+  "price": "$0.99",
+  "datePublished": "April 28, 2013",
+  "version": "2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Thurman Brown",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ecenturytech.familyallowancetracker",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Multiple parent, Child allowance tracking system.",
+    "reviews": [
+      {
+        "timestampMsec": "1367120281569",
+        "starRating": "1",
+        "title": "Paid, then \\\"not licensed\\\" error?",
+        "comment": "Bought, downloaded then it said \\\"not licensed, purchase through Google Play\\\". Fix please.",
+        "commentId": "gp:AOqpTOHiJrvp_AeZjkMAIeRnR1mbtCLBaW1suTgsV4bIxV4JlmC2668GR2tFRpKF3sDf2VeYZAkVwVEecodFeF8",
+        "author": "Danica Billingsly",
+        "authorURL": "http://lh5.googleusercontent.com/-3ARyo7iAusw/AAAAAAAAAAI/AAAAAAAAEb8/lViHNNkGzWk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-3ARyo7iAusw/AAAAAAAAAAI/AAAAAAAAEb8/lViHNNkGzWk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.CHECK_LICENSE"
+    ]
+  }
+}

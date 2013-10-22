@@ -1,0 +1,42 @@
+{
+  "title": "Great Day St. Louis",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_40d1c8cd104b375d3d161cc939e33e89",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "August 30, 2013",
+  "version": "4.6.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "DoApp, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_40d1c8cd104b375d3d161cc939e33e89",
+  "extendedInfo": {
+    "installSize": "5.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Great Day St. Louis is your mobile one-stop-spot for great tips, trends, product reviews, recipes and headlines. Check out great content from Great Day St. Louis, the most popular local lifestyle show in town!",
+    "reviews": [
+      {
+        "timestampMsec": "1362267611228",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "Good app. One stop shop for busy moms",
+        "commentId": "gp:AOqpTOHjWZvD_3fFtxsUQGdp8qSLjl0l0c-Ys2sJEON-glJseSzjR6uhtwuv4JZdQQ9ghQ2SVBbH-I4t0v9UxHY",
+        "author": "Jylesa Washington",
+        "authorURL": "http://lh4.googleusercontent.com/-VVV6Lj6b4Uk/AAAAAAAAAAI/AAAAAAAAANo/kZNV3Jf1DW8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-VVV6Lj6b4Uk/AAAAAAAAAAI/AAAAAAAAANo/kZNV3Jf1DW8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Severe Weather Alerts",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wSevereWeatherWarnings",
+  "category": "Weather",
+  "price": "$3.99",
+  "datePublished": "March 29, 2013",
+  "version": "0.17.13139.01473",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "3.25",
+  "contentRating": "Everyone",
+  "creator": "Swello",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wSevereWeatherWarnings",
+  "extendedInfo": {
+    "installSize": "112k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "This app pushes Tornado, Thunderstorm, winter storm, Hurricane, and flood warning to your phone!",
+    "reviews": [
+      {
+        "documentVersion": "7.13139.01473",
+        "timestampMsec": "1330714936430",
+        "starRating": "2",
+        "title": "Severe weather pd app",
+        "comment": "Hard to work it this app sucks",
+        "commentId": "lg:AOqpTOEq_1lIdr12fbj7cklpImUOunT9auscSyH6NvJIJCQy2r-PDIiP-tQPpOSc3-hzpNxkYK6QDCdL1Q-KgQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "7.13139.01473",
+        "timestampMsec": "1356497280704",
+        "starRating": "1",
+        "title": "4$!?!?",
+        "comment": "Sucksssss.  For 4$ you serious??",
+        "commentId": "gp:AOqpTOHcB_rokYdfEgZonDDQ7Ez8fkpM6x2wQ0lh314wJw0jdvhFmwbz0LrvXee5iJ1sdoz67TZintorNyUiSg",
+        "author": "Robert Davis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wSevereWeatherWarnings.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

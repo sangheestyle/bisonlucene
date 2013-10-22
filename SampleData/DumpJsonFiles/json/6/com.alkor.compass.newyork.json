@@ -1,0 +1,58 @@
+{
+  "title": "New York Subway Compass",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.alkor.compass.newyork",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.9.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Low Maturity",
+  "creator": "Alexey Korobitsyn",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.alkor.compass.newyork",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Application for quick and easy New York subway stations discovery.How does it work :- Run New York Subway Compass outdoors far from large metallic objects- Wait until your location will be found by GPS or wireless networks after that surrounding subway stations will be shown- Select the most suitable for you station - Go towards selected station in the direction provided by compass- Also station may be shown on map Adventages :- You need not New York city map- You need not internet access- Stations are clearly represented with subway lines and distances to them- Usability and performancePermissions :PRECISE LOCATION (GPS AND NETWORK-BASED) - to get your location by GPS or wireless networks and find nearest subway stations (locations don't send anywhere and being used on device only).NETWORK COMMUNICATION (FULL NETWORK ACCESS), NETWORK COMMUNICATION (VIEW NETWORK CONNECTIONS) - for taxi order form and statistic.",
+    "reviews": [
+      {
+        "timestampMsec": "1356865725052",
+        "starRating": "5",
+        "title": "Cool idea",
+        "comment": "Good tool, simple and useful to find nearest subway when you have no time to analyse maps and go internet",
+        "commentId": "gp:AOqpTOEr9Dq1p8hh231bmkSHBmodJGAMfDlkoLHbrUA9AgB35jg7Krjnca5TuQxs-Y2brPIpm0AQ_JH_D2r4JA",
+        "author": "Alexey Yurjevich",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365894559996",
+        "starRating": "4",
+        "title": "Alex c",
+        "comment": "Amazing app love it",
+        "commentId": "gp:AOqpTOHmtwf8xJOFmCcKI-6IafZHf34VUfSzHDv3N7vXokLdDll4uHVj5faCUZthL6c7s2ahr4l0Ih-sou7jpw",
+        "author": "Alex Charlton",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364128828847",
+        "starRating": "5",
+        "title": "download it",
+        "comment": "It\\'s worth to download it.",
+        "commentId": "gp:AOqpTOGTg7vy-9l41_xACiABl59S39x0dcPmf85-6xbFbodiLS_9FPoNc8dT67Jl4iyR0Z_oVQdEq1w1JfkPxQ",
+        "author": "Alexey Korobitsyn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

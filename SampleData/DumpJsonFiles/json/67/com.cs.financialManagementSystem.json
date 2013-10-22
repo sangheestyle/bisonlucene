@@ -1,0 +1,60 @@
+{
+  "title": "Financial Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cs.financialManagementSystem",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "January 9, 2012",
+  "version": "3.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "High Maturity",
+  "creator": "CS Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cs.financialManagementSystem",
+  "extendedInfo": {
+    "installSize": "591k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "FMS is a very useful Financial Management tools to help user manage and keep track their financial everyday.Features:*Income Recorder*Actual Expenses Recorder*Budget Expenses Recorder*Profile Manager*Loan Advisory*Currency Converter*Currency Update*Currency Management*Currency support features to entire application-Currency rate can be manually updated from Euro bank web service daily.-FMS able to convert entire application financial amount regarding to the primary currency preference.-Loan Advisor able to notify user about the loan payment date.Thanks for the help from:Siew Cheng Yong who had provided solutions for compound interest.Bonnie Ting who had provided idea of Profile Manager.Chi Fong Lim who had inspired me about the idea of this application.Please email question and feature request directly to developer.",
+    "reviews": [
+      {
+        "timestampMsec": "1349672833108",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "I got what i want, just suggesion is that allow edit of loan detail, allow to enter manual interest , Very important report export to excel Waiting for updates",
+        "commentId": "lg:AOqpTOE65qCi3KpRkih-wM3Pa_jfguAhuuRtisXhpUdiz5h6E0U643um46r2QqTUwfrQVYaiPkdhWOZY2b9c2Ag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1323349536405",
+        "starRating": "4",
+        "title": "Still have some room of improvement hehe :p",
+        "comment": "Good work! The UI still can be further enhanced tho. :)",
+        "commentId": "lg:AOqpTOEuUdjRa00zzD2so1A3j28jYV2mRoOICWjAJlOphRgHhvbctP_6o13Q5UKoedYQvDcvOPVJPvVNf5j7AE0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1323310657104",
+        "starRating": "5",
+        "title": "Excellent App",
+        "comment": "Nice interface too.",
+        "commentId": "lg:AOqpTOGI5QmeDzfkeGSMwrm0F-Wq4Vcl4gHl3-bwicwT1NigD5TA_TYFO4bdY-iaQyvXiDvIHD6_O3SopoAZHl0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "title": "DslrDashboard",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dslr.dashboard",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "September 9, 2013",
+  "version": "0.30.30",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "578",
+  "rating": "4.4775085",
+  "contentRating": "Low Maturity",
+  "creator": "Zoltan Hubai",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dslr.dashboard",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "With DslrDashboard you can control you Nikon DSLR or any other PTP compatible camera.You need an USB OTG cable for connecting your camera to your phone.Not all phones/tablets are compatible. You need at least 4.x  Android or higher with USB host support.For more information check:https://dslrdashboard.googlecode.comandhttp://forum.xda-developers.com/showthread.php?t=1256583 .Instant Guide to DslrDashboard by Dmitri Popov:http://dmpop.homelinux.com/dslrdashboard/http://www.amazon.com/dp/B005H86Y9Ghttps://gumroad.com/l/dslrdashboardThis app is free with no ads so please don't add negative comments just because you ROM don't have the required USB support. And no it's not only the kernel that needs to have USB support but your Android to. Some of Android 2.3.x have the required USB support but not all, so before you give a negative comment at least check if your ROM supports USB devices (USB accessory support is not enough) Constructive comments are welcome.DslrDashboard feautres:Remote capture,Change camera properties,Browse images on camera,Transfer images from camera to Android device,Preview images (jpg and raw),Live view,Live view histogram,Manual focus movement while in live view,Start movie recording (only on camera models that support it),Custom bracketing (up to 9 images),Focus stacking,Time-lapse (simple and advanced with control file and ability to move focus and send commands to Arduino),Sound initiated capture (with spectral display and frequency/intensity selector,Nikon flash commander dialog (CLS) for easy settings (only on camera models that support it),DoF calculator.Custom profiles for camera properties, custom bracketing, focus stacking, flash commanderRemote control over wireless network (Android devices must be on same network)Support for WU-1a/1b adapter (PTP/IP)LRTimelapse help screen - read more about it at https://code.google.com/p/dslrdashboard/wiki/lrtimelapse",
+    "reviews": [
+      {
+        "documentVersion": "0.30.30",
+        "timestampMsec": "1378729320526",
+        "starRating": "5",
+        "title": "Best DSLR app, period.",
+        "comment": "What else can I say, this app has all the functionality you could want. I use it with a Nikon D3200 with the WU-1a WiFi adapter and my phone or tablet. If you are an DSLR user, you need this app. Don\\'t waste time with the sub par app from the OEM.",
+        "commentId": "gp:AOqpTOGdRS_PYj778CbCewOYVbiyWTbLlnGoAAZiumhgLQxHtbtbRj0FFZad1wKjs_0kf8A3rUAjhrwnzhxVTA",
+        "author": "Matt Munyon",
+        "authorURL": "http://lh6.googleusercontent.com/-eiMaR4OmNeI/AAAAAAAAAAI/AAAAAAAAAOA/16x3b6HK9IY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-eiMaR4OmNeI/AAAAAAAAAAI/AAAAAAAAAOA/16x3b6HK9IY/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.30",
+        "timestampMsec": "1378732026485",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "This is the only app that works with my d3100 and it works great.",
+        "commentId": "gp:AOqpTOHeNFgXZmB2DwLPxdHuz6zN4walUXOLx4CGYVcftk63-JY_iFya0ee7AvqnU7oDChI9MjAM1M1Hga9JPg",
+        "author": "Alex Markessinis",
+        "authorURL": "http://lh3.googleusercontent.com/-aC2TEngbdXc/AAAAAAAAAAI/AAAAAAAAAv8/roaBPSkwuG0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-aC2TEngbdXc/AAAAAAAAAAI/AAAAAAAAAv8/roaBPSkwuG0/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.30",
+        "timestampMsec": "1378726259004",
+        "starRating": "5",
+        "title": "Superb",
+        "comment": "Fantastic free app with great support from the developer.",
+        "commentId": "gp:AOqpTOE9OHgakvyM4fDZjn6A0gTbLE2i4vAvnsdF1rQZka9lNMm8RCEgSvD0P1ENxSOkmhdpMCqjTTHIYGoecQ",
+        "author": "Phil Hayward",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.30.29",
+        "timestampMsec": "1378746783962",
+        "starRating": "1",
+        "title": "Johnny D.",
+        "comment": "Some of the reviews say that they are using this app with the Nikon D3200, but I have tried many times and it does not work. (I think some of these reviews are fake if you ask me). Hey Zoltan what do you think the problem is??????????????????  Nikon D3200/Usb Otg Cable to USB to Camera Samsung Galaxy S2/Andriod 4.0",
+        "commentId": "gp:AOqpTOGe-ioPecf5C-L-WGezcY1Kt5VmB3TBbgdv15jPwUNRlEiAnX0HuHz3nwWcQhhcrIMrmYZ99cXftTh0xw",
+        "author": "john diaz",
+        "authorURL": "http://lh4.googleusercontent.com/-Ibym09p2ELE/AAAAAAAAAAI/AAAAAAAAAAA/PSSygsBLI2c/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Ibym09p2ELE/AAAAAAAAAAI/AAAAAAAAAAA/PSSygsBLI2c/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.29",
+        "timestampMsec": "1378747005407",
+        "starRating": "5",
+        "title": "Nikon D3200",
+        "comment": "A brain haemorrhage left me unable to use my right arm & hand. Thanks to this app, I can now use my camera on a tripod with the Nikon wireless adapter . & my Galaxy Note 10.1 Thank you so very much developer, I would willingly pay \\302\\24310 for the privilege of using this brilliant app. It gets better with each update, thanks again Galaxy Nexus with Jellybean 4.3 :l))",
+        "commentId": "gp:AOqpTOFJWWTm_D8HX1lbainu2s35q7sWEY0lYSbbWFz8tEK4nVwy9emCLXcjdWEOX5lyN5GDti6q_bVDRBIxsg",
+        "author": "Steve Foster",
+        "authorURL": "http://lh4.googleusercontent.com/-RfASNcw7EJA/AAAAAAAAAAI/AAAAAAAAA2o/ZFIIr3rLXIM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-RfASNcw7EJA/AAAAAAAAAAI/AAAAAAAAA2o/ZFIIr3rLXIM/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.29",
+        "timestampMsec": "1378457712741",
+        "starRating": "5",
+        "title": "totally awesome app",
+        "comment": "well i have nikon d3200 and this is the best app.  much better than paid  ones. now i make timelapses, HDR,  and impress girls :-)",
+        "commentId": "gp:AOqpTOHuEYKn7OfYp7kST_UDVGuYkjGzr8e7Hbr0kWjo468glgfyBvUDm6XWqbHhXo8tLyKnfYJ1ntyc9PbJxA",
+        "author": "Hristo Hristov",
+        "authorURL": "http://lh5.googleusercontent.com/-6S_1Ye5ZLnQ/AAAAAAAAAAI/AAAAAAAAoCQ/0JuCgi-2zig/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-6S_1Ye5ZLnQ/AAAAAAAAAAI/AAAAAAAAoCQ/0JuCgi-2zig/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.29",
+        "timestampMsec": "1378390346759",
+        "starRating": "3",
+        "title": "Worked great until......",
+        "comment": "Loved it until last update now no live view and giving some kind of \\\"user control\\\" issue on Nikon D7100.",
+        "commentId": "gp:AOqpTOE1CZ3Z6hFC4JQ3akCl8GsgD2jYvCzv14wGWHv8lGJIJEjLJCvdw0P1zp-BdzaN0XgyMLcjCMiLXS-YQA",
+        "author": "John Chevalier",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.30.29",
+        "timestampMsec": "1378593725298",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Works with my D3200.",
+        "commentId": "gp:AOqpTOFfFUQjZ8RMYd0W40BS1s-DVkbJBi9mkUiDWsTFPhgpgNG2OVDvAwjQmomGc-SoxjgezE0dN4IuMB8owA",
+        "author": "Pushpesh Tripathi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.30.29",
+        "timestampMsec": "1378387198676",
+        "starRating": "4",
+        "title": "Good but. ...",
+        "comment": "When the live view is pressed it take takes a lot of time to start the live view on the phone. Please make it faster.",
+        "commentId": "gp:AOqpTOHjexlT5MuH9GYSHC0fpL9Sr5rylJ0KzhcZmMbOpBtBmBwy1JXa5HLMlxdc7GFU8ClcG1O0SIc34KZqNg",
+        "author": "usama hamid",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.30.28",
+        "timestampMsec": "1378320552415",
+        "starRating": "4",
+        "title": "nikon d3100 - bulb?",
+        "comment": "I know D3100 is limited can you at least make the bulb mode function...bracketing would be awesome.  maybe it\\'s my phone: Samsung S2(3.1.2) ...I\\'\\'ll try different phones. i just need bulb so i can pay you and not nikon for the cable :))",
+        "commentId": "gp:AOqpTOHcybMNqrNE4m7YBUlM0Uk4tYobnbLlHNDnsbNkzoZVHHixfSHweTs3flNGm0Cau-yL2QJ20hTvODSf-A",
+        "author": "Marius B",
+        "authorURL": "http://lh6.googleusercontent.com/-qxUWufwuN7s/AAAAAAAAAAI/AAAAAAAAAPU/yNY0HwOBkFs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-qxUWufwuN7s/AAAAAAAAAAI/AAAAAAAAAPU/yNY0HwOBkFs/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.28",
+        "timestampMsec": "1378208301654",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Please fix bugs on canon 30d :) thanx a lot for adding yet another great possibility for using my Note",
+        "commentId": "gp:AOqpTOGuMKYW0GiYRnLSAwthBBruLhN8E5xy3z-cFMtu55Hvda24TjFq6Yo4ZJV4gb3QNaPQmpz3JbP6qQnvMA",
+        "author": "bogdan erin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.30.28",
+        "timestampMsec": "1378210234623",
+        "starRating": "5",
+        "title": "Superb app. Would pay for it!",
+        "comment": "Easy to use on my Nikon D7100. I use it to frame and focus on my Sony tablet. Great! \\357\\274\\274(^_^)\\357\\274\\217",
+        "commentId": "gp:AOqpTOHSbP81biKWf06AWhquJOZ1SFxG_phxtWDvvvtMpdhB0mqst_QfD9PPLlRk8Pft8zxcyW8TWgYo_zanag",
+        "author": "Kevin Crocker",
+        "authorURL": "http://lh6.googleusercontent.com/-6O3wBt9uMk8/AAAAAAAAAAI/AAAAAAAAAAA/dQoKiHPFYNc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-6O3wBt9uMk8/AAAAAAAAAAI/AAAAAAAAAAA/dQoKiHPFYNc/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.28",
+        "timestampMsec": "1378361932980",
+        "starRating": "2",
+        "title": "Nice in theory"
+      },
+      {
+        "commentId": "gp:AOqpTOGanIFc-ZMWJJPJr3duI8Kic0ldJbKzJxYQXM12TZ7X1lk3w6ee_Pb3jpXzeA-9QZwn2rSALBMlHczdOQ"
+      },
+      {
+        "comment": "No reviews given!"
+      },
+      {
+        "author": "Eyal Guthmann",
+        "authorURL": "http://lh3.googleusercontent.com/-tmn_eBMA03Y/AAAAAAAAAAI/AAAAAAAAAAA/oxPEg4aCSto/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-tmn_eBMA03Y/AAAAAAAAAAI/AAAAAAAAAAA/oxPEg4aCSto/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.28",
+        "timestampMsec": "1378176606791",
+        "starRating": "5",
+        "comment": "An excellent app with solid support.",
+        "commentId": "gp:AOqpTOHujqIpnZ1qGP_DPnw2MJCKURogor0hVQVamhZAEFz7CtMRKK-6yMHyI0Rri9KtFlYcbCssLnhSQ89XZA",
+        "author": "David Weaver",
+        "authorURL": "http://lh6.googleusercontent.com/-k9lL28-rX7w/AAAAAAAAAAI/AAAAAAAABJo/RJXDcfr4jik/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-k9lL28-rX7w/AAAAAAAAAAI/AAAAAAAABJo/RJXDcfr4jik/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.28",
+        "timestampMsec": "1378239620748",
+        "starRating": "5",
+        "comment": "This is superb!",
+        "commentId": "gp:AOqpTOE3unXvjNiYlozBQcd11KIHFwU78Ss3JOffupGHdRe1Y2PuezWy3Br2wcTMkGDVpEV4psL0nO8zf23O1A",
+        "author": "Keshav Chugh",
+        "authorURL": "http://lh5.googleusercontent.com/-jf9kfwpH0lw/AAAAAAAAAAI/AAAAAAAAAW4/Ut-Ol7R_sRI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-jf9kfwpH0lw/AAAAAAAAAAI/AAAAAAAAAW4/Ut-Ol7R_sRI/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.27",
+        "timestampMsec": "1376780980388",
+        "starRating": "5",
+        "comment": "Better than Nikon\\'s own App! I would pay for this...its that good.  Nikon D600 user\\tSuperb app...developer deserves praise",
+        "commentId": "gp:AOqpTOGyaEGVBQ2y_HeVE779GbaIrxkOauQtjQDQrV92u5S_JnQM4HVgt6vJOfJWnmINJcrPULKzNMmNjZUhGw",
+        "author": "Nelson Rocha",
+        "authorURL": "http://lh6.googleusercontent.com/-uLWzjbpVFXY/AAAAAAAAAAI/AAAAAAAAAdc/hA4ssMreIYI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-uLWzjbpVFXY/AAAAAAAAAAI/AAAAAAAAAdc/hA4ssMreIYI/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.27",
+        "timestampMsec": "1377119312881",
+        "starRating": "5",
+        "title": "Fantasic, Simply Wunderful",
+        "comment": "This fantasic app works really well, flawlessly to be exact, between my Samsung galaxy note 10.1 and my Nikon 5100. I can\\'t belive I spent days, bent over peering into an eye piece, doing product shots of my wifes candles for our site. Then found this app. I\\'ll be using if all the time from now on.",
+        "commentId": "gp:AOqpTOGhDEWF5jkNsYp0V5ZcWiUUt9ZRDi3jfZGO5N2SuEy8ame-0Q9Wwj6uusGiF_1MJuba2XGo61uPfTKO7w",
+        "author": "Billy Boyle",
+        "authorURL": "http://lh6.googleusercontent.com/-eBgKqDl_nRU/AAAAAAAAAAI/AAAAAAAAAx8/JtHrQ-yDcmQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-eBgKqDl_nRU/AAAAAAAAAAI/AAAAAAAAAx8/JtHrQ-yDcmQ/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.27",
+        "timestampMsec": "1377750084774",
+        "starRating": "5",
+        "title": "Nikon D5200",
+        "comment": "I am not able to switch on the Live View once connected with the application. If I try to enter LiveView from camera, it says \\\"Can not enter Live View in current condition\\\"  I wonder why. Do I need to setup anything else?  Update: Thanks much. I am able to enter Live View when in Manual mode. Its working perfect on my Asus TF300 and Galaxy s4. Amazing...Thanks.",
+        "commentId": "gp:AOqpTOHmlwguUTl2L7HXv1BLnjg1Ws_KrosybaIxqIPn-3ec1LnUD0goJ6nRhdTb_z6kT3Getn_6DRnlUxgFhg",
+        "author": "Ravinder Verma",
+        "authorURL": "http://lh4.googleusercontent.com/-Et09NgKv-io/AAAAAAAAAAI/AAAAAAAAA70/1RYnqnYAcaU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Et09NgKv-io/AAAAAAAAAAI/AAAAAAAAA70/1RYnqnYAcaU/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.27",
+        "timestampMsec": "1376948962494",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "For a free app this is phenomenal. Works great with Canon 7d. My thanks to the maker of this app. Would gladly pay for it. The only issue with my camera is it doesn\\'t like the autofocus of the camera, but I normally manually focus most of the time anyway. Wont trigger flash either. Still love it. Samsung Note 2.",
+        "commentId": "gp:AOqpTOGqmsQQSVH3Mff1CGfa0aUXtDWeZNetf0eTjEFiEFIzIL7XjBHHkMUsP4Cmqes_vFfpoNBVHSdlhI5a0g",
+        "author": "Kevin C",
+        "authorURL": "http://lh4.googleusercontent.com/-AGRbVfHg8ZA/AAAAAAAAAAI/AAAAAAAAG14/7BtxtKk2vn4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-AGRbVfHg8ZA/AAAAAAAAAAI/AAAAAAAAG14/7BtxtKk2vn4/photo.jpg"
+      },
+      {
+        "documentVersion": "0.30.27",
+        "timestampMsec": "1377958479351",
+        "starRating": "5",
+        "title": "D600",
+        "comment": "This works with Galaxy S2, Nexus 7 and Xperia Tablet Z.  If you have the Nikon WMU app you need to disable the auto-launch feature otherwise the DSLR Dashboard cannot connect because the Nikon app grabs it first.  Took me a while to figure that out.  Need to buy manual but don\\'t mind in the least as I would have happily paid for the app. Its does all the things the Nikon app should have done.  Thanks!",
+        "commentId": "gp:AOqpTOH4Ek5T4sSzILzHD0I5ErwIRZ7uK0Wn5NnNp-kPHJGrWAjOurirEdrtQ1OghbWLzdtG9skYnmHl-lZM9Q",
+        "author": "Tony Flisch",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

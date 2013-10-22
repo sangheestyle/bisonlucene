@@ -1,0 +1,50 @@
+{
+  "title": "Secret SMS v2",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chandana.secrectsms",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "May 16, 2013",
+  "version": "2.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "36",
+  "rating": "3.9722223",
+  "contentRating": "Everyone",
+  "creator": "Chandana Napagoda",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chandana.secrectsms",
+  "extendedInfo": {
+    "installSize": "508k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Secret SMS is a Messaging application which provides you a hidden and secured SMS messaging service. You can send and receive secret SMS via this application. Messages can be sent to a person who has this Secret SMS app and also to a person who does not has this app.When Secret SMS is received a notification will get displayed under notification area. Non Secret SMS sending contact number must be configured under preferences. Further Vibration and Ring tones can be configured under preferences.When application load in first time user can configure their custom password for application. this change not effect for user who install early.if you are sending SMM to person who does not has this app please make sure you need to configure secret contact and SMS will not encrypted. Keywords:Sri Lankan App, Secret SMS, Hide SMS,SMS Security, Security SMS, Private SMS, Lock SMS, SMS Lock, Tamil supported",
+    "reviews": [
+      {
+        "timestampMsec": "1323924212008",
+        "starRating": "5",
+        "title": "working fine..",
+        "comment": "working :)",
+        "commentId": "lg:AOqpTOE8QHlChnA4I3txSkYwpFCduFqnLh9j9Vf-oWEv3-cvBJ4vmEcoqJiBpQiWH-KPPeWyrh2LwWc2HyR3_A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368116434008",
+        "starRating": "5",
+        "title": "Good...",
+        "comment": "The app with great.....",
+        "commentId": "gp:AOqpTOGSPyPY42Zb1yZhy4nZvfH6TOf5sVkCcHKT27jmyZF5GGkvCr75trHzyBV9-0vFyvcs-bz46QvQCJ8akA",
+        "author": "selva ganesh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

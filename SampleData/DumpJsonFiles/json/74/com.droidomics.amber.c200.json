@@ -1,0 +1,35 @@
+{
+  "title": "Amber Child Tracker 2.0.1",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidomics.amber.c200",
+  "category": "Lifestyle",
+  "price": "$24.99",
+  "datePublished": "May 11, 2010",
+  "version": "2.0.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Not rated",
+  "creator": "DroidOmics",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidomics.amber.c200",
+  "extendedInfo": {
+    "installSize": "206k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Amber Child Tracker is a GPS family   locator and child tracking app.Keeps the family safe. 2 apps are required.Amber Child on your child's phone.Amber Parent on your phone.Features:-Find child now-Geofence-Location history-Unlimited use-No monthly feewww.droidomics.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.android.permission.RESTART_PACKAGES",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

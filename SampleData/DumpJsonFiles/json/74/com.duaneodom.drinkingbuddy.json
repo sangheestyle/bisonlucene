@@ -1,0 +1,36 @@
+{
+  "title": "Drinking Buddy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.duaneodom.drinkingbuddy",
+  "category": "Entertainment",
+  "price": "$0.99",
+  "datePublished": "April 11, 2011",
+  "version": "1.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Duane Odom",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.duaneodom.drinkingbuddy",
+  "extendedInfo": {
+    "installSize": "90k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Drinking Buddy allows you to track your Blood Alcohol Level and post a status to Facebook throughout the night using accepted methods of calculating BAL. Just set your gender and weight then every time you have a drink just add another drink by clicking on the picture of the drink.  When you are above the legal limit a real-time calculation will show you what time and how long until you will be legal again. If it's getting late and you want to figure out if you can have another drink and still be able to leave at your planned time then just add another drink to see what your Estimated Time Legal will be. If it's too late then click the minus button beside the drink to return to the actual number of drinks you have consumed.This app is for entertainment purposes only! Do not use this app to determine your level of sobriety in any way. The author is not responsible for the accuracy of data provided by this app. Assume the data provided by this app is incorrect and only for entertainment purposes.",
+    "reviews": [
+      {
+        "timestampMsec": "1302895273711",
+        "starRating": "5",
+        "comment": "Easy to use. Is a blast at parties. Might raise my awareness, which could be a good thing!",
+        "commentId": "lg:AOqpTOEabd17XucSY98fxIdXhYCThgiH0Ose9ecWxWiJ02aIIJEdB1tkA3LZpopRZNgFrcJkOw_4KIL2lhEc3g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

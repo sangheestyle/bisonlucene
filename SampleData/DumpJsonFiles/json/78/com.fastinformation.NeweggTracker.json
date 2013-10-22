@@ -1,0 +1,42 @@
+{
+  "title": "Price Tracker for Electronics",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fastinformation.NeweggTracker",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "April 21, 2013",
+  "version": "3.6.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Everyone",
+  "creator": "Super Innovation LLC.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fastinformation.NeweggTracker",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Trace the product price from Newegg, Tiger Direct, Walmart, Amazon and you will never miss your big deal again!",
+    "reviews": [
+      {
+        "documentVersion": "3.3.8",
+        "timestampMsec": "1356694205954",
+        "starRating": "5",
+        "title": "Nice APP",
+        "comment": "Very easy to track the price from my favorite electronics site Newegg",
+        "commentId": "gp:AOqpTOF36gmQGh_Tf8lFCTu1Sh6HpckaAENiEsLUUQ-nsLMZbcsidDPN6OArzs_sbbf2AYWNyNLBcY7eQgA1NW8",
+        "author": "Subo Sui",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

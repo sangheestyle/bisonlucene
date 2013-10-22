@@ -1,0 +1,49 @@
+{
+  "title": "Church Finder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.churchlocator",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "March 19, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "High Maturity",
+  "creator": "Aabasoft Android Development Division",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.churchlocator",
+  "extendedInfo": {
+    "installSize": "440k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Church Finder is an Android application by Aabasoft to find your nearest Church when you are in an unknown place or on the go!!!Just tap on the FIND button and you will be getting a list of Churches around you based on the distance from your current position and the track towards each via Map.Key Features*List of CHURCH near you in the order of Distance.*Routes you to the needed CHURCH with Map.*Alternate Routes are available.*Can use this application All over the World.*Works without GPS. (For location accuracy turn GPS 'ON')Try this ultimate personal application for free now!!Feel Free to email questions, suggestions and feature requests directly to android@aabasoft.com.Keywords : church, finder, sunday, locator, church locator, christianity, jesus, bible, pop",
+    "reviews": [
+      {
+        "timestampMsec": "1363765837700",
+        "starRating": "5",
+        "comment": "Nice to have an Application like this :)",
+        "commentId": "gp:AOqpTOE3rpEBLuhWykjpg5PoBzxGg1yeP88RQP-DvudSALFWOfs0foDCqWutdziMKmr6CwWQ5mawTWtqNojDy6Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363776554887",
+        "starRating": "5",
+        "comment": "Useful!! :)",
+        "commentId": "gp:AOqpTOHMUAEhdU9TjjJIrWOwBEQi54UWMVMPjw0dxgLKsY1a9Wn_jqzDxLskH21g0D1m9S61RJuxRpjSwUPTerM",
+        "author": "rins rini",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

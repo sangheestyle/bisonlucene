@@ -1,0 +1,45 @@
+{
+  "title": "225: Best Eats",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businessreport.ssmBRBRDealsAndroid",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "March 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Louisiana Business, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businessreport.ssmBRBRDealsAndroid",
+  "extendedInfo": {
+    "installSize": "895k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "225 Best Eats provides you a special offer every week on great food from great chefs and restaurants in the Baton Rouge area. With the new 225 app you can buy the latest offers, access your vouchers, and redeem them on the go from your phone.",
+    "reviews": [
+      {
+        "timestampMsec": "1374680693204",
+        "starRating": "4",
+        "title": "Love 225BestEats",
+        "comment": "I haven\\'t used the app yet, but I have used the web service many times. They always have really great deals and I frequently use the site to find new places to eat. I can\\'t recommend this service enough.  I hope the app lives up to the name.",
+        "commentId": "gp:AOqpTOGDOYaMRbB8D9eOu1La_g5C6-lSpb1jfYdaL4C23jIxlPHW1KqqnIiW3pm5pm5seFO8tpoFjwyK40GQwg",
+        "author": "Ken Gaulter",
+        "authorURL": "http://lh6.googleusercontent.com/-xdomoeoaXaE/AAAAAAAAAAI/AAAAAAAAAv8/vJFJKDoGvc8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-xdomoeoaXaE/AAAAAAAAAAI/AAAAAAAAAv8/vJFJKDoGvc8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.businessreport.ssmBRBRDealsAndroid.permission.C2D_MESSAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

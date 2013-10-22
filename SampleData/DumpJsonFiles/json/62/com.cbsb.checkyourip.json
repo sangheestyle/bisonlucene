@@ -1,0 +1,31 @@
+{
+  "title": "Check your IP",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cbsb.checkyourip",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "November 9, 2012",
+  "version": "1.4",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "ProaLab",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cbsb.checkyourip",
+  "extendedInfo": {
+    "installSize": "61k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This application helps to verify the IP address of your Android device for further use in applications that address data. There are also web addresses to check the speed of your Internet connection.It will be useful to people who often use the device for data transfer or remote control through a variety of programs.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

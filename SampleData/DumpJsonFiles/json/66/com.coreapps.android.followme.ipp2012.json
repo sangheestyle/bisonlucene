@@ -1,0 +1,49 @@
+{
+  "title": "2012 IPP Conference & Expo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ipp2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "March 19, 2012",
+  "version": "2.4.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ipp2012",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "IP Possibilities Conference & Expo, produced by NTCA and OPASTCO, delivers the most comprehensive event to business savvy individuals who are eager to advance their network to the next level. To compete in todayâs rural telecommunications marketplace, you need a solid strategic plan and technical skills. The conference provides you with direct access to the experts, industry leaders and solutions providers. And, you will have the opportunity to gain education from more than 20 sessions divided into tracks. Visit www.buidipnow.com.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

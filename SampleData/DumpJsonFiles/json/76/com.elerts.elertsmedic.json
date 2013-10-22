@@ -1,0 +1,41 @@
+{
+  "title": "ELERTS Medic",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elerts.elertsmedic",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "August 9, 2013",
+  "version": "1.1.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "ELERTS Corp.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elerts.elertsmedic",
+  "extendedInfo": {
+    "installSize": "3.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The ELERTS Medic app provides hospital workers with a 2 way communication system to improve the overall safety and security of a hospital and its staff. Employees can quickly report suspicious or criminal to security personnel. Hospital dispatchers can broadcast alerts to staff smartphones, for example: Code Red, Code Silver, Code Pink, etc. Employees can request a virtual escort as they leave hospital to commute to their car or transportation home. Using this app, employees can send their hospitalâs security pictures, text messages, and locations of suspicious activity. * The âReport a Problemâ button allows users to send text and photos directly to security personnel or to the facilities manager, depending on the report type. To ensure discretion, the camera flash is automatically disabled when photos are taken through the app. When reporting an issue, users can select report categories to assist security personnel. Environment of Care ELERTS Medic makes documenting reports for the Joint Commission a breeze. Staff can snap a photo with their smartphone and submit a report to the environment of care department or hospital facility manager, using the ELERTS EPIC report management console. Gurney blocking fire exit? Snap a photo and send a report to the facilities manager. ELERTS Medic can be used to document fire and safety drill reports also, with photos, GPS location, timestamps and descriptions of the event being reported. =====================",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "com.elerts.elertsmedic.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.elerts.elertsmedic.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

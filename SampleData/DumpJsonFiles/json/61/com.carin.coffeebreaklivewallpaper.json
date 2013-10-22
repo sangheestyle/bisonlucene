@@ -1,0 +1,38 @@
+{
+  "title": "Coffee Break Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.carin.coffeebreaklivewallpaper",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "July 25, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Carin Jones",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.carin.coffeebreaklivewallpaper",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Attention coffee, espresso, cappuccino and latte lovers! This is the app of you. Enjoy delicious looking cups of coffee in this live wallpaper app. So real looking, they make your mouth water. Download for free now!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Big Italy Focus",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.callipigia.bigitalyfocus",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "February 15, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Low Maturity",
+  "creator": "Callipigia srl",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.callipigia.bigitalyfocus",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "BigItalyFocus Ã¨ un servizio di news quotidiane che offre informazioni e approfondimenti sul meglio della presenza italiana nel mondo. Dal lunedÃ¬ al venerdÃ¬, BigItalyFocus offre un panorama di informazione completo, grazie a unâinterfaccia semplice e intuitiva.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

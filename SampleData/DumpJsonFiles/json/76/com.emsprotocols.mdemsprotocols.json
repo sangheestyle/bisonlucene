@@ -1,0 +1,61 @@
+{
+  "title": "MD EMS Protocols",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emsprotocols.mdemsprotocols",
+  "category": "Medical",
+  "price": "$2.99",
+  "datePublished": "August 7, 2013",
+  "version": "3.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Everyone",
+  "creator": "EMS Protocols",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emsprotocols.mdemsprotocols",
+  "extendedInfo": {
+    "installSize": "4.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Maryland EMS Patient Care ProtocolsKeep your protocols in your pocket.*!* This app is updated to the  protocols effective July 1st, 2013 *!*This application is a stand alone application with no need of an internet connection.There is a search feature to search for protocol titles. This feature is located in the options menu.This is an ad free version.You are able to enter 2 phone numbers into the application. These numbers are meant to be for your medical command and dispatch numbers. You are able to call these numbers from inside this application.This app allows you to locate the nearest hospital using your phone's GPS.No personal information is requested or used.*!*!*DISCLAIMER*!*!*!*This application is not meant as medical advice.*The Maryland Institute for Emergency Medical Services Systems (MIEMSS), any affiliates of or with, any federal, state, or local governmental agencies or any other organization has not provided funds for this application.  The Maryland Institute for Emergency Medical Services Systems (MIEMSS), any affiliates of or with, any federal, state, or local governmental agencies or any other organization does NOT endorse this application nor is the application, and/or its creator/developer affiliated with The Maryland Institute for Emergency Medical Services Systems (MIEMSS).The creator/developer of this application, The Maryland Institute for Emergency Medical Services Systems (MIEMSS), any affiliates of or with, any federal, state, or local governmental agencies or any other organization does not accept any liability for any injury, loss, damage  or costs incurred, or any consequences resulting directly or indirectly by use of or  reliance on the information inferred via use of this application.Although this application is based on widely-accepted published standards, the creator/developer of this application is not responsible for the results (or lack thereof) of using this application. The developer is also not responsible for any injury related to the use of this application.The information provided within this Application is not a substitute for professional medical  advice, diagnosis or treatment; it is for informational purposes only. Talk with your  healthcare provider about any questions you may have regarding a medical condition. If you  think there is a medical emergency, call the doctor or 911 immediately!Nothing contained in this application, or the data presented, is intended to be used as a  substitute for a health professional\\'s advice. This application uses data retrieved from public sources managed by third parties. This data may not always be available, accurate and up-to-date.While the creator/developer of this application/software has made every effort to ensure the information contained in this application is correct, it may be out-of-date. You should never base an important medical decision on this application, but should rather consult with your primary healthcare provide, a doctor or contact 911.*Your jurisdiction may have variations of these protocols*By downloading and accepting the disclaimer you agree to such terms and release the creator/developer for any and all claims, liability or causes of action what so ever.*This application is intended for educational purposes only*",
+    "reviews": [
+      {
+        "documentVersion": "2.1.3",
+        "timestampMsec": "1374121207354",
+        "starRating": "5",
+        "title": "As expected",
+        "comment": "Everything works smooth and cool. Easy to read, navigate, search. The only thing is concerning me is too slow animation in the beginning, when i need to open protocols fast. Otherwise everything is great!",
+        "commentId": "gp:AOqpTOEdA8u8GlecG40BkeIIJoaTDEBjTOXURrUec-J72OUsfzaPV1vMAPRcqYNJ2NX1bdAKv-SPrvw13IWeuA",
+        "author": "Leonid Norris",
+        "authorURL": "http://lh6.googleusercontent.com/-P9KqN5cD1mg/AAAAAAAAAAI/AAAAAAAAACg/P0iIfaAEn2c/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-P9KqN5cD1mg/AAAAAAAAAAI/AAAAAAAAACg/P0iIfaAEn2c/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.3",
+        "timestampMsec": "1363244658109",
+        "starRating": "5",
+        "title": "Great app.",
+        "comment": "Easier to read than similar apps.  Great for refreshing your memory enroute to the call.",
+        "commentId": "gp:AOqpTOHFKwUyh7TUtg9i-NigMHCborDriVLyn2XY-u_-4hW2cszF9bo2JR0EGsrxk8zdedQ6h6afV27oRwygZg",
+        "author": "Henry Chinery",
+        "authorURL": "http://lh6.googleusercontent.com/-SCS_X83Pl0I/AAAAAAAAAAI/AAAAAAAAAAA/ymidX6B6Rfw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-SCS_X83Pl0I/AAAAAAAAAAI/AAAAAAAAAAA/ymidX6B6Rfw/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.3",
+        "timestampMsec": "1361411913371",
+        "starRating": "1",
+        "title": "Not up to date",
+        "comment": "Does not have Emergency Medication Addition Due to Medication Shortage additions",
+        "commentId": "gp:AOqpTOFmvfjVSNHe6sr4Ryeaf_Vif67B8je0IOsgbjv4D2xSEzSV_hUDTf3Y_h20lC2owX3ovwcztogiVd560A",
+        "author": "Alexis Seely-Carroll",
+        "authorURL": "http://lh4.googleusercontent.com/-YSXh7HxL2b8/AAAAAAAAAAI/AAAAAAAAADo/0U9FcrRoy30/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-YSXh7HxL2b8/AAAAAAAAAAI/AAAAAAAAADo/0U9FcrRoy30/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.CHECK_LICENSE"
+    ]
+  }
+}

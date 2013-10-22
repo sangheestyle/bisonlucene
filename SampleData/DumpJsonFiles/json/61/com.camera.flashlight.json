@@ -1,0 +1,32 @@
+{
+  "title": "Action flashlight(手電筒)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.camera.flashlight",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 5, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Lin Shih Tung",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.camera.flashlight",
+  "extendedInfo": {
+    "installSize": "165k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "You need when you are not accustomed to the darkness",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

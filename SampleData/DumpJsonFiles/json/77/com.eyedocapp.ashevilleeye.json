@@ -1,0 +1,43 @@
+{
+  "title": "Asheville Eye",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eyedocapp.ashevilleeye",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "June 28, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "EyeDocApp",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eyedocapp.ashevilleeye",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Asheville Eye app contains the latest information about eye care. It has the following features: * Wiki (learn all about your eye) * Eye care videos (watch informational videos about eye health and eye care products) * Eye care news (the latest news in eye care) * Reorder contacts * Driving directions & contact information for Asheville EyeTags:Asheville Eye AssociatesAshevilleHendersonvilleSylvaFranklinBryson CityOphthalmologyNC Eye Doctor",
+    "reviews": [
+      {
+        "timestampMsec": "1375413881769",
+        "starRating": "4",
+        "title": "Workingz",
+        "comment": "New version works great and very informative!",
+        "commentId": "gp:AOqpTOGlcYBZTVdIfvT9nCBSLzSoNq70wbGrXHtB__HJ43qEdXyvstCAw1jUKMMRwW0iEjzvsEv26bJldzubTM0",
+        "author": "Beto Gil",
+        "authorURL": "http://lh3.googleusercontent.com/-t8xZN_F7TRM/AAAAAAAAAAI/AAAAAAAAACQ/EHjpf0hhJR0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-t8xZN_F7TRM/AAAAAAAAAAI/AAAAAAAAACQ/EHjpf0hhJR0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.eyedocapp.ashevilleeye.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

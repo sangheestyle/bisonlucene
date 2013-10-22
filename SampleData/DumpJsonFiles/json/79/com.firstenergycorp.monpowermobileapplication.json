@@ -1,0 +1,34 @@
+{
+  "title": "Mon Power",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.firstenergycorp.monpowermobileapplication",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "January 25, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "FirstEnergy Service Company",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.firstenergycorp.monpowermobileapplication",
+  "extendedInfo": {
+    "installSize": "341k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "With our secure and convenient mobile application, you can view and pay your Mon Power utility bill, review your electric usage, see your payment history and sign up for paperless, electronic billing through our eBill service. The app also features a quick and easy process to report power outages, and provides a snapshot of current outages on the FirstEnergy 24/7 Power Center map. Plus, you can stay connected with us through one-touch phone access to our call center and links to our social media accounts. You will need to register your electric account online to take advantage of the billing features, and enroll in eBill to view your entire bill statement. Mon Power, formerly known as Allegheny Power, serves electric customers in northern West Virginia.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

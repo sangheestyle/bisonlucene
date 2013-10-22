@@ -1,0 +1,45 @@
+{
+  "title": "Elfy - Patient care project",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elfy",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "June 24, 2013",
+  "version": "1.3",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "The System and Software Development Laboratory",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elfy",
+  "extendedInfo": {
+    "installSize": "3.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "* Beta version.Elfy is a support program to a chronic patient and his supporting family. Elfy lets the patient gather his health indications, gives him reminders for the medicine he should take and notify his family if they need to help.By continually collecting the patient's condition, Elfy also helps the Doctor by giving him an exact feedback of his patients' condition.Go to http://elfy-care.appspot.com for more details.",
+    "reviews": [
+      {
+        "timestampMsec": "1372087660325",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Very usefull. Thank you.",
+        "commentId": "gp:AOqpTOEQ4wgKT4_at5OOecn1eKMArNDduF0WDAnsAPmagvRI3FH0EMdY4GSq2RIiE1dpS0Wul1G51I-xFr_DFHg",
+        "author": "\\327\\220\\327\\225\\327\\244\\327\\231\\327\\250 \\327\\227\\327\\221\\327\\231\\327\\221",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "com.elfy.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

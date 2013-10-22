@@ -1,0 +1,50 @@
+{
+  "title": "Diord Service L",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.enogordna.diordwatchlite",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "August 20, 2013",
+  "version": "1.61",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "38",
+  "rating": "4.6578946",
+  "contentRating": "Medium Maturity",
+  "creator": "Androgone Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.enogordna.diordwatchlite",
+  "extendedInfo": {
+    "installSize": "740k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Specific library for Diord Service LITE versionFor Pro version check Diord Service F**INSTALL IT ONLY IF ANOTHER APPLICATION REQUEST IT**Otherwise the application will do nothing.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CALL_PHONE",
+      "android.permission.SEND_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_UPDATES",
+      "android.permission.BATTERY_STATS",
+      "android.permission.GET_TASKS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

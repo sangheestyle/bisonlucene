@@ -1,0 +1,80 @@
+{
+  "title": "Northwest Ski Report",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_bde011420001f68ed512be675a89e4aa",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "August 30, 2013",
+  "version": "4.6.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "6",
+  "rating": "2.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "DoApp, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_bde011420001f68ed512be675a89e4aa",
+  "extendedInfo": {
+    "installSize": "5.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Get the latest snow reports from the Northwest Ski Report presented by KING5.com. You'll also see live resort web cams and get the weather forecast along with radar, traffic and pass reports. The Northwest Ski Report app covers nine western states and British Columbia.",
+    "reviews": [
+      {
+        "documentVersion": "3.0.1",
+        "timestampMsec": "1363246584620",
+        "starRating": "1",
+        "title": "Mountain info not correct",
+        "comment": "The info is never correct with what the mountain reports.",
+        "commentId": "gp:AOqpTOFIxrEWW55idFPRIJXayUAVyee-mOaqy8Klnxdshkas6si2Tby5JKX_bGGCwoEkn0yDcmntOu9hTzirKr4",
+        "author": "Kelli Hurley",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.9",
+        "timestampMsec": "1326591315150",
+        "starRating": "5",
+        "comment": "Great APP!",
+        "commentId": "lg:AOqpTOFVzeH93Y5rFFT62H4C9RAn2lVKuHft45UlSaFF-n-OK7O976cmEulK-oQmP9oB0fJJ62vL7YB2zgQd8sM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.9",
+        "timestampMsec": "1327640026438",
+        "starRating": "1",
+        "title": ".",
+        "comment": "It is extremely hard to navigate, and get any information from. There are better ski apps. And most the information on here is more relavant to pass conditions rather than ski conditions",
+        "commentId": "lg:AOqpTOEICxi1h3lPDj96DWuqts1K_4ki8vpsmsL4C6Jp_T3DCG81txuYOzfZ9a76fHvEHqle4ZqUUMKKAedT9KA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.5",
+        "timestampMsec": "1322289484693",
+        "starRating": "2",
+        "comment": "I wasent sure of the terms just to receive news on ski resorts like boyne highlands in harbor springs mich",
+        "commentId": "lg:AOqpTOGBKrYnnH30D7x1wclqQM0CWc5O3gH2blnWwUbRaqYaRh4hfR-hfsZZCTAs1g6nnD3BrftawtbkN08ebW0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1325519591059",
+        "starRating": "2",
+        "title": "the interface",
+        "comment": "does not make it easy to use what you want to see the fact that I could change to a different snow pass was just a fluke. I have no idea how I got the menu to be able to switch from crystal mountain to snoqualmie pass .you are better off with the wsdot app",
+        "commentId": "lg:AOqpTOGmCFl_4dyLURYV25PDVBpZuZiql6I0FdPRYUT7HX_zovxXrmJ04UdGYhpqWsg2lFUw8KNLF1iPE3DON-4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

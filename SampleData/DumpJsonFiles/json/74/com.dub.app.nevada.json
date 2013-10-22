@@ -1,0 +1,59 @@
+{
+  "title": "This is Nevada",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dub.app.nevada",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 10, 2013",
+  "version": "1.3.53",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.6666665",
+  "contentRating": "Low Maturity",
+  "creator": "Dub Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dub.app.nevada",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Stay informed and connected about University of Nevada, Reno from anywhere on your mobile device! Have information at your fingertips about your courses, events, news, maps, textbooks, on campus jobs, dining, campus escort ride request, clubs and more. Get the latest updates by downloading the universityâs newest app for free today!",
+    "reviews": [
+      {
+        "documentVersion": "1.3.48",
+        "timestampMsec": "1367533081757",
+        "starRating": "4",
+        "title": "A Great Start",
+        "comment": "This app is something the Pack community has needed and it is finally here. It gives events for that week which I love as well as food places that are open. WebCampus needs some work but all together it is great",
+        "commentId": "gp:AOqpTOEFuwzc1M9tgLBupKO0NcaKeomOoX3zuC_sEgej2EIHIfr1-7ifhNljR_Yh1FOSLv_icw90bXGn1Ft38R0",
+        "author": "Rachel Willimott",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.31",
+        "timestampMsec": "1361494069036",
+        "starRating": "4",
+        "title": "First.",
+        "comment": "It\\'s a pretty awesome app. Webcampus doesn\\'t work, the library button doesn\\'t do anything, and campus dining has nothing. But its still pretty cool. Once everything works right, I\\'ll give it 5.",
+        "commentId": "gp:AOqpTOFZRztTuwfPnnM2J--2FcvAdey95fhxjMPqWWl2zp1zF_Uhll68CXpqntEuEMU9ZuS4f-iIp8zRCS5tZbA",
+        "author": "Christian Valiente",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

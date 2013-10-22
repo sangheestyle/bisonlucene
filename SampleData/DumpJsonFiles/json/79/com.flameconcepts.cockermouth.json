@@ -1,0 +1,44 @@
+{
+  "title": "Cockermouth Town App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flameconcepts.cockermouth",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 18, 2013",
+  "version": "5.4.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Flame Concepts Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flameconcepts.cockermouth",
+  "extendedInfo": {
+    "installSize": "3.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Cockermouth in the Lake District, is an official Georgian Gem town and when you visit, you'll understand why.  With local producers and boutique independent shops, a full year of special events and festivals, there's always more to see and do.The home of William Wordsworth (Wordsworth House and Gardens) is a 'must see' as well as the town's very own brewery complete with tours.  Time your visit right and you could be going along to an amazing mix of special events and festivals that include a food and beer festival or a Georgian fair.Its the collection of independent shops, clothing, art, gift or food, that help bring the high street to life and with a monthly draw to win money for shopping locally, discover more of the town and area with this app.Including local maps with live directions to help you find the car parks and more, we've pulled together the key areas you'll need to find.   The amenities area of the app includes doctors, vets, local council services and a business directory to help you discover more of the town.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.flameconcepts.cockermouth.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "com.flameconcepts.cockermouth.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

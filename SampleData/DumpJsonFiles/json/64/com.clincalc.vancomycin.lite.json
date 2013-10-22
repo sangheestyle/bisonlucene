@@ -1,0 +1,29 @@
+{
+  "title": "Vancomycin ClinCalc Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clincalc.vancomycin.lite",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "April 14, 2012",
+  "version": "2.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "ClinCalc.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clincalc.vancomycin.lite",
+  "extendedInfo": {
+    "installSize": "339k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Full-featured, customizable vancomycin calculator designed specifically for physicians and pharmacists to empirically dose vancomycin (based on body weight and creatinine clearance) or to adjust an existing vancomycin regimen (based on one or more vancomycin levels).This LITE version is disabled between 7am-9am and its \"advanced settings\" cannot be customized.  For the FULL version with all features, see \"Vancomycin ClinCalc Full\" in the Android market.This calculator uses a variety of methods to estimate a patientâs elimination constant (Kel), and uses published pharmacokinetic equations to estimate the most appropriate dose in order to achieve a specified vancomycin goal (either AUC:MIC or a trough level).  By default, all doses are rounded to the nearest 250 mg and to appropriate dosing intervals (eg, Q8h, Q12h, Q24h) to reflect clinical practice.This app is the mobile version of the popular vancomycin calculator found on http://clincalc.comThis calculator is not appropriate for the following patient populations, or may require a higher degree of clinical judgment: hemodialysis, pediatrics, unstable renal function, or vancomycin MIC â¥ 2 mcg/mL.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

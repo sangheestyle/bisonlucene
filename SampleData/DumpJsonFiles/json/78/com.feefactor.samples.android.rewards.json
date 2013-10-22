@@ -1,0 +1,31 @@
+{
+  "title": "Netmobo Reward Program Demo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.feefactor.samples.android.rewards",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "September 30, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Not rated",
+  "creator": "netmobo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.feefactor.samples.android.rewards",
+  "extendedInfo": {
+    "installSize": "294k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Demonstrates how to use Netmobo and the FeeFactor API to implement a reward program. Simulates earning reward points by purchasing products and claiming reward items in exchange of reward points.Use this:  Username = rewardPassword = rewardCheckhttp://github.com/netmobo/RewardProgramAndroidDemo for more info.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

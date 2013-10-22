@@ -1,0 +1,220 @@
+{
+  "title": "Coversal- Linux Remote control",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coversal.app",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "August 8, 2013",
+  "version": "0.6.5",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "66",
+  "rating": "4.3636365",
+  "contentRating": "Everyone",
+  "creator": "Coversal",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coversal.app",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Coversal is a universal remote control for Android which supports wide range of protocols and applications such as UPnP, XBMC, VLC, MPlayer, etc... The convergence of several protocols into an integrated application allows you to control all of your favorite media center application and Home Cinema devices easily.This is still a Beta version, if you notice any problem with the app or with a plugin, do not hesitate to contact us: http://developers.coversal.com/projects/coversal/boardsIn oder to get the latest information, you can also follow us on Google+: https://plus.google.com/101488948134286536590Supported protocols and applications:. XBMC. VLC. UPnP (Experimental). Infrared (Lirc, additional hardware module required). MPlayer. Amarok. Kaffeine. SSH (for any command line application). DBus. Wake On LAN. etc...Main Features:. Plugin management system. Configurable controller skin. Playlist management (XBMC and VLC plugins). Portrait and landscape modes. Init and Stop sequences. Fully customizable command list. Import/Export of custom commands from/to XML. Custom keymap configuration. Customizable text buttonsCoversal also has an open API in order to allow developers to create new plugins bringing new protocols, applications and skins into the Coversal framework. More details on our web site: http://www.coversal.com.",
+    "reviews": [
+      {
+        "documentVersion": "0.6.5",
+        "timestampMsec": "1377515694805",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Been looking for something like this for a while. Worked perfectly straight away with with Amarok and Mplayer on Debian Wheezy. Please keep it free.",
+        "commentId": "gp:AOqpTOEq-zM7hCK86ejaQpEgqwwp4accat9tSedKXcn0XURS3_xYE-pJyKf-7BX0_cPIxnyMoPXX1nWHUl6rCg",
+        "author": "Chris Jones",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.5",
+        "timestampMsec": "1374173477248",
+        "starRating": "1",
+        "title": "No plugins for builtin irda",
+        "comment": "Please provide plugins for builtin irda devices",
+        "commentId": "gp:AOqpTOGO1Wyb59_zTu0FTkddnZ-In-LDVHkIcxZtno1fsan9EJT6V_f5xd-UFyXS6cmtLoYh4udhkmeZ1jOKOg",
+        "author": "Kiki Maulana",
+        "authorURL": "http://lh6.googleusercontent.com/-TktWuN_Seco/AAAAAAAAAAI/AAAAAAAAAFA/D-SCrgLZE6A/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-TktWuN_Seco/AAAAAAAAAAI/AAAAAAAAAFA/D-SCrgLZE6A/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.3",
+        "timestampMsec": "1361943462646",
+        "starRating": "5",
+        "title": "Awesome.",
+        "comment": "Works with Amarok for Kubuntu 12.10.  Just a little wrestling with the command line (or your favorite package manager) on your computer is all you need.  Just type this:  sudo apt-get install openssh-server  Done.  It\\'s also great for playing tricks on unsuspecting people (not that I advocate such a thing). I one time forgot to pause a playlist of a few songs, but luckily, I just whipped out my phone and paused it when I was quite a distance from my computer. Surprised my roommates!",
+        "commentId": "gp:AOqpTOEWLa84CVGUpI5HDFMxUTs46JdEwfnSXnGfHKP4pWs4jC5KRjFdZAKi5loDSGTd5vpMVF3amkgvoIvrBA",
+        "author": "Kevin Havens",
+        "authorURL": "http://lh6.googleusercontent.com/-GPYJbwoDFD8/AAAAAAAAAAI/AAAAAAAAADU/BLbwMTU_4qI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-GPYJbwoDFD8/AAAAAAAAAAI/AAAAAAAAADU/BLbwMTU_4qI/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.3",
+        "timestampMsec": "1359338971649",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "I love this app, and have been using it for a number of months to control vlc on my media server running arch linux.",
+        "commentId": "gp:AOqpTOHOXFri1oF7Vrj3K-wfWV5rUNuglYhD8ZVhbPUD286i2gvELVYJ3MueqDbzEd2nuHZBWzSTgstS5Q19MA",
+        "author": "Rohan Orton",
+        "authorURL": "http://lh4.googleusercontent.com/-9FuPksjcSW8/AAAAAAAAAAI/AAAAAAAAAAA/DMBCLdb1Vq0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-9FuPksjcSW8/AAAAAAAAAAI/AAAAAAAAAAA/DMBCLdb1Vq0/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.3",
+        "timestampMsec": "1365954060455",
+        "starRating": "5",
+        "title": "Very nice",
+        "comment": "This app works very well although the setup is a little bit tricky and should be better documented and explained on the coversal website.",
+        "commentId": "gp:AOqpTOFdmsl3qUGQLOVl9raSBqxYH3BppNiqnyeUnR56ov1d9tFx9QadBKIW7AiZXkihqpUbXHxXywhoPROxxw",
+        "author": "Ben Oesch",
+        "authorURL": "http://lh5.googleusercontent.com/-SOe57ccMr5A/AAAAAAAAAAI/AAAAAAAAAY8/gQ1lVBjztZU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-SOe57ccMr5A/AAAAAAAAAAI/AAAAAAAAAY8/gQ1lVBjztZU/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.3",
+        "timestampMsec": "1368971584139",
+        "starRating": "4",
+        "comment": "Sometimes it crashes",
+        "commentId": "gp:AOqpTOGICtM5c4DtQ2xa0pgDwtUrPdaCbCuM5VeOugt5HQWKVWKObxAAVJetklfy7Pe2QnoeK3wkj9pOHBxuyw",
+        "author": "Joey Ezechi\\303\\253ls",
+        "authorURL": "http://lh4.googleusercontent.com/--sEKXPCy1lQ/AAAAAAAAAAI/AAAAAAAAAXw/ZJQlGssko0E/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/--sEKXPCy1lQ/AAAAAAAAAAI/AAAAAAAAAXw/ZJQlGssko0E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360399409808",
+        "starRating": "5",
+        "title": "No worky [update] worky now!",
+        "comment": "Interestingly, it does not seem to work. I gave two stars because it is supposed to be the \\\"stable\\\" version of sshmote, which is fantastic. So I assume that if it works it would be as great as sshmote because the interface is nearly the same.  Update: I noticed the update to this some 5 days after I submitted this review. It is now working flawlessly. It is basically sshmote with a better interface and only downloading the controls you need. I really like the custom options!  Good work!",
+        "commentId": "gp:AOqpTOG1FV7sRwmpow81RUvZesZLNHXrj7GXgy5SoJ5XlNqN7uX0MsS557nShLuRwm3UWz4TrI1Ux0KeR6p8SQ",
+        "author": "Curtis Shimamoto",
+        "authorURL": "http://lh6.googleusercontent.com/-V4d-TuDO4Ws/AAAAAAAAAAI/AAAAAAAAAF0/bokt2v8d6mo/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-V4d-TuDO4Ws/AAAAAAAAAAI/AAAAAAAAAF0/bokt2v8d6mo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358731165448",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Can be finicky to set up if you\\'ve got an odd setup (mplayer + screen for me) but once configured works a treat. Interface is a bit ugly though.",
+        "commentId": "gp:AOqpTOFiaWWTLkVJQFXEpExvKDPlYN2qnmVNpFSVmCaxvUjbAGc2MSWlz5aPP10SoV5Lff05gXOa2YTWaRH3GQ",
+        "author": "Will Toohey",
+        "authorURL": "http://lh4.googleusercontent.com/-vsXOsGnE-RI/AAAAAAAAAAI/AAAAAAAAAkU/CYsZxcgTX14/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-vsXOsGnE-RI/AAAAAAAAAAI/AAAAAAAAAkU/CYsZxcgTX14/photo.jpg"
+      },
+      {
+        "timestampMsec": "1353160759548",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Very easy to setup. Works as expected. Hooked it to my home automation control system over SSH with custom buttons! Works flawlessly. It will be great if one can edit the layout, add buttons etc. Again - great idea! Looking forward for bug fixes and further development.",
+        "commentId": "lg:AOqpTOEokNkU34NgRKU0vd7wUWLxxhuxVu_gl8tUTVMPWHgDnYPA78-4tbiE2UsRkljzNffAUCqryR3mT1irVw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351170958090",
+        "starRating": "5",
+        "title": "Excellent idea",
+        "comment": "This works great on my Samsung Galaxy Note with a openSUSE laptop and the music player Clementine. SSH and dbus accessible on one remote make it a killer combination - and free at that.  While the commands are highly programmable, the remote control layouts aren\\'t. Also, more guidance on your website on how to set up sshd would be great.  Once it\\'s up and running it\\'s great, but really stressful if you\\'ve never used sshd and have never configured your firewall for it. And screen timeout doesn\\'t seem to work",
+        "commentId": "lg:AOqpTOHImElytJhecf_wravsjgACqcoDn78H1nvMOw6OMLgW3eD2V1kUQDTLYRU8vbaBsb8BY7rlAHWp-4eb5A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346874286156",
+        "starRating": "4",
+        "title": "Wow, this has great potential.",
+        "comment": "After I few minutes I was able to control totem on my linux box (You have set the DBus service to \\\"org.mpris.Totem\\\"). I see some potential in this app. Of course it would be nice if it the core were open source....",
+        "commentId": "lg:AOqpTOGqt4CmOB6E8agtN4FsSHyJUH1BOuvuFgyfp6G93ZrRqEvcUVKFWX9o3B0NAQQ5TPVjpXZ_waO-hgeZCg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350922510248",
+        "starRating": "5",
+        "title": "Unlimited Potential",
+        "comment": "I am excited to find a Linux focused app with this much potential.  Keep up the excellent work! LG optimus m & Samsung Admire",
+        "commentId": "lg:AOqpTOGbt1Lpeg7qu-iwA_HD_9NBF3NFs5p8FnL8Cu8VShtZSSf_PvL5QdTK1W7AGeRLskLdr7Psjr4DXnq3RA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349095473894",
+        "starRating": "5",
+        "title": "Wow!!!!",
+        "comment": "Great app. Works like charm!",
+        "commentId": "lg:AOqpTOH-dVPIVIoabuXaztt7WfgQ-vKfH98wP5Vz2Dqh8n63ikfs4ra2LRbt8cKw34IC3nwjs40zYYbRAVxUbw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339167754197",
+        "starRating": "5",
+        "comment": "It\\'s great!",
+        "commentId": "lg:AOqpTOE-2EjuIKS9RMgfQvUQGfqPxGnTtR8rnIfBiSpALq389mgzguKFmx9AG1urS9_icLPtB9CD_0hp-572dg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334996173324",
+        "starRating": "5",
+        "title": "Great successor of sshmate",
+        "comment": "the plugin structure is the way to go. Smart decision of the developer.",
+        "commentId": "lg:AOqpTOHOB1V18Tpl37BsxgsPg3yXslU83U5iLx-GdvNZkkR7wAc-5F0u2M2W8daiN8XykePWadj0IXWj9zzUAQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333812842674",
+        "starRating": "5",
+        "title": "Very impressive start!",
+        "comment": "The beta release is a very impressive start to a great app. I found Coversal while looking for an XBMC app and I was pleasantly surprised to see how well it performed getting media listings and controlling XBMC. I would love to see the tablet UI further refined to follow ICS standards. I\\'m also curious if there are any plans to make the app provide more information about the media - things like full size photos, plots, etc. Its a great app for basic media listing and I\\'m hoping it expands further to a full fledged media browser and controller.",
+        "commentId": "lg:AOqpTOGLfZgKQXv5cyHLJ9qAJHBvH-WJZ8phEsY9koJ1izS070x48kRr3qbbQnEBqR3S93vcsVD36rn5aQerlQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334413464357",
+        "starRating": "5",
+        "title": "Great and simple functionality for advance users and not",
+        "comment": "Especially like ssh and dbus assignment to a keys. Now I need to find find out how to make my own remote.",
+        "commentId": "lg:AOqpTOFqGnsc6csqmQVMkDG5LEE6Iv9NuYImoc_NUeF_tnyd2oPQVypsLF6HIJWLB3wBPBV79Unrm8xAdRWn2g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353779873235",
+        "starRating": "5",
+        "title": "well done",
+        "comment": "Works without problem with mplayer on debian",
+        "commentId": "lg:AOqpTOFbfagwisC-CNS0WnD9a3GXGhBLG0geTmxpTjajsETtAvgj0SBYrMz7VWOPICISJNxowZrCbTs6MGl_hA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338167363537",
+        "starRating": "4",
+        "title": "Awesome!",
+        "comment": "It works great for what it\\'s designed for. The only thing I wish for is some way to send a string back as a way to show, for example, volume level in percent or a confirmation. Also, I LOVE the ability to run custom commands! Keep it up!",
+        "commentId": "lg:AOqpTOHTowAxZ1ksA74sAnrlPayTLGyFyacYYGF2EA2oKWnm7U-czhvT24PpreOtlilGwUv0_PldlScqyEoUUA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350506352642",
+        "starRating": "5",
+        "title": "Really Great!!!",
+        "comment": "Mplayer remote worked fine with my Ubuntu 12.10! No problem! Recommended. I\\'ll test the others plugins.",
+        "commentId": "lg:AOqpTOEqriV19g7k7zWy_VQAy949W6P-k42umiWGwtqn5HiJ02kJ3IycJZnp6p01NN7UxI9BapCVzGqM57nA5w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

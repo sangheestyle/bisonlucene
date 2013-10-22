@@ -1,0 +1,38 @@
+{
+  "title": "Think My Friends",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.davik.tment.think",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "September 26, 2012",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "thompson532145",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.davik.tment.think",
+  "extendedInfo": {
+    "installSize": "1,013k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This game has a fantastic magic. It will make you and your friends get more intimate; it will re-ignite the friendship between you and your friends that have not been contacted for long; it will help you approach a friend of opposite-sex more naturally, without worrying about the embarrassment of being rejected",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

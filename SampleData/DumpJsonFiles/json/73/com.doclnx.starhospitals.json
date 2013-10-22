@@ -1,0 +1,63 @@
+{
+  "title": "Star Hospitals",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doclnx.starhospitals",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "4.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "STAR Hospitals",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doclnx.starhospitals",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "This is Appointment Application for Star Hospital users/patients located in Hyderabad, India.Patients can fix the appointment with a doctor by looking into available date and time.Simple and Easy application to book appointments.Will give appropriate alerts of appointments booked.Can get tips/suggestions from doctors free of cost.Can confirm/cancel the appointments based on users choice.",
+    "reviews": [
+      {
+        "timestampMsec": "1376486487339",
+        "starRating": "5",
+        "title": "Good Idea....",
+        "comment": "Good Idea....",
+        "commentId": "gp:AOqpTOHR_pbHGsDrfsAsfX6916PKA3OFLMhKNNLS5Qk-DiQ7y2Jn6haYBx0H5KgnsNOWQ2-yEg0-qT3iW6ToCz0",
+        "author": "Ravuri Lakshman Kumar",
+        "authorURL": "http://lh5.googleusercontent.com/-1TcxdYvTUGk/AAAAAAAAAAI/AAAAAAAADxk/8WeO-6826Tc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-1TcxdYvTUGk/AAAAAAAAAAI/AAAAAAAADxk/8WeO-6826Tc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375868882820",
+        "starRating": "5",
+        "title": "First of it\\'s kind",
+        "comment": "A good welcomimg attempt in healthcare segment.",
+        "commentId": "gp:AOqpTOE-ab5Y3658PRt7LCFYkV6zIbqoM7NYF8oA6UAjndDv3czPuS-VUbsKc9ezBGrwpfIljrHT4gGbkDSckCM",
+        "author": "Anjaneyulu Mandava",
+        "authorURL": "http://lh5.googleusercontent.com/-tpZ3DSSYf_4/AAAAAAAAAAI/AAAAAAAACaM/o5XEN36nsKw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-tpZ3DSSYf_4/AAAAAAAAAAI/AAAAAAAACaM/o5XEN36nsKw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375911333227",
+        "starRating": "5",
+        "title": "Great and simple app",
+        "comment": "Kudos to star for making online and mobile appointment system",
+        "commentId": "gp:AOqpTOEzeywzPVF6HVTNQEd4C3843q9bcw0bXr_HdXcmLyhx-oQyAXVJ9UYOCZlP1yMEajk4Iudts6kjaJ5hoTI",
+        "author": "platts hyd",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.SEND_SMS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.doclnx.starhospitals.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

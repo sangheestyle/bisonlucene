@@ -1,0 +1,47 @@
+{
+  "title": "Canadian Paediatric Society",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.favequest.mea.canadian_paediatric_society",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 19, 2013",
+  "version": "1.1.22",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Favequest Corp.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.favequest.mea.canadian_paediatric_society",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "CPS 90th Annual ConferenceThe Canadian Paediatric Society (CPS) is a national advocacy association committed to the health needs of children and youth. As a voluntary professional association, the CPS represents more than 3,000 paediatricians, paediatric subspecialists, paediatric residents, and other child and youth health care providers.The CPS 90th Annual Conference is the largest gathering of paediatric and child health care providers in Canada. This event will be held in Edmonton, Alberta, June 19-22, 2013 at the Shaw Conference Centre.This app is your conference guide. It includes:â¢\tA complete list of all events, with key dates and descriptions,â¢\tFaculty bios and photos,â¢\tPosters, exhibits and business meetings,â¢\tSocial events and activities,â¢\tA site map, so you can find your way around the Shaw Conference Centre.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.favequest.mea.canadian_paediatric_society.permission.MAPS_RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

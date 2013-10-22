@@ -1,0 +1,38 @@
+{
+  "title": "CityGID",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.champ.citygid",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 6, 2013",
+  "version": "1.2.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "87",
+  "rating": "4.2528734",
+  "contentRating": "Low Maturity",
+  "creator": "RussianChamp",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.champ.citygid",
+  "extendedInfo": {
+    "installSize": "715k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Works in Russia and former CIS only!The application is similar to 2GIS offline data directory allowing instant search throughout the entire 2GIS database without need to download data files for different cities: - search by company name - search by address, street, square, bus stop, underground station, etcâ¦ - search by business hours - search in a particular city  - nearby search - voice search - visualization of found objects on top of a map - presentation of full contact information about a company - information about all companyâs branches and offices is also provided - there is a possibility to contact found object immediately (phone call, e-mail or navigation to the website) - search in certain radius - displaying distance to companies foundAll of this is designed nicely and user friendly.New features are planned as well as tablet PC support.Keywords: search, doublegis, 2gis, gis, gid, city, Russia, map, address, firm, company, directory, dictionary, city map, location, locale",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INSTALL_PACKAGES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

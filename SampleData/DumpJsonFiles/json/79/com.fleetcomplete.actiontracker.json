@@ -1,0 +1,73 @@
+{
+  "title": "Action Tracker HOS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fleetcomplete.actiontracker",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "March 26, 2013",
+  "version": "1.0.123",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "3",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Complete Innovations Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fleetcomplete.actiontracker",
+  "extendedInfo": {
+    "installSize": "5.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Fleet Completeâs Action Tracker HOS fully automates Hours of Service and Driverâs Vehicle Inspection activities, and replaces time-consuming manual paperwork with a tablet-based digital logbook. The application automatically logs driver hours and calculates driver availability, ensuring easier HOS compliance. Drivers can view their available hours, manage their duty status and complete vehicle inspection reports, all on their tablet. Switching to Action Tracker HOS will reduce the chance for logging errors, and save time previously spent recording, calculating, and managing driving availability via paper-based logs.  Action Tracker HOS uses GPS and engine data as key components in ensuring HOS accuracy and compliance. The application will connect wirelessly from the tablet to the Fleet Complete Fleet Tracker device (MGS100, MGS200 or MGS500) via Bluetooth. Once connected, the HOS application will automatically log activity on the tablet and transmit a copy to Fleet Complete. All current and historic log data will be available 24/7 for reporting and analysis via Fleet Complete. Action Tracker HOS is 100% compliant with all FMCSA and DOT requirements, and already supports upcoming US FMCSA July 2013 rule changes. All of our HOS rule tables are configurable rule to make adapting to future rule updates simple and easy.To use Action Tracker HOS as an electronic log book, youâll need the following:TabletAndroid tablet (OS v2.3.3 or newer)Action Tracker HOS applicationInternet connectivity on the tablet, either using a cellular data plan on the tablet, or a Wi-Fi connection via an MGS500 equipped with a Wi-Fi accessoryVehicleFleet Complete Fleet Tracker MGS device and JBox connected to the vehicle ECMPC (to provide editing and reporting capabilities)Fleet Complete subscriptionTo learn more about Fleet Complete and Action Tracker HOS solutions, reach out to your AT&T representative in the US, or your TELUS representative in Canada.  Benefits for DriversEasy to use interface for truck & bus drivers based on paper log booksCalculates  Available Drive Time automaticallyIncludes Cross-border: Canada to US and backAnd Cross-state: Intrastate Rules to Interstate Rules and vice versaAutomatically changes duty status changes based on vehicle motionProvides warnings to drivers when approaching an out of Available Drive Time stateSupports âSlip Seatingâ Includes a Roadside Inspection mode,  secured with the driverâs PINAutomated Driverâs Vehicle Inspection Reports (DVIR)DVIR signature captureBenefits for Managers (provided via the Fleet Complete platform)Real-time HOS status of all driversReal-time HOS violations reportingReview & edit individual driver logs to reduce paperworkHistoric electronic log records to make audits easierAble to print, email or save log reports in variety of formats (PDF, HTML, Excel)Full HOS Regulatory Compliance60-7 rule, 70-8 rule and other intrastate rule sets 16-hour \"Big Day\"Canadian and US Oilfield Exemptions5th log line for Off-Duty (Waiting at Well Site)Salesperson exemptionsUS and Canadian Inspection rules 396.11 and NSC 13Property and Passenger Carrying (Truck Driver and Motor Coach) rules FMCSA 395.15 and SOR-2005-313 part 83Canadian Cycle 1 and Cycle 2 LogsEOBR rules",
+    "reviews": [
+      {
+        "documentVersion": "1.0.123",
+        "timestampMsec": "1373247127547",
+        "starRating": "1",
+        "title": "Waste",
+        "comment": "Very helpful app a guess if it worked :-\\\\",
+        "commentId": "gp:AOqpTOGILQxFVPa3wChPlZzNOpmC82I1B477-YWnP5UKNu3zqMv1Z5HOLtUvSWIoL0HXI9KxzuUEtXk1r5SBJw",
+        "author": "Dorin Gutu",
+        "authorURL": "http://lh6.googleusercontent.com/-SVn_WkHPWEs/AAAAAAAAAAI/AAAAAAAAAKM/8C77Vo3tU_M/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-SVn_WkHPWEs/AAAAAAAAAAI/AAAAAAAAAKM/8C77Vo3tU_M/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.123",
+        "timestampMsec": "1368587042425",
+        "starRating": "1",
+        "title": "What were these guys thinkin",
+        "comment": "What a waste of time",
+        "commentId": "gp:AOqpTOHGlRId6HFOCzVl76FQgPudg0eg3WhlDy3ep8bUK9DWBUP2iD-er_qOkBGe9PpCdPHcKk6ruRLuCAuRQg",
+        "author": "Ric Bolton",
+        "authorURL": "http://lh5.googleusercontent.com/-Mk4FV472I4Q/AAAAAAAAAAI/AAAAAAAAACk/VeIGMrtHV1s/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Mk4FV472I4Q/AAAAAAAAAAI/AAAAAAAAACk/VeIGMrtHV1s/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367299238485",
+        "starRating": "1",
+        "title": "Bs",
+        "comment": "Pin needed uninstall",
+        "commentId": "gp:AOqpTOGEAnrmRdQOAIEZDhnIEKktvsu1kCrARCLD_HekCgC9luRNgZulmZ3kXbTKEigtC79dq2m1Y4Z-6lEaeQ",
+        "author": "Michael Crowder",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.action.permission..C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

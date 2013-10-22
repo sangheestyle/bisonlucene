@@ -1,0 +1,40 @@
+{
+  "title": "Rednews ενημέρωση",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.denispyr.feed.rednews",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "May 29, 2013",
+  "version": "3.0.2-27",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "41",
+  "rating": "4.8536587",
+  "contentRating": "Everyone",
+  "creator": "denispyr",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.denispyr.feed.rednews",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Please, use the email and report errors back to me. Thanks!.Have Legendary Olympic updates at your phone, as provided by Rednews.gr (rednews7.blogspot.gr).- Let this app wait for new content and notify you as soon as it arrives- Share the articles you like using any social medium: twitter, facebook, email, you name it- Read the latest comments on the articles toy are interested- Click and go to the site in order to write your own comments- Read the articles at your own pace, offline!You want this app because you want to* have all Olympiacos news, listed* point out articles that have comments* view single article* share articles via twitter, facebook, email (or any other social sharing app installed)* view the last ten comments for each article, along with time posted and commentor* move to Rednews.gr site* automatically update the list (optional), select the update frequency* select the categories that interest you* automatically start on device start (optional)* store the articles so you can read them offline, for many day after they postedWhy are we asking for certain permissions, and we can explain why:- Sytem tools - automatically start at boot: in order to start up with your device.- Network communication - full internet access: yes, all content comes from the net ;)- Storage - modify/delete SD card contents: we are storing the article images in the card so you can have them even offline- Your personal information - Get notified on list updates, Notify on article updates: this is an app permission, for the rednews widget (which is not ready but ...)Pleas mind that the content is not produced  by this application! All articles, titles and comments are coming from Rednews.gr.Usage note: the application icon, in the upper left corner, brings you bavk to the home pageseo: rednews rednews.gr Î¿Î»ÏÎ¼ÏÎ¹Î±ÎºÏÏ Î¸ÏÏÎ»Î¿Ï Î¿ÏÏÏ ÎµÎ½Î·Î¼Î­ÏÏÏÎ· ÏÎ¿Î´ÏÏÏÎ±Î¹ÏÎ¿ Î¼ÏÎ¬ÏÎºÎµÏ Î³Î±ÏÏÎ¿Ï Î³Î±Î²ÏÎ¿Ï ÏÏÏÏÎ±Î¸Î»Î·ÏÎ®Ï olympiacos olympiakos Î±Î¸Î»Î·ÏÎ¹ÏÎ¼ÏÏ feed rss feeder",
+    "reviews": [
+      {
+        "documentVersion": "2.1.0",
+        "timestampMsec": "1344499837022",
+        "starRating": "5",
+        "title": "PERFECT",
+        "comment": "ALL I NEED TO LEARN FOR OLYMPIACOS INTO MY SMARTPHONE!!!!!!!!!!!!!!!!!!!",
+        "commentId": "lg:AOqpTOEovr_uMYo78wPy7VxKOG4R_zx3vRrfMusSo8YuxJigu79U8PdOY0EkeaFvp6BscvMfypP_WWwM5vkq8w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.denispyr.feed.rednews.SEND_NEW_ARTICLES_NOTIFICATION",
+      "com.denispyr.feed.rednews.RECEIVE_NEW_ARTICLES_NOTIFICATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

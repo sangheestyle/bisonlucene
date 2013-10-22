@@ -1,0 +1,43 @@
+{
+  "title": "mHealthAlert",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cystelcom.attcr.talkoo",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "July 10, 2013",
+  "version": "2.1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "16",
+  "rating": "3.0625",
+  "contentRating": "Everyone",
+  "creator": "mHealthAlert",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cystelcom.attcr.talkoo",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "- What is mHealthAlert?mHealthAlert is a platform designed to provide a better and inexpensive way 24x7 âalways onâ telemonitoring services to the elderly and chronic patients from their homes.Our main objective is to provide a service that raises the standards of health care monitoring while reducing cost in medical treatment, as well as inexpensive service for the elderly to keep them in touch with their family and friends avoiding loneliness and social exclusion.mHealthAlert APP is intended for healthcare professionals or intended for the general public with a clinical supervision.- The platformIs an open telemedicine and remote health network-based cloud platform that provides services through mobile applications to telemonitor in-home and mobile chronic patients, providing doctors with patients clinical history for accurate treatment in real-time.Users will be provided with a user name and password to access all the services independently of the device selected (web, mobile or tablet).- Main benefits1. Reduces cost for medical treatment2. Reduce cost in medical treatment for collateral sickness3. User friendliness4. \"Always on and always accessible\"5. Security6. Interactivity among users7. Real Time delivery o emergency notifications8. Health Information- mHealthAlert Android appThe app allows doctors and specialty coordinators to access to the services in order to assure and maintain the real-time patient monitoring.Using mHealthAlert app, each user will be able to accomplish their daily task in an easy way.The key functionalities are the following:â¢ For doctors* Real-time reception and treatment of Medical Alerts: Out of threshold patient measures* Patient monitoring: Patients search, Measurement thresholds configuration, Patients history accessâ¢ For specialty coordinators* Real-time reception of QoS alerts: Monitoring of quality of service provided in specialties---------------------------------------------------------Should you need further information or have any comments or questions. Please, send us an email to:support@mhealthalert.comor visit http://www.mhealthalert.com/index.php/en/contacto-3or follow us on twitter:http://twitter.com/mHealthAlert@mHealthAlertor facebook:http://facebook.com/MHealthAlert---------------------------------------------------------",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_DEBUG_APP",
+      "android.permission.VIBRATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.cystelcom.attcr.talkoo.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "UDF.BY",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_35add3b72719472db0d99f179e5fac8e.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "June 22, 2013",
+  "version": "1.50.59.966",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "10",
+  "rating": "3.9",
+  "contentRating": "High Maturity",
+  "creator": "Nick Antipov",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_35add3b72719472db0d99f179e5fac8e.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Official application of the Belarusian news portal UDF.BY. The features to read news, view photos, videos, and the button \"submit news\" to our editorial office.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_35add3b72719472db0d99f179e5fac8e.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

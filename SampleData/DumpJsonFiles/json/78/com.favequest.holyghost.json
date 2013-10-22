@@ -1,0 +1,48 @@
+{
+  "title": "RCCG & Holy Ghost Service",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.favequest.holyghost",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 23, 2013",
+  "version": "1.1.12",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "7",
+  "rating": "4.428571",
+  "contentRating": "Low Maturity",
+  "creator": "Favequest Corp.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.favequest.holyghost",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Redeemed Christian Church of God (RCCG) has a vision to spread the Word of God to the ends of the earth. It is a Bible believing church, where the teaching and a missionary approach emphasize the proper conduct and moral behaviour of people.One of the well-known programs of the church is the Holy Ghost Service, an all night miracle service that holds on the first Friday of every month at the Redemption Camp at Km. 46, Lagos-Ibadan expressway. The average headcount of those who attend the Service is about 500,000. The Holy Ghost Service now holds in London quarterly.This app is your guide to the events held by the Redeemed Christina Church of God and the Holy Ghost Service:-a full listing of all events and key dates with descriptions, bios, videos and photos-posting of events to Facebook and Twitter to let friends know what you're attending-directions & GPS map with key locations-access to RCCG's Twitter stream and Facebook page",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1338763695808",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Terrific app for the holy ghost service in canada",
+        "commentId": "lg:AOqpTOEYQ1WSmfN2AtmxG6YkREwIYhjwgod_Na0wVIJ6R7_5nvyMuJD8YL1IPXhdX3lebUnBn3Z5eZjQmN76gsE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.favequest.holyghost.permission.MAPS_RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

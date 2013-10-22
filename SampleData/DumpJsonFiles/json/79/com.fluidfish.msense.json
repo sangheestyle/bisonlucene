@@ -1,0 +1,48 @@
+{
+  "title": "FaceCare skin analyzer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fluidfish.msense",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "July 1, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "fluidfish",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fluidfish.msense",
+  "extendedInfo": {
+    "installSize": "3.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "FaceCare : Check your skin conditions with your phone. Keep track of your skin conditions over time. FaceCare helps you to soft, healthy and better looking skin.Get the latest on skin care  products, tips, reviews. Learn from experts and other users. See how other people are doing to improve their skin health and looks. Improve your knowledge, exchange ideas and techniques. Share your experiences.  FaceCare app helps you maintain healthier skin !![Measure]Check your skin hydration levels under the surface. Keeping your skin hydrated is the key to soft healthy skin, preventing lines and wrinkles from developing.*Note: Measuring skin conditions require an external measuring device. Users can still use other features of the app without the measuring device. [Track]View your skin conditions over time on an easy to read chart. Check if your skin caring routines are effective.[Share]Expert insights on techniques and product knowledge.Product news and reviews.Users experience and knowledge sharing.Special events and promotions.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.SET_DEBUG_APP",
+      "android.permission.WAKE_LOCK",
+      "ccom.fluidfish.adbandroidtest.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

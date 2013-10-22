@@ -1,0 +1,35 @@
+{
+  "title": "ITS World Congress 2011",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.itswc2011",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "August 2, 2011",
+  "version": "1.9.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "1.5",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.itswc2011",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Intelligent Transportation Society of America is the leading advocate for technologies that improve the safety, security and efficiency of the nation's surface transportation system. Hosted by ITS America, the 18th World Congress on Intelligent Transport Systems is an international meeting and exhibition with more than 10,000 delegates from over 65 countries, held in the United States once every three years. On October 16-20, 2011, the world's leading transportation policy makers, technology, and business professionals will gather in Orlando, Florida with a goal of bringing greater levels of safety, reliability and accessibility to transportation systems worldwide. The 18th World Congress, which will also feature ITS America's Annual Meeting and Exposition, will host interactive technology showcases, more than 250 sessions, a 350,000 square-foot exhibit hall, and countless networking events with ITS industry leaders from across the world.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

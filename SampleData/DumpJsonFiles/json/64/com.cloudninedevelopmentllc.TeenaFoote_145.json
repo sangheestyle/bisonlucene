@@ -1,0 +1,40 @@
+{
+  "title": "Southwestern Eye Center",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.TeenaFoote_145",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "October 5, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.TeenaFoote_145",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Southwestern Eye Center doctors provide comprehensive optometry and ophthalmology services including subspecialty procedures in vitreoretinal disease, oculoplastics, cornea disease, glaucoma, refractive procedures, low vision aids and ocular prosthetics. Many of these services are available even in our remote locations.All of our doctors are highly skilled and many have additional advanced fellowship training. We work closely with a large community of referring optometrists so that patients can remain with the doctors they know and trust.2012 marks our 30th year in business.  Today, Southwestern Eye Center numbers over 300 employees; operates 24 clinics, 14 ambulatory surgery centers and 12 opticals.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.cloudninedevelopmentllc.TeenaFoote_145.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Meet Me Find Me",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dstudios.alert",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 4, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Diamond Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dstudios.alert",
+  "extendedInfo": {
+    "installSize": "562k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Find Me Emergency Buttons :   One Button Emergency Notification; If someone is lost or needs help, app sends text, email and makes phone call to designated emergency contact(s) with the touch of one button. App provides senderâs exact location with turn-by-turn directions to the emergency contact. Meet Me Button:If someone needs directions or meeting friends, they can select unlimited contacts from their contact list, and send everyone a link with turn-by-turn directions to the senderâs exact location.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.SEND_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

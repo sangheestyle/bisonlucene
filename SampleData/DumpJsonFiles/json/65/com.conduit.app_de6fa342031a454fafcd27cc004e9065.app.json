@@ -1,0 +1,39 @@
+{
+  "title": "Autism Health and Science",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_de6fa342031a454fafcd27cc004e9065.app",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "December 24, 2011",
+  "version": "1.2.3.1111",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Music Biz Designs LLC S. Stewart",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_de6fa342031a454fafcd27cc004e9065.app",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Autism Health and Science app. News and info for everything you need to know about Autism. health, science, info, help, education, nutrition, and more. Info in English, French, and Spanish.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_de6fa342031a454fafcd27cc004e9065.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

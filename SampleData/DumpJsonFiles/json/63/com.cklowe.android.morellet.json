@@ -1,0 +1,60 @@
+{
+  "title": "Op Art Weave Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cklowe.android.morellet",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "August 14, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7",
+  "rating": "4.428571",
+  "contentRating": "Everyone",
+  "creator": "OpArtistry",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cklowe.android.morellet",
+  "extendedInfo": {
+    "installSize": "27k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "A fully-animated live wallpaper, inspired by the work of the artist FranÃ§ois Morellet. Algorithmic art in the palm of your hand.Simple rows and columns of blocks move across one another, leading to emergent, sometimes-surprising, often-beautiful patterns.To run this, just like most live wallpapers, you need to select \"Live Wallpaper\" (perhaps through Settings->Personalisation, or by holding-down on your home page)  then choose 'Op art weave wallpaper'.  You can play with the settings for the wallpaper at before you deploy this mesmerising wallpaper on your phone.  Depending on your phone model, you might need to re-select the wallpaper in order to tinker with the settings, or there might be a short-cut button provided by your version of Android.  I've modified the parameters for certain settings, so, for example, with Transparent set to 'on', you should see some interesting patterns you don't get by default.  You can double-tap the wallpaper to rewind the action a few seconds, if you find a particular sequence is worthy of repetition.The style is one of Algorithmic Art, or perhaps Op Art or Abstract Minimalism. I got the idea after visiting the Tate St Ives and seeing Morellet's work for the first time. Morellet's painting moved me.  I thought I would return the favour.How it works (the science bit): to a rough approximation,  the live wallpaper plots a multi-dimensional Lissajous-like curve through the parameter space of some function.  This function generates images in the style of Morellet's Trames pieces.  The live wallpaper app attempts to plot these images at up to 12 frames per second, which depending on the complexity of the image and the capability of your phone, should be achievable most of the time.  The result is an ever-shifting, algorithmically-generated live wallpaper.  The way in which these simple arrangements interplay, in the manner of MoirÃ© patterns, often surprises me. I hope it pleases you, but de gustibus, etc.This is free-as-in-beer software.  I hope you enjoy viewing it as much as I enjoyed creating it.  I'll be releasing a paid-for version with several more settings and options soon, and I really need to do something about the colour picker.  I've already paid a licensing fee to the estate of FranÃ§ois Morellet, since I think that's fair. The live wallpaper requires no permissions to run - it's totally clean.Do please email constructive criticism to livewallpaper@opartistry.co.uk, or perhaps comment on the app in Google Play.  If you like the app, or you think someone else might, do please share it.Copyright Â© Chris Lowe, (adapted from 'Two Warps and Wefts of Short Lines 0Â° 90Â°', by FranÃ§ois Morellet; Copyright Â© ADAGP, Paris and DACS, London 2013).",
+    "reviews": [
+      {
+        "timestampMsec": "1347565189468",
+        "starRating": "5",
+        "title": "Sweet wallpaper",
+        "comment": "Does just what a live wallpaper should. Not too distracting, but interesting enough. Ok on battery.",
+        "commentId": "lg:AOqpTOG1bZ4vs68aAUXfy28X2HVuumx7UIpiIVZ9qCsxYQg9SG0tkjv6b7ua-VDJePvhG20eFiCXiBmnNw5Pgw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339313538309",
+        "starRating": "5",
+        "comment": "FANTASTIC",
+        "commentId": "lg:AOqpTOF76lY5Bq2DIWAzpKbua51o_u4DoUd3xMyiQK34kNA8H8swPVUAQc4YAfkse7R7E-jmaOi8kRjPWVPeYQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334418747279",
+        "starRating": "5",
+        "title": "Top dollar",
+        "comment": "A premium wallpaper. Gorgeous.",
+        "commentId": "lg:AOqpTOHlysYpcyMZupKfLdCQ9Bcf9HxkHY6rl1BE2C5Fy7yfNwPa1pwAUa-prC9-bzXn6kotWaDIOeycaQZOFg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333694400814",
+        "starRating": "5",
+        "title": "Runs smooth..",
+        "comment": "Would be great to have more patterns..",
+        "commentId": "lg:AOqpTOGUrbAKGtSB8W_13hDtoQT_OiKwXYidf9ot506Chk6WRbbYu6VqAucgAP9YbOLLIIKIcon9Y-BvfymKrg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "VEnezia",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fflabs.venezia",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "December 30, 2011",
+  "version": "2.0.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "15",
+  "rating": "3.1333334",
+  "contentRating": "Low Maturity",
+  "creator": "FF labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fflabs.venezia",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "This Application is dedicated to the city of Venice, keeps you updated on the latest news, provides information on public transports (ATAF bus) and trains (trenitalia), weather forecast, information on better restaurants, bars, pubs, hotels, and much more.This is very useful for those who live in Venice and all the tourists that looking for the city guide.Main Features: - Local news- City Map with top attractions (coming soon)- Information on restaurants, bars, pubs and hotels in Torino.- Public Transport (ATCV, Trenitalia)- Local Weather- Travel Info (main sights, history, geography, climate)- Most useful Link",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

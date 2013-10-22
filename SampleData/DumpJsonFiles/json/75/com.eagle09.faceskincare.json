@@ -1,0 +1,63 @@
+{
+  "title": "Face beautify",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eagle09.faceskincare",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "February 7, 2013",
+  "version": "2.00",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "eagle09",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eagle09.faceskincare",
+  "extendedInfo": {
+    "installSize": "10M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Face beautify from facepuff.comFace puff brings to a free beautiful little app that connects you to the latest and the most desirable skin care products.Face puff is passionate about beauty products and when we find something very cool and desirable it will be at your fingertips with this little app.Donât think that this is some wiz-bang-who-fandangle- APPThis app is just a handy little app that takes up very little space but has powerful overtones.It is like one of those handy little items that you need in your purse.Just a handy must have app.",
+    "reviews": [
+      {
+        "timestampMsec": "1355466354005",
+        "starRating": "5",
+        "title": "Really simple",
+        "comment": "Love it. I found that it loads fast and does not take up a lot of battery power. I love the free stories and ebook. Looking forward to more updates and stories. Good stuff",
+        "commentId": "gp:AOqpTOG18KeG_e_G83YBVAJpgmV7giJUsqEiXnRvgoapwZH1dEqcgdLrtificYeta6L_3jvG1CE2cTzY2wbiFA",
+        "author": "Jan Peter Prokes",
+        "authorURL": "http://lh3.googleusercontent.com/-NjALJQr8zEo/AAAAAAAAAAI/AAAAAAAAAQM/FIIw8TmcDnU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-NjALJQr8zEo/AAAAAAAAAAI/AAAAAAAAAQM/FIIw8TmcDnU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357257694199",
+        "starRating": "2",
+        "title": "Needs more content",
+        "comment": "I would love this app if it gave you more recipes. Only had 2 . Said more would be added. Alot more need adding for me to give a good rating",
+        "commentId": "gp:AOqpTOGHjL-UfoT9Jhpkso0MbHdufkngucNmkHT77SC_UluEV91GiGFDfP00yeKNrRmpeAzQAiKmryDlNiVqQA",
+        "author": "jane Louis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "com.eagle09.faceskincare.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

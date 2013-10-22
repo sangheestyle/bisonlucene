@@ -1,0 +1,31 @@
+{
+  "title": "Auto Skype",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dmb.autoskype",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 24, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "DMB Dev Team",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dmb.autoskype",
+  "extendedInfo": {
+    "installSize": "890k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "**** Disclaimer ****Skype and the Skype logo are trademarks of Skype. This application is not affiliated, sponsored, authorized, or otherwise associated with Skype. This application serves to enhance Skype functionality and its end-user experience without competing with it in any way. Skype must be installed in order to use AutoSkype.**** Description ****AutoSkype provides additional functionality that is noticeably absent from Skype for Android by default. With AutoSkype, you are given the preference to start Skype automatically from device reboot as well as to continuously check to ensure that Skype is running on your device at an interval of your choosing.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_TASKS"
+    ]
+  }
+}

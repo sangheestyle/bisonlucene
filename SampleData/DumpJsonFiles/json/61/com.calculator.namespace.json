@@ -1,0 +1,49 @@
+{
+  "title": "Calorie Calculator(Ultimate)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.calculator.namespace",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "July 15, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "82",
+  "rating": "4.609756",
+  "contentRating": "Low Maturity",
+  "creator": "AppLord",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.calculator.namespace",
+  "extendedInfo": {
+    "installSize": "141k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Following from the great Stupendous success from the apple appstore with over 25 000 people purchasing this app ive finally decided to create and publish a version of this app to Android-Market. This is the ONLY app in the whole Android market that has can calculate exactly how much calories you burn for over 500 different sports and activities!!! It has been a success all over because it has helped people with their training dramatically!Have you ever wanted a complete fitness app that will help you with your training, nutrition, and even tell you how much time it takes to reach your goal weight, all in the same app?Then this is definatley the perfect app for you!This Ultimate fitness calculator contains 4 calculators each of which is designed to make your weightloss that much easier.1- The calorie calculator, this calculator calculates your estimate of how much calories you need daily depending on your physical attributes and your activity level. This is more accurate than any other calculator anywhere since it takes in considiration your activity level. It uses st.Mifflin Jeors most advanced formula to give you a very rough and as accurate an answer as possible.2- The weight loss estimator, this calculator will tell you exactly how many days it will take to reach your goal weight. Simply enter your current weight, and your goal weight, and with the seekbar, choose the average calorie defecit that you are planning to loose every day, and it will give you an accurate estimation of your goal Date.3- The BMI calculator, this calculator simply calculates your BMI.4- The Calories Burnes/Exerciese calculator. This is the grand daddy of them all!! this contains the most extensive database of different activites and sports in the whole market and it will tell you exactly how much calories you will loose for each activity and sport given a specific time intervall.So what are you waiting for? download your copy now and join the adventure of thousands of other happy users of this application and begin to make your weightloss and training to a path of success!",
+    "reviews": [
+      {
+        "timestampMsec": "1341756506616",
+        "starRating": "1",
+        "title": "Kinda lame",
+        "comment": "Publisher... someone has been kidding with you... this app is really kinda useless... just giving a list of generic calorie burns is not helpful... if I really want accurate burn info based on my specific health and exercise this is not it... take a look at other apps in the market.   Sorry...uninstalling.",
+        "commentId": "lg:AOqpTOFScbwZSngZ6COR4W5fKDmWrf1eW5_Yd9qBz0ChUt8QqDkkbZwSnolo9S2QcR4OzsfUso-suI-d8re_",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352900595090",
+        "starRating": "1",
+        "title": "RECEIVED ADS VIA PUSH NOTIFICATION....",
+        "comment": "...less than 10 seconds after install & opening of app.  NO THANKS!",
+        "commentId": "lg:AOqpTOFDDEZYZvawR6BqXAHAgtkOWjPYQOyvjG05aXE3NwcmvfX4-w4hiFboMmLfqpbEKEkRBfQB5vonV19o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

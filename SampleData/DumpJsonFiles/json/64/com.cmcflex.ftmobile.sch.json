@@ -1,0 +1,53 @@
+{
+  "title": "Schools Federal Credit Union",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cmcflex.ftmobile.sch",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "1.1.12",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Computer Marketing Corporation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cmcflex.ftmobile.sch",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Conveniently access your account (Savings, Checking, and Credit Card) on the go. Sign on with the credentials established on eBanking. You will be able to check balances, view transaction history, transfer funds between your accounts, make loan payments, and more from an enabled device.Keywords: Schools Federal Credit Union, LA Schools, Schools, LAUSD Credit Union, CSUDH, SFCU",
+    "reviews": [
+      {
+        "timestampMsec": "1373587880692",
+        "starRating": "5",
+        "comment": "Excellent. So much easier now",
+        "commentId": "gp:AOqpTOFxpONzaQH15IGfhmxD-vU32APzbVh8N0OdH4zKo-XsY8NS17ybY1btHyU_yTdNh0nTbvlCQC-aWz1l-A",
+        "author": "lizette miranda",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373423667207",
+        "starRating": "5",
+        "title": "Great job",
+        "comment": "I love it!!!!!!!! So much easier than going online everytime",
+        "commentId": "gp:AOqpTOGE7PX4LXUVl4ovb_4iZ4hL1ZJNfgoASw6ZlWoe9my7br0rRIVDaDRt24z6T4XpGqTCUgEodT3sEjlbiA",
+        "author": "Amber Mitchell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.cmcflex.ftmobile.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

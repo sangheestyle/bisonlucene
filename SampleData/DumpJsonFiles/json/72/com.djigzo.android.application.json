@@ -1,0 +1,236 @@
+{
+  "title": "DJIGZO S/MIME Email Encryption",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.djigzo.android.application",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 15, 2013",
+  "version": "1.4.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "81",
+  "rating": "4.382716",
+  "contentRating": "Everyone",
+  "creator": "Djigzo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.djigzo.android.application",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "DJIGZO for Android can be used with your existing Android mail application to send and receive S/MIME signed and encrypted email. DJIGZO for Android is free for personal use.Features:- S/MIME 3.1 (X.509, RFC 3280), email encryption and digital signing- Can be used with the Android Gmail application- Compatible with existing S/MIME clients (like Outlook, Thunderbird etc.)- Message and attachments are encrypted- HTML email support- Certificates are automatically extracted- CRLs supported (LDAP and HTTP)- Certificate trust lists (CTLs) for black/white listing certificates- LDAP servers can be searched for certificates- Can generate self-signed certificates for a 'private-PKI'Notes:- DJIGZO for Android does not provide functionality to retrieve email. An existing Android mail application, for example Gmail, K9 or the default Android email client, should be used to retrieve the encrypted attached smime.p7m message.- Clear signed digitally signed message can only be verified by opening the message as an .eml file from the sdcard. The complete message is required for validation. Existing mail clients however do not provide access to the complete message.   Permissions:- The GET_ACCOUNTS permission is required to get the default sender address- The READ_CONTACTS permission is required to lookup the recipients for the compose pageDocumentation:- Quick start guide http://www.djigzo.com/documents/djigzo-android-quick-start-guide.pdf- Reference guide http://www.djigzo.com/documents/djigzo-android-reference-guide.pdfFor more information see http://www.djigzo.com/android.htmlFor support contact us at support@djigzo.comAbout DJIGZO:DJIGZO, based in Amsterdam, the Netherlands, provides products for the protection of email. DJIGZO Email Encryption Gateway is an open source centrally managed email server that encrypts and decrypts email at the gateway level.Installation packages are available for Ubuntu, Debian, Red Hat and CentOS. A Virtual Appliance for VMware and Hyper-V is available. An add-on for BlackBerry is available.Feedback on reviews:DJIGZO is fully functional and has been tested on the Galaxy tab despite Mr Croucher negative and false claims. The reason he could not import the keys was that he didn't understand the difference between private keys and certificates and kept on trying to import a .pfx file with the certificate import wizard (which is only for importing certificates, not keys). His claim that it took \"weeks of haphazard support\" is also false since it took 10 days from the day of first contact to the day we found out he was using the wrong import wizard. We always reacted within a few hours to all of his emails while his replies often took a few days. He confirmed that he was able to import his keys after using the correct import wizard (\"import keys\") but still rewarded us with 1 star.Paula reported that she couldn't find any certificates. DJIGZO cannot \"automagically\" find all externally used certificates. There are three ways to get certificates for recipients: extracted from digitally signed email, manual import or, a certificate can be downloaded from an LDAP server. If a company uses their own LDAP server, add the LDAP server to the list. Paula also remarked âNo support!â. We have checked our logs and have not seen any email from Paula.About the integration of DJIGZO and email clients. DJIGZO registers itself as an application to handle S/MIME attachments (smime.p7m). If a mail application can download the smime.p7m attachment, it can be decrypted by DJIGZO. Most Android email clients cannot be extended by external apps. Improved integration between existing email clients and DJIGZO can only be done if the email client supports plugins.",
+    "reviews": [
+      {
+        "documentVersion": "1.4.4",
+        "timestampMsec": "1376606047423",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Excellent app to read and send encrypted emails. Intuitive and simple interface. Decent integration with the OS.",
+        "commentId": "gp:AOqpTOHHIgdJDrWmCR7D61_m7oTtRzt8CegzKeZjH83HIWWwWTZ2-urxOzc3J811MGPt_cTHA8HkT79d97N0iQ",
+        "author": "Ahsan Ikram",
+        "authorURL": "http://lh4.googleusercontent.com/-A4mSSyookC0/AAAAAAAAAAI/AAAAAAAAAa8/c-Db4BuyfBo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-A4mSSyookC0/AAAAAAAAAAI/AAAAAAAAAa8/c-Db4BuyfBo/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.4",
+        "timestampMsec": "1377838299737",
+        "starRating": "5",
+        "title": "Excellent product. Got it working with STARTSSL class1 client cert",
+        "comment": "Impressive I got it working on my Nexus 7 using an otb USB cable and the Nexus Media Importer app to upload the .p12 certificate key.  Great functionality...but I also had to find and upload the INTERMEDIATE certificate, which was missing. Otherwise, the app would not validate my cert and allow my cert to be used.   Nice work! I can\\'t imagine any product working better in the android os.  Running Android 4.3",
+        "commentId": "gp:AOqpTOGvXzjR18_4gtQH2OkUQ7ciadiWt7RXwknQtoLMpBtZuvdXcKpNy9PeH4YT48zlzbciVFuX6d3juipacQ",
+        "author": "Christopher Wagner",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.4",
+        "timestampMsec": "1376873827472",
+        "starRating": "1",
+        "title": "Does not recognise valid certificates",
+        "comment": "The app kept saying my certificate was expired and refused to use it when it is perfectly valid and works on any other computer without a problem.  Also only one email account is supported at a time, so you can not set up multiple email accounts.",
+        "commentId": "gp:AOqpTOEJg4UltdlhOhpeo8WNPV5dd2PYwQVxH3GVri7tlU_0kKb1swv52wRLIZeFxIKo_Czt4TH01VQkEW2h_w",
+        "author": "Leith Bade",
+        "authorURL": "http://lh4.googleusercontent.com/-uGnj361R4j4/AAAAAAAAAAI/AAAAAAAAAGs/52BaCXTQBlA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-uGnj361R4j4/AAAAAAAAAAI/AAAAAAAAAGs/52BaCXTQBlA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.2",
+        "timestampMsec": "1369274085755",
+        "starRating": "3",
+        "title": "No other choice",
+        "comment": "Looking at the other alternatives, this is the only real choice if you need S/MIME support and free.  It\\'s annoying that you cannot disable the requirement for a keystore password (considering the device is normally locked anyway) and the UI looks antiquated.",
+        "commentId": "gp:AOqpTOEX-ClD7TRC2yaEslliCcue60YHk5CiEUBSSxIIcC8e7s8LeC5W3qw8xUjxqwxw3yHqTZt-0aI8yI6W3g",
+        "author": "Archimedes Trajano",
+        "authorURL": "http://lh5.googleusercontent.com/-5dCYObhO1so/AAAAAAAAAAI/AAAAAAAACY4/R4ZWNEo3j3c/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-5dCYObhO1so/AAAAAAAAAAI/AAAAAAAACY4/R4ZWNEo3j3c/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.2",
+        "timestampMsec": "1358654547143",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Does what claims",
+        "commentId": "gp:AOqpTOHyJ7G4SvI0awUkXKX_yZ9etu-o0KhvlB6zxdTlNTP6oP8r0C57lOkfzDMje6ZNHGYMZBrRfPyBPfjrOw",
+        "author": "Tehreem Hajra",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.2",
+        "timestampMsec": "1366139961408",
+        "starRating": "3",
+        "title": "Seems ok but not working with my emaill app"
+      },
+      {
+        "commentId": "gp:AOqpTOHcSI1S4xZfX1S2cznflD3a5EJxcXfiJwqpq6lYIwm9FRpPvZMSJLbbkVDDWr6tDPmQxf2_o3XMMfGhww",
+        "author": "Cliff Zhu",
+        "authorURL": "http://lh5.googleusercontent.com/-LIgQevlo_0E/AAAAAAAAAAI/AAAAAAAAAAA/DmK9-vhjd-g/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-LIgQevlo_0E/AAAAAAAAAAI/AAAAAAAAAAA/DmK9-vhjd-g/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.2",
+        "timestampMsec": "1362301923646",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Works perfectly on my Nexus4 with K9. Like the way it uses its own key store - this means credential security on my nexus is not invoked.",
+        "commentId": "gp:AOqpTOEuMzFfy1nLtKyzXUxeqCIcuS_tdcUbltW7GACBHUlpk7qkjFtI9iWpxGyJKehXe9evpbWjgKXzonU6Fw",
+        "author": "Rob Mason",
+        "authorURL": "http://lh3.googleusercontent.com/-dCFgUyU-3qE/AAAAAAAAAAI/AAAAAAAAAFc/-6MDD6RDG3k/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-dCFgUyU-3qE/AAAAAAAAAAI/AAAAAAAAAFc/-6MDD6RDG3k/photo.jpg"
+      },
+      {
+        "timestampMsec": "1349954687242",
+        "starRating": "5",
+        "title": "Now it supports native E-mail client",
+        "comment": "Good application! Support of native E-mail client (in addition to GMail client application) has made this software much more comfortable! 5 stars",
+        "commentId": "lg:AOqpTOGf-IbFnWrIezA7aY7_BRMSHbQ0q0ojEijIhzfxqyrInteb3RBcKEaaSB3_r-wc_VsnwIf_KfL0XW-9Ow",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353931370343",
+        "starRating": "5",
+        "title": "Mike B",
+        "comment": "Excellent app",
+        "commentId": "lg:AOqpTOGajXMmsqx_sFWbw58lEZM0fJq0RHMmiRimtFjAkK7gP44KOScnx3HDVKtr6NW3rr5zC9UCV0wO6QvtFg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351551686801",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Does exactly what it claims. Currently the best option I have seen for S/MIME.  Thank you.",
+        "commentId": "lg:AOqpTOEYUlMknEEcHjbeWxRLY8L2xiazb0LTBxCUSsayhmSHgUHn5sHPRGut4D5lE0-g2OIoJWqnWofmLtklUA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1349784098442",
+        "starRating": "5",
+        "title": "simply works",
+        "comment": "Tried some s/mime clients, DJIGZO works most easily, especially certificate import is very easy compared to others.  Only thing missing is email s/mime signature validation.",
+        "commentId": "lg:AOqpTOE7JV3Rc-GkTVs_-ExCPWg326JmLtpcXJLvgnP9SasTXpVp-_jcEb-JxAaRCIe7zQNNWOugVGlsux7cPg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1349141811918",
+        "starRating": "5",
+        "title": "Does what it claims",
+        "comment": "Effective solution doing what the developer claims it does. Can\\'t score it down for lack of non-GMail support becasue it doesn\\'t claim to have it. Works great with my GMail and S/MIME. They\\'ll never be able to target ads at me! ;-)",
+        "commentId": "lg:AOqpTOG7ZKXlKWotyd4gH4sAup7k-Sd_eKVBrp0hqH7ZcTkog_nKad-G05UA3rk6WEgA1X3GlMPojetSHautSA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1347212500237",
+        "starRating": "5",
+        "title": "awesome",
+        "comment": "What a great application. Easy to Setup and installs keys and certificates easily. Integrates perfectly with native gmail app. Used free  certificate from Comodo and it was so easy to do. Don\\'t rate this app bad just because you don\\'t understand S/MINE and encryption protocols.",
+        "commentId": "lg:AOqpTOGSfy_1ibvmzxN-IughC-9gTGRHKSYtePuuDGm3CXtJDNEGVV8OiaNB5Dn7axzUg_DsWzMpsXaR4lBJSw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1344373849700",
+        "starRating": "5",
+        "title": "does the job",
+        "comment": "download the app, check! get free email certificate from comodo, check! import key to djigzo, check! select certificate, check! send test email, check!  no problems if you know what you are doing. Only thing missing is a good public ldap server to register the public key with so that people can start exchanging keys easier, google? are you listening?",
+        "commentId": "lg:AOqpTOHSRgIva8pG5oI8VH-j12gaGqxR1wiwkQWKd9MNXxdWGBSVs4AxIo3ZitmsxFGGeNFUzhaanaHGdp2HPg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1340222653680",
+        "starRating": "1",
+        "title": "Fails on galaxy tab",
+        "comment": "After working for weeks with their haphazard support, i\\'ve given up trying to get it to import my private cert on a galaxy tab. Without this i cannot send or receive signed or encrypted emails so its worthless to me.  Forces a minimum of 1star otherwise i\\'d have given none.",
+        "commentId": "lg:AOqpTOEku8Q4OsJR6RDniSbUwPobdS0g4yF7Kx6XjWQ14P--MMm2lXRAPLXGuyZ-nrPIGn6tyqxTd8gcx8NjXg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1341273291023",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "This is the easiest application I have Ever used for smime integration.   I have  been trying to get outlook to do smime and you had to use ie and other things to Get smime working.   It took only five seconds to get this up and running including making a key.  Great product.",
+        "commentId": "lg:AOqpTOENj2fZC2A5_PTJVY54mNxGeVyf7cYXv5guMrLa3PWlJOgIQzaPeN_GFkja7L2OY0tULKd3WVS1TKdHHQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1341302915012",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "Works smoothly with Google Gmail App, even with two level security. Reliable and fast. Love it!",
+        "commentId": "lg:AOqpTOGx0YAZP73rOy_jBAbR17ke5xU9GczjRII4tfTqn__MHgJ4T3F-JofkB1ruRYB7Iugwky18lo6yRhAr0g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1340228271457",
+        "starRating": "5",
+        "title": "Works well on Galaxy Tab",
+        "comment": "It works well on my Galaxy Nexus, and on my Galaxy Tab.",
+        "commentId": "lg:AOqpTOFlUV4Kn9x8IbItDxfpq8AK_8fd7AnqroXjLNv16g3DhwymKBdVVisD8rHhjk8iPDQz59eaqTZpfJwujQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1342137439494",
+        "starRating": "5",
+        "comment": "Works good",
+        "commentId": "lg:AOqpTOGGh241qfTWSiCiB-HEAGWD08Q62L_WdILTAclyE7pKt6Ouznb7kTzJzV9w4nhZkknfrT8AJdoQcmk-rw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1325133744641",
+        "starRating": "4",
+        "title": "S/mime integrated e-mail client",
+        "comment": "Only one I\\'ve seen for Android. It\\'s obvious a lot of thought went into making it simple to use.",
+        "commentId": "lg:AOqpTOG0ViLi_kqFqnG0ZftKmB90Yvs4ecnU9QpWIarBt41tjSS8jqolTWJNmFgvLfokll7y-fqKnuwAKqf1FQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "com.djigzo.android.common.provider.messagecache.permission.READ_MESSAGES",
+      "com.djigzo.android.common.provider.certificate.permission.READ_MESSAGES",
+      "com.djigzo.android.passphrase.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

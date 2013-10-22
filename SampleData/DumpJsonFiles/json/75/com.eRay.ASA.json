@@ -1,0 +1,49 @@
+{
+  "title": "Anti-Steal-Alarm",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eRay.ASA",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 15, 2011",
+  "version": "1.6.14",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "62",
+  "rating": "4.080645",
+  "contentRating": "Everyone",
+  "creator": "eRaySecure",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eRay.ASA",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Have You ever worried gangsters steal your phone in the noisy environment?Don't worry!! Anti-Steal-Alarm can make harsh sound and screen flicker deter gangsters.ãFunction introductionãLanguage:Chinese or EnglishRingtone:There are 3 ringtones can be usedScreen Flicker:After turning on the alarm screen flicker on/off.Password Protection:After password protection is turning,your must enter password when you change alarm settings or turn off this funtion.Password Settings:This funtion can setting your new password, when you change new password you need enter the old one.Alarm Sensitivity:When alarm sensitivity is \"High\",it will easier to start alarm.Alarm Countdown:You can choice 5(s) or 10(s) countdown time to start alarm.Alarm:Alarm On/OffãIntructionsãPut the device flat after turning on the alarm funtion. Please wait till counting down to zero then press [Home] or [Back] to continue to use yout smart device.To turn off the alarm, go back to the main screen of the app and uncheck the alarm. Enter the password is required if your password settings were turned on.",
+    "reviews": [
+      {
+        "timestampMsec": "1339810560347",
+        "starRating": "1",
+        "title": "Sux",
+        "comment": "After I installed it. It went off for no reason what so ever. Don\\'t bother downloadin Otto its a waste of time",
+        "commentId": "lg:AOqpTOFqLqhrva5XjTk6ngkleLcPkWQh_xbJa68z-z5Da799pV-0HXCHukqTUMbla-eHrmeYbYXQ8H6mGim3xRE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350719791685",
+        "starRating": "3",
+        "title": "Support bi-languages",
+        "comment": "HTc phone work well",
+        "commentId": "lg:AOqpTOHn-ars-Ywgdo16evR-Yu9SFEPsHQyg9nZL2arhbkacZyjfQ76k2XbFMyw1day7ONvMxHkxEp5R4UL6ai4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.DEVICE_POWER",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

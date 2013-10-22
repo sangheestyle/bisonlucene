@@ -1,0 +1,53 @@
+{
+  "title": "AOA 2012 Medical Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_aoa12",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 1, 2012",
+  "version": "3.6.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_aoa12",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The AOA's 117th Annual Osteopathic Medical Conference and Exposition will be held Sunday, Oct. 7, through Thursday, Oct. 11, 2012, in San Diego. The AOA OMED12 mobile event app helps you navigate the OMED 2012 conference. Browse Sessions, Special Events, Speakers, and more. Choose Sessions you are interested in attending and add them to your personal itinerary. Plan your time in the Exhibit Hall with the exhibitor directory and create your list of âmust seeâ exhibitors. View maps of the San Diego Convention Center and the Exhibit Hall and more.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.tristar_aoa12.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

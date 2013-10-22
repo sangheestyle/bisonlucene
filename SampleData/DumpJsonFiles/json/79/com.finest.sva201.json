@@ -1,0 +1,37 @@
+{
+  "title": "eConnect View",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.finest.sva201",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 22, 2013",
+  "version": "1.1.9.422",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Mobile-phone Surveillance",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.finest.sva201",
+  "extendedInfo": {
+    "installSize": "8.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "eConnect Viewer  aims to provide everyone with an easy access to network devices anywhere. eConnect is in particular to tailor for network camera industry in order to offer the easiest yet full functional IP cam monitoring system to their customers. With just four simple steps, users' beloved ones, e.g. their babies, elderly members, pets and personal properties are displayed on their smart devices. All customers need to bear in mind is their ID and password for eConnect viewer log in.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.finest.sva201.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

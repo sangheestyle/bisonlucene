@@ -1,0 +1,37 @@
+{
+  "title": "Lucky Kisses",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emily.apps.luckykisses",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "July 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.25",
+  "contentRating": "Low Maturity",
+  "creator": "emily",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emily.apps.luckykisses",
+  "extendedInfo": {
+    "installSize": "991k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Smooch it up with your St Patties Day date but don't press your luck and get caught kissing by the prying eyes of a nosy Leprechaun and random people walking by.How to Play:     Click on the smiling couple and hold your button down for as long as you can get away with it. Release the button if any people passing by get to close or a certain leprechaun gets to nosy.This couple is totally in love! Get them to kiss each other in each romantic setting while avoiding nosey bystanders.Lucky Kisses:  It's St. Patrick's Day and we love this pair completely to madness. Help her kissing and cuddling during the feast of the country. Helps the couple to avoid the prying eyes of passersby. Complete the bar at the bottom within the time limit!Help this romantic couple to kiss each other in every setting while avoiding nosy bystanders who always try to catch somebody kissing.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_LOGS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

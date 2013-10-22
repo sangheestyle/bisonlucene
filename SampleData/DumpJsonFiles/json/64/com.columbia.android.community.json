@@ -1,0 +1,45 @@
+{
+  "title": "Community YMCA",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.columbia.android.community",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "July 16, 2013",
+  "version": "2.02",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Daxko ActiveLife Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.columbia.android.community",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Community YMCA of Eastern Delaware CountyA YMCA located in Pennsylvania.Search exercise schedules, get new program information, see sports field closings and more! The YMCA app contains exercise schedules, aquatics schedules, programs & events information, and sports field status. EXERCISE SCHEDULES* Have a class in mind? Search class times based on your class name. Find a list of classes, instructors, descriptions, and locations.* Daily class schedules.AQUATICS SCHEDULES* Search water aerobics schedules based on class name, dates and more.PROGRAMS & EVENTS* See upcoming YMCA programs such as sports registrations, new classes, new videos and more.* Share this info via email with your friends and family.FACILITY STATUS* Need to know if a sports practice or game is canceled? The Field Status service gives you up to the minute status info.* Pool closed? Snow closures? We can tell you.* Get Push Notifications of practice and game cancellations.Our focus is to strengthen communities and we are committed to nurturing the potential in kids, promoting healthy living, and fostering a sense of social responsibility in all that we do.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.columbia.android.community.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.SET_TIME",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_GSERVICES",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_ASSISTED_GPS",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

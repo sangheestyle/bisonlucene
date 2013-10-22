@@ -1,0 +1,52 @@
+{
+  "title": "Meterbox iLDM",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cem.client.Meterbox.iLDM",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 19, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7",
+  "rating": "3.2857144",
+  "contentRating": "Medium Maturity",
+  "creator": "Meterbox",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cem.client.Meterbox.iLDM",
+  "extendedInfo": {
+    "installSize": "12M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Meterbox iLDM is the professional software for smart mobile which is for on-site & historical distance measurement and it needs to combine with Laser Distance Meter for proceeding to the measurement. (Model: iLDM-150 )1.User use camera function in Meterbox iLDM to take the measuring scene.2.The measured data from Laser Distance Meter can transfer to smart mobile via Bluetooth and display in the scene.3.User can mark the targeted distance to become on-site engineering blueprint with Meterbox iLDM App.With Meterbox iLDM, user can complete the blueprint drawing via mobile easily instead of pen & paper marking. It promotes the efficiency and quality of on-site measurement.For more information about the Meterbox iLDM and Laser Distance Meter (LDM)ï¼please visit our website: http://www.cem-instruments.com",
+    "reviews": [
+      {
+        "timestampMsec": "1370589739868",
+        "starRating": "5",
+        "title": "Haris Bajaber",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOEsQLEwj_i1AYNaq5Z7mBqoYsu-40fSIU3g8KuxlN7Ra4HoNwpctN2ojS71jilqfd6z_7jRq1vzPPesaEw",
+        "author": "haris vitto",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.DELETE_CACHE_FILES",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INSTALL_PACKAGES",
+      "android.permission.READ_OWNER_DATA",
+      "android.permission.CLEAR_APP_USER_DATA",
+      "android.permission.DELETE_PACKAGES",
+      "android.permission.FLASHLIGHT",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

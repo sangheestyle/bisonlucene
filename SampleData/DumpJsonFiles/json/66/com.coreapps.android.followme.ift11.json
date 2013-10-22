@@ -1,0 +1,41 @@
+{
+  "title": "IFT11 Annual Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ift11",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "June 10, 2011",
+  "version": "1.8.7",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ift11",
+  "extendedInfo": {
+    "installSize": "5.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The official application for the 2011 IFT Annual Meeting and Food Expo, June 11-14, 2011 in New Orleans, LA, USA.  Navigate the IFT11 event from the convenience of your smartphone.  Search scientific sessions and exhibitors, create your own show schedule, utilize interactive maps, find friends and keep up with event social media.",
+    "reviews": [
+      {
+        "documentVersion": "1.8.3",
+        "timestampMsec": "1306359016089",
+        "starRating": "5",
+        "comment": "Useful App. Recommended to work in motion without an internet connection. OMVE Laboratory and Pilot Equipment like it.",
+        "commentId": "lg:AOqpTOE_4RwUjzI7tDnkQvWNrmj_9-sXcyARZvCt86CuAljRl-GZss_BZCgrtz-N-uREaC4NqrBZEz6l8fwyI_g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

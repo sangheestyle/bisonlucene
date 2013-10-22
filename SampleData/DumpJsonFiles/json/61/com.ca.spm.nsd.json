@@ -1,0 +1,80 @@
+{
+  "title": "CA Nimsoft Service Desk",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ca.spm.nsd",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 5, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "CA Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ca.spm.nsd",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "CA Nimsoft Service Desk is a Software as a Service (SaaS) solution that enables effective and efficient management of IT Service Management related issues.This app allows business end users (or self-service users) to access their organizationâs CA Nimsoft Service Desk 7 environment from their mobile device. A user can view announcements and outages, review and approve assigned tasks, create a new ticket and attach a picture and location information, review their existing tickets including updates from support, call helpdesk and manage their system profile.This app requires access to CA Nimsoft Service Desk 7. All users regardless of application role will be logged in as self-service users and do not require a license.",
+    "reviews": [
+      {
+        "timestampMsec": "1375107450487",
+        "starRating": "5",
+        "title": "Awesome IT Service Management App by CA Technologies",
+        "comment": "With rich and enhanced features. !!!  Arun Jumwal",
+        "commentId": "gp:AOqpTOHQEjwTuCrbceNNDPYvcwyCBzhuowWFDSANhLTlrQEJPozHVldzDnvg0lCZGiHUU5f8e-hN2WD_kuFzeQ",
+        "author": "Abhishek Anand",
+        "authorURL": "http://lh5.googleusercontent.com/-85xjJFl7Omc/AAAAAAAAAAI/AAAAAAAAABQ/SNS7wQb3R5s/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-85xjJFl7Omc/AAAAAAAAAAI/AAAAAAAAABQ/SNS7wQb3R5s/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375194094419",
+        "starRating": "5",
+        "title": "Does the work for me",
+        "comment": "This app does what it is supposed to do, to perfection.",
+        "commentId": "gp:AOqpTOGI1lrxHb1SQCt2nLI703KWnPrVEfXOC-BClQp2snIwLkHUEIWhcbLw9c4L4JqU1bGgHkTXxlvDgTOyMQ",
+        "author": "Vinod Kumar",
+        "authorURL": "http://lh4.googleusercontent.com/-mGsmz8XZhrY/AAAAAAAAAAI/AAAAAAAAHAY/qNBKAHvk9DE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-mGsmz8XZhrY/AAAAAAAAAAI/AAAAAAAAHAY/qNBKAHvk9DE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375108251121",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "I love the interface and the features.",
+        "commentId": "gp:AOqpTOG9WTpiJyWhKXcluUscNEoPIX-j1XSsvhqHHD7Q8COmmVj65FmAwbgkE0L_6Fh3OD7kKy5-oMPlkJUfsg",
+        "author": "Ambarish Kayastha",
+        "authorURL": "http://lh3.googleusercontent.com/-lg4azF8-we0/AAAAAAAAAAI/AAAAAAAAATg/mpFXBnSnGSg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-lg4azF8-we0/AAAAAAAAAAI/AAAAAAAAATg/mpFXBnSnGSg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375106758953",
+        "starRating": "5",
+        "comment": "Excellent App!!!",
+        "commentId": "gp:AOqpTOF0fxZVw6-R3nzr1HeVvy25lnFOwAjh3wp3-FYOJm-0yUrad9zr5FtQcy3vijdJ-kE2TgfeGVX1R81lNA",
+        "author": "Satya Vamsi",
+        "authorURL": "http://lh5.googleusercontent.com/-fFuSIOL97so/AAAAAAAAAAI/AAAAAAAAAFI/VEPPaQGvwng/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-fFuSIOL97so/AAAAAAAAAAI/AAAAAAAAAFI/VEPPaQGvwng/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

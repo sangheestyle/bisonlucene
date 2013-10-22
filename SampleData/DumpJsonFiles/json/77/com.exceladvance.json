@@ -1,0 +1,44 @@
+{
+  "title": "Excel 2007 advanced Level 2",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exceladvance",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 19, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "6",
+  "rating": "4.3333335",
+  "contentRating": "High Maturity",
+  "creator": "Apps Book",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exceladvance",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Microsoft Office Excel 2007 provides many ways to secure and protect your work. For optimal security, you should protect your entire workbook file with a strong password. Excel passwords can be up to 255 letters, numbers, spaces, and symbols and are CaSe SeNsItIvE. For additional protection of data inside your workbook, you can protect specific worksheet or workbook elements, with or without a password. Protecting worksheet or workbook elements may help prevent users from accidentally or deliberately changing, moving, or deleting important data.In this Microsoft Excel 2007 Tutorial, I'll show you how to create a password to protect your workbook and how to protect some workbook elements. There are many Excel Tips and Tricks to guide to being an expert Excel user. I have other Excel Tips as part of my Microsoft Excel 2007 Tutorial series that I hope you find useful.WORKBOOK SECURITYTo provide security to your entire workbook, you can specify two separate passwords:Open and view the workbook. This is an encrypted password that prevents unauthorized access to your workbook. You can also give users the option to open in read-only mode if they are just viewing data. This can help prevent accidental changes from being saved.Modify the workbook. This is an unencrypted password that is only meant to give specific users permission to edit the workbook.These passwords apply to the entire workbook and they don't have to be the same password. In fact, it is much safer to use different passwords. To provide strong security, you may want to utilize both features. Speaking of strong, strong passwords combine uppercase and lowercase letters, numbers, and symbols. sweetheartone is not strong, but Sw33tH3ArT0nE is strong.To secure your workbook with a password:Click the Microsoft Office Button, then click Save As, then choose Excel Workbook. Yes, do this for an existing workbook.On the bottom left of the Save As dialog box, click the Tools button and choose General Options.To require users to enter a password upon opening the file, type a password in the Password to open box.To require users to enter a password that allows them to make and save changes, type a password in the Password to modify box.To protect from users accidentally modifying the file, select the Read-only recommended check box. Users will be asked whether or not they want to open the file as read-only. NOTE! If you created a Password to modify, the user, when prompted to enter this password, will have the option to open as read-only. Therefore, this option is not necessary when using Password to modify.Click OK.You'll be prompted to retype your passwords to confirm them. Click OK after confirming.Click the Save button.If this is an existing workbook and you're using the same file-name, you'll be prompted to click Yes to replace the existing workbook.",
+    "reviews": [
+      {
+        "timestampMsec": "1376912864323",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "I love. Coollll",
+        "commentId": "gp:AOqpTOHGSz5mDlyNIvXDyaXTgpqPhVerCaEdtx35BOkuuT-FUFZ3y7cFA81AyLr6apdQgAWqzhfNc3M2K7p99g",
+        "author": "Th\\304\\203\\314\\201ng \\304\\220\\306\\260\\314\\201c",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

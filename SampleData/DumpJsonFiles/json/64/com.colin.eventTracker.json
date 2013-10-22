@@ -1,0 +1,30 @@
+{
+  "title": "Event Tracker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.colin.eventTracker",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "November 29, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "CCampbell",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.colin.eventTracker",
+  "extendedInfo": {
+    "installSize": "12k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Ever wish you could store all your upcoming events where you could see them all at once? Now you can with Event Tracker. You input your event name and event date and save them to the app. You can then view all of the events on one screen. It not only shows you the name and date of the event, but it also tells you how many days until that day. Great for keeping birthdays, upcoming holidays, important due dates for school, and many many more dates in one convenient spot without the hassle of searching through a calendar or planner. Version 1.0",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "iWatch Howard County",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ithinqware.iWatchHowardCounty",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "March 8, 2013",
+  "version": "1.2",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "iThinQware, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ithinqware.iWatchHowardCounty",
+  "extendedInfo": {
+    "installSize": "696k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "You are the eyes and ears of your community. Your awareness of suspicious behaviors and activities and reporting it to the police can help solve crimes or prevent crimes. Send a text, Start A Chat Send an email Add Video Or Photos File a report Make a phone call, anonymously, or let us contact you.Call the Tip LineCall (410) 575-1753 and leave an anonymous Crime Tip. (totally anonymous )Send A Text MessageSend an anonymous text, start a live chat, or tell us how we can contact you about a crime.Send A Quick TipSend a quick tip and include up to three photos & video with text. (anonymous)Send Us A Complete TipThe most detail possible. Send a crime tip with photos, video, text, descriptions, suspect info, location and type of crime.",
+    "reviews": [
+      {
+        "timestampMsec": "1353364815202",
+        "starRating": "3",
+        "title": "Slow interface. Galaxy S II.",
+        "comment": "I doubt that you can submit anonymous tips. when you submit a tip the law enforcement officials will have your cellphone number. As I stated before, the application is laggy",
+        "commentId": "lg:AOqpTOEvRiZi0cs3VALRdX7pQWnS8QvlFgsKc-dI4Jwcnw0bG36yNnSFt5YhJ45SdbuWfOW0T6-Kgyk9app19g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353410917113",
+        "starRating": "3",
+        "title": "Great idea but slow interface",
+        "comment": "Takes a long time to load on my S3.",
+        "commentId": "lg:AOqpTOGGQxTeniHmWN9ai8wfaaJGqsi8IAic9qvzhD32-VdSoY15IOKPm6VhCntkj7_Hbw5MDefXBbmu-ZRZfg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

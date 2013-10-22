@@ -1,0 +1,56 @@
+{
+  "title": "Bigcommerce Admin App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.capacitywebsolutionspvtltd.bigcommerceadminapp",
+  "category": "Tools",
+  "price": "$10.00",
+  "datePublished": "August 7, 2013",
+  "version": "7.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Capacity Web Solutions Pvt Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.capacitywebsolutionspvtltd.bigcommerceadminapp",
+  "extendedInfo": {
+    "installSize": "330k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "BigCommerce Admin Mobile App is an easy tool to manage your BigCommerce Siteâs Store Orders from your Android mobile.It will give you almost every control on the Orders and that to, without any installation required between your Store Site and your Mobile.You will not require any installation of additional Extension in your BigCommerce Store to get connected with this App.However, you will be required to enable the API and note the API Token for the user to use it for Authentication purpose. (You can see the steps on how to enable the API for a User at the bottom.)You can always test this application by creating a Test BigCommerce store and first trying on it so that it becomes comfortable for you to use it in your main store.This app is a secured tool as all the information transferred between the Store and this App is done via the use of Big Commerceâs standard API. All the data transferred is in JSON form. You can always control the permission to access the data of your store by revoking the permissions of a user to use API by disabling it or control certain permissions for that user in the setting section of your Store.Actions that you would be able to perform on the Orders are as followed:â¢\tChange the Status of an Order from any to any.â¢\tCreate shipment of an Order. (Multiple shipment possible.)â¢\tYou can view the last created shipment with details like number of items shipped and address details.â¢\tRetrieve Order list in the paging manner. (20 Orders per page.)â¢\tRefresh the Order list at one go refresh button manually.â¢\tGet New Order Notifications. (Newly Added)An Orderâs Preview would provide every minute details about that Order like:â¢\tThe Ordered Items and its quantity.â¢\tBilling Details.â¢\tShipping Details.â¢\tOrders totals like Sub Total, Shipping Cost, Grand Total.You can fetch Orders on the following Status types:- â¢\tAll Orders.(Excluding deleted Orders)â¢\tIncomplete.â¢\tPending.â¢\tShipped.â¢\tPartially Shippedâ¢\tRefunded.â¢\tCancelled.â¢\tDeclined.â¢\tAwaiting Payment.â¢\tAwaiting Pickup.â¢\tAwaiting Shipment.â¢\tCompleted.â¢\tAwaiting Fulfillment.â¢\tManual Verification Required.You can fetch Orders using Following Order Information :- â¢\tBy Order IDâ¢\tBy First Name Of Customerâ¢\tBy Last Name Of Customerâ¢\tBy Min and Max Date Range Other Features includes:â¢\tNotification System. You will get a notification whenever a new Order is placed in the Store. The time for notification interval can be set from the setting section.â¢\tA very nice and easy listing of Orders containing important details like placement date, total payable amount, name of the customer, status of the Order and that too in the pagination manner.â¢\tA very light and a very good User Interface.â¢\tChange the Store at a single click. (Can be used for multiple Stores.)Steps to create a new STORE USER and API Token from in the Admin Panel:    1.\tFirst create a new USER        a.\tClick âUsersâ at right top of the Admin Panel.        b.\tClick âCreate a User Accountâ button.        c.\tProvide necessary details in the User Details Section.        d.\tSelect âUser Roleâ to âCustomâ of the Permission Section.        e.\tFrom the Sales Staff Permissions, just select two options:              1.\tManage Orders.              2.\tEdit Orders.   2.\tAt the bottom, there is an âEnable the APIâ option, select it.   3.\tYou will see 2 Text Boxes containing API Path and API Token.   4.\tNote down the âAPI Tokenâ and âUsernameâ to use it during authentication.Now, this API Username and API Token are to be entered in the Bigcommerce Admin Application along with the Store URL (for e.g. https://www.example.com and if you donât buy ssl certificate then your url will be like this, https://store-b37pq.mybigcommerce.com ) for Authentication.If you face any problem or if you come through any issue while using this app, you can always contact us so that our support team will help you.Please contact us on inquiry@capacitywebsolutions.com.",
+    "reviews": [
+      {
+        "timestampMsec": "1373983201217",
+        "starRating": "5",
+        "title": "Well worth it for all Big Commerce store",
+        "comment": "I bought the app and for one reason or another it didn\\'t work. Contacted the company and my problem was resolved within 24 hours. To top it up I didn\\'t like the display so they sent me a custom app with the way I like to see my orders. No the app is perfect and does everything I need. Brilliant company to do Business with and I will highly recommend them.  from Parrot Essentials.",
+        "commentId": "gp:AOqpTOFUYO1kEHB7F5gqAR5LiddC80H6uJI2iyJ8MfunjaCW7DKpYteZhUcNhm6ubzKb38Kz_JOe9F8SApBme3s",
+        "author": "Anguel Iordanov",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372755776361",
+        "starRating": "5",
+        "title": "Great bigcommerce admin app",
+        "comment": "Great Bigcommerce admin app for checking store all the orders details with mobile.All the steps explained clearly into Description so followed it. Easy to install and configure. Wow get my store new placed orders notification immediately. Recommend all the bigcommerce store owner.",
+        "commentId": "gp:AOqpTOHaU7h4dUPLoCUxtQ1vUF08tNaPtslh7cpyGpO3aBRAj1g7cQFqpo7ruGOpkatJ6vP_J_Zon7uvWZxArmo",
+        "author": "Sanjay Khunt",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373150101444",
+        "starRating": "5",
+        "title": "Amazing All in One! ! Convenient! !",
+        "comment": "We recently open an online store with Big Commerce which let me tell you has been going great! Better then we expected! Recently I\\'ve been going back an forth using my phone when I\\'m away from a computer which really became a hassle having to open the browser and log into the website every time an order came in! But now with this app it notifies me when an order comes through and just opening the app and seeall the information there is just awesome! Really am Satisfied!!",
+        "commentId": "gp:AOqpTOG8_dbV5dINfazGnPIWkepP6a2rYnqSfwIP-Z102v5TQ-Uz60mMy2EMi83Cq5713wC7pOOM4BJBl8acLe8",
+        "author": "Jhonathan Rodriguez",
+        "authorURL": "http://lh4.googleusercontent.com/-J_Deifz0sQ4/AAAAAAAAAAI/AAAAAAAAAUM/iQCRXmo5ptg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-J_Deifz0sQ4/AAAAAAAAAAI/AAAAAAAAAUM/iQCRXmo5ptg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

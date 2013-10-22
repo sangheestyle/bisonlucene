@@ -1,0 +1,37 @@
+{
+  "title": "Sydney Official Guide",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dnsw.spp.sydney",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "November 12, 2012",
+  "version": "1.2",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Destination NSW",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dnsw.spp.sydney",
+  "extendedInfo": {
+    "installSize": "27M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Sydney is one of the most beautiful destinations on the planet. Its natural surroundings and stunning harbour make it one of the most vibrant and desirable places to visit in Australia and the world.  Make your Sydney experience unforgettable, with the official app from sydney.com. Explore exciting things to do, where to stay and events, must-do dining and entertainment, shopping and nightlife, nature, beaches and family experiences â all in real-time - with images, contact details and interactive maps.You can book accommodation, get great deals and explore points of interest and facilities.Save your favourites or build your own itinerary, to view offline. Plus you can check-in while in Sydney to share your travel experiences with your friends. â¨â¨As well as information on transport, weather and currency conversion, the app has links to Visitor Information Centres that provide all your travel information needs when you are in Sydney.Â â¨â¨We are sure you will love planning your trip to and getting around in Sydney with this easy-to-use travel app.Included features & functions:*  Travel directory of great things to do*  Information and images on all Sydney regions*  Up-to-date events listings*  Mobile booking*  My Favourites and My Itinerary*  Current Weather*  Currency converter*  Services and facilities maps*  Over 3,000 accommodation, events, restaurants, tours and hire listings â¨",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

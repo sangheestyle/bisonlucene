@@ -1,0 +1,51 @@
+{
+  "title": "Financial Chronicle",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dc.fcapp.view",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "March 20, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "Deccan Chronicle Holdings Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dc.fcapp.view",
+  "extendedInfo": {
+    "installSize": "561k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Financial Chronicle (FC), from the Hyderabad-based Deccan Chronicle Holdings Ltd was launched on 16th  April, 2008, by Indiaâs youngest team of media professionals, and in the shortest-ever run-up for a newspaper. Financial Chronicle (FC) is the flagship of a proposed multi-brand platform in the business journalism space from Deccan Chronicle Holdings Ltd, focusing on the various sectors of Indian economy. It is positioned to aid high net worth individuals in taking investment decisions.The multiple platforms of FC have been crafted to target specific audience communities to deliver information on sectors based on their economic weightage and investment flows since opening up of the Indian economy in 1991.Financial Chronicle also launched its website www.mydigitalfc.com , in the same year, designed as Indiaâs first business networking platform.Financial Chronicleâs Android App provides you an opportunity to avail the newspaperâs complete insight and also continuously updated articles. This app brings the news paper and its content one step closer to the users enabling them to personalize and share their favorite news articles and read it from anywhere for free.FEATURESâ¢\tAll content available for free.â¢\tTop News: Latest Financial news as and when they occur from all over the world.â¢\tMy Money: Mutual Funds, Insurance, Banking and Real Estate news.â¢\tMy Stocks: News from Stock Market, derivatives and Commodities segments.â¢\tMy Brands: Brands, Companies, Products, Advertising and Consumer related news.â¢\tMy World: Governance, Policies, Economy and Politics newsâ¢\tMy Space: Careers, Opportunities, Enterprises, Knowledge and Technology updates.â¢\tMy Mind: Editorial, Op-Ed, Columnsâ¢\tFC Supplements: FC Invest, FC Know, FC Build and FC Roar. â¢\tFC Weekend: Special pullout from Print edition on every Saturday.â¢\tShare: Users can share their favorite stories and pictures through mail, facebook and twitter.â¢\tComment: Users can post comments for any and every story.â¢\tBreaking news: Get Breaking news and other alerts from Financial Chronicle via push notification.â¢\tIncorporated in News Stand App.â¢\tSimple and easy navigation.",
+    "reviews": [
+      {
+        "timestampMsec": "1363841260909",
+        "starRating": "5",
+        "title": "Very good app",
+        "comment": "Nice app",
+        "commentId": "gp:AOqpTOHpEt9Tr0BDIk8ybzQ8ydGlWnnnVboj5i6pSKmDAirWDdu1KImADKtdTm-6njM8nnQUEgRS84ECMV83n8w",
+        "author": "Babu P",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368942341775",
+        "starRating": "2",
+        "title": "Bug fix",
+        "comment": "Please fix the bug for android otherwise its good. Its good if make seperate app for tabs",
+        "commentId": "gp:AOqpTOFk7vDd6EERlHB6zdwC506dw1tiam51HLTWlecxv2cDaKRd4lUNNlTi5v9lj9UCzt9FxiYK1UP6zgFYTZA",
+        "author": "Anand Kumar",
+        "authorURL": "http://lh6.googleusercontent.com/-K41djSSYnE0/AAAAAAAAAAI/AAAAAAAAAG4/LED2NSBmqBs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-K41djSSYnE0/AAAAAAAAAAI/AAAAAAAAAG4/LED2NSBmqBs/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.dc.dcapp.view.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

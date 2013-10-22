@@ -1,0 +1,51 @@
+{
+  "title": "eGPS Altitude",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.egpsapp.egpsaltitude",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 22, 2012",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Exetik Systems",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.egpsapp.egpsaltitude",
+  "extendedInfo": {
+    "installSize": "209k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "eGPS Altitude has greatly improved altitude and elevation readings. In a typical Android GPS, altitude readings are notoriously inaccurate. eGPS Elevation will even show how deep is the nearest water area. !!!Works with GPS feature turned off!!! eGPS Altitude will come in handy for any fan of outdoor activities such as hiking, cycling, camping or any location-based social networking activities. It also uses the most advanced map technology to give you precise directions and pinpoint your destination address down to the zip code. Anyone who has ever found themselves on a road trip in an unfamiliar city will be able to appreciate the ability to receive such accurate directions whenever they want to find a restaurant, gas station or hotel. eGPS Elevation app is sure to please fans of our eGPS Lite. Like the eGPS Lite, this app has all the GPS capabilities you could ask for and shows your destination or location down to the latitude and longitude, speed and heading. The biggest difference between this app and the eGPS Lite is that this app has greatly improved altitude and elevation readings. In a typical Android GPS, altitude readings are notoriously inaccurate. People don't always think about things such as altitude and elevation when they are deciding on where they want to go when they travel, but it is a bigger factor that many realize. High altitude can have an effect on a person's health if he isn't used to it. The thinner air can result in issues such as shallower breathing, insomnia and decreased appetite. These are by no means severe, but they can be bothersome. Knowing a location's real altitude and real elevation can indeed come in handy, and with this app you can be sure that your GPS altitude and GPS Altitude will be far more accurate than what can be found on any other Android GPS app on the market. Just touch any part of the map screen on the app's easy-to-read interface to know the exact altitude and elevation of that location.",
+    "reviews": [
+      {
+        "timestampMsec": "1365813143160",
+        "starRating": "3",
+        "title": "HTC EVO lte",
+        "comment": "App is ok, but I think is stupid to put 3 or 4 apps on the market that are in fact just one app. Don\\'t be greedy!",
+        "commentId": "gp:AOqpTOH8lUsNFaQ1hOpuwYuTrmYB8DN_dSv33Y9dY02J10M1hOMe4D848SS4n47Lvh8KT1u0HC4w3jfbHsAY1A",
+        "author": "Daniel Rosetti",
+        "authorURL": "http://lh4.googleusercontent.com/-VetlJfUdwGo/AAAAAAAAAAI/AAAAAAAAAAA/WdVv_JkvfTY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-VetlJfUdwGo/AAAAAAAAAAI/AAAAAAAAAAA/WdVv_JkvfTY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365558864074",
+        "starRating": "1",
+        "title": "No stars.......",
+        "comment": "This app worked exactly like it\\'s not supposed to.... It was very inaccurate.",
+        "commentId": "gp:AOqpTOEGGgzfYDkTAbu6pt7jV6zXxlYYq-5vk82ap5n3sMyIX9f4mb5yFV7iSJjV_SmeLmNOFEKxCW0A4wyX1g",
+        "author": "Chris Wilson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

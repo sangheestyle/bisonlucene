@@ -1,0 +1,47 @@
+{
+  "title": "Time's up",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eliasneyra.presupuesto",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 25, 2012",
+  "version": "1.2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "18",
+  "rating": "3.8888888",
+  "contentRating": "Everyone",
+  "creator": "App Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eliasneyra.presupuesto",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Time's UpComing Soon: Data Limiting and Usage (3g,4g,edge)IntroductionWelcome to Timeâs Up the application that will allow you to control your cell phone usage!Donât be caught out on excessive per minute charges on your outgoing calls or crossing your message limits. Now with programmed alerts you can stick to your plan without nasty end of the month surcharges.SettingsAccount profile* Cut Off day according to your plan* Configure your data limits according to your phone plan.Telephone Plan* Configure your free minute quota according to your phone plan.* Configure your free message quota* Configure your cost per extra minute according to your plan* Configure your cost per extra message according to your planTop Numbers* Configure your free minutes* Configure your personalized alarm limit* Configure your personalized alarm sound* Choose your free numbers from your phone agendaGraphsSee your phone usage in a different presentation.* Accumulative* Show limits* Show preventive limits* Change Scale to suit visualization* Turn visibility on/off for Message/CallsUsage* Check your used time* Check your remaining time* Check your Extra Minute Cost* Call Log detail* Consult your total call time to your top numbers* Check your message usageExportEnter your email address to export your phone usage to another application. * Great for monitoring.* Corporate Accounting* CSV Format* Option to remember Email AddressTime's upApp Creator 24th June 2012\t      \tElias Neyra, Marvin Govinden.keywords: timeÂ´s up, times up, phone plan control, call timer, sms control, phone usage, limit call, voice timing, save money.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1371969663871",
+        "starRating": "4",
+        "title": "Add support to differentiate between dual sim phones",
+        "comment": "Exactly what I was looking for. 1.Add support for dual sim phones so that it can understand from which som the call wad made. 2. Add currency symbol of different countries",
+        "commentId": "gp:AOqpTOFh9oxrkwo54Z6F_5qSMIktYHJkbM-MKq8XfY2D8t55qfYsB6tioXQg-QZ_gGcGWzO1gdua4WXyu7NKE0M",
+        "author": "Ganesh Pathi",
+        "authorURL": "http://lh4.googleusercontent.com/-SEAdt4Tg6HQ/AAAAAAAAAAI/AAAAAAAAABQ/6xfaqfJQY94/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-SEAdt4Tg6HQ/AAAAAAAAAAI/AAAAAAAAABQ/6xfaqfJQY94/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_SMS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.MODIFY_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

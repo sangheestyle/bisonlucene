@@ -1,0 +1,63 @@
+{
+  "title": "Turn It",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.castillo.spin",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "November 10, 2011",
+  "version": "3.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "86",
+  "rating": "3.7906976",
+  "contentRating": "Everyone",
+  "creator": "Antonio Castillo Lopez",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.castillo.spin",
+  "extendedInfo": {
+    "installSize": "243k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Turn it to put your mobile in silence and/or to stop data transfer! This application uses the accelerometer to determine the rotation of your mobile and then do the actions: put the cell phone and/or stop the data transfer. Every time you put it face down will act in one way or another doing the actions you decide, and the actions will be undo when you put the mobile face up. To start this service add a widget on your desktop and activate it. Remember if you don't check any checkbox ,no action will be done. You can decide whether to start service at boot, that is, when you turn on the device.It is completely free and has no banners or any type of advertising! Also if you  think about any other action that may be helpful with this gesture, please contact me via email and we will discuss about it.",
+    "reviews": [
+      {
+        "timestampMsec": "1300724486282",
+        "starRating": "3",
+        "title": "I have an Update idea",
+        "comment": "I like this tool but on my x10 mini pro, when I turn the phone it went to silent mode. I suggest to updete this wiget to work only when theri is incoming call or alarm. I noticed that many times my phone thinks that I have turned it when I walk or drive. I woud like to tave the choise when to turn silent on - when there is call or every time. This is only suggestion the wiget i good.",
+        "commentId": "lg:AOqpTOESoeU_6rFizud1hVSiXWFE_ifNsLmjKCbl1BYee-HG1V8IC0nV7e5CI9B9SNJF5JAoS3sIoYf39ht5xw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1299892337010",
+        "starRating": "3",
+        "comment": "Love the idea. Can\\'t get it to work",
+        "commentId": "lg:AOqpTOFnB107Up3C--75CObD0lCyoCqsD6pDvD1vHk-NWb8DIceC-XR_CJi2t20r9rObLUf7EMNJBTsW7eIg3A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1299496124457",
+        "starRating": "3",
+        "comment": "I love the idea, but it drains my battery...",
+        "commentId": "lg:AOqpTOHkUGmj7U7uVfdeWa2jQwTiUkPZUVhaRstXkCL8meKDBo643C0ZBJwnz5hLqnVH4v1zS4CDrPS6avddxg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1297234985035",
+        "starRating": "1",
+        "comment": "Does\\'t work on galaxy 3.",
+        "commentId": "lg:AOqpTOH5ThSD1IM0EZh8BzsHhDH07tNXXbY1Fb2So6pFcnIuW-bHUVQccTFeuSrjSIOO7O914lb5InoKx2K-wA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.MODIFY_PHONE_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_SECURE_SETTINGS"
+    ]
+  }
+}

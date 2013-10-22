@@ -1,0 +1,35 @@
+{
+  "title": "AACE Annual Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_aace11",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 14, 2011",
+  "version": "1.8.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_aace11",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The AACE Annual Meeting offers attendees the opportunity to hear expert lectures and participate in interactive discussions through a variety of educational sessions and symposia, an exhibition hall with 70+ companies and organizations sharing how their products and services can help attendees better serve their patients, a variety of networking and social events where AACE members and all attendees can meet new people and also catch up with colleagues and old friends.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

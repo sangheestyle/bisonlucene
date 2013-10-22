@@ -1,0 +1,45 @@
+{
+  "title": "iDigi XBee Garage Door",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.digi.garagedoor",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "March 7, 2012",
+  "version": "1.0.1",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "5",
+  "rating": "3.2",
+  "contentRating": "Everyone",
+  "creator": "Digi International, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.digi.garagedoor",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The iDigi XBee Garage Door opener allows you to monitor and control your automatic garage door lift from your Android device.  Best of all, you can build it and install it yourself by using a Digi XBee module, a little bit of open-source hardware, and a connection to the free iDigi Device Cloud.All the project details can be found at http://jordan.husney.com/xbee_garage_door",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1339385112716",
+        "starRating": "5",
+        "title": "Xbee garage door opener",
+        "comment": "I love this app.  Thanks Jordan!",
+        "commentId": "lg:AOqpTOGIZ78WvU9kMbUypUfjqaLJ3oNIyu-KXb6ls-oqE7SCAMJ3M6fv3_y2JJSKLbfCmwwJGWZvzWZhJaan3Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346373806141",
+        "starRating": "1",
+        "title": "No",
+        "comment": "Terrible app",
+        "commentId": "lg:AOqpTOFFzBksr3OUVbqasx-YeicyJYjPMD4nxQFOVu-9GGJxUtYige7NZiRIQ9yu6pQ-M8lFVDQte7bQyjVfzw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Doboki Job Board",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doboki",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "September 20, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Chava Media",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doboki",
+  "extendedInfo": {
+    "installSize": "18k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is a beta version. Please report any bugs you may encounter to team@doboki.org. As an alternate way to post and find jobs try http://m.doboki.org.Doboki is a innovative job search and posting website. Doboki allows everyday people to help others with a simple job lead post. How it works:You are out running your errands, like you always do. While out and about you see a now hiring sign at a local coffee shop.There are 3 options -Option One: You get out your mobile device and go to doboki.org and post the job you see. (if you are an android user you can download the app for quick access)Option Two: You write down the lead on a napkin or whatever is near by and post the lead on doboki.org when you get to a computer.Option Three: You do nothing and miss out on a opportunity to help others.",
+    "reviews": [
+      {
+        "timestampMsec": "1316569836431",
+        "starRating": "5",
+        "title": "WOW!",
+        "comment": "Best idea ever. Wonderful. Super fabulous.",
+        "commentId": "lg:AOqpTOFgXDkBdlBwwhcNnUth4B6hrV9LJ1cTuogxqKqPPvD-a_FvLs3j2b_i4uJkj5ovOtbZKPywj0PuGvvxkA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_ASSISTED_GPS",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_MOCK_LOCATION"
+    ]
+  }
+}

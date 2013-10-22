@@ -1,0 +1,34 @@
+{
+  "title": "Deal Organizer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dealorganizer",
+  "category": "Shopping",
+  "price": "$0.99",
+  "datePublished": "February 20, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Mobyle Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dealorganizer",
+  "extendedInfo": {
+    "installSize": "137k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Deal Organizer by Mobyle Apps was developed to keep track of expiring deals.We've missed deals purchased on sites like Groupon and Living Social many times. That's the idea behind this application. Enter your purchased deals into the application and set the expiration date, you can then be notified days before the deal expires to ensure you have time to use it!There are default deal sites entered but you can add new sites to the list. Unlimited number of deal sites and deals to track.Once you've used the deal, mark them expired to be removed from the deals list.Please if you are experiencing problems send us an email before entering a bad rating. We can't respond to market ratings and comments but can respond to your emails. We will work with you to get it fixed!!Application permissions are set to open up deal sites (INTERNET), notifications (VIBRATE) and to check for notifications when the device boots so we don't miss a notification (RECEIVE_BOOT_COMPLETE)More features to come, please let us know what you would like to see added!Keywords:deal tracking, deal organizer, online deal sites, groupon, living social, tippr, eversave",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

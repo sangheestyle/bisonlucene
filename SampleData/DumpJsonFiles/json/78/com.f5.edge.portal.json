@@ -1,0 +1,180 @@
+{
+  "title": "F5 BIG-IP Edge Portal",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.f5.edge.portal",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 1, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "40",
+  "rating": "3.6",
+  "contentRating": "Everyone",
+  "creator": "F5 Networks Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.f5.edge.portal",
+  "extendedInfo": {
+    "installSize": "409k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The BIG-IP Edge Portalâ¢ application facilitates secure remote access to enterprise web applications. This application can bookmark frequently accessed enterprise web applications and automatically authenticate the end-user with BIG-IP Edge Gatewayâ¢ and FirePassâ¢ SSL VPN solutions. This application does not provide layer 3 access to corporate resources, but instead provides a layer 7 content rewrite proxy and bookmarks for access to corporate protected web applications.  This application can use a PIN to lock access to the Android device if enabled by your remote administrator.REQUIREMENTS:BIG-IP Edge Gatewayâ¢ or FirePassâ¢ must be configured to allow Portal / Web Application access (HTML content rewrite).Deployment guides and solutions are available at http://support.f5.com under the BIG-IP APM and FirePass product manual sections.Please check with your Help Desk or Corporate IT department to be sure your deployment is ready for BIG-IP Edge Portal.    NOTE: please refer to the Edge Portal help page for instructions for uninstalling the application.BEFORE YOU DOWNLOAD OR USE THIS APPLICATION YOU MUST AGREE TO THE EULA HERE: http://www.f5.com/apps/android-help-portal/eula.htmlBEFORE YOU CONTACT F5 SUPPORT, PLEASE SEE: http://support.f5.com/kb/en-us/solutions/public/2000/600/sol2633.html",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1326919082983",
+        "starRating": "5",
+        "title": "mytouch 4g over wifi",
+        "comment": "Tested &  works.   Been waiting for this, thanks F5!",
+        "commentId": "lg:AOqpTOEga7hgjRV_j8-CAsQpRH179pwLw_Fn--5UIxqyJNZqfpx5oLpo1WQvscPPyDC2mMMIS4WXrJTd0Vx3Rw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1320553910125",
+        "starRating": "3",
+        "title": "uninstaller",
+        "comment": "the uninstall direction are easy to find but should be included as a pop or something during the install so people know this up front.  now that i was able to uninstall the app i would rate 3 stars instead of 1. it did not work for my means.",
+        "commentId": "lg:AOqpTOEXGfflBLmGsRxBqySTkKeLp1-0ZLmPfYZGsZBU91MySY-eZt4BmihELziY-gVukx-Zj0o5yXBrALpzbQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1305791698243",
+        "starRating": "5",
+        "title": "Works as expected!",
+        "comment": "I was able to access my company\\'s intranet within minutes after installation. Home screen shortcuts are extremely useful. Uninstallation is quite easy as described in the app help. Just go \\\"Applications -> Settings -> Location and security -> Select device administrators\\\" and disable BIG-IP Edge Portal before uninstalling.",
+        "commentId": "lg:AOqpTOH5j5aGBpT_WjfQPxQ0X53_NLI2f8VwlgwXgEs01iQD9NRJwtZICGumW10LJSyIWZxzfX7rno_O0P1veg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1301431463488",
+        "starRating": "4",
+        "title": "Works as stated",
+        "comment": "Just install this to test on a device. It does what it says it does. There is no network connection as the F5 Edge Client, but you can access intranet web apps You have to remove the administrative privileges prior to uninstalling.",
+        "commentId": "lg:AOqpTOGhZePfqIHSP85-qpVuxUhoKXBmwJr5RoQqLOwNN9IbyHs2aOMQnSzyWrl9NiDQ1ljdoIZS9EehNVN-TQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1317698812635",
+        "starRating": "5",
+        "title": "Great App!",
+        "comment": "My IT dept. told me they didn\\'t know of a way for my Android phone to connect to our VPN...and we even use F5 as our desktop VPN connection solution.",
+        "commentId": "lg:AOqpTOGOlkBBp13vuDD_2ZIk21_MaJvf3eVfauwFcYW-ooK93R4I_WnOGGd_ifyBNG-vZRoME6GTfLu8EpViMA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1305088233934",
+        "starRating": "2",
+        "comment": "Functional but very painful to use and forbids using pattern lock.",
+        "commentId": "lg:AOqpTOEiKvHk16lOpjKq4JaMdajbb23bF1MHKuh7ztPe5ZGaGNMSDWPfJb7vOhaF51-e9nwNd2Fp2TN7ZEDa_A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1306720080814",
+        "starRating": "1",
+        "comment": "I want to give ZERO stars but cannot. If you cannot make a properly uninstallable app how to trust on the security part? (Nexus One)",
+        "commentId": "lg:AOqpTOFV5wjCgyf48oL8cZ9VY1ibs-PRLd2IUlQ2hJdZszpcxXYekRDBFeqe9eiAAPF-cvogXyvo7HMniZ3dlw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1316556013219",
+        "starRating": "1",
+        "title": "Getting Device not supported",
+        "comment": "On Froyo 7.1 from XD Android on my Rhodium.",
+        "commentId": "lg:AOqpTOGBPXJ0CMmXvDtEHGzgb6AFUjxBK2F_JHzF1kUJJwAPHp0tLWTQUK2Rb8ehIUi5xvJKTSWgVZLlgVTDbw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1318653176212",
+        "starRating": "5",
+        "title": "Great tool",
+        "comment": "Finally......",
+        "commentId": "lg:AOqpTOHBd6iXLpvexEJh_Uwb7Cc5uzXnX7sbbApLVk6FbJb7vPjV2jAcwfQMgv2vo1yl5CPA-EAlMMWStoNy1A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1318546700568",
+        "starRating": "1",
+        "title": "Cannot Uninstall",
+        "comment": "The developer needs to support Uninstall capability. I give it 1 star because as you read comments they are not reactive to solve customer complaints.",
+        "commentId": "lg:AOqpTOHUOIEGLfViDk8IX2iuYArn2JsyD4Xrdf6JdCbNeGtnlLqcktCVL33gfBeUP1sj_a_XvggR9NKUMJrUbA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1306431377988",
+        "starRating": "1",
+        "comment": "Fail! Cannot uninstall. Fix this now! Droid Incredible.",
+        "commentId": "lg:AOqpTOEnEkUaXwsCDZdbAYeYSC-quR_e05JFnbJSHDBpoSX4x9n2l295Ec3f4E8rlEydPwPPtmv4HlYrYFXCZQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1298499108653",
+        "starRating": "1",
+        "title": "It doesn\\'t uninstall!",
+        "comment": "Per title.",
+        "commentId": "lg:AOqpTOH1LsRA1ujuXj9ysgFfseQ5YC96_QCn5mHAMaY0RfyQfhpXcFDD-U1v1stJIpAzBHZcldgAbvKtxkNDjQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1312861760318",
+        "starRating": "5",
+        "comment": "It will uninstall just fine. You need to remove it as an administrator first. Go to settings, location and security, select device administrators.",
+        "commentId": "lg:AOqpTOEEbjj3Exa5SXVusKllpedjfgbxgxmnI6rDeZJFdFDz1GgW5twX4xUK_M1dDi7SHmsF5N2jAWYPt2wRNQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1298577750125",
+        "starRating": "1",
+        "comment": "Do not install as ot does not want to uninstall",
+        "commentId": "lg:AOqpTOHMQe3uVQdDo8vy5nr4IOCzq0-ElZbZrAc4hhbnSWtIp8D5s5HM_YCeJhDwM9W1TXOf_ounwNfkMkn1yg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1314680548704",
+        "starRating": "5",
+        "title": "Eggscellent!",
+        "comment": "Can read my work email on the go",
+        "commentId": "lg:AOqpTOGXr-1CQwAnKTJ6w2t8tDGGAwnzENkS6h0RwE-aBORorwlE0Ls4fM6xHl9BRMGzHPvcl076PYPRX7jufw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_LOGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "com.f5.edge.permission.RECEIVE_DEVICE_ADMIN_STATUS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

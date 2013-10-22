@@ -1,0 +1,53 @@
+{
+  "title": "119th Annual IACP Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.iacp2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "September 23, 2012",
+  "version": "3.5.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.iacp2012",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The International Association of Chiefs of Police has a long reputation for providing top-notch education on the most pressing law enforcement topics of the day. This year, IACP 2012 is your best opportunity to learn, network, and problem solve at a one-of-a-kind event dedicated specifically to law enforcement professionals.The IACP 2012 App proudly presented by âFollow Meâ, by Core- Apps, is the official mobile app for the 119th Annual International Association of Chiefs of Police Conference and Exhibition.You can build your schedule online at www.THEIACPCONFERNCE.org or directly on your mobile device. With the IACP 2012 App, you can sync your online schedule with your mobile device and have it at your fingertips throughout the conference. This year you can also rate workshops as well as take notes in workshops, meetings, and while you meet with vendors on the show floor.Features include:â¢\tThe Dashboard â Stay organized with up-to-the-minute exhibitor, speaker, and event informationâ¢\tMy Schedule â Plan your schedule with one click. Take notes and rate workshops you attend. â¢\tMaps â Navigate the convention center and use the interactive Exhibit Hall map to help you navigate the show floorâ¢\tWorkshops, Meetings & Events â Access a complete list of workshops, meetings, and networking events. â¢\tDaily Resources/General Info â View everything you need from Registration Hours to Connection Zone locations. See services available for delegates and exhibitors.â¢\tAlerts â Receive important real-time communications from IACP Staffâ¢\tTwitter â Follow and join in on the show chatter.â¢\tBlog â Read the latest blog posts from IACP staff, board members, and your fellow attendees. â¢\tExhibitors â Locate Exhibitors, read company descriptions, and bookmark your favorite exhibitors to visit, and take notes for future reference.Having trouble with your app on-site? Visit one of five Connection Zones in the San Diego Convention Center.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.iacp2012.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

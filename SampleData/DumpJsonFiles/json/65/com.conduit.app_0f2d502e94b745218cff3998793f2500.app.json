@@ -1,0 +1,47 @@
+{
+  "title": "Open Briefing",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_0f2d502e94b745218cff3998793f2500.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "July 3, 2013",
+  "version": "1.12.15.4371",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Open Briefing",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_0f2d502e94b745218cff3998793f2500.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Open Briefing is the worldâs first civil society intelligence agency; a collaborative platform for insight and analysis of key defence, security and foreign policy issues.Our international network of analysts provides impartial intelligence and security briefings, so that better informed citizens and civil society organisations can more effectively engage in peace and security debates and influence positive policy developments in these areas.The Open Briefing app gives you free access to our intelligence feed, podcast, library, video and social networks.",
+    "reviews": [
+      {
+        "documentVersion": "5.5.1729",
+        "timestampMsec": "1319917551786",
+        "starRating": "3",
+        "title": "Decent",
+        "comment": "Needs to stay a bit more current, but reports and analysis are good, especially those sourced from Stratfor, which really needs its own app.",
+        "commentId": "lg:AOqpTOHTnMDdNlt1MZBaHMciZTGVDk98MaBEF0lYi9zzS3FzQxYsknSn6bhunKoGlN5hT1RZYLhjhriF3xavCA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_0f2d502e94b745218cff3998793f2500.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

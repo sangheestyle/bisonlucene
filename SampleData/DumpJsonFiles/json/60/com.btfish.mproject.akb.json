@@ -1,0 +1,33 @@
+{
+  "title": "AKB Pretty Cawaii",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.btfish.mproject.akb",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "April 20, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "24",
+  "rating": "3.8333333",
+  "contentRating": "Everyone",
+  "creator": "GraceTactics",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.btfish.mproject.akb",
+  "extendedInfo": {
+    "installSize": "220k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This is a app about the top idol group AKB48 in Japan.We collect the news of AKB48, SKE48, NMB48, HKT48 and JKT48.Please enjoy it.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.btfish.mproject.akb.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

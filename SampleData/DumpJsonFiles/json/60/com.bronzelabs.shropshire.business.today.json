@@ -1,0 +1,48 @@
+{
+  "title": "The Shropshire A.R. Project",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bronzelabs.shropshire.business.today",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "November 7, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "7",
+  "rating": "4.428571",
+  "contentRating": "Low Maturity",
+  "creator": "Bronze Software Labs Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bronzelabs.shropshire.business.today",
+  "extendedInfo": {
+    "installSize": "7.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome to Looking Glass from Bronze Labs.Weâve given up to 40 businesses an opportunity to advertise their logos to a readership of 18,000 in Shropshireâs first 3D Mobile Augmented Reality marketing experience.Hold your device over the Bronze Shropshire AR advert in issue five of Shropshire Business Today or a Â£5 bank note.------------------------------------------What is AR (Augmented Reality)?Augmented reality (AR) is a live, direct or indirect, view of a physical, real-world environment whose elements are augmented by computer-generated sensory input such as sound, video, graphics or GPS data.It is related to a more general concept called mediated reality, in which a view of reality is modified (possibly even diminished rather than augmented) by a computer. As a result, the technology functions by enhancing oneâs current perception of reality.With the help of advanced AR technology (e.g. adding computer vision and object recognition through mobile devices) the information about the surrounding real world of the user becomes interactive and digitally manipulable.At Bronze we are using the latest image tracking and MVS (mobile visual search) technology to deliver bespoke virtual models, images and videos direct to the users device. It is very important to find the best use of AR with your brand, we can advise and develop a digital strategy to see whether AR technology is right for them.For more information email us (ar@bronzelabs.co.uk) for a demo of our AR mobile Apps.We think this article provides a great insight into the possibilities of Augmented Reality Advertising:Â http://mashable.com/2012/06/11/augmented-reality-marketing-brand/Hereâs an link to some basic demonstrations to how Augmented Reality can be used: https://vimeo.com/bronzelabs",
+    "reviews": [
+      {
+        "timestampMsec": "1352295304313",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "I have a \\302\\2435 note here and nothing happens...",
+        "commentId": "lg:AOqpTOFK0sOHXTto_ibC9n_eZTxsl5Wr4NBxiSjJC3iuVIVIFEfffCW-MMznJ_e3BzBWTfEHYAgIdSrV7oZb8Io",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352876047372",
+        "starRating": "5",
+        "title": "Excellent !!!!",
+        "comment": "This is an amazing concept for advertising",
+        "commentId": "lg:AOqpTOHkP-SiSFR9o-CYZpaReftRFwXygU7s5Ghe_x0xD14yWin-zch3pOxyBQxis9cA0CJewV4LgSTWeWnIKik",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

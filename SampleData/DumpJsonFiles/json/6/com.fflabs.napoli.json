@@ -1,0 +1,39 @@
+{
+  "title": "NApoli",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fflabs.napoli",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "December 30, 2011",
+  "version": "2.0.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "26",
+  "rating": "3.8076923",
+  "contentRating": "Low Maturity",
+  "creator": "FF labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fflabs.napoli",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This Application is dedicated to the city of Naples, keeps you updated on the latest news, provides information on public transports (ANM bus) and trains (trenitalia), weather forecast, information on better restaurants, bars, pubs, hotels, and much more.This is very useful for those who live in Florence and all the tourists that looking for the city guide.Main Features: - Local news (Google News, Twitter, Repubblica, Flickr, tutto Napoli, etc.)- City Map with top attractions  (cooming soon)- Information on restaurants, bars, pubs and hotels in Torino.- Public Transport (ANM, metro(underground) Trenitalia)- Local Weather- Travel Info (main sights, history, geography, climate)- Most useful Link",
+    "reviews": [
+      {
+        "documentVersion": "2.0.3",
+        "timestampMsec": "1325616311602",
+        "starRating": "1",
+        "comment": "Worthless",
+        "commentId": "lg:AOqpTOEfkDWgdU-rWiZYpnrQv1oLySb81i8upmErotoa5dBdP9muBnN-k8wcT4-3U6FT-kaYoeLo7T3jHfAJtA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

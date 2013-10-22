@@ -1,0 +1,35 @@
+{
+  "title": "WiFi Crowd",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ciconialabs.wifiswitcher",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "July 15, 2013",
+  "version": "0.9.5.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Low Maturity",
+  "creator": "Ciconia Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ciconialabs.wifiswitcher",
+  "extendedInfo": {
+    "installSize": "312k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "* OVER 700 000 HOTSPOTS IN THE DB. AND COUNTING....*The service is intended to help people to navigate at Wi-Fi hotspot sea. It provides an ability to find and attach to the nearest known public hotspots. Users can store privately and share hotspots in common database lo let other people use it.The following features are supported at the moment:    * Scan and connect to the nearest known WiFi hotspots. Nearest hotspots are selected from central DB depending on user's current location.    * Show all known hotspots on map    * Share information about new public hotspots.    * Keep information about private hotspots.The application supports the following options:    * Show hotspots and other objects bound to Google Map    * Show current location    * Several layers support with different kind of information. The layers visibility is configurable.    * Tuneable behaviour if hotspots are found nearby    * Tuneable parameters for user's location change processing, hotspot radius scanning etc.Depending on the policies being set, the app swithes to wifi scanning if wifi access points are available nearby and switches scanning of when there is no WIFI AP are close.*THIS IS BETA. SOME FUNCTIONS MAY NOT WORKING PROPERLY*",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

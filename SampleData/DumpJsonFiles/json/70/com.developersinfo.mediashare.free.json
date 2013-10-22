@@ -1,0 +1,68 @@
+{
+  "title": "Media Share (FREE)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.developersinfo.mediashare.free",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "January 8, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "11",
+  "rating": "3.090909",
+  "contentRating": "Everyone",
+  "creator": "developersinfo.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.developersinfo.mediashare.free",
+  "extendedInfo": {
+    "installSize": "608k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "If you like this app please consider the PAID version to help support additional development.Allows easy sharing of images, music, videos and other media to and from your Android powered devices.  Send media from your phone directly to your Google TV or other Android devices using Androidâs built in âshareâ function.  This is a local transfer and your information is only transmitted to and from your devices.  No external server or connections are made.  Sending and receiving devices must be on the same local network to initiate transfers. (wired to wireless, wireless to wireless etc....)Setup is as simple as installing Media Share on your Android powered device(s) (including GoogleTV) and checking the âMedia transfer enabledâ.  Receiving Device(s): Install Media Share.  Setup your personal encryption key and check the box for media transfer enabled.  You should now turn green indicating your ready to accept media.Sending Device(s): Install Media Share.  Setup your personal encryption key to match the receiving device.  You may exit now unless you would like to enable this device to receive media from other sources also.  Transferring images, music, videos and other media is as simple as using Androidâs built in âShareâ function and selecting âMedia Shareâ.  You should see your remote device(s) once you have installed Media Share and have matching encryption keys.Permissions Needed:android.permission.INTERNETUsed for transferring images and media. Only local communication is needed. No data is transmitted or received from anything other than your personal devices.android.permission.READ_EXTERNAL_STORAGEandroid.permission.WRITE_EXTERNAL_STORAGE\tUsed to save and load your transfered media.android.permission.ACCESS_WIFI_STATEandroid.permission.ACCESS_NETWORK_STATE\tUsed for allowing transfers to and from devices.",
+    "reviews": [
+      {
+        "timestampMsec": "1372596059555",
+        "starRating": "4",
+        "title": "2 minutes post install and 1 successful transfer later...",
+        "comment": "Worked with out a hitch... So far",
+        "commentId": "gp:AOqpTOHY7b7GO9GzBTZn1SQiBdcr5703UccLmlgmCBj-DNBkr4uS6qS1b5JH7533mfjPe9PMSeP7RRR5o8YB0kg",
+        "author": "Timothy Woodward",
+        "authorURL": "http://lh5.googleusercontent.com/-l_S7hIsmZOE/AAAAAAAAAAI/AAAAAAAAKoc/F58fvroTEqs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-l_S7hIsmZOE/AAAAAAAAAAI/AAAAAAAAKoc/F58fvroTEqs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366130239611",
+        "starRating": "1",
+        "title": "Garbage",
+        "comment": "Garbage.just like their demo video which is upside down. This should tell you all you need to know about this app.",
+        "commentId": "gp:AOqpTOEnZ4va-epqbshzOTzCGqmhnoc2tR9FlIPbk29nNpbd8hCKcXhGvPatD8wZ9htNlGgKVQikJiIFcr0Agaw",
+        "author": "Bob Bloss",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377699621223",
+        "starRating": "1",
+        "title": "Garbage",
+        "comment": "Don\\'t waste your time.",
+        "commentId": "gp:AOqpTOH6f-iqZlkvjtnBPvCnGz3MM8EZIEPyCzj1ioNZt66NdBwS6fWB8_z5f9_uRViUpumQlgSL85MJOVOo8Uo",
+        "author": "Robert Petersen",
+        "authorURL": "http://lh6.googleusercontent.com/-6DPckERAK2U/AAAAAAAAAAI/AAAAAAAACk4/_tcwN6vgdFQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-6DPckERAK2U/AAAAAAAAAAI/AAAAAAAACk4/_tcwN6vgdFQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373742346097",
+        "starRating": "5",
+        "comment": "M",
+        "commentId": "gp:AOqpTOFn-786ePSzOKRa2yreOR6alPJPZ0EKC7GDOeeCwCg3Mdvyn_5cp8Q4PqIEmx4BdFFRgj2IJ5XYTQs6x98",
+        "author": "Michael Bell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

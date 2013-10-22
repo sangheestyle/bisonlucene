@@ -1,0 +1,39 @@
+{
+  "title": "North Pole",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_84d5c4b2669442f3b85a35a9e85632f0.app",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "December 15, 2011",
+  "version": "1.2.9.856",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cavatani International SRL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_84d5c4b2669442f3b85a35a9e85632f0.app",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Check out this North Pole app!Browse the app and read the blog posts about North Pole expeditions, see photos of the North Pole and watch videos about the North Pole.Download the FREE app now!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_84d5c4b2669442f3b85a35a9e85632f0.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

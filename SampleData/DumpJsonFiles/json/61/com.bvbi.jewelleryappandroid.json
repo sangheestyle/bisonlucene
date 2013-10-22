@@ -1,0 +1,44 @@
+{
+  "title": "Mangalore Jewels",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bvbi.jewelleryappandroid",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 7, 2013",
+  "version": "3.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "BVBI INFOTECH",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bvbi.jewelleryappandroid",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mangalore jewels was founded by Mr.Nagaraj Achar, father of Mr.Vikram Achar in the year 1995. Mangalore Jewels is progressing year by year. The client base is growing day by day.  Mangalore Jewels has a rich heritage.  The forefathers of Mr.Vikram Achar once used to do jewels for the Maharajas of Mysore.Mr.Vikram Achar knows very well how to cater to the requirement of the different tastes of people. Realizing the importance of making the precious articles available to the customers, Mangalore Jewels have different types of plans with options like Gold Rate Protection, Winning Big through Lucky Dips and gaining by Additional Bonus.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.bvbi.jewelleryappandroid.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

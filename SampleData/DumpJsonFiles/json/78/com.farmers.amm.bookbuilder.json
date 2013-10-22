@@ -1,0 +1,59 @@
+{
+  "title": "Mobile Book Builder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.farmers.amm.bookbuilder",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "September 8, 2013",
+  "version": "1.21",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Farmers Group Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.farmers.amm.bookbuilder",
+  "extendedInfo": {
+    "installSize": "9.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Mobile Book Builder has been designed to provide agents & agency producers with the ability to grow the agency (currently only Farmers Auto & Life) while outside their office. The MBB app creates a lead, produces a âconversationalâ quote, designed to take the conversation with the lead to the next step. Users of this app are authorized Farmers Agents who have a valid agency dashboard user id and password.Note:* Requires Android 2.2 and later* Not compatible with tablets* OH bar code is encrypted. Drivers License details and address need to be manually entered* IL, MN bar code is partially encrypted. Address needs to be manually enteredWhat's included in this Versionâ¢\tScan the barcode at the back of customerâs driverâs license to generate a quoteâ¢\tGenerate leadâ¢\tGenerate auto quoteâ¢\tGenerate life quoteâ¢\tAdd/delete vehicles â¢\tAdd/delete driversâ¢\tOption to select from different coverageâ¢\tEmail quote to customer",
+    "reviews": [
+      {
+        "timestampMsec": "1377706940461",
+        "starRating": "5",
+        "title": "Help"
+      },
+      {
+        "commentId": "gp:AOqpTOEg7RbiZ70Vsl76RMhDJqtnwEC4UylPCXZCCNJlTsQyGgZ3swv_vkmjGBPnypRWzdfhqk2DGTXGDg9QLKo",
+        "author": "Darcee Cuillard",
+        "authorURL": "http://lh4.googleusercontent.com/--Hi1OY0-pEg/AAAAAAAAAAI/AAAAAAAAAYs/pBixCEHsls4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/--Hi1OY0-pEg/AAAAAAAAAAI/AAAAAAAAAYs/pBixCEHsls4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374688458414",
+        "starRating": "5",
+        "title": "Nicely Done",
+        "comment": "Already using it.  Helps me get lead\\'s info and provide them an Auto pre-quote right there + plus a Life quote. I don\\'t need to be in the office to do this. Once I get back to the office I can contact the customer and get them a quote I can bind. Id love to see the app have Home and Umbrella. Thank you Farmers.",
+        "commentId": "gp:AOqpTOFMy-JRZ9E2fe0cCehNhhoqX7ldQYdKVjj-N2du_ux-NUKG2k7hJQJexUCdZbAhTkGRYiSJgmU7fPqK-FU",
+        "author": "David Williams",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_OWNER_DATA",
+      "android.permission.SET_ALWAYS_FINISH",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

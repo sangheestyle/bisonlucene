@@ -1,0 +1,38 @@
+{
+  "title": "American Academy of Pain Manag",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.appkYZIlGepaX",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 17, 2013",
+  "version": "1.6",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.appkYZIlGepaX",
+  "extendedInfo": {
+    "installSize": "9.6M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "American Academy of Pain Management meeting app.  Features of the app include: â¢ The full event schedule sorted by day, speaker, and/or track, and the ability to rate the sessions directly on the appâ¢ Connect and exchange contact details with other attendeesâ¢  Share your event experiences on Facebook, Twitter, and LinkedInâ¢ Follow the event on Twitter at @AAPainManageâ¢ Find session and exhibitor locations with maps of exhibit halls and session roomsâ¢ See details about all of the exhibitors and sponsorsâ¢ Catch notifications about networking opportunities, drawings, and other breaking event news pushed directly to your deviceKeywords : AAPM, AAPAINMANAGE, 24th Annual Clinical Meeting, AAPM2013, Pain Management, Pain Meeting",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.appkYZIlGepaX.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

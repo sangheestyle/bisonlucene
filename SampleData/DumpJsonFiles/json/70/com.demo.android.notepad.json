@@ -1,0 +1,39 @@
+{
+  "title": "Note Pad",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.demo.android.notepad",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "July 27, 2012",
+  "version": "1.0.4",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "8",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "Android App Team",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.demo.android.notepad",
+  "extendedInfo": {
+    "installSize": "109k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "note Pad demo .",
+    "reviews": [
+      {
+        "timestampMsec": "1347799012082",
+        "starRating": "1",
+        "title": "This app sucks",
+        "comment": "It shows nothing",
+        "commentId": "lg:AOqpTOFY6ofRaRQoF23TNXRNe47XP7Ow52A4U75bzPKPzWSor8hWLJetkkEPIfm5neuzs4pydfwDUB7TiQ2YGyE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

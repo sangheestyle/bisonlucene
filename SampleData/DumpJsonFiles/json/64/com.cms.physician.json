@@ -1,0 +1,32 @@
+{
+  "title": "Open Payments for Physicians",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cms.physician",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "July 2, 2013",
+  "version": "1.1.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "CMSgov",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cms.physician",
+  "extendedInfo": {
+    "installSize": "7.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Centers for Medicare and Medicaid Services (CMS) is providing a free mobile app to help physicians keep track of, store, and view financial payments and other transfers of value from applicable manufacturers of covered drugs, devices, biologicals, or medical supplies to physicians, as defined by the Physician Payment Sunshine Act and its implementing regulations.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

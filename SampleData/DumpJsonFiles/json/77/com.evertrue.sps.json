@@ -1,0 +1,49 @@
+{
+  "title": "St. Paul's School Alumni",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evertrue.sps",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 1, 2013",
+  "version": "2.1.1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Medium Maturity",
+  "creator": "EverTrue",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evertrue.sps",
+  "extendedInfo": {
+    "installSize": "6.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Stay engaged with St. Paulâs School and your fellow alumni through the schoolâs official alumni app.The St. Paulâs School Alumni app makes it easier to stay connected. The app provides access to the entire searchable alumni directory (with both list and map views), SPS news and events, reunion updates and more.Network and reminisce on the go!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1319732197831",
+        "starRating": "5",
+        "title": "Amazing!",
+        "comment": "This is incredible.  Great work!",
+        "commentId": "lg:AOqpTOFfsWuup3H5yH9FIqVyADI2_CRBOqezjH0JyGtM1hG6KgPXHlrEjWNIQVDi8ycZePUrkCH6UPmuIQYRQw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.evertrue.evertrue.permission.C2D_MESSAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "GPS Recorder A16 - free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dw.droidsensors",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "December 14, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "8",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "H Studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dw.droidsensors",
+  "extendedInfo": {
+    "installSize": "270k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "For people who likes to GEO-tag their photos or just to plot the positions on Google Earth.  This app records and exports the recorded positions in NMEA (for geo-tagging photos with applications such as Sony's PMB - Picture Motion Browser) and KML for showing off tracks on animated Google Earth.  Unlike most of other GPS recorders, this app doesn't use Google Map to display the track so no Internet connection is required.  The font and color contrast for the readout is designed so that it can be read ease even on the dashboard of a vehicle.  As it doesn't require Internet connection, the power consumption is relatively low for longer battery life.List of features:1. Quick commands on long press of the track display2. Recall recorded position history to be displayed on screen3. Running display even not in recording mode4. Customizable readout format5. Display the date/time during warming up.  A perfect time to adjust the clock on camera for later geo-tagging with PMB.6. Customizable export options.* Note: Sony PMB is a software come with Sony Camera and Camcoder.  You can download it from http://esupport.sony.com/ if you lost your original software.* Note: Google Earth can be downloaded from http://earth.google.com/",
+    "reviews": [
+      {
+        "timestampMsec": "1345978579107",
+        "starRating": "1",
+        "title": "WHAT IS THIS I CANT UNDERSTAND",
+        "comment": "HATE IT.IF ANYBODY DOWNLOADS IT HE IS A FOOLISH",
+        "commentId": "lg:AOqpTOGehqaQXodQ80cpG4xLgCWdJIT2SmD_2WAL6l5-K9KHJnVMyTZgHDfNgvwo_c4hLOCY8ORcMt-tw_g77D8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.STATUS_BAR",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Team Room",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fabasoft.android.cmis.teamroom",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "September 9, 2012",
+  "version": "2.0.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fabasoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fabasoft.android.cmis.teamroom",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Team Room App gives you access to your Team Rooms and data in the Fabasoft Folio Cloud on your Android smartphone and tablet. Wherever and whenever. Securely and reliably. The app connects you with colleagues and external business partners when youâre on the move. Unlimited, mobile and secure collaboration in the Cloud.Thanks to the implementation of the new standard CMIS (Content Management Interoperability Services), Folio Cloud offers you mobile use of the Cloud with the freedom to select the smartphone or media tablet of your choice, irrespective of manufacturer. With the Team Room App:- Access all your Team Rooms and data in the Cloud quickly and easily. - Read documents from the Cloud on your Android smartphone/tablet, swipe from document to document.- Open and edit documents on your Android smartphone/tablet from the Cloud using integrated apps (e.g. with ThinkFree Office).- Upload images, music and videos from your libraries into the Cloud â even multiple files at the same time.- Upload file from the file system into the Cloud â even multiple files at the same time.- Upload documents from other Apps into the Cloud (e.g. e-mail attachments).- Synchronize documents from the Cloud to your Android smartphone/tablet and access them in offline mode without needing an internet connection. - Refresh all your documents, folders and team rooms that you want to access in offline mode with only just one tap.- Search for data in all team rooms where you have access rights.- Create new team rooms and invite your contacts to team rooms.- Manage your team room invitations (accept or refuse them).- Add comments to documents â even in offline mode.- Send links to your documents or the documents themselves as attachment by e-mail.- All your data in the Cloud is protected from unauthorized access. Only registered users who have been invited to the collaboration are authorized. Folio Cloud is the Cloud for secure collaboration between businesses worldwide. The data is stored in data centers in central Europe, where European standards for data security and protection apply. Fabasoft is ISO 27001 certified, the international standard for IT security, and ISAE 3402 Type 2 tested, the most important standard for IT operations. This translates into an objectively proven security and reliability for the saving of your data in the Cloud. For viewing and editing documents you may use the following third-party apps:- TXT: OI Notepad, Jota-Editor- DOC: Thinkfree Write (Thinkfree Office)- XLS: Thinkfree Calc (Thinkfree Office)- PDF: Adobe Reader- HTML: Android HTML viewer- JPEG, PNG, GIF: Integrated image viewerFor more information about Folio Cloud, please visit http://www.foliocloud.com.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1333904003569",
+        "starRating": "1",
+        "title": "useless",
+        "comment": "just work with web not w/ this apps..forget this apps..",
+        "commentId": "lg:AOqpTOHwqOuGp7IpYN94VvvVbode2Xh5EKhTr13Sx_sawDTf2iEoAJZ5d8bcnHiVg8q7wZNiobZPNxlI_vCFdg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

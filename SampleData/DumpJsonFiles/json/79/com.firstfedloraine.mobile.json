@@ -1,0 +1,52 @@
+{
+  "title": "First Federal Savings Lorain",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.firstfedloraine.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "July 14, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.firstfedloraine.mobile",
+  "extendedInfo": {
+    "installSize": "1,019k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The First Federal Savings of Lorain Mobile Banking App is now available to allow you access to your bank accounts in a secure, safe, convenient application from your Smartphone",
+    "reviews": [
+      {
+        "timestampMsec": "1373894814116",
+        "starRating": "5",
+        "title": "So far so good.",
+        "comment": "Doing the job good so far. Hopefully it will stay up and working.",
+        "commentId": "gp:AOqpTOFSXhYbR9Ma9ATQGC4KWEFBZ0jkltM9wyjsNPV-zaPNtfiZVWFzNTtLf36kOYNhbhJP0fgvM9Z4qi5YjQ",
+        "author": "Christopher Locher",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373898548475",
+        "starRating": "5",
+        "comment": "Looks simple enough to use.",
+        "commentId": "gp:AOqpTOFmn_8oX8MgdQspOYZDYewxwCMfRPs52re3SXIP5Go-D6CXv4DDQh3yYO51HZNf1R7UjLTtLkEJ317SbQ",
+        "author": "Ken Kayle",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

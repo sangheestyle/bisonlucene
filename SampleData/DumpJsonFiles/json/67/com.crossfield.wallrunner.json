@@ -1,0 +1,35 @@
+{
+  "title": "Wall Runner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crossfield.wallrunner",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "July 2, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "Cross Field Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crossfield.wallrunner",
+  "extendedInfo": {
+    "installSize": "13M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "èµ°ããªããè½ã¡ã¦ããéå®³ç©ãããããé«å¾ç¹ãçãã¾ãããï¼æä½æ¹æ³ã¯ç°¡åã§ããç»é¢ãã¿ããããã¨åå¯¾å´ã®å£ã«ã¸ã£ã³ããã¾ãããWall Runnerãã¯ä¸çã©ã³ã­ã³ã°ãå®è£ãã¦ãã¾ããããªãã¯ã©ã³ã­ã³ã°ã«ååãè¼ããããããªï¼",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

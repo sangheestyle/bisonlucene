@@ -1,0 +1,29 @@
+{
+  "title": "Call Help",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.callhelp",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "June 28, 2011",
+  "version": "2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Amanjeev",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.callhelp",
+  "extendedInfo": {
+    "installSize": "24k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The application is about calling (and texting) for help when you are going through a dark or a possibly an unsafe place. Hoping that you are getting phone signal, instead of fidgeting with your phone to dial 911 (or number of a loved one) and keeping your thumb on the \"Call\" button, why not have an application where there is a big fat button that when released calls your choice of (previously saved) number or pull up 911 dial screen.http://www.amanjeev.com/2009/12/16/a-very-simple-android-application-for-safety/Source code: https://github.com/amanjeev/CallHelp/blob/master/src/com/help/Call.java",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.SEND_SMS"
+    ]
+  }
+}

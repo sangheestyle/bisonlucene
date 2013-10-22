@@ -1,0 +1,63 @@
+{
+  "title": "Salary Rate Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.canny.salary",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "January 5, 2012",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Canny Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.canny.salary",
+  "extendedInfo": {
+    "installSize": "367k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This calculator helps you to know in any moment how much you are going to make for monthly and yearly, by entering hourly rate and no. of hours worked (based on time sheet). Also helps you to find how many hours you need to work if you want to reach desired annual wage.",
+    "reviews": [
+      {
+        "timestampMsec": "1333004964299",
+        "starRating": "1",
+        "comment": "Just a basic hour an annual salary calculation.U just put in how many hrs u work per week n ur rate of pay then it adds up ur annual. Suck",
+        "commentId": "lg:AOqpTOElU1JPkT98r-4Fxw9DsV2KvVKVyQ_9kegZo_uUb_Qgqm5LDD64SF3MZDt9tTQoqd-ttvfWIZgztCQdLg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376155687541",
+        "starRating": "1",
+        "comment": "Nothing you cant do on a calc in less time.",
+        "commentId": "gp:AOqpTOFpX5GmUdVbHDLJ_0HNkOU4yfe04M_jKFTFoqRDHmDxEmooWBOLfbZNVi1_UxBcQfJ0kZrS7qF_iRLJ7Q",
+        "author": "Chad Hunt",
+        "authorURL": "http://lh4.googleusercontent.com/-2uPtzrGdJRQ/AAAAAAAAAAI/AAAAAAAAotQ/hiyMRWQrdUw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-2uPtzrGdJRQ/AAAAAAAAAAI/AAAAAAAAotQ/hiyMRWQrdUw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1341283573752",
+        "starRating": "4",
+        "title": "Wharha",
+        "comment": "Just what I was looking for.  Thanks!",
+        "commentId": "lg:AOqpTOFtoKk4x1EZK33YVg2g8pi-zE9MLK0C6UW2srNbwgnyxZWbtIlVIAE-zcrxDuUKu_k8ZJZBS8tRQqRJZg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

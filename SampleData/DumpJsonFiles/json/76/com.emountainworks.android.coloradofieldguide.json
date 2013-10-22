@@ -1,0 +1,40 @@
+{
+  "title": "Colorado Rocky Mtn Wildflowers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emountainworks.android.coloradofieldguide",
+  "category": "Books & Reference",
+  "price": "$9.99",
+  "datePublished": "May 18, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "High Country Apps, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emountainworks.android.coloradofieldguide",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "High Country Apps is proud to support The Nature Conservancy, Colorado Chapter (www.nature.org/Colorado) through donations and providing the Colorado Rocky Mountain Wildflowers app for their educational and scientific work. Colorado Rocky Mountain Wildflowers presents more than 500 wildflowers, shrubs, trees, and ferns of the Colorado Rockies and Greater Rocky Mountain Area. Designed for expert and beginner alike, this guide presents each species in a clear, informative format that provides photos and illustrations of the plant, an easily understood description, distinctive field marks, preferred habitats, and tidbits on the plantâs ecology and cultural use. An innovative, easy-to-use key allows the user to select flower color, leaf type, and other characteristics to quickly identify unknown plants. You are on a hike, look down and see a flower with yellow petals and opposite leaves but donât know its name. It could be tall and thorny, sticky with black berries, sweet-smelling with square stems. Just select what you do know on the app and all plants matching your description will be shown. Photographs and information used by the app are stored locally, making the app available to use with or without a data connection.The app covers the Colorado Rocky Mountains from the foothills to the alpine zone and although we show you a few plants found exclusively in Colorado, the vast majority of the plants shown can also be found through the Rockies of Montana, Wyoming, and New Mexico. We have been careful to include the most abundant and visible plants and also those less common but found in unusual habitats, such as, wetlands, ponds, and rocky slopes. We have also chosen species from various altitudes, from 85 families and 200 genera, and from all geographic locations -- East Slope, West Slope, and the mountains between.We hope this app increases your enthusiasm for the plants that give us all life and inspiration. Revel in the wildflowers and infect others with your love of the land.",
+    "reviews": [
+      {
+        "timestampMsec": "1347631674698",
+        "starRating": "5",
+        "title": "Very nice",
+        "comment": "Like having an app for a specific region",
+        "commentId": "lg:AOqpTOHD84lpAC5djTQ4egjLvkajA36ix5Wfz00-nlrQPybGS46oULxHPuV0onGKLF_Bb1b6P6AgygyswQh1Ng",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

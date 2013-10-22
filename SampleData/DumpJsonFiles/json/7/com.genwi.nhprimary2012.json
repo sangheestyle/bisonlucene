@@ -1,0 +1,54 @@
+{
+  "title": "NH Primary 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.genwi.nhprimary2012",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "March 17, 2011",
+  "version": "2.5.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "PoliticalTrough.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.genwi.nhprimary2012",
+  "extendedInfo": {
+    "installSize": "853k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The single source for New Hampshire Primary coverage, 24/7, curated, and instantly pushed to your app. Now you can check one app and one feed and get all the 2012 Primary news you need. We cover all the major news sites and blogs coming out of New Hampshire and feed you the best stories.There are also a variety of social features to track what others are saying about the race. Login with Facebook, select your favorite news stories, share with friends, view our pre-selected Twitter feeds, YouTube feeds, and pictures of candidates campaigning in New Hampshire.We strive to push the most comprehensive, interesting, and informative coverage of the NH Primary to you every day up until election day. As the race heats up, you don't have to miss a thing.Brought to you by NHPoliticalTrough.com - \"Pig out on politics.\"",
+    "reviews": [
+      {
+        "documentVersion": "2.5.1",
+        "timestampMsec": "1300393598103",
+        "starRating": "5",
+        "title": "Good source of political news",
+        "comment": "Pulls news from a lot of different sources. Easier than checking multiple RSS feeds.",
+        "commentId": "lg:AOqpTOHnlLhr117eD0h2DmzMpoDCsQ6kdNdiLw1AXwmWDnAXCMYKapOyfIEHWH_YgxRUwqb_cch9JoTFfYLX9wQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.1",
+        "timestampMsec": "1300401961407",
+        "starRating": "5",
+        "comment": "What a fantastic idea! Now I can get all the updates on my favorite candidates instantly! You better believe I\\'ll be \\\"pigging out\\\" on politics!",
+        "commentId": "lg:AOqpTOEXgPQfWmt_uGudJnS8V9356Kihw_ouxFBzXyCIPaMS4tx_zRr22IjoQyxNieViOayz3D3_kF6kee3xzOk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

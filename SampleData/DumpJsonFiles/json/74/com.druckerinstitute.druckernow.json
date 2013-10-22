@@ -1,0 +1,48 @@
+{
+  "title": "Drucker Now",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.druckerinstitute.druckernow",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "December 28, 2012",
+  "version": "4.5.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "The Drucker Institute",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.druckerinstitute.druckernow",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Drucker Now gives you easy access to the Drucker Instituteâs up-to-the-minute insights on management and leadership. Youâll find here everything you love about Peter F. Druckerâs timeless wisdom, refreshed and applied in our timely writing, interviews and videos. Drucker Now puts at your fingertips:â¢ the Drucker Exchange, a daily blog that illuminates todayâs headlines with Druckerâs ideas and idealsâ¢ âThe Drucker Differenceâ column on Forbes.comâ¢ \"Drucker on the Dial,â our PRX award-winning monthly radio showâ¢ Fun animations and thoughtful interviews on our YouTube channelâ¢ The latest news about the Drucker Instituteâ¢ Single-tap connections to our vibrant social media networkDrucker Now is brought to you by the Drucker Institute at Claremont Graduate University, a dynamic management and leadership laboratory with a proven track record of turning ideas into action. Through its programs, the Drucker Institute inspires and empowers thousands of peopleâhigh school and middle school students, nonprofit and government leaders, middle managers and the worldâs top CEOsâto be more innovative, effective and responsible.",
+    "reviews": [
+      {
+        "documentVersion": "3.9.5",
+        "timestampMsec": "1344047128766",
+        "starRating": "4",
+        "title": "Cool",
+        "comment": "Thanks for the App! Will give 5 if words could change sizes..... So small!",
+        "commentId": "lg:AOqpTOHUreC46xVg-kYwonqXKb_2IXCiswXYjmKOHRJFfMl4umdPI2DF-ahWoBD2U-14QS6YCjauwJ-o_Lo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.druckerinstitute.druckernow.permission.C2D_MESSAGE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

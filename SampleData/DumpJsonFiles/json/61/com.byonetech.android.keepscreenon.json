@@ -1,0 +1,28 @@
+{
+  "title": "Keep Screen On",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.byonetech.android.keepscreenon",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "June 22, 2013",
+  "version": "1.0.02",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "ByOne Coder",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.byonetech.android.keepscreenon",
+  "extendedInfo": {
+    "installSize": "179k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This little app provides a quick and simple way to keep your device's screen on, so you don't have to keep touching the screen to prevent the screen from going off.  This app has 3 modes to keep the screen on:1.\tUse System Setting â Restore to your device's system setting screen timeout value.2.\tUntil I turn off â Keep the screen on until you turn off the phone or put the phone on sleep.3.\tKeep on for the desired period of time.This app also has the following features:-\tRun as a Service for quick and easy access from any other apps.-\tDisplay a notification icon on top to indicate how long the screen has been on (Until I turn off mode) or how long the screen will be on (Keep on for next â¦ mode).-\tAn option to keep the screen on but also dim the screen.-\tAn option to continue keep the screen on after screen turns off and then on.-       There is \"NO Ad\" in app.To stop running as a service â 1) Select \"Use System Settings\", 2) Uncheck the \"Run as a Service for quick access\", and 3) Click on OK.This app uses the following permissions:-\tSystem Wake Lock: To prevent the screen from turning off.Please try the free version \"Keep Screen On Free\" to make sure it works with your device before purchase the paid version.  Please feel free to contact the developer via email (byonetech@gmail.com) for any questions or suggestions.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "title": "Speedy Spectrum Analyzer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.electronchaos.SpeedySpectrumAnalyzer",
+  "category": "Music & Audio",
+  "price": "$5.99",
+  "datePublished": "January 2, 2013",
+  "version": "3.06",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "731",
+  "rating": "4.6976743",
+  "contentRating": "Everyone",
+  "creator": "Electron Chaos",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.electronchaos.SpeedySpectrumAnalyzer",
+  "extendedInfo": {
+    "installSize": "347k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "New version! Professional-grade FFT / Spectrum Analyzer, tested and in use all around the world by live sound engineers, scientists, mechanics, and hobbyists!Thank you everyone for making this the top spectrum analyser application on the market.  I am dedicated to making this app work well for you!  Risk-free purchase; I will refund your money (even beyond Google's 15 min window) if the app does not work for you.Features include: * Both Logarithmic & Linear frequency axis* Smooth, joyful pinch-to-zoom! Pinch to zoom in on ANY signal section... and zoom... and zoom... * Pan (vertical and horizontal) by simply dragging the screen* Dynamically adjusting FFT size, up to 16384 bins (for 2-3 Hz accuracy!), based on the optimal size for your screen.* Exponential averaging (adjustable)* Peak hold overlay* Share screen snapshots easily* Range set - full audio range from 20Hz, up to 22kHz!* Peak & valley measurements with crossbar tools* Adjustable dB levels for ceiling / floor* And many more!Designed & tested to work on Honeycomb, Gingerbread, and Froyo.If you have ANY problems with this release, or requests - email dev@electronchaos.com.  I *will* respond, and work towards fixing your issue.  And if I can't fix it, I will give you a full refund.The screenshots show some of the dynamic zooming capabilities, and the linear vs logarithmic modes.  The first screenshot shows the analyser in linear mode, while the next shows logarithmic. The screenshots show the mic on the OG Droid phone capturing a test tone at 21kHz, in addition to other frequencies.  Nice real-time analyzer!The last two screenshots show a zoomed in signal at the lower frequency range - same signal sample (paused again), with two different windows applied.I am honoured and humbled by each and every purchase made; thank you!Email for contact is dev@electronchaos.comThank you everyone for purchasing - the response has been great!  I appreciate all the encouraging emails.Purchases are risk free - I offer refunds past the 15-minute window if it does not work on your hardware for some reason.H/W Updates across all versions:All reported hardware issues have been resolved - these are listed below for documentation:Fix for Toshiba Thrive, and Dell Streak mic input issue.Fix for Samsung Captivate (Galaxy S SGH)!  Thanks for the report Red Baron - if this update fixes your problem, I would appreciate an update to your review.Contains workaround for the Atrix phone hardware microphone issue.  UPDATE:  Fix confirmed!  Thank you Motorola engineering for the workaround.My goal is to make a useful spectrum / spectral analyser tool for audio professionals, engineers, installers, etc.  Signal processing is useful in many fields, from microphone analysis to RTA, to engineering / technical fields.  Let me know how you use it! I find it fascinating the different uses.Here are the permissions the app requests, and why:* android.permission.RECORD_AUDIOTo capture audio from the Microphone to display* android.permission.WRITE_EXTERNAL_STORAGESave the graph to an image, and send it via email.Please feel free to email me with any questions, concerns, requests, etc.  I love feedback:  dev@electronchaos.com",
+    "reviews": [
+      {
+        "timestampMsec": "1339394980677",
+        "starRating": "5",
+        "title": "Awesome! Love me some real-time FFT:-)",
+        "comment": "Wow! When it was advertised as real-time, the developer wasn\\'t kidding. This app will certainly help me in my signal processing curriculums in my EE graduate courses.",
+        "commentId": "lg:AOqpTOESXVyVjkiAFbjQMIG61O4jOXANxkbqQvV3O7zAopeXyBwnLuox_FF_FAm2g83MPwKjA8iC8fr3ltoazG8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345603040798",
+        "starRating": "5",
+        "title": "Great tool for analyzing audio",
+        "comment": "I like the interaction you have with the spectrum, has pinch zoom and two markers which are easily moved to high or low peaks without the need of any menus. Thanks for this tool",
+        "commentId": "lg:AOqpTOFL-hV9CcAben1NkAVKPXVjr4fXDGZMSxzv2Su3JPtqvygeLOdIzgiAvv2la77AhcYdblKtvoDzV0DPkJ4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337332330478",
+        "starRating": "5",
+        "title": "Galaxy S2",
+        "comment": "Awesome app, tuned my headunit nicely, Excellent, thank you. If it had a slider down the bottom to output set frequencies via 3.5mm jack it would be the best  killer tuning app ever.",
+        "commentId": "lg:AOqpTOEAiOLDWnQ9sW3KkUJqTkDJk1bUrIdrdtRcuR0pekCuWYFRkdwmMJKJZ8v671USxJoboNsMKlMu3BUTajM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344952253961",
+        "starRating": "5",
+        "title": "Super useful!",
+        "comment": "I teach high school physics and the app is great on our tablets as a measuring device! Very intuitive to use and gathers data quickly. Developer was very quick to get back to me when I had questions.",
+        "commentId": "lg:AOqpTOFSXBwHnLby0LjgliWIcI08L9KwrdINfhiug8XrhrVGX76V9tZaJYisfAWmX57yku3oEVDWk3sDKy0PXOc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337160397303",
+        "starRating": "5",
+        "title": "Superb tool :-)",
+        "comment": "This tool helped me adjust crossover frequencies and levels precicely, maximising the performance of my 2.1 speaker setup. Software is easy to use and it runs very smoothly on my SGS2. Worth the money!",
+        "commentId": "lg:AOqpTOEFacMODTgx657WGB0kKWctacyV7BG-6Uik-kyjOfmwFFUYb3BZKhRwpSglIs5edRXf8yYqdLDKkXmQ7_Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350353266857",
+        "starRating": "4",
+        "title": "SoundGeek",
+        "comment": "Great app. I would pay twice again if it had a Trigger function on either Frequency Spikes/Level or on Input Level (hinting of an Input Waveform view). Single shot would be a plus.",
+        "commentId": "lg:AOqpTOGDVs2vmSiABj5N8NyLYhuCN-DWAptvcolURFXB6Rayu101bbP4twOy8oDxR6FkPYl8D-4_n1bLa-E_khI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334933247499",
+        "starRating": "5",
+        "title": "Excellent App",
+        "comment": "I love this app... Compared the frequencies detected by this app against other tone generator applications I have. All the time it detected the right frequency. Great help for setting up our church sound system.",
+        "commentId": "lg:AOqpTOH6HALrJQbY3Udrebfl2xqINIRW9nlvkWimPUT-niDrIdRB2AJHzVeTsBcdlebfsMmIWqIPE_suMnh6Psc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342306243063",
+        "starRating": "5",
+        "title": "Very well assembled",
+        "comment": "I like this tool.  I feel it is very accurate, and displays the frequency of the sound very clearly",
+        "commentId": "lg:AOqpTOHr-nkUGw97d4dmpxJaCoj461pGEieypXryV6t1xl2bH5E4nyNJ-Ec-gQjmCMfS6gWXIWz3-jgmen_KE5I",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372236419279",
+        "starRating": "5",
+        "comment": "Real nice app shame it ca only work with the internal micrphone but even so I have been able to identify an irritating sound in the church that I attend and have been able to silence the noise",
+        "commentId": "gp:AOqpTOGgRLvLLdacm6fQst75IErw6evUJLNrwkTuRXnFrek_-cZFhoM6zlOn11QCZZ7Li_pI_T2sE8vS4P7uf2Q",
+        "author": "Keith Parker",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351770195803",
+        "starRating": "5",
+        "title": "This is the one professionals use",
+        "comment": "This app is far above the rest. Performs like $1000+ test equipment on my DROID RAZR and its already in my pocket, so nothing else to carry around. A steal at $4.99",
+        "commentId": "lg:AOqpTOEDDTbrWAI2vR9lfel3GKecyfio6m_dYP1nLG1hbYPMEEnRH8PJW61FId34vOGaXbV1xK0jqpYrsfStFdg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348640925231",
+        "starRating": "4",
+        "title": "This works+++",
+        "comment": "I have a premium sound system in my truck and I used this to set all my speakers at their maximum peak levels (along with multimeter) so there is no distortion and they are getting the full power of the amps for crystal clear, even and powerful sound.",
+        "commentId": "lg:AOqpTOERBl_Sw_eeus80zOlQZAKdcpIvenZl5gCLoaXo9Utqqz2aY9WYpLAU01m-NxpW06Q4sM4_n5lKaGeJ8Ck",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354044903303",
+        "starRating": "5",
+        "title": "Indispensable App",
+        "comment": "Most excellent tool, best analyzer I have found to date. Fast and accurate, I use it to set up loudspeaker crossovers. Very helpful.",
+        "commentId": "lg:AOqpTOF--CSE9R940q_LAiyGfdwVHF6tSRNXjxENwKiFe6yT-kxrcFOHo91YD9b8DKVu4xUzzEWdQTZbCMlveP8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348357655152",
+        "starRating": "5",
+        "title": "Excellent App",
+        "comment": "Does what it says, runs great on Slim Bean SGS.",
+        "commentId": "lg:AOqpTOFUYO24qQXE0FS8xHls6C_-1-3sMh4mAS_qS-CIdCgs8Y73bMhWuLsK2rat1jCKaG64-R56fZUPmoIrybE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374291708945",
+        "starRating": "4",
+        "comment": "Nice app.  I\\'m just playing with it, but would like to use it in my physics class.\\tBut all students don\\'t have android.",
+        "commentId": "gp:AOqpTOHcfXnTSxyo-GhwQQYnGBK5UJHFHGJnras09oQZmgzloN1O_Oso6yrsvlFLUS2PB-wRHSVSrtd9OG_zXso",
+        "author": "Brian Lamore",
+        "authorURL": "http://lh5.googleusercontent.com/-NfHZcTHuyxw/AAAAAAAAAAI/AAAAAAAABFs/QKpKqTBg7g0/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-NfHZcTHuyxw/AAAAAAAAAAI/AAAAAAAABFs/QKpKqTBg7g0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1361563782471",
+        "starRating": "5",
+        "title": "Great Audio Tool",
+        "comment": "Love this app. Extremely fast and accurate. Great for ringing out feedback when doing live sound. Works great on my Droid Razr smartphone and my Asus tf700 tablet.",
+        "commentId": "gp:AOqpTOEvYiAz0AAF0R3Pv9dmscwBsbd3RwYCTQIT0Dq-DDjm6N5oqyc8LYONsrUlRstM8HTi5DVW69vVoKytGwY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352145773576",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Fantastic app.... Please try and null the 7.9khz Android background noise issue ....otherwise wonderful tool for live shows...",
+        "commentId": "lg:AOqpTOHFhwJr6NM4qvAZblG5rTd3qSSMQyHytyWrcKCLna1ykFToyUsonRGgEYC4HlZ7X22R15Y4gkiMNygkBgM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346764952381",
+        "starRating": "4",
+        "title": "Pretty good",
+        "comment": "I like it.  Works well when eq ing a roon",
+        "commentId": "lg:AOqpTOErC9QdXxnVTu6OJtPo2QpuVgzGbDz6Aw4c3uSYXSt_r30y3GC6pefUYFsAL9n5FKwgStHRMaiH8LnyZuY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349583054913",
+        "starRating": "5",
+        "title": "Exactly what I need",
+        "comment": "If there were one request it would be the ability to use a Bluetooth mic, or similar for audio input that is not a build in mic",
+        "commentId": "lg:AOqpTOHgb3FEW0VnkN-UuHYQwmDqOb7oa-CDfFiT5N_j5N5RC26o2_7e70Gdrssa91ftBf8ZmTiKkMFjftT0LIc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365636448579",
+        "starRating": "5",
+        "title": "Great app! I use it to find the resonant frequency",
+        "comment": "Great app! I use it to find the resonant frequency of the timing belt on my car, and also titanium structures that I design at work.",
+        "commentId": "gp:AOqpTOGUpTV-akV8fAa1_40LWOyapnWztJ-T2yatXw_3JFYkdVsp1MvkmKKjrJPQIqNw3BQKSDtcHs7fYwMdafA",
+        "author": "Travis Andrews",
+        "authorURL": "http://lh6.googleusercontent.com/-mb-EcgtuxBE/AAAAAAAAAAI/AAAAAAAAAAA/5XvVcdVgg7o/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-mb-EcgtuxBE/AAAAAAAAAAI/AAAAAAAAAAA/5XvVcdVgg7o/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365558287682",
+        "starRating": "5",
+        "title": "VERY GOOD AND FRIENDLY !",
+        "comment": "I am a pro for 35 years now, and after all the pro equipment I use in the field, just wanted something that works on my NEXUS 7. Bought some other apps before this, good stuff, but this one beats them all. Love the interface, the simplicity, , the FREQUENCY MARKERS (!) and programmability. I installed this today, and already am in contact (thanx, Jeff..) who seems to be working hard on an upgrade for more tweaks. AMPLY RECOMMEND YOU GET IN ON THIS ONE. GREAT ENGINEERING !!! NOTE- just installed it on my Nexus S phone too, very good results, just do not keep the app open cause it will drain your batt.",
+        "commentId": "gp:AOqpTOHasbscG_yqyJEtzEOXrGtxHmTG2owr2A50ZQXMTXVgces_5RzqDpa1bZjnppNrwZeDfnuQJOG6EOIRwh8",
+        "author": "Jim Kovacs",
+        "authorURL": "http://lh6.googleusercontent.com/-kE-2kmOMimA/AAAAAAAAAAI/AAAAAAAAASc/AIu2pPwvmXc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-kE-2kmOMimA/AAAAAAAAAAI/AAAAAAAAASc/AIu2pPwvmXc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

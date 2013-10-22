@@ -1,0 +1,41 @@
+{
+  "title": "Simple Level",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dis.levels",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "1.74",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "桂聪",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dis.levels",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "a simple softwave can measurement plane level with the double-sided measuring mode, a cross measurement mode, and have a compass,a thermometer in it. Can simultaneously measure the horizontal and vertical plane is horizontal.Have it, you will no longer worry about hanging a picture frame hanging uneven.This software is easy to use.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_TASKS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

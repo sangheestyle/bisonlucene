@@ -1,0 +1,50 @@
+{
+  "title": "Poudre Lib",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.prpl",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 24, 2011",
+  "version": "4.5.49",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.prpl",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Go mobile with Poudre River Public Libraries! Search for books, place holds, view events calendar, find a library, and more. A new way to search: just type in the first letters, for example \"Beach Road\" by James Patterson simply type 'be ro ja pat'. Let us know what you would like to see in an app, we are here for you!",
+    "reviews": [
+      {
+        "documentVersion": "4.5.49",
+        "timestampMsec": "1315611651298",
+        "starRating": "5",
+        "title": "Does what it needs to",
+        "comment": "Works well for me... search, renew, etc",
+        "commentId": "lg:AOqpTOE3WU5FbC_EpkAU5NdY9ueF07tX6JsDUygyQRv6Fsk9lGVkxYgXYdIYIs00pWXNm45qzcW26TzBOYcEJA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.19",
+        "timestampMsec": "1301412636498",
+        "starRating": "2",
+        "comment": "This worked great at first but stopped working soon afterward. I\\'ve uninstalled and reinstalled so many times I\\'ve lost count. MyTouch 3G",
+        "commentId": "lg:AOqpTOHlQmvqNk48D9V3W6m0Ud1RJ8hy2ZaUo9mLf0Vm2-j-kvl4p54v6Zhc0SNAJPhCcNo0LJbKpSUaXOHyXg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

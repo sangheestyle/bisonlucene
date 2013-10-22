@@ -1,0 +1,36 @@
+{
+  "title": "History Stopwatch",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fjun.historystopwatch",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "June 29, 2013",
+  "version": "0.6.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.6",
+  "contentRating": "Everyone",
+  "creator": "Johan Böhlin",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fjun.historystopwatch",
+  "extendedInfo": {
+    "installSize": "155k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "A simple stopwatch with the following features:* Start and stop, but no lap-timing.* Previous stopwatches are stored in history.* It's possible to group history stopwatches by day, week, month or year, or no grouping.* Option to stop stopwatch on incoming call and to start it again at hangup.* The stopwatch uses relative time measurement, so you can turn off your device and even take out the battery and the stopwatch will still continue to run. Hence, this stopwatch is battery time friendly.Known problems/bugs:* History is slow.* The app is not awsomely nice looking...Found a bug? Need a future? Contact me.",
+    "reviews": [
+      {
+        "documentVersion": "0.6.0",
+        "timestampMsec": "1336142747568",
+        "starRating": "5",
+        "title": "Suggestion",
+        "comment": "An ability to name the stopwatch history and having multiple stopwatch entries running at the same time would be nice.",
+        "commentId": "lg:AOqpTOFwvXEW3dMKq6n4DD7ZJAyZEsumaBWYuBWlzvyQHil39iQKGtu2A3ysKLnDLNE1iCaM9Db7VJBk4Cw38Ik",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

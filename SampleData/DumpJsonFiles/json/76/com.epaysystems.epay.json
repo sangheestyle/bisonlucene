@@ -1,0 +1,35 @@
+{
+  "title": "EPAY",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.epaysystems.epay",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 20, 2013",
+  "version": "2.0.20",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "EpaySystems",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.epaysystems.epay",
+  "extendedInfo": {
+    "installSize": "637k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "EPAY Systems Mobile Punch Application allows Blueforceâ¢ Customers to utilize Androidâ¢ Phones for collecting Time and Attendance.  The Mobile Application provides the following list of features:  ï¼\tEmployee Clock In\\Outï¼\tSupervisor Employee Group Clock In\\Outï¼\tCapture GPS Coordinates at time of Clock In\\Out for verification of location *Optimized to 10 meters accuracyï¼\tEmployee punches will be recorded in Blueforce and marked as âUn-Authorizedâ if the GPS location is outside of the acceptable distance from the work site *Distance is client configurableï¼\tIntegrated with Blueforceâ¢ TLM System Time card and Timesheet moduleï¼\tLocation based (GPS) Dropdown list selections for Work Group (Site), Task, and Work Ticket â selections are filtered based on current GPS location.ï¼\tWorks in offline mode in cases where GPS and Cellular Services are unavailableï¼\tAbility to enter free from comments along with the punchesï¼\tConsistent look and ease of use similar to EPAY Systems Walter Time clocksï¼\tOne button click to EPAY Systems Support Team and Help",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SET_TIME_ZONE",
+      "android.permission.CALL_PHONE"
+    ]
+  }
+}

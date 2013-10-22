@@ -1,0 +1,33 @@
+{
+  "title": "Strange Law",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.entertainment.strangelaw",
+  "category": "Comics",
+  "price": "Free",
+  "datePublished": "July 26, 2013",
+  "version": "1.0.6",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "hmmiss",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.entertainment.strangelaw",
+  "extendedInfo": {
+    "installSize": "817k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This app contain many Strange laws of US,most of then are weird and out of date,if you are interested in the history of US law,this app is your choice.While in reading laws,you can click the state name to choose which state to read ,and you also can read in order. App provide the sound reading function,if you like,please enable it.When you found interesting law,you can add to the favorite list or share the law to your friends and lead then happy.Keyword:law,strange law,weird law.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_TASKS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

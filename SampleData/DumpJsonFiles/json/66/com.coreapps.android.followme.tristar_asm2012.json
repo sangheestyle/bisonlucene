@@ -1,0 +1,76 @@
+{
+  "title": "ASM 112th General Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_asm2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "June 13, 2012",
+  "version": "3.1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_asm2012",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "112th General Meeting of the American Society for Microbiology. Held annually in the late spring, the General Meeting presents the most important discoveries and latest advancements from the following broad categories:diagnostic microbiology and epidemiology; pathogenesis and host response mechanisms; general and applied microbiology (including environmental microbiology); and molecular microbiology, physiology, and virology. This is the official application for the American Society for Microbiology, June 16-19 in San Fransciso. Navigate like a pro with our interactive maps, search the exhibitor directory, or create your show schedule by choosing sessions you want to attend and speakers you want to hear. Enjoy the show!",
+    "reviews": [
+      {
+        "documentVersion": "3.1.0",
+        "timestampMsec": "1340203511759",
+        "starRating": "1",
+        "title": "Good idea, but...",
+        "comment": "It was difficult to use on a phone (even mine that has a huge screen), kept saying I had a time conflict when I didn\\'t, and overall did not look very polished on android.",
+        "commentId": "lg:AOqpTOEH52Std6goY8b4l5UqVYwi9AYp1ugLGYuYmPB9klaJygMVU-CTWV0AQXVayLv9fm0dkZ7qUjTK2qNe8w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.0",
+        "timestampMsec": "1340027225413",
+        "starRating": "3",
+        "title": "Ok but needs improvement",
+        "comment": "Was quite helpful in managing my schedule for different sessions. Search function should be more stronger and customized, I should be able to search authors, participants etc. Major upgrade is needed for bookmarking, there should be a way to see my bookmarked lectures and/or posters (which belong to entirely different sessions), in my schedule, so that I can attend them as and when they happen. Currently you can only see whole sessions in my schedule link.",
+        "commentId": "lg:AOqpTOE0PecysnFUEMMG3wn2uLcflvIEexiSG4Hero3b_JaUbTKFRpqGsvcI4bSKXR0MfdsHfooXk3RsuUu-FA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.0",
+        "timestampMsec": "1339875485616",
+        "starRating": "3",
+        "title": "Ok",
+        "comment": "No search function, sure it will improve in the future.",
+        "commentId": "lg:AOqpTOHFC5c_BNzkefDlZScM30nKkc67V-a-EvZqRzfA0GQz-XzgoWAAmrh5nKd8SbianrqoeLL2DF1JgXiddw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

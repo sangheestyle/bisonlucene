@@ -1,0 +1,40 @@
+{
+  "title": "Private SMS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cellapp.privatesms",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 21, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "CellApp Technologies India Pvt. Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cellapp.privatesms",
+  "extendedInfo": {
+    "installSize": "622k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you receive many personal SMS and want to hide those from the inbox??This simple app lets you do just that. The beauty of the app is that the app is hidden from prying eyes, there is no trace of the app in the app folder, hence someone looking into your phone wouldn't even guess that your private SMS are hidden safely away.Private SMS allows messages from a particular number to be stored within the app and there will be no trace of these messages in the inbox. During the initial launch, users have to enter the App Access Code and the Registered Number (SMS to hide). After that the app will open only by the app access code entered via dial pad.Note:1. The App Access Code have to be remembered by the user as there is no other way to retrieve these datas.2. Messages saved in this app will be lost if the app is uninstalled.3. In the minor version of android devices the app launcher icon will be seen after installing. To hide this from the phone please reboot the phone.",
+    "reviews": [
+      {
+        "timestampMsec": "1376253899487",
+        "starRating": "2",
+        "title": "I downloaded it but....",
+        "comment": "Wont install n let me open it:(",
+        "commentId": "gp:AOqpTOHWLoYhmsjxiQge3NWrF_bhh2pt7SKNWXg61bxfs7j49vsbG4f_MfwHC0DYeuh3fT54aB24C72p1_8S1g",
+        "author": "Mindy Castoreno",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

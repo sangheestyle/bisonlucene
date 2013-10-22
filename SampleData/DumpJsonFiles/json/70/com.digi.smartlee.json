@@ -1,0 +1,39 @@
+{
+  "title": "Smartlee",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.digi.smartlee",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "October 29, 2012",
+  "version": "1.3.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Digi International, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.digi.smartlee",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Smartleeâ¢ makes it easy to see your electricity, water, and gas usage, to set and control thermostats and smart plugs, and to save money by reducing your consumption. We call it: See, Set, Save. Application features enable you to:â¨â¢ Monitor your energy and natural resource consumption through real-time meter readings and yearly, monthly, weekly or daily historical reports â¢ Control Smart Energy thermostats and smart plugs from anywhere â¢ Set and track monthly goals for reducing your environmental footprint and saving money â¢ Receive energy saving tips and price change notificationsâ¢ Link with Facebook to share your results with friendsREQUIREMENTS: To use Smartlee, you must have a supported electric, gas, or water meter or other Smart Energy device that can communicate wirelessly with an Internet gateway. Visit www.livesmartlee.com for more information. DEMO MODE: The Smartlee demo mode allows you to explore the app without requiring live devices. ABOUT US: Digi International is making wireless M2M easy by developing reliable products and solutions to connect and securely manage local and remote electronic devices over a network or via the web. For more information, visit www.digi.com.",
+    "reviews": [
+      {
+        "documentVersion": "1.3.1",
+        "timestampMsec": "1332047550096",
+        "starRating": "2",
+        "title": "Installed but the app will not connect to my Gateway.",
+        "comment": "Autodiscovery should be implemented",
+        "commentId": "lg:AOqpTOFqYnBr66ljSD0n5MH4vy9FYlNjQF6mBdiqEspn7_1w5yE-sgqCGB-UirTlpnyfsN7ZQ6p1fu_xZvPtUg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.digi.smartlee.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

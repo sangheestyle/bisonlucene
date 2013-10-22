@@ -1,0 +1,49 @@
+{
+  "title": "Madison Craft Beer Week",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.festbuddy.madbeerweek",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "May 4, 2013",
+  "version": "2.0.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "High Maturity",
+  "creator": "FestBuddy",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.festbuddy.madbeerweek",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This is the official Android app for one of the Midwest's premier craft beer events - Madison Craft Beer Week. Use this app to stay up to date on events and locations. Visit http://www.madbeerweek.com for more information.Madison Craft Beer Week is an annual celebration promoting Madisonâs thriving craft beer culture, enhancing beer knowledge and appreciation by sponsoring a ten-day (two weekend) countywide festival that attracts beer tourism, fosters knowledge of our regional brewing heritage, and serves as a showcase for the Madison areaâs breweries, restaurants, pubs, caterers, retailers, entertainers, and other businesses with ties to the craft beer community. Craft beer lovers will have the opportunity to attend events ranging from beer dinners and food pairing to beer walks, bar promotions, brewery parties and plenty more!To add an event to your Calendar, go to the Event detail view, press Menu, and then Add to Calendar.To share Event details with a friend or blog, go to the Event detail view, press Menu, and then Share. If you have a Twitter or Facebook app installed you will also be able to post directly to them.To view a Venue on your Navigation app, go to the Venue detail view and press the Map icon to the right of the Venue name.To check for updated events, press Menu and then Refresh Data. This app will not read or modify your calendar or send messages to your contacts without your consent.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1335875975294",
+        "starRating": "4",
+        "title": "Simple and Accuate",
+        "comment": "All of the MCBW events with descriptions, times and locations.",
+        "commentId": "lg:AOqpTOE0xCV0lkhD7Btfz-xghez2XJD34KzHqnv89URsCAs1QYJu1yAD3U9upi-pVFQKKkFBPe-mlluuVzdNIXM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336230713281",
+        "starRating": "5",
+        "comment": "Excellent tool to help me find beer!",
+        "commentId": "lg:AOqpTOHW0wMm7NW0Cha7gvJafSQ9BEhJw6scgbCjmtezaNvUCfEc1xWgmER04GT4ft5c-omG22J0VjKmyRe2RgI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

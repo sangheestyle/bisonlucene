@@ -1,0 +1,54 @@
+{
+  "title": "Cobnks Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cobnks.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 1, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cobnks.mobile",
+  "extendedInfo": {
+    "installSize": "774k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Community Banks of Colorado enables you to take your bank with you wherever go through Cobnks Mobile-- a fast, free and secure app.*Getting started:**Download the app and use the same user name and password for online banking to sign on. What you can do:*â¢\tCheck the balances in your checking, savings, money market or CD accounts.â¢\tGet the most recent transactions for these accounts, with a detailed transaction list including the date and the amount of transaction.â¢\tMake transfers between eligible Community Banks of Colorado accounts.***â¢\tPay your bills anytime/anywhere***â¢\tUse a Zip Code or GPS location to find the nearest banking center or ATM. Security:â¢\tYour security is important; Cobnks Mobile is safeguarded by 128-bit SSL (Security Socket Layer) to prevent unauthorized access. â¢\tWe never transmit your account number and no private data is ever stored on your phone.  *There are no fees to use Cobnks Mobile, but mobile carriersâ message and data rates may apply, contact your data provider for more information on message and data rates.**Must be currently enrolled in Online Banking to use Cobnks Mobile. ***Transfer and Bill Pay must be set up in Online Banking prior to using through the app.To see Community Banks of Coloradoâs Privacy Notice procedures, visit www.Cobnks.com.Community Banks of Colorado is a division of NBH Bank, N.A., Member FDIC.Keywords: Community Banks of Colorado, Cobnks, mobile banking, online banking, secure mobile banking, Cobnks",
+    "reviews": [
+      {
+        "documentVersion": "2.5.19",
+        "timestampMsec": "1364930805863",
+        "starRating": "5",
+        "title": "Droid",
+        "comment": "Works great! thank you!",
+        "commentId": "gp:AOqpTOEWqH-Ok59Xr77V-v3OB0Ne-rA4OjAfdkCxzPBEP_0cMJJwJ9sDIoGV-ver02RS79Xh-5Y9o6u82UMPYw",
+        "author": "James L",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369788137173",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Love this app.",
+        "commentId": "gp:AOqpTOGr9P9PVpbEg-JioYLrfYEemisphXqyMElILj8w5hHQksU8r5SjxwHz0ivfUWwFF5PVyZUU50WpaliMag",
+        "author": "LaVerne Kephart",
+        "authorURL": "http://lh5.googleusercontent.com/-9Vj7kEL9uJ0/AAAAAAAAAAI/AAAAAAAAABg/5IPm2_HltaU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-9Vj7kEL9uJ0/AAAAAAAAAAI/AAAAAAAAABg/5IPm2_HltaU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

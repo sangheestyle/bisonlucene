@@ -1,0 +1,32 @@
+{
+  "title": "Mandarin Court",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wMCourt",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "October 28, 2011",
+  "version": "0.21.13198.68104",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Voltaire Samonte",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wMCourt",
+  "extendedInfo": {
+    "installSize": "117k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This is the Official Android Apps of Mandarin Court Licensed Restaurant, in Gold Coast, Australia.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wMCourt.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

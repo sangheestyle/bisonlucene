@@ -1,0 +1,56 @@
+{
+  "title": "Room Commander",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dfsol.RC",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "October 2, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "6",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "DF Solutions Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dfsol.RC",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "A 2-way interface for remote-controlling of the DF Solutions range of Media/Audio Servers.* Supports fully cover-arted browsing of Albums/Artists/Genres/Radio/Spotify/Movies.* Can build and edit playlists.* Full TV IR-control emulation (via Wifi).* Support for English/Russian/Spanish languages* Automatically detect servers/zones via Wifi.",
+    "reviews": [
+      {
+        "timestampMsec": "1324337575500",
+        "starRating": "5",
+        "title": "Slick!",
+        "comment": "Really impressive..",
+        "commentId": "lg:AOqpTOFAisC5F-pemTDciscHxGAbBlk6y_Sen2rJ2JkTjHaiB44t9U6REVXs2NmIS8RuNzgewlj31DCptiAgDQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329304179042",
+        "starRating": "5",
+        "title": "Does everything I need",
+        "comment": "It is so handy to have such a comprehensive remote control in my pocket at all times.total control of movies and music what more could you need. 1st class",
+        "commentId": "lg:AOqpTOGaTzWE0CkdT93npQv34Hc56HxkMDTTO1rDQZO-ecTxbCWECh9ONCOetfhQhaUEHe-cYDy4Z7wir9cZlw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324551484553",
+        "starRating": "5",
+        "title": "Excellent app, controls my Base from anywhere!",
+        "comment": "I have been using this app to control my Base for about a week now and it is really handy. I do not have to use my ir remote anymore as everything is as easy to do this this app. Accessing and playing any item in my music or movie library is a breeze, creating playlists is also easy to do. Recommend this for anyone using a DFSolutions Base or link!",
+        "commentId": "lg:AOqpTOFmt9A-Ldwfr45TYmdqLAhxsoXc8adhayrQFrNwqRXvpfEt7K8--kf-oH_LdupXk6gIL0ddtUBxshZA4g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

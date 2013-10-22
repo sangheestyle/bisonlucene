@@ -1,0 +1,47 @@
+{
+  "title": "Ditto Trade Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dittoTrade.dittoAndroid",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 23, 2013",
+  "version": "1.1.2",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Ditto Trade, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dittoTrade.dittoAndroid",
+  "extendedInfo": {
+    "installSize": "4.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Description â Ditto Trade Mobile Ditto Trade Mobile is the only brokerage App that actually allows you to connect to another customer. This allows you to see and trade what others are trading in real time. When someone you are connected to makes a trade, you get an instant notification and the ability to make a trade with the push of a button. You can easily set your preference for how you want your trade to be submitted. â¢ Market Order â¢ Limit Order for the day â¢ Limit Order fill-or-kill â¢ Limit Plus Ditto Trade Mobile doesnât stop there. If youâve chosen to attach yourself to a Lead Trader, youâll get an instant notification every time he makes a trade that youâre part of. Ditto Trade Mobile gives you the ability to instantly close any Lead Trader controlled position at market or to detach the position and close it out at a time of your choosing. And of course, Ditto Trade Mobile allows you to check your positions, account balances and place trades, all while getting free real-time streaming quotes. So now, whether youâre following someone you know or trading by yourself, you never have to miss a trade. PLEASE READ THE IMPORTANT DISCLOSURES BELOW. Â¹ Trades received outside normal market hours will be entered the next business day. Â² For more information please visit www.DittoTrade.com/mobileapp.",
+    "reviews": [
+      {
+        "timestampMsec": "1352237957448",
+        "starRating": "5",
+        "title": "Amazing!",
+        "comment": "This app is fantastic for ditto customers.  It allowed me to follow my lead trader, anywhere!  The design of the app is sleek and user friendly.  I would recommend this to anyone.",
+        "commentId": "lg:AOqpTOFgK0ywy0i0kjj5hGpqSwzIH44ySiXbuay_m1ecf607YgF7a1jIiH1KtdWOyVMDfwpn0rO-y8oo2tn1BWQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352244251264",
+        "starRating": "5",
+        "comment": "berry good",
+        "commentId": "lg:AOqpTOHzd6hMKr02BCzuvKKv-i9LEbxNzXP14YfUrRLNf1gK39Tmah9LY-iDYPG5NMwHiveoR-1qwcII1c8RcrM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.dittoTrade.dittoAndroid.permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

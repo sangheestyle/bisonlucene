@@ -1,0 +1,45 @@
+{
+  "title": "ecordiApp",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ecordia",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "July 23, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Ecordia",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ecordia",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "EcordiApp is the mobile application for the Ecordia e-portfolio and e-assessment solution for training centres and education establishments. EcordiApp is designed to assist users in gathering evidence quickly and efficiently using their Android device. You will need to have a current username and password to use EcordiApp, because this application is designed to be used in conjunction with the main Ecordia system.Key Features:- Progress and gap analysis- Digital signatures & verification- Create and upload videos, images and audio files- Access assessment plans and download learning materials- Type evidence records â such as observations and reflective accounts.- Add and submit new evidence in a portfolio- View, prepare and submit existing evidence â and download evidence attachments- Link and cross-reference evidence to the course standards- View and accept assessment feedback and unit completion declarations- Offline and Sync: enabling you to use EcordiApp without internet access, then when you are able to connect to the internet the app will synchronise with Ecordia",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1377121013294",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "It needs to show us our emails we recieve on it as they are important too!",
+        "commentId": "gp:AOqpTOEcwrQmDacWSwzmbjDLF26LZ-Wtwx-bQvsB2LW4HJmBjDX8hYk61kc932m-N5VSMhlxIDToY2gTLR-y3eI",
+        "author": "Laura Parkinson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.ecordia.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

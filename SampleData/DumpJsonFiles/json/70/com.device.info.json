@@ -1,0 +1,52 @@
+{
+  "title": "Galaxy S4 Device Info LWP",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.device.info",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "November 12, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "appMink.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.device.info",
+  "extendedInfo": {
+    "installSize": "287k",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "AnalyzeME -a Mobile Device Testing Application to verify the readiness status of your Android device for various types of connected mobile applications. It provides you complete information regarding the resources and networks on your device. The application can be used to get complete status of your Device resources, Network connectivity settings and the status of sensors. Users can also test some of the features of their phone at run time.Users can then send the status report of the device via eMail or SMS to a support engineer or organization, enabling application providers to support users on the working of their applications.Unique Features:-\tRuntime Refresh- Any resource changes while running the application are reflected immediately.-\tNetwork Test â Users can check whether Wifi and Mobile Data networks are working by using the test buttons provided.-\tSend Report â User can send report by Email / SMS.Related Tags device info, system info, sys info, device test, test wifi connection, test network connection, device information, telecom operations, test gprs connection, telecom operator app, network test app, application support test",
+    "reviews": [
+      {
+        "timestampMsec": "1322050747237",
+        "starRating": "5",
+        "title": "Great utility",
+        "comment": "Must have",
+        "commentId": "lg:AOqpTOGmIMNmhX-yAEbBBUBE04DVV9dRWhXim5nZmkoQW3-bcGIS-Ai8jZLwJwIh-ngGTQsGeoPrmTnyLROo2A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1321883784314",
+        "starRating": "5",
+        "comment": "Excellent app",
+        "commentId": "lg:AOqpTOHYWTXRu2DDokFEM4rkLNNA8G9mDL8dg_yur0r7BCpSqe44m3D5-7qxea6OXD-Nn9QeQBBprAqkFfbPpA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.INTERNET",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ]
+  }
+}

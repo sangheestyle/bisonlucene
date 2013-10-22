@@ -1,0 +1,29 @@
+{
+  "title": "Snow cover Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.finazzi.snowcover",
+  "category": "Weather",
+  "price": "$1.50",
+  "datePublished": "March 27, 2013",
+  "version": "3.3.27",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Francesco Finazzi",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.finazzi.snowcover",
+  "extendedInfo": {
+    "installSize": "494k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This app shows the snow cover for the entire globe at 5km resolution for the last 3 days available. Data are obtained from remote sensing from the NASA MODIS satellite and they are displayed on map. Each pixel represents the percentage of the area covered by snow. This application is useful for:- Organize trips and hikes in the mountains (from the Alps to the plains to the glaciers)- In the case of skiers and snowboarders to plan your skiing holidays, or simply to see the status of the snow before go skiing with ski and snowboard- To check if there is snow on the slopes and at the lifts or near resorts and to view the status of snow in areas not covered by weather reports- In the winter to see if the car trips will cross areas covered by snow and mounting snow tires or chains.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

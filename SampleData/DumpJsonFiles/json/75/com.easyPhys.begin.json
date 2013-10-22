@@ -1,0 +1,31 @@
+{
+  "title": "EasyPhys",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.easyPhys.begin",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "February 20, 2013",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "EasyPhys",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.easyPhys.begin",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Physics is hard for you? Not anymore! Download this application and solve most of equations by pressing few buttons and forget about mistakes in units. This application also has useful constants that you would have them everywhere and few links to physics lectures and other helpful websites.Features:-Physics equations calculators-Scientific calculator-Descriptions of physics equations and constants-Links to science related sites and wikipedia-Uses very little space-Values calculated are kept as accurate as possible (Exact in some places)NOTE: This is an Beta version so bugs will be expected. Please contact us for any bugs, problems and suggestions. Make sure to include your android version in the email. Do contact us for feature requests and equations/constants to add. If it is relevant it will be added in the next versionFeatures under Development-Physics and maths Graph plotting (if the openGL 3D testing is too slow or fails on your phone please inform us so that we can include a version that uses standard android GUI and CPU instead of openGL ES for creating graphs.-Vector calculator-Performance and storage improvements",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

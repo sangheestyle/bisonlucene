@@ -1,0 +1,31 @@
+{
+  "title": "Cryosphere Today",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cryosphere",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "February 21, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.3333333",
+  "contentRating": "Everyone",
+  "creator": "Android Dogware",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cryosphere",
+  "extendedInfo": {
+    "installSize": "29k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Cryopshere Today is a simple program designed to give you access to the data from Cryosphere Today's wonderful website.  This allows you to see daily data on the state of our arctic and antarctic ice caps.  The buttons at the bottom allow you to see different types of graphical data.  The app is free.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

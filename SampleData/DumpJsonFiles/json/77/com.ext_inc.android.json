@@ -1,0 +1,60 @@
+{
+  "title": "EXTENSION Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ext_inc.android",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "October 29, 2012",
+  "version": "1.2-6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Everyone",
+  "creator": "EXTENSION, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ext_inc.android",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "EXTENSION Mobile for Android is a user-friendly application that allows physicians, nurses and other clinical staff members to stay connected to each other and to your patients from any location. Our mobile solution advances patient care as it allows caregivers to effortlessly send and receive critical alerts and other notifications on your Android phone. Some use case examples:- Critical Lab Result Notifications  â Immediately receive LIS data in conjunction with important patient information directly on your Android phone- Device Messaging â Easily send and receive personal or group messages and alerts - Report Availability Alerts to Ordering Physicians - Nurse Call Integration â Quickly receive alerts with relevant patient data from HIS/HER systems- Staff Assignment â Effortlessly select hospital room and bed assignments directly from your mobile device - STAT Order Notifications â Obtain order information automatically and instantaneously",
+    "reviews": [
+      {
+        "timestampMsec": "1331691020996",
+        "starRating": "5",
+        "title": "Best New App in Healthcare",
+        "comment": "I love all the information that i am able to view on this application. It saves so much time and allows more patient to nurse face time.",
+        "commentId": "lg:AOqpTOHEOsv5XaLeA5wxPyWPkpepiCZ9VauBhepZ7V6OHPBY3rs5ndwA16hje0UL46q_7Ud42qThIRWYehKtJrU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351624076310",
+        "starRating": "5",
+        "title": "Truly amazing",
+        "comment": "This app is awesome! I love how easy it makes my life, they it complies my patients, lab results, and history is flawless. I love how when i get a alert im able to call sender back, accept/decline..i could just go on forever..great job on this keep up the good work",
+        "commentId": "lg:AOqpTOHFLOokGnnGRy5dvbHYCNkxamKhD1wtbzS9aTkPvSj_WckAkOIMPgxNC26nAB1i8WaWARlXGGl5PR5YeHs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324494725825",
+        "starRating": "1",
+        "title": "Broken link, doesn\\'t work",
+        "comment": "I was assigned to look into this software for my company.  I downloaded the app, which in turn takes you to a web page where you register your information.  When you register and it tries to download, it takes you to a broken link.",
+        "commentId": "lg:AOqpTOFSWuk6l0d_z_sg6wDKD1eCL0VzoZlX7pHfYH-2zrmCS8-HoGb4TO_quJuRoXk24xU8kEvE7CCtiBdo_Ig",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.ext_inc.android.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.SEND",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

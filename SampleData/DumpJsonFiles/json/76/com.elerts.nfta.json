@@ -1,0 +1,68 @@
+{
+  "title": "NFTA See Say",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elerts.nfta",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "June 2, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.6",
+  "contentRating": "Low Maturity",
+  "creator": "ELERTS Corp.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elerts.nfta",
+  "extendedInfo": {
+    "installSize": "3.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "âIf you see something say somethingâ for smartphones The NFTA See Say App offers the public a quick and discreet method for reporting suspicious activity directly to the NFTA Transit Police. The app can send pictures, text messages, and locations of suspicious people or activities. From the home screen, users have two easy options for contacting the NFTA Transit Police: * The âReport a Problemâ button allows users to send text or photos directly to the NFTA Transit Police. To ensure discretion, the camera flash is automatically disabled when photos are taken through the app. When reporting an issue, users can select locations and report categories to assist the NFTA Transit Police. Riders can also send reports anonymously if they chose. * The âCall NFTA Policeâ button will connect customers directly to the NFTA Transit Police. The application is designed for NFTA. If you send a report in an area without cellular connectivity, it will be stored and sent when connectivity returns. The system is also designed to send text messages before pictures so that the NFTA Transit Police can get app reports as quickly as possible. Additional Features BOLO (Be On the Look Out) Alerts. BOLO Alerts on the See Say App may display alerts from NFTA Transit Police about specific persons of interest. For example, See Say may display information about a missing person or child, such as where they were last seen. If you see a person from a BOLO, immediately call 911 and send an app report to NFTA Transit Police discreetly.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1371563391430",
+        "starRating": "3",
+        "title": "one little problem...",
+        "comment": "I have no coverage in stations or trains underground. Good idea though. Maybe add WiFi in underground stations?",
+        "commentId": "gp:AOqpTOGHyBNvIf7CVfu8Vm4iwYZkP42TBaEB8Lu5CbWB3MSwqOhEMuF2OBKDx8BES1_sedLecnTorNSFzUBHmQc",
+        "author": "Richard Guarino",
+        "authorURL": "http://lh6.googleusercontent.com/-rTD-iq6EJmE/AAAAAAAAAAI/AAAAAAAAAbk/Ok97fKsNbfw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-rTD-iq6EJmE/AAAAAAAAAAI/AAAAAAAAAbk/Ok97fKsNbfw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1370789512007",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "It help me downtown buffalo new York",
+        "commentId": "gp:AOqpTOGYeOyxxCOM8dw8-NnB0td7jUf6ei4QIrTodxBRRTUKgwJ-9QwFxhvArIH99nGfI9QwSLWwb9XrykQ2S_Y",
+        "author": "Daniel Charles Salah",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370562409036",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "Wishing more agencies would do this. Would get great intel and reports from the public I think as people are not as willing to talk face to face to Law Enforcement Officials.",
+        "commentId": "gp:AOqpTOHK8uxFfmYPHCDHO9URW0AsHsdSkySMN6jIOtotOyzD7-aEBK-9LLjQ20z4OGwlFhcMw64lnKYClIMKfLA",
+        "author": "Shawn McMahon",
+        "authorURL": "http://lh5.googleusercontent.com/-yEwB6w_rG_E/AAAAAAAAAAI/AAAAAAAAAQc/xiCqVuyq7yQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-yEwB6w_rG_E/AAAAAAAAAAI/AAAAAAAAAQc/xiCqVuyq7yQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "com.elerts.nfta.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

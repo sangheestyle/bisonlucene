@@ -1,0 +1,28 @@
+{
+  "title": "ANT Radio Service",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsi.ant.plugins.antplus",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "September 6, 2013",
+  "version": "2.0.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Everyone",
+  "creator": "ANT+",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsi.ant.plugins.antplus",
+  "extendedInfo": {
+    "installSize": "414k",
+    "downloadsCount": "10,000,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "The ANT+ Plugins enable other apps to communicate with millions of ANT+ enabled devices. These other applications which utilize the plugins will allow you to do things such as collect, transfer, and view your sport, health, and fitness data in real time. New apps, devices, and profiles are continually being developed, with endless opportunity for personal monitoring and other low-power communication applications.The current version of the plugins supports the following ANT+ profiles:-Bike Power: Receive power data from ANT+ cycling power meters. Includes seamless support for all power meter types and the new advanced data sent from meters such as the Garmin Vector-Audio, Video, and Generic Controls profiles: Send and Receive control data with remote controls (IE: use a remote control watch app to control your MP3 player or camera)-Heart Rate: Receive live heart rate data from heart rate straps produced by many popular manufacturers-ANTFS Watch downloader utility: Download saved activities from ANTFS enabled watches-Bike Speed and Cadence: Receive live bike speed, distance, and/or cadence data-Blood Pressure: Download saved measurement data from blood pressure devices-Stride-based Speed and Distance Monitor: Receive live speed and distance data from footpods-Fitness Equipment: Connect to ANT+ enabled fitness equipment to receive live workout data-Geocache: Search for and receive/send data with remote devices such as the Garmin Chirp-Weight Scale: Read and download weight data and advanced body measurements such as BMI from ANT+ enabled weight scales-Environment: Receive temperature data and records from remote temperature sensors such as the Garmin TempeAttention Developers! Using the ANT+ plugins in your app to communicate with ANT+ devices is quick, easy, and free and uses a simplified API that doesn't require referencing technical documents or learning new protocols. Visit the ANT Android Developer page http://www.thisisant.com/developer/ant/ant-in-android/ for more info and to download the SDK.Note: This application is a service that other applications use to communicate with ANT+ devices. It can not be launched directly; In order to communicate with ANT+ devices, you will need to run one of these other applications. To test or to try out the plugins you can get started with the sampler app here: http://play.google.com/store/apps/details?id=com.dsi.ant.antplus.pluginsamplerAlso note: This service requires the ANT Radio Service to be installed and requires hardware support built into your phone or via an adapter. Please refer to the ANT Radio Service listing for more info and hardware requirements  (https://play.google.com/store/apps/details?id=com.dsi.ant.service.socket) or http://www.thisisant.com/consumer/ant-101/ant-in-phones/ANT+ is an established wireless technology with over 60 million devices in the market. With ANT+ you have the opportunity to link to top devices and applications to collect, transfer and track your very own data. ANT+ is an extremely power efficient solution with advanced functionality, that gives you the most reliable data, simply and easily.  Look for the ANT+ logo on your devices to ensure you get the best in sport, fitness and health monitoring.To learn more about: -ANT and ANT+ http://www.thisisant.com-ANT on Android http://www.thisisant.com/consumer/ant-101/ant-in-phones/-Devices which support ANT+ http://www.thisisant.com/directory-Developing ANT-enabled apps http://www.thisisant.com/developer/ant/ant-in-android/Please send any questions to info@thisisant.com.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

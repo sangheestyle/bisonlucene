@@ -1,0 +1,54 @@
+{
+  "title": "LIBERTY Dental Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drumbi.liberty.dental",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "March 14, 2013",
+  "version": "2.1.1",
+  "operatingSystems": "2.2 - 4.1",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Liberty Dental Plan Corporation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drumbi.liberty.dental",
+  "extendedInfo": {
+    "installSize": "3.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "LIBERTY Dental Mobile offers a quick and easy way to access your member account information and puts our most popular online features at your fingertips. LIBERTY Dental Mobile allows LIBERTY Dental Plan members to access their member information, view benefits and co-pays, find a dentist, and get answers to Frequently Asked Questions (FAQ).Available features include:â¢ Member Services: Access your member information (including effective date, group information and member number), benefits and co-pays, and coverage details for minor dependents. Contact LIBERTYâs Member Services with one tap on the call button and speak to a representative that is automatically prompted with your basic member information.â¢ Find a Dentist: Search for a dentist that accepts your LIBERTY plan. Use your current location, an address or zip code to access a list of dental offices in the area. â¢ Dental Health: Get dental health tips to help you maintain clean and strong teeth.â¢ FAQ: Find answers to the most common coverage questions.NOTE:You must be registered with an online account at www.libertydentalplan.com to be able to logon to the Member Services feature. Once your account is registered online, you will have full access to the LIBERTY Dental Mobile features within 24 hours.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1358468703645",
+        "starRating": "1",
+        "title": "Not good",
+        "comment": "Too bad it doesn\\'t let you in...:( will",
+        "commentId": "gp:AOqpTOG7CnY3pvEdlGsXJrgzydQ-JVe0gY7dZKMxtEli8IGux04ZX4T9B3vXbYZlcLEABGmFLeAwOKdEeTQjuTs",
+        "author": "Aurora Coburn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1337464958646",
+        "starRating": "5",
+        "title": "Awesome App!",
+        "comment": "Very helpful and easy to use. I\\'ve used it several times to find a dentist in my area.. galaxy s2.",
+        "commentId": "lg:AOqpTOEQ36VtMXXWPMFFUs9F88v3TI1HEXpWTucLImbYQ6aa_CFDjSCAitdErd6oT1CSUf5c0dLWbtplNbUI1ac",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

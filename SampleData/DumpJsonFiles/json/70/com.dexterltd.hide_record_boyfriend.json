@@ -1,0 +1,43 @@
+{
+  "title": "Hide Boyfriend, Record Calls",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dexterltd.hide_record_boyfriend",
+  "category": "Lifestyle",
+  "price": "$6.99",
+  "datePublished": "July 17, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "Manas Gajare",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dexterltd.hide_record_boyfriend",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This is a MUST HAVE app for those who have  boyfriend!If you have a boyfriend, you and your mobile are constantly watched by your friends and relatives. You need a PRIVATE BOX where you can practically store all the data of your boyfriend, be it his photos or videos, files or SMS, call logs.Recording calls of your boyfriend has also become necessary, be it your sweet talk or quarrel between you two. It can be used later on to remember the good old times!To address this need of the time, we have come up with HIDE RECORD BOYFRIEND App.Features in a nutshell --- Record his calls-- Hide his SMS / text messages-- Hide call logs-- Block call / hang up-- Block call and send auto text-- Hide photos-- Hide videos-- Hide audio files-- Hide files (any kind of file e.g. txt, word)-- Backup functionality provided-- Highly customizable app-- Beautiful interfaceTHERE IS MORE. The app is DISGUISED as CANDLE APP which in itself is a fully featured app. When you open the app, you'll see a candle, tap at tip of the candle and the flame will be put on. Blow into the mic to put off the flame. Press MENU button to change color of the candle, to adjust mic (blow) sensitivity. You can show off this disguise to people. It's too beautiful to face suspicion that any privacy app is hidden behind this. It's a marvelous decoy.HOW TO GET INTO THE REAL APP?Tap on the NAME \"Candle App\" four times, and you'll be asked for the password. After putting correct password you will get into the real app. For the first time use, you'll be asked to create password.Yes, this app has dual security - disguise and password protection!How can I hide my boyfriend's photos/videos/files?Go to default file manager app, select all his photos / videos / files that you want to hide, click menu -> share/send -> Candle App. That's it. Now you'll find these files in respective folders hidden within our app.Can I hide more than one boyfriend?Yes, absolutely!How can I access settings for call recordings?Once you are in the real app, just click MENU button and you'll see Call Recorder Settings option.Where can I access my recorded calls?Go to Audio folder in our app, there is a button on the right top side, click on it, you'll see all the recorded calls. These files are hidden automatically.Call recording does not work properly on many phones, what do I need to do to overcome that?In the Call Recorder Settings option, click on AUDIO SOURCE. For android versions above 2.3 - VOICE DOWNLINK is most likely to run, try that.For versions below 2.3 - MIC with speakerphone runs fine. We understand that you wouldn't want anyone to hear you especially when you are talking with your GF, but there is no other option, android is very restrictive about call recording. You can still try out combination of other audio sources with/without headphone and choose which one is best for you. Can I stop call recording service? How?Yes you can. There is option provided in Call Recording Settings. We are in process of adding more awesome features in the app, your suggestions are welcome.If you have any issue/doubt with the app, drop us a mail at contact@dexterltd.com(Don't put any stupid comments, it won't help us solve the issue for you)Keywords: Hide, call recorder, boyfriend, girlfriend, privacy, security, hide sms, hide call logs, block calls, hide photos, hide videos, hide files, private box, disguised app, decoy.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MODIFY_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

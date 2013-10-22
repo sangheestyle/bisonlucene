@@ -1,0 +1,40 @@
+{
+  "title": "DJ Miss Kay Dee Android App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_cdcd9092b5914102b5d546070c00c910.app",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "June 20, 2013",
+  "version": "1.78.93.13588",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Vlad Skrbic",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_cdcd9092b5914102b5d546070c00c910.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Welcome to DJ Miss Kay Dee's Official App for Android!Download this app and stay connected to Miss Kay Dee's music, news, tweets, videos, and other content in real-time.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_cdcd9092b5914102b5d546070c00c910.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Business Class Email (BCE)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cisco.bce",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "November 1, 2012",
+  "version": "1.0.1.015",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "8",
+  "rating": "4.375",
+  "contentRating": "Everyone",
+  "creator": "Cisco Systems, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cisco.bce",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "PLEASE NOTE â This product requires access to Cisco Registered Envelope Service (CRES) or Cisco IronPort Encryption Appliance (IEA) to enable this application to be used with the Android email application. â¢\tFlagging functionality requires the mail server to be configured to detect the flagged messages and encrypt them at the server. Flagging and encryption modes require authorization by an administrator. â¢\tThere is a known issue with the Android Operating System when receiving quoted-printable attachments using IMAP.  As a result, Microsoft Exchange is only supported with BCE.â¢\tGoogle Android version 2.3 or later is required. ---------------------------------------------------------------------------------------------------Cisco Business Class Email (BCE) improves email with controls including read receipts, email recall, email expiration, and forward/reply control from the native smartphone email client. Additionally, BCE removes the complexity of encryption and key management, enabling users to send and received secure messages just like normal emails. The two primary components of Business Class Email are:â¢ Confidentiality: BCE encrypts emails to protect its confidentiality during transit and leverages the latest authentication technology to make access to the encryption key easy and secure.â¢ Enhanced Email Controls: Enable complete control over emails sent, even after they have been sent and the capabilities are:â¢ Read Receipt: Sends a read receipt when an email recipient opens an email.â¢ Email Recall: Locks the decryption key, disabling the email from being opened.â¢ Email Expiration: Enables the sender to set an expiration date for the email.â¢ Forward/Reply Control: Allows or prevents the recipient of an email to forward/reply/reply all. Other features include:â¢ Flag for the email to be encrypted â Flag a message to have the Cisco Email Security Appliance (ESA) or IronPort Encryption Appliance (IEA) encrypt the email. This is typically used only for encrypting email to external recipients.â¢ Diagnostics and reporting â Logs can be emailed for troubleshooting purposes.If you are an end-user and have any issues or concerns, please contact your organizationâs support department. If you are a System Administrator having difficulties configuring or utilizing the Application, please contact your designated support point of contact.",
+    "reviews": [
+      {
+        "documentVersion": "0.1.015",
+        "timestampMsec": "1374133836292",
+        "starRating": "5",
+        "title": "Super",
+        "comment": "This app is really awesome!",
+        "commentId": "gp:AOqpTOECO7-J2pJ_vWd6qdnaW5T4AkUGM2OcONaNbDAJFx-0ltIddXuesn1aWh4tleka3pFKoAx94169uSha6bE",
+        "author": "Hryhoriy Hrushchak",
+        "authorURL": "http://lh3.googleusercontent.com/-Cl1GtQuDK0g/AAAAAAAAAAI/AAAAAAAAFiI/79NXyMLc00Q/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Cl1GtQuDK0g/AAAAAAAAAAI/AAAAAAAAFiI/79NXyMLc00Q/photo.jpg"
+      },
+      {
+        "documentVersion": "0.0.088",
+        "timestampMsec": "1344360033804",
+        "starRating": "5",
+        "title": "Very useful app.",
+        "comment": "If you are a user of Cisco Registered Envelopes, this app makes reading and writing secure email significantly easier.   If not, don\\'t bother downloading this app since it won\\'t make sense.",
+        "commentId": "lg:AOqpTOEUklE2FHle9daTMy1wmSjteR4hQC9LsZfWWV4UeIuLjyIif58InFNmpBIytQreqC29IVyYbudZdfVnKow",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.0.088",
+        "timestampMsec": "1347297191880",
+        "starRating": "5",
+        "title": "Great for my CRES envelopes",
+        "comment": "This app is great to open Cisco secures envelopes.  I highly recommend this app for  CRES recipients.",
+        "commentId": "lg:AOqpTOFxUoEvucsDa7fsyn2ly-8ayE1FFsT77S7DaJ-2bs87Cqn421MNHkvgLlvW_L8vG0495UO1A9_OODGy58s",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.0.088",
+        "timestampMsec": "1348352126302",
+        "starRating": "1",
+        "title": "Junk",
+        "comment": "should pull email addresses from your address book if email was forwarded to you or you have to retype it.  Does not automatically open email have to save it then open it",
+        "commentId": "lg:AOqpTOERFD5nOCzLdFqklECR4LUlU-CkqlRw9ePjxqk2v43k9I_n2Np57UZPFZKnN6nnfVAlg2GV9vKRuvsQFqo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.READ_INTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.email.permission.READ_ATTACHMENT",
+      "com.google.android.gm.permission.READ_GMAIL",
+      "com.fsck.k9.permission.READ_ATTACHMENT",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

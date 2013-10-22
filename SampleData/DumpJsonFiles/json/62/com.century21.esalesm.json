@@ -1,0 +1,46 @@
+{
+  "title": "Century 21 e-Sales",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.century21.esalesm",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 21, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "centernet",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.century21.esalesm",
+  "extendedInfo": {
+    "installSize": "955k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Access your CENTURY 21 e-Sales system from your Android Smartphone.Access is limitted to CENTURY 21 e-Sales account holders. Currently supports Smarphones with Android 2x only.Version 1.1 supports Android's latest Jelly Bean as well.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

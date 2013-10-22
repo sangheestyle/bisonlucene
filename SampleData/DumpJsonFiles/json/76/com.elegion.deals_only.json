@@ -1,0 +1,46 @@
+{
+  "title": "Only Deals PRO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elegion.deals_only",
+  "category": "Business",
+  "price": "$1.99",
+  "datePublished": "March 22, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "e-Legion Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elegion.deals_only",
+  "extendedInfo": {
+    "installSize": "413k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "e-Legion issues a mobile application for Highrise, a popular service for business contacts and tasks management from 37signals. Highrise is built around 3 basic elements: contacts, tasks, deals. Our mobile application is designed to perform operations with deals and allows a user: - to see all the recent activities: deals status changes, last comments - to see detailed information on deals - perform search for specific deals - post new commentsPRO version is advertising free. FREE version includes advertising. Test credentialsServer: testcompany14User name: Stieg LarssonPassword: pinozero",
+    "reviews": [
+      {
+        "timestampMsec": "1337089911842",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "I really like to remove ADSL",
+        "commentId": "lg:AOqpTOF4fC8JtG5Z8iCAhp6l--1qPmWi8wTwQP2UDZpeIXhOPMEoJMTZ-csrtF03QtK3IzXHgtBbFAS5C5Ht8KI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343007745686",
+        "starRating": "4",
+        "title": "Great app, almost 5 stars.",
+        "comment": "Simple & streamlined. For 5 stars needs quicker sign-in and ability to choose the default landing tab (new/deals). Another big plus would be a tasks tab. Thanks for making this app!",
+        "commentId": "lg:AOqpTOF14nb1mymzJRSeGWSe3C892spYd5pUqQy693mKgOKhjxr9-2H9lwRHZT7NcsIZqw4jo6RMCH9_eA76RF0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

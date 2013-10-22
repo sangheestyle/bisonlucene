@@ -1,0 +1,59 @@
+{
+  "title": "Wisconsin State Fair",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdtorch.wisconsinsf",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "August 8, 2013",
+  "version": "8.8.1.2251.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "CrowdTorch",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdtorch.wisconsinsf",
+  "extendedInfo": {
+    "installSize": "9.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is the official Wisconsin State Fair mobile app. The 2013 Fair runs from Aug. 1 - 11. The annual State Fair is Wisconsin's largest agricultural showcase, offering endless family entertainment at a phenomenal value. The Fair features the exciting SpinCity Amusement Ride & Game Area, 30 FREE stages, educational exhibits, shopping and hundreds of food and beverage options, including 70 new foods this year! Use this app to find information on food, shopping and daily entertainment. Don't forget to stay connected with us by using the share button to post on your favorite social media sites.",
+    "reviews": [
+      {
+        "documentVersion": "1.2251.1",
+        "timestampMsec": "1375328843179",
+        "starRating": "5",
+        "title": "Samsung  Galaxy 1",
+        "comment": "Awesome app!!",
+        "commentId": "gp:AOqpTOEtzDWrmIz4r6Jxd-5faW002WdH5JAeDg7Yv4bF2w6jhhoGX7zWu_jcFkGoOHXDyvaU38LMMB4cTGeWMcw",
+        "author": "Jenna Crnkovich",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375643464902",
+        "starRating": "1",
+        "title": "Incomplete",
+        "comment": "Doesn\\'t have a full list of vendors, attractopns, etc.",
+        "commentId": "gp:AOqpTOGBH4kRWa7BilJ7JtZIu-KlFVxTxuefUV0Dq2vMl6YjNZhJmp7ia4jBzsK7ttI63NZgndWrP4qEKMK-fxQ",
+        "author": "Patrick Bivona",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdtorch.wisconsinsf.provider_permission",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.VIBRATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.GET_TASKS",
+      "com.crowdtorch.wisconsinsf.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Chariot Gauge",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chariotinstruments.chariotgauge",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 23, 2013",
+  "version": "1.4.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Chariot Instruments",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chariotinstruments.chariotgauge",
+  "extendedInfo": {
+    "installSize": "328k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Now open source! https://github.com/mikemey01/ChariotGaugePlease visit https://www.chariotgauge.com for a full look at Chariot Gauge. There is a required hardware component to connect the app to your car!Chariot Gauge brings engine tuning analysis to automotive enthusiasts while eliminating the hassle of expensive physical gauges. The app displays digital and analog readouts of four essential sensors to keep an eye on a naturally aspirated or forced induction engine:1. Wideband Oxygen2. 2.5bar Manifold Air Pressure(boost/vac pressure)3. Oil Pressure4. Intake Air or Coolant Temp. Chariot Gauge is widely configurable for different IAT/CLT sensors, Wideband sensors, and Oil Pressure sensors. The MAP sensor is the only sensor soldered directly to the PCB board (MPX4250AP).The app can display one gauge, two gauges, or all four gauges at the same time (perfect for a tablet). Once the Chariot Device is installed, the app connects to it via Bluetooth and displays the digital and analog data. More in-depth information is available on the website.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN"
+    ]
+  }
+}

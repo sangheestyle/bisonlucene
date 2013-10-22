@@ -1,0 +1,35 @@
+{
+  "title": "ManagersChoice",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.advisorlynx.mobileadvisor.mig",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "March 23, 2011",
+  "version": "1.12.0.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Orion Advisor Services, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.advisorlynx.mobileadvisor.mig",
+  "extendedInfo": {
+    "installSize": "232k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "If you are a ManagersChoice Financial Advisor, you can use this free mobile application to view a whole host of information pertaining to your client and their account, including:* Statements* Account valuation* Performance* Contact information* Map integrationManagers Investment Group, MIG, Investment Solutions",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.advisorlynx.mobileadvisor.mig.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

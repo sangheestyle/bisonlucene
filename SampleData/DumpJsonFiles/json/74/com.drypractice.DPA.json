@@ -1,0 +1,61 @@
+{
+  "title": "Dry Practice App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drypractice.DPA",
+  "category": "Sports",
+  "price": "$99.99",
+  "datePublished": "September 3, 2013",
+  "version": "1.0.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Drypractice.com LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drypractice.DPA",
+  "extendedInfo": {
+    "installSize": "43M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The Official Front Sight Dry Practice App is a premium handgun training tool featuring a virtual Front Sight instructor with complete verbal range commands. The Dry Practice App is not a cheap \"shot timer\" that just provides a timed buzzer. In addition to containing the times used for Front Sight's basic handgun skills test, the Dry Practice App actually listens to the user between drills, so the app knows when to continue to the next drill. This provides for a customized and personal training experience.BONUS: Purchase includes a certificate to attend Front Sight's 2-Day Defensive Handgun Course! This is a live fire course at Front Sight's world famous 550-acre training facility outside of Las Vegas, Nevada. The Official Front Sight Dry Practice App waits for your voice command to continue between each drill. Because users can proceed at their own pace, they each receive a customized experience. For example, if you are slow with your Type 3 Malfunction clearance, the app won't leave you behind. It will wait for you to verbally tell it to continue. As an additional benefit of the \"continue on verbal command\" feature, you get to keep your hands free to manipulate your weapon, just like you would at Front Sight.",
+    "reviews": [
+      {
+        "timestampMsec": "1377714814976",
+        "starRating": "5",
+        "title": "Excellent Instructor",
+        "comment": "Thanks to all the verbal drills, I do less thinking and more muscle memory.  It\\'s like having your own personal field instructor right next to you!  It\\'s Front Sight approved. WOW!",
+        "commentId": "gp:AOqpTOErBZbCLXlRpXg9Zq6tdBMeYyqPywPqDa-PJYaQCnaY5wQkJliEiwOhjkGhVcts4yYh_MfU1as4oHJhFg",
+        "author": "Dave P.",
+        "authorURL": "http://lh5.googleusercontent.com/-G7A5cIjP0Dw/AAAAAAAAAAI/AAAAAAAAAhY/pB2phyq0tmQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-G7A5cIjP0Dw/AAAAAAAAAAI/AAAAAAAAAhY/pB2phyq0tmQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377628428333",
+        "starRating": "5",
+        "title": "Awesome Tool for Hangun Practice...",
+        "comment": "Wow, this app actually listens to me.   It stops and waits for me to complete drills, and then I tell it continue...so I don\\'t have to rush!!!   And for the price, I also now get to attend a real 2-Day live fire course at Front Sight.   Does it matter what kind of Handgun I bring?   I can\\'t wait!!!!!",
+        "commentId": "gp:AOqpTOEGvf1ND6w8EP9YygVMxU1lhu0LTEhzg6qWxNzdUyAB9IFV_KiASPhvCBbaaEb0FA-G2vJP6g_3LfVR2w",
+        "author": "Dick Carson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377630956608",
+        "starRating": "5",
+        "title": "Amazing app!",
+        "comment": "Using this app to dry practice is like having a private Front Sight tutor on your phone. It encourages me to dry practice! Definitely worth the money.",
+        "commentId": "gp:AOqpTOF9bkAjUUvNuWqSkmc_r2Owj678ETxO3z6EVCJVlp66GCYcbRAY4GXc5LYT5boPrM9z-Sty5bVht-65vg",
+        "author": "Gregory Dibs",
+        "authorURL": "http://lh3.googleusercontent.com/-CfXuy5aGdmc/AAAAAAAAAAI/AAAAAAAAAnY/SZOXuktXJbE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-CfXuy5aGdmc/AAAAAAAAAAI/AAAAAAAAAnY/SZOXuktXJbE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

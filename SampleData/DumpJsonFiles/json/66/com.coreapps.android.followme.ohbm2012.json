@@ -1,0 +1,49 @@
+{
+  "title": "OHBM Annual Meeting 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ohbm2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "June 4, 2012",
+  "version": "3.0.8",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ohbm2012",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Organization for Human Brain Mapping (OHBM) is the primary international organization dedicated to neuroimaging research. The organization was created in 1995 and has since evolved in response to the explosion in the field of human functional neuroimaging and its movement into the scientific mainstream. The 18th Annual Meeting of the Organization for Human Brain Mapping (OHBM) will be held June 10-14, 2012 in Beijing, China at the China National Convention Center (CNCC). The OHBM meeting draws attendance between 2500-3000 attendees each year and boasts a combination of exciting scientific programs and social events, all tailored to the city the meeting is being held.We look forward to seeing you in Beijing!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

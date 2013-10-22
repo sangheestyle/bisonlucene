@@ -1,0 +1,44 @@
+{
+  "title": "Shopping List",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.castillasoft.shopping.free",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "September 30, 2010",
+  "version": "1.2",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "5",
+  "rating": "3.2",
+  "contentRating": "Not rated",
+  "creator": "castillaSoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.castillasoft.shopping.free",
+  "extendedInfo": {
+    "installSize": "710k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This app will keep you a record of your shopping items , with this app you will never  forget  to buy things at supermarketThe new version. Add icons to topics add value for each item and a total for all items",
+    "reviews": [
+      {
+        "timestampMsec": "1295274462081",
+        "starRating": "1",
+        "comment": "This app could be great yet it is not well executed. The images a d words run over each other. Droid Incredible",
+        "commentId": "lg:AOqpTOFEBFgQUdRMjsStURdrjNm7JisFeZSRmjtViSoV30z7pfq9izsXfscpFmWqiXpP51DD3l5O6RrE7hbVpN8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1286476989083",
+        "starRating": "3",
+        "comment": "Good idea not well executed. Option to type directly on pad would be nice and ability to organize alphabetically. Didn\\'t like having scroll thru items",
+        "commentId": "lg:AOqpTOFZZX1UohJKiBK-ZyQcqNRZO5EpqebVZLpG5rHqgo2qfLbOWkvHatOGrTsUI_MXUURZffVajjO55pVSqN8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

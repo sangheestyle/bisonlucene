@@ -1,0 +1,68 @@
+{
+  "title": "2012 Great American Trucking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.gats2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "August 15, 2012",
+  "version": "3.2.6",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.gats2012",
+  "extendedInfo": {
+    "installSize": "4.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The GATS App will help you navigate the show, search the exhibitor directory, find the educational seminars you would like to attend and the entertainment you are seeking.  Attended by nearly 50,000 trucking professionals from around the country, the Great American Trucking Show features 500 exhibitors representing the top manufacturers and suppliers to the heavy-duty and medium-duty trucking industries.  The 2012 Great American Trucking Show will be held August 23-25 at the Dallas Convention Center, and is the centerpiece for Intersection 2012, Destination Dallas.",
+    "reviews": [
+      {
+        "documentVersion": "3.2.6",
+        "timestampMsec": "1346032251567",
+        "starRating": "5",
+        "title": "Great to follow show",
+        "comment": "Wasn\\'t available for Android on first day but worked good Friday and Saturday",
+        "commentId": "lg:AOqpTOHG54rtx2ka7IK-Y2uouHlGtjuayw4phxoqcCBKdAt8uCvtXeuOZ16-HDT4wazOaXDxFRwvIynfDo8uG0U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.8",
+        "timestampMsec": "1343986240223",
+        "starRating": "5",
+        "title": "Guide",
+        "comment": "Show",
+        "commentId": "lg:AOqpTOEHeYZoLb80volty-GJciGmV7fs40gddyW76CUg6wkgtocRDDwNNPyX9FXjwi59nWJcI58Z2M1EuhtNyWQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

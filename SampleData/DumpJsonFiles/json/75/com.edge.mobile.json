@@ -1,0 +1,36 @@
+{
+  "title": "Edge Parent",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edge.mobile",
+  "category": "Education",
+  "price": "$4.99",
+  "datePublished": "December 11, 2012",
+  "version": "4.0",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Edge Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edge.mobile",
+  "extendedInfo": {
+    "installSize": "437k",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "EDGE integrate and manage the classroom with segmented utility modules that automate entire schools drive efficiencies and effectiveness of teachers, and provide Student and Parent instant, 24x7x365 academic performance reporting, creating a seamless interface for data and information exchange, learning assistance, teaching tools, and, collaboration between schools, classrooms and teachers.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.edge.mobile.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

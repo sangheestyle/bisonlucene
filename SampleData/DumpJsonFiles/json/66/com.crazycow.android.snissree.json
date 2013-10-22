@@ -1,0 +1,44 @@
+{
+  "title": "Crazy Cow",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crazycow.android.snissree",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "June 2, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "3.7142856",
+  "contentRating": "Everyone",
+  "creator": "snissree",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crazycow.android.snissree",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Help the cow reach the barn as shortest time as possible. Put and rotate a fence.  Help the cow reach the barn, in shortest time possible. When the level points reach zero, you will lose a life! You have 3 lives to finish the game. Have fun!Controls: click on the screen area where you want to put/rotate a fence.Help the cow reach the barn in shortest time possible. When the level points reach zero you will lose a life. You have 3 lives to finish the game.  If you wanted to classify Crazy Cow game I suppose you could say that it is a road building game, but the term âroad building gameâ seems so calm and reasonable that it doesnât even begin to describe the madness and frenzy of what happens in Crazy Cow game. And also, you donât actually build roads; to the contrary, you need to build obstacles in hopes of controlling your rampaging bovine.Basically, the goal of the game is to get your cow safely into the barn before your time is up. In some cases you will first need to pick up the key to the barn, but that is about it. The problem is that your cow seems to run around like Speedrunner on acid being chased by the devil himself. She seems to have only one mode of movement â âstraight ahead until I hit an obstacle, then turn and continue straight until I hit the next obstacleâ. So your job is to place the right obstacles in front of your cow to make her pick up the barn key, and then get into the barn as quickly as possible. You start off with 1000 points which keep disappearing very quickly as time progresses. If you donât manage to get your crazy bovine into the barn before the time is up and you are out of points â you lose a life. You have a total of 3 lives at your disposal, so be careful. You also need to make sure you avoid buckets of water which are sometimes scattered across the screen, and will cost you a hundred points every time your cow runs into one.The controls for this cow game are simple â just click on the part of the screen where you wish a fence to appear and then click the existing fence again to rotate it. Setting the fence in the right orientation will make your cow turn, and hopefully get to the key she needs or into the barn once she has the key.",
+    "reviews": [
+      {
+        "timestampMsec": "1378583089641",
+        "starRating": "5",
+        "title": "Crazy cow",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOFkbj4zJ5mhrpzOarG-vEgTt6s-bc0p2tdKdCQvfjmiS5B9n1WqOBgCVsYeYUrCef_9o-cCCLNBDeQPCw",
+        "author": "Jamara Couther",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_LOGS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

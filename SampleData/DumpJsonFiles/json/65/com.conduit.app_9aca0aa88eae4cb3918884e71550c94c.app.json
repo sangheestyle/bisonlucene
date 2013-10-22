@@ -1,0 +1,39 @@
+{
+  "title": "The Wendy Schofield Show",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_9aca0aa88eae4cb3918884e71550c94c.app",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "December 28, 2011",
+  "version": "1.5.13.1422",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Darnell Smith",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_9aca0aa88eae4cb3918884e71550c94c.app",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Your host Wendy Schofield has been in broadcasting's #5 Market, Dallas, TX and got her start as the Entertainment Reporter for the Tom Joyner Morning Show. Wendy has worked at K104, KRNB, Talk Productions and KOAI the Oasis. Her talk show Matchmaker was #1 in its time-slot and was featured on both Fox and ABC. Wendy is also a former News Reporter, professional model, NFL Cheerleader and NBA Dancer. She has a degree in Finance and Marketing and is a native of Miami.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_9aca0aa88eae4cb3918884e71550c94c.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

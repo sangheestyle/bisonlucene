@@ -1,0 +1,32 @@
+{
+  "title": "LabelToDo Todo lists and more",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crbin1.labeltodo",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "September 6, 2013",
+  "version": "1.1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "4.428571",
+  "contentRating": "Everyone",
+  "creator": "Cristiano Bini",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crbin1.labeltodo",
+  "extendedInfo": {
+    "installSize": "654k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "LabelToDo is an application to manage commitments, todo lists and remember tasks. The strengths of LabelToDo are its ease of use and power in organizing tasks from various perspectives (labels and priorities). With its reminders, notifications and widget that never left you alone LabelToDo will become your personal assistant. You will not forget anything.For each task you can:â  Assign one or more LABELS (Gmail style). Each todo task can have multiple labels, each label can have multiple tasks and become your todo list.â  Assign a PRIORITY on a scale from 1 to 5 and look for or sort todo tasks and todo by priority.â  Assign REMINDERS that will warn you of deadlines or will remind you that it's time to perform that task.â  Add text and notes on the task.LabelToDo is designed to take up less space on your device and use only the necessary resources, it want to be a discreet personal assistant.The permissions LabelToDo needs are:- RECEIVE_BOOT_COMPLETED: used to set reminders when the device turns on- WAKE_LOCK: used to manage notifications and reminders when the screen is off- VIBRATE: used to allow the vibration during notifications- WRITE_EXTERNAL_STORAGE: used to perform backups and export data on the SD card.LabelToDo doesn't use any Internet connection and doesn't detect the user's location.If you find any bug or fault, if you have TIPS on how to improve the application or you want to TRANSLATE it in your language do not hesitate to contact me!Follow me on Twitter @labeltodo",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

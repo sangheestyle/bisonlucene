@@ -1,0 +1,65 @@
+{
+  "title": "Mashup-Germany App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_24bdf20ca8404340a13aecf8f8bd86b9.app",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "January 17, 2012",
+  "version": "1.2.7.1096",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "23",
+  "rating": "4.2608695",
+  "contentRating": "Low Maturity",
+  "creator": "Mashup-Germany",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_24bdf20ca8404340a13aecf8f8bd86b9.app",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is the official Mashup-Germany App!Listen and download to almost 200 tracks and get all the news about Mashup-Germany.",
+    "reviews": [
+      {
+        "documentVersion": "2.7.1096",
+        "timestampMsec": "1328645183188",
+        "starRating": "5",
+        "comment": "Mashup Germany is amazing!",
+        "commentId": "lg:AOqpTOFChV6ygyEeKXt0MhG1CyPqxNp9vOEj1mgomCLsED5wLxyUnKDPWAdjzuIDljO9_Rn2hR7zNst0cepsUyU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.7.1096",
+        "timestampMsec": "1341387585804",
+        "starRating": "5",
+        "title": "Great music",
+        "comment": "Good but how do you downloas",
+        "commentId": "lg:AOqpTOExzRERbVx_e6iagkzN4RRooCC_yT8l6UTZEdtAHEtg3RWcBRoOH5XXqOcJeL0GKYKPh0O5yXjxtbd33CU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360536279558",
+        "starRating": "3",
+        "title": "Ok",
+        "comment": "Ok but the interface could be nicer.",
+        "commentId": "gp:AOqpTOELQ_PUeLsLV0jgkjOGMsbLQ8V3Al5VvwgFc2VKK_H9amH8p4EK57uPYop-tRIdJrreGBwkupbdKIwGmFk",
+        "author": "Christoph Hansen",
+        "authorURL": "http://lh5.googleusercontent.com/-2BansU4Fubw/AAAAAAAAAAI/AAAAAAAACDA/aqy2wZ0nkXs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-2BansU4Fubw/AAAAAAAAAAI/AAAAAAAACDA/aqy2wZ0nkXs/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_24bdf20ca8404340a13aecf8f8bd86b9.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

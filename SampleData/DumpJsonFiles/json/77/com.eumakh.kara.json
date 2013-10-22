@@ -1,0 +1,45 @@
+{
+  "title": "KARA (KPop) Stage",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eumakh.kara",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "0.6.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "AtticTV Pte Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eumakh.kara",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "âââââ A must have app if you're a Kamilia (Kara Fan)âââââ So convenient, easy to use, and great ui. It sums up a lot of the information you would spend hours on the net looking for. If your a Kara fan, a definite must have.Brighten up your day with Kara Stage. We love Park Gyuri, Han Seungyeon, Nicole Jung, Goo Hara and Kang Jiyoung so much that we decided to build this app.Be closer to your favorite Kara girls Park Gyuri, Han Seungyeon, Nicole Jung, Goo Hara and Kang Jiyoung as you can now get all Kara videos, photos and news across various sites like AllKpop, Youtube, and Tumblr all put together in one beautiful interface. It definitely makes us happy.Now, also be able to access your Kara Music Videos, while you have that precious few minutes to spend with the girls.Also, stay updated on all Kara concerts and Updates on Twitter, all in one swipe on this beautifully designed app, created by Kamilias, for Kamilias.Also, save your favorite content for easy viewing later.Contact us at:@eumakh on Twitter or onwww.facebook.com/kpopmusiclove",
+    "reviews": [
+      {
+        "documentVersion": "0.6.0",
+        "timestampMsec": "1376663032180",
+        "starRating": "5",
+        "title": "a",
+        "comment": "ty for this app I\\'m a 101% Kamilia",
+        "commentId": "gp:AOqpTOGqPZKYi_-S7wMtyzQfuxtxVGtFmx6jfObqRakSs7vmpZYHIXH8zD2gOw-MxmrgiENRIW9htotvf_ztwdE",
+        "author": "Rodrigo Cunanan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "com.eumakh.kara.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "College Twist",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.collegetwist",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "February 21, 2013",
+  "version": "2.5.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "3.4",
+  "contentRating": "Low Maturity",
+  "creator": "College Twist",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.collegetwist",
+  "extendedInfo": {
+    "installSize": "10M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "College Twist is a College Network targeted all the Universities in the United States, starting with: San Jose State, UW Madison, University of Illinois, Indiana University, University of Florida, Florida State, Central Florida, Florida Atlantic University, and the regional conference PACURH. You can share the students experience through photos, events, and discussions. \tCollege Twist is not a typical social networking site where everything is about the user's personal life, it's a College Network where the users contribute content about their college experience through our 8 logical categories. The 8 main categories are Social Life, Sports, Greek Life, Clubs and Organizations, Dinging, Housing, Campus Life, and Academics. \tYour College Experience is brought to your fingertips through our incredible app that allows you to view upcoming events in all aspects of the university, post commentâs and discussions, and upload content while it happens. There is no other place or tool that allows you to see/contribute your college experience in such a fun and exciting way!More Features:Heat Map-College Twist has a revolutionary heatmap that allows the users to see concentrations of other users without giving out any demographic information. You are able to find out where the \"hot spots\" are and compare those to the university campus, college events, local restaurants, and many other points of interest on and around campus. -With a simple push of a button you are able to filter out what you want to show on the map depending on what you are interested in.Shout Outs-Once you have found your point of interest (POI) you can then share live discussions and photos, at your current location or that POI, with other users on College Twist using our Shout Out wall.",
+    "reviews": [
+      {
+        "timestampMsec": "1358564786825",
+        "starRating": "5",
+        "title": "Great app!",
+        "comment": "This is a great app! It\\'s a great way to stay connected with your school. They have great deals for clubs, restaurants, and stores!  5/5",
+        "commentId": "lg:AOqpTOGrrKg8hd0nQW5ASOnkEO_l7kjkfNS_HHin1_7dASyhSjxxyo32jt07klfj-4tcVhgGot1xd36sXRMeBA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352652459207",
+        "starRating": "1",
+        "title": "Extremely disappointed",
+        "comment": "This app is really bad it crash closes like five times before it opens. Additionally I\\'m trying to use it for a conference in San Jose and the map starts in Florida even when my gps is on. And the only way to get to California is to zoom out and swipe. I have an Android and everyone that I have talked to are equally as frustrated. How does an app that has such issues even get to market. At least one positive however it at least listed events once the app stops crashing. Good idea, bad execution.",
+        "commentId": "lg:AOqpTOGPOI6MM0WsXJuJ1RKgnnIBqTT0rxidNj31_Pnp_Jlsgi8uoIwyhKzhdjRZFYnzHSKAyn_HyIl4ZuMTww",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365010520800",
+        "starRating": "1",
+        "title": "Good concept, No content",
+        "comment": "There is No content for the colleges, and the map is a horrible interface. It is just a she\\'ll for their web interface.",
+        "commentId": "gp:AOqpTOHRYaIIpbW1lMDylpANoetRYkRnQc1L3Lgz5qUiF0JEtHVYQGa-6CtiSrLyGwpMCEidJYP16zyTodtZ5A",
+        "author": "David Anderson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_CALENDAR",
+      "com.collegetwist.permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

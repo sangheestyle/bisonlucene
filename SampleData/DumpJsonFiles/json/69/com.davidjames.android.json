@@ -1,0 +1,44 @@
+{
+  "title": "David James Estate Agents",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.davidjames.android",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "February 20, 2013",
+  "version": "3.1",
+  "operatingSystems": "2.0.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Estate Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.davidjames.android",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "David James is a Nottingham based company, specialising in the sale of residential property. Currently there are three branches situated within the North East of the city with a new state-of-the-art branch recently open in the south-west of NottinghamWe enjoy our job. We take great pride and satisfaction from guiding clients through the stressful experience of moving. We are determined to succeed with every property that we market; in fact, we want to sell your house more than you do.As an independent, family run business we pride ourselves upon acting in accordance with professional disciplines and working ethics. We also pride ourselves on our presentation; our highly visual sales displays in addition to our modern sales particulars set us apart from our competitors. However, these elements form only part of a marketing approach tailored to the needs of our clients as our highly motivated, efficient team strive to provide a market-leading service.Our four branches, three equidistant within the Gedling Borough and our branch in Beeston Town Centre ensure maximum local coverage, whilst this website and our further presence on rightmove.co.uk, propertylive.co.uk and globrix.com provide exposure to a national market.The opening of our new state-of-the-art branch in Beeston signals our desire to continually improve and push the boundaries of traditional estate agency. We truly believe we have the ingredients to succeed in selling your home and it is this belief that feeds our ambition to ultimately provide this service to the whole of Nottingham.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "com.merrys.main.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

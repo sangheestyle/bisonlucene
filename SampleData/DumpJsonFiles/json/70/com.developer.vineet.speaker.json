@@ -1,0 +1,48 @@
+{
+  "title": "Caller Name Speaker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.developer.vineet.speaker",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 10, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "vineetmadhuri",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.developer.vineet.speaker",
+  "extendedInfo": {
+    "installSize": "496k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Caller Name Speaker speaks out the caller name if the caller is already in contact list of the device otherwise it will speak only incoming number of the caller. so that you can identify who is calling without looking into your phone.It uses the built-in Android text-to-speech engine to voice the caller. When you run this application first time, then it check's whether text-to-speech engine is installed or not, if not then it redirect,s you on Google play for TTS engine, you have to install only once. So Please, If application redirect's you on Google play store, Intall the TTS Engine. This application totally depend's on TTS. It has following functionality:\t1- You can simply Enable or disable Caller Name Speaker.\t2- When device in silent mode, then application automatically goes in silent mode\t3- You can also decide that how many times you want to caller name should be repeated\t4- You can also choose speech rate\t5- You can also choose speech pitchCurrent this application supports only English language. In next version other language support will be available",
+    "reviews": [
+      {
+        "timestampMsec": "1376981246976",
+        "starRating": "1",
+        "title": "Speaker",
+        "comment": "Hate it",
+        "commentId": "lg:AOqpTOEdOc_ggfbZPzJnCPWWyJLkTrIRNWKcB4Sc2ARYeCJyrqvbvmMzhD8nhNkbyFvV8ajdpT-bQtktaj7G4A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369112080624",
+        "starRating": "1",
+        "title": "Doesn\\'t say anything",
+        "comment": "Sorry, didn\\'t work on HTC Desire V",
+        "commentId": "gp:AOqpTOHyGrJABlgPZdVEJb8fzbhHiWVoOydWYDyVRTfmycgXJdy2nA7sn0syXEo2RW0zhhQjkZSWMfJs8X4mNQ",
+        "author": "Saurav Chatterjee",
+        "authorURL": "http://lh6.googleusercontent.com/-zpq76LxssoU/AAAAAAAAAAI/AAAAAAAABEI/5S0qXtlfwok/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-zpq76LxssoU/AAAAAAAAAAI/AAAAAAAABEI/5S0qXtlfwok/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "KCal Count Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crazydev.dietapp",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "June 6, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Medium Maturity",
+  "creator": "MaGi",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crazydev.dietapp",
+  "extendedInfo": {
+    "installSize": "860k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Utility per il calcolo delle calorie di singoli alimenti o pasti.FunzionalitÃ  principali:- Creazione di liste di alimenti e/o pasti (menu) a partire da una base di oltre mille alimenti e pasti; man mano che vengono aggiunti alimenti viene aggiornato in automatico il contatore delle KCal complessive- Inserimento manuale di nuovi alimenti con relative calorie- Salvataggio menu e ricaricamento per eventuale successivo riutilizzo- Calcolo dell'Indice di Massa Corporea (IMC) o Body Mass Index (BMI) relativo al peso attuale e al peso forma - Calcolo del peso forma: Ã¨ possibile scegliere tra 3 diverse formule di calcolo del peso forma- Stima delle calorie giornaliere necessarie sulla base del tipo di corporatura e del tipo di attivitÃ  svolta- Configurazione di parametri personali quali sesso, etÃ , peso, altezza, tipo di corporatura",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "DJ Agent M - Official App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dj.agent.m",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "June 23, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "5",
+  "rating": "2.6",
+  "contentRating": "Medium Maturity",
+  "creator": "Stephen Lynch",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dj.agent.m",
+  "extendedInfo": {
+    "installSize": "328k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Download the Official Dj Agent M Android Application.Gain access to new mixes, updates and reviews from Leeds very own Hip Hop Dj/Remixer.Follow DJ Agent on Twitter - http://twitter.com/DjAgentM NOTE: To listen to mixes click on the podcast section.Keywords: Soundcloud, Dj Agent M, podomatic, music, remixes, Rap, RnB, Hip Hop",
+    "reviews": [
+      {
+        "timestampMsec": "1308871416989",
+        "starRating": "5",
+        "comment": "Love it! Go Agent M!",
+        "commentId": "lg:AOqpTOFDWZPx4HoFJlGNqScdZs3UvRv9cTWTHrTkB_BAO9QJBdWWkGJJNucI4ddmmhiWiIKBWb4pc0HNI3uD8A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

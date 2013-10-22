@@ -1,0 +1,31 @@
+{
+  "title": "My Personal Data Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.devmomentum.MyPersonalDataManager.AndroidTablet",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "July 9, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "devMomentum",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.devmomentum.MyPersonalDataManager.AndroidTablet",
+  "extendedInfo": {
+    "installSize": "6.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "It has never been so easy to manage your custom data, the data YOU want, the data YOU need. In just a few minutes, define, manage, filter and sort your data. You can even build reports/views on it. So you can learn the possibilities of the app, it comes with existing data, types and reports, but they are yours to keep, delete, or modify. Video tutorials are available on the web site at http://mypersonaldatamanager.com -Find Data: Filter your Data down to any sub-property, to view or edit. -Define the properties of your Data, your Types. Reuse them as properties. -List properties: For example, a Contact can have a list of Addresses. -Reports: Select properties, filter and sort to get a specific view of your data. -Modify your Types any time. Existing data and reports adapt to the changes. -Drop-down Lists: Data properties can be single or multiple selection lists. -Numeric Data in Reports: Get a graph, sums, averages, Min and Max. -Local Data: All your data is on your device only. Nothing gets out, nothing gets in. -No connection to Internet required. Your app works stand alone. -Performance: Not all Data is loaded at once, get the last inserted data first, the rest on demand",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

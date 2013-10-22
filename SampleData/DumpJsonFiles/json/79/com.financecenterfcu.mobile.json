@@ -1,0 +1,73 @@
+{
+  "title": "Financial Center Mobile MPower",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.financecenterfcu.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "May 23, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.financecenterfcu.mobile",
+  "extendedInfo": {
+    "installSize": "818k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Financial Centerâs Mobile Banking application, MPower, allows you 24/7 access to your accounts.  Enjoy convenient access to the following features:â¢\tCheck Balancesâ¢\tTransfer Fundsâ¢\tLoan Paymentsâ¢\tPay Billsâ¢\tFind a Branch locationâ¢\tSecure Messaging for SupportKeywords: Financial Center, Finance Center Federal Credit Union, FCFCU, Finance, Banking, Billpay, Bill pay, Mpower, M power, CU, Credit Union, Bank",
+    "reviews": [
+      {
+        "documentVersion": "2.5.22",
+        "timestampMsec": "1373043317153",
+        "starRating": "1",
+        "comment": "Terrible, i can\\'t even log in.",
+        "commentId": "gp:AOqpTOH0ENLcU26THDPz2OXs2uKOlZ0Ek9xuEVcW3IC45Q-TEWYRXXz9otD1alWGkhDcmnc4Bq4Lbw1LrZ2unw",
+        "author": "Khari Williams",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361366605108",
+        "starRating": "2",
+        "title": "Copy/paste is disabled for password",
+        "comment": "Looks pretty, but I have a 16 character randomly generated password saved with Last Pass that I can access via their app. The FCFCU app has paste disabled for the password, so I am unable to use it.",
+        "commentId": "gp:AOqpTOHcAz9-QEZgiMpkU0uucsoH5If5XfI8L8IJ58gy6SgEJZkgjG4PPF8GTKTWUP-ZOURhDqFoMrGXT9lunA",
+        "author": "Chris Miller",
+        "authorURL": "http://lh3.googleusercontent.com/-d629WRkQNR4/AAAAAAAAAAI/AAAAAAAAAYI/tMBzp4EPvKw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-d629WRkQNR4/AAAAAAAAAAI/AAAAAAAAAYI/tMBzp4EPvKw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362928526366",
+        "starRating": "4",
+        "title": "Does exactly what i need",
+        "comment": "Great start",
+        "commentId": "gp:AOqpTOGUnii-dab2l4e6JCV3DxRSCWIQp-aDQjV7hGUcLvcG-GBPkso2JiBlzTOOqSvlMlJLjHCSC4xkJXwQ_A",
+        "author": "Rissa Musik",
+        "authorURL": "http://lh5.googleusercontent.com/-XY4U1AtZOPU/AAAAAAAAAAI/AAAAAAAABOI/tKbrOVyBzTA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-XY4U1AtZOPU/AAAAAAAAAAI/AAAAAAAABOI/tKbrOVyBzTA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362487242064",
+        "starRating": "2",
+        "title": "Looks good",
+        "comment": "Able to login, but can\\'t do much more.",
+        "commentId": "gp:AOqpTOHTQrgc7Loh5wgeYS5AWfnwtWzGRlIbLakj_h5VjhVjsB-D2q2oJF3GOarzDHfkYf0tYgp1fGAJuoFExw",
+        "author": "Mike Green",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

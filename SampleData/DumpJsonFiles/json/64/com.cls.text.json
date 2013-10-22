@@ -1,0 +1,46 @@
+{
+  "title": "Text U Later - Auto Response",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cls.text",
+  "category": "Personalization",
+  "price": "$0.99",
+  "datePublished": "January 12, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "h.r. design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cls.text",
+  "extendedInfo": {
+    "installSize": "128k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Text U Later is the perfect away message notification app! Text U Later allows you now to have an automatic away message sent to anyone calling or texting your phone. This is a great tool for when you are going on vacation, sleeping, driving or just out of the office. It is great for filtering your calls without hitting the ignore button and also a great safety utility when driving. The caller or texter at the other end will get a prompt response from you with the custom message that you choose. This is very simple to use application and one with great value. Text U Later will also store the list of callers in the history tab of callers or texters who you have sent your away message to for easy call back.Keywords: out of office, reply, auto, response, vacation, text, later, sms, send, u, call",
+    "reviews": [
+      {
+        "timestampMsec": "1357758758995",
+        "starRating": "2",
+        "title": "???",
+        "comment": "This app does not meet my expectations.  No timer / message profile to allow auto turn off No custom message setting.template -you have to customise old templates",
+        "commentId": "gp:AOqpTOEuyFPMeJ7QzqMoy3Q4CDJxb04wUZr3PAwP7456SQ4LOORiI2NHyu7dgK6zvEZMYaTh8Hhq_SD51pmMWA",
+        "author": "Elicia Holland",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.MODIFY_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

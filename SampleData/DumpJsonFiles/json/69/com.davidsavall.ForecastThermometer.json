@@ -1,0 +1,61 @@
+{
+  "title": "Forecast Thermometer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.davidsavall.ForecastThermometer",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "April 13, 2013",
+  "version": "1.6",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "23",
+  "rating": "3.8695652",
+  "contentRating": "Low Maturity",
+  "creator": "David Savall",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.davidsavall.ForecastThermometer",
+  "extendedInfo": {
+    "installSize": "567k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Forecast Thermometer is a classic thermometer in your hands. You can switch between Celsius and Fahrenheit degrees. Exceptionally easy to use app for staying always updated with the outdoor temperature based on your location. It gets weather data from nearby weather stations and Weather Underground. This app is specifically designed to be as simple and intuitive as possible. With just one click you receive the weather condition in your status bar at your current location.FEATURES- No ads- Classic thermometer look- Animated liquid- Forecast Thermometer supports geo-positioning, retrieving the latest weather conditions for your current location- An option to manually view your location- Temperature corresponding to your precise location anywhere in the world and in real time- Fast location identification and temperature display- Hourly forecasts- Intuitive, seamless user interface- Temperature can be displayed in degrees Celsius and Fahrenheit- You can allow and disable the notifications- Requires Android 2.3.3 or above- Internet connectivity required- Should you encounter any problems, please email me at the following address: davidsvcl@gmail.com. Choose by yourself what will be the next feature of Forecast Thermometer! Leave a comment or email me and help me make Forecast Thermometer the best app of its kind. Thank you!Keywords:weather, thermometer, Celsius, Fahrenheit, temperature, climate, overcast, degrees, weather report, thermo, forecast, location",
+    "reviews": [
+      {
+        "timestampMsec": "1373134716827",
+        "starRating": "1",
+        "title": "Makes phone freez up",
+        "comment": "Dont get it sucks",
+        "commentId": "gp:AOqpTOEdxiETODjnrkkUBIwKp1CqGiJtfurPVqbJkuQcwGIzVn911u3urpJVRuUdMKo63y4gLd9n4EOqnzWO1g",
+        "author": "Ben Large",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362891353651",
+        "starRating": "5",
+        "title": "Kumarswamy",
+        "comment": "Nice and simple application",
+        "commentId": "gp:AOqpTOHX9JkxcFU7d3Isei0pcrHz09I-mGrc9igJ1T2n77VhAd83RVz6N_hglF6Jcm6AWJwFsV5B78GHRYAr-A",
+        "author": "Kumar Swamy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362853574933",
+        "starRating": "5",
+        "title": "Accurate",
+        "comment": "So simple,yet so good,really precise with temp and location.....",
+        "commentId": "gp:AOqpTOGFhhXfMacMU83_vHgmQ9mDrzOqVYylC1LVgNzOTz2DtIn51lF6COqACBzz_NBwITbEtOVlYdgI4hO-Ew",
+        "author": "Mike Flynn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.davidsavall.ForecastThermometer.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

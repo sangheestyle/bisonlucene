@@ -1,0 +1,35 @@
+{
+  "title": "2011 ASBDC Annual Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.asbdc11",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "August 22, 2011",
+  "version": "1.9.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.asbdc11",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This premiere event brings together more than 1,300 Small Business Development Center (SBDC) professionals, trainers, consultants, managers and administrative personnel.  The theme for the 2011 ASBDC Annual Conference is âSBDC: The Pipeline to Small Business Success.â Join us September 6-9th at the Manchester Grand Hotel in sunny San Diego, California.The ASBDC Annual Conference offers top-quality workshops, roundtables, general sessions, working luncheons and an Exhibit Hall -- equipping America's top small business consultants with the professional development they seek to continually enhance SBDC services to small businesses and aspiring entrepreneurs.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Flashlight",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.diogines.flashlight",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 12, 2013",
+  "version": "1.01",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "14",
+  "rating": "4.357143",
+  "contentRating": "Everyone",
+  "creator": "Androcalc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.diogines.flashlight",
+  "extendedInfo": {
+    "installSize": "843k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "FlashlightPolice flashlight with sirenIn this flashlight application - four main modes:1. Long light2. Police mode3. SOS morse (light)4. Police siren (2 sounds)By pressing menu, you can select color, and find your battery info",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

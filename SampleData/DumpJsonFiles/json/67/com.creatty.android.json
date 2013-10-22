@@ -1,0 +1,46 @@
+{
+  "title": "Creatty - Have your portfolio!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.creatty.android",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "April 8, 2013",
+  "version": "1.10.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Connehito, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.creatty.android",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Creatty is online gallery service, collecting unique goods/designs.Creators can share their works with a beautiful online-gallery in 1 minute! Non-creators can meet with great designs even beyond boundaries.Creatty makes you meet uniqueness.----------------------------For Creators!----------------------------Have you ever met difficulty with making your portfolio?Blog is too lame, and coding a website by yourself is hard, right?Creatty would be great app for you.You can share your works in 1minutes. Also, you can get insight from others' creation and post events you will attend.----------------------------For Everyone!----------------------------Creatty is online gallery service, collecting unique and beautiful goods/designs from all over the world.Launch the app and do \"shuffle\". Great works will come to you, and you can list them tapping \"Favorite\" button. We recommend works you would like referring your \"Favorite list\".Do you like creative things?Use Creatty and find what you like :)",
+    "reviews": [
+      {
+        "documentVersion": "1.9.0",
+        "timestampMsec": "1364706937700",
+        "starRating": "4",
+        "title": "Good app",
+        "comment": "With this I can view other great art works. It\\'s really useful. Just sometimes I found some texts that are still in Japanese and not translated to English. No big problem so far. Great.",
+        "commentId": "gp:AOqpTOGlDJ7dWofSbFQQ4DEmf2uxvU_MJDBpSTgSAjuOJ4nYIfwiiluLSIua-1UVLoLOP0oOu0jy7-M8eBwpyQ",
+        "author": "Picez Fish",
+        "authorURL": "http://lh5.googleusercontent.com/-R_b7N1jx7Og/AAAAAAAAAAI/AAAAAAAAAAA/H7p_dcKwByg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-R_b7N1jx7Og/AAAAAAAAAAI/AAAAAAAAAAA/H7p_dcKwByg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.creatty.android.permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_TASKS",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Happy New Year Greeting Cards",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eheuristics.android.HappyNewYearCardsandGreetings",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "November 5, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "eHeuristic Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eheuristics.android.HappyNewYearCardsandGreetings",
+  "extendedInfo": {
+    "installSize": "888k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Best Greeting for new year just touch away",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.SEND_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_SMS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.eheuristics.android.HappyNewYearCardsandGreetings.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Gangnam Style Chat lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.colony.gangnamstylebtchatlite",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "September 23, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "23",
+  "rating": "4.0",
+  "contentRating": "High Maturity",
+  "creator": "MSP Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.colony.gangnamstylebtchatlite",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Gangnam style chat works via bluetooth, connect with others now.This is the free trial version with limited use.Connect with other Gangnam Style chat app users anywhere, anytime, works only via bluetooth, and connects you with one other user.Easy to use, with nice UI, this is a bluetooth chat working within bluetooth ranges. Connects with 2 users. Great for clubs, discos, karaoke clubs, restaurants, lounges.Follow the visual user instructions to connect with other users. Identify yourself as a user by adding the acronym PSY infront of your bluetooth name on your device.Use our Radar app to find all chat app users within range.Since this works via bluetooth, your privacy is maintained since you do not need to register on a website, nor does the app log your GPS or any location or personal information.Enjoy!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.WRITE_CONTACTS",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

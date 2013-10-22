@@ -1,0 +1,30 @@
+{
+  "title": "Deposit Check",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dhi.depositcheck",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 6, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "FPS GOLD",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dhi.depositcheck",
+  "extendedInfo": {
+    "installSize": "418k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Deposit checks right from your phone!  Use your device's camera to photograph a check and securely upload the images to deposit your money.These institutions are supported:â¢ Home Bank CaliforniaFAQ:Q: How do I use this app?A: Log in to a supported institution's Mobile Web.  Go to \"Remote Deposit\" and choose \"Deposit a Check.\"  Type the amount, select an account, and tap \"Scan Check.\" The app launches to engage the camera.  Photograph both sides of the check then upload the photos to deposit the funds.Q: Is my information secure?A: Yes. Check photos are not stored on the device. Online banking sensitive data such as account numbers, username, and password are not sent to or stored in the app.Q: What do I do if I get a message that my check is blurry or can't be read?A: Try the following measures to improve the picture:â¢ Make sure you have plenty of light to take the photograph. It increases contrast so the check information can be read clearly.â¢ Make sure the check fits within the corner guides so all four corners of the check are visible.â¢ Be aware of the surface where the check is resting during the photograph. If possible, choose a surface with a solid color that provides high contrast against the color of the check (most checks are printed on lighter colored paper, so solid black is generally an ideal choice.)â¢ Increasing the distance between the camera and the check may allow your device's camera to take clearer photos.Q: Why can't I take photos right in Mobile Web? Why do I need an app?A: Web technology is always improving, but current standards don't provide a way for most devices to use the camera directly from the browser. Using an app ensures all customers will be able to use this feature.Q: How long will it take for my money to be deposited?A: The deposit generally takes one business day.Q: Can I view previously deposited checks?A: Yes. To do so,â¢ Login to Mobile Webâ¢ Go to the \"Remote Deposit\" featureâ¢ Choose \"Review Deposited Checks.\" From the list, choose the check deposit you would like to review.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

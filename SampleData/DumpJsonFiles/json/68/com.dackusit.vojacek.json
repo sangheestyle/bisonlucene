@@ -1,0 +1,35 @@
+{
+  "title": "Vojacek Wines order app",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dackusit.vojacek",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "December 14, 2011",
+  "version": "1.00",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "dackus.it",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dackusit.vojacek",
+  "extendedInfo": {
+    "installSize": "864k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Vojacek Wines from Maastricht is importeur for quality wines. This order app gives registered clients the opportunity to order wine. Non clients can browser the wines and read the descriptions. Via de website of Vojacek Wijnen you can register to be a client.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.INTERNET",
+      "android.hardware.camera",
+      "android.hardware.camera.autofocus",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

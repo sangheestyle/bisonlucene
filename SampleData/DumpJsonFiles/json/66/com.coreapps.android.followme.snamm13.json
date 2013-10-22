@@ -1,0 +1,70 @@
+{
+  "title": "Summer NAMM 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.snamm13",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 3, 2013",
+  "version": "4.2.6.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.snamm13",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Summer NAMM, July 11-13, 2013, sets the stage for great business with a more relaxed pace while keeping the fast-paced momentum going from the NAMM Show. Attendees can focus on top-notch business by connecting with other dedicated industry professionals, celebrating retail success stories and sharing information on industry best practices.â¢ Networking opportunities  â¢ NAMM U sessions  â¢ Top 100 Dealer AwardsThe 3rd Annual Top 100 Dealer Awards on Friday, July 12, will honor the industry's most progressive and innovative music product retailers and highlight best practices that have helped these businesses to grow.On Saturday, the NAMM U Breakfast Session \"Best in Show\" presents industry panelists' picks for what you must see on the show floor before leaving Nashville. Saturday is also Summer NAMM Public Day, which offers a unique opportunity to see more than 1,000 qualified end-users interact with products and accessories and provides insight on which products resonate with Music City's enthusiastic end-users.",
+    "reviews": [
+      {
+        "documentVersion": "2.6.0",
+        "timestampMsec": "1374598509726",
+        "starRating": "5",
+        "title": "Great App J.D.!",
+        "comment": "Warrior Bass #1 for all genres of music. Gospel:-D",
+        "commentId": "gp:AOqpTOEJRhtx9nLwsqOeq34ygra_QVso9u05OcTRiaDY3U46bpGucC4y368pSW6PZsMZh7ASp91i0Gu9qthbHg",
+        "author": "Bruce Lawson",
+        "authorURL": "http://lh6.googleusercontent.com/-rg0NpH5yCms/AAAAAAAAAAI/AAAAAAAAAOk/2B-AND06s1s/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-rg0NpH5yCms/AAAAAAAAAAI/AAAAAAAAAOk/2B-AND06s1s/photo.jpg"
+      },
+      {
+        "documentVersion": "2.6.0",
+        "timestampMsec": "1373519434550",
+        "starRating": "5",
+        "title": "Love it!",
+        "comment": "I love every single feature of this app. Thank you!",
+        "commentId": "gp:AOqpTOGU8KDsbvUaSJ37DxIwS99H6p9cI0pmLvxqBBDIjoqTOW_r0cxOv4GZQajncWpdoZIEFnREjPo-5HdGYA",
+        "author": "Jasmine Armento",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.snamm13.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

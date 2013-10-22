@@ -1,0 +1,38 @@
+{
+  "title": "The Five Star Official App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.app5qQMd4oHqK",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 29, 2013",
+  "version": "1.6",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.app5qQMd4oHqK",
+  "extendedInfo": {
+    "installSize": "12M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official app of the Five Star Conference and Expo, this all-new, free, highly intuitive app allows attendees to get the most out of their Five Star experience on the go on their phones and tablets.The app allows you to view/build/edit your schedule, set alerts, discover upcoming events, view speaker bios, navigate maps of the Expo Hall and the Conference, rate and review academic sessions, stay connected through social media, and so much more!Download this free app today to unlock an unsurpassed experience this September at the only event built for the entire mortgage servicing industry, the Five Star Conference and Expo.Features include:My Schedule: View the entire Conference schedule, then use the app to preplan the events, academics, and more that best suit your business needs.Alerts: Through the schedule, you can also set alerts for events you don't want to miss.Maps: View and navigate through maps of both the expansive Expo Hall and the entire Five Star Conference.Search: Quickly find events, speakers, exhibitors, venues, and more via keyword search.Expo Hall: Browse every exhibitor at the industry's largest exhibit hall.Speakers: View every speaker at the Five Star Conference, including their bios and what engagements they're participating in.Session Reviews: Review and rate any academic session you attend as the Five Star continuously strives to improve the best event experience in servicing.Keywords: Mortgage Servicing, Default Servicing, Five Star, Compliance, Investment, REO, Title, Valuation",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.app5qQMd4oHqK.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

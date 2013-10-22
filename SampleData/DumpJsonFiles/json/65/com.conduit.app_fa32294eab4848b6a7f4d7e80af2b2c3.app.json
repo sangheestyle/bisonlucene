@@ -1,0 +1,47 @@
+{
+  "title": "Harlem Shake",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_fa32294eab4848b6a7f4d7e80af2b2c3.app",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "March 3, 2013",
+  "version": "1.1.2.189",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Nutrition Source",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_fa32294eab4848b6a7f4d7e80af2b2c3.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Do the harlem shake!  Latest and greatest Harlem shake videos. Watch funny harlem shake clips. Latest news headlines and harlem shake videos being added every min. Do the harlem shake!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_fa32294eab4848b6a7f4d7e80af2b2c3.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

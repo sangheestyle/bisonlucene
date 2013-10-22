@@ -1,0 +1,39 @@
+{
+  "title": "Plucky Magazine - Mobile Site",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wPluckyMagazine",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "June 29, 2011",
+  "version": "0.12.13091.55049",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Plucky Magazine",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wPluckyMagazine",
+  "extendedInfo": {
+    "installSize": "178k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Plucky Magazine is a dynamic and ever-evolving GLBT magazine focused on being the news source for all GLBT community members (currently focused on the MidWest in the USA). In the last month we have more than doubled our audience, and you can see why in the quality of our articles. Our Android app is always free and our website has social interaction aspects that you will enjoy. Download our app and stay up to date with the latest that Plucky Magazine has to offer, all in the palm of your hand. Go BIG, Go Plucky Magazine!DON'T FORGET: We launched our physical magazine in August 2011Keywords: GLBT, Gay, Lesiban, Bisexual, Transgender, Plucky, Magazine, News",
+    "reviews": [
+      {
+        "documentVersion": "2.13091.55049",
+        "timestampMsec": "1310865071311",
+        "starRating": "5",
+        "title": "Easy and fun to read",
+        "comment": "This version of the app is much better than the first",
+        "commentId": "lg:AOqpTOHTdRhAtf5clI8rWlkCt0R-j-KZD4S2KSPbmhXo0QF5LIPSExOY1ybKMz0oJosi7YuU-J5UuC_x8cXN-gI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wPluckyMagazine.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Galleria Fine Jewelry",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.diadori.galleriafj",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "October 26, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "DiaDori",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.diadori.galleriafj",
+  "extendedInfo": {
+    "installSize": "346k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Galleria Fine Jewelry is your source for diamond jewelry.  We travel to Antwerp, Belgium every year to buy diamonds direct from the diamond capitol of the world.We have the only computerized Diamond Beauty Evaluator in southwest Missouri that analyzes the beauty of a diamond based on its brilliance, symmetry, and fire.  We have been in business 22 years, supplying our friends and customers with beautiful diamonds.",
+    "reviews": [
+      {
+        "timestampMsec": "1348471365921",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "Asks for email info only",
+        "commentId": "lg:AOqpTOGFu1vgCqU4-RKGDI31nVJK-3kimPrL2SvxOptTeUabOythoHhke5yKXYyJ3QuLcI_gkRKpvKZo3lOZWg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Next Parent Browser",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ficb.android",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 29, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "FIC Technology Pty Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ficb.android",
+  "extendedInfo": {
+    "installSize": "725k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The Next Parent Browser is used in association with the Next Parent Viewer application, available for PC, to provide a web browsing environment for children to access the internet from an Android device.This application also enables the secure monitoring and reporting of childrenâs browser activity on mobile devices, to the Next Parent Viewer PC application. Once installed and linked to your PC viewer, your childrenâs browsing activities will be available for you to supervise. For more information, including a Quick Guide video about how to use this app, visit our website at: www.nextparent.comAbout Next ParentNext Parent is the first comprehensive solution for practical online parenting of today's digitally-connected children. Designed with expert medical input, it allows effective on-the-go parenting for busy working parents, using cutting edge technology to allow supervision and interaction online from wherever you are and whatever they are doing.Next Parent is a software package that allows parents to supervise and interact with their children online by screen-casting their childrenâs Internet, computer, games consoles and mobile devices, to one central easy to use parentâs interface. It can display up to 4 childrenâs live screens simultaneously on the parents PC or tablet and provides summary of the play childâs online and digital device activity categorized into play and learning types. It is designed for parents with children aged 5 â 17 and provides increasing levels of privacy, as the child gets older. All children are made aware that the software is running on their device and operates in an environment of trust between family members.Next Parent offers:â¢ Effortless parental oversight and interaction with your childrenâs on-line world.â¢ Encouragement of positive use of computer by distinction between play and learning activities.â¢ Feedback to children and enforcement of agreed limits on time spent playing and socializing,â¢ Ensuring timely bedtime for young children and teenagers alike.â¢ Way to help your children with their homework and projects, even when you are out of the home.â¢ One product for all your childrenâs digital devices â computers, tablets, smart phones and even game consoles.Find out more about Next Parent at: www.nextparent.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.familyiconnect.android.permission.SIGNATURE"
+    ]
+  }
+}

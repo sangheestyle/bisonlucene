@@ -1,0 +1,35 @@
+{
+  "title": "Kitchen & Bath Industry Show",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.kbis2011",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "March 14, 2011",
+  "version": "1.6.8",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.kbis2011",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Follow Me is the official application for the Kitchen & Bath Industry Show (KBIS), April 26-28, 2011, in Las Vegas. Navigate like a pro with our interactive maps, search the exhibitor directory, or create your show schedule by choosing sessions you want to attend and speakers you want to hear. Enjoy the show!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

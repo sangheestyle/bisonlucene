@@ -1,0 +1,33 @@
+{
+  "title": "Faculty/Staff Directory",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fileTest.TestFile",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "January 5, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Jeremy Callinan",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fileTest.TestFile",
+  "extendedInfo": {
+    "installSize": "60k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Use this application to find faculty and staff at the University of Pittsburgh at Bradford. You can quickly search by last name, and call or email any faculty or staff on campus.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

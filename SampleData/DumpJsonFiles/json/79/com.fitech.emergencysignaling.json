@@ -1,0 +1,64 @@
+{
+  "title": "Emergency Signalling",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fitech.emergencysignaling",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "May 27, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Ashwin Balani",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fitech.emergencysignaling",
+  "extendedInfo": {
+    "installSize": "659k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Emergency Signalling - An Application to Alert your Loved Ones in case of any emergencyThis application is made by looking at the increasing Rapes in India and Abroad. Through this application users can alert their loved ones in case of any emergency situationsHere are some features of the application,Alert Via SMSesBy just one click of a button, Users can send SMSes to multiple persons (number of persons are not restricted). These SMSes go with your location information including Latitude, Longitude and exact Location Name (if available). We also recommend that you send your IMEI number (check Settings), so that you can be tracked. Police have the Technology to track any phone by its IMEI numberAlert Via CallBy just clicking one button, users can call one specified emergency numberCommunity Connect (new)By clicking the Alert Button, users can now alert the entire community about the incident in Real Time. Your personal details are not shared with the community, only the location is sent so that help can arrive anytime anyplace quickly. The community user is also shown a map from his/her location to your location, so that you can be saved quicklyAudio RecorderSuppose someone is bullying you with their words, just click on Audio Recorder to record audio, and save it to your SD Card in real time. This is a method of proof collection, and can be presented as an evidence against the person. Number of recordings are unlimited and depend upon the size of your SD CardEnhanced Location LogsThis application keeps track of your location by the minute. It stores all your location information to the SD Card, so that in case of any emergency situations, these logs can be used as an evidence about your locationOnline message Backups for EvidenceWe keep an online backup of your messages, so that in case your phone gets damaged, and you have received some threat messages, you can prove this as an evidence against the person sending such messagesThis is a great application, and uses some permissions. The detailed description of each permission is given below, do read it,Access LocationTo store, track and send your location in case of an emergencyInternetTo connect to the community, store online backups of messages and get your exact location name from Google's reverse geocoding servicesCall PhoneTo call your loved ones in case of EmergencyRead Phone StateTo get your device and phone number for sending via SMSSend SMSTo Send SMSes to your loved ones in case of Emergency SituationsRead ContactsTo select contacts while picking up emergency numbersRead SMSFor online backupRecord AudioFor the Audio RecorderWrite External StorageTo write audio files and location logs on SD CardHope you find this application useful and life saving",
+    "reviews": [
+      {
+        "timestampMsec": "1369398564086",
+        "starRating": "5",
+        "comment": "Nice app to be alert and keep everyone alert",
+        "commentId": "gp:AOqpTOH3PzAHOBV_2eUio7tX4k1Co5vW1yKi5Htj6peIO5MP3LFT90rKFPJoLCfeqQ08Qij7NpK-uKle73pvZXU",
+        "author": "Ashwin Balani",
+        "authorURL": "http://lh6.googleusercontent.com/-zBcz6H5Fsh8/AAAAAAAAAAI/AAAAAAAAAAA/Ram7pDEhUns/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-zBcz6H5Fsh8/AAAAAAAAAAI/AAAAAAAAAAA/Ram7pDEhUns/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368538829448",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Nice app",
+        "commentId": "gp:AOqpTOGcqsqHftJDNCGQsX6HWz9mGKoDiJ1KmOHRaZB1n27KOw3Do5g_DICU0Hnkn6G9AvLkdbL2Q6QVRTTo66E",
+        "author": "Vipul Thawre",
+        "authorURL": "http://lh5.googleusercontent.com/-l87tJoSDaPU/AAAAAAAAAAI/AAAAAAAAAZk/jWdeYcq6wHs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-l87tJoSDaPU/AAAAAAAAAAI/AAAAAAAAAZk/jWdeYcq6wHs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367937130820",
+        "starRating": "5",
+        "comment": "Awesome",
+        "commentId": "gp:AOqpTOGpIodgBA_4_KsD6d7xXFDO8CPp0a_Ia3JK45_xP6kboX_MLEKPfBMveQQyKIX1fO9i6inAhZinBrE6EXc",
+        "author": "nisha lalwani",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

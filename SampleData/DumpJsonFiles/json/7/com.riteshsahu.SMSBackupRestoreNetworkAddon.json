@@ -1,0 +1,225 @@
+{
+  "title": "Add-On - SMS Backup & Restore",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestoreNetworkAddon",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 13, 2013",
+  "version": "3.11",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1085",
+  "rating": "4.6718893",
+  "contentRating": "Everyone",
+  "creator": "Ritesh Sahu",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestoreNetworkAddon",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Add-On for SMS Backup & Restore - Allows the app to - Automatically upload to Google Drive. - Automatically upload to Dropbox. - Send automated emails after a backup.This app does not appear in the list of apps in the phone launcher. It is used by the SMS Backup & Restore app and gets opened from the \"Backup Settings\" screen of that app.Google Drive:It may not work with all devices as the Google Play Services may not be available. Please get in touch with me if you get problems.Dropbox Settings:This app only has access to its own folder and does not have access to other Dropbox folders.Check the \"Use Browser for Authentication\" if you want to use your default/external browser for authentication rather than the built-in functionality.Email Settings:All the settings on the screen are dependent on the Mail Service Provider that you use. The details about the service can be found on the providers site. Some of the common ones are linked at the bottom of this section.Sender Email Address: The email address from which the email should be sent.Recipient Email Address: The email address of the recipient. If you are sending the email to yourself then this will be the same as the Sender Email Address.SMTP Server: The HostName/IP Address of the email SMTP server. For example: smtp.gmail.com for Gmail.Port: The port used by the SMTP server. Normally 25/465/587. For example: 465 for Gmail.Security: The security used for connecting to the SMTP server. Use SSL/TLS for Gmail.Require Login: Checked if the SMTP server needs you to authenticate before sending emails. Check this for Gmail.User Name: The user name required to authenticate with the SMTP server. For Gmail, its your email address.Password: The password required to authenticate with the SMTP server. For Gmail, its your Gmail password. If you use 2-step authentication in Gmail, you'll need to generate an application specific password.Subject: The subject for the email.Body: The message content for the email.This App needs access to the following:* Network communication: To connect to Email/Dropbox/Google servers.* Your accounts: Used for Google Drive account setup.* View Network Connections: So that the app does not try to upload when there is no network connectivity.* Test access to Protected Storage: To read the Backup file on the SD card.",
+    "reviews": [
+      {
+        "timestampMsec": "1377726352817",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "Does what\\'s it\\'s meant to do. Scheduled backup runs perfectly, Dropbox integration works great, it\\'s free and easy to use. Makes migrating from phone to phone easier.",
+        "commentId": "gp:AOqpTOHaKWMvbpDAkleWaTOwplv7BZEAgFtNh5pxC2vVViqCI2sxH0iEtZ7bRZ7AQQNScfnv7tieuJS0p5_AqQM",
+        "author": "\\305\\201ukasz D.",
+        "authorURL": "http://lh6.googleusercontent.com/-Q5W4vQgaE3s/AAAAAAAAAAI/AAAAAAAAHfE/P5dKGHQb6zM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Q5W4vQgaE3s/AAAAAAAAAAI/AAAAAAAAHfE/P5dKGHQb6zM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378132318533",
+        "starRating": "3",
+        "title": "Feature request",
+        "comment": "BUG: From time to time the Dropbox backup misses some earlier SMS-es.  Very irritating!  This app largely does what I need.  My use case involves syncing SMSes with my laptop so I only miss the following feature: upload as soon as I got an SMS.  Ideally uploading could be incremental, like one SMS per file on my Dropbox account.  That\\'d result in vastly reduced processing and transfer overhead.",
+        "commentId": "gp:AOqpTOHg7GRRgFgTaS2OeXuhHGLDW4nLkBPxBGMTtwQKHC6kG7F8q1OtUvkiMUF0dWPkPQX_amXfpOI5sEwRYSg",
+        "author": "L\\303\\241szl\\303\\263 Monda",
+        "authorURL": "http://lh3.googleusercontent.com/-s9Xrn1MxC9A/AAAAAAAAAAI/AAAAAAAAAB8/STd03DcBZBg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-s9Xrn1MxC9A/AAAAAAAAAAI/AAAAAAAAAB8/STd03DcBZBg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373765721599",
+        "starRating": "5",
+        "title": "Simple, fast, offsite backups",
+        "comment": "Simple, fast, functional. Backups can be auto sent off site to Google drive, and read on phone or  on PC. Uses XML for generic portability. Developer very responsive.",
+        "commentId": "gp:AOqpTOG31qbq3gun4gl_78tLH7XdCsN-XboF7syTdW8OLj0q-4IPFw7r35hVL0naTT7N4Diy4zjotBTU0aPA7n0",
+        "author": "Chris Lerew",
+        "authorURL": "http://lh6.googleusercontent.com/-62KdG2J-XAg/AAAAAAAAAAI/AAAAAAAAAUM/gEU2szRBtOg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-62KdG2J-XAg/AAAAAAAAAAI/AAAAAAAAAUM/gEU2szRBtOg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374505146500",
+        "starRating": "5",
+        "title": "EXCELLENT",
+        "comment": "Great application for backing up your text messages. Very handy. Love the e-mail functions, less stuff stored on phone.",
+        "commentId": "gp:AOqpTOEiX5zQr0DpdqXJHYMF7NrBR1uvEtXhhx00ycEuPywTCV51N66rAkS2Mi6RiQYtnRejReGyOTOZK-AqZBs",
+        "author": "Barry Smith",
+        "authorURL": "http://lh5.googleusercontent.com/-WYTqGZg30KI/AAAAAAAAAAI/AAAAAAAAe2E/iokV4-VlKrw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-WYTqGZg30KI/AAAAAAAAAAI/AAAAAAAAe2E/iokV4-VlKrw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378321611176",
+        "starRating": "5",
+        "title": "A must app for all android users...!!",
+        "comment": "Whenever I do a factory reset I used to loose all my msgs.....many of dem r very imp for me. Not only me every 1 faces dis problem many times. Bt dis one app solves all our worries....! I\\'ll recommend it to all my friends.....!! Thank u...!!",
+        "commentId": "gp:AOqpTOGmqPFDdPhW5aWlxpnGREaNCEYoyTPHFjNsp-bsw4xg1B3l48QNUI6rxq7uauidSjv2Yb_LEUmnogJ7Ves",
+        "author": "Naveen Kumar",
+        "authorURL": "http://lh4.googleusercontent.com/-kIXP0NmStlQ/AAAAAAAAAAI/AAAAAAAAAAA/ZAaZ_jZXMqY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-kIXP0NmStlQ/AAAAAAAAAAI/AAAAAAAAAAA/ZAaZ_jZXMqY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377680952069",
+        "starRating": "3",
+        "comment": "Great app!!! But why everytime I restore my messages it gets deleted when the message app sticks",
+        "commentId": "gp:AOqpTOFGd3Op2ck4CprxWNVMSTgFGwM0U02gg3WQpOsFuJJWSC7KxsdQCwQEN9cqR8Cprzcdm8KBaWlIIK0xvPM",
+        "author": "Mztee6",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376828022030",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "I hope this app can export to XML, TXT, or other formats.",
+        "commentId": "gp:AOqpTOEy89prY46wZzb8rwycy8AvE1ndTMuMSZooQORVVTxRMSO3jPH3aRIFEk75_XVSIMf4VAsVvSTXrog3xw8",
+        "author": "Mastorio Jr",
+        "authorURL": "http://lh4.googleusercontent.com/--MoBRnXhzfs/AAAAAAAAAAI/AAAAAAAAARs/b07CDLTR-I0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/--MoBRnXhzfs/AAAAAAAAAAI/AAAAAAAAARs/b07CDLTR-I0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378093721248",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Been using this for years. Cannot live without it. Thank you!",
+        "commentId": "gp:AOqpTOEPBGq3B_crjNwVEZ8YEyn1W9yUJQgI7jo7bUTIrznPu1FgX7W2ky3oqXJLSCoHS0uQmervk27IEBZNRf4",
+        "author": "Glenn Moses",
+        "authorURL": "http://lh6.googleusercontent.com/-Ju9Hr3zVSEM/AAAAAAAAAAI/AAAAAAAAAAA/f1CiBZX9hPU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Ju9Hr3zVSEM/AAAAAAAAAAI/AAAAAAAAAAA/f1CiBZX9hPU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375171301621",
+        "starRating": "5",
+        "title": "restore",
+        "comment": "is there a way to restore from dropbox? If there isn\\'t, it\\'s almost pointless to save it there when you should move files from one place to an other.",
+        "commentId": "gp:AOqpTOESwXWKIXkHv06cCBp0k4pDq3fBnKd_FLpljsw5J9oL5k21ZOTiGn1ulo3iSSkTiSbHA0HXrpcnhC19sEM",
+        "author": "\\320\\233\\321\\216\\320\\261\\320\\265\\320\\275 \\320\\230\\320\\262\\320\\260\\320\\275\\320\\276\\320\\262",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377731916967",
+        "starRating": "5",
+        "title": "Excelent",
+        "comment": "Perfect",
+        "commentId": "gp:AOqpTOGJq4Ad66-DySLmmlkiOWdWRIw14p3-Fffy7RJDcLyA1gqamBpsiXnPxf7gPFmR6Z3_Xbyn1TSo2w6X58A",
+        "author": "Mia Amore",
+        "authorURL": "http://lh4.googleusercontent.com/-_Q3GUzWw3Is/AAAAAAAAAAI/AAAAAAAAAYg/zc6tKrDCoRE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-_Q3GUzWw3Is/AAAAAAAAAAI/AAAAAAAAAYg/zc6tKrDCoRE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375255022327",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Everything works flawlessly, fast.",
+        "commentId": "gp:AOqpTOFzQjkV9Q7kO6r9GGHxnm0NpDL-qeZy8l-1I_4j5ottRQkLmX_vOcJaxT9zu3Q3zLEx_wpinBPHg82bAk4",
+        "author": "Henry Kuo",
+        "authorURL": "http://lh5.googleusercontent.com/-d8pp_YA01F4/AAAAAAAAAAI/AAAAAAAAAW0/UuOhQGm2QTg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-d8pp_YA01F4/AAAAAAAAAAI/AAAAAAAAAW0/UuOhQGm2QTg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373823332594",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "This is a must have app",
+        "commentId": "gp:AOqpTOHl7DG9tCYvphrq6Kte7u7IN-qeZoSQyuQNQPP-pVq39T4PsWurMP8KTEziltK-KnNZLedCZ0fYMamT4Yk",
+        "author": "Shy Francis",
+        "authorURL": "http://lh3.googleusercontent.com/-be2Mw4XAcbk/AAAAAAAAAAI/AAAAAAAADkQ/kyVnoQ648TM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-be2Mw4XAcbk/AAAAAAAAAAI/AAAAAAAADkQ/kyVnoQ648TM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374661241029",
+        "starRating": "5",
+        "comment": "Works perfectly on my Note 2",
+        "commentId": "gp:AOqpTOEQF5KAt6ZYqMbpPNOgkTnB09CW2ZHDHSB3C24QCSwJk31gKWGWlj_BiwX-gws4l9deXSW3p3AaAe2WX0w",
+        "author": "Scott Cates",
+        "authorURL": "http://lh4.googleusercontent.com/-1LXX1Dvieqk/AAAAAAAAAAI/AAAAAAAABiE/qNYu8IwqYXg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-1LXX1Dvieqk/AAAAAAAAAAI/AAAAAAAABiE/qNYu8IwqYXg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374432445906",
+        "starRating": "5",
+        "title": "Gotta save those important texts.",
+        "comment": "This app is a simple to use, effective app to back up texts. Works perfectly. Thanks Dev.",
+        "commentId": "gp:AOqpTOHDFxB-Lcu3bk4Boe3GMDN1UaAAQukuu_RnzvdUa_fT7VxdTFCjiwTdilJlSTAwoaMWS70v5NX9c0keuyU",
+        "author": "Nicolas Pipitone",
+        "authorURL": "http://lh3.googleusercontent.com/-0QceDG3FsEU/AAAAAAAAAAI/AAAAAAAABac/1k-dtkuEPcI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-0QceDG3FsEU/AAAAAAAAAAI/AAAAAAAABac/1k-dtkuEPcI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376145867205",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Does exactly what it\\'s suppose to do, I love this app!!",
+        "commentId": "gp:AOqpTOFVKE3jhzUvLDeQ0arRB9W-djAT1b_W-OM7vSz9jipLmJ-8ksLd8rEXLLxBBcNPDUMWtQOp7sinJBE_wxc",
+        "author": "Tracie Hall",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375704941764",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Great app. Does what it says perfectly",
+        "commentId": "gp:AOqpTOEI_1IhStWRoxxA3yzkAGpv4KXne43dXpxqjDQu7BonxBo5sjsi_SAuVmv6iQQ5VCQUyBDhtcgI5OU01Zg",
+        "author": "A. Leppard",
+        "authorURL": "http://lh4.googleusercontent.com/-z2xwUH4gbhE/AAAAAAAAAAI/AAAAAAAAA4A/EKPXDcRkx70/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-z2xwUH4gbhE/AAAAAAAAAAI/AAAAAAAAA4A/EKPXDcRkx70/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375786089701",
+        "starRating": "5",
+        "comment": "Perfect add on",
+        "commentId": "gp:AOqpTOHhCJknNWLs-px49XZV1fJWw_XxXMzSgfbwfiS3KjjlkprW1TG1DLWTGYcSux2d3gY_tikl7y91OaAYCl8",
+        "author": "Corey Howard",
+        "authorURL": "http://lh5.googleusercontent.com/-lB1vaIvqhgs/AAAAAAAAAAI/AAAAAAAAJY0/29lMfqqJkjU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-lB1vaIvqhgs/AAAAAAAAAAI/AAAAAAAAJY0/29lMfqqJkjU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377056063208",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Great development. One of the most functional apps with out any problems. Great developer! Awesome job",
+        "commentId": "gp:AOqpTOHyOojegt0uXGJlxklX9ThxjJHqtq_ACbUU11VF_DvothyPWbkd95T1TKBcd9SI0BSoEwEgfAYzaFWRQhU",
+        "author": "Yash Ashar",
+        "authorURL": "http://lh3.googleusercontent.com/-gD6fktmoSpU/AAAAAAAAAAI/AAAAAAAAAHU/ibfutbvH4to/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-gD6fktmoSpU/AAAAAAAAAAI/AAAAAAAAAHU/ibfutbvH4to/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375021649645",
+        "starRating": "5",
+        "comment": "For anyone who flashes roms or needs redundancy",
+        "commentId": "gp:AOqpTOHer2_mgylh9Yq-fiLro913COe7g03qCCjipurBJsmKWHPeY7lp8ENUJLvurcwZyD_pEJrBQcXB5coC88c",
+        "author": "James G",
+        "authorURL": "http://lh5.googleusercontent.com/-fqrkicnavVg/AAAAAAAAAAI/AAAAAAAABkg/XdS2F_Fav80/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-fqrkicnavVg/AAAAAAAAAAI/AAAAAAAABkg/XdS2F_Fav80/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374125375440",
+        "starRating": "5",
+        "title": "Super",
+        "comment": "Super",
+        "commentId": "gp:AOqpTOEq8TDVTrBbmF_ebVMs2d4wiFCDAjgp5aBqhMJ_P5L83rNkCO1P1mfnXAT8rd5tuYVyjr5aCGPsPV9cqhw",
+        "author": "GHANSHYAM CHHAYANI",
+        "authorURL": "http://lh3.googleusercontent.com/-Zzf7-tKcCE0/AAAAAAAAAAI/AAAAAAAAAAA/6_Tl11KiAS0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Zzf7-tKcCE0/AAAAAAAAAAI/AAAAAAAAAAA/6_Tl11KiAS0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.USE_CREDENTIALS"
+    ]
+  }
+}

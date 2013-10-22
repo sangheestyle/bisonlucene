@@ -1,0 +1,58 @@
+{
+  "title": "iPortal",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.etellicom.myportalroid",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "June 12, 2013",
+  "version": "2.57",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "17",
+  "rating": "3.764706",
+  "contentRating": "Low Maturity",
+  "creator": "eTellicom Pty Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.etellicom.myportalroid",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "iPortal will become deprecated on 1st Oct 2013. Please use our new product iPortalLite or IMX Mobile for replacement.For details , please visithttp://etellicom.com/iportalhttp://etellicom.com/imxmobileUnified Communication client application that integrates with the eTellicom IMX system and Siemens HiPath OpenScape Office HX, MX and LX platforms. eTellicom now delivers the feature-rich myPortal desktop functionality to your Android devices Features include: - CallMe - Send Call to Voicemail - Send Call to Cell Phone - Change office presence - Real-time view of internal contacts' presence - Favorites - View/listen to voice mail messages - Ad-Hoc conference with contacts from your phone system or your mobile phone - Start/Stop Scheduled Conferences on your PBX - Instant messages - Call History - Start/Stop Scheduled Conferences on your PBX - Call Transfer It allows the user to control their presence, listen to voicemail messages (via media streaming), system directory search, call journal and conferencing. The telephony part works by instructing the PBX to make a call to the iPhone, then the PBX makes a call to the desired party. Both calls are made using ISDN. The application also includes proprietary chat (IM). â¢ Integration with eTellicom IMX PBX system â¢ Integration with eTellicom VisualSuite Unified Communication platform â¢ Integration with Siemens HiPath OpenScape Office HX, MX and LX platforms User Guide : http://etellicom.com/iPortal_for_Android_User_Guide.pdfWhat's New in this VersionNew features: - Real-time phone state : On Call, Calling, Ringing. - Call Transfer (for more details see \"Transferring Calls\" into the user guide) Keywords: eTellicom,IMX,HiPath,OpenScape Office,HX,MX,LX,OSO,PBX,iPortal,Communication,Telephony, ISDN",
+    "reviews": [
+      {
+        "timestampMsec": "1372437974040",
+        "starRating": "5",
+        "comment": "Bjm",
+        "commentId": "gp:AOqpTOFZMMTJDnkZ1i__u4jjhWt49hQ2-77lTXRzZ3GMkjEt7vjkALH1gUkkL0QcXz_PWyE8WBrMuuU2OhH1240",
+        "author": "Jaideep Kanu",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329152730749",
+        "starRating": "1",
+        "title": "Subscription?",
+        "comment": "Where can i register just to use this?",
+        "commentId": "lg:AOqpTOE7HMoOWIMo4dJ9dkwyk7rFQb_llliumyP3_Bhtdq5cI3EmkKNrNXe5S5BXOsxDbN1_d-XGUAhcfspdHtg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_LOGS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_COARSE_UPDATES",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

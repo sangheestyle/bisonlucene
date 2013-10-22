@@ -1,0 +1,34 @@
+{
+  "title": "Dalvik Class Inspector",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.digiwack.inspector",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 29, 2012",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Digiwack Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.digiwack.inspector",
+  "extendedInfo": {
+    "installSize": "15k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This app uses reflection to list all the members, methods and their modifiers and signatures of the given class name stored on the device.If you're just curious of what that means, just go here: http://developer.android.com/reference/packages.html find any class defined here, copy the package name and class name, then paste it into this app.  If the class is already installed on your device then it should come up with all of its variables.An example of how this app can be used is if a Developer creates an app that uses unique features of an Android device that are not available for a particular device; then a user could request that particular app to be available on their device and use this app to assist the Developer in determining if all the needed classes would be supported.Another example would be the app found here: https://market.android.com/details?id=com.digiwack.k8055Limited only supports Android 3.1 and later.  However, a user with a heavily modified Android 2.2 device might be able to install it if they install this app and check for all the classes found in the android.hardware.usb package.If you found this app at a site other than the Android Marketplace, Digiwack Software does not support any \"features\" that may have been added after it was scrapped from the Android Marketplace site. You can find the original source of this App here: https://play.google.com/store/apps/developer?id=Digiwack+Software",
+    "reviews": [
+      {
+        "timestampMsec": "1345014878078",
+        "starRating": "5",
+        "title": "Wow awesome!",
+        "comment": "This is really cool! Really a nice application to have. Its very interesting to find what classes are being used as well. Thanks, this is great.",
+        "commentId": "lg:AOqpTOHNWzI9d3GFAqL0IHj2d9Xf9JfGc7VlyrJ_Qve-U6t-Ud9QEKdBVbMH8PxmbmbGyhWvXEJt86co3C6JSg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

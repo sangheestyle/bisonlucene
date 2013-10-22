@@ -1,0 +1,48 @@
+{
+  "title": "Critter Trax - Wild Animal Tra",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fishheadenterprises.critter_trax",
+  "category": "Sports",
+  "price": "$0.99",
+  "datePublished": "June 4, 2012",
+  "version": "1.2",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "Fishhead Enterprises, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fishheadenterprises.critter_trax",
+  "extendedInfo": {
+    "installSize": "7.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "CritterTrax is an Android application for use as a wild game tracking/identification application. With over 45 pictures of wild game tracks, scat and photos such as Turkey, Whitetail Deer, Weasel, Mink, Moose, Coyotes, and many, many more, you will be able to identify animals while camping, hiking, hunting, or sitting in your easy chair at home. -- Features * Scrollable list of tracks or scat for quick, easy identification * Drill down on animals and find out their North American Distribution via map * Built in photos of animals so no need for internet connection * Quick Facts details about each animal with information such as Height, Weight, Diet, etc. * Links to Wikipedia for each animal if you are in a location that has internet access (not required) * Simple, intuitive interface * Simple track identification quiz provided with 5 random questions each time to help you learn the animals. * Internet access NOT REQUIRED for features (except link to Wikipedia on the Quick Facts page needs internet connection to get additional information directly from Wikipedia if desired)",
+    "reviews": [
+      {
+        "timestampMsec": "1375450795496",
+        "starRating": "4",
+        "title": "Nice little app to help identify on the trail",
+        "comment": "I love this little app great for identifying scat and tracks that you find on the trail. I  would have gave it a 5 star rating but sometimes the recorded sounds of the animals don\\'t play.",
+        "commentId": "gp:AOqpTOHhDEKNokPPBkfr7YfCLfyot-XOPgODIVPLd5Mr8dyCq4Qsv9NbPfjy8ltanLQBk29FDZanXaFhr5wz9w",
+        "author": "Matthew Geer",
+        "authorURL": "http://lh4.googleusercontent.com/-Y_g6G93h4Wo/AAAAAAAAAAI/AAAAAAAABcw/Dv8egqVtR8U/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Y_g6G93h4Wo/AAAAAAAAAAI/AAAAAAAABcw/Dv8egqVtR8U/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368360951725",
+        "starRating": "5",
+        "title": "Awsome",
+        "comment": "This app is top. Very clean fast and at your finger tips.",
+        "commentId": "gp:AOqpTOGTQt0z5V0cLPyGLDPmXrX8nMVQ5xm9RGllTJlUUW5Pas44DYdFY9R84a4zDwarkOTLmyfUqJMJKFYtEQ",
+        "author": "Douglas Howard",
+        "authorURL": "http://lh5.googleusercontent.com/-1qhRmqEVOvw/AAAAAAAAAAI/AAAAAAAABJg/uuJ_C1UsPKY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-1qhRmqEVOvw/AAAAAAAAAAI/AAAAAAAABJg/uuJ_C1UsPKY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

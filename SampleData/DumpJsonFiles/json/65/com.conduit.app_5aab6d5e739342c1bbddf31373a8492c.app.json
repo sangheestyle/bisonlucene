@@ -1,0 +1,39 @@
+{
+  "title": "Dog Care Tips",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_5aab6d5e739342c1bbddf31373a8492c.app",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "January 1, 2012",
+  "version": "1.2.7.750",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Caesar Barona",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_5aab6d5e739342c1bbddf31373a8492c.app",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Tips for grooming, training and care for pet dogs.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_5aab6d5e739342c1bbddf31373a8492c.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Price Tracker for Best.B",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fastinformation.BestBuyTracker",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "April 24, 2013",
+  "version": "3.5.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Super Innovation LLC.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fastinformation.BestBuyTracker",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Tracing the daily price change/drop from Best Buy",
+    "reviews": [
+      {
+        "documentVersion": "3.3.5",
+        "timestampMsec": "1353511487330",
+        "starRating": "1",
+        "title": "Does not work on my phone",
+        "comment": "Downloaded 700mb as per the data usage without showing me a thing. Needs a fix",
+        "commentId": "lg:AOqpTOG_JtpKGoJI2XLOKESCliy7EKbI2mshOWIYjnWPatsrCm2GridDuCnF3phGnYavkA2evT4GPn4ZhntMRIQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.8",
+        "timestampMsec": "1337547310169",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Big saving!",
+        "commentId": "lg:AOqpTOFg0G_3RDn2qRMrMvxziqd9Ae8PAqIKbioZrVXo28gHokSMYp8makXYMJfuFmEfk88dJFmXWag5hrlZPtQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

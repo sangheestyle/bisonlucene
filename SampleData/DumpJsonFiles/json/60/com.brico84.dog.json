@@ -1,0 +1,29 @@
+{
+  "title": "Dog Medication Reminder BETA",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brico84.dog",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "June 2, 2013",
+  "version": "1.0.01",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "BriCo84",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brico84.dog",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is a simple application that reminds you every 30 days to give your dog their flea and heartworm medication.  I developed this app because previously I was using calendar reminders and I would dismiss them and then forget for days or weeks.  The way this app works is after you give your dog their meds, a timer starts for 30 days.  On the 30th day you get a reminder in the notification bar.  You CANT swipe it away, it has to be clicked.  When clicked, the app opens, if you don't give your dog their meds (push the button indicating you did), you are reminded the next day.  You are reminded eveyday until you give them their meds.  This was just a small side project of mine, if someone else can make use of it, great.  Enjoy.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

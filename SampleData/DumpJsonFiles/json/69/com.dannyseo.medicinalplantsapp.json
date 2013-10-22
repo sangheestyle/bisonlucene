@@ -1,0 +1,50 @@
+{
+  "title": "Medicinal Plants",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dannyseo.medicinalplantsapp",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "May 23, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "DannySEO",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dannyseo.medicinalplantsapp",
+  "extendedInfo": {
+    "installSize": "5.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Medicinal plants have become one of the key topics of discussion, research, and studies among the global science fraternity. These plants are unique in their quality of efficacy and value as they treat a variety of diseases. Download the Medicinal Plants app to understand and implement the unique efficiencies of medicinal herbs and plants. This app is powered by Android and provides an array of features:â¢\tMedicinal plants and their usesâ¢\tList of medicinal plantsâ¢\tMedicinal plants informationâ¢\tMedicinal plants TulsiCheck the properties of the plants and apply them to deal with regular health problems!DISCLAIMER: The content provided in this app is collected using Feeds and Videos are hosted by YouTube and all are available in public domain. We have not uploaded any videos to YouTube. Apps  is fetching the data from RSS feeds of different sites.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.dannyseo.medicinalplantsapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

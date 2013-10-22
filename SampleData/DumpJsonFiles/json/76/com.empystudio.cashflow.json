@@ -1,0 +1,61 @@
+{
+  "title": "Cash Flow",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.empystudio.cashflow",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "1.0.86",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "33",
+  "rating": "4.212121",
+  "contentRating": "Everyone",
+  "creator": "EmPy studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.empystudio.cashflow",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "A cash flow is one of the most important financial statements for a project or business. This tool can be usefull to forecast complex scenario because is not only concerned with the amount of the cash flows but also the timing of the flows. By creating a cash flow budget you can project your sources and applications of funds for the upcoming time periods. The easiest way to think about the concept of cash flow is this: It's the actual inflow and outflow of money from a company or from a person.If you wanna know how the cash flow can evolve during the time, this is the app you are looking for.Main application features:â¢ Add several cash flowsâ¢ Get minimum value and date of minimum valueâ¢ Show cash flow graph with export in PNG formatâ¢ Manage operations and operation typesâ¢ Set operation colors (positive and negative)â¢ Manage operation repetitionsâ¢ Add several scenariosâ¢ Undo/Redo featureâ¢ Languages: EN - IT - ZH - FR - IN - KR - RU - ESâ¢ Export in Excel formatâ¢ Store your DB on cloud (Beta)Please contact the developer if you have question or issues, before rating the app low. The developer cannot help you if you only post a review and do not email for support. Contact us for a specific language translation",
+    "reviews": [
+      {
+        "documentVersion": "1.0.85",
+        "timestampMsec": "1376556513760",
+        "starRating": "5",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOGDcsOM_ww22KVtNyF6ZeS5DnfljzfJKTs3ey-Nk8WlWW0cq3epSLeHxBXKrDr7DMJUp_Eaqt0xppKjEIs",
+        "author": "Simon Ngoma",
+        "authorURL": "http://lh4.googleusercontent.com/-wmQeYH2s_n4/AAAAAAAAAAI/AAAAAAAAADA/7qSFQ9jUw58/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-wmQeYH2s_n4/AAAAAAAAAAI/AAAAAAAAADA/7qSFQ9jUw58/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.64",
+        "timestampMsec": "1365916999169",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "Easy to use, very user friendly, can use multiple cash flows / documents. Great job, Thx! It\\'s great that it\\'s for free - although I\\'d be happy to pay $2-$4 for and ad free version...",
+        "commentId": "gp:AOqpTOErGrrmkjCvSekdYojjx-7AvwbGIK8v4o0ETaIbe1JC0ePa-G-ksU3c8nnvB_RRdWLbfk-uxBXdlcUynpQ",
+        "author": "Attila Szilvasi",
+        "authorURL": "http://lh3.googleusercontent.com/-Y_nlAdZM0DY/AAAAAAAAAAI/AAAAAAAAAAA/1Hnm2rapE0I/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Y_nlAdZM0DY/AAAAAAAAAAI/AAAAAAAAAAA/1Hnm2rapE0I/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369094183125",
+        "starRating": "3",
+        "title": "Can\\'t drag screen up and down",
+        "comment": "Hard to use and see the whole page especially when in landscape orientation",
+        "commentId": "gp:AOqpTOEX5Mt5qPI2np4TnOBTKHpZDpapg6NLxTvvlYLnsMTQrzpdYJjzCMqxVAA4vIOqUq6bgwTHpqnORILw_Cg",
+        "author": "Ryan de Castillo",
+        "authorURL": "http://lh6.googleusercontent.com/-Gdtgd7wSvwk/AAAAAAAAAAI/AAAAAAAAACc/9kZowJug_Ak/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Gdtgd7wSvwk/AAAAAAAAAAI/AAAAAAAAACc/9kZowJug_Ak/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

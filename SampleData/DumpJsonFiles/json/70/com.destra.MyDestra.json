@@ -1,0 +1,74 @@
+{
+  "title": "My Destra",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.destra.MyDestra",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "November 12, 2012",
+  "version": "4.7.0.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "4.4444447",
+  "contentRating": "Low Maturity",
+  "creator": "MOBIRL Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.destra.MyDestra",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Destra Garcia, born in Trinidad, has grown from strength to strength since her 1999 debut and the entertainer is showing no signs of slowing down â challenging herself every year, taking her music and her fans along for the exciting journey.Her music has already proved its staying power and its ability to captivate multiple markets. Destra has won fans the world over and has set the mark for high energy live sets that leave audiences wanting more.Sheâs determined to achieve her dream of taking soca music to international markets. A guaranteed hit with music loving audiences everywhere, her energetic performances and eye-catching costumes commanding cameras, you might think, its easy for all her success to go to her head but Destra knows the ropes in the competitive music arena.Over her career, Destra has won many awards and accreditations some of which include more than 15 Soca Awards and five COTT awards. She remains the most requested female Soca artists of the Caribbean and the world.Destra is currently celebrating the release of her most recent album called MyDestra.com; a powerful collection of recent songs, featuring hits such as Keep On Wukkinâ, Link Up and De Baddistâ",
+    "reviews": [
+      {
+        "documentVersion": "7.0.9",
+        "timestampMsec": "1357506875342",
+        "starRating": "1",
+        "title": "Crashes",
+        "comment": "Had to delete, crashes too much!",
+        "commentId": "gp:AOqpTOEFyqWDhCyKJcTqGwb1WMvppMJHw4mfyiOs1lXnYfKMhUyVwxPuqfCwMTiiDj183ppcysMljRpORgy1xQ",
+        "author": "Candace Thompson",
+        "authorURL": "http://lh6.googleusercontent.com/-jABjPnfRxbg/AAAAAAAAAAI/AAAAAAAALHI/FHeXtP08Nfo/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-jABjPnfRxbg/AAAAAAAAAAI/AAAAAAAALHI/FHeXtP08Nfo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1361145023348",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "App delivers. Just like Destra.",
+        "commentId": "gp:AOqpTOHdAhi9XKLGwi1nkEAdaXY1uPv3NwgM7wjmS7uR28GQu-zPku3WE25bcbW--SrGO2dH6ShytQKbmm_V5w",
+        "author": "Liz Claudia",
+        "authorURL": "http://lh6.googleusercontent.com/-MuVQRRccswM/AAAAAAAAAAI/AAAAAAAAAEU/b8ixkAWrqVY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-MuVQRRccswM/AAAAAAAAAAI/AAAAAAAAAEU/b8ixkAWrqVY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360801524768",
+        "starRating": "5",
+        "title": "Soca",
+        "comment": "love de app love destra...... etc. Follow me @K_29Star",
+        "commentId": "gp:AOqpTOHZM_tGNJo8d9DWYIBJmcul7fk4ZrSF4IdN48PRAIhdpQSdlO8RjKyBGrWKUAPwZRragHCzH1RNkD3MJA",
+        "author": "Krisy Kris",
+        "authorURL": "http://lh3.googleusercontent.com/-XebzZxc5rV0/AAAAAAAAAAI/AAAAAAAAAD4/ELjPIONWVVc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-XebzZxc5rV0/AAAAAAAAAAI/AAAAAAAAAD4/ELjPIONWVVc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "com.destra.MyDestra.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Comfi International Phone Card",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.comfi.pin",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "April 3, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.6",
+  "contentRating": "Everyone",
+  "creator": "Comfi",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.comfi.pin",
+  "extendedInfo": {
+    "installSize": "659k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Call friends and loved ones abroad at cheap international calling rates. Compatible with Bizon, Continental, Fast World, Golden Lotus, Lucky Minutes, Partner, Penny Boss, Simply, and Solaris calling card PINs.* Save up to 98% on your international phone calls* Choose the calling card PIN that has best rates for your calling destination* Call local phone numbers that connect you directly to your international contacts* Great call quality and excellent customer service* See our calling card rates: http://comfi.com/calling-cards/* You must have a PIN to use this app",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1365179640032",
+        "starRating": "5",
+        "title": "love it",
+        "comment": "woww yeahhhh",
+        "commentId": "gp:AOqpTOE3sGB0tI7NwRlRUuXQ1x_NZsHVT7AbVVhinvHqX21gRCfx5sTKlVfQYbd0pHw7vvmm9TTTOTgsZH4CYm8",
+        "author": "Panya Sarapa",
+        "authorURL": "http://lh5.googleusercontent.com/-THscrV7oGEk/AAAAAAAAAAI/AAAAAAAAACY/D5C259OzsQk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-THscrV7oGEk/AAAAAAAAAAI/AAAAAAAAACY/D5C259OzsQk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.comfi.android.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

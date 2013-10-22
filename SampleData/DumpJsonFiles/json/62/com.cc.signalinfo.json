@@ -1,0 +1,241 @@
+{
+  "title": "Advanced Signal Status",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cc.signalinfo",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "1.3.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "81",
+  "rating": "4.5185184",
+  "contentRating": "Everyone",
+  "creator": "Coding Creation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cc.signalinfo",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "--- What do this app do? ---âº Toggle between 3G and 4G with a few clicks for nearly any device regardless of manufacturer.âº View all statistics your carrier uses to determine signal quality and 3G to 4G hand offs for CDMA, LTE and HSPA/HSPA+ in real time.âº Easy to read 3G and 4G statistics in percentages based on the max/min values instead of just decibels.âº Quick access to info you can reference when you need to complain to your carrier about poor reception in your area. âº Find dead spots around your home/office that affect phone calls, but not data (or data, but not phone calls).âº Reception quality can be misleading with bars only. See all the data Android and your carrier hides from you to determine signal quality and how it varies.âº Access to low level information about your previous and current wifi connections, including the current signal in decibels.***** If it crashes on startup and you want it fixed for your device, you have to contact me. Crash reports tend to be too vague. ***** Annoyed at the lack of network signal information for your Android phone your carrier hides from you?Can't switch between 3G and LTE easily with your phone?Wish you could know more about the statistics your carrier uses to determine many bars your phone has and the tower it connects to?Want to see what your 3g and 4g signals are at the same time and also switch between them easily?Try out this free app and see all that information you've been missing when you could only look at number of bars and one signal under status settings. Also includes hidden configuration settings (cellular radio configuration, wifi configuration, battery info) normally invisible to users.Compare your signal quality based on percentages instead of just decibels. Now, you can instantly see how great each signal reading is for your device based on a scale of 0% (worst) to 100% (best). Percentages are configured to give the best reading for your carrier by default.Use the info contained in this app to monitor your current signal and find dead spots around your home and office. Also useful for complaining to tier 2 tech support with your carrier when your signal sucks. Be informed and use what they know to your advantage!**If you want this app in another language, please contact me either on the forums or with the listed email here to help with the translation. My primary language is English and any translating would require a little additional help to verify correctness.**More information on the information given in the app can be found here until it's integrated into the app itself: http://rootzwiki.com/topic/36320-app2012-11-11-android-signal-info/App works best for phones with either a CMDA or LTE data connection, but may work for GSM only phones as well. If it does not work with your phone, please contact me at my email and I can work with you to find out the issue. I noticed a few GSM phones have issues, but most are fine.Note: not all information may be available depending on the OEM/OS. Info not displayed will show as \"N/A\".If the advanced area button causes the app to crash, it's your device and not me, sorry (not much I can do other than remove the button for your device only). It's a menu added to the pure Android OS and can be removed randomly by other companies that make Android OS phones (such as the case of certain Samsung ones). I could try to find a work around, but it would require users that experience that issue to contact me and test while I work out an alternative.== PERMISSIONS ==android.permission.CHANGE_NETWORK_STATEandroid.permission.ACCESS_NETWORK_STATEâ because the app won't show anything useful without those âandroid.permission.INTERNETâ for the tiny banner ad I have âI do not collect or store any personal information.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.4",
+        "timestampMsec": "1373510788241",
+        "starRating": "4",
+        "title": "Just what I was looking for",
+        "comment": "Wanted to do a little site survey to see where on my property the newly arrived LTE signal was best.  I tried a few apps, and this one provides the data i was looking for.  Works well on my Verizon Note 2.  Something that would REALLY add value is a continuously updated line graph for the various signals.  This would help better visualize, \\\"Oh, it drops as I walk this direction...\\\".  Great contribution!",
+        "commentId": "gp:AOqpTOHbcgJA0bpNBLtKBhhXZ4ChbyzfnhNOs-khtPxFAZ5meCtC0TCgJa-7S9_0OsaAFwzBOSKUii5kjWr-dOs",
+        "author": "Todd Winter",
+        "authorURL": "http://lh3.googleusercontent.com/-lHbm3l9tKr0/AAAAAAAAAAI/AAAAAAAAAek/TDexMIIVoeQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-lHbm3l9tKr0/AAAAAAAAAAI/AAAAAAAAAek/TDexMIIVoeQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.4",
+        "timestampMsec": "1378001228518",
+        "starRating": "5",
+        "title": "Advanced signal status",
+        "comment": "This really works good . Im even connected to an allien planet , they call there turff Earth . Thanks for a booster that actually works .",
+        "commentId": "gp:AOqpTOEswCpje1t2nkxTcVfCmNKKYOrfHooVINTejlxU6Y-BJGXd2SILNL6IdaIeDvfmWzmU5axjq9mTi3erTcw",
+        "author": "Kenneth Nootbaar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.4",
+        "timestampMsec": "1377190298055",
+        "starRating": "4",
+        "title": "Nice, works.",
+        "comment": "Fixed some of my issues of going to closer but non preferred towers by forcing to network type. If i could lock on (doubtful allowed) or even lock out offending local tower that the phone constantly tries too connect too because it\\'s stronger but doesn\\'t have data, that would solve my needs100 percent. Thanks for a great app.",
+        "commentId": "gp:AOqpTOHIspyGHsc8h017Lpms7f0i58MNbdSfOnUxNiHFWZOC35XO8zVf7EIZg1YhMeLljt0NsutSjxds9dZZtpI",
+        "author": "David Dolata",
+        "authorURL": "http://lh3.googleusercontent.com/-J5h6uA4sGHY/AAAAAAAAAAI/AAAAAAAAAAA/5LuR3wCNjkk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-J5h6uA4sGHY/AAAAAAAAAAI/AAAAAAAAAAA/5LuR3wCNjkk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.4",
+        "timestampMsec": "1376451374423",
+        "starRating": "5",
+        "comment": "Cool.",
+        "commentId": "gp:AOqpTOH6GGLEXzAWDms8wY0YyaN1Ru0XeZh8K5bDOrU0cDog1IVaLSgLZlCiesGK6ZoUrcgOXt6Z0gAs_HQBkEA",
+        "author": "Checkina Coulibaly",
+        "authorURL": "http://lh4.googleusercontent.com/-RjX-bJCkif8/AAAAAAAAAAI/AAAAAAAAFNw/2pU39dDMESE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-RjX-bJCkif8/AAAAAAAAAAI/AAAAAAAAFNw/2pU39dDMESE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.4",
+        "timestampMsec": "1376283332267",
+        "starRating": "1",
+        "title": "Completely incorrect readings",
+        "comment": "Several readings are completely incorrect and some values even look completely made up. Dunno where it reads the data from but several other apps and the phones own diagnostics disagree.",
+        "commentId": "gp:AOqpTOHl9RBofeBYPn8xWunCL_3FwYaTaXZkszkzrZkgmY_yIpBFx_8HPgTD3ib_xUjYv8BIk8hDzPejYRNfqb0",
+        "author": "Yan Huang",
+        "authorURL": "http://lh5.googleusercontent.com/-n0J3rPLKUNc/AAAAAAAAAAI/AAAAAAAAAAA/QvbpZpWreHc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-n0J3rPLKUNc/AAAAAAAAAAI/AAAAAAAAAAA/QvbpZpWreHc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.4",
+        "timestampMsec": "1377373648899",
+        "starRating": "5",
+        "title": "You rock!",
+        "comment": "After s4 AT&T update couldn\\'t get to service menu to toggle my lte, highly po\\'d and you MADE MY day!",
+        "commentId": "gp:AOqpTOGhq0RCyweYsc3V1MHrh7ccuRlvFk7mVTjxHePsWiXnb8VlXgsVucVK39fCHT2oXvRO5LWKS7r7gM0Bbc0",
+        "author": "Stephanie Slover",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.4",
+        "timestampMsec": "1372805290061",
+        "starRating": "5",
+        "title": "I give this app 18 stars.....",
+        "comment": "Awesome !!!",
+        "commentId": "gp:AOqpTOEg70PllT27C1lURhOT5KGfIUumlE-We8v9fiPSvSLK1E1Kx-Ouc23HAXt27P9cHt8Qd2mZPCN6tl3nu1E",
+        "author": "KT Huh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.4",
+        "timestampMsec": "1377623899524",
+        "starRating": "5",
+        "comment": "Actual numbers and control",
+        "commentId": "gp:AOqpTOEBUCqRC4pV5ldcu50fpl6rKwAGU2QEIMVLL-qq3J5AaQmxf6J4rrbbojs26enudkIk573jyrGSQdH6T4A",
+        "author": "Sherri Henckel",
+        "authorURL": "http://lh6.googleusercontent.com/-9FbJQHCnHJE/AAAAAAAAAAI/AAAAAAAAACs/E5BHMnglcYU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-9FbJQHCnHJE/AAAAAAAAAAI/AAAAAAAAACs/E5BHMnglcYU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1370434382055",
+        "starRating": "5",
+        "title": "Very good",
+        "comment": "Lots of detailed information! Thank you",
+        "commentId": "gp:AOqpTOGaozt952k2SN8EzLC2CFz6gthC4pOX7vBSsnCQLyabiOltb2kNFGvxVK9V8rwANDn1w4jXAYJAi05hGho",
+        "author": "Peter Giesbrecht",
+        "authorURL": "http://lh5.googleusercontent.com/-ChPTVaYS1gI/AAAAAAAAAAI/AAAAAAAAEAM/i6uOAlSjT0M/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ChPTVaYS1gI/AAAAAAAAAAI/AAAAAAAAEAM/i6uOAlSjT0M/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.3",
+        "timestampMsec": "1358360085265",
+        "starRating": "3",
+        "title": "Other than 10 MHz FDD LTE accuracy?",
+        "comment": "Your previous version of this app, Android Signal Info, based at least its LTE RSSI calculations exclusively on 10 MHz FDD LTE, the carrier bandwidth that VZW is deploying.  That is evident from the 17 dB figure in your equation, as that 17 dB figure is based on 50 Resource Blocks (e.g. 10 log 50 = 17).  But Sprint, AT&T, MetroPCS, Cricket, and T-Mobile are not all deploying 10 MHz FDD LTE.  So, unless your RSSI calculations take into account carrier bandwidths other than 10 MHz (e.g. 20 MHz, 15 MHz, 5 MHz, 3 MHz, and 1.4 MHz), then your RSSI calculations are not necessarily accurate.  Have you fixed this issue?  AJ",
+        "commentId": "gp:AOqpTOHPsv3181vj-B4QgPScGgxiKjVOt_r9oqTER7BRFFtv-nfiezrYoCOuEfazbX4BimneMKl81E6fpicRaxw",
+        "author": "Andrew J Shepherd",
+        "authorURL": "http://lh5.googleusercontent.com/-CPKifQHDW3U/AAAAAAAAAAI/AAAAAAAAAVA/g5bitZPxjIc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-CPKifQHDW3U/AAAAAAAAAAI/AAAAAAAAAVA/g5bitZPxjIc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.3",
+        "timestampMsec": "1371676702014",
+        "starRating": "5",
+        "title": "This app is amazing.",
+        "comment": "I used another app similar to this one but this one is the only one I found that worked with the galaxy s3. Developer you rock. Thank you for allowing me to force my evdo because I live in the sticks and usually only get CDMA.",
+        "commentId": "gp:AOqpTOG54LhsSbXg5ZL07_VTrCrvqU0JZYkq5YUqfeVUrG11ogoNnVh51Xy3iaIZJMcBttTL1ImmPeyVQjwXz_Q",
+        "author": "Tyler Ryan",
+        "authorURL": "http://lh4.googleusercontent.com/-FaG0KtkdSoI/AAAAAAAAAAI/AAAAAAAABkk/60246uQ_mDg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-FaG0KtkdSoI/AAAAAAAAAAI/AAAAAAAABkk/60246uQ_mDg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.3",
+        "timestampMsec": "1369788474580",
+        "starRating": "5",
+        "title": "FINALLY",
+        "comment": "Finally a legit app that allows me to force my device to 3G when I\\'m at school where LTE just will not penetrate the thick walls. Now I can use the Internet between classes. And if you do not know how to operate this app you have no business downloading it. Thank you developer please don\\'t take this app away.",
+        "commentId": "gp:AOqpTOEsoqcFX8Ip26u5UfXcZ-3pfhz_MeFB85qShx_SsVhde6kWmkwnxDVS4VauRitRA7orVu1gE7ioALniF8Q",
+        "author": "Anthony Douglas",
+        "authorURL": "http://lh4.googleusercontent.com/-qMrbgNAZ_JI/AAAAAAAAAAI/AAAAAAAAIYo/ZJkHEzdtGdY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-qMrbgNAZ_JI/AAAAAAAAAAI/AAAAAAAAIYo/ZJkHEzdtGdY/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.3",
+        "timestampMsec": "1369632876309",
+        "starRating": "5",
+        "title": "Very surprised and pleased!!!!!",
+        "comment": "I was never able to get LTE signal in Canada with my Padfone 2. Even the technical support could not figure out why. But this app solved my problem like a charm and with so much ease!!! I am hoping my LTE max signal stays connected forever. I truly am grateful to the developers of this app. I will certainly donate!",
+        "commentId": "gp:AOqpTOFMEqKegmI-J_XTscloWJURn8KnyHYsH4OMMsbZFbBt7201PI67saPYU7RdUbLGgWw99SJYeJuWLhcQL5w",
+        "author": "Avik Sharma",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.3",
+        "timestampMsec": "1376056108734",
+        "starRating": "4",
+        "title": "Lots of info on mobile network",
+        "comment": "Normally I use this program for figuring out what sort of network I\\'m connected to and how strong the signal is (dB). Beyond that, its just too technical, but at least its nice so see all those strange numbers I don\\'t understand. Perhaps other people will find this application even more useful since clearly it is capable of doing so much more.",
+        "commentId": "gp:AOqpTOEojRNvUpRFkGrzGy0qsfhobDwzbNe0qnVWuwbxhKlqPJ9pW77fYoyAnBTXlssWi-YVtN1rRIz9lLjxqm0",
+        "author": "punaiset pimpulat",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.3",
+        "timestampMsec": "1366757557982",
+        "starRating": "5",
+        "title": "Cell dumbie",
+        "comment": "Not realty for sure what I was looking at or even what I was doing when I installed this app but after I got it my phone started working I work on a Drilling rig so it is hard to always get service so thank you for whatever happened",
+        "commentId": "gp:AOqpTOFqPRStwHHy1vPx9O_n3hPgm8GRPVrS5dP9dHeDzz1lUjhPx-vVZ1S5TZpJBiN2GEhhpFqPDknvrnrM-EQ",
+        "author": "Charles Jones",
+        "authorURL": "http://lh5.googleusercontent.com/--WcI_g7UvFE/AAAAAAAAAAI/AAAAAAAAAA4/tSAVYD2ip90/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/--WcI_g7UvFE/AAAAAAAAAAI/AAAAAAAAAA4/tSAVYD2ip90/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.3",
+        "timestampMsec": "1360622585152",
+        "starRating": "5",
+        "title": "Cured my ball cancer",
+        "comment": "Everyone can go home now",
+        "commentId": "lg:AOqpTOEhGccVLuVyhQO582xWxPcFpm31TXhWTJfsQzzSkedRLkQ4lkML7V0g59OwzwIp4UTsx6I4wHw0wp8HvdM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.2",
+        "timestampMsec": "1357792608402",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "Would be nice if you have option to increase update refresh interval. I rely on constant changing RSRQ, RSSI, ec/Io in realtime. Nice app overall, not too flashy or fancy, hate that. :)",
+        "commentId": "gp:AOqpTOHuMIJNfjUW4xD5iwlV_rwkgPiE_hwZp9eLzgD5zNI1QLQV3dEG0wFzqpLpX1FYdwQqRn7RiB0Svgg1bp4",
+        "author": "Nathan A H",
+        "authorURL": "http://lh3.googleusercontent.com/-qv7iWVpvR3s/AAAAAAAAAAI/AAAAAAAAAIk/_szsK8wPZFE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-qv7iWVpvR3s/AAAAAAAAAAI/AAAAAAAAAIk/_szsK8wPZFE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1355859224932",
+        "starRating": "5",
+        "title": "Perfect!",
+        "comment": "Exactly what I wanted. Has all the signal info. Great app. Thx",
+        "commentId": "gp:AOqpTOFr9L62LItVC0Gw1hBuViNg1wUNI-lrAV-ATO-CgKpEMZ73qdHQ0R3a7bFeS9vYYmG63YJPCG2ryBaHlaQ",
+        "author": "Ricardo Gottfried",
+        "authorURL": "http://lh3.googleusercontent.com/-jIK79CJg9Ms/AAAAAAAAAAI/AAAAAAAABEk/fEEA5K_NIbk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-jIK79CJg9Ms/AAAAAAAAAAI/AAAAAAAABEk/fEEA5K_NIbk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1353423091968",
+        "starRating": "5",
+        "title": "Mostly academic",
+        "comment": "Probably not a functionality most users need, but I learned a lot reading the original thread, and a big thumbs up to the dev for not only having the passion to dig deeply into the details, but especially for spending his own time and effort to educate the rest of us.",
+        "commentId": "lg:AOqpTOFjt-7s6gdEYQ-xkI9NpY1sn5mF71xDrk7BU7cAsq2Oshd67m0ahskC_F3dQpDySXfvu50NfI14WviWSVg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352748998077",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Great info! Does what it says",
+        "commentId": "lg:AOqpTOHVlfpEMMM8u2LYlooqbkcrZXA56etMcLi19ntNRgw4ZT4EL9hdmcDga5eGfIo5y3txz4_UE36V3XXxmMw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "EZPerDiem: Flight Crew Tax App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ezperdiem",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "February 29, 2012",
+  "version": "1.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "3.2",
+  "contentRating": "Everyone",
+  "creator": "ezcrewapps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ezperdiem",
+  "extendedInfo": {
+    "installSize": "557k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The EZPerDiem App is designed to be used along with the EZPerDiem.com website.  EZPerDiem helps pilots and flight attendants prepare their taxes online.  Specifically, EZPerDiem makes it easy to calculate the per diem deduction, which is a big component in a flight crewmember's tax return.The EZPerDiem app features a way for pilots & flight attendants to enter their layovers during the course of the year.  This app will appeal to those pilots & flight attendants that like to enter their overnights as they happen.NOTE:  You must have and EZPerDiem account set up to use this app, and your domiciles must be set up via the EZPerDiem.com website.  This app works in conjunction with the website.  The app is free, but the calculations on the website do require a paid account at tax time.This app also will send alerts to remind you to enter your layovers, which can be set at intervals of your choosing.  In addition, it features a way for pilots and flight attendants to control their own referral code so they can get promo credit if they suggest EZPerDiem.com to other pilots and flight attendants.EZPerDiem works for airline pilots, flight attendants, corporate pilots, fractional pilots, and any other civilian flight crew member in the United States who has frequent overnights.In summary, the three features available on this app for flight crews are:1.  An easy way to enter layovers so your per diem deduction can be calculated via the EZPerDiem.com website2.  An easy way to control your promo code so you can earn money by sharing this site with other people3.  An easy way to set up alerts to remind you to keep you layovers up-to-date",
+    "reviews": [
+      {
+        "timestampMsec": "1362032692353",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "App opens and allows me to sign in but then force closes less than ten seconds later.",
+        "commentId": "gp:AOqpTOG9PNvgfN4ElJ9JWgbDQAYJIMEG4v7gBTyJVekyUtAU8eQsBfH4E5r0XVYdcoAbR1VPZIvidlbEhgZltHY",
+        "author": "Michael Brestensky",
+        "authorURL": "http://lh4.googleusercontent.com/-3sIcYZDGH3Q/AAAAAAAAAAI/AAAAAAAAABA/P45a_QMHYJ8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-3sIcYZDGH3Q/AAAAAAAAAAI/AAAAAAAAABA/P45a_QMHYJ8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1353788086930",
+        "starRating": "1",
+        "comment": "didn\\'t work",
+        "commentId": "lg:AOqpTOFvBCRGrGIl1EhOWwlfWf6ylzAKyJ_2pbsbcwkV35h2u8krVYDhSQgVY5FY_MBMivPkut5MftVfW4ccpL0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

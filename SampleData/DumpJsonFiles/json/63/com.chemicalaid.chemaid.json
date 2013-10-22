@@ -1,0 +1,35 @@
+{
+  "title": "ChemAid Periodic Table",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chemicalaid.chemaid",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "December 25, 2011",
+  "version": "0.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.25",
+  "contentRating": "Everyone",
+  "creator": "Alexander Zlatin",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chemicalaid.chemaid",
+  "extendedInfo": {
+    "installSize": "33k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "A simple and lightweight app to quickly and easily look up element information. Also includes a periodic table. Nothing more, nothing less. Useful as a quick reference for chemistry homework.Information Includes:* Symbol* Atomic Weight* Group* Period* Block* Density* Atomic Volume* Atomic Radius* Covalent Radius* Radioactivity* Melting Point* Boiling Point* Heat of Fusion* Heat of Vaporization* Oxidation States* Electrons Per Shell* Electron Configuration* Electronegativity* Electron Affinity* 1st Ionization Energy* Specific Heat Capacity* Thermal ConductivityDescription of Permissions:Internet Access - Needed to fetch element information from our web service.Network Status - Needed to check if network is available before fetching data.Future Features (not currently in app):* Equation Balancer (version 0.3)* Molar Mass Calculator (version 0.3)* Improved element detail view (version 0.4)* Bohr/Dot diagrams (version 0.4)Developed By:Alexander Zlatin, Mike Lopez",
+    "reviews": [
+      {
+        "timestampMsec": "1334614149228",
+        "starRating": "4",
+        "title": "Great Info on Each Element",
+        "comment": "Easy way to get quick and important info on each element.",
+        "commentId": "lg:AOqpTOEERufvjajdsKKoc4IMMl6ptWrz0dllOKlXqMad5bJ0CCOQctezTSRaPL-i7gbRaDOXIVYqrmE5J-_5aQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

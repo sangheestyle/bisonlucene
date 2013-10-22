@@ -1,0 +1,47 @@
+{
+  "title": "BlueKey - Door/Garage remote",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coltec.bluekey",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 3, 2011",
+  "version": "3.27",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "30",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "BlueKey",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coltec.bluekey",
+  "extendedInfo": {
+    "installSize": "74k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "First system to open your doors using your mobile and bluetooth. This application requires additional hardware,they are small BlueKey receivers at the doors you want to control.Buy it at ebay.comBlueKey application allows using mobiles as remote control to open unlimited number of doors using bluetooth. Languages English, French & Spanish - Visit http://www.bluekey.es/index_ing.php for more information.",
+    "reviews": [
+      {
+        "timestampMsec": "1377440185626",
+        "starRating": "1",
+        "comment": "Inbesiles",
+        "commentId": "gp:AOqpTOFNLcDemugqMQeqCNeEQCFqfRh18k002Lvs2rmLVwS3t5ZOI7gkeuOuBmjgEFuS3OXhlGfBT09r9G808g",
+        "author": "Jose Cubias",
+        "authorURL": "http://lh6.googleusercontent.com/-ml4DZM1JJXg/AAAAAAAAAAI/AAAAAAAABy8/EinGDbETT98/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ml4DZM1JJXg/AAAAAAAAAAI/AAAAAAAABy8/EinGDbETT98/photo.jpg"
+      },
+      {
+        "timestampMsec": "1300686081681",
+        "starRating": "1",
+        "comment": "Dumb",
+        "commentId": "lg:AOqpTOFZ4B5587YzPgXsjYYBuV4ag9uWQikQM8qtMPmlqh5TwMFxTJ1na1qTnS5I9MdqT1sE4xgecygJZD8yag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.coltec.bluekey.PERMISSION",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SEND_SMS"
+    ]
+  }
+}

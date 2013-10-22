@@ -1,0 +1,45 @@
+{
+  "title": "Power Systems Quick Reference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.euro.mqr21.powersystems",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 14, 2013",
+  "version": "2.1.2",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "International Business Machines (CIO)",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.euro.mqr21.powersystems",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The new Quick Reference for IBM Power SystemsÂ® mobile application lets you easily access the latest IBM Power SystemsÂ® information while you are on the go.Features include: â¢        Automatic updates for the latest IBM Power SystemsÂ® information â¢        Product highlights, descriptions, and specifications â¢        Client success storiesâ¢        Ability to create list of \"favorites\"          Access to core content while offlineâ¢        One-touch communication with IBM â¢        Access to relevant social media venues and IBM experts â¢        Links to more information on the Web â¢        Ability to sign up for additional exciting updates via e-mail or SMS Have trouble downloading the application? Contact ibmpowersystemsmobile@ibm.support.er4d.com for assistance.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

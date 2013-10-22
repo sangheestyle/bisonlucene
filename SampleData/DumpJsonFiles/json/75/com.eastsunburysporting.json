@@ -1,0 +1,39 @@
+{
+  "title": "East Sunbury Sporting Group",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eastsunburysporting",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "August 5, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Third Man Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eastsunburysporting",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The East Sunbury Sporting Group consists of the East Sunbury Football Club, the East Sunbury Cricket Club, the East Sunbury Netball Club, the East Sunbury Volleyball Club as well as an in 2 cricket Milo program and AFL Auskick program.The club has a siginficant junior membership and playing database which continues to grow as does their senior membership and playing database. These numbers will continue in an upward trend as the club moves forward in all directions.With the continued growth of the club, the committee knew it was the right time to look at alternative options that will allow them to communicate better with their players, members, supporters and sponsors. After a lengthy process and assessing all of their options the East Sunbury Sporting Group is pleased to announce the release of their very first ever native mobile phone app for Android!The release of the app is a fantastic step forward for the club in to the world of apps and they have no doubt the app will be a huge success!The app will be fully branded in the clubs famous colours and the content available in the app will only be about the East Sunbury Sporting GroupThe type of information available to you when you download this app are as follows:- Latest News- Results- Images- Videos- Events- Facebook- Merchandise- Committee- Contacts- Teams- Ladders- Fixtures- Team news- Sponsors- Grounds- Memberships- Training and much much moreTo make sure you stay in touch with absolutely everything to do with the club, download the app now!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.eastsunburysporting.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR"
+    ]
+  }
+}

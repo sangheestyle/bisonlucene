@@ -1,0 +1,80 @@
+{
+  "title": "Bell RDM",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.communitake.android.bell",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 14, 2013",
+  "version": "3.6.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "4.1666665",
+  "contentRating": "Low Maturity",
+  "creator": "BCE Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.communitake.android.bell",
+  "extendedInfo": {
+    "installSize": "158k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Bell remote device manager allows Bell's customer care representatives and Bell MDM administrators to diagnose and fix your device via remote control.If this application is not preloaded on your device, please download it if Bell's representative or your device administrator requires you to do so.",
+    "reviews": [
+      {
+        "documentVersion": "3.6.4",
+        "timestampMsec": "1378695255408",
+        "starRating": "5",
+        "title": "Good job!",
+        "comment": "Funny how people put useless comments about something that does not pertain to the topic. But if you must know this can be a very useful application if you are not tech savvy and are getting the right instruction to fix your issue.",
+        "commentId": "gp:AOqpTOGaIw9WdzcetCfDj6B_Ne7La9QG6ASJlfPwc3Y8wTgx2F0o1scUO960nrIt7PqRFy4JlvvVUUygeZJKhQ",
+        "author": "Lil Po",
+        "authorURL": "http://lh5.googleusercontent.com/-u9ggEqhs8rY/AAAAAAAAAAI/AAAAAAAABbk/wCqCcx0TuGs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-u9ggEqhs8rY/AAAAAAAAAAI/AAAAAAAABbk/wCqCcx0TuGs/photo.jpg"
+      },
+      {
+        "documentVersion": "3.1.4",
+        "timestampMsec": "1368161072789",
+        "starRating": "1",
+        "title": "Let me remove it",
+        "comment": "Hate how you lock the bootloader of my Xperia ZL and yet not let me remove all these bullshit apps. Only self serve is useful",
+        "commentId": "gp:AOqpTOGzm1z1D23huyIkSA-yXSgbvPL4kspUiYtNofs-Df3-vVdDvQQtuz2I8W_eCegIhtf_1NlHIXFxAIFbyA",
+        "author": "Max Chen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362969448696",
+        "starRating": "5",
+        "title": "2",
+        "comment": "3",
+        "commentId": "gp:AOqpTOFutZeKOY-6Taw5tOIJJQr6BD7ub8wm6ViHUTX1tdVgbiZjE_IpE1s3Wny_KOUTQjndMWn4N9VTtFmi_A",
+        "author": "Thea Bare Shin Bone",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_OWNER_DATA",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_FRAME_BUFFER",
+      "android.permission.INJECT_EVENTS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.REBOOT",
+      "android.permission.INSTALL_PACKAGES",
+      "android.permission.EXPAND_STATUS_BAR",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.communitake.permission.REMOTE_ACCESS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

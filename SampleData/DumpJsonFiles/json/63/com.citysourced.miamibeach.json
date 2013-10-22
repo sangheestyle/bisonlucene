@@ -1,0 +1,63 @@
+{
+  "title": "City of Miami Beach Report It",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.citysourced.miamibeach",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "1.5.7.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "3",
+  "rating": "2.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "CitySourced",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.citysourced.miamibeach",
+  "extendedInfo": {
+    "installSize": "9.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "City of Miami Beach Report It is a free, simple, real-time platform to report concerns in your neighborhood in a snap.",
+    "reviews": [
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1343922622562",
+        "starRating": "3",
+        "title": "App takes too much space",
+        "comment": "This app does not allow to be moved to the sd card.  Since this take too much space on my phone I uninstalled the app.",
+        "commentId": "lg:AOqpTOHbGDwpTAkABdydkqrGv0fcBSwaERf1EXY4y_GNqbNMNI7BVOBYYFTned8axyOuwjfGk9kAIGGc28bGhg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1346945455175",
+        "starRating": "1",
+        "title": "Follow up?",
+        "comment": "Complaints get closed with out action taken.",
+        "commentId": "lg:AOqpTOEMDEjuEtXwciThBsGZPbjYvPMIcULIYVuLoPKFImoSXu-zE3XBwHHmExYB9-aitilrdSgVBTBJOrGJQA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_DATA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CALL_PHONE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.citysourced.miamibeach.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "People Counter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.efendioglu.counter",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 28, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "M.Kemal Efendioğlu",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.efendioglu.counter",
+  "extendedInfo": {
+    "installSize": "300k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "People counter was developed in order to detect if there is any movement around or to count how many people enter or exit.The application features are listed below:- Detects the any kind of movement- Counts how many people enter or exit.- E-mails the total count information to your mobile or e-mail adress- Functions best in 240x320 resolution- Enables you to make sensibility settingsFor comments and suggestions:mail@kemalefendioglu.com",
+    "reviews": [
+      {
+        "timestampMsec": "1362989703461",
+        "starRating": "1",
+        "comment": "Poor operaring start screen unable to set up",
+        "commentId": "gp:AOqpTOFI0GwSZSZbnN6Du-GQaJ5zxr4iNORmaVR2_lhSEINtwWM2r7OpCaTrgss2zSoa7tu8oQY0sULHReU87w",
+        "author": "Amir Guezaiel",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.SEND_SMS"
+    ]
+  }
+}

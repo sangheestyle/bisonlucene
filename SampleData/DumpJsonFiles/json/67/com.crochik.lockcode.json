@@ -1,0 +1,46 @@
+{
+  "title": "LockCode - crack the safe open",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crochik.lockcode",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "November 9, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Crochik Software Solutions, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crochik.lockcode",
+  "extendedInfo": {
+    "installSize": "435k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Open the safe by cracking the code.The game offers several levels of difficulty to keep it challenging as you improve your code cracking skills. Select a combination, click the unlock button: each golden lock means one correct digit on the correct dial; each silver lock means the correct digit but on the wrong dial.This game is similar to several other Mastermind games but with a sophisticated new user interface optimized for touch screen devices.Notes:1) This is the very first release so it hasn't been tested in many devices. If you experience any problems or have suggestions please contact me.2) This application may require the download and installation of some libraries on your device if they are not already installed. The application will redirect you to the \"necessitas\" download page if necessary. After installing \"necessitas\" just start the application again.",
+    "reviews": [
+      {
+        "timestampMsec": "1352738341920",
+        "starRating": "4",
+        "title": "Really Fun!",
+        "comment": "I just downloaded this some time back. The game is really fun!  Installation should have being easier. You need to go to the store to download a set of libraries and then it downloads Qt libraries. It doesn\\'t tell you the size so if you\\'re on data beware. Dev should inform the total size required so that users can switch on wifi.  Just realised that if I press the back button during game play, it restarts when I switch back to app.  Using S2, AOKP 4.1.2",
+        "commentId": "lg:AOqpTOF-GJy6K3-klJYRQnJCnkcXxstIDZg_15THNSY3SyF8CFzrr3rBrGRG1XFkjVDWumnb3FRgrc_rF5Dofg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352560113512",
+        "starRating": "5",
+        "title": "Not bad for a first",
+        "comment": "Installing should be easier though",
+        "commentId": "lg:AOqpTOEWS_g-60c1v3zKtvAnhYndWFrh8Sv3Nfw1Pe-DU6qzs3GHjJujQUrElJgAFrEuaii73OoTIsGLX9plyQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

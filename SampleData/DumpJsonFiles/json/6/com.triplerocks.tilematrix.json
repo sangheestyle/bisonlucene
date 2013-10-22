@@ -1,0 +1,46 @@
+{
+  "title": "Tile Puzzle",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.triplerocks.tilematrix",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "July 23, 2010",
+  "version": "1.8.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "9",
+  "rating": "3.6666667",
+  "contentRating": "Not rated",
+  "creator": "Gao Lei",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.triplerocks.tilematrix",
+  "extendedInfo": {
+    "installSize": "87k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Move the tiles on the work plane to make it look exactly the same as the goal plane, with as few steps as possible, and as quickly as possible... You can only move the white tile to swap with the adjacent ones.",
+    "reviews": [
+      {
+        "timestampMsec": "1277396832708",
+        "starRating": "5",
+        "comment": "Challenging and minimal.",
+        "commentId": "lg:AOqpTOFfs5UiSN542FUl0I1fiSwSgnKgn_cQgRZ6fxghDc5r8FtJo7GIK1Fnd2TedTSAwQR4iXXIxJ3BMFsYP-E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1277026868128",
+        "starRating": "1",
+        "comment": "Bleh.",
+        "commentId": "lg:AOqpTOGm9SXrUtXOvcRZ8yLAywJJeURrJICb-dENOwyzly6_XQXM3Ivp9WfDnyPug1ZNSoqIeldHg0uDq4HbsJ0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

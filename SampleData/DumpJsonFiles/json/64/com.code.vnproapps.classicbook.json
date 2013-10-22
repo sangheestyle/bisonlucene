@@ -1,0 +1,54 @@
+{
+  "title": "Classic Audiobooks",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.code.vnproapps.classicbook",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 2, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "14",
+  "rating": "3.2142856",
+  "contentRating": "Everyone",
+  "creator": "Mobile Teams",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.code.vnproapps.classicbook",
+  "extendedInfo": {
+    "installSize": "751k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Listen to more than 3,000 classic audiobooks totally free.  You can find every classic books in this app. With this app you can listen books wherever and whenever.App Features: - Totally free.- Search books easy. - Listen online. - Listen offline by downloading to phone. - Download books easy. - Background playing.Short list books: Romeo and Juliet, The Adventures of Sherlock Holmes, The Memoirs of Sherlock Holmes, The Art of War, War and Peace, The Return of Sherlock Holmes, Treasure Island, Pride and Prejudice, Moby Dick, The Adventures of Huckleberry Finn, Alice's Adventures in Wonderland, Robinson Crusoe, The Adventures of Tom Sawyer, The Swiss Family Robinson, Jane Eyre, Aesopâs Fables, Tarzan of the Apes, Dracula, Emma, Our Island Story, Andersenâs Fairy Tales, Gulliverâs Travels, The 9/11 Commission Report, Oliver Twist, King Solomonâs Mines, Alexander the Great, David Copperfield, A Tale of Two Cities, Frankenstein, Ulysses, The Adventures of Pinocchio, Don Quijote, This Side of Paradise, The Scarlet Pimpernel, Persuasion, The Call of the Wild, Paradise Lost, Shakespeare Monologues, Beyond Good and Evil, The Mystery of the Yellow Room, Anthem, 2 B R 0 2 B, Northanger Abbey, English Fairy Tales, The Pilgrimâs Progress, The Gods of Mars, A Princess of Mars, Anne of the Island, Heidi, Love and Freindship, The Adventures of Reddy Fox, Anne's House of Dreams, The Adventures of Ulysses...Famous authors: Mark Twain, William Shakespeare, Aesop, Leo Tolstoy, Sir Arthur Conan Doyle, Thomas Hardy, L. Frank Baum, Jane Austen, James Oliver Curwood, Henry James, Jacob Abbott, H. G. Wells, G. A. Henty, G. K. Chesterton, Edith Nesbit, Daniel Defoe, Charles Dickens, Andy Adams, Andrew Lang, Anonymous , Alexandre Dumas, Ambrose Bierce, Anna Katharine Green, Anthony Trollope, Aristotle, Arnold Bennett, Arthur Scott Bailey, Baroness Emmuska Orczy, E. M. Forster, Edgar Rice Burroughs, Edith Wharton, F. Scott Fitzgerald, Frances Hodgson Burnett, Friedrich Nietzsche, George MacDonald, H. Rider Haggard, Jerome K. Jerome, John Buchan, Joseph Conrad, Jules Verne, Louisa May Alcott, Lucy Maud Montgomery, M. B. Synge, Marcel Allain, Margaret Penrose, Mary Roberts Rinehart, Maurice Leblanc, Oscar Wilde, P. G. Wodehouse, Plato, Robert Louis Stevenson, Robert Michael Ballantyne, Rudyard Kipling, Sax Rohmer, Stephen Leacock, Thornton W. Burgess, Victor Appleton, Wilkie Collins, William Le Queux...Keywords: Classic audiobooks, classic books, audiobooks for kids, fiction books, romance novels,  free audiobooks, listen audiobooks, download audiobooks, fantasy books, history books, fiction books, adventure books, philisophy books, mystery books, comedy books, humor books, short books, children's books, fairy tales, romance novels, religion books, historical fiction books, Classic Text To Speech Engine, LibriVox Audio Books Free, Free eBooks - Classics, English Audiobooks - Librivox, Philosophy Audiobook,audio books.",
+    "reviews": [
+      {
+        "timestampMsec": "1371935593825",
+        "starRating": "1",
+        "title": "Poor operation, needs work...",
+        "comment": "App looks good, but doesn\\'t  deliver; most of these books are readily available via the LibriVox apps; app does not keep your place-if you close the session, you have to find the book again, then find your place! I\\'ll stick with LibriVox!",
+        "commentId": "gp:AOqpTOHKdO8t_NisDLG4ncl3FRPcZzUYzhs7jCRNkGxB9_rFUiU--TlNsHnTmkNYSgyYrhrfXUQ-Ftvj7VbN",
+        "author": "Dave Cusick",
+        "authorURL": "http://lh6.googleusercontent.com/-cBP73ZxDaNk/AAAAAAAAAAI/AAAAAAAAATY/rXpjUkEjLl4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-cBP73ZxDaNk/AAAAAAAAAAI/AAAAAAAAATY/rXpjUkEjLl4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364912275020",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Thank much !",
+        "commentId": "gp:AOqpTOF2OSZR4UmJ7jF_UWvyQbLDnwf-yrk4LoFn_o-_Fy-q5EwzoLqdxhdjuNCEwMyHjMu__b3HDh6XE2p8",
+        "author": "Dung Nguyen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.CHANGE_CONFIGURATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

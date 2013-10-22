@@ -1,0 +1,57 @@
+{
+  "title": "Localized Hello World",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cofcilab.localizedhelloworld2",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "May 5, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "3.4",
+  "contentRating": "Low Maturity",
+  "creator": "Acecool",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cofcilab.localizedhelloworld2",
+  "extendedInfo": {
+    "installSize": "11k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This app will say Hello World in the language of the country that the user is in and was created as a demo project by the College of Charleston Innovations Laboratory.Currently have: England, France, Canada, Germany and USAThis app will also only update the language if you cross the border.. someone test this please :-)",
+    "reviews": [
+      {
+        "timestampMsec": "1273072471608",
+        "starRating": "5",
+        "comment": "Works great on samsung moment using android 1.5 and also tested on 2.1 dd10 on the moment",
+        "commentId": "lg:AOqpTOEJTkRJWdxfN56uXG26g0L-PPtOlgnlIH57oeIB2Ct0eX7adEePg7GkE6vzv-UI8wnf4VD1QL_K4WcEOho",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1273077799756",
+        "starRating": "5",
+        "comment": "Works on Cliq 1.5 and G1 1.6",
+        "commentId": "lg:AOqpTOHOUXdJ5yAL9XUYk8U3N6GQqQDpE4CKdF8tZAfmWHjtjCX6RI3tBVlulNYniTn4Lmj3yjBUvY8UbVw8cSQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1282109255630",
+        "starRating": "1",
+        "comment": "What???",
+        "commentId": "lg:AOqpTOHC58Rm2o4CZTvadCu2bxQ51fa18UtP4h8uhl96Iz86qTpewbSurD5VhlZtpHd1NM8xbypDht6OkaBahew",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.CONTROL_LOCATION_UPDATES",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

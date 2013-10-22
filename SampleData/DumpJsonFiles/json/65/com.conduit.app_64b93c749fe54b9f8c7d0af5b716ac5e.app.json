@@ -1,0 +1,53 @@
+{
+  "title": "Inside Gospel",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_64b93c749fe54b9f8c7d0af5b716ac5e.app",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "May 5, 2013",
+  "version": "1.13.19.362",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Inside Gospel Mobile App",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_64b93c749fe54b9f8c7d0af5b716ac5e.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Syndicated radio show Inside Gospel with host Frankie Wilson takes you through your GREATEST experience Inside Gospel!",
+    "reviews": [
+      {
+        "timestampMsec": "1367989160499",
+        "starRating": "5",
+        "comment": "Love the show!",
+        "commentId": "gp:AOqpTOHIha2_3rwibmQkB5mlfGj4--6oD9jhdUH99Sc75Ge7XVITb5jOe_703Fbog7H7SbJ58RKcK74dZaelI2I",
+        "author": "Frankie Wilson Jr",
+        "authorURL": "http://lh3.googleusercontent.com/-AvubrbI-g3M/AAAAAAAAAAI/AAAAAAAAAjw/NujNATfSGj4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-AvubrbI-g3M/AAAAAAAAAAI/AAAAAAAAAjw/NujNATfSGj4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_64b93c749fe54b9f8c7d0af5b716ac5e.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

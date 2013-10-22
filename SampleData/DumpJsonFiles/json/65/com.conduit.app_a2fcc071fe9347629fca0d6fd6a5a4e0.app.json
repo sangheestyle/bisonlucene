@@ -1,0 +1,55 @@
+{
+  "title": "Enterprise Apps Today",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_a2fcc071fe9347629fca0d6fd6a5a4e0.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "October 12, 2011",
+  "version": "1.2.7.1432",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "QuinStreet Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_a2fcc071fe9347629fca0d6fd6a5a4e0.app",
+  "extendedInfo": {
+    "installSize": "922k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Enterprise Apps Today is the leading source of information on the software applications that power today's enterprise organizations: customer relationship management (CRM), enterprise resource planning (ERP), business intelligence and analytics, supply chain management, data warehousing, and more. Our mission is to offer deep, actionable coverage to assist IT leaders with software purchasing decisions.",
+    "reviews": [
+      {
+        "documentVersion": "2.7.1432",
+        "timestampMsec": "1327354747935",
+        "starRating": "4",
+        "title": "Great coverage of CRM, ERP, and Biz Intelligence",
+        "comment": "This app offers quick access to recently-published articles on the Enterprise Apps Today website. If you\\'re interested in staying up-to-date on topics like CRM, ERP, Business Intelligence, and Data Management, this app deserves a spot on your home screen.",
+        "commentId": "lg:AOqpTOFZCqKSaHfWpqflEutO14yRRoPg4s5CBTIO4XdvqigkT1csYtiO51YXHeIEgkwuRdoKTrHDpCJ30TPT0g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351165155733",
+        "starRating": "1",
+        "title": "Don\\'t work on Galaxy S3",
+        "comment": "Installed and re-installed a number of times but only shows blank pages anf crashes when exiting, worked on previous Android phone (Motorola Defy)",
+        "commentId": "lg:AOqpTOGj4sus3ShYQDrpACMaLXbxDGJrIB8txXjhqxTE5WmhF-ec6ueGRSdkFLjA-8qOZVl9r_SMq7seM2zIzg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_a2fcc071fe9347629fca0d6fd6a5a4e0.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

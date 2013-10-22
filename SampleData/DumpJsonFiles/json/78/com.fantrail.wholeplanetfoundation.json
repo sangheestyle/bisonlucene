@@ -1,0 +1,49 @@
+{
+  "title": "Whole Planet Foundation",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fantrail.wholeplanetfoundation",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "October 5, 2011",
+  "version": "1.01",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Whole Planet Foundation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fantrail.wholeplanetfoundation",
+  "extendedInfo": {
+    "installSize": "4.2M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The official Whole Planet Foundation App",
+    "reviews": [
+      {
+        "timestampMsec": "1373482930954",
+        "starRating": "1",
+        "title": "Doesn\\'t work...",
+        "comment": "I installed on a phone running Android 4.0.4 and it does not seem to work. It wants to connect to Facebook (which appears to be a requirement), I made the connection, everything looks fine. Go to go into the app, wants me to sign in to Facebook. I get a screen which says Handshake has been successfully completed. Returns me to the main screen which says I need to sign in to Facebook. Hmm... endless loop here.   Uninstalled.",
+        "commentId": "gp:AOqpTOEZ40KBb02nH77y7xjqvUXOVYGIlpl-A5YbGBVaEfbv3DUXZ-56Pg98DEvZ3ilbrkSHPOJvdPbkoVKOuw",
+        "author": "Jim Jackson",
+        "authorURL": "http://lh3.googleusercontent.com/-X9i3OiajQgE/AAAAAAAAAAI/AAAAAAAAC1g/RCcnVeI58RA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-X9i3OiajQgE/AAAAAAAAAAI/AAAAAAAAC1g/RCcnVeI58RA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.fantrail.wholeplanetfoundation.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

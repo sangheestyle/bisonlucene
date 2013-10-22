@@ -1,0 +1,45 @@
+{
+  "title": "Live Glass",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.connectstudio.apps.LiveGlass",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 17, 2013",
+  "version": "0.0.2.3",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "31",
+  "rating": "4.516129",
+  "contentRating": "Everyone",
+  "creator": "connectstudio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.connectstudio.apps.LiveGlass",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "*BETA version. MAY NOT BE STABLE.->In next update(v0.2.1) : Support Clock*Do you like Live Glass? Please visit & like http://www.facebook.com/pages/Live-Glass/379098445522227Glass on Screen, Live GlassJust shake.Live Glass is Popup application.How to use1. Swipe screen to right.2. Select function and activate.3. Start Service4. SHAKE!Search Keyword : LiveGlass, Glass, popup, popupwindow, window, sms, message, music, music widget, shortcut",
+    "reviews": [
+      {
+        "documentVersion": "0.1.1",
+        "timestampMsec": "1365469284261",
+        "starRating": "2",
+        "title": "YOU\\'RE RIGHT ...",
+        "comment": "IT IS UNSTABLE. NEEDS WORK & 12 HR MODE.",
+        "commentId": "gp:AOqpTOH_UCeHV_-G18TfDyicc5v8IHPL1yuyoOKSRCS_cD5PLVkOWeT7cPr7hp5oQO2j_nHswytVKr2muouIutQ",
+        "author": "jose serrano",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

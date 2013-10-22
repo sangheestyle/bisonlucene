@@ -1,0 +1,67 @@
+{
+  "title": "Wi-Fi Rabbit",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ficklerobot.threegmonkey",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 18, 2012",
+  "version": "1.2.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "51",
+  "rating": "4.647059",
+  "contentRating": "Everyone",
+  "creator": "FickleRobot",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ficklerobot.threegmonkey",
+  "extendedInfo": {
+    "installSize": "465k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "3G Monkey is a widget app which control mobile data connection.Widget image changes depending on mobile data state ( off/disconnect/connect ).Widget style can be selected from \"monkey\", \"cat\" and \"droid\".In application screen, you can check network usage which is aggregated on a daily or monthly basis. (*1)By setting limits on mobile data usage, it is possible to turn off mobile data automatically when the mobile data usage has been reached the limit value.(*2,3)It also can turn off mobile data automatically when phone screen goes off.You can check network usage of each application. (*4)By purchase the unlimit key, the following features can be enable.* Color change of the character widgets.* Use of mobile data usage widget.* Setting of three days mobile data usage limit.NOTE:1. The shown usage is measured by your phone, actual network providers value may differ.2. The limit of three days will be enabled after purchase the unlimit key.3. If use large amounts of data at once, usage value may exceed the limit. It is recommended that you set value with a margin.4. About usage of applications, It is total of mobile and Wi-Fi, and it contains only TCP traffic. These do not include UDP traffic like video stream. About permissions* Phone callsUse for check mobile data communication state.* System toolsUse for switch mobile data state on-off.Please check it out \"Wi-Fi Rabbit\", \"Bluetooth bear\" and \"Volume dog\".Wi-Fi Rabbithttps://play.google.com/store/apps/details?id=com.ficklerobot.wifirabiBluetooth bearhttps://play.google.com/store/apps/details?id=com.ficklerobot.bluetoothbearVolume doghttps://play.google.com/store/apps/details?id=com.ficklerobot.volumedog",
+    "reviews": [
+      {
+        "documentVersion": "1.2.0",
+        "timestampMsec": "1363224592914",
+        "starRating": "3",
+        "comment": "It\\'s cute but.... auto on/off doesn\\'t work",
+        "commentId": "gp:AOqpTOF_nTYVdurOKZrBvnChz5_zdRY_-AgHEGbO2P_G9gU_0I3tjdb4eplFzGWe1xI2SnnkYSYjgvDgoQyxzw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.0",
+        "timestampMsec": "1367331078328",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "A hidden gem..love it!!",
+        "commentId": "gp:AOqpTOH3htRyqdGTpuiKore2BdjJd4DrdxfNQblxVQLXmRlqm4tXN3tHBP2i-4hFqrendDypn_MFTYIR9VL8bw",
+        "author": "Charles Hodges",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1345520247164",
+        "starRating": "5",
+        "title": "Save my money",
+        "comment": "I choose 5 star.this app very helpful.thanx 4 creating.gud job done by developer.",
+        "commentId": "lg:AOqpTOHZoTBJWNZ-jX4nLetLb8EzhHko-fn8Sd8wc5UgvO07URFk-FaosN_GOY9u5wL2gp6ZAzJjISmIcbg_fw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358180563759",
+        "starRating": "5",
+        "title": "Best",
+        "comment": "V Chaanan8",
+        "commentId": "gp:AOqpTOFm5ds6ySjuBU963DDWn5U_OZjJIwBsAOHaxKPSRw5ADPSd89_wNdTbjEjjtxVCjB-qRdwtc_Ih8tj74g",
+        "author": "Chaanan Mal",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

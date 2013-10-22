@@ -1,0 +1,41 @@
+{
+  "title": "Breast Center",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.breastcenter",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "April 11, 2013",
+  "version": "1.0",
+  "operatingSystems": "4.0.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Center for Restorative Breast Surgery, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.breastcenter",
+  "extendedInfo": {
+    "installSize": "13M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Whether you are newly diagnosed with breast cancer or you are looking for information on reconstruction following mastectomy, this app will help you learn about breast reconstruction and the newest and most sophisticated techniques available. It will walk you through each step and introduce you to some of the most renowned breast surgeons in the world.You can explore your reconstructive options on this app, get detailed information about each procedure and see before and after photos. The Procedure Wizardâ  is a revolutionary supercomputer that will help you learn what reconstructive options may be best suited for you. Anonymously answer a series of questions about your individual situation and the Procedure Wizardâ  will provide you with a personalized analysis. You may even schedule your appointment with one of our surgeons in the privacy of your home-- right from your iPhone.The app will help you ask the right questions when you are visiting with potential surgeons. The \"What to Ask\" section is a good starting point for interviewing your care team as you go along so you donât forget the important questions that will help you select the best surgeon for you.Meet the team at the Center for Restorative Breast Surgery in New Orleans, schedule and keep track of all your appointments during treatment, take notes and record messages or reminders to yourself while on the go. Finally, contact the Center for Restorative Breast Surgery directly from the app for additional information, to send an email or copies of your insurance card prior to your visit.This app will keep you organized and help you feel more in control throughout your diagnosis and treatment.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

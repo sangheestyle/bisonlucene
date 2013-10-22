@@ -1,0 +1,52 @@
+{
+  "title": "Clinical Unit Conversions",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cityjams.conversions.lab",
+  "category": "Health & Fitness",
+  "price": "$0.99",
+  "datePublished": "February 15, 2010",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "3.3333333",
+  "contentRating": "Not rated",
+  "creator": "CityJams",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cityjams.conversions.lab",
+  "extendedInfo": {
+    "installSize": "97k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Over 300 clinical lab analytes with conversion factors for standard US to SI units and for SI to standard units. \tIncludes the ability to search units, star (favorite) unit conversions and also includes smart lists with the ability to track most recently used conversion.**UPDATE**Added recent list, minor bug fixes",
+    "reviews": [
+      {
+        "timestampMsec": "1323283389804",
+        "starRating": "2",
+        "title": "awkward but useful",
+        "comment": "Terrific for converting mg (integers) to s.i. units but hopeless for converting from s.i. units which is what I usually need, because the keyboard requires you to toggle back and forth between numbers and a symbol screen just to insert a decimal point.  Also, using the recent conversions list reverts back to the default (mg into mmol) even though my recent conversion was the other way around.  It should be a simple matter to fix these glitches -- please do it!",
+        "commentId": "lg:AOqpTOEfemyrZWwA9OCL-ctkxWVmWiMdeCsPvNKG6aVdP0PCIJNkJuK8UAE2rXgQEZTo0v2S6ajLAhqURJUVUQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1298960912054",
+        "starRating": "2",
+        "comment": "Developer unresponsive to email. Glaring omissions, such as electrolytes.",
+        "commentId": "lg:AOqpTOG9AfnNm8WZjw4o39WYXKOEadywWZRt-xZKhEEYdu27qRIyheq_wUC1D-3yXFFw62euUDtOPXigXqcunQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1263109387466",
+        "starRating": "5",
+        "comment": "Perfect",
+        "commentId": "lg:AOqpTOESHPR-gRzL7-emFKI9jo4XoqnFX1tiitY0ZBKLYNW1X-S91kSCk5KfWtrgENKz7RUzwbpPOZDR1WUJSQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

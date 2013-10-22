@@ -1,0 +1,57 @@
+{
+  "title": "FastFeedback Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=biz.zim.fastfeedback_lite",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "March 23, 2011",
+  "version": "1.1.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Zim Corporation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=biz.zim.fastfeedback_lite",
+  "extendedInfo": {
+    "installSize": "106k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "FastFeedBack gives you the unique ability to send poll text messages to any phone (standard and smartphone) soliciting opinions directly from your contact list. Responses are captured in real-time and can be viewed as overall result or as a table format with the individual responses.Here is how it works: your mobile sends a poll message to your group members. As members reply to the message, the application will automatically capture the reply and inserted in the database.example of the poll message that your group will receive:\"We're having a party that's sure to be fun tomorrow nightAre you in?A1 I will be thereA2 I won't be able to make itA3 Not sure yetPlease reply with the 2 char option code.\"Your group members must reply with either A1, A2 or A3Free Version Limitations:- The maximum number of members per group is 10.- The following text will be added to the end of your poll and group messages:    \"Sent from FastFeedback Application\"Keywords: SMS, Poll, Feedback, Group, Statistics.Note:This is our first App for Android, we would really appreciated if we get comments about any improvements or problems in the application.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1315025622653",
+        "starRating": "5",
+        "title": "Works Great!",
+        "comment": "At first it didnt but after re-installing it works great on my Galaxy S2! This application is too cool!",
+        "commentId": "lg:AOqpTOGB1sP1_C1Lvv0QqrZo12lxvYPPMi6z98toQRwg8wS1HoxhueRdJ77yWKWTGTe2txx4OmPKNnMbAbo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1298553949617",
+        "starRating": "2",
+        "comment": "Poll Results not generating - Uninstalled",
+        "commentId": "lg:AOqpTOG4cm_Io51Fmv_L_6oD2nQzka65ypRm3cJx9a_a2FkWtW3_vK5776vV0bgaKPSr2uSiwesxgXN0iWo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1299889711326",
+        "starRating": "5",
+        "comment": "It works great.",
+        "commentId": "lg:AOqpTOEFQXhZeP-usyKbE0LWBeAlyoUBfUbmyJLlkwXaBz17dvar90PjA_ceWy8BPw-VdaZ2Irfsigz2pQw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.INTERNET",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

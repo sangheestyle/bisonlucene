@@ -1,0 +1,35 @@
+{
+  "title": "Remember To Charge",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.builtofbits.remembertocharge",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "June 19, 2012",
+  "version": "1.01",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "BuiltOfBits",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.builtofbits.remembertocharge",
+  "extendedInfo": {
+    "installSize": "73k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Have you ever forgotten to charge your phone at night only to find out in the morning?Or worse, finding out when the first phone call comes in and you are running low on batteries?Now there is a solution! This app will remind you to charge your phone every night. If you are already charging at the set time, the app will not bother you. Never forget to charge your phone again!Get it now!* Why I wrote this program *============================One morning, I found that I forgot to charge my phone (Samsung Galaxy Tab 7.7) at night. With the remaining battery charge, I might be able to last through the day... maybe. If you know the Samsung Tab series, you need to use the supplied charger to charge them. So I had to bring my charger out with me.So I started thinking, wouldn't it be nice if I had an intelligent app that will remind me to charge my phone if I forgot. And so this app was born! One critera that I had was that the app should not ask for more permissions that is necessary for it to work. The only permission needed is that the app is started together with the phone so that you can be reminded to charge your phone!* How it works *================You set a time that you want the phone to remind you to charge it. (This time should be just after a time that you usually have the phone on the charger. For example, if you usually start charging the phone at 11 pm, set it to 11:30 pm.)At the appointed time, if you are not charging the phone, it will pop up a reminder with alarm to ask you to \"Remember To Charge\" your phone.NOTE: The alarm will be played at your ringer volume. If your phone is on silent mode, there will be no sound.*** Features ****- Start on boot- Set reminder time- Reminder alarm Volume will follow ringer volume********************** Pro Version Features *****- Snooze for 30 Mins   (In case you are in the middle of a game and want to charge later)- Choose to use either Ringer volume or Alarm Volume  (Alarm volume is not silenced by the silent mode. The reminder will still be heard when the phone is set to silent mode.)********************************* Permissions Required *========================\"RECEIVE_BOOT_COMPLETED\" - Start Remember To Charge app when your phone starts.Email me if you have any improvement / suggestions. Contact me if you have any problems and I will try to solve it as soon as possible!Keywords:charge reminder, charging reminder, battery low, charge battery, plug in",
+    "reviews": [
+      {
+        "timestampMsec": "1362542690567",
+        "starRating": "1",
+        "title": "crap",
+        "comment": "this reminder is not good didn\\'t alert me",
+        "commentId": "gp:AOqpTOEMgsPmCc-7ypbPVoCYHjsH9zO3e8aF0pCAhRME0zKg4-PBsgoJQP_gYut_PoyxHUxHaV3tQJ8PUcMhdA",
+        "author": "Chanel Haggins",
+        "authorURL": "http://lh3.googleusercontent.com/-jc25a1lQhH8/AAAAAAAAAAI/AAAAAAAAAhE/OzPYaNoukX4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-jc25a1lQhH8/AAAAAAAAAAI/AAAAAAAAAhE/OzPYaNoukX4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

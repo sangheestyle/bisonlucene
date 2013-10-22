@@ -1,0 +1,51 @@
+{
+  "title": "Discover Sudbury",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dynamicearth.DiscoverSudbury",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "November 2, 2011",
+  "version": "1.0.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "2.75",
+  "contentRating": "Low Maturity",
+  "creator": "Science North",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dynamicearth.DiscoverSudbury",
+  "extendedInfo": {
+    "installSize": "3.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Did you know that Greater Sudbury has not one, but two meteorite impact craters? Do you know how or where nickel and copper were first discovered in Sudbury? Are you interested in learning more about the Big Nickel and other famous landmarks? The Discover Sudbury Tour is a GPS-enabled tour of the geological, glacial, mining, and cultural history of the City of Greater Sudbury. Travel through time with family and friends as you visit real geological and cultural landmarks and discover the secrets of our past. Find out when the first mine was built in Sudbury and how mining has affected our cultural and environmental history. Learn about the Superstack and why it was built. Take photos of your family as you explore geological features that were formed over one billion years ago!Whether you live in Greater Sudbury or are visiting, the Discover Sudbury Tour can be enjoyed in one day or over several days, weeks, or months. Start or stop the tour from any location and use the GPS functionality to view your current location and plan your next stop. Features of Discover Sudbury include:\tâ¢\tTwelve tour stops that explore geology, glacial features, mining, and cultural history\tâ¢\tHigh-quality photos, videos, and illustrations describing the features along the tour\tâ¢\tIntroduction video about the meteorite impact that took place 1.85 billion years ago and the features that you will see along the tour\tâ¢\tFully bilingual (French and English) language settings \tâ¢\tReal-time GPS tracking and interactive map allows you to view your current location, view all tour stops, and track which stops have and have not been visited\tâ¢\tInteractive map allows you to zoom and tap on each stop to read about the features\tâ¢\tPush notifications including chime sound indicates when you are nearing a tour stop (for road safety and navigation)\tâ¢\tAll tour stops have parking available and are easily accessible by vehicleInternet is required at the beginning of the tour in order to load the Map image. A GPS connection must be enabled to make use of real-time location tracking. Continued use of GPS running in the background can dramatically decrease battery life. To maximize your enjoyment of this tour, it is recommended that you visit these locations in the spring, summer, and/or fall seasons only. For more information, please visit Dynamic Earthâs website at http://sciencenorth.ca/apps/discoversudbury. Science North creates and markets high quality science education and entertainment experiences which involve people in the relationship between science and everyday life. Science North is an agency of the Government of Ontario. Dynamic earth is a Science North attraction.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1317417620121",
+        "starRating": "5",
+        "title": "Great Geo-tourism App",
+        "comment": "This app is a great introduction to the unique geography of the Sudbury region.  I\\'ve lived here most of my life and had no clue we had 2 major meteor impacts, or the types of ore mined in the area.",
+        "commentId": "lg:AOqpTOHpx4wM6uDKQfny-xSizvVe8dEnJ7jYtGivg38gmlbZ-Jv54lXHg4T2L-IZ8lQ9EwZ6bMPruJovYB0hYA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335483212889",
+        "starRating": "1",
+        "title": "None",
+        "comment": "Not good for android .",
+        "commentId": "lg:AOqpTOEP1Hjgi-sXcc2bO_-_pt34tQSATPS9_P7kNNmlUgUV08nGLcSDaWKabTrT_PbvWqJFCVjmv4gZS0fkPQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

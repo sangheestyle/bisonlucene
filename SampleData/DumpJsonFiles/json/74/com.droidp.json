@@ -1,0 +1,30 @@
+{
+  "title": "DroiDP",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidp",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 26, 2011",
+  "version": "2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Tombotronix",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidp",
+  "extendedInfo": {
+    "installSize": "11k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "\"DroiDP\" is a pipe flow calculator for water. The user inputs pipe inside diameter, pipe length (default 100 feet), pipe roughness (default steel pipe roughness) and water flow rate. The program computes pipe velocity and head loss using the Fanning friction factor method.Legal:This software is provided \"as is\".  In no event shall the author, T.B. Bechtel, be held liable for any consequential, special, incidental or indirect damages of any kind arising out of the delivery, performance or use of this software.  Any consequential or other damages are limited to the actual price of the software.The author specifically disclaims all other warranties, representations, or conditions, express or implied, including but not limited to any implied warranty or condition of merchantability or fitness for a particular purpose.  All other implied terms are excluded.  This software must not be used for commercial design purposes. Specifically, the author makes no representation or warranty that the software is \"error free\" or meets any user's particular standards, requirements, or needs.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

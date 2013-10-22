@@ -1,0 +1,29 @@
+{
+  "title": "BAC Drink Tracker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codebros.bacfree",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 1, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "7",
+  "rating": "2.857143",
+  "contentRating": "High Maturity",
+  "creator": "Code Bros.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codebros.bacfree",
+  "extendedInfo": {
+    "installSize": "130k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Calculate your blood alcohol concentration and keep track of your drinking session. BAC Drink Tracker keeps a chronological list of drinks you have entered and displays an estimation of current blood alcohol concentration. If you are above the user set limit, an estimated time until that limit is reached is shown. Calculations are performed for each drink individually, not just based on the time of the first drink and total alcohol. This provides more accuracy if drinks have long delays in between. Common Tasks:Tap anywhere on BAC text to refresh.Long click on drink in list to edit or delete. DISCLAIMER:This app only provides an estimation of BAC and should not be used as an excuse to drive or engage in other dangerous activity while under the influence. Please drink responsibly and never drink and drive.Ad supported.tags:bac, blood alcohol content, beer, shots, wine, blood alcohol calculator",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "UHC Annual Conference 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.uhc_ac2012",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "September 4, 2012",
+  "version": "3.3.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "UHC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.uhc_ac2012",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The UHC Annual Conference 2012, âReimagine,â features content by and for academic medical centers as they reshape the future of health care. Educational sessions focus on ways AMCs can take the lead in research, education, and quality while implementing state-of-the-art technologies. The conference also offers posters, demonstrations, and council meetings, as well as opportunities to network with colleagues and UHC and Novation suppliers. Scheduled keynote speakers include best-selling author, social critic, and technologist Steven Johnson; former fighter pilots Max Rogers, MD, and Charles Campbell; Republican strategist Haley Barbour and Democratic strategist Donna Brazile; and GRAMMY-nominated singer/songwriter John Ondrasik. The UHC Annual Conference 2012 is open to UHC members and registered suppliers only.The UHC mobile application will allow you to download sessions to create a personal schedule, receive updates and alerts about conference events, communicate directly with other attendees, and more!Donât miss the UHC Member Celebration, including recognition of UHC and Novation award winners, on Thursday evening at the Renaissance Orlando at SeaWorld .UHC is an alliance of academic medical centers and their affiliated hospitals; its mission is to help members attain national leadership in health care by achieving excellence in quality, safety, and cost-effectiveness. For more information visit www.uhc.edu.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

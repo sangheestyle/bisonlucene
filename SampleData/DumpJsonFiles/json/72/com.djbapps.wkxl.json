@@ -1,0 +1,32 @@
+{
+  "title": "WKXL",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.djbapps.wkxl",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "November 8, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "3.3333333",
+  "contentRating": "Everyone",
+  "creator": "DJBSoftware Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.djbapps.wkxl",
+  "extendedInfo": {
+    "installSize": "384k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "ConcordNewsRadio.com provides you with all the latest news, weather, sports, talk, and economic news for Concord NH and the surrounding region. We produce more programs local to Concord than every other Concord radio station, and feature 8 hours of local news each weekday.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Guess My City",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.synchdroid.guess",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 19, 2012",
+  "version": "1.4",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "83",
+  "rating": "3.7108433",
+  "contentRating": "Everyone",
+  "creator": "synchdroid",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.synchdroid.guess",
+  "extendedInfo": {
+    "installSize": "471k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Guess my city is a trivia game of questions and answers, in which you have to hit the city shown in the image of four possible answers. You can choose from three types of difficulty: Easy, medium and hard, and select cities around the world, or just in your country (The country and language is detected automatically from your smartphone).If your city is not in the game, you can take a picture directly from this app, and upload to our servers, and after being reviewed, your image will become part of the game and other players will appreciate it.Get all you can and score points is accumulated in your account. The game has a ranking of the best players.IMPORTANT: You need an Internet connection to play. Each image is downloaded from the internet, so if your connection is slow it can take several seconds to display. WIFI connection is recommended.INSTRUCTIONS:-Click the \"Play\" button to start a game-Select the difficulty (Easy, Normal or Hard). If you choose Easy, you can not accumulate the points you get into your account.-Select the cities you want to play: just your country or worldwide, and click \"Play\" to start the game-Answer the questions before time runs out by clicking on the correct answer.-If you get an icon of a gift, click on it to see the prize you will if you hit the question that has come out. (the prize is allocated to the next question)-If your fails get to zero, you will end the game.-Click the button \"Submit points\" to accumulate the points you get in this game.Play and guess cities over the world: Madrid, Paris, New York, Barcelona, Amsterdam, Berlin, Mexico, Buenos Aires, Seattle, Munich, Dallas, New Orleans, Venice, Copenhague, Milan, Rome, Toronto, Las Vegas, Miami, Dublin, etc. and dont forget to upload your city!",
+    "reviews": [
+      {
+        "timestampMsec": "1348792366145",
+        "starRating": "4",
+        "title": "Ok",
+        "comment": "Force close alot but can\\'t complain.. it\\'s free.. still fun...",
+        "commentId": "lg:AOqpTOFeX6RaZAZuF1_1IRDG5JrwCxUxhzRgP4UseKu6VTuei1wkDxZRrVXzyfOClKmA7MMrXRKcPA1Rpfc1Cw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348962390852",
+        "starRating": "5",
+        "title": "guess my city",
+        "comment": "love it .",
+        "commentId": "lg:AOqpTOFllcgdx4kC4wfASj3tSfYNU8SBo_Mpi9Kcj88MM-BqBRK5CIN4MOusiJ1TPq1HAHzvPyfmzInVcCdCWw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334122763816",
+        "starRating": "2",
+        "title": "Mallorca is an island not a city",
+        "comment": "I was fine with the game until they showed the Cathedral in Palma de Mallorca and called it \\'Mallorca\\'. Nothing like big errors like that to loose me fast.",
+        "commentId": "lg:AOqpTOFjYxCraOIITFG_nwa3Xb9cyGDBLdIHlxI_agwmo0vnrvGSAqNLRnpLbMAdkIt3lSaukpJIAhKCVCtRBg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340202651956",
+        "starRating": "1",
+        "comment": "Badddddd",
+        "commentId": "lg:AOqpTOFerOuWdcHFqGgh3ZJ3fV0Yazi_kUILlZCEOLOC17Vl7IekpYF4Vo8F7Ry13cYhvYIlL9v0pvk56fCXWA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Keep Notifying",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exomorph.keepnotifying",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "April 12, 2011",
+  "version": "1.1.2",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Exomorph",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exomorph.keepnotifying",
+  "extendedInfo": {
+    "installSize": "23k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Ever take a look at your phone, only to notice that you missed a call or text hours ago because the notification didn't keep telling you? This app will help with that.As notifications are displayed in the system, Keep Notifying will keep track of them, and keep notifying until you acknowledge that you've seen them.  In normal usage, Keep Notifying stays in the background, so you never need to deal with it directly, except to configure it.Sense based phones have a hook to determine when a notification has been cleared, so this app works best with a Sense based OS.  On non-Sense based OS's, if notifications keep chiming after you clear them, be sure to enable the Clear All Notification in the Configuration.  Otherwise, keep it disabled, and enjoy the trouble free notification handling.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.STATUS_BAR"
+    ]
+  }
+}

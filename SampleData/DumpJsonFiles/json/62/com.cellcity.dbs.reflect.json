@@ -1,0 +1,76 @@
+{
+  "title": "DBS Woman's",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cellcity.dbs.reflect",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "December 12, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.4",
+  "contentRating": "Low Maturity",
+  "creator": "DBS Bank Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cellcity.dbs.reflect",
+  "extendedInfo": {
+    "installSize": "6.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Welcome to a world where women get what they want.As a woman who works hard to enjoy lifeâs pleasures, you deserve a Card that understands you and puts you first. The all-new DBS Womanâs MasterCardÂ® Card is specially enhanced with travel, dining, shopping and lifestyle privileges available on this exclusive DBS Womanâs Mobile App.As a DBS Woman's Cardmember, you'll be accorded priority status every time you book a Comfort and CityCab taxi with your DBS Woman's mobile app. Be first in the queue, no more waiting in line or frantic flagging required.",
+    "reviews": [
+      {
+        "timestampMsec": "1355665042713",
+        "starRating": "4",
+        "title": "Great card!",
+        "comment": "Yay!",
+        "commentId": "gp:AOqpTOERfRW5gbOWBabXOqyoKI0P79DdJF6LD9jswCNLI_7zWhQ7nmeJKecaCGT1TvUOQoRqa6bjobAqOOBa9Q",
+        "author": "Diana Chan",
+        "authorURL": "http://lh3.googleusercontent.com/-qZH3Feta7Gc/AAAAAAAAAAI/AAAAAAAAAAA/ziqt888Pixk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-qZH3Feta7Gc/AAAAAAAAAAI/AAAAAAAAAAA/ziqt888Pixk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369002247812",
+        "starRating": "3",
+        "comment": "was ok, comprehensive info",
+        "commentId": "gp:AOqpTOFvb5X353rt21mfsnvEMtUDLep8GzMoc2riWpu-0STrlfEFooWk2o0Z2Ji7njTZRPCXHszflCxE_dd6aA",
+        "author": "JJ Teo",
+        "authorURL": "http://lh4.googleusercontent.com/-9zF2r4FSWjg/AAAAAAAAAAI/AAAAAAAAGWY/5O7vZxx2lx4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-9zF2r4FSWjg/AAAAAAAAAAI/AAAAAAAAGWY/5O7vZxx2lx4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355395658065",
+        "starRating": "5",
+        "title": "Fantastic app",
+        "comment": "Great! Been waiting! Definitely worth the wait!",
+        "commentId": "gp:AOqpTOFDuVWHA-QCl3Z95uPKXTcAjsUmLudxoNNemeSMNNTKl8v9D5KkKKOxhm0zHxCPc4mGYWteBjDbjlCK7Q",
+        "author": "Leonard Ang",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355677943264",
+        "starRating": "5",
+        "comment": "Finally!",
+        "commentId": "gp:AOqpTOEWMUMmojk3UgY9pb9M6bNnFl1MrBjSyERWMnp84_GOGQrx8uXz6cyuUHlEabXMk5bQ4PJtV9UrkscKcg",
+        "author": "Joey Hong",
+        "authorURL": "http://lh6.googleusercontent.com/-XREzHseZRuM/AAAAAAAAAAI/AAAAAAAAA0c/vPi8qSPB5dA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-XREzHseZRuM/AAAAAAAAAAI/AAAAAAAAA0c/vPi8qSPB5dA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.cellcity.dbs.reflect.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

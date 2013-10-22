@@ -1,0 +1,80 @@
+{
+  "title": "DigiGraff",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.digigraff",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "May 16, 2013",
+  "version": "4.4.7",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "8",
+  "rating": "4.875",
+  "contentRating": "Medium Maturity",
+  "creator": "Georgi Christov",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.digigraff",
+  "extendedInfo": {
+    "installSize": "8.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Welcome to DigiGraff - a fun new social networking app that allows you to create images and spray them as virtual graffiti in your surroundings. Sketch images by drawing on the device screen. Use your phone as a pointer to determine where the sketch is going to be located. With the click of a single button, your image is saved and can be found on the map at the specified location until it fades away.Choose from three drawing tools - spray can, brush, or chalk, each with a different lifespan: watch them fade and disappear over time: chalk will be gone after one day, like in realistic weather conditions. Customize your profile and share your work of art with the rest of the world.Record high-quality videos of your drawings while you are sketching and share them with friends that are also using DigiGraff.Follow your friends and see what they are up to, check out new sketches near your location and subscribe to people to get updates about every image they create.Application features: * sign up is always free; * sketch new images by drawing on the screen; * spray your sketches in the environment; * record high-quality videos of your drawings while you are sketching and share them with friends that are also using DigiGraff; * browse for images near your location; * create hashtags and find friends; * subscribe to your friends; * comment on, like, and respond to sketches; * set up and monitor several geographic locations anywhere in the world; * and much more...Find us on Facebook - http://www.facebook.com/DigiGraffFollow us on Twitter - https://twitter.com/digigraffappPlease contact us if you experience problems with the app, have a suggestion for improvement, or simply don't like it. Low star ratings won't help fix any bugs or issues. Thank you :)",
+    "reviews": [
+      {
+        "documentVersion": "4.4.6",
+        "timestampMsec": "1368053827004",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Great app. Fun and works well!",
+        "commentId": "lg:AOqpTOEijb3FlZu30sSFWp2oYL7IEWGAuBJgH6s2WdG2yJoR8w_GdCa_e504NpGN0x_OQC4jZblBIKid1JaTXg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.4.4",
+        "timestampMsec": "1365793257712",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "A bit biassed but I think it\\'s turning out quite nicely.",
+        "commentId": "gp:AOqpTOHI8QXKA7LLf5fGSezYsRLf7wU_e_KXpGViWS7D4kMAHGJFj98l3Zav2hMtaEmwY_0hP-gcxKhKjhV72g",
+        "author": "Georgi Christov",
+        "authorURL": "http://lh3.googleusercontent.com/-9l9eoXvVPiU/AAAAAAAAAAI/AAAAAAAAAZs/gZ2Kl2cYRyQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-9l9eoXvVPiU/AAAAAAAAAAI/AAAAAAAAAZs/gZ2Kl2cYRyQ/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.1",
+        "timestampMsec": "1357681330099",
+        "starRating": "5",
+        "title": "Awsome",
+        "comment": "Very cool, perfect app for me!",
+        "commentId": "gp:AOqpTOEHAIo7YC8RBUP8fLikhQBo9tID6-C0Ik152X2js7eEHKg6GmF7ZhhgHVzR7WAQj_xY_mDYVG-oIaJrKg",
+        "author": "Trenton Zelley",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.2.7",
+        "timestampMsec": "1352994949097",
+        "starRating": "5",
+        "title": "Goood",
+        "comment": "Its nice, very very nice",
+        "commentId": "lg:AOqpTOHqCLohe1lWPx4oaPH02MMyF83eUZe3bCbJD94oMkpDjfHipBdoTKeEWynkuO2AneSwgYLhES9eJHMP8w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.VIBRATE",
+      "android.permission.READ_LOGS",
+      "com.digigraff.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

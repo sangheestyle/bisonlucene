@@ -1,0 +1,41 @@
+{
+  "title": "News Reader - CNN, ABC, NBC",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flyingbusstudio.newsreaderfree",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "July 19, 2013",
+  "version": "1.71",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "18",
+  "rating": "3.7777777",
+  "contentRating": "Low Maturity",
+  "creator": "FlyingBus Studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flyingbusstudio.newsreaderfree",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "News Reader shows aggregated news links.Currently News Waver (newswaver.com) is providing service officially for several countries including Australia, Canada, France, India, Korea, New Zealand, Pakistan, Portugal, U.K., U.S., etc.   Features- Top news items are emphasized by red background color.   You will easy to distinguish what news articles are worth reading.- You can read and leave comments at each article groups.   You can also connect your Facebook, Twitter account to share your comments directly.- Provides many news publisher links.=== U.S. ===ABC NewsArizona RepublicCBS NewsChicago Sun-TimesChicago TribuneCNNDallas Morning NewsDenver PostDetroit Free PressFox NewsHouston ChronicleJerusalem PostLos Angeles Timesmsnbc.comNBCNews.comNew York Daily NewsNew York PostNew York TimesNewsdayNewsOKPhiladelphia InquirerPittsburgh Post GazetteReutersSan Jose Mercury NewsSt. Petersburg TimesStar TribuneThe Star OnlineUnion LeaderUSA TodayWall Street JournalWashington Times=== Canada ===Brandon SunCalgary HeraldCanada.comCANOECastanet.netCBC.caCTV NewsEdmonton JournalEmbassyGlobal NewsHill TimesMacleans.caMontreal GazetteNews1130Ottawa CitizenRoyal GazetteStraight GoodsStraight.comToronto StandardToronto StarToronto SunVancouver SunWire Report=== U.K. ===BBCDaily ExpressDaily MailEvening StandardExpaticaFinancial TimesGuardianIndependentMorning StarOrange UKPolitics HomePressGazetteReutersScotsman.comSky NewsSocialist WorkerStageTelegraphTimesVoiceWeek UK=== Australia ===ABC.net.auAgeAustralianBrisbane TimesCanberra TimesCrikeyGreen LeftIBTimesnewmatilda.comNewsComAuSBSSydney Morning HeraldWest Australian=== New Zealand ===3 NewsGisborne HeraldIrish ChampionNational Business ReviewNew Zealand HeraldOtago Daily TimesRadio New ZealandStuff.co.nzTVNZ=== India ===Asian AgeBusiness LineBusiness StandardCanIndiaDNAEconomic TimesExpress IndiaFinancial ExpressHard NewsHinduHindustan TimesIndia VisionIndia WestIndia WiresIndian ExpressMid DayMumbai MirrorNDTVNew Indian ExpressOneindiaTamil StarTimes of IndiaZee News=== Pakistan ===Business RecorderDawnNationNews InternationalPakTribunePTVRadio PakistanSouth Asian News AgencySupported countries, newspaper publishers, and broadcasting companies are going to be expanded.",
+    "reviews": [
+      {
+        "timestampMsec": "1377097105379",
+        "starRating": "1",
+        "title": "Freezes phone",
+        "comment": "Doesn\\'t open and stops wprking on s3 mini",
+        "commentId": "gp:AOqpTOGjLSNekBcAsS-fOFpQIBK085ngbIlu1C84XpwhpZjSFK2Y-3TpFrIOiF_S4dS7nKbsAFwOL3ufQq9ExA",
+        "author": "Paul Williams",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

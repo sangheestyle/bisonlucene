@@ -1,0 +1,43 @@
+{
+  "title": "ZoomZoomZen",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.byjoul.code.zzz.android",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 30, 2013",
+  "version": "1.2.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "27",
+  "rating": "4.296296",
+  "contentRating": "Low Maturity",
+  "creator": "JOUL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.byjoul.code.zzz.android",
+  "extendedInfo": {
+    "installSize": "523k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "âWith ZoomZoomZen, meeting up has never been so easyâ¦ It does not matter if it is last minute, if there are many of you, if some of you do not know each other and do not want to. It does not even matter if you do not know yet what you will be doing.ZoomZoomZen is as easy as two clicks:1. First, you create a ZZZ,2. Then you share this link with people of your choosing.All members of this temporary community can now pinpoint their exact position on a map in real time and interact with other online members.Here are a few situations where ZoomZoomZen will really make your life simpler:âSorry, looks like Iâm going to be late!ââ¦OK, but send me a ZZZ so that I can see you moving and maybe head your way when you get close!âIâm getting on my scooter right now!ââ¦OK, but send me a ZZZ before you go so that I can see you coming!âI donât know yet what restaurant weâll be eating at.ââ¦Just send a ZZZ and weâll decide when we get there!âIâll be joining you guys at some point during the evening!ââ¦Great, Iâm sending you a ZZZ so that you can find us without calling!âI told a friend of mine to join us.ââ¦Send him a ZZZ, weâll have an easier time meeting up!âToo bad I didnât know thatâ¦ I was there ahead of time too and hung around at the bar next door.ââ¦Next time send a ZZZ before you do!âWhatâs your street name again?ââ¦Hang on, Iâm sending you a ZZZ!âAre you still far away?ââ¦Jammed freewayâ¦ Iâm sending you a ZZZ, I think youâll have enough time to go shoppingâ¦âWeâll wait for you at the next gas station. Iâll be sending you the stationâs name and the exit number.ââ¦Donât bother: send me a ZZZ, thatâll be way easier!âRight, you can get on your way to fetch me at the station, I think Iâll be there in 25 minutes.ââ¦Why donât you send me a ZZZ, I can see you arriving and you can see where I double-park!âWe could go there together?ââ¦Sure, send me a ZZZ to get together.ZoomZoomZen is:Simple. You can exchange geolocalized information with others in just a few clicks.Secure. Pseudonymity and âsee and be seenâ reciprocity ensure full protection of your personal information. No data are stored nor used for commercial purpose.Registration-free. You and your guests access ZoomZoomZen directly, with no need for any preliminary registration, commitment or connection to a social network.In real time. ZoomZoomZen gives a real-time, dynamic rendition of your temporary community and its interactions, as opposed to a plain static check-in approach.NotesGPS/battery: continued use of the GPS function running in the background significantly reduces battery life. You can set ZoomZoomZen so that the app is automatically turned off when battery charge goes below a specific threshold you define.",
+    "reviews": [
+      {
+        "timestampMsec": "1364222582840",
+        "starRating": "5",
+        "title": "Super Pratique !",
+        "comment": "Super appli pour se retrouver entre amis sur une sortie (resto, bar, concert), se coordonner sans passer 15 min au tel/sms, bref chouette !",
+        "commentId": "gp:AOqpTOFeb_d3o4iS1zZNTvC2VMpAVWJTYvz3vztLxwjtreAR54csdnbljxbNnuFRg_kAzMnxa9HCgtubkulG",
+        "author": "Benoit Heslouin",
+        "authorURL": "http://lh3.googleusercontent.com/-c-LHEbUm5mg/AAAAAAAAAAI/AAAAAAAAAW0/YRFePif0RAk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-c-LHEbUm5mg/AAAAAAAAAAI/AAAAAAAAAW0/YRFePif0RAk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "com.byjoul.code.zzz.android.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Mobile Horoscope",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wYourHoroscope",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 21, 2011",
+  "version": "0.21.13192.08455",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "12",
+  "rating": "4.4166665",
+  "contentRating": "Low Maturity",
+  "creator": "StarDroids",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wYourHoroscope",
+  "extendedInfo": {
+    "installSize": "111k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Your Mobile Horoscope in your pocket.Everything you need in one app. Free daily horoscopes, weekly horoscopes, monthly horoscopes, chinese horoscopes, love astrology, 2012 horoscopes, compatibility and more.App is just 106Kb, takes few space and runs fast.Requirements:Android 2.1SD cardat least 106 Kb of free spaceInternet connection",
+    "reviews": [
+      {
+        "documentVersion": "1.13192.08455",
+        "timestampMsec": "1370185309516",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOE1mzEzxzxSMdAd8rUZBOywHzQStqiuoVZzrV3TaBaoUMWigHamun2Yx2SjCDq62Kx3Qti2x-VoVMXOdA",
+        "author": "kishor kodi",
+        "authorURL": "http://lh3.googleusercontent.com/-ZKLxvn5nTRI/AAAAAAAAAAI/AAAAAAAAADw/AAEnv18iJCA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ZKLxvn5nTRI/AAAAAAAAAAI/AAAAAAAAADw/AAEnv18iJCA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wYourHoroscope.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

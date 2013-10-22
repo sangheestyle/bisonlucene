@@ -1,0 +1,42 @@
+{
+  "title": "Mentor Public Library Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.mentor",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 15, 2012",
+  "version": "4.5.91",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.mentor",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome to MPL Mobile!Search the catalog, place holds, renew books and more.Features a search specifically designed for mobile devices: Just type in the beginning of the words in your search, no need to type the whole word. To search for \"Robert Louis Stevenson\", all you need to type is \"rob lou ste\", and results display!",
+    "reviews": [
+      {
+        "documentVersion": "4.5.91",
+        "timestampMsec": "1378234477322",
+        "starRating": "5",
+        "title": "Awesome app!",
+        "comment": "Use it all the time!",
+        "commentId": "gp:AOqpTOHOt6pOMOJ1HHN0A5rpZoiMFsw4ZHHPMEnlk1SEO6zfqzbH8B0bE_rv69zVgorYsSbQKs39OmW_AU2NUg",
+        "author": "Andrew Gunsch",
+        "authorURL": "http://lh4.googleusercontent.com/-jdVb3cIdjj4/AAAAAAAAAAI/AAAAAAAABnM/7yR9EJ2UqhQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-jdVb3cIdjj4/AAAAAAAAAAI/AAAAAAAABnM/7yR9EJ2UqhQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

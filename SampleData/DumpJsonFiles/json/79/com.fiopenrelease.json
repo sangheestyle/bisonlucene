@@ -1,0 +1,40 @@
+{
+  "title": "Farmers Insurance Open App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fiopenrelease",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "January 3, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Biz Apps Media",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fiopenrelease",
+  "extendedInfo": {
+    "installSize": "3.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Farmers Insurance Open at the Torrey Pines Golf Course is one of the PGA TOUR's premier stops. Stay up to date with the action on the course!Want to be here? Purchase tickets right from the app!The app also features up to date tournament information,live scoring as the action unfolds, and much more!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

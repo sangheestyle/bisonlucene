@@ -1,0 +1,53 @@
+{
+  "title": "Calgary Hitmen Official App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.BuzzerAndroid",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "August 15, 2013",
+  "version": "2.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.25",
+  "contentRating": "Low Maturity",
+  "creator": "Buzzer Apps Mobile Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.BuzzerAndroid",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The official app for the Calgary Hitmen! One tap access to all the information a fan could want.Gives you mobile access to everything you need to follow the Hitmen including scores, the latest news, the schedule, social media feeds and of course stats and the team roster. We hope you enjoy using this app to enhance your Hitmen Fan Experience!",
+    "reviews": [
+      {
+        "documentVersion": "1.8.7",
+        "timestampMsec": "1327254923115",
+        "starRating": "2",
+        "title": "Good App",
+        "comment": "Keep getting \\\"connection to server unavailable\\\" when I try to open the app now. Please Fix! Oh, \\\"Jimbo\\\" sitting in 110 needs to stop yelling \\\"Bull\\\" and \\\"Brutal\\\".",
+        "commentId": "lg:AOqpTOHCNDSO2r384C0zVRvdI33fobF86ZKVp9K1xUK2YZlZDH_E6jD6Ly7UT9H6jltD-QIE3WXJ02icZbPurb8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.7",
+        "timestampMsec": "1342720703034",
+        "starRating": "5",
+        "comment": "Hi",
+        "commentId": "lg:AOqpTOGeAAqVyetnHmNh79Ce1x1oSN6YjZsl8X_Q7oGomR0UIxp1z1vnjXTQGgaKhVj5juXi7Q8qsMyowKwvnbU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.buzzerapps.BuzzerAndroid.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

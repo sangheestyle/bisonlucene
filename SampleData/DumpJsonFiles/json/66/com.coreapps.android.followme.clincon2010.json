@@ -1,0 +1,68 @@
+{
+  "title": "American College of Surgeons",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.clincon2010",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "August 1, 2013",
+  "version": "5.0.1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.clincon2010",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The American College of Surgeons 2013 Annual Clinical Congress, scheduled for October 6 â 10th 2013, at Walter E. Washington Convention Center, Washington DC. In 2013, as at the time of our founding, the Congress will promote high quality educational programs designed to educate surgeons and directly improve the health and safety of surgical patients. This yearâs theme as The Next 100 Years>>>Inspiring Quality. In addition to other valuable educational efforts, various activities focusing on our profession will be highlighted.  Among those are diverse Panel Sessions presented by experts from across the surgical specialties and nonsurgical disciplines, and Named Lectures delivered by top leaders in their fields. The Didactic and Skills-Oriented Postgraduate Courses will focus on important domains and will help attendees advance their knowledge and acquire new skills.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1319515916253",
+        "starRating": "2",
+        "title": "FACS 2011 APP",
+        "comment": "Needs work. Not very easy to navigate. Locations could be entered by course number into the schedule.  No map of the venues.",
+        "commentId": "lg:AOqpTOEJVyRPB_2_AEgIQXVFpVMPAM6-OAsjPf8gcUxgDn_uSR4jP7CyfDf5DiXCk3Hm2BfNcQP8I-CV2roRB_E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1319578627723",
+        "starRating": "4",
+        "title": "FACS",
+        "comment": "Need to have location. There are 3 buildings.  Just having room number is useless.",
+        "commentId": "lg:AOqpTOGWHBlvVIjY2G5_nMXZ8GgWq1yTccJsnRZhXjN9Jo4JTIpfHMM0hqMfrx-Ea6Q8MEIF4PgGD3kBp6YHXoE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.clincon2010.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

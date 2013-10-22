@@ -1,0 +1,45 @@
+{
+  "title": "Child Growth Watcher",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.demo.android.childgrowthwatcher",
+  "category": "Health & Fitness",
+  "price": "$0.99",
+  "datePublished": "April 17, 2011",
+  "version": "1.1.8",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "3.0",
+  "contentRating": "High Maturity",
+  "creator": "JCMobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.demo.android.childgrowthwatcher",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Child Growth Watcher is an application that can calculate your child(ren)'s growth percentile based on US CDC's data from birth to 20 years of age . The measurement data and percentile can be further saved for your future review. The saved history data will be a good indicator of the babyâs and child's overall health, especially during the first three years.Main features:1. Weight, height and head circumference percentile can be calculated based on the gender and age from birth to 20 years of age.2. The calculation result can be further saved. Child Growth Watcher can save as many children growth data as you want.3. Child Growth Watcher allows US(lb,in) and Metric(kg,cm) unit input. The saved data will appear the unit based on your selection.Key words: baby, infant, child, children, toddler, growth, kid, chart, height, weight, head circumference,development, percent, percentile, care, monitor, recorder, record, track, tracker, scale",
+    "reviews": [
+      {
+        "documentVersion": "1.1.8",
+        "timestampMsec": "1343561846714",
+        "starRating": "1",
+        "title": "Terrible doesn\\'t keep track of all growth",
+        "comment": "I hate it",
+        "commentId": "lg:AOqpTOEdEflI8uCyN_52yWeQhgd0_R5crSJY-v-yK7JGFe7qmXHvocD_f4BwYZwkHfr961A92Pw3SIJty9EqZA0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.8",
+        "timestampMsec": "1322158165958",
+        "starRating": "2",
+        "comment": "Needs interval ages, not simply whole numbers",
+        "commentId": "lg:AOqpTOFVrXTjFGY8YmSv-yoX0Imdk0CMuKZSrTzoEqC_ZqFZnE2lWnkv6Iws27XZFH_ZRaWZ6tbmXQ_VE4A3Gis",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

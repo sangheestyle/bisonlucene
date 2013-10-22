@@ -1,0 +1,48 @@
+{
+  "title": "Stop! Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fakeout.stopfree",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "September 24, 2011",
+  "version": "1.21",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "fakeOUT Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fakeout.stopfree",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Press the button to stop the timer at 10:00.  It's harder than you'd think!  Three difficulty levels will challenge your timing skills for years to come.Unlock achievements and post your scores to the OpenFeint leaderboards!",
+    "reviews": [
+      {
+        "timestampMsec": "1317768583662",
+        "starRating": "5",
+        "title": "Hard mode is fun",
+        "comment": "Yea",
+        "commentId": "lg:AOqpTOFpI0ag6kRDTARzYwMqjWAZ3r2FE3lwuNUvASurePqxZsKhWRHfP_8Of9OMOG7zMbs_KkrU1ou3gy6CYhE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317081609704",
+        "starRating": "5",
+        "comment": "Surprisingly addictive. I bought the paid app but I figured I would comment on both versions.",
+        "commentId": "lg:AOqpTOFhFtoZaJHqheRJSDosZFoCLrHbQEskU4za9Pn12qFand26CVyGXa120WcG4MfsGYseojVHFYvirQ8m3YM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.VIBRATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

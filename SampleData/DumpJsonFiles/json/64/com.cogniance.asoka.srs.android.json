@@ -1,0 +1,46 @@
+{
+  "title": "myStrom Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cogniance.asoka.srs.android",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 26, 2013",
+  "version": "2.07",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "15",
+  "rating": "3.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "myStrom AG",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cogniance.asoka.srs.android",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Android App for myStrom Energy-Management and Home-Automation. Simply clever.In order to use myStrom with your Android phone, you have to have a myStrom Powerline ECO Starter-Kit and a Premium subscription.The myStrom Android App allows to - Measure energy usage- See your energy usage and costs at a glimpse- Schedule the devices and save costs- Receive SMS alerts/alarm when energy usage reaches a certain level",
+    "reviews": [
+      {
+        "timestampMsec": "1367603010448",
+        "starRating": "3",
+        "title": "Android?",
+        "comment": "... sieht aus wie eine Windows Phone App. Aber sonst ganz OK!",
+        "commentId": "gp:AOqpTOGn9MNRfEXVxIOMn7tT5FeXsFq73qqro3tlp2x97A248RVAo_1bm6wwj6lnELcQrfBe-h6aeYm-f-SmoA",
+        "author": "David Zumbrunnen",
+        "authorURL": "http://lh4.googleusercontent.com/-dDGPDfvXzC4/AAAAAAAAAAI/AAAAAAAAEcI/cMXDS7C88jc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-dDGPDfvXzC4/AAAAAAAAAAI/AAAAAAAAEcI/cMXDS7C88jc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357950423031",
+        "starRating": "3",
+        "title": "Verbesserungsf\\303\\244hig",
+        "comment": "Immer wieder Abst\\303\\274rze beim Starten der App. Bedienung etwas m\\303\\274hsam da sehr kleine Buttons. Funktionsumfang eingeschr\\303\\244nkt, z.B. Timer setzen nicht m\\303\\266glich. Ansonsten eine gute Sache.",
+        "commentId": "gp:AOqpTOHr6pyYIzMoftrOLAy0DJqmOIZ5q49JtgEtqKs6oW-Vpn2dxue0cdMIwjFAeizMbTEkP6Y5f_WOh49T5w",
+        "author": "Yannick Ammann",
+        "authorURL": "http://lh5.googleusercontent.com/-aYXqYAZRxqA/AAAAAAAAAAI/AAAAAAAARs4/Bg80Be01dRY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-aYXqYAZRxqA/AAAAAAAAAAI/AAAAAAAARs4/Bg80Be01dRY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.cogniance.asoka.srs.android.permission.RECEIVE_STATUS"
+    ]
+  }
+}

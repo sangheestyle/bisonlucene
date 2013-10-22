@@ -1,0 +1,61 @@
+{
+  "title": "APS April Meeting 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.apsapril2013",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "March 18, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "2.3333333",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.apsapril2013",
+  "extendedInfo": {
+    "installSize": "5.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The APS April Meeting gathers particle physicists, nuclear physicists, and astrophysicists to share new results and insights. April Meeting 2013 scientific sessions and ancillary activities will take place at the Sheraton Denver Downtown Hotel, Denver, Colorado.",
+    "reviews": [
+      {
+        "timestampMsec": "1365697937804",
+        "starRating": "1",
+        "title": "Unstable",
+        "comment": "Unstable. I continue to get error messages saying that the application has crashed even while still using it. This is the first time I see such a problem. Moreover it seems that this app will not use the info you saved on your online scheduler on the APS web page.",
+        "commentId": "gp:AOqpTOEq9xUlK4wbsNV1OPO0dws27cR067O3wXV8RV1cB3kVET58tQNy96MbMsS4qlh2GVwhHvi3HtLl2r7DbZo",
+        "author": "Bruno Giacomazzo",
+        "authorURL": "http://lh4.googleusercontent.com/-fW1VvVoH-gM/AAAAAAAAAAI/AAAAAAAAAIM/QJyv7L7OIz0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-fW1VvVoH-gM/AAAAAAAAAAI/AAAAAAAAAIM/QJyv7L7OIz0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366125355762",
+        "starRating": "5",
+        "title": "Nice work",
+        "comment": "Very nice app. It would be nice if the time and location were always listed when scrolling through the lists by session. I\\'ve had no crashes on my GS3.",
+        "commentId": "gp:AOqpTOFes1cXwITqCfKaD9AhfPXiC0mz13NeuVHlDjO6N__F9zOyBoWnrgsdYHb5AivmraJdS7A9rnCTsiYrz4c",
+        "author": "Taylor Childers",
+        "authorURL": "http://lh6.googleusercontent.com/-emaqUg0trGQ/AAAAAAAAAAI/AAAAAAAAgrE/mhGco3leE-o/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-emaqUg0trGQ/AAAAAAAAAAI/AAAAAAAAgrE/mhGco3leE-o/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366049438648",
+        "starRating": "1",
+        "title": "Would be useful, but too unstable...",
+        "comment": "Hard lockups happen frequently that require a power cycle.  No online sync.",
+        "commentId": "gp:AOqpTOGCJgDjG1zdx2wrTZ1HhAuZxpEXhoOhMW2AeyFLAn7jXJ6hCQL7OcevvOEoATaQ8S8wvMSfRYiz1_RnqU4",
+        "author": "Brad S",
+        "authorURL": "http://lh4.googleusercontent.com/-eQOLySdUzxM/AAAAAAAAAAI/AAAAAAAABw4/yvw4J6bxQu0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-eQOLySdUzxM/AAAAAAAAAAI/AAAAAAAABw4/yvw4J6bxQu0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "StressViewer(Heartrate&Stress)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dusung.stressviewer",
+  "category": "Health & Fitness",
+  "price": "$1.87",
+  "datePublished": "September 13, 2012",
+  "version": "1.0.8",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "9",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "Du-sung Technology co.,Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dusung.stressviewer",
+  "extendedInfo": {
+    "installSize": "807k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "!!! Mobile Stress Measuring Application !!!By using Smartphone's camera and flash, this app measures heart rate,stress level and autonomic nerve balance. This app will help you managing stress efficiently. 1) Function(1) Heart rate measurement in real-time-Minimum/Maximum/Average heart rate measurement(2) Stress measurement -HRV(heart rate variation) graph display-Automatic nerve balance result-Physical/mental stress level-Accumulated data display  2) Application use-By measuring heart rate,autonomic nerve balance and stress level by using a smart phone, user can efficiently manage stress frequently. -It is a smart health care and mobile health care system, anywhere at any time you can check the status of your stress simply. 3) Method of measurement and principle. -Measurement by using one of the PPG (Photoplethysmography) methods.There are two types of pressure, systolic and diastolic at the heart, therefore the peripheral vascular, amount of blood flow, and volume of blood vessel changes. StressViewer measures the amount of penetration of light by using the camera image that shows the pattern of heart beat.The smart phoneâs flash light will be exposed at the end of the userâs finger and the amount of blood flow can be measured because when the heartbeat occurs, the amount of blood flow in the peripheral blood vessel changes which is detected by camera on smart phone. 4) Notice-Only works at Smartphone camera with a built-in flash -Do not shake finger during measuring-Do not press the camera and flash too hard-This application is not for professional medical diagnosis5) Introduction of Du-Sung Technology Corporation and guide on released app.-Du-Sung Technology have developed and manufactured the wireless heart rate monitor, moreover, we have earned the respect in accuracy and quality of products through many years of knowhow in the field of wireless heart rate monitor.Currently we have anounced two apps which are âStressViewer,â and âCardioPlanner.ââStressViewerâ is very easy-to-use app since it measures the current stress rate without any other instruments, but with only smart phone with a built-in flash camera. And the app, âCardioPlannerâ is the chest-belt typed wireless heart rate monitor that can be connected with smart phone by bluetooth to measure, so user can obtain more accurate workout data. âCardioPlannerâ accurately measures heart rate, number of step, exercise route, exercise distance, consumed calories, measurement of stress, etc, and the result can be uploaded to Web, so this app will help users to exercise systematically.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.8",
+        "timestampMsec": "1365260315274",
+        "starRating": "2",
+        "comment": "Keeps beeping and telling me not to move, doesn\\'t explain measurements and sometimes gives random medical alerts",
+        "commentId": "lg:AOqpTOE2UutxAJqRzUwFUD6qIVg8f3z00WqTcwurLAgKytUl6JN6GMq0M4eNl3d4DbiYwRNKEyb9uUOZAdPqBg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.8",
+        "timestampMsec": "1349540626401",
+        "starRating": "4",
+        "title": "Accurate",
+        "comment": "Seems accurate.",
+        "commentId": "lg:AOqpTOFhUVH189CJZBrco6nfPBCxRloSypAGCI9IFEf1Jj2Nrup9UgJdzOzT_O3VuOD5-dEvlnQJy55EIrDn7Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371194363979",
+        "starRating": "1",
+        "title": "Abusive assumptions",
+        "comment": "I would have expected the app to simply give me heart readings, NOT to diagnose me. It said that I have Early Arrhythmia which is quite absurd, as my last checkup / ECG didn\\'t prompt any concerns to doctors.  I find this app very abusive to attempt to diagnose a user, which for a moment caused some distress until I realized how stupid and crap this application was.  DO NOT INSTALL IT !!  You\\'ll save a days worries that I went through.",
+        "commentId": "gp:AOqpTOEYklNHMNvEWryKNOTk3wHMd17QEknmsqokyjpgAAXudhOUQuUCgRPPMt3Ednd9qbj_jZ-Wo9hBfPoCqQ",
+        "author": "Etienne Schembri Wismayer",
+        "authorURL": "http://lh5.googleusercontent.com/-n2brY-WwqlI/AAAAAAAAAAI/AAAAAAAAACc/qD1jKeT5-Es/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-n2brY-WwqlI/AAAAAAAAAAI/AAAAAAAAACc/qD1jKeT5-Es/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA"
+    ]
+  }
+}

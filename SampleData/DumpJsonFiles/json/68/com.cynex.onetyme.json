@@ -1,0 +1,33 @@
+{
+  "title": "OneTyme",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cynex.onetyme",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "September 4, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.3 - 4.2",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Push Mobile Apps Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cynex.onetyme",
+  "extendedInfo": {
+    "installSize": "711k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Going out tonight, not without Onetyme!Onetyme Legal Directory is the simple and ultimate way to help you plan for the unexpected situation of getting arrested. With a single push of a button your family and friends are instantly informed of your location and able to connect with your attorney and bail bondsman providing them with the critical information they need to get you released from jail quick.Onetyme Legal Directory is packed with these features:â¢         Search for an attorney by GPS location, zip code, name or add your own attorneyâ¢         Search for a bail bond company by GPS location, zip code, name or add your own bail bond companyâ¢         Add up to 5 Life Lines to notify by using your address bookâ¢         Instantly send an urgent messageâ¢         Notify your attorney, bail bonds company, and Life Line instantlyâ¢         Send your GPS locationâ¢         All with just one push of OnetymeDisclaimer:Selecting or contacting an attorney or bail bonds company does not form an attorney client relationship or bail bond agreement. Service and information provided by Onetyme is not legal advice.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

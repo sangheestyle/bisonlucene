@@ -1,0 +1,55 @@
+{
+  "title": "Keep It Movin' Podcast App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_28050849a0574b50b27cc0c68e7e61a6.app",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "September 7, 2011",
+  "version": "1.14.14.1696",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "KIMP_KCR Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_28050849a0574b50b27cc0c68e7e61a6.app",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Keep it Movin' Podcast is a conversation among friends that includes a side of opinion with a heavy dose of laughter and B.S. Join in on the fun. Feel free to submit questions or comments to info@KeepItMovinPodcast.com.",
+    "reviews": [
+      {
+        "documentVersion": "4.14.1696",
+        "timestampMsec": "1315754657126",
+        "starRating": "5",
+        "title": "Hilarious",
+        "comment": "... And informative!",
+        "commentId": "lg:AOqpTOHNwPDAvSLJT5F0e8TgDI4K5zQ5lprNCghXEhjf7FKBUG1zcszZFTS8i7h-nw4PZql2fmw62d8QKJ9-uTY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "8.8.1235",
+        "timestampMsec": "1309618745645",
+        "starRating": "5",
+        "comment": "Awesome app to keep in touch with the shows",
+        "commentId": "lg:AOqpTOHaG1FY2DuUhACQPhaYvNcmvOD9uh66BqcRYTuwXk3ZkO3-Ny3AR0l9UK6IFEVPzEs0x7nVSmWV5tSdEhQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_28050849a0574b50b27cc0c68e7e61a6.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

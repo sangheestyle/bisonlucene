@@ -1,0 +1,43 @@
+{
+  "title": "bux.com Egypt",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.egypt",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "September 27, 2012",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "2.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "bux.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.egypt",
+  "extendedInfo": {
+    "installSize": "9.1M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "100 - 500",
+    "description": "The future is here. And in more ways than one â the 18th World Route Development Forum is the largest global event of its kind, determining the future of air services; while Abu Dhabi, capital of the United Arab Emirates, is one of the most forward-looking, centrally located and easily accessible cities on Earth.Hosted by Abu Dhabi Airports Company and supported by official carrier Etihad Airways and Abu Dhabi Tourism & Culture Authority, the 2012 event is targeted to attract over 2,750 delegates from more than 80 countries.It also marks the first time the event has returned to a previous host city. Back in 1996, Abu Dhabiâs downtown Hilton Hotel was the setting for one of our first World Routes events. 16 years later, delegates will be able to witness for themselves the immense changes that demonstrate how the cityâs future as a world class destination is taking shape, and experience firsthand the wonderful Arabian hospitality of Abu Dhabi.",
+    "reviews": [
+      {
+        "timestampMsec": "1348854195124",
+        "starRating": "1",
+        "title": "karn",
+        "comment": "its takes forever to log into the App and it doesnt even let me in and now im here without useful info..fix it please",
+        "commentId": "lg:AOqpTOFs4Ec4MzHMhEctWHYST1y6FE3L1AiB9WU0QhpKBm7LlL-sQfjJ5OUZ0rRZlJna2iS3WJ56m2Cj9clZaQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

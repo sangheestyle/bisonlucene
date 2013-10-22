@@ -1,0 +1,47 @@
+{
+  "title": "usrentacar",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dotsqr.usrac",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "June 6, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Karl Hendrie",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dotsqr.usrac",
+  "extendedInfo": {
+    "installSize": "201k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The usrentacar.co.uk android application is a free tool to help assist users with car rental bookings. The application's primary function is to provide users with a mobile version of a car rental voucher which is used to collect their pre-reserved car rental.The application is also an information resource for existing and new users. The application will also provide users with average 'wait times' for collecting their vehicle (they can also add their own wait time) The application also offers users a chance to 'review' their car rental experience. The application will also provide access to latest blogs on car hire in the USA.The usrentacar.co.uk android Application is provided free of charge.",
+    "reviews": [
+      {
+        "timestampMsec": "1307652182969",
+        "starRating": "5",
+        "comment": "Really handy little app",
+        "commentId": "lg:AOqpTOHB3d8XRqCDZCYHxQ_8ZeOgLAkUvw4IoFn4zTuvQbKioGWmXlM2opyfdEZIQm6AO3x8muGjSNgyFXvm3w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373000985747",
+        "starRating": "5",
+        "comment": "Very useful app for my android phone",
+        "commentId": "gp:AOqpTOHuE5xNEdoypCkLl3LeBdGJVb9oJqT5mU7gQOSSTsk9qTEZogbcTV7ueDBueATWA_LCv1TUKXnZmWLMHQ",
+        "author": "Dave Weatherall",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

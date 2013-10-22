@@ -1,0 +1,35 @@
+{
+  "title": "Breaking News from PBPost",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cmgdigital.PBPBreakingNews",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "March 26, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Cox Media Group Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cmgdigital.PBPBreakingNews",
+  "extendedInfo": {
+    "installSize": "3.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Breaking News is The Palm Beach Post's mobile app for breaking news and most popular stories, including sports and local entertainment updates. This app has been recently updated for iPhoneÂ®, iPod TouchÂ® and Androidâ¢. Our streamlined news app helps you stay connected with local headlines wherever you are. Features include: â¢Receive breaking news throughout the day â¢Access top stories and photo galleries â¢Easy to share stories via Twitter or Facebook â¢Free to download and install",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.alldigital.newsapp.permission.MAPS_RECEIVE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

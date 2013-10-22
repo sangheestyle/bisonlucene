@@ -1,0 +1,60 @@
+{
+  "title": "Field Notes Communities",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flamingointernational.fieldnotes",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "March 11, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Flamingo International",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flamingointernational.fieldnotes",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Field Notes is the exclusive, always on community that rewards members for their insights. Our members use this app to respond, in real time, to challenges set by the Field Notes Communities team on behalf of our clients.",
+    "reviews": [
+      {
+        "timestampMsec": "1367184203437",
+        "starRating": "1",
+        "title": "Stopped working",
+        "comment": "Was good while it worked but I only managed to get it to upload about 2 videos. Really frustrating. Had to resort to web transfers in the end.",
+        "commentId": "gp:AOqpTOG2cmcsvh-IMxtrJKcfv-CbcRiVGaiwVL1KSaV7jW7GvwOsdfddUrkxvZ0G4Kl4TRt8VpoabxSXrnvnu_w",
+        "author": "Hankie Gostelow",
+        "authorURL": "http://lh4.googleusercontent.com/-l4oElgEi_2U/AAAAAAAAAAI/AAAAAAAAAAA/PJfOYelIm-Y/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-l4oElgEi_2U/AAAAAAAAAAI/AAAAAAAAAAA/PJfOYelIm-Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364409417356",
+        "starRating": "5",
+        "title": "Well",
+        "comment": "I\\'m in, nothing happenin yet",
+        "commentId": "gp:AOqpTOEhANa3KR5kNGKDlj3SBm9MhwcKb_JASscnB1UCZDpxOioiTUIFqpXHu38nblIbrdYongCUI0BIMmL1bNs",
+        "author": "Jamie Moulding",
+        "authorURL": "http://lh3.googleusercontent.com/-DuhoK37jCxA/AAAAAAAAAAI/AAAAAAAAGcE/aBbK0e-caTY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-DuhoK37jCxA/AAAAAAAAAAI/AAAAAAAAGcE/aBbK0e-caTY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_TASKS",
+      "com.flamingointernational.fieldnotes.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

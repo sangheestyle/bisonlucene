@@ -1,0 +1,51 @@
+{
+  "title": "19th Meeting of the OHBM",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ohbm2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "June 10, 2013",
+  "version": "4.2.5.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ohbm2013",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Organization for Human Brain Mapping (OHBM) is the primary international organization dedicated to using neuroimaging to discover the organization of the human brain. The organization was created in 1995 and has since evolved in response to the explosion in the field of human functional neuroimaging and its movement into the scientific mainstream. The 19th Annual Meeting of the Organization for Human Brain Mapping (OHBM) will be held June 16-20, 2013 at the Washington State Convention and Trade Center in Seattle, WA, USA. The OHBM meeting draws attendance between 2500-3000 attendees each year and boasts a combination of exciting scientific programs and social events, all tailored to the city the meeting is being held.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.ohbm2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

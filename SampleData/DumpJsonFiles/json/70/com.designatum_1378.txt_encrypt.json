@@ -1,0 +1,44 @@
+{
+  "title": "TxT Encrypt",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.designatum_1378.txt_encrypt",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 25, 2011",
+  "version": "1.0.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "11",
+  "rating": "4.3636365",
+  "contentRating": "Everyone",
+  "creator": "1393 Designs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.designatum_1378.txt_encrypt",
+  "extendedInfo": {
+    "installSize": "37k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Have you ever wanted to send a secret message to someone without having to go through the process of encrypting it and then having the recipient decrypt it?  Now you can with this simple app! All you do is enter the message in the first text box and choose to encrypt it using the default key or with your own key. Then send it to the desired recipient through an email attachment or using Kik Messenger (Android only). It is highly recommended to use this app in conjunction with Kik Messenger. !PLEASE keep in mind that there is currently no iOS partner app to use with Kik so iOS users will not be able to decrypt from their app. I will be working on a server side client that will be able to decrypt the message via the web until I can build an iOS version. !About us: 1393 Designatum is a small group of friends (currently only 2) who make things to fill a void in our daily lives.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1323491337254",
+        "starRating": "1",
+        "comment": "It doesnt show the other party decrypted app. It just shows a blank msg",
+        "commentId": "lg:AOqpTOEeTPJkPJ8yIWWWgN3jgCzu-baqv3QGoZbcyoGdJyxJh_lzkqI8fgE3MMa8P3JW123CrjGUn6kOEkru_Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1336831907665",
+        "starRating": "3",
+        "comment": "Its good but make it more easy to use",
+        "commentId": "lg:AOqpTOEDYJX171K6ImcAt2lg2iB_aO9l35guicowgl58K_2f-B0--tDXNoVJ_CWjgXcNMtc5wHf_H1s1yFqmOQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

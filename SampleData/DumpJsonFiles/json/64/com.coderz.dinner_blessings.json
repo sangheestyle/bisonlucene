@@ -1,0 +1,43 @@
+{
+  "title": "Christian Dinner Blessings",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coderz.dinner_blessings",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "December 18, 2012",
+  "version": "2.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Coderz",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coderz.dinner_blessings",
+  "extendedInfo": {
+    "installSize": "747k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Dinner blessing prayers for Christians.Save your favorites and Share them to your loved ones.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1338882825582",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Good onr",
+        "commentId": "lg:AOqpTOHZjluyO6G9Dem73-tJgbl6RY5UuL6YkmkhEhPOHTBO6GxFE0co1J_pTuUjCOkrJXs0k_55pIDX_dBbIT4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

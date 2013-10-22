@@ -1,0 +1,51 @@
+{
+  "title": "Did you stay on your diet?",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidbd.promptapp",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "July 21, 2011",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "norseware",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidbd.promptapp",
+  "extendedInfo": {
+    "installSize": "58k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Did you stay on your diet today?  This keeps you motivated towards your goals of losing weight.  It gives friendly reminder each day, and helps keep you motivated by tracking how many times that you responded with \"yes\" and encourages you with a message each day.",
+    "reviews": [
+      {
+        "timestampMsec": "1311374636743",
+        "starRating": "5",
+        "comment": "Great little app. Simple and let\\'s you keep track of how well you\\'re staying on your diet.",
+        "commentId": "lg:AOqpTOFAgC4ryG0R6XsJvjLyjKqp7WebZcnR7PyepcJOE1RK5YPMoxGZ8rcF9_t2AYplx6kKML0HgEPNvaCt4N4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1309152751653",
+        "starRating": "1",
+        "comment": "Stupid. Uninstalling",
+        "commentId": "lg:AOqpTOEWUnX_cVmsAhCUhwoHKaufhfZ5dRPiB6BpZJyBQvRGFckxk5y-Voq-c5t5zQIu102-BQIu53XxN2ww_Yg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

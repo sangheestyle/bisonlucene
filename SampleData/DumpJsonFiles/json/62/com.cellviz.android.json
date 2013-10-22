@@ -1,0 +1,93 @@
+{
+  "title": "CellViz",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cellviz.android",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 6, 2013",
+  "version": "2.1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "12",
+  "rating": "3.75",
+  "contentRating": "Low Maturity",
+  "creator": "barbeauDev",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cellviz.android",
+  "extendedInfo": {
+    "installSize": "794k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Your Cell Network - In 3D.(Note: Cell tower locations / lines not available on GSM devices)  CDMA devices: Cell tower locations come from your CDMA cellular provider.  If you see wrong tower locations, please email us at support@cellviz.com and we'll try to work with them to get it fixed!Note: Verizon (and others) seem to often provide bad data for tower locations, which CellViz will filter out.  In this case, you'll see cell signal quality info on the mobile map and in Google Earth (i.e., same as GSM), but not tower icons or lines.- Ever wonder why you repeatedly drop phone calls in the same location?  - Have trouble surfing the web or checking emails on the go?  - Are you suspicious of cell provider coverage maps with the same signal level for miles?CellViz turns your phone into the ultimate cell network analyzer tool.  With a few taps, CellViz records cell signal information to build a high-definition view of your cell network.  CellViz is the only app on Google Play that allows you to visualize your data in 3D in Google Earth desktop.In the mobile app, CellViz shows your real-time position, the cell tower youâre connected to in real-time*, as well as your history of cell towers your phone communicated with from when you started a test*.  By using CellViz, youâll not only know where you canât get good cell signal reception, but you can also share this data with your cell carrier to help them troubleshoot your problems.In Google Earth, see the number of bars that you cell phone had at a location, and track cell tower handoffs as you move from one area to another*.  See CellViz data in 4D by using Google Earthâs timelapse feature, which shows you moving around on the map as the data was collected.** How do I use CellViz? **CellViz lets you visualize your cell network in two easy steps:  1.\tRecord data using this app  2.\tView the results in Google Earth desktopIn Google Earth desktop, you can see 3D columns that represent the quality of your cell signal at that location (like the number of bars you see in your status bar).  Signal quality is indicated by the color and height of the column â bad signals are red and short columns, while good signals are green and tall bars.  Medium signals are somewhere in between.  You can see raw data for a particular cell tower or cell signal strength by clicking on the item.  ** Why is this better than the cell signal map my carrier has on its website? **1) CellViz uses the GPS technology in your phone to make a fine-grained map of cell signal levels, which gives you a very high-resolution view of your network.  Carriers typically provide maps that label several city blocks with the same cell signal level, since they arenât collecting high-resolution data.2) CellViz uses YOUR DEVICE to collect data.  Carriers typically use expensive and customized cell signal equipment to record signal levels - this is the data that they show on their website and that they use represent all devices on their network.  Mobile devices are all unique, due to things like antenna configuration and interference with other system components - CellViz reflects this uniqueness.Please let us know what you think of CellViz by leaving ratings and comments!If you'd like to help us improve CellViz, email us your data at support@cellviz.com.*Cell tower locations and cell tower handoffs are only available on CDMA devices (e.g., Verizon, Sprint).  However, GSM devices (e.g, AT&T, T-Mobile) are still able to collect raw cell signal information and visualize this in Google Earth.** The location of the CDMA tower marker may indicate either the physical location of the cell tower, or the center of a sector of cell tower coverage, depending on how your cellular provider has their network configured.*** WiMAX support is currently experimental and may not work on your device.",
+    "reviews": [
+      {
+        "documentVersion": "2.1.4",
+        "timestampMsec": "1370410999026",
+        "starRating": "3",
+        "title": "doesn\\'t work on Net10 in PA Provided By AT&T",
+        "comment": "might be a GSM carrier?? network shows up as HSDPA a quick google search suggests that is a third gen 3g service",
+        "commentId": "gp:AOqpTOHK2NBdej-M5K11PLkJfT3b7qd9SE3G_FpnEuB8om7MXewYM_9s1mJTTvX6UfScuzX4rlVSi3YwMzZvN7A",
+        "author": "Jason Roberts",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.0",
+        "timestampMsec": "1364710745727",
+        "starRating": "1",
+        "title": "Thousands Of Miles Away",
+        "comment": "I\\'m in NW Washington State, yet connected to a tower in West Africa....",
+        "commentId": "gp:AOqpTOGVSGGdCzkMqOSSJhyqMHVjpLXvfBTDK5rLkOOAaqddwo1tbDOJ1gAveiQJ0Pi64pACw2WtXexiGYpMZv8",
+        "author": "James Rogers",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.0",
+        "timestampMsec": "1367684709701",
+        "starRating": "2",
+        "comment": "I too am showing I\\'m connected to a tower in Nigeria! And when i go to google earth it does not show my signals\\tI\\'m Spokane also connected to Nigeria? Google earth does not show anything except the Area",
+        "commentId": "gp:AOqpTOEyYfrdkuH53tQOEpxNoy1P_cRDD7x5agopNBoEq3S11GdsChN0g4cPnpWBK5cEsMxDJarPPNJrYa-ttpE",
+        "author": "Darlene Vogelmann",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.10",
+        "timestampMsec": "1371226532327",
+        "starRating": "5",
+        "title": "Excellent app with exciting potential",
+        "comment": "I work at a Transit Authority in Florida and the app worked perfect in tracking our route when planning for mileage and budgeting.  Being able to email the results to our work email and open it in Google Earth without any processing is excellent.  Highly recommend this app.",
+        "commentId": "gp:AOqpTOF2d0jvtoOfSWUvSDm5N7WtH7URUAaDpXmDaW2DnbdTnQPydZQXeWZb0BKpbUSjdA3aZ6l4zCKtTC-eDm4",
+        "author": "Christopher Cochran",
+        "authorURL": "http://lh4.googleusercontent.com/-z-sPgqGAMx8/AAAAAAAAAAI/AAAAAAAAAUk/XwXmOLGB4W0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-z-sPgqGAMx8/AAAAAAAAAAI/AAAAAAAAAUk/XwXmOLGB4W0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359474409964",
+        "starRating": "1",
+        "title": "Ok",
+        "comment": "Shows I\\'m connected to a tower in Africa..I live in Maryland",
+        "commentId": "gp:AOqpTOEyORprPXCWF5PbzHothtmAbA6sZXCTYsGTkQsGwlUaL4F7LuFoT_UJIXxHzDd8nX6gmtfnrjQ9qHgqSAw",
+        "author": "Carlos robles",
+        "authorURL": "http://lh6.googleusercontent.com/-xBZZg13AC0s/AAAAAAAAAAI/AAAAAAAAAi0/WCFsCuCtnK0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-xBZZg13AC0s/AAAAAAAAAAI/AAAAAAAAAi0/WCFsCuCtnK0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.ACCESS_WIMAX_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "com.cellviz.android.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

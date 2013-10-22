@@ -1,0 +1,73 @@
+{
+  "title": "Resistor Ratio Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dciaffa.resistorratio",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "April 9, 2010",
+  "version": "0.2.1",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "35",
+  "rating": "3.9714286",
+  "contentRating": "Everyone",
+  "creator": "Dave Ciaffa",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dciaffa.resistorratio",
+  "extendedInfo": {
+    "installSize": "16k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Quickly and easily determines the standard resistor values to best approximate a desired ratio.Features:- Fits desired ratio using E12 (10%), E24 (5%), E96 (1%) and E192 (0.1%) series- Simple resistor ratio- Voltage divider- Op-amp circuit gainNew in 0.2.1: Fix font size on Droid with Android 2.1 OS.",
+    "reviews": [
+      {
+        "documentVersion": "0.2.1",
+        "timestampMsec": "1352304718987",
+        "starRating": "2",
+        "title": "Abandoned.",
+        "comment": "No updates in over 2 years, so this app is sadly abandoned. The good news is that the free app ELECTRODROID does all this, better, & a whole lot more besides! OLD REVIEW : Nice app with potential. A help file with diagrams would clarify circuits. More calcs please, inc. induct/capacitive reactance, & a resistor selector!",
+        "commentId": "lg:AOqpTOE95RGy2yL1adi8esJCH2JzI6i8-CgxMuhsUrPh9qJA6wJR_MgFgS9MpG5mQYf7p8JsCHrX5yd1wpXBTZU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.2.1",
+        "timestampMsec": "1281174332490",
+        "starRating": "3",
+        "comment": "Add option to allow for multiple resistor series. Add voltage regulator feedback function: enter desired output voltage and reference/feedback voltage",
+        "commentId": "lg:AOqpTOFxGSzyc_VjhI2QjUNg5WizM4t3MeaJtAi6VN_EpJLw_e0u2rbNznMqoR3dIjoGrnmXHOvDD556vCknY4w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.2.1",
+        "timestampMsec": "1272953197367",
+        "starRating": "2",
+        "comment": "Doesn\\'t do voltage divider voltage solving.",
+        "commentId": "lg:AOqpTOGBk3YO7Z-dFHolfis9_c3EzAXZExFEnjw0cBylgJgsxRbA3BRj3MmFDQl8xNem7pYGunhsRn1Ub0ZXO7E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.2.1",
+        "timestampMsec": "1330577623195",
+        "starRating": "3",
+        "comment": "Poor tablet formatting.",
+        "commentId": "lg:AOqpTOHe9RInvTgLhjX9z8l33FgNtg3As1Sv9OlCip42PmGLl7NyCrcxx0QYaGR0DlW1TLgNqZkIeHGCJg3fZGs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.2.0",
+        "timestampMsec": "1263413048491",
+        "starRating": "5",
+        "comment": "Thanks I\\'ve been looking for something like this! Nice job",
+        "commentId": "lg:AOqpTOG1BtRGzdK8PwBMidVOyLUQM_uBaL5P5QbFYK9gLNdbzqPpvkjLHuaLvCPd_5ECsucBF-lCWLoFVg5khWQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

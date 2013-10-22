@@ -1,0 +1,74 @@
+{
+  "title": "Crime Shield",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crimeshieldapp",
+  "category": "Communication",
+  "price": "$1.79",
+  "datePublished": "August 29, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "High Maturity",
+  "creator": "Next Level Concepts",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crimeshieldapp",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "The Official Crime Shield app.With the Crime Shield App, you can receive real time notifications for Crime Alerts occurring in your area, as they are entered into the Crime Shield database.Select from custom locations and categories, to get alerts delivered to your phone in real time.Don't go uninformed about criminal activity in your neighborhood any longer. With the Crime Shield app, get notified from members of your community about occurrences as they happen.Get Notified - Stay Protected.",
+    "reviews": [
+      {
+        "timestampMsec": "1377788125073",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Great app runs smooth good finding out about crime in the area.",
+        "commentId": "gp:AOqpTOHMrjYiK1Gl_bku5h28Wmr5cnakD3DGpl3saMaj5naFQYQJlc3F6Wa8cSIKCV5pr4tJ5C-z85Kz4RBvW34",
+        "author": "matt ducas",
+        "authorURL": "http://lh5.googleusercontent.com/-j9JBSGmnnBk/AAAAAAAAAAI/AAAAAAAAAFo/gJTdHorqY3I/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-j9JBSGmnnBk/AAAAAAAAAAI/AAAAAAAAAFo/gJTdHorqY3I/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378569404458",
+        "starRating": "5",
+        "title": "Genius idea and execution",
+        "comment": "Now I don\\'t have to sift through pages of nonsense on local crime pages in the attempt to find something relevant to my area. The settings process is fast; alerts are timely and easy to read/understand. I highly recommend this app, and I\\'m not entirely sure why this concept hasn\\'t been done until now. Great job",
+        "commentId": "gp:AOqpTOFob41MlgPZ8Lk9EFIyknEoHosbCdrsnung58Rqn9x9qhC-IAfubM7OAYEqaZ3e1A15PnVNVyrcP4oUZDw",
+        "author": "Erin Scott",
+        "authorURL": "http://lh3.googleusercontent.com/-EubJf7X7dls/AAAAAAAAAAI/AAAAAAAAACo/1SiBub6JL3Y/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-EubJf7X7dls/AAAAAAAAAAI/AAAAAAAAACo/1SiBub6JL3Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378546208556",
+        "starRating": "5",
+        "title": "good Value",
+        "comment": "happy to pay $2 if it helps reduce crime in my town great work 5/5",
+        "commentId": "gp:AOqpTOFDgD2sKbZOvRXOWgK2SJEVshDvi6WqeQ7xtZpitWGeE3yv8_em2_C_DjuT2_v3l3ikoFxsLDtYqA3Mf0w",
+        "author": "Trevor Berkley",
+        "authorURL": "http://lh4.googleusercontent.com/-eSEg0cFXoI0/AAAAAAAAAAI/AAAAAAAAABg/siT3trPJIm0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-eSEg0cFXoI0/AAAAAAAAAAI/AAAAAAAAABg/siT3trPJIm0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378003550835",
+        "starRating": "5",
+        "title": "Awesome App",
+        "comment": "Very handy to know whats happening in the neighborhood, definitely recommend buying.",
+        "commentId": "gp:AOqpTOEZ6jy3wo30vmMYYfQluqdpnNu83XxBih5t866Xa-oLqTFs4Z5iAG5nwY48X2TKdE9UI0TMPFnzQuPJxLY",
+        "author": "Jeremy Paterson",
+        "authorURL": "http://lh4.googleusercontent.com/-g7v858rjuGI/AAAAAAAAAAI/AAAAAAAAAW8/8BWMrakHRYA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-g7v858rjuGI/AAAAAAAAAAI/AAAAAAAAAW8/8BWMrakHRYA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.crimeshieldapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_LOGS"
+    ]
+  }
+}

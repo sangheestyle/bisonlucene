@@ -1,0 +1,39 @@
+{
+  "title": "Canada Compare Hotels Booking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.discounthotel.canada",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 13, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Bolt Mobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.discounthotel.canada",
+  "extendedInfo": {
+    "installSize": "7.8M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "***BEST COMPARE HOTEL PRICES IN ANDROID MARKET******SAVE UP TO 80%***Compare hotel rates from compares +2.000.000 hotel deals from 100's of booking sites:www.Agoda.com, www.Expedia.com, www.booking.comlastminute.compriceline.comhotels4u.comhostelbookers.comlaterooms.comeasytobook.comvenere.comHotelclub.comholidayinn.comMarriottSkooshCrowne Plazato find the lowest rates on the best hotels.Features include:â¢ Simple search by location, dates and guests* No Fees or mark-upsâ¢ âAround Meâ search to find what is available around you at that exact momentâ¢ Search results can be viewed two ways - on a map or in a list format* Deals save up to 80%!â¢ Interactive map with zoom in, zoom out, and swipe to reveal more hotels â¢ View all hotel details, guest ratings, images and features the hotel offersâ¢ Comparison table for all hotels and the best rates available for all our partner booking sitesâ¢ Refine your search by price, star ratings, areas, hotel features and moreâ¢ Book with our partner websites by simply clicking âbookâ on your hotel of choiceâ¢ Big image gallery â¢ Apps in 41 languagesâ¢ The only app that allow you to search the hotel deals through out Don't Miss it! Book Your Room Now!!Simple Introduction of CanadaCanada is the second largest country in the world. It takes almost seven hours of flying time to cross the 7,000 kilometres from one side of the country to the other. TOP Tourist Attractions / Point of Interest of Canada1. Stanley Park, Vancouver, British Columbia 2. Granville Island, Vancouver3. Lynn Canyon Park, Vancouver4. Notre-Dame Basilica, Montreal, Quebec5. Le Pateau, Montreal 6. Jean-Talon Market, Montreal7. CN Tower, Toronto, Ontario8. Distillery Historic District, Toronto9. Bata Shoe Museum,Toronto10. Vieux Quebec (Old Quebec), 11. Quartier du Petit Champlain, Quebec12. Butchart Gardens, Victoria, British Columbia13. Royal BC Museum, Victoria14. Eagle wing Whale Watching Tours, Victoria15. Ziptrek Ecotours, Whistler, British Columbia16. Peak 2 Peak Gondola, Whistler17. Whistler Blackcomb, Whistler18. Glenbow Museum, Calgary, Alberta19. Heritage Park Historial Village, Calgary20. The Calgary Zoo21. Rideau Canal, Ottawa, Ontario22. Parliament Hill, Ottawa23. Changing of the Guard, Ottawa24. Banff National Park, Banff25. Banff Gondola, Banff26. Lake Louise, Banff27. Niagara Falls28. Maid of the Mist, Ontario29. Niagara Parks Botanical Gardens",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.discounthotel.canada.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

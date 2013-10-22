@@ -1,0 +1,37 @@
+{
+  "title": "Checkit Issue Reporting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.checkit",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "July 9, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Community HOAM",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.checkit",
+  "extendedInfo": {
+    "installSize": "107k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Checkit allows users to report an issue to their community leader or manager in just three clicks.  1-User takes a picture2-types message (if needed)3-click sendThe manager or community leader will receive an email with a picture, address, description, and a map location of the issue. This app is useful for managers, maintenance, residents, and anyone interested in easily taking a picture with a mapped location.",
+    "reviews": [
+      {
+        "timestampMsec": "1341869792659",
+        "starRating": "5",
+        "title": "I like it",
+        "comment": "I am a property manager and i use this a lot to notify the maintenance guys when there is something that needs to be fixed.",
+        "commentId": "lg:AOqpTOFsKXeCJUb1Xol9RY2QJfjOWV2aNE4m8Yqu4gUcahOyL0902EHKImPrPNLmJEeHeGXgftmVGGLuMsa56i8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

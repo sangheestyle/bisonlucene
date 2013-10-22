@@ -1,0 +1,52 @@
+{
+  "title": "Diablo3 - Dashboard",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.esthar.d3.sserver",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 27, 2013",
+  "version": "2.0.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "33",
+  "rating": "4.6969695",
+  "contentRating": "Low Maturity",
+  "creator": "Raxden Studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.esthar.d3.sserver",
+  "extendedInfo": {
+    "installSize": "12M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "\"Diablo 3 - Dashboard\", you can check your career, heroes and items. Follow your friends and know their status at any time, be informed when they create new heroes, level up or die. \"Diablo 3 - Dashboard\" you will be notified of these changes through the Android notification system. The application also will notify you when the servers are online.Featuresâ¢\tCareer\t\t- Check your career at any time.\t\t- Know the time played by class.\t\t- Follow your progress on game. â¢\tHeroes\t\t- Check your heroes' status. (attributes, skills, items...)â¢\tFriends \t\t- Add your friends and look at their heroes and items.\t\t- Know at any time the state from yours friends trought from android notification system.â¢\tStatus server\t\t- Check all servers in different regions of Diablo 3.\t\t- Know instantly any change in the status of servers through the notification system, allowing individual frequency settings for each server.\t\t- Restore your notification settings when you restart your device.\t\t- Manually update status servers.Status Servers and profile information are obtained through the official Blizzard website.Keywords: Diablo3, Diablo 3, profile, history, heroes, gems, items, servers, server status, dashboard, friends, notification, profile, career, gems, servants, auction house, auction houseIf you have any problems with the application please contact the developer.Blizzard copyright notice:Â©2012 Blizzard Entertainment, Inc. All rights reserved. Diablo and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the U.S. and/or other countries.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.3",
+        "timestampMsec": "1374019485172",
+        "starRating": "5",
+        "title": "Fantastic",
+        "comment": "Trust me... you\\'ll come to love this silly thing.",
+        "commentId": "gp:AOqpTOGjUMSshZqjHyKYkq7GZMyczvTHREyhNyngumVLdsTxYkJ8F5PAZoVtMNwajDnc6Uqxdrm0wNjJZEYL5A",
+        "author": "Brad Lewis",
+        "authorURL": "http://lh3.googleusercontent.com/-tW_znhGbW48/AAAAAAAAAAI/AAAAAAAAAJ8/MVZeHFIpytM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-tW_znhGbW48/AAAAAAAAAAI/AAAAAAAAAJ8/MVZeHFIpytM/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1369143528684",
+        "starRating": "5",
+        "title": "Muy \\303\\272til!",
+        "comment": "App perfecta para todos los adictos al D3! Buena estructura, dise\\303\\261o y me encanta poder elegir avatar!",
+        "commentId": "gp:AOqpTOG3zCBSrpJwNo2p5clVsNUcCdHJfcu7PP2Ex7MPR6lCpiYTHQ9KjnB2yY_o8zplAHogDGj3jKmDaCZJ0w",
+        "author": "Raquel Rodr\\303\\255guez",
+        "authorURL": "http://lh3.googleusercontent.com/-90Woiwo6DSk/AAAAAAAAAAI/AAAAAAAAAAA/JVi2CVVKkoQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-90Woiwo6DSk/AAAAAAAAAAI/AAAAAAAAAAA/JVi2CVVKkoQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

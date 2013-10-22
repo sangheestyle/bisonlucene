@@ -1,0 +1,39 @@
+{
+  "title": "eSchool",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emsoft.eSchoole",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "1.07",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Evermobilesoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emsoft.eSchoole",
+  "extendedInfo": {
+    "installSize": "947k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "æåæ¨åç¡ç´æ ¡åè¨åï¼å¸æééç¾ä»£éä¿¡ç§æï¼å®¶é·å¯ä»¥ä½¿ç¨ææ©åå¾©éåãæ¥çå­¸æ ¡è³è¨ï¼å¾èæ¸å°ç¨ç´ï¼æ¸å°ä¼æ¨¹ãèª ç¶ï¼è¦éå°å¨æ¸¯ç¡ç´æ ¡åççµæ¥µç®æ¨ï¼èµ°çè·¯ä¾ç¶éå¸¸æ¼«é·ï¼ä½æåç¸ä¿¡ï¼ææ¨æçåèï¼å¿å®å¯ä»¥éå°æ¸å°ç¨ç´ãæ¸å°ä¼æ¨¹çç®çãå®¶é·èå­¸æ ¡æºéçæ©æ¨å®¶é·å¨å®è£æ ¡è¨éå¾ï¼å¯ä»¥é¨æé¨å°æ¥æ¶èåè¦å­¸æ ¡ç¼éçµ¦å­¸ççéåï¼ æ¥çå­©å­æ¯ä¸å¤©çå®¶èª²å§å®¹åå­¸æ ¡æéè¡¨ï¼æå»ææ¡ææ°è³è¨ï¼å­¸æ ¡ååªéè¦ééäºè¯ç¶²ï¼ç»å¥æ ¡è¨éç®¡çç³»çµ±ï¼ç¼æ¾å­¸æ ¡çç¬¬ä¸æè³æï¼èå¸«åééæ ¡è¨éç®¡çç³»çµ±ï¼éå¯ä»¥ç®¡çéåçåè¦çæ³ç­ï¼å¢å å·¥ä½æçã",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.GET_TASKS",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

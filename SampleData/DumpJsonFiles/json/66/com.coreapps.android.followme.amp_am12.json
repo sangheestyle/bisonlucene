@@ -1,0 +1,70 @@
+{
+  "title": "AMP 2012 Annual Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.amp_am12",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 18, 2012",
+  "version": "3.6.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "2.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.amp_am12",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The premier genomic medicine event to be held October 25-27, 2012 in Long Beach, CA. Topics include pharmacogenomics, next generation sequencing, CPT coding, and much more. No other event offers AMPâs in-depth treatment of molecular diagnostics. Whether you want to learn the science, the medicine, how to start a lab, or conduct business onsite, the AMP Annual Meeting is the place to be.",
+    "reviews": [
+      {
+        "documentVersion": "3.6.7",
+        "timestampMsec": "1351012565071",
+        "starRating": "1",
+        "title": "Nearly useless",
+        "comment": "Handy to have maps and schedule on your phone. But there is no point in flagging sessions you want to attend if it doesn\\'t automatically add them to your schedule so you can map out an itinerary. Why would I do this manually? And nothing about posters or corporate workshops. There is lots of room for improvement.",
+        "commentId": "lg:AOqpTOEU4QNRObyvA3ezmGQnuKlGxAqKBX8MAmUNk3639f-F_zzolTddVAhdIW-_-Nkgvvba5U3wfhxTtRu2Eg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.5.8",
+        "timestampMsec": "1351515179813",
+        "starRating": "5",
+        "title": "Five Stars",
+        "comment": "User friendly, up to date, and free.",
+        "commentId": "lg:AOqpTOFd3QykID9Ci0IlTckxfUUy_KfGJbNnh3WBqI0vhyhhcpxqMKUm5U1L4eZy-eQNYfjlLH2WburDBxFJUg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.amp_am12.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Something Involving a Monkey",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.appgiraffe.somethinginvolving",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "July 24, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "AppGiraffe LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.appgiraffe.somethinginvolving",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "This is the mobile app of the Cleveland based band, Something Involving A Monkey. Get concert updates, videos & news updates at the click of your thumb.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "com.appgiraffe.somethinginvolving.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

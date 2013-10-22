@@ -1,0 +1,53 @@
+{
+  "title": "iMMA Fight Fan",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.figure4apps.immafightfanandroid",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "June 12, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.625",
+  "contentRating": "Medium Maturity",
+  "creator": "Figure 4",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.figure4apps.immafightfanandroid",
+  "extendedInfo": {
+    "installSize": "7.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Tired of missing MMA fights? Never miss another one!In partnership with former WCW and WWE superstar, Shane \"Hurricane\" Helms, we bring you the first Android app dedicated to letting you know about local, regional and national MMA live events.We are fight fans. You are a fight fan. iMMA Fight Fan. Get the latest list of MMA events in the United States and Canada right to your Android phone, for free. The app is completely focused on one thing - upcoming live MMA events. That's it. Want to watch a live MMA event, find one and go have fun. Can you say road trip? Features:- View a dynamic list of upcoming live MMA events by date.- Using your phone's GPS, get a list of upcoming live MMA events based on the distance from your location- All events are shown on the map. You are one click away from seeing the location of the event and getting directions from your current location- Promoters and owners of MMA organizations, you can submit your live event for our review and inclusion on our live event list.",
+    "reviews": [
+      {
+        "timestampMsec": "1339534124441",
+        "starRating": "5",
+        "title": "Best Fight app",
+        "comment": "I have been jealous ever since this app came out for iphone. Now its on android and its the best app I have seen for fight fans.",
+        "commentId": "lg:AOqpTOGySoX5zI5rHIMMnBgqqpFkb3_UnaRWqwDdBKskJdc0wTqODqPHFhj38epawwPyxKRZ_zBJY_khK0IzOtk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339531568377",
+        "starRating": "5",
+        "title": "Great app!",
+        "comment": "Only the best!",
+        "commentId": "lg:AOqpTOEVrUmUQUnFiepecBrnL4A5tna5Ve1FRB3vO2JTZ5JEZhiutKDRkVwcMF5j1TYLNV4-ZzOYi4MDf57NgaY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

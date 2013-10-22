@@ -1,0 +1,33 @@
+{
+  "title": "Hinsdale Public Library Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.hpl",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "January 14, 2013",
+  "version": "4.5.93",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.hpl",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Use the catalog: *\tSearch for books, movies and music *\tSee what's on the shelf *\tReserve the items you wantManage your account: *\tRenew items *\tCheck reserve status *\tDouble-check due datesGet Library information: *\tSee Library hours *\tSee Library programs *\tContact the Library",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

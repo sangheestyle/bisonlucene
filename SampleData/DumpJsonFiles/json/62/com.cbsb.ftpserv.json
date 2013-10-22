@@ -1,0 +1,40 @@
+{
+  "title": "Rise FTP Server",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cbsb.ftpserv",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "November 9, 2012",
+  "version": "1.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "10",
+  "rating": "2.8",
+  "contentRating": "Everyone",
+  "creator": "ProaLab",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cbsb.ftpserv",
+  "extendedInfo": {
+    "installSize": "131k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Creates FTP server on your Android device- Exchange files with any PC or device which runs FTP client;- No need to use USB cable;- Widget;- English and Russian languages are supported.",
+    "reviews": [
+      {
+        "timestampMsec": "1350644925899",
+        "starRating": "1",
+        "title": "Problematic, and no widget on Nexus 7",
+        "comment": "Thanks, this compact app does as described and works well on Samsung GS2 phone and Nexus 7 tablet. However, the widget doesn\\'t appear to be available on the N7 (it\\'s fine on SGS2). N7 is running Android 4.1.1, SGS2 running 4.0.3. UPDATE: I\\'ve found that when a file is deleted, the file remains but with a zero byte file size. Also the widget icon status doesn\\'t update on the SGS2. As file deletion is a very basic function, I\\'ve revised severely my rating of this app downward.",
+        "commentId": "lg:AOqpTOGWeQQv3DA6OHgq7kLFsGOZcOSCGFnx7EF9vxuWNJOfzBdQ2-tE_kpcsruDCGSeCC7iLEYN2Q9Swt1HSzk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

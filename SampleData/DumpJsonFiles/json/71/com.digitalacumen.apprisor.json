@@ -1,0 +1,35 @@
+{
+  "title": "APPRISOR Viewer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.digitalacumen.apprisor",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "February 19, 2012",
+  "version": "4.0.1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Digital Acumen",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.digitalacumen.apprisor",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The APPRISOR Viewer is specifically designed for organizations to keep their audiences apprised of critical reference content such as clinical practice guidelines, medical meeting planners, and product information. This simple-to-use viewer automatically categorizes content by author organization and provides quick and intuitive navigation through bookmarks and full-text search.Select and download available documents directly to your device through the viewer and keep important information close at hand.All content is free and provided by the respective professional organizations.APPRISOR: Handheld Informatics for Healthcare Professionals",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.STATUS_BAR",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "2012 ESOP Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.esopac2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 3, 2012",
+  "version": "2.5.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.esopac2012",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The ESOP Association, founded in 1978, is a national non-profit membership organization, with 18 local chapters, serving approximately 2,500 employee stock ownership plan (ESOP) companies, professionals with a commitment to ESOPs and companies considering the implementation of an ESOP.  The Association is the only association devoted solely to ESOPs.  Promoting and enhancing laws before Congress and regulatory agencies that govern ESOPs and providing its members with expert educational ESOP programming and information are its main focuses.  For more information regarding the ESOP Association e-mail membership@esopassociation.org or by phoning toll free 1(866)366-3832,",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

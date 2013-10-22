@@ -1,0 +1,49 @@
+{
+  "title": "Pay by phone Parking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.desarrollo.mobiliz",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "July 12, 2013",
+  "version": "3.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Mobiliz",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.desarrollo.mobiliz",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "PAGA TU  ESTACIONAMIENTO DESDE TU CELULAR*No mas Multas e inmobilizado de tu coche en calles controladas con parquimetros*No mas colas para pagar en estacionamientos cerradosPaga tu estacionamiento desde la comodidad de tu celular con esta app de MobilizPermite al Titular de la cuenta registrar todos los coches a los cuales autoriza a que se les pueda pagar estacionamiento. TambiÃ©n permite pagar estacionamiento a un coche de una persona que no se encuentre registrada en el sistema.Si pagas en parquimetro, antes de que se venza el tiempo, Mobiliz te recordara que tienes que pagar.* Funciona solo en vialidades de parquimetros y estacionamientos afiliados a Mobiliz",
+    "reviews": [
+      {
+        "timestampMsec": "1375582007215",
+        "starRating": "5",
+        "title": "Excellent App",
+        "comment": "Very good and useful app. I use it whenever I go out.",
+        "commentId": "gp:AOqpTOE2-ztrI_QmrtIrCj_h2u6_BJSDEKhFOK-kusNi11qMxR9I2oxXyxo3IgJm28NR7qTwpMsAQqMp5UmsVVQ",
+        "author": "Luis Diego",
+        "authorURL": "http://lh3.googleusercontent.com/-xVDf_KbhUbE/AAAAAAAAAAI/AAAAAAAAADw/oac-vl7JOHE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-xVDf_KbhUbE/AAAAAAAAAAI/AAAAAAAAADw/oac-vl7JOHE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

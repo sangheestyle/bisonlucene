@@ -1,0 +1,52 @@
+{
+  "title": "Private Message",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.docmanna.crypticmessage",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "July 25, 2011",
+  "version": "0.8.6",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "8",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "docmanna",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.docmanna.crypticmessage",
+  "extendedInfo": {
+    "installSize": "40k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "You want to send your friends messages that no other person can read? Or save encrypted messages on your phone with your note-app of choice?Private Message allows you to encrypt, decrypt messages using arbitrary passphrases and share the encrypted messages (e.g. SMS, Email, Twitter, Notes-App, ...). Your friends who know the passphrase and also have Private Message installed are able to decrypt the messages.Why another App that encrypts messages? There are several similar ones on the market! Some of these do not have an intuitive userinterface or weak android integration (just passing messages to other apps using copy and paste, e.g.), but much more important: lack of secure encryption! Apparently none of the apps I found use random salt, random stretching and random initialization vectors to improve key and encryption quality. So I had to craft my own message encryption app :)Features:* Simple and intuitive user interface* No ads* Requires no permissions* Industry standard encryption algorithm AES 128 (random initialization vector - the encrypted message is different every time you encrypt it). If you feel that you need more security (AES 256, SHA256, random salt, random stretching, random initialization vector) you might consider buying the Pro version.* Share the encrypted messages (e.g. SMS, Email, Twitter, Notes-App, ...)* Currently supported languages: English, Spanish, GermanSome random points you might find useful:* The current version is not supposed to be beta, however there are many different devices, which possibly behave differently, available. Therefor any feedback is greatly appreciated.* In case of issues, please contact me before rating.* The best encryption algorithms are useless if you choose bad passwords.* You might want to wipe the clipboard (copy/paste) after using it - just hit the menu button and choose 'Wipe clipboard'.* The message length is currently limited to 124 signs. For longer messages please consider buying the pro version.Why should I buy the Pro Version?* Stronger encryption (AES 256, SHA256, random salt, random stretching, random initialization vector)* Better Android integration and communication with other apps.* No copy and paste necessary to en- or decrypt a SMS, you can browse your SMS within Private Message Pro* Longer messages - currently up to 1000 letters in pro version* You support further app developmentBTW, by downloading this app, you agree to the following:This software is provided by the author \"as is\" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall the author be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.In case you have some spare bitcoins (already the fraction of a bitcoin is greatly appreciated) please consider donating: 1BW6ify9psU2dN9MhS3HGJomNUkyrUJWn9In the Android Market 'Private Message' is currently just available for Canada and the USA.",
+    "reviews": [
+      {
+        "documentVersion": "0.8.6",
+        "timestampMsec": "1311679217497",
+        "starRating": "1",
+        "comment": "Private Message is a crappier version of Secret Message.",
+        "commentId": "lg:AOqpTOE86O_2xh9IvZ4kiqDV6y0ZAO8JYPE-15DvdusAc8Sg7CbuORO5P_STz38GxNH04AGuInd1NFp1EVQarw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.8.6",
+        "timestampMsec": "1336973780695",
+        "starRating": "1",
+        "comment": "Not good",
+        "commentId": "lg:AOqpTOEeOEj5K7ReKngr9HPX_iSOgNmf_ThVi2CbiZ9hKcC19glFaMOF2r04vzQt46LEBy0sT5SUYfGwL2mUPw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.8.4",
+        "timestampMsec": "1308797623834",
+        "starRating": "1",
+        "comment": "crap",
+        "commentId": "lg:AOqpTOF4jjZ8iRdZDqi7qRNPrXsWYHn0UtMg3PfyvXoostdCCQA8oubDSMLHaf1Xogm5cjZLUpXKyPCECudgwQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "3D Bowling",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crossfield.threedbowling",
+  "category": "Sports Games",
+  "price": "Free",
+  "datePublished": "July 7, 2013",
+  "version": "1.0.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Cross Field Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crossfield.threedbowling",
+  "extendedInfo": {
+    "installSize": "20M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "New realistic bowling game with accurate physics! Top quality 3D graphics! If you love bowling, you would love it. How To Play: 1. Drag the ball to left or right to position it. 2. Put finger on ball and flip to pins to throw.3. Gesture curve on the screen to rotate ball. The speed and angle of flipping determines the motion of the ball. 10-Pin Bowling Rule: A game is divided into 10 frames, each frame has 10 pins. The player is given two chance to knock down all 10 pins.STRIKE - Awarded when all ten pins are knocked down with first ball. The player is awarded ten points, plus a bonus of whatever is scored with the next two balls.SPARE - Awarded when a player uses both balls of a frame to clear all 10 pins. The player is awarded ten points, plus a bonus of whatever is scored with the next ball.A player can score maximum of 300 points. Play perfect game (300 score) to enter your name in Leaderboard.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

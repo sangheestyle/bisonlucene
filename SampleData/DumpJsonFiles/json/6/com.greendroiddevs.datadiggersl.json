@@ -1,0 +1,31 @@
+{
+  "title": "Datadigger - Site License Ver",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.greendroiddevs.datadiggersl",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "September 26, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "greendroiddevs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.greendroiddevs.datadiggersl",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "PLEASE NOTE: This version requires a license code. If you do not have a code, please contact us to purchase a code.PCI compliance and other privacy agreements have large fines for anyone who leaks private information like credit cards or social security numbers. Use datadigger to proactively locate sensitive data in order to protect your business. Datadigger will scan for credit card numbers and social security numbers.You can easily set datadigger to scan daily, weekly, or monthly to make sure you don't have any personally identifiable information on your device. Once datadigger finishes a scan, it will notify you of any suspect files. You can then mark the file as a false positive or review the file yourself to make sure any personal data is removed.Please contact us by email at info@greendroiddevs.com for information on our site licensing options.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

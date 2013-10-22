@@ -1,0 +1,38 @@
+{
+  "title": "NTAC Annual Conference 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.ntac2013",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 2, 2013",
+  "version": "2.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.ntac2013",
+  "extendedInfo": {
+    "installSize": "3.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The New Tech Annual Conference brings together new and veteran school staff, partners, coaches and others to share strategies, celebrate successes and strengthen the New Tech community.This year's conference provides participants with ways to think about studentsâ needs through the lens of Building Bridges. Weâll examine ways in which Building Bridges can present itself in the processes that students engage in, and the work that they produce.Throughout NTAC 2013, attendees will have opportunities to join enriching discussions, participate in strategy demonstrations, and work product-oriented workshops intended to help teachers and directors increase the frequency of Building Bridges on your campus and in your classroom.We look forward to this opportunity to learn from each other as we work toward a common vision to create consistent Bridge Building opportunities for all New Tech Network students.We build bridges everyday through community, education, student engagement and more and by building bridges, we can help to make the bridge builders of tomorrow. We look forward to hearing how you build bridges.App Keywords:New Tech Annual Conference,New Tech community,NTAC 2013",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.ntac2013.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Mobile Statistics Professor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.mobilestatisticsprofessor",
+  "category": "Education",
+  "price": "$29.99",
+  "datePublished": "October 8, 2012",
+  "version": "7.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "7",
+  "rating": "3.2857144",
+  "contentRating": "Everyone",
+  "creator": "Business Compass LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.mobilestatisticsprofessor",
+  "extendedInfo": {
+    "installSize": "773k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Summary of Features:1. Analysis of Variance (ANOVA)2. Beta Function3. Scientific Calculator (infix)4. Covariance & Correlation5. Effective Size6. Error Function7. Gamma Function8. Probabilitya. CDF & PDFb. p-value and Inverse p-value9. Simple and Multiple Regression10. Solver (with reverse Polish post-fix calculator)11. Summary Statistics12. Context Sensitive Help videos13. Call support14. E-Mail support15. Accepts data files to process 16. Draws graphs & chartsDetail:ANOVA - Analysis of Variance - Features:Intra-class Correlation Calculator for ANOVAOne-Way ANOVA CalculatorFrom Summary Data - supply number of subjects, mean and standard deviationFrom Detail Data - supply data within a group and keep adding groupsFrom Data File - supply tab delimited file.Beta Function:Beta Function CalculatorIncomplete Beta Function CalculatorRegularized Incomplete Beta Function CalculatorScientific Calculator (Infix notation):18 Basic Arithmetic OperationsAbility to specify and perform fractions5 Probability Operations4 Memory Operations13 Trigonometry operations5 Statistics functions + data repeatSpecify significance and precisionAutometic precedence and ability parenthesisCovariance & Correlation:Covariance and Correlation by entering data. Data sets need to appear column wise. When a row is added, the data points for all the groups in the same position are added.Covariance and Correlation from fileCovariance from correlationCorrelation from covarianceSignificance of correlationEffect Size:Effect Size - Hierarchical Multiple RegressionEffect Size - Multiple RegressionEffect size Student's t-Test: Calculates the (two-tailed) effect size for Student's t-test (Cohen's d), given the mean and standard deviation for two independent samples of equal size.Error Function:Computes the value of the error function (a.k.a the Gauss error function) evaluated at a value of x. The value returned will be the error function evaluated along the integral from zero to x.Computes value of the complementary error function. Error function evaluated along the integral from x to positive infinity.Gamma Function:Gamma FunctionIncomplete Gamma FunctionRegularized Incomplete Gamma FunctionProbability:5 Probability Density Function (PDF) functions3 Cumulative Density Function (CDF) functionsa. Fisher F-Distributionb. Normal distributionc. Standard Normal Distribution9 p-Values + 5 inversea. Chi-Square testb. Correlation Coefficientc. Fisher F-test & inversed. Fisher' Exact Teste. Normal - cumulative, 1 & 2-Tailed & inversef. Student T-Test & inverseSimple and Multiple Regression:Calculates simple and multiple regressionAccepts input from data fileAllows entry of input data from key board4. Draws graphs for simple regressionSolver (with reverse Polish post-fix notation calculator):Solves f(x)Value of f(x) at cfc clears fxCij supplies coefficient20 Basic Arithmetic functionsFraction functions5 Probability Operations4 Memory Operations13 Trigonometry operations5 Statistics functions + data repeatSpecify significance and precisionSimplify fractionsSummary Statistics:Calculates the following 10 summary statistics.minmaxmeannsumsum of squaresstandard deviationvariance95th percentileskewnessFrom entering data points or picking up data in a file where each line contains a data point.",
+    "reviews": [
+      {
+        "timestampMsec": "1297309951382",
+        "starRating": "4",
+        "comment": "Needs polishing but overall it does the job.Fast support via email a big plus.",
+        "commentId": "lg:AOqpTOFBbakTvH7odFyjFHB-3e4MLa206QNnm-GVfrL_3JX9vQlDevOQFXrXGoQ2C-bwyFNVQ0YK_rY8W6YIiyI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1290439587821",
+        "starRating": "1",
+        "comment": "Good only if you know exactly what you\\'re doing. There\\'s no guide and calculator is very limited due to input limitations",
+        "commentId": "lg:AOqpTOFTIxgeEstBmTt8jimyaoKJROS7y126I_bIk2Uz-SzFuxohHuF7TdhtyJ9fGAIvhyzeHPn1yZvo0vzj6Hk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1268849255648",
+        "starRating": "2"
+      },
+      {
+        "commentId": "lg:AOqpTOF2C-CgNgTjCdaPGfQEAf3RUbL2t7LKLfeXgwlpN0PB6Y464MeZwrm4Km4UlbIEL-hWRxbJmZOfh3Q6wl0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

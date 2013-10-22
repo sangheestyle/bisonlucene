@@ -1,0 +1,33 @@
+{
+  "title": "Texas Hold'em Advisor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edoardo.poker.starting.hands.strategy",
+  "category": "Books & Reference",
+  "price": "$1.32",
+  "datePublished": "January 16, 2013",
+  "version": "1.01",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Edisys",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edoardo.poker.starting.hands.strategy",
+  "extendedInfo": {
+    "installSize": "300k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Unlike many other casino games, winning a game of Texas Hold'em does not depend only on luck. In order to win, you have to play correctly by following the best mathematical strategy. There are several variables, but statistical analysis suggests how to play with your starting hands, based on your position at the table and your opponents behavior.This app will suggest the best strategy, based on your cards and pot situation: number of opponents, their behavior, your position.You will figure out that there are very different strategies with the same starting hand, depending on your position at the table and number of opponents in the pot.Languages: english, italian, spanish.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

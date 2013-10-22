@@ -1,0 +1,39 @@
+{
+  "title": "McCook Public Schools",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crescerance.mccook",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "July 31, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Crescerance",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crescerance.mccook",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "McCook Public Schools is proud to announce its very own mobile app! Parents, students, staff, and other stakeholders can download this app now to get all district and school related information in the palm of their hands! Keywords: McCook Public Schools, nebraska, NE, crescerance, MPS, bison",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.crescerance.mccook.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "La Vanguardia",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.direction",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "September 27, 2012",
+  "version": "2.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "225",
+  "rating": "2.7466667",
+  "contentRating": "Low Maturity",
+  "creator": "La Vanguardia Ediciones SL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.direction",
+  "extendedInfo": {
+    "installSize": "384k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Disfruta de una informaciÃ³n actualizada en todo momento y de una navegaciÃ³n rÃ¡pida y sencilla. Desplaza el dedo por la pantalla para poder cambiar de secciÃ³n y de noticias. Esta aplicaciÃ³n identifica en quÃ© dispositivo se estÃ¡ ejecutando para darte la mejor experiencia posible una vez dentro. Esta herramienta te ofrece las siguientes funcionalidades: - Accede a las noticias de todas las secciones de LaVanguardia.com - Consulta los mejores artÃ­culos de opiniÃ³n y de La Contra. - Visualiza todos los vÃ­deos publicados en nuestra web. - Deja tu opiniÃ³n comentando las noticias. - EnvÃ­a mensajes, fotos y vÃ­deos directamente a la redacciÃ³n. - Comparte las noticias a travÃ©s de las principales redes sociales y por correo electrÃ³nico. - Escucha en directo las emisoras de radio RAC1 y RAC105 mientras consultas informaciÃ³n.",
+    "reviews": [
+      {
+        "timestampMsec": "1373909344640",
+        "starRating": "2",
+        "title": "Notificaciones odiosas",
+        "comment": "Lenta y de navegaci\\303\\263n engorrosa pero lo peor son las notificaciones diarias obligatorias. Desinstalada",
+        "commentId": "gp:AOqpTOE6y_4NbqryyLmV4Ppdk5WA5TGY8M8RlFfv2rR9zdfPv4G_acl2NZjqv4QFnrjgasuki10rwavSwzXmhA",
+        "author": "Cesar Lopez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366569627703",
+        "starRating": "2",
+        "title": "Molesta",
+        "comment": "A parte de lenta cargando noticias y moviendose entre secciones, continuamente esta molestando con las notificaciones. Desinstalada.",
+        "commentId": "gp:AOqpTOHCDZLDSMNdq0eDLTF-62q0OVyKXIrkMSPBbJFuphgJsVHNqP-GCjorxPSzJzzN7W0HffPbHWRz_xcAHg",
+        "author": "Albert Garcia",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338918969358",
+        "starRating": "1",
+        "title": "Do not install",
+        "comment": "It is just a quick icon for the website with id tracking. La Vanguardia mobile site is great. Just use it without the app",
+        "commentId": "lg:AOqpTOGEcbcgJSqkRtBfvDFbl535-KnnJWTfnlMfrvKMW4jm5L0d1Mqg8od75cH9UHSmLEDJLTig5b8F9buxww",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.direction.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Wolf and Sheep (board game)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brodski.android.wolfandsheep",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "2.5",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "34",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "M. Brodski Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brodski.android.wolfandsheep",
+  "extendedInfo": {
+    "installSize": "429k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Welcome to \"Wolf and Sheep\"! It is a checkers-like logic Android game for two players. One player takes one black piece (the wolf), the other player four white pieces (the sheep).The game is played on a chess board (only on the dark squares). Stones are moved diagonally to an adjacent empty field - the sheep only forward, the wolf back and forth. At the beginning the wolf and the sheep start at opposite base lines and the wolf begins.The wolf wins the game when he reaches the opposite base line. The sheep win if they circle the wolf or press him to the sidelines of the board, so that he can not be moved anymore.Alternately, you play against the program for the wolf and for the sheep. After each game you can adjust the skill level of your opponent (easy, normal or hard).Idea: http://en.wikipedia.org/wiki/Fox_games",
+    "reviews": [
+      {
+        "timestampMsec": "1336700564987",
+        "starRating": "1",
+        "title": "Fail",
+        "comment": "What the f\\342\\200\\242\\302\\242#",
+        "commentId": "lg:AOqpTOEZiINF9cTG-4m47mhmxCTxYPAhRuVXY65nrWhNrTDjneO4oglccRmTV6I_8Uk-1kATuc_Vtl1vPmU0wV4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

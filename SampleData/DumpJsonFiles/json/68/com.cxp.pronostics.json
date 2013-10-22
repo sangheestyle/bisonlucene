@@ -1,0 +1,37 @@
+{
+  "title": "\"Who's the Bet\" - Sport Game",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cxp.pronostics",
+  "category": "Sports Games",
+  "price": "Free",
+  "datePublished": "June 20, 2013",
+  "version": "1.12",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "2.8888888",
+  "contentRating": "Medium Maturity",
+  "creator": "Corexpert",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cxp.pronostics",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "DÃ©couvrez la version mobile de l'application de Fantasy Pronostics Who's the Bet accessible sur Facebook. Trouvez les rÃ©sultats des rencontres de football, basketball, tennis, rugby, football amÃ©ricain (et autres...) et  de NBA, Ligue 1, Ligue des Champions, Premier League, Top 14, HCup, NFL, Euroleague, Pro A (et autres), dÃ©fiez vos amis et affirmez-vous comme un expert dans votre sport favori.Inscrivez-vous, choisissez un sport favori et une Ã©quipe prÃ©fÃ©rÃ©e et commencez Ã  jouer.IMPORTANT : Who's the Bet est un social game dont le but est de dÃ©fendre les valeurs du sport et de prÃ©server la passion des fans en leur proposant un jeu gratuit pour faire leurs pronostics pour le fun.Des lots sont Ã  gagner rÃ©guliÃ¨rement pour rÃ©compenser les meilleures fans. Pour plus d'infos, rendez-vous sur notre page www.facebook.com/WhosTheBet ou sur notre Blog http://bit.ly/BlogWhosTheBetApplication Facebook : facebook.com/appcenter/whos-the-betPage Facebook : facebook.com/WhosTheBetTwitter : @WhosTheBetBlog : http://bit.ly/BlogWhosTheBet",
+    "reviews": [
+      {
+        "timestampMsec": "1330137215095",
+        "starRating": "1",
+        "comment": "Xperia - was all French, keep trying to link to ma Facebook, only made it to the opening screen. Fail App.",
+        "commentId": "lg:AOqpTOHYMKHCZ-67DSMqX7ZZdAOrt9ncYr3O7w8A-hRrkDiqQcPNFcTZQJJVP6ZHjvNHgaUvb2SmGVxab3kViR4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.cxp.pronostics.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

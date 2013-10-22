@@ -1,0 +1,35 @@
+{
+  "title": "CAST2011",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.cast2011",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "November 10, 2011",
+  "version": "2.0.8",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.cast2011",
+  "extendedInfo": {
+    "installSize": "5.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Science Teachers Association of Texas is proud to present CAST 2011:  The Art of Science, our most exciting and artfully-crafted conference to date!  The Conference for the Advancement of Science Teaching (CAST) is the best opportunity in Texas for science teachers and administrators to get the CEU credits they need with the most fun at the least cost!  Our phone app allows you to manage the workshops you want to attend by setting your own schedule, navigate the floorplan with interactive maps and search the exhibitor directory. Â·        3 full days of 650+ one hour workshops, free and included in registrationÂ·        75 Science JAM Sessions:  45-minute free sessions included in registration, based on grade level focusing on STAAR, technology, and teaching tipsÂ·        40 optional FREE Short Courses (Limited Enrollment: Register Early to Claim Your Spot!) and 40 optional paid Short Courses (3 to 6 hours in length)Â·        Exhibit Hall access, with over 400 vendors youâve come to know and love",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

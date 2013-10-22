@@ -1,0 +1,56 @@
+{
+  "title": "OrganizerMobile (Backup data)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=orgMobile.gui",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 14, 2013",
+  "version": "1.3.07",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "13",
+  "rating": "4.6923075",
+  "contentRating": "Everyone",
+  "creator": "Artur Jaszczyk",
+  "creatorURL": "https://play.google.com/store/apps/details?id=orgMobile.gui",
+  "extendedInfo": {
+    "installSize": "837k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Application can backup and restore: - Contacts (having phone numbers)- Call log- SMSes- MMSes (Android 2.x and newer)- Calendar (main user calendar)Online backup with Dropbox - upload and download your backups to/from Dropbox.You can schedule automatic backups.You can preview data from backup before restore.With this application you can easily copy contacts, text messages, call log and calendar between phones.Just make a backup, upload it to Dropbox, download on other phone and restore.If you don't have free Dropbox.com account, just swap SD cards, or copy OrganizerMobile directory.Please contact me if you'd like to translate app to your language.Credits- Icons: http://dryicons.com, http://www.iconarchive.com/show/web-application-icons-by-iconmoon.html",
+    "reviews": [
+      {
+        "timestampMsec": "1355225021612",
+        "starRating": "5",
+        "title": "Well implemented solution for backups",
+        "comment": "I have never experienced a bug. Works really well.",
+        "commentId": "gp:AOqpTOGMuDEz4VaLNNLV3sCOSvVIGSmesbvKzQsTuRzXSxNOO4PRoELmGu72AkpJuYhYiUot0y3Q9-9bu6NwJQ",
+        "author": "Adam K\\304\\205kol",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352328537101",
+        "starRating": "5",
+        "title": "Brilliant app",
+        "comment": "Highly recommanded :-)",
+        "commentId": "lg:AOqpTOG9U5fPByWRIZi7E-GZJzjsuEr04QUy94h7FOJvhF-9Dg59hd88gvrRQFkMWpoiGR7ozL6-T3lufNn-0Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "FATY CRM - Invoice Maker Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fat.activitydemo",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 11, 2013",
+  "version": "1.9.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "24",
+  "rating": "3.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "ENGINAPP",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fat.activitydemo",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "FATY is a CRM (Customer Relationship Management) for smartphones. Incorporates a number of features for managing customers, products, orders, quotes, payments, invoices, and activities.Allows the creation of customizable invoices in Excel format, to be sent to the customer as a quote or as a receipt for your order.Key Features:- Customer an Company Management (with import from the phone book of the mobile phone)- Product Catalogue Management (with barcode reading through your phone's camera* )- Orders and Quotes (Creating orders and quote produced by adding Products from the Catalogue. Products can be customized without changing the original product)- Manage payments- Invoice Management  (with export to excel and pdf files, with customizable templates with logo and company details)- Management ActivitiesFor information, reports and feature requests, please send an email to enginapp2012@gmail.com.Full App:https://play.google.com/store/apps/details?id=com.fat.activity* This functionality is provided by the application Barcode Scanner",
+    "reviews": [
+      {
+        "timestampMsec": "1362599952577",
+        "starRating": "3",
+        "title": "Complicated",
+        "comment": "Sorry either I\\'m too dumb or this is over my head! Need instructions ... I need to create simple invoices except I need not to type every item over n over. I didn\\'t get far enough with this to figure it out.",
+        "commentId": "gp:AOqpTOEPtVXinutzoCyjQu3mHExXh5pyVmVz8r7E1CZQrAwgTsawzJZIeps2l0LTu6O1idCUgpuSSRi7tH7lIQ",
+        "author": "Fred R. S.",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350658181284",
+        "starRating": "5",
+        "title": "Great application",
+        "comment": "Doing the job what I need to start my business this application safe me form typing on paper...",
+        "commentId": "lg:AOqpTOEBEWJ3u-2WM-RhmZnnNssw-EmsumV5CvBsTuRV5J_4ZsoBSFEkNYGD7F_hYXM9QtzKEMTj-_Q9GkrCtA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367662803330",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Exclnt",
+        "commentId": "gp:AOqpTOG9jQtYQX9OgMBPUIBG6pxcwn7kf2CiM-EZlgLIOYZAXlelhEzw7ar64IHt1oqJiHdj7rEebcxu4vYQuA",
+        "author": "Nadia Sultana",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

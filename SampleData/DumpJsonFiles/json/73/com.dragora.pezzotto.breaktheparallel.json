@@ -1,0 +1,52 @@
+{
+  "title": "Powerlifting Inclinometer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dragora.pezzotto.breaktheparallel",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "July 24, 2013",
+  "version": "1.3.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "20",
+  "rating": "4.25",
+  "contentRating": "Everyone",
+  "creator": "Luigi Papino",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dragora.pezzotto.breaktheparallel",
+  "extendedInfo": {
+    "installSize": "640k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "An inclinometer that warns you with a sound when it is below parallel.Useful when performing exercises such as: Squat, Box Squat, Bench Press Board, etc ...[Sensor]When you start recording, a beep indicates when the inclination will be over the parallel.You can set an offset if you want to change the threshold.For example, you can set an offset of \"+30\" if you want to do an half squats.You can also set an offset, for example, of \"-15\", for a full squat.The beep interval, is the minimun interval between two beeps.Use Volumes Keys to start and stop the recording.\t[Records]Long click to delete an item.[Chart]Shows the inclination/max inclination/velocity/acceleration of the lifts series[Offsets]Set an offset for the inclination in the various lift types.[About]This app was born from the desire to create a port to Android of a small part of the BANG Project, by the Engineer Paolo Evangelista (SmartLifting).If you are passionate, but also professionals, of powerlifting, I also recommend to read the the book by Evangelista: DCSS - Power Mechanics For Power Lifters.Useful links: - BANG Project:  http://smartlifting.org/category/bangproject/ - Developer's Web Site: href=\"http://www.dragora.net/smf2/  - http://smartlifting.org/\" - http://smartlifting.org/2011/11/29/dcss-project-the-endI want to emphasize that I am not in any way affiliated with the author of the original project.Thanks to \"Cristiano Morresi\" for the photo.[Tested Device]- Samsung Galaxy Nexus- LG Optimus One P500- Samsung Galaxy S3- Samsung Galaxy NoteTAGS: Powerlifting, Squat, Bench Press, Deadlift, Barbell, Inclinometer, BANG Project, Weightlifting",
+    "reviews": [
+      {
+        "documentVersion": "1.3.3",
+        "timestampMsec": "1364993217721",
+        "starRating": "2",
+        "title": "unreliable",
+        "comment": "the app is a nice idea. Unfortunately not very good.",
+        "commentId": "gp:AOqpTOGuCQ9BTFQGxuHE3ESyCBEBXjdqsiZkEfT-K2fNTZg093_A3Bzj_FsjH0M-XBBfuJoDX8W3qLIjFTk",
+        "author": "Paul Young",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.2",
+        "timestampMsec": "1359367681616",
+        "starRating": "3",
+        "title": "Keeps crashing",
+        "comment": "This app is great, if it works. It worked in the beginning, but now it just crashes the whole time. Would be nice if it worked. Will give more stars if working.",
+        "commentId": "gp:AOqpTOGgsn1dyjP2ZNW0WvKm_vA3kV4l9F8HPyJGjgitzR09Q4DG05OD8b8-twAz_Ou0n8LbIFnWa-biHTU",
+        "author": "Corn\\303\\251 Hubinger",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

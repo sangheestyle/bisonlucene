@@ -1,0 +1,33 @@
+{
+  "title": "Factory price",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.delice.precios",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "February 21, 2013",
+  "version": "0.1.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "8",
+  "rating": "3.375",
+  "contentRating": "Everyone",
+  "creator": "Proyecto Dèlice",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.delice.precios",
+  "extendedInfo": {
+    "installSize": "774k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Consulta y alertas en los cambios de los precios en origen de productos agro-alimentarios.Comenzamos, haciendo el seguimiento de los precios para el Aceite de Oliva en EspaÃ±a. InformaciÃ³n facilitada por Poolred (FundaciÃ³n del Olivar).Estamos trabajando para ampliar el servicio con el precio de otras lonjas y/o alhÃ³ndigas.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.delice.precios.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

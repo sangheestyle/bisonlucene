@@ -1,0 +1,51 @@
+{
+  "title": "Beautiful Moonlight LWP",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.custom.lwp.RoseMoonlight",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "May 22, 2013",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "15",
+  "rating": "3.8666666",
+  "contentRating": "Medium Maturity",
+  "creator": "Rose Lin",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.custom.lwp.RoseMoonlight",
+  "extendedInfo": {
+    "installSize": "588k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Try our beautiful Beautiful moonlight Live Wallpapers,always FREE, set it as live wallpaper.All resolutions supported from 240x320 to tablet resolution.We want to keep the app completely free, In order to keep free is ad supported and may contain ads in the notification tray and or home screen. This will help keep it free and help us bring you more cool apps like this in the future.You can delete the search shortcuts easily and without any effect for our app (Drag and Drop to the garbage).You can optout notification ads from: Airpush Optout : http://www.airpush.com/optoutLeadbolt Optout: http://opt.leadbolt.com/ SendDroid Optout: http://senddroid.com/opt-out/Tags: Moonlight sea live wallpaper sunset",
+    "reviews": [
+      {
+        "timestampMsec": "1370323184062",
+        "starRating": "5",
+        "title": "beautiful",
+        "comment": "Its so pretty and I like the dark water",
+        "commentId": "gp:AOqpTOFMWlKzdpxiyzZs9-WbxOlPo-foMcIu4vSpye6MiauhDxUOZUZQSVmGUCKfUgedrX_vC9IkMFju7n3cTMc",
+        "author": "Tumi Maribatsi",
+        "authorURL": "http://lh4.googleusercontent.com/-mqmInjl6cWI/AAAAAAAAAAI/AAAAAAAAA6Y/irakdlz5JDk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-mqmInjl6cWI/AAAAAAAAAAI/AAAAAAAAA6Y/irakdlz5JDk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "android.permission.VIBRATE",
+      "com.custom.lwp.RoseMoonlight.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Singapore Hotels +",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dakarastudio.maps.hotels.singapore",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 3, 2013",
+  "version": "1.0.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "17",
+  "rating": "4.647059",
+  "contentRating": "Low Maturity",
+  "creator": "Dakara Studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dakarastudio.maps.hotels.singapore",
+  "extendedInfo": {
+    "installSize": "734k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Looking for a hotel, a B&B or a lodging in Singapore? Search no more! This application has all the information you need: * You can use it if you are in a car, on a bicycle or walking * You can view all objectives on the map * You can search objectives * You can view objectives near you * You can view directions (visual route, distance and duration) * You can use it with Street View * You can use it with NavigationObjectives: * Hotels * Bed & Breakfast * Lodging * and more!Keywords: singapore, hotels, street view, navigation, bed and breakfast, lodging",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1364636133650",
+        "starRating": "1",
+        "title": "Looks like ok but incomplete",
+        "comment": "Hotels are not listed completely.  Where are Marina Oriental, MBS, Park Regis, Hotel Michael, Capella, Rasa Sentosa etc. Many are missed out.",
+        "commentId": "gp:AOqpTOH51Vy9J6g_sAUtgmSV7w39FT0i2DJjNNYo3jSYW14KHM8uBhFIK9RVwYFT7KEze5WmyhC_eK4Kqp7Bag",
+        "author": "Eddie Luen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

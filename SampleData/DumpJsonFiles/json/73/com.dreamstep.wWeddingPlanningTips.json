@@ -1,0 +1,32 @@
+{
+  "title": "Ask The Wedding Coach",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wWeddingPlanningTips",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 22, 2011",
+  "version": "0.17.13140.24408",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "ToNic Enterprises",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wWeddingPlanningTips",
+  "extendedInfo": {
+    "installSize": "106k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Get wedding planning tips 5 days a week from an experienced wedding planner to help your special day be memorable for all the right reasons.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wWeddingPlanningTips.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

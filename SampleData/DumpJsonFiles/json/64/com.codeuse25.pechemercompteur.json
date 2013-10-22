@@ -1,0 +1,34 @@
+{
+  "title": "Sea Fishing",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codeuse25.pechemercompteur",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 24, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Codeuse25",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codeuse25.pechemercompteur",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "(PÃªche poisson compteur Maps vous pouvez crÃ©er vos propres poissons regardez sa fiche)Mer pÃªche poissons compteur une application simple qui permet de compter facilement, de rÃ©fÃ©rencer vos prises de pÃªches a tout jamais.Vous pouvez prendre une photo de votre prise ou l'importer depuis la galerie d'image.Indiquez le poids du poisson, sa taille trÃ¨s rapidement et simplement.(je ne suis pas spÃ©cialiste de la pÃªche en mer donc si il manque des poissons importants ou si il y a des fautes surtout en dehors du franÃ§ais merci de m'envoyer un message et je corrigerai l'application je fais de mon mieux)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_OWNER_DATA",
+      "android.permission.WRITE_OWNER_DATA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

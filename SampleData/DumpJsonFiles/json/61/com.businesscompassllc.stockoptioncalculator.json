@@ -1,0 +1,31 @@
+{
+  "title": "Stock Option Calculator Advanc",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.stockoptioncalculator",
+  "category": "Finance",
+  "price": "$2.99",
+  "datePublished": "September 9, 2010",
+  "version": "4.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Not rated",
+  "creator": "Business Compass LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.stockoptioncalculator",
+  "extendedInfo": {
+    "installSize": "234k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "1. Computes European call and put price using Black-Scholes model2. Calculates option Greeks( Delta, Gamma, Vega, Theta, Rho)3. Derives implied volatility4. Accepts dividend yield as input5. Accepts expiration time and expiration dates  as input6. Save and e-mail7. Call, put, covered call and protective put graphs",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

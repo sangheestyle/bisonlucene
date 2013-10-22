@@ -1,0 +1,43 @@
+{
+  "title": "Conversational Koine Institute",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conversationalkoine.cki",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "April 11, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "T. Michael W. Halcomb",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conversationalkoine.cki",
+  "extendedInfo": {
+    "installSize": "13M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Conversational Koine Institute: Get Greek! Learn to speak biblical / Koine Greek. Use this app to register for courses or events, listen to free audio, and to follow & find out about CKI.  The Conversational Koine Institute, founded by T. Michael W. Halcomb, exists to help people \"Get Greek!\" Put differently, the goal of the Conversational Koine Institute is to enable people to learn Greek through a variety of means, especially speaking and conversation. In fact, the cornerstone of each class is conversation (hence the name). When paired with \"hearing,\" speaking is not just a quick tool to help you memorize but rather, a tried and true approach to helping you internalize a language. Besides, it's much more fun that rote memorization of vocabulary words. When one speaks a language, it comes alive. You might say that the Conversational Koine Institute is in the business of helping bring ancient Greek to life for modern students.  To this end, the Conversational Koine Institute has a number of useful resources to assist learners. Classes, workshops, audio, video, print, interactive modules and more are all meant to contribute to helping people \"Get Greek.\" We offer classes online as well as in-person.  The online classes, which are live and in real-time, allow you to learn Greek from the comfort of your home.  These online classes also often let you connect with other learners from all over the world.  For example, thus far CKI has connected with students from the United States, Canada, Germany, Brazil, Egypt, and more.  From time to time, private tutoring sessions/classes may also be available.  For more information about classes or other items of interest use the app or visit the website.Learn to speak biblical Greek.  Learn to speak Koine Greek.",
+    "reviews": [
+      {
+        "timestampMsec": "1372912980758",
+        "starRating": "1",
+        "title": "So many better apps",
+        "comment": "Poor. Not worth download.",
+        "commentId": "gp:AOqpTOG5hdW3VU1zNso65u7Q3dzm115OoLO9zrqBTZkcvSgS2HluLht1i7eLUGSgNPsEMpfIluLUGtjfVoAeakU",
+        "author": "Axel McCarthy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

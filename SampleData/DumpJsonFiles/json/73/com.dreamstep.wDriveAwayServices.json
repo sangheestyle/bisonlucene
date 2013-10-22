@@ -1,0 +1,32 @@
+{
+  "title": "Drive Away Services",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wDriveAwayServices",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "November 21, 2011",
+  "version": "0.21.13219.35464",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Joe Devlin",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wDriveAwayServices",
+  "extendedInfo": {
+    "installSize": "118k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "For those unfamiliar with the concept of a Drive Away Service, it is a vehicle delivery service.  We pick up your vehicle at one location and deliver it to another.  This is a convenient way for those that live in northern states and spend their winter at a vacation home in Florida, Arizona, New Mexico, to have their personal vehicle without the headache or hassle of driving.But snowbirds are not the only group that could benefit from a Drive Away Service.  If you are a professional and are relocating to a neighboring state or across country, this is a great way to get your vehicle there in a timely manner and leaving you to get a jump on settling in to your new home and position.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wDriveAwayServices.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

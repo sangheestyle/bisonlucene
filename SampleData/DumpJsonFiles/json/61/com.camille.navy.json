@@ -1,0 +1,38 @@
+{
+  "title": "US Navy Pictures",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.camille.navy",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "September 3, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Camille Espanol",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.camille.navy",
+  "extendedInfo": {
+    "installSize": "325k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Explore wonderful pictures from the US Navy archive, depicting aircrafts, crew members, battleships, special operations as well as daily life.Use the control buttons in order to load the next / previous picture, zoom it or even rotate it. You can also save it to your SD card if it is available and mounted. Each picture comes along with its description and its title.Pictures mainly originate from the US Navy collection archive, but the US Navy Pictures application has not been developped by the US Navy. More pictures will be added.Feel free to rate the application or send me some comments, whether you like it or not.",
+    "reviews": [
+      {
+        "timestampMsec": "1319326692950",
+        "starRating": "2",
+        "title": "All planes, no ships",
+        "comment": ".",
+        "commentId": "lg:AOqpTOEFpyQljl57K6E8bhtaFD5eeJaNuuHYA8dMwWTPytd8UurFVZ1XemTXuqvejj0i2ErED88Pf9TFBzVIiQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

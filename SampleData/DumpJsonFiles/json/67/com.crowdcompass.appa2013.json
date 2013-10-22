@@ -1,0 +1,38 @@
+{
+  "title": "APPA National Conference 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.appa2013",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 29, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.appa2013",
+  "extendedInfo": {
+    "installSize": "5.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Navigate the 2013 APPA National Conference & Public Power Expo. Customize your own conference schedule, view presentations, share your contact information with other attendees, learn about exhibitors, and access interactive floor plans.App Keywords: NC13, APPA, APPA 2013, Nat Con, APPA National Conference, public power.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.appa2013.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

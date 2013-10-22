@@ -1,0 +1,42 @@
+{
+  "title": "Nashoba Brooks Parent Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evertrue.nashobabrooks",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "November 15, 2012",
+  "version": "2.1.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "EverTrue",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evertrue.nashobabrooks",
+  "extendedInfo": {
+    "installSize": "5.5M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The official Nashoba Brooks School parent community app.  Securely network and connect with the Nashoba Brooks community around the world.  Includes a directory integrated with LinkedIn, maps, photos and more! Powered by EverTrue.Nashoba Brooks School Parent Mobile, Nashoba Brooks, Nashoba, evertrue, parent, community",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.evertrue.evertrue.permission.C2D_MESSAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

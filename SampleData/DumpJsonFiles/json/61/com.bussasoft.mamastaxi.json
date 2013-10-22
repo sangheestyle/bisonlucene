@@ -1,0 +1,42 @@
+{
+  "title": "My Private Taxi",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bussasoft.mamastaxi",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "August 7, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "BussaSoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bussasoft.mamastaxi",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you know how much a trip with your car really cost? Find it out with \"My Private Taxi\" !!!- Watch your realtime costs when you drive- Shows your driven distance in miles or kilometer- Tracks your position on a map with GPSBefore you start your trip, you need to specify the consumption of your car/truck/boat in miles per gallon or in liter per 100 km. After that, you need to  indicate the actual gas costs and then press start.\"My Private Taxi\" will now start to track your distance and show you the gas costs \"on-the-fly\".",
+    "reviews": [
+      {
+        "timestampMsec": "1375741973370",
+        "starRating": "5",
+        "title": "Great helpful app",
+        "comment": "A good possibility to check how much gas you spend for every trip",
+        "commentId": "gp:AOqpTOHBYQxZ0PYWrjnONcvGAFoM6ZhZD8epa5xiSITcH5NK_ufGSMdX4MaR_OwP9QsL3GSB5eHxpVmi0A6x2g",
+        "author": "Anna Kurapova",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.bussasoft.mamastaxi.permission.MAPS_RECEIVE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

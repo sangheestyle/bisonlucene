@@ -1,0 +1,57 @@
+{
+  "title": "No More Agent!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_fd7a989fa74e457d8294d943da34a0bd.app",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "December 16, 2012",
+  "version": "1.3.4.183",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "ItsApp2You",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_fd7a989fa74e457d8294d943da34a0bd.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "NoMoreAgent.com provides self-service marketing, advertising, and lead follow-up tools to help you SELL or RENT your home without a real-estate agent, allowing you to potentially save thousands in real-estate commissions. Due to the recent mortgage and real estate crisis, countless homeowners find themselves with little or no equity in their homes. NoMoreAgent offers a solution for individuals who wish to sell their home but who can't afford or don't want to take another financial hit by having to pay up to 6% in real-estate commissions. NoMoreAgent offers self-service tools that, first and foremost, offer HOPE to those who wish to sell or rent their homes.Use the No More Agent! service to advertise your home.  No More Agent! syndicates your home listing to multiple real estate portals across the web including sites like Zillow and Trulia.We give you an 800 number and a live rep takes all your calls and forwards the leads to you.Leads are collected into your Leads Dashboard from all over the web so you can follow-up with potential buyers/renters at your leisure.Use the No More Agent! app to check your leads and update your property information.",
+    "reviews": [
+      {
+        "documentVersion": "3.4.183",
+        "timestampMsec": "1355681944940",
+        "starRating": "5",
+        "title": "Thumbs up.",
+        "comment": "Easy to use and navigate! I love being able to access my property leads in the app, very convenient. Following up with property inquiries from the app...very cool! Definitely recommend this service and the app is a nice addition! Liked being able to update the price on my property without having to log in from my laptop.",
+        "commentId": "gp:AOqpTOHBctj3OSUkaC-Y4uKoZlLHYuNFxAFh0LUHeOg9q2AH2oObdJaZFxRbvvb1U1yJze0e06GktZ-Y-_2y7E4",
+        "author": "Amodth Jayawardena",
+        "authorURL": "http://lh5.googleusercontent.com/-zLAszBRcov4/AAAAAAAAAAI/AAAAAAAAADc/mknUbTOy90s/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-zLAszBRcov4/AAAAAAAAAAI/AAAAAAAAADc/mknUbTOy90s/photo.jpg"
+      },
+      {
+        "documentVersion": "3.4.183",
+        "timestampMsec": "1375563849818",
+        "starRating": "1",
+        "title": "sucks",
+        "comment": "its a wrapper for a website that is page not found",
+        "commentId": "gp:AOqpTOFO8_MGcg689badPzqJ_6G9KkocDzUNk1_lwufiqexqSQJm4St9XvHP1sPG8CfBaH7A9HTLGIpwNqVfcyY",
+        "author": "toothdestructo",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_fd7a989fa74e457d8294d943da34a0bd.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Meeting Cost Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cp2.meetingcostcalculator",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "February 10, 2013",
+  "version": "1.98",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "Carl Parziale",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cp2.meetingcostcalculator",
+  "extendedInfo": {
+    "installSize": "149k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Spinning Odometer tracks the dollars being spent in your meeting.   Enter Number of People * average Bill rate the odometer spins to track spend.  The Odometer adds an impressive sense of dollars being spent.As of V1.75 If application is left running on navigate away or exit, when the app is resumed or restarted, the Odometer continues as if not exited, dollars are accrued against the meeting.  If Turned off, the odometer and values are restored, but dollars are NOT accrued against the meeting.  This allows exit, saving battery, but on reopen, is still accurate measure of meeting cost, and allows breaks in the meeting to not accrue against the meeting totalnote: Update, as of September I now own an Android Phone, Sprint Epic Touch 4G.",
+    "reviews": [
+      {
+        "timestampMsec": "1365084028057",
+        "starRating": "2",
+        "title": "Bug",
+        "comment": "Bug:  Reset on its own during a meeting.   :-(   Love how can set a start time or cost before starting the meter.  Perfect for those meetings where everyone is waiting for someone who\\'s late.  Just what I was looking for!  Thanks!   Suggestions:  Wish full network access wasn\\'t needed. Wonder why # people takes decimal value.",
+        "commentId": "gp:AOqpTOEuyfIe1FS-IiI5WFd00koOXfsTz6gxOOSeneYpGU-aBSfHMAspPf_WTTM7EIpuhC9kpRB26xEmb2AEd6A",
+        "author": "Mark Good",
+        "authorURL": "http://lh5.googleusercontent.com/-yK_Fp_n-sGw/AAAAAAAAAAI/AAAAAAAAA1w/OtT6dl3HMiM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-yK_Fp_n-sGw/AAAAAAAAAAI/AAAAAAAAA1w/OtT6dl3HMiM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355722219534",
+        "starRating": "4",
+        "title": "Does just what it says",
+        "comment": "I can envision landscape mode conspicuously left visible for those droning on might get things moving.   But to help instill a sense of urgency... how about dollars AND cents?  And don\\'t pad the numbers with zeros.",
+        "commentId": "gp:AOqpTOH6YQGUMn-Sqfn3M3i4isswGhTAI10_2YWdT3rX505DQaFQcHF6s1Nj4lyJZIrC4SKVYSh0AO6kGk0v32o",
+        "author": "Quincy Acklen",
+        "authorURL": "http://lh6.googleusercontent.com/-dYF8KqOzmrs/AAAAAAAAAAI/AAAAAAAABkU/5484iGDAU_E/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-dYF8KqOzmrs/AAAAAAAAAAI/AAAAAAAABkU/5484iGDAU_E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1336537478677",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "I like this app so much you don\\'t. Have it get it",
+        "commentId": "lg:AOqpTOEvQeJpXpiiLnkjAvAgWE8XcU7EWbXc5XtFXZeizLj0sbqfqzGAjFK7A4Ev0-wmIB0IyafbvNYDIGzjoU8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

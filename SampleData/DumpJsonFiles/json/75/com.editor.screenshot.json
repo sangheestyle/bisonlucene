@@ -1,0 +1,67 @@
+{
+  "title": "Screenshot Editor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.editor.screenshot",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 24, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "23",
+  "rating": "3.173913",
+  "contentRating": "Everyone",
+  "creator": "ITGeek25",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.editor.screenshot",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Simply use the camera button to take pictures of your screen.Create a screenshot of your device and save to your sdcard. You can share your screenshots easily within the app.You can also have fun and mark things on the screenshot in the editor. Draw all over with an undo function.This application doesn't need root.No going to websites to download files to make this work...just a few seconds needed on PC. The app will do everything for you.If you have root, it will be faster to load the module required to use app. Just a click of a button. If you aren't rooted, then you will need to run a small PC program to enable the module on the device. Very easy and the app will do all the work for you. Just follow the directions. The app comes packaged with the program.ALL YOU WILL NEED is the adb usb drivers for your device installed on PC.You will have two options to get the program to PC. No visiting websites and clicking through navigation windows. You can transfer the file from phone to PC via wifi connection on a Windows 7 PC. Just enter your username and password (required) along with either your IP address/hostname of PC.You can find hostname of PC by right clicking on My Computer and then Properties.You can find IP address of computer by Start >> Run >> type \"cmd\" then in black window, type in ipconfig.Still testing on different devices:Droid X - works great rooted/unrootedDroid Razr HD - (needs root otherwise the image shows all red)",
+    "reviews": [
+      {
+        "timestampMsec": "1376139225330",
+        "starRating": "1",
+        "title": "Aweful",
+        "comment": "I followed all the Instuctions and it still didn\\'t work, uninstall",
+        "commentId": "gp:AOqpTOEQrcrHG7dFursurenjoJRzklwQBgOjM9Pgsq8f_qXHtmOmGTnbQh8OyXTTsFNNEZV5DvOAnQEnikm-4uA",
+        "author": "Kane Tilston",
+        "authorURL": "http://lh4.googleusercontent.com/-zufwpM9Aj5s/AAAAAAAAAAI/AAAAAAAAABQ/0ZxOP8HkNwE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-zufwpM9Aj5s/AAAAAAAAAAI/AAAAAAAAABQ/0ZxOP8HkNwE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377887389230",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Excellent. Worth it",
+        "commentId": "gp:AOqpTOG1eG139KKYZGaJvYVywY1GPfA74Q4vrf9tzqUGBkr8a16WwhuRCxuJ36XuUbpT9-EWRVAZXKoRXkeltB0",
+        "author": "Erick Anthony",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375383471644",
+        "starRating": "5",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOHmc9zQ1mzwppkLR3pIXt2AovfYZcYlcUwZVhh4041kHdv4XbzUOl29tjHQXUFBcinjRzCfB3HTEuxmtP4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371830458842",
+        "starRating": "1",
+        "title": "How to use?",
+        "comment": "Comfusing",
+        "commentId": "gp:AOqpTOE2Md3LxqB5ySQz-U7i4Z2OWVZ-7lIUN8xox7k9Iej0O-Z7uqQeQ4MFy6pSMR6cSgWCq5wueJ_0BI9FcNQ",
+        "author": "Noor Mohamad",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

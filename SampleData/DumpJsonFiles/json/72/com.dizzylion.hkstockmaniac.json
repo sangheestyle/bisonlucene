@@ -1,0 +1,47 @@
+{
+  "title": "Stock Maniac Hong Kong",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dizzylion.hkstockmaniac",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "May 5, 2013",
+  "version": "1.1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "DizzyLion",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dizzylion.hkstockmaniac",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Stock Maniac Hong Kong is a mobile game application which allows you to virtually play with the Hong Kong Stock Market. It is an exemplary Stock Market simulator application targeting novice users. Stock Maniac is also helpful for experienced Stock Market players who can use this application to build virtual portfolio.You can check your Daily, Weekly, Monthly and overall gain with the stock maniac simulator app.Stock Maniac Hong Kong is having a 15 minutes delayed service to that of the real time Stock Market. This application is nowhere responsible for losses accumulated in misuse, and this app should not be used to take any decision in the real portfolio of the user.P.S: This application is Ad supported",
+    "reviews": [
+      {
+        "timestampMsec": "1361907267256",
+        "starRating": "5",
+        "title": "Expectations r getting high",
+        "comment": "Next level of stock manic.. Good work.. All d best..",
+        "commentId": "gp:AOqpTOGLWB8u2arznnPge-o_nz2Ww5-VkGh4_jjAzUIOc2VeFAMYGNuanKLViPBor8Ts8KUyWGW04W-Aiw3_SCY",
+        "author": "madhurya umashankar",
+        "authorURL": "http://lh3.googleusercontent.com/-M2hfDgycLuk/AAAAAAAAAAI/AAAAAAAAIXk/hQEJpVHUxuk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-M2hfDgycLuk/AAAAAAAAAAI/AAAAAAAAIXk/hQEJpVHUxuk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

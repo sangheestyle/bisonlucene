@@ -1,0 +1,43 @@
+{
+  "title": "HappyReading-The Snow White",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.childhood.snowwhite.en",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "December 1, 2011",
+  "version": "1.0.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "happyreading",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.childhood.snowwhite.en",
+  "extendedInfo": {
+    "installSize": "28M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This \"The Snow White\" will be produced in picture books and audio presentation.These story have 3 reading modes.Read for me            This mode comes with audio readingRead it myself         The book will be read by parents or yourself.Recording Diy          Via recording, present the story with your own voice which will be saved in the system. You do not need to keep reading it from now on. Your kids will be glad to hear your voice telling the stories. While reading, you can click the main roles who have their own lines. Quick page-choosing is supported inthe system. The game mode can be activated during reading mode. The system will arise questions and it is time for you to prove your eyesight. There are numbers of stuffs hiding in the picture, come find it! The complete series of The World Classic Fairy Tales will be on shelf gradually. Please look forward to.",
+    "reviews": [
+      {
+        "timestampMsec": "1361597579775",
+        "starRating": "5",
+        "title": "Very beauty",
+        "comment": "Thank you my girl like to read it now they can\\'t sleep at nigh\\'t wit\\'h this",
+        "commentId": "gp:AOqpTOFn_xrL7hOw2lNuxQULXPxFkfYpcNlpTIM2wSf3e7l2rdxSoygmCDyZxQ3tc5CDbi9kQvbT0G8TSQHtKFE",
+        "author": "fatimah anisah",
+        "authorURL": "http://lh3.googleusercontent.com/-VJIplK_Fp7g/AAAAAAAAAAI/AAAAAAAAA0o/LXQTb4nYbdA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-VJIplK_Fp7g/AAAAAAAAAAI/AAAAAAAAA0o/LXQTb4nYbdA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

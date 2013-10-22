@@ -1,0 +1,46 @@
+{
+  "title": "Call me back",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.commandus.callmeback",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "June 20, 2011",
+  "version": "2.5",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "6",
+  "rating": "3.1666667",
+  "contentRating": "Everyone",
+  "creator": "commandus.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.commandus.callmeback",
+  "extendedInfo": {
+    "installSize": "40k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Simple application requests call back using \"Call me back\" service (where available). Save you time- ask for call back.",
+    "reviews": [
+      {
+        "timestampMsec": "1323531520237",
+        "starRating": "1",
+        "comment": "Does not work on Nexus One and Nexus S",
+        "commentId": "lg:AOqpTOGz7KXnJt0r7VbIrMZjxFUlZCanyYUPHLwSNSkxWFgJG-sciNjG8pOKmViK917NbxTG_E6FHBPicNdNhW0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342349639624",
+        "starRating": "5",
+        "title": "A",
+        "comment": "Very good",
+        "commentId": "lg:AOqpTOGeufjrlCFK0X2KjY7S5F1s3tJ_8qw5ji1sNdDN21lobKb6yF3EaHAKEpBbPDxlRFJOHCp6plLFik4iAK0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

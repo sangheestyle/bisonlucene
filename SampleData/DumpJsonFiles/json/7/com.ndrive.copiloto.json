@@ -1,0 +1,70 @@
+{
+  "title": "Vivo Co-Piloto Trânsito",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ndrive.copiloto",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "December 20, 2011",
+  "version": "11.4.03",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "77",
+  "rating": "3.6103897",
+  "contentRating": "Low Maturity",
+  "creator": "NDrive",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ndrive.copiloto",
+  "extendedInfo": {
+    "installSize": "7.7M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "==Only for Vivo subscribers==The application VIVO Co-Piloto TrÃ¢nsito transforms your Android in a last generation navigator. Besides the turn-by-turn navigation with voice guidance, you can also take advantage of a real time traffic information service, which is available for the cities of Fortaleza, Recife, BrasÃ­lia, Rio de Janeiro, Belo Horizonte, Grande SÃ£o Paulo, Campinas, Curitiba, Porto Alegre. Vivo Co-Piloto TrÃ¢nsito will calculate alternative routes, which allow you in real time to avoid delays, caused by slower traffic or even accidents. APP DESCRIPTION: â¢VIVO Co-Piloto TrÃ¢nsito weekly R$9,90 price includes 1 month turn-by-turn navigation + Live traffic RESOURCES: â¢Android full integration, quick alternation between applications and native keyboard use â¢routing calculation algorithms more precise and efficient â¢truly intuitive user interface and design â¢alternative route calculation based on real time traffic information â¢based on the NDrive-Navigation Systems software â¢all the resources you need in a personal navigation device Other dynamic features which make our navigation application simple and effective include: â¢3D Building rendering â¢travel assistance â¢adventure mode â¢sharing your route and current location on Facebook and Foursquare â¢searching and checking-in on Foursquare venues â¢advanced search of points of interest with Local Search â¢updated weather forecast for hundreds of Brazilian cities â¢the most recent maps of Brazil provided by Digibase",
+    "reviews": [
+      {
+        "documentVersion": "1.4.03",
+        "timestampMsec": "1344391343389",
+        "starRating": "1",
+        "title": "Lixo - Trash",
+        "comment": "Porque este app esta listado como FREE se e so uma versao de prova por 10 dias?????? E ainda por cima ao desinstalar deixa lixo para tras sem apagar!! Depois da desinstalacao nao esquecam de apagar o diretorio sdcard/Co-Piloto. Este troco tinha que ser da Vivo!!",
+        "commentId": "lg:AOqpTOGdGGKus4GrdrjABgujd8WD8eArOJPqZahGdYva328aMFLwTtFMtXfTcPOH7Gv-mbmqjRNW1bUYLXdDbJA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.03",
+        "timestampMsec": "1370344720866",
+        "starRating": "1",
+        "comment": "Nao funciona",
+        "commentId": "gp:AOqpTOEy8ydz370TqLaEtRPMn1tou7fpwo2Sp0R0twSGyHbpj2iPQ24ViXGfmICZvQhFHsb5kAuzEX0Or0ZA7Rs",
+        "author": "Bruno Arruda",
+        "authorURL": "http://lh4.googleusercontent.com/-FihxOr4abLY/AAAAAAAAAAI/AAAAAAAAAd0/NaptN679ICA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-FihxOr4abLY/AAAAAAAAAAI/AAAAAAAAAd0/NaptN679ICA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366380533200",
+        "starRating": "1",
+        "title": "Uma merda",
+        "comment": "Nao deveria ser listado como free,.",
+        "commentId": "gp:AOqpTOEI0bslVatS2TT4nwDOJWf4_x6xo1ga7EGxGOxzH_XS43MPHLh0nNttIq_dipVGCU_lEgWmdRYht05J22I",
+        "author": "Tobias Taurian Viana",
+        "authorURL": "http://lh6.googleusercontent.com/-3qY30HVwNjM/AAAAAAAAAAI/AAAAAAAAAt0/jTFSWR1Tj4M/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-3qY30HVwNjM/AAAAAAAAAAI/AAAAAAAAAt0/jTFSWR1Tj4M/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.PERSISTENT_ACTIVITY",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.intent.action.PHONE_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

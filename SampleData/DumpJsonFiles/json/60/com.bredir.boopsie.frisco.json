@@ -1,0 +1,60 @@
+{
+  "title": "Frisco Public Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.frisco",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 16, 2012",
+  "version": "4.5.87",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.frisco",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Includes:Check Your AccountRenew ItemsPlace HoldsSearch for Books, Movies, MusicAsk a LibrarianOne-click Access to Overdrive eBooks and Audio BooksLocation, Hours, and Contact Information Facebook, Twitter, YouTube, Flickr, and BlogsCalendar & Events\tHomework Help from Tutor.com",
+    "reviews": [
+      {
+        "documentVersion": "4.5.87",
+        "timestampMsec": "1349375947371",
+        "starRating": "1",
+        "title": "I wish it worked",
+        "comment": "I was excited to find this app since I\\'m an avid library patron.  Unfortunately, most of the app is broken.  When I click on \\\"My Account\\\", I get an error and cannot see any of my account details.  There is no place to enter my library id or password.  Also, when I search for books, a list of matching books does appear, but selecting a book takes me to a blank page.  I cannot see any information about the book.  If they got these features working, it would be a great app.  As it stands now, the app is unusable.",
+        "commentId": "lg:AOqpTOFsck28ofHIt6gTAdXPMHGKLImZ3amCYYHWynPNsFo8L3CxRMVf3s3Q-xGp_b4l34nhKdRX5YLr8CrWjQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.87",
+        "timestampMsec": "1349753454955",
+        "starRating": "5",
+        "title": "Wonderful!",
+        "comment": "Ian, you should try reinstalling.  This app works like a CHAMP on my Droid phone.  I can check my account, search the catalog, and all the other listed features with ease.",
+        "commentId": "lg:AOqpTOH666HsWQYJA3Qbr0o_PNUyuDfOsLyYdV2DwFIkyy2nmeWVXXmewEN1mHxONWSIhUbu3a_vZMRdMQI-5A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343934640602",
+        "starRating": "4",
+        "title": "My library!",
+        "comment": "Oooh!",
+        "commentId": "lg:AOqpTOF4dbdBnzUuz3AfiOR0BoW6Vg_MNvdelL-6Dy2jJ8urxrIBACzVdvFkMTpsk_-S4Qqf5npEg8OgQMKKWw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

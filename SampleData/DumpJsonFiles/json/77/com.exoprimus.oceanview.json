@@ -1,0 +1,31 @@
+{
+  "title": "OceanView",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exoprimus.oceanview",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "February 25, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "8",
+  "rating": "4.25",
+  "contentRating": "Everyone",
+  "creator": "exoPrimus",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exoprimus.oceanview",
+  "extendedInfo": {
+    "installSize": "447k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Earth is the only known planet with liquid water on its surface and is certainly the only one in our solar system. 71% of the Earth's surface is covered by ocean, more than half of this area is over 3 kilometres (9,800 ft) deep.Current sea level rise has occurred at a mean rate of 1.8 mm per year for the past century.Scientific evidence supports the claim that current sea level rise is caused by global warming.- Get daily update of sea surface temperature- Real-time tropical cyclone alerts with satellite views- Daily maps of wave and wind directions for all continentsWhether or not you are a sailor, this little app will interest you.Regular updates, internet connection is necessary.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

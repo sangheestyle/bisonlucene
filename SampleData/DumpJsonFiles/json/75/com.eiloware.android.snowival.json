@@ -1,0 +1,32 @@
+{
+  "title": "Snowival - Yeti Snowball Fight",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eiloware.android.snowival",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "April 13, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "eiloware",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eiloware.android.snowival",
+  "extendedInfo": {
+    "installSize": "606k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Everybody knows that you should never challenge a Yeti to a snowball fight. But with this little game you can have the fun without the danger!Don't get hit by the snowballs, collect the snow and upgrade your skills and power-ups to give those Yetis a taste of their own medicine. Use hats and boosters to gain the extra edge in your struggle with the yetis!Try to get a new highscore by avoiding the snowballs longer than everybody else - how high can you climb on the Snowival highscore ladder?",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

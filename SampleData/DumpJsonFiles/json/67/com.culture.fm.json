@@ -1,0 +1,35 @@
+{
+  "title": "Culture.FM",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.culture.fm",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "May 8, 2013",
+  "version": "1.1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Everyone",
+  "creator": "Warptec Software GmbH",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.culture.fm",
+  "extendedInfo": {
+    "installSize": "6.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "CultureFM was founded as TrueHipHop.FM in 2004 and since then has blossomed out into a small gem in the raft of online radios, prized highly by connoisseurs of the scene. In 2012 when the Mayan calender predicted the world coming to an end, it was really just the end of TrueHopHop.FM which instead evolved with SinnestÃ¤uschung Eventmanagement into Culture.FM, with a much broader range of music genres.To put it plainly: TrueHipHop International, which it's called now, still provides the finest underground stuff from all over the world, while TrueHipHop Germany evidently focuses on German Rap.Whoever needs a break from the beats will find diversity in the electronic sound of upcoming artists on SinnestÃ¤uschung.And now, please sit back and enjoy!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

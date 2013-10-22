@@ -1,0 +1,50 @@
+{
+  "title": "Second Hand Car",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsrsol.secondhandcar",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "April 23, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "DSRSOL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsrsol.secondhandcar",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The craze for second hand cars has reached a staggering height in the recent times. The reason for the increased demand of the second hand cars is due to its sustainability and reduced price. To know the best price of the second hand cars, there are many evaluating calculators in the market. But to use them seems to be a problem for many. Seeing the amount of problems that the customers have to indulge in, our latest android app âsecond hand carâ is sure to make you turn for. This app has some highlighting features to check out, they are: â¢\tLatest news on the second hand car pricesâ¢\tVideos to assist in second hand car value calculatingâ¢\tImages of the best selling second hand carsâ¢\tArticles and blogs on the second hand car loans.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.dsrsol.secondhandcar.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

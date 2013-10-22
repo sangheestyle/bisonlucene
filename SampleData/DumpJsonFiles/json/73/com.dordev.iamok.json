@@ -1,0 +1,42 @@
+{
+  "title": "I Am Ok",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dordev.iamok",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 24, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dordev",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dordev.iamok",
+  "extendedInfo": {
+    "installSize": "201k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "With \"I am OK\" app your parents will allways know (*think) that you are OK, not dead and remember about them.No matter where you are and what are you really doing.App will remind you to drop email message to your mom/girlfriend/boss daily or weekly and will do the job for you. App features:- Set up notification reminder- Set up message defaults- Optionally attach a photo - Nice alarm sound- Simple and friendly interfaceNotice: If you have found any issues with the app, PLEASE EMAIL ME! That will help me make app better :)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

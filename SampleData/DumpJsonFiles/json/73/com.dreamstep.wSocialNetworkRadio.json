@@ -1,0 +1,39 @@
+{
+  "title": "Social Network Radio Rock",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wSocialNetworkRadio",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "July 11, 2011",
+  "version": "0.14.1310.90660",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "3.6",
+  "contentRating": "Everyone",
+  "creator": "john sweeney",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wSocialNetworkRadio",
+  "extendedInfo": {
+    "installSize": "105k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome To Social Network Radio RockHome of Commercial Free Music 24 Hours A DaySocial Network Radio Rock Station plays great Classic Rock, New Rock, Blues, Heavy Metal & Great New Artists.",
+    "reviews": [
+      {
+        "documentVersion": "4.1310.90660",
+        "timestampMsec": "1310403714585",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "I am so glad I can take my favorite radio station with me where ever I go now. You guys rock.",
+        "commentId": "lg:AOqpTOH6n0JgmgZpFRgBT7Hvt1xRA1NWktTG8afuZiKAA2tnV40C-Aktf2HwPfENMnWyUf8u8-gjK121-n72xw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wSocialNetworkRadio.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

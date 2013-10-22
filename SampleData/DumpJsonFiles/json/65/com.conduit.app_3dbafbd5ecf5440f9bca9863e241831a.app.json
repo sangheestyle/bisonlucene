@@ -1,0 +1,47 @@
+{
+  "title": "Penn State Turfgrass",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_3dbafbd5ecf5440f9bca9863e241831a.app",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "January 18, 2013",
+  "version": "1.1.2.25",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Penn State Turfgrass",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_3dbafbd5ecf5440f9bca9863e241831a.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "WE ARE a world leader in the areas of education, research and outreach in the turfgrass industry.Initiated in 1929 through the efforts of committed clientele, it was one of the first turfgrass programs in the nation. It was the first to employ a turfgrass extension specialist (1934), the first to graduate a Ph.D. turfgrass scientist (1950), the first to offer a two-year technical program specifically for golf course superintendents (since 1957), and the first to offer an undergraduate major in turfgrass science (since 1992). But being first is not all that counts; it is the quality of the program that really matters.The Penn State Turfgrass Program has always kept the Land Grant mission in mind when developing its own vision. Based on these three principles, the turfgrass program at Penn State strives to remain a world leader in the areas of education, research and outreach in the turf industry.Our vision for the future is simple:- We will conduct fundamental and applied research to increase our understanding of turfgrass ecosystems and to help solve the problems facing turfgrass managers.- We will provide the industry with the best educated and trained students as interns and employees.- We will deliver the most dependable and accessible research-based outreach for the global turfgrass industry.- The Penn State turfgrass program will be recognized as the premier program of its kind in the world.Penn Stateâs educational programs have been educating students for the turfgrass industry since the 1950s.Penn Stateâs extensive research program finds solutions to the ongoing problems that professional managers encounter.Conferences, field days, and publications are just some of the many ways that Penn State disseminates new information and research findings.The Center for Turfgrass Science provides people, solutions, information, and training to the turfgrass industry.*******************The Penn State Turfgrass mobile application allows those interested in the turfgrass industry to keep in touch with the latest news, events and information related to turfgrass at Penn State.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_3dbafbd5ecf5440f9bca9863e241831a.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

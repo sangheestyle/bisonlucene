@@ -1,0 +1,53 @@
+{
+  "title": "ASN Kidney Week 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.asnkw2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 23, 2012",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "8",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.asnkw2012",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "At ASNâs Kidney Week 2012 more than 13,000 kidney professionals from around the globe will exchange knowledge, learn the latest scientific and medical advances, and listen to engaging and provocative exchanges between leading experts. The Kidney Week mobile application provides on-the-go access to meeting information, and features:Â°         Session and faculty detailsÂ°         Itinerary builderÂ°         Exhibitor list with interactive booth mapÂ°         Social media interactionÂ°         Special meeting alertsAbout ASNFounded in 1966, the American Society of Nephrology (ASN) and its 13,000 members lead the fight against kidney disease. ASN improves lives by educating health professionals, sharing new knowledge in kidney research and treatment, and advocating for advances in medical practice and scientific research that promote the highest quality care for patients.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.asnkw2012.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

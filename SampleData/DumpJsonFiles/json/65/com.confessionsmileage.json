@@ -1,0 +1,44 @@
+{
+  "title": "Confessions - Read and Confess",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.confessionsmileage",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "March 14, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "High Maturity",
+  "creator": "FB RJ Computer",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.confessionsmileage",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you want to make a confession?It is completely anonymous.Read others confessions.The app contains no ads.Share your secrets/confessions with our readers for advice or just for fun. All mail will be deleted after posting, you will remain anonymous. You have a option to opt for push notifications,If you opt then we will notify you when new confessions are available to be read.RULES1. Do not include names.2. Submissions will be moderated.3. Incredible posts will be ignored.4. Spams and defamatory posts will be ignored.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "com.confessionsmileage.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

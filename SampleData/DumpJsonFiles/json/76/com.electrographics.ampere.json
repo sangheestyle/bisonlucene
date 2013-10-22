@@ -1,0 +1,36 @@
+{
+  "title": "Ampère Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.electrographics.ampere",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "July 17, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Everyone",
+  "creator": "ELECTRO GRAPHICS Srl",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.electrographics.ampere",
+  "extendedInfo": {
+    "installSize": "949k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Applicazione necessaria ad impiantisti, progettisti ed elettricisti, che desiderano avere a portata di mano tutti gli strumenti indispensabili per un corretto dimensionamento e verifica dellâimpianto, in quelle circostanze in cui cresce lâesigenza di avere i dati di progetto disponibili nei luoghi in cui possono essere oggetto di valutazione e controllo.Sono disponibili due strumenti:1) Calcolo rapidoPermette un veloce calcolo della corrente assorbita da un carico in bassa e media tensione, il dimensionamento del cavo elettrico, la verifica della caduta di tensione e della temperatura di lavoro del cavo. L'applicazione offre la libertÃ  di impostare qualsiasi tensione e frequenza (50-60 Hz, corrente continua) di alimentazione, il tipo di carico (trifase, monofase), il fattore di potenza e la temperatura ambiente. Sono disponibili molteplici tabelle di posa internazionali per la bassa tensione (CEI 64-8, IEC 60364, NF C 15-100, BS 7671, UNE 20460, NBR 5410) e altrettante per pose in media tensione.2) ProgettiIl progetto di impianto elettrico creato con il programma AmpÃ¨re di Electro Graphics puÃ² essere inviato direttamente al dispositivo mobile mediante allegato di posta elettronica o copiando il file sul dispositivo stesso.I progetti possono essere aperti, visualizzati e modificati sul dispositivo e trasferiti successivamente sul computer con gli stessi strumenti, per poi procedere all'aggiornamento del progetto utilizzando la funzione âAggiorna da AmpÃ¨re Mobileâ.Potrete quindi lavorare direttamente sul 'campo' col vostro progetto AmpÃ¨re, eseguire verifiche a vista, scattare e memorizzare foto per ogni utenza, editare utili commenti da riprendere con calma in ufficio o da inviare ai vostri colleghi in tempo reale.Lâinstallatore potrÃ  utilizzare lâapp per condividere con voi il progetto stesso, segnalandovi tempestivamente eventuali problemi che potessero sorgere durante la fase di realizzazione dellâimpianto, e ricevere cosÃ¬ immediatamente le eventuali revisioni.L'applicazione non necessita di connessione ad internet.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

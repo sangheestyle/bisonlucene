@@ -1,0 +1,39 @@
+{
+  "title": "Sell Books Laurier University",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.laurier",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "December 8, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CutCom Software, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.laurier",
+  "extendedInfo": {
+    "installSize": "5.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Sell your used textbooks to the Laurier University Bookstore using this instant price quote app! It allows you to scan the barcodes of books that you'd like to sell using your phone's camera. You'll find out instantly how much we'll pay you for your used books. Please note: This application is able to use your camera to scan barcodes, however the camera on IPod Touch doesn't have the resolution to capture barcodes reliably. But, you can always type in your ISBN. This app was developed by CutCom Software Inc. on behalf of the Laurier University Bookstore. If you have any trouble, please let us know!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

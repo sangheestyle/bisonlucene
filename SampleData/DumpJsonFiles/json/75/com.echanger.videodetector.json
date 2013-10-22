@@ -1,0 +1,43 @@
+{
+  "title": "IP Camera Multi-Viewer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.echanger.videodetector",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "April 21, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "21",
+  "rating": "3.4761906",
+  "contentRating": "High Maturity",
+  "creator": "Xinhai Technology Co., Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.echanger.videodetector",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Xinhai Tech Launches camera Mobile Client App for android OS.Xinhai Tech, the innovative on-demand IP surveillance solutions and services provider,today announced the release of its Mobile Client application for the android android mobile phone and Tablet PC,As samsung I9300 GALAXY SIII,GALAXY Note I9220,HTC G23 One X(S720e),Moto RAZR XT910 MAXX and ect.You can using our this mobile phone software to monitor the Xinhai Megapixel IP security camera at your mobile phone very easy by WIFI or 3G wireless network.At Xinhai, we try to put our customers first; this new application allows customers to monitor the camera from any location, any time at all.The new Mobile Client application goes even farther, leveraging recent advances in smart phone hardware and software paradigms to deliver a native application with capabilities including:1.Up to 4 channel IP Cameras monitor simultaneously2.Live view and remote PTZ control3.Record and replay4.Snapshot and view5.Mutli-Language6.Two way Audio7.Supports Motion detection and Alarm.8.Access the camera by DDNS.9.Support the third stream for mobile monitor.Keyword:IP Camera,WIFI,Wireless Camera,Mobile Security Surveillance Camera,H.264,CCTV,DDNS,Webcam,Megapixel",
+    "reviews": [
+      {
+        "timestampMsec": "1363187216796",
+        "starRating": "5",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOE6XfNqlGMA2AegA6bC7AyAGz1dAGxnzMzNF0ZBu7WfRZCXy6-jg_t1-BGNYL5JZBE6MmIpiA5yb3_Ymg",
+        "author": "anirudh singh",
+        "authorURL": "http://lh3.googleusercontent.com/-rDctc9c7w4U/AAAAAAAAAAI/AAAAAAAAAFw/4_0HlljAbYw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-rDctc9c7w4U/AAAAAAAAAAI/AAAAAAAAAFw/4_0HlljAbYw/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.BACKUP",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

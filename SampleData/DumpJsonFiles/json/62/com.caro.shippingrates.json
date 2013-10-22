@@ -1,0 +1,43 @@
+{
+  "title": "Shiprate Compare",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.caro.shippingrates",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "April 8, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Carotechs Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.caro.shippingrates",
+  "extendedInfo": {
+    "installSize": "378k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Compare shipping rates fast and free with Shiprate compare.Accurate and fast calculator tool to help you determine domestic and international shipping rates from the three major shipping companies UPS, FedEx and USPS. Fill out the short form below and we show you the rates and delivery times of UPS, USPS and FedEx side-by-side so you can see which shipper offers the best price to ship your package. Save the time and hassle of going to each shippers website. compare shipping rates fast with us! Go ahead, give it a try",
+    "reviews": [
+      {
+        "timestampMsec": "1368498686774",
+        "starRating": "1",
+        "title": "good idea but not accurate information",
+        "comment": "the shipping rates are much lower than when you use the actual websites. the information is either not up to day or is inaccurate to begin with. disappointed.",
+        "commentId": "gp:AOqpTOFEI9GnmKQaRto0djZa_33boZwPqLxSblpyixI5G75Zma4tUOHAdv7NVkCGvPE0yaB6YONiIMjasvlqT78",
+        "author": "Kevin Li",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

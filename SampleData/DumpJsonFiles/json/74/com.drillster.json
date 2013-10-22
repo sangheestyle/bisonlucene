@@ -1,0 +1,36 @@
+{
+  "title": "Drillster",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drillster",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "December 13, 2012",
+  "version": "1.2.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "3.7142856",
+  "contentRating": "Everyone",
+  "creator": "Drillster BV",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drillster",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Drillster is an interactive learning and test application. This app is the platform's practice companion for Android.Drillster uses an adaptive (self-learning) algorithm and is based on the scientific research of Leitner and Ebbinghaus. Drillster remembers what an individual user has already memorized, what correct and incorrect answers have been given and when a user has last practised certain learning material. This information determines the order and frequency in which items are practised and repeated. The result is that users learn more in less time and remember the learning material for a much longer period of time.Drillster enables users to easily learn and test any kind of new or renewed learning material. Drillster ensures that the users are trained in the most effective way and that they retain their knowledge much longer compared to traditional learning methods.Drillster has been developed to learn, practice, repeat and test in a smart way. Where and whenever the user wants: in the office, at home, while traveling, using the computer, laptop, mobile phone or tablet. Learn more in less time.Drillster can be used for compliance training, certification training, language courses, training on products and services, induction courses, training on processes, procedures, laws or programs. It can basically be used for any type of training for which accurate and top-of-mind knowledge is important.Drillster determines for each individual user the optimal order and frequency in which learning material has to be learnt and repeated. The software can calculate someoneâs position on the learning curve (the curve of retention and forgetting) for a set of learning material. Scientific research has shown that when learning material is no longer used, people will forget up to 80% of the leant material within a week. Drillster changes this. It retains the proficiency by frequently repeating the material (spaced repetition). The adaptive Drillster algorithm determines when and how often material needs to be repeated in order to develop sustainable proficiency. Knowledge remains accurate and top-of-mind.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1360291109689",
+        "starRating": "3",
+        "title": "Not very convenient",
+        "comment": "It won\\'t let me add cards from my phone. Otherwise good.",
+        "commentId": "gp:AOqpTOGJqO4JmBDpRit3yBIBAwl_aqscW3wOH2huV7oDHC2FkY-BZ9vcSdRbZpOpdW4_vTqpsg4wuYw9f2TDzw",
+        "author": "Jean Simmons",
+        "authorURL": "http://lh3.googleusercontent.com/-7mX8b2ddBiA/AAAAAAAAAAI/AAAAAAAAAH4/tF0dxCgEOWg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-7mX8b2ddBiA/AAAAAAAAAAI/AAAAAAAAAH4/tF0dxCgEOWg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}

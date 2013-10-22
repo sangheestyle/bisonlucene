@@ -1,0 +1,52 @@
+{
+  "title": "Game in Town city free games",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flagtory.gameintown",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "2.2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "13",
+  "rating": "4.6153846",
+  "contentRating": "Low Maturity",
+  "creator": "Flagtory",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flagtory.gameintown",
+  "extendedInfo": {
+    "installSize": "23M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This App turns your city into a gameboard. Places (Bar, Restaurants, Metro, Parks...) are now games spots ! Challenge your neighbors on more than 100 funny different games and become the boss of your city !â mobile platform of localized games â â More than 100 games for all tastes in one pack ! ââ 100% free ââ¤ Built with love in Paris â¤-------------------------------------------------------â WHAT THE EXPERTS SAY â #Robert Scoble : \"Cool idea for a game !\" #RMC BFM Business : \"The funniest app to meet people in your area !\"#Les Echos : \"The wedding of games and location\"#Game One : \"Better than Foursquare !\" #Presse-Citron : \"Game in Town invents the Local Casual Gaming !\" -------------------------------------------------------â NEW - THE CITY IS A GAMEBOARD  â Now you can play with your city ! Game in Town connect people and places through games.The app turns your city is into a gameboard ! Places (bars, shops, coffees...) around you have been transformed into Game Spots. You have to control them !The goal is very simple : become the governor of your city by competing your other citizens.With the help of a map, find and take control of places around you by playing heaps of short games.The game is FREE so join us ! :) --------------------------------------------------------â ACHIEVE DAILY LOCAL MISSIONS âGet new daily local missions to achieve in order to unlock fun badges and sometimes real gifts or offers from your favorite local businesses in your city ! --------------------------------------------------------â MORE THAN 100 GAMES âGame in Town offers enough to satisfy all your gaming needs ! Find Puzzle, fast paced arcade action, racing sports, cooking, shooting, running, memory, sudoku, brick breaker games and many many more ! At work, at home, when you move, play everywhere and discover new games !--------------------------------------------------------â BECOME AN EXPLORER âGame in Town links people and places through games. Restaurants, shops, cinemas, bars have been turned into Game Spots. The goal is to become the governor of your city by controlling lots of places. Play in your favorite places, try to high score their linked games. They might reward your talent ! Thanks to the map, you can use Game in Town as a quick city guide, very useful when you just want to have a look ! --------------------------------------------------------â MEET NEW PEOPLE âGame in Town is very social ! Try to reach the top of the friends rankings ! You can chat with them in the app when you want for free ! Compete and meet new people ! --------------------------------------------------------â JOIN THE GAME IN TOWN COMMUNITY âDiscover secret places to control, news badges and special offers on :Facebook :  http://facebook.com/gameintownappTwitter : http://twitter.com/gameintownMore information on http://gameintown.com",
+    "reviews": [
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1378214280122",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Pretty fun,game",
+        "commentId": "gp:AOqpTOFmejG9Nj2lrI3azvAJjet65IrBP0vlOH0aOpY0-MWcQaxFphu0o-UH4JwNOuMqXYAJTygHZTebiRwbF-E",
+        "author": "Amy Stout",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_SYNC_STATS",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "com.android.vending.BILLING",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.flagtory.gameintown.permission.C2D_MESSAGE",
+      "com.flagtory.gameintown.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

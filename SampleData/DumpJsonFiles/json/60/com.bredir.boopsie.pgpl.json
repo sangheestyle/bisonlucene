@@ -1,0 +1,41 @@
+{
+  "title": "PG Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.pgpl",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 19, 2012",
+  "version": "4.5.87",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.pgpl",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Prince George Public Library is everywhere you are!Search for stuff, check your account, place holds, renew items, see when weâre open and find out about programs and events at the library, all through your mobile device.Accessing your public library has never been easier with this amazing app.",
+    "reviews": [
+      {
+        "timestampMsec": "1370377192717",
+        "starRating": "5",
+        "title": "Outstanding",
+        "comment": "Very useful, stable and convenient.",
+        "commentId": "gp:AOqpTOEpDkTsN_mf0ujo2noYTy54Ws937CitD2Q7zJwoJY0rBbS0czxEAnnlKdr4aIULbG0Xt8_vgT2yKMe8sw",
+        "author": "Brent DiGiuseppe",
+        "authorURL": "http://lh3.googleusercontent.com/-BmGtFM09XpA/AAAAAAAAAAI/AAAAAAAAAAA/0H3OL9Xn7Gk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-BmGtFM09XpA/AAAAAAAAAAI/AAAAAAAAAAA/0H3OL9Xn7Gk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

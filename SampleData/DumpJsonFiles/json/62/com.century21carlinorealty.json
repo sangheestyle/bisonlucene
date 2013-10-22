@@ -1,0 +1,44 @@
+{
+  "title": "Century 21 Carlino Realty",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.century21carlinorealty",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 10, 2013",
+  "version": "3.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "AppBuilderOnline.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.century21carlinorealty",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Use our App to view properties in Central Florida.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "com.century21carlinorealty.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

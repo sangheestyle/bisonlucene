@@ -1,0 +1,226 @@
+{
+  "title": "Icon Remover for Facebook",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ccswe.FacebookIconRemover",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 6, 2012",
+  "version": "1.0.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "130",
+  "rating": "4.792308",
+  "contentRating": "Everyone",
+  "creator": "Cory Charlton",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ccswe.FacebookIconRemover",
+  "extendedInfo": {
+    "installSize": "42k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "** NOTE: Icon Remover for Facebook will no longer be maintained. Check out \"CCSWE App Manager\" instead to hide icons for any application. https://play.google.com/store/apps/details?id=com.ccswe.appmanager **Icon Remover for Facebook is a simple application to remove the new Camera and Messenger icons that were added with the latest Facebook update. This application requires that the device be rooted and that the Superuser application is installed.Contact facebookiconremover@ccswe.com if you have any issues (we cannot provide any assistance with rooting your device). We are more than happy to offer any help we can with disabling these icons but cannot do anything if you simply give us a low rating instead of contacting us.Frequently asked questions:- Why does Icon Remover for Facebook require root access?Unfortunately the Android security model does not make it possible for one application to enable/disable components for another application. This makes sense for standard applications because you wouldn't want a competing application to be able to disable yours (ie: install MySpace and it disables Facebook). That is why Icon Remover for Facebook requires root permissions in order to achieve this.- What does Icon Remover for Facebook actually do with root permissions?Icon Remover for Facebook executes the Android Package Manager (pm) from the command line in order to disable two activities in the Facebook package.- You removed the two new Facebook icons but now I have a \"Icon Remover for Facebook\" icon. Can't you remove the icon for this application too?Unfortunately the only way to remove an icon is to disable the activity it is associated with which means it can no longer run. This setting persists across un-installs/re-installs so if we disabled the \"Icon Remover for Facebook\" icon you would no longer be able to run the application if you needed to restore the icons. We suggest you uninstall \"Icon Remover for Facebook\" after you have disabled the icons. Then if you ever need to restore the Facebook Camera / Messenger icons you can simply re-install this application and run it.NOTE: We've had reports that some users lose the Facebook icon from their home screen after enabling/disabling the camera/messenger icons. Unfortunately this is a side effect of enabling/disabling certain package components from the command line and not something we can fix. Rest assured that your Facebook icon is still in your application drawer and you can manually place it back on your home screen.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1336391728596",
+        "starRating": "5",
+        "title": "Thanks",
+        "comment": "All I can say, is thank you. Those were just plain annoying and had absolutely no purpose (at least for me).",
+        "commentId": "lg:AOqpTOGZjz7cqhEVfziI6TtuNrAv0wVKrgwgWNZJ_HjTQk2IEwo9Bj9Xd8VY3HKl7lvqrBgZXzAIOvftmVY7Vw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1336228261968",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Works great and love to get rid of those two extra icons! Thanks! -Vibrant",
+        "commentId": "lg:AOqpTOGuXbHXig5iHoZCAnZME5mwYurgOTxBpZQuwHX-fTdk4SmEsL-hj2HOhY0p05qQjxJaMQk4dwQL9w7pag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1336367564360",
+        "starRating": "5",
+        "title": "Worked but now obsolete...",
+        "comment": "The new Facebook app update removes the icons...  Seems like they have listened to the people for a change, unlike the profile change and now the time line.",
+        "commentId": "lg:AOqpTOF6qcwH03z1FpvvyOgpEBjcO4TMWjKBnjfobsahMm8GDTXIihZQRCfrxIJwck9tlM3mpFus91d2yIXx3Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1336011566230",
+        "starRating": "5",
+        "title": "Much needed",
+        "comment": "Since facebook doesnt know how to use widget integration they forced us to replace their 2 with this 1, worth it. Next step block facebooks access to the camera entirely!",
+        "commentId": "lg:AOqpTOH988DIRhCUpG0-DEuauu4ArMPL69MB9gL4uSZZg7eXF-pF9UFj3PAcciyhWDMhuVXnjodajLC3LTOh1g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335821284000",
+        "starRating": "5",
+        "title": "Brilliant!",
+        "comment": "Shame facebook had to be so annoying! In a perfect world, we would not need this app. I\\'m glad you are around to save the day. Kudos.",
+        "commentId": "lg:AOqpTOFW-eOSvVrBf3dgzVaBksRdn1pL84WvlSpG-3Uyl6SPwTGpnTD8wHqx8VA3oysYNFEpOIe0kGuolVzC1Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1336038510451",
+        "starRating": "5",
+        "title": "Hangs but does the job",
+        "comment": "This app won\\'t look like it\\'s doing anything but it removed the icons as said. Uninstall to remove its icon before rating.",
+        "commentId": "lg:AOqpTOGa9OQeDLb5XLr1WJNbDfggj7NCGp3QJnUeZTOHDfHSZqZDuWrQEVO2C5olLtLpREG31RG04OaEEgTxEg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335893357675",
+        "starRating": "5",
+        "title": "People are dumb",
+        "comment": "If you are left with this icon uninstall app after you disable Facebook icons. Function is not affected after this app is deleted.",
+        "commentId": "lg:AOqpTOEIY4y6VHFyw_oriT34nSGEPZVsWgQ85E6cMIdnzGnN0J4bUIdjH-HxxVNYbetXAuNL7UvE7y2bxygOYQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335653621557",
+        "starRating": "5",
+        "title": "I works.",
+        "comment": "Remove any one camera or messenger or both. Better have root and ics.",
+        "commentId": "lg:AOqpTOGojmqMCttEru6aTu1ZenIgTkf0r17L7A8mlgCRF5Nu77-ROvGWVKMKZK3n_ApX2dHl0AplhSbu3_Xibg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335665553430",
+        "starRating": "5",
+        "title": "Just what we needed...",
+        "comment": "After what fb has forced upon us. Thanks for the app!",
+        "commentId": "lg:AOqpTOG0wwqb2nZu3e44z2cJuN-16OJ_CusPE_vO9D3IAgdZKutz-mV9p2yb2IvirwdsZ3JmZxWnynqvqYoYDQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335682958585",
+        "starRating": "5",
+        "title": "Easy",
+        "comment": "Download, install, run, tibackup, uninstall, reboot.  No extra icons whatsoever; not from Facebook or this app.",
+        "commentId": "lg:AOqpTOGndL5KqBDIAkjFQbKL_PO4ycGPcG_wb6Mr7na2BpZm4_KxUlR3A03ZUf3287Wn35RXLxXlrAT6oYY2pg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335654079429",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "Excellent!",
+        "commentId": "lg:AOqpTOFFiXAr9KLeNGkRwhfDFOLEMkxFqIvM1Ys4-PfRmetAFEEHHfmvM8fYUaqJ6HrP2qITSRSQ0BRccu_3ww",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335736930929",
+        "starRating": "5",
+        "title": "Brilliant.",
+        "comment": "Thank you so much. Those icons were so obnoxious and annoying.",
+        "commentId": "lg:AOqpTOFmEc6d3jzhxpQahVHChqGUQR6BBXA4ihk6X6cWrFXhG00QhVp2Ccz0L1GubxEZFNu9STBRnWcf70JkMA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335669399577",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "It does what it says, but instead of just removing two annoying icons from the app drawer it removes two and adds one (this app). Figure out how to hide this app and it\\'s an easy 5 stars",
+        "commentId": "lg:AOqpTOHe6ibpH8_tXePx1j3mMJVzWsaWd6Qaj8Tf4_Bhn5_8pZ2cFRm1gyYLtSr2xTDorJzRJnOdgEaJed1OiA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335669406406",
+        "starRating": "5",
+        "title": "Thanks",
+        "comment": "Works! Hate facebook for doing this to us. It\\'s our device. NOT yours!",
+        "commentId": "lg:AOqpTOFVdfY7Nl0o74nEoo8EqzbjhugsWvMT10Mesd_QKbEq00AQrVl3HLdEGjRril6kuX_x32F1wtaBPu4QMw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335714450426",
+        "starRating": "5",
+        "title": "I love XDA!",
+        "comment": "Works as advertised, thanks.",
+        "commentId": "lg:AOqpTOGiSQAMu2XepFDYgJJWWQK1PWE5zStSEVEk_maiMHuF3zVsAa912AMyFBX0OiVzznsYHbyBaRzz9Q6hhQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335719755243",
+        "starRating": "5",
+        "title": "Awesome app",
+        "comment": "Does exactly what it says. Good app if you dint wanna mess with terminal commands.",
+        "commentId": "lg:AOqpTOG_utmsqVQhpGauXljtC1jU4uOySY8a0373EKd3fTlo5jSciUwGpa16QWNeoul8Jiw4awacPD7i11tdwA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335653422456",
+        "starRating": "5",
+        "title": "Awesome man",
+        "comment": "Looking for an app like this too.",
+        "commentId": "lg:AOqpTOH0aKVOa4PVj37w6JGyyOjlKM4ZeaycedQflKa4P1OdDnq_fesOHNZCyxw7rXoEVtVRafGlO0X118lOAw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335655247817",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "No longer in my apps!!",
+        "commentId": "lg:AOqpTOGcdqllDI6SZaix2TKrvqVCmlXwnr8s12mwuCHQ5j3RDlu-x723JiRH2YQPL_D3jGGyrz9dK6EtrtVKog",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335655557477",
+        "starRating": "5",
+        "title": "Hell yeah!!",
+        "comment": "Works perfect!!",
+        "commentId": "lg:AOqpTOERXRazI-xcUpUN9K48er2Xlu9sv2-85nbeD3W3uTxTR82tPjxkubBT8FULqNYSJaQwCKNR4L2jwKZMGQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1335797295708",
+        "starRating": "5",
+        "title": "Prefect",
+        "comment": "Removed them both! Easy as can be.",
+        "commentId": "lg:AOqpTOGnDOqaW4zlEc40PE1cS8INUIcJHDbR72JnusxxgsBhNifrtNVgqmACfuqd90Tdt4KMjyBO_q14ZTzyKQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

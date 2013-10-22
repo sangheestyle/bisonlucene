@@ -1,0 +1,33 @@
+{
+  "title": "Crowne Plaza Athens Hotel App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowneplazaathens",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "June 25, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "InHotelApp",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowneplazaathens",
+  "extendedInfo": {
+    "installSize": "771k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do not miss this app if you are about to visit Crowne Plaza Athens Hotel. This magnificent app has detailed information about the hotel facilities and services, travel guide, maps with attractions and hot spots close to the hotel and integration with your social media accounts in order to post photos and messages to your friends during your stay. The most important is that there is no need of internet connection in order to use the app. Enjoy your stay",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

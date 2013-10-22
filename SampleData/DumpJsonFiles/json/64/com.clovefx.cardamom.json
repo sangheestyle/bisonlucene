@@ -1,0 +1,47 @@
+{
+  "title": "Cardamom : Send vCards via SMS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clovefx.cardamom",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "November 21, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "CloveFX",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clovefx.cardamom",
+  "extendedInfo": {
+    "installSize": "262k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Remember the days in which your phone couldn't receive vCards sent by another brand's phone?.Make your smartphone smarter with Cardamom. Cardamom adds the feature to manage vCard/Business Card on your Android device. Now it's so easy to share your contacts on your device.With Cardamom it's now possible for you to send & receive vCards through SMS not as random text but in an actual vCard (vcf)format.You can import the vCard into your contacts in 2 clicks. That too directly from the vCard Bucket of Cardamom.Sending vCards is so simple 1)Go to your contacts apps2)Select share/send to 3)Choose Cardamom and send vCardCardamom will send vCard through SMS. It doesn't require data usage for sending vCard.Over the next -five- days after installing Cardamom you will be able to send your contacts in any of the three possible vCard formats or even as a plain text. All done in 3 Clicks.  After five days, you have to purchase Cardamom Pro license through an In-App purchase for sending vCards. Meanwhile you can continue receiving vCards without purchasing license.Tags: vcard , send vCard , bizcard ,clovefx ,receive vcard , sms vcard",
+    "reviews": [
+      {
+        "timestampMsec": "1373912629433",
+        "starRating": "1",
+        "title": "Not running properly :(",
+        "comment": "It starts asking to pay for full version and not working then after !!!! Even not working most of the time ...",
+        "commentId": "gp:AOqpTOFpVq2gp5PFUlUK_ZBpPQSlbJt6MueemgQ7u8B4loATUfePGg9mc3_biK7B13kRpwkMvc7ktz2X8PebtA",
+        "author": "abhay verma",
+        "authorURL": "http://lh4.googleusercontent.com/-CHiy3nrjisU/AAAAAAAAAAI/AAAAAAAAHrs/c_Zp6vLfXTY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-CHiy3nrjisU/AAAAAAAAAAI/AAAAAAAAHrs/c_Zp6vLfXTY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

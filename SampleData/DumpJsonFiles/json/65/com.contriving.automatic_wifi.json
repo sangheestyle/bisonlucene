@@ -1,0 +1,201 @@
+{
+  "title": "woofi - WiFi radio management.",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.contriving.automatic_wifi",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 30, 2011",
+  "version": "1.62a",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "39",
+  "rating": "4.051282",
+  "contentRating": "Low Maturity",
+  "creator": "contriving",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.contriving.automatic_wifi",
+  "extendedInfo": {
+    "installSize": "189k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Simply put, with woofi you define locations like \"home\", \"work\", or \"Joe's house\", and woofi turns your WiFi radio on when near those points and off when not.More detailed explanation:Say, for example, that the only place you connect your phone to WiFi is at home. This means you don't need for the WiFi radio in your phone to be on when you're not at home. The rest of the day it's just sitting there trying to connect to access points and wasting battery.With this app you would save your \"home\" location (and wherever else you connect to WiFi regularly...like at the office), and the app would keep track of your location throughout the day and when you weren't near these saved locations turn your WiFi radio off, and then when you were near them it would turn your WiFi radio back on.You can, of course, simply turn the WiFi radio on and off manually when you are at-home/not-at-home, the only purpose of this app is to automate doing this for you. I always forget to do this manually...thus the idea for this app.Most people seem to leave their WiFi on all the time and not realize that it's on because it just connects to networks that they've connected to before automatically.Here's what normally happens without this app: Once you've connected to your home (or office, or wherever) WiFi, Android will just connect to your home WiFi every time you're in range.  The only way it knows to do this is because the WiFi radio in your phone is on all the time looking for WiFi networks to connect to.This app replaces that procedure by checking your phones location and leaving the WiFi radio off unless it is needed.  Doing this saves battery life.NOTE: Please use the in-app email feature to send me any bug reports or feature requests!  I'll try and fix bugs ASAP.Features:--------------* Makes intelligent decisions about when to turn your WiFi on and off.* Add a location by picking a point on a map, typing in an address, using GPS to add your current location, or automatically remember locations of WiFi networks that you connect to (paid version).* Ad-supported version with one saved location limit.* Upgrade available to ad-free version with unlimited saved locations for 99 cents.Coming soon--------------* Ability to use GPS for location checks.* Toggle other phone settings based on location and WiFi status.",
+    "reviews": [
+      {
+        "timestampMsec": "1377864039775",
+        "starRating": "1",
+        "title": "Costing me money",
+        "comment": "Fails to turn on WiFi when at home and actually turns it off after a while whilst at home uninstalling",
+        "commentId": "gp:AOqpTOEOW18fYBmK4q4iNvs3u8heYqevEtsIjbiLih3sP_2cvLaOnUEe095otznrsrVW-XOg4lJx44p6DpBU_aI",
+        "author": "barry kelliher",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311370795496",
+        "starRating": "5",
+        "title": "Works great!",
+        "comment": "I always forget to turn my wifi back on when I get home, this app is saving me tons of bandwidth.",
+        "commentId": "lg:AOqpTOH1q0bvQ-rcb3m9nsVdq9P3slLBQPeiLwUaF_ByeGN6iLTn091R5RTDMFBH5DRKVmWGsPiR4jh4k5jzdcI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317230702574",
+        "starRating": "5",
+        "title": "Great soft",
+        "comment": "Easy to use",
+        "commentId": "lg:AOqpTOGPBdSoL5dOf6RJxuhgildtN7IOtDuHZiVZLNcZZj3Ga6d6yuB8MyV5Win7-bNVk0-E-CFpAOnPQ1bw7Gs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1318418338881",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "I like how this app waits depending on how long it would take for you to travel back to your hotspot.",
+        "commentId": "lg:AOqpTOFgZ28qXQdjw8JqNA3hoanskS79kkAREEn8WcwDDKxdKKuBXkqQAI_HBXf8BYmhMwNR8LwCWTT3D7IF8z0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1322856767456",
+        "starRating": "2",
+        "title": "unreliable",
+        "comment": "bought it, but regret it. shows old location. Doesn\\'t do it should do.",
+        "commentId": "lg:AOqpTOFzPsdrn3dbnj1Q6lRHJBL5Dae34nNWaAvSJNPM5O_wQZccjUy10FFfgmzRVaPotaivxL9ANVAJlSR6tPE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311373829706",
+        "starRating": "5",
+        "title": "Simple and great",
+        "comment": "Well worth the dollar for the unlocker. Saving me tons of money on overages on my data by flipping wifi on as soon as I get home. Great program.",
+        "commentId": "lg:AOqpTOGwnO4GpRsItALcU8IjYaN8V6xpDWsR5OIK_60wWDR8QZtp8VgDaMS3z9nmVUDqCFo16kDgWQ5ynR9TWf4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317535843707",
+        "starRating": "5",
+        "title": "Works great!",
+        "comment": "Awesome app, works as described!",
+        "commentId": "lg:AOqpTOGjfkaP5_bkv5UDs9vDMuDgipv_pS0gjXwtu1WqiUBOgaj2Qa3CnAYBAXBpA7GAQSg_9bcJOohWf32pLzA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1322068643122",
+        "starRating": "2",
+        "comment": "Unreliable. Good at disconnecting, but often doesn\\'t reconnect. E.g. uses day old GPS location rather than currrent location from phone signal...",
+        "commentId": "lg:AOqpTOFBUmNx4CWQu_E0u45ZVW6naghhRrWvIRhJWu_iuReekSF5KFTN2B-EIxzUDWSiAubN62YVsroKHfbOHpc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1326586178151",
+        "starRating": "3",
+        "title": "Turns off mobile network too",
+        "comment": "Have tried several of these auto wifi apps and either they don\\'t work or they do like this one and shut down the mobile network too. Have to reboot the phone to get it back. Is it a limitation of Android? Think this app was also sucking down RAM like no tomorrow!",
+        "commentId": "lg:AOqpTOFIhe-fhP6jyc3rOozbthKuhYl4kIRtXfwls9Iu6Y7R-fIb7BcbtYr25NzF51Lyq1CoqOb3UbnLiyeGsXg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1318366577327",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "I travel between two wireless networks daily, this app automatically saves my battery when I\\'m not near either of them. Great on the road too!",
+        "commentId": "lg:AOqpTOHlUSjpf_d8hZgIS_4jUKWovtFroNO1hT_BfN9rKTR5zQXKI2IglflqpOvrTsNabxe4KgXfZ0D-v-kmH3E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339387474716",
+        "starRating": "5",
+        "title": "Jos\\303\\251 A.",
+        "comment": "\\\"...jtt it out; f\\'db\\'k later...thanks...\\\"",
+        "commentId": "lg:AOqpTOEtZlc68L0ratr6U9Si9jPk98z6CtvTcsXNo400SgzIJaD7M7oSBiHMJRTXmLR5GZZP7LvTeEVgSD1Ku4I",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1312513319086",
+        "starRating": "4",
+        "comment": "This app works exactly as described. It saves my data plan! I never forget to turn on or off the wifi anymore.",
+        "commentId": "lg:AOqpTOFpgbKVHbsVepT06_C6p7Z2vRIoJdc9TX42xywc0L5fOqS5Fs4vHzRe_YpEFy3eDll5ui7aN1zghz6MbRE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310622017419",
+        "starRating": "5",
+        "comment": "Just what I was looking for! Thinking of upgrading .",
+        "commentId": "lg:AOqpTOHaTucFUznWQga9gLSg_U4u2iATEcAwc0yremjsGNeelX5TnBN-wcEtQcbqIwS_Rjiev-jHYvsy08QqUlA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320509735588",
+        "starRating": "5",
+        "title": "do you need this",
+        "comment": "you need this",
+        "commentId": "lg:AOqpTOHuU38tXmW44YJSXqPmcCMRuj0xSjj_neM9f4BVsNSAr9EYsUPGpPitQJumq8U6jLZyLMyKCljPgsRggDA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1302349982694",
+        "starRating": "4",
+        "comment": "Works pretty good. Delete demo location after setting home location. Evo Shift.",
+        "commentId": "lg:AOqpTOGM00QK36F3HWGmN_XTmEUBk2FJIfwAb5LekhOK4gdSTPPEtRjT2Ca6Dwmd3vomfNSuPLkprT4s5TmxGRk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1302442245613",
+        "starRating": "4",
+        "comment": "Seems to be working well, switching between two locations at the moment.",
+        "commentId": "lg:AOqpTOFzA6iV2CwMoKJDB582n4MGMiX2SKkVIyJZlvit68cuTY3Lx83Obo9TiH8_YfZ8QZC8BourvJLO1APyUWA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1301956189407",
+        "starRating": "5",
+        "title": "Exactly what I\\'ve been missing!",
+        "comment": "Works exactly as described. The wifi is turned on near my house, and switches off when I leave. I no longer have to do it manually, which is good because my manservant only works half-days.",
+        "commentId": "lg:AOqpTOEQzbinJi7obfztKtFwfulZE9Bid3l5da2WBcO8Rzv_3W_qjfM9VRYF5zLXZSVgUoLLD2xKQUGsw39UWoM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1301838264985",
+        "starRating": "5",
+        "comment": "Works great. I\\'ve set up home and work locations since that\\'s the only places I need the Wifi turned on. Easy setup. Verizon DroidX",
+        "commentId": "lg:AOqpTOG2OIT-NE4TqDY0Db7KSrkjIF3NJCoOZ92LkPXnu6SXz2joPGle0xJjBalPL6QY6d8qmOnJAObuGVIIqDo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1301788091758",
+        "starRating": "1",
+        "comment": "Couldn\\'t connect to router and wouldn\\'t disable. Had to uninstall AND restart to get control of WiFi on LG Optimus S.",
+        "commentId": "lg:AOqpTOEwkSXymUTH5PykVs4XWuzvo0c3Dsn4vbLLsUyhc2GKVzZ3LtJSG5bgK7XRc0_xYURAOcalDEGVrNJiEkA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.UPDATE_DEVICE_STATS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Tokyo Subway Map",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.quirion.maps.tokyo.subway",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "November 29, 2012",
+  "version": "2.1",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "10",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "QUIRION SOFT",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.quirion.maps.tokyo.subway",
+  "extendedInfo": {
+    "installSize": "463k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Tokyo Subway Map Image App.Fast, simple, easy and very usefull. The High Definition image of Tokyo subway map.Enjoy it!",
+    "reviews": [
+      {
+        "timestampMsec": "1358543320574",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "On my DROID RAZR max",
+        "commentId": "gp:AOqpTOFMHom0rbS724nFmU3h_ftKcNGtfLIV_3z3PjGrNmf5cLkS-eeh9NJbHSqq4Mqd7mfjNLTzIW2hMPxzRw",
+        "author": "Alex Anderson",
+        "authorURL": "http://lh5.googleusercontent.com/-poSLJvDBrys/AAAAAAAAAAI/AAAAAAAAAHU/VChSu-lw-Os/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-poSLJvDBrys/AAAAAAAAAAI/AAAAAAAAAHU/VChSu-lw-Os/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369058078027",
+        "starRating": "1",
+        "title": "Does Not Work",
+        "comment": "Installed and launched - just get a white screen. Un-installed. HTC One X.",
+        "commentId": "gp:AOqpTOFROUoYubOGleGL8hykfyku-CZP_ujqIQ84o1iVseqharbMEVr35ypkNljVQYCCy4yrlWKv2J11Vk2F5Q",
+        "author": "Mat Gould",
+        "authorURL": "http://lh4.googleusercontent.com/-NFHEV0YjC1U/AAAAAAAAAAI/AAAAAAAAAFw/Oedgsvd8wPI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-NFHEV0YjC1U/AAAAAAAAAAI/AAAAAAAAAFw/Oedgsvd8wPI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

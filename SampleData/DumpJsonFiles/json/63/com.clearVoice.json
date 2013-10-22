@@ -1,0 +1,58 @@
+{
+  "title": "Clear Voice Sip Dialer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clearVoice",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "April 17, 2013",
+  "version": "1.1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Clear Voice Calling",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clearVoice",
+  "extendedInfo": {
+    "installSize": "5.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Android SIP Client is the latest offering by Clear Voice Sip Dialer that makes entry into the android apps stores. This newly developed Android VoIP Mobile Dialer enables any Android based mobile phone to make VoIP call by using the internet connection.  Other new and advance features are also going to make this android app likeable to mobile users as well. By integrating and registering with SIP server, Android SIP Client let user make calls without any fuzz. It is compatible with all the latest android based mobile devices. Give your android mobile the power of VoIP calling with Android SIP Client.Features:-\t* User Friendly, Advanced and Smoother GUI\t* Multi Language (OS Specific)\t* Unlimited user license\t* SIP protocol support\t* Making and receiving calls\t* Codecs supported:g729 g711,GSM,g722,iLBC\t* Advanced Phone Book (Contact manager with name number,profile pic and searching )\t* call hold\t* call transfer\t* Call Log\t* Call Status Indicator\t* Save / Edit Username & Password\t* Work with all standard SIP SoftSwitches\t* Android  1.5, 1.6, 2.x, 3.x, 4.x\t* Silence Suppression\t* Echo Cancellation\t* Auto Registration and Timeout",
+    "reviews": [
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1367394957627",
+        "starRating": "5",
+        "comment": "Nice app & good voice quality.....",
+        "commentId": "lg:AOqpTOHGgjrIX06o-OgKqtlGDUUGiZkDppXBl72LhB0fDHLvmkvhk-_-Q0GrBIL3X7HcHw8CjvJjAu_HVvXFYQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_LOGS",
+      "android.permission.USE_SIP",
+      "android.permission.CONFIGURE_SIP",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PROFILE",
+      "android.permission.WRITE_CALL_LOG",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

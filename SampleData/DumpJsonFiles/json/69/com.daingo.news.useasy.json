@@ -1,0 +1,36 @@
+{
+  "title": "EasyNews US",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.daingo.news.useasy",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "January 7, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "8",
+  "rating": "3.375",
+  "contentRating": "Everyone",
+  "creator": "Daingo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.daingo.news.useasy",
+  "extendedInfo": {
+    "installSize": "138k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "You are having difficulty typing addresses or selecting sections of news websites? This app is for you!EasyNews US provides you a list of the most major news websites in US and supports an Android native control to select a section of website (Technology, Sports...). Reading news now is very easy on Android.Supported news sites:  * CNN news (cnn.com) * ESPN news (espn.go.com) * New York Times news (nytimes.com) * Huffington Post news (huffingtonpost.com) * CNET news (cnet.com) * FOX News (foxnews.com) * NFL news (nfl.com) * Wall Street Journal news (wsj.com) * BBC news (bbc.co.uk) * Bloomberg news (bloomberg.com) * Yahoo! News (yahoo.com) * Google News (google.com)",
+    "reviews": [
+      {
+        "timestampMsec": "1294537036555",
+        "starRating": "1",
+        "comment": "Sucks",
+        "commentId": "lg:AOqpTOEjKLo4hDoIZZXi55l6qinSpfc0IxfdjwmsEKGwUHhHrxwVSMsVl019XIumk_4t2NdxCEtDOl_SEqTrQQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

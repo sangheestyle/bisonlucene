@@ -1,0 +1,59 @@
+{
+  "title": "Nightclub & Bar Show 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dazzmobile.ncb",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "March 13, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "High Maturity",
+  "creator": "Dazzmobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dazzmobile.ncb",
+  "extendedInfo": {
+    "installSize": "7.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official app of the 2013 Nightclub & Bar Convention & Trade Show. Plan your conference itinerary, browse the expo hall exhibitors, play trivia, interactive games and more. It's the entire NCB Show at your fingertips.",
+    "reviews": [
+      {
+        "timestampMsec": "1373671487479",
+        "starRating": "5",
+        "title": "Great app!",
+        "comment": "Cant wait for next year!",
+        "commentId": "gp:AOqpTOGiJ21W-QgwVEZ8upJIuqHkVnnbE_62L-5J7qafPSMjbDw14BpkLpFVUecOxMapq5ot8mBfWbpG9De2-_E",
+        "author": "mike kozub",
+        "authorURL": "http://lh5.googleusercontent.com/-MKHBTZabv00/AAAAAAAAAAI/AAAAAAAC118/C6Nvi0Y8Xjg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-MKHBTZabv00/AAAAAAAAAAI/AAAAAAAC118/C6Nvi0Y8Xjg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363289065476",
+        "starRating": "1",
+        "title": "Not working EVO 4g",
+        "comment": "Just the display screen.",
+        "commentId": "gp:AOqpTOGp0iZ-x8Yxqs6klWUSOpoBgEFENpILx5HY_h_5ChDRf8aycJ9ZKv1vu0i6Z08zAA_fy9RK7o3ThfgksGc",
+        "author": "Mike McKeown",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.dazzmobile.ncb.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

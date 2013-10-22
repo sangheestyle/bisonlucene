@@ -1,0 +1,38 @@
+{
+  "title": "Great Wisdom Quotes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coderz.sayings",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "January 8, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Everyone",
+  "creator": "Coderz",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coderz.sayings",
+  "extendedInfo": {
+    "installSize": "605k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This is an app that contains quotes that will surely improve your life, that will let you know what is wrong in your thinking and will help you to realize the problem and correct it. This application currently contains 20 great wisdom quotes that will change your life and change you thoughts about life.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "aDos2Unix File Converter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dos2unix",
+  "category": "Tools",
+  "price": "$1.95",
+  "datePublished": "July 16, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Ann Kay",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dos2unix",
+  "extendedInfo": {
+    "installSize": "31k",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "This is an Text File Converter to handle conversion of the text file line ending across diffrent OS platform.It can do the text file conversion between with Dos/Windows and Unix/Android,also between with Mac and Unix/Android.This is the Android version of the classic utility of Dos2Unix and Unix2Dos.Features:1)Support Dos/Window,Unix/Linux/Android And Mac2)Automatically skips binary and non-regular files3)Keep original file dates option4)Have Overwrite and New File Mode.More features will be coming,any feedbacks will be  appriciate.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "ENDO 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_endo13",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "June 12, 2013",
+  "version": "4.2.5.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_endo13",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "ENDO 2013, The Endocrine Society's 95th Annual Meeting and Expo, takes place June 15-18  in San Francisco, CA. ENDO features a program with more than 200 scientific sessions focused on all areas of endocrinology-from basic and translational research to clinical research and practice. ENDO offers an excellent venue for networking and scientific exchange. Each year, ENDO attracts more than 2,300 abstract presenters. It is the venue to share their research with more than 8,500 endocrine researchers and practitioners.The Endocrine Society, founded in 1916, is the world's oldest, largest, and most active organization devoted to research on hormones and the clinical practice of endocrinology. The Society works to foster a greater understanding of endocrinology amongst the general public and practitioners of complementary medical disciplines and to promote the interests of all endocrinologists at the national scientific research and health policy levels of government.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.tristar_endo13.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

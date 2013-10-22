@@ -1,0 +1,75 @@
+{
+  "title": "Geeky Video Player",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.echolu.android.geekyvideoplayer",
+  "category": "Media & Video",
+  "price": "$0.99",
+  "datePublished": "August 14, 2013",
+  "version": "1.5.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "19",
+  "rating": "4.1578946",
+  "contentRating": "Everyone",
+  "creator": "Echo Lu",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.echolu.android.geekyvideoplayer",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "50% off!! Limited time only.Right now GeekyVideoPlayer only uses hardware decoder which is part of Android system, so if the hardware decoder of your phone doesn't play a specific type of video file, GeekyVideoPlayer cannot play it either. But in future versions we are working to include a software decoder which can play wider range of video file types.Perfect replacement of the in-stock video player with unique features found in no other video players:1.\tPreview frames from entire duration of any video on its timeline in an interval of 10 seconds to 15 minutes.Before wasting time watching a video, why not first take a sneak peak to make sure it is actually the one you are looking for? Yes, you got video thumbnail already, but it is just one random frame taken from the video. Did you ever find yourself in trouble in finding a video you took a long time ago? You opened up one video, played and dragged the seekbar a little, found out it wasnât the one you were looking for, then closed it, opened another one, then repeat.  Now you donât have to, because you can preview frames from the video on its entire timeline and it is fast!2.\tPrecisely and directly seek to interesting segments of any video.So you found your favorite video, and it is not a short video. You wanted to show your friend that there is really a cool segment of it, but it is buried somewhere in the video. Previously you had to try dragging multiple times on the seekbar to find where to start playing. Now you donât have to! With Geeky Video Player, after previewing frames on the timeline you can click on a frame to directly seek to that frame and start playing right from there.3.\tPrecise tracking wheel.Now this is where it gets really cool. Ever found that your finger is too fat dragging on a small seekbar on your phone screen and you were really frustrated in trying to precisely rewind just a little bit on breath taking segments of a video? Now with Geeky Video Playerâs cool transparent tracking wheel, you can precisely go to any seconds of any video with a breeze, no more fat finger frustration!4.\tFour way manual rotation lockWatching a video while lying in bed? WTH the orientation of the video is always wrong! Why? Because you are parallel to the ground and the automatic orientation of the phone is never designed to deal with that. Now you have Geeky Video Playerâs 4 way manual rotation lock, you can change and lock the view of the video in any of the 4 direction (portrait, landscape, reverse portrait, reverse landscape)! No more twisting your head, twist the view of your video instead!Known issue: To have 4 way rotation lock, you have to have 2.3 Gingerbread. On 2.2 Froyo, you only get 2 directions.Video frame previewing feature works less ideal on some .flv, some .wmv and .3gp files taken with <= 2.0 Android system. However we are determined to improve our preview engine so it works better for more files.Some .flv files are reported as zero time length.(grab frames, frame grabber, preview frames, frame previewer, precise seek, tracking wheel)",
+    "reviews": [
+      {
+        "documentVersion": "1.5.6",
+        "timestampMsec": "1376606309971",
+        "starRating": "3",
+        "title": "No library?",
+        "comment": "Bizarrely, there\\'s no way of searching for videos within the app. If you open the app it just tells you to close it and use a file manager to open your videos. Seriously flawed.",
+        "commentId": "gp:AOqpTOGXs7GeY41kibXG6cHZjGc5PMOhcLkEjyKkFBqO14f6vChTRKdgofB5vCNEDpL7Ppqdv78DVo0lXycyGA",
+        "author": "Owen Tooth",
+        "authorURL": "http://lh5.googleusercontent.com/-igx9GNHQwJ8/AAAAAAAAAAI/AAAAAAAAODw/hBLlErPRR24/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-igx9GNHQwJ8/AAAAAAAAAAI/AAAAAAAAODw/hBLlErPRR24/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1345713007731",
+        "starRating": "5",
+        "title": "Top shelf app!"
+      },
+      {
+        "commentId": "lg:AOqpTOEgoYrouSMTvErrC5IkDlqH2hecBj59MMJUOA3yLxr4Bw2_35PBsCk7O7o6vZVL9oqWTyqsTaVeTuKeVA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1346546080373",
+        "starRating": "3",
+        "title": "Great but needs refinement.",
+        "comment": "The things that make this app unique, the thumbs, the wheel, the variable manual rotate, all of these are great. But it crashes as soon as any other app interrupts, such as text message app, etc. I will still use it and will contact the developers sooner or later, but until it is better at error catching I won\\'t give it 5 stars.",
+        "commentId": "lg:AOqpTOEg5rEQ1sPmXslrM61YQIIhnSAjDCTL3T36RAXyZrjOy8ajTRy-HdOB1zmGKdnPRTSFwPflez7kwZNlDw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1339558939096",
+        "starRating": "4",
+        "title": "The start of something special",
+        "comment": "This player is simple and effective. Thumb wheel performance is solid. Needs streaming ability and brightness adjustment.",
+        "commentId": "lg:AOqpTOEW7Bs4aiaY92DHwUJQIv9OJbX9qABMAuBqB_QZAbPFQRRYJP-itE756ft4akG0NwJ7CD34pdvXejtTxg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320385091857",
+        "starRating": "3",
+        "comment": "Love the wheel and the scene selector but it doesnt play enough formats wouldnt playthe flv files I tried",
+        "commentId": "lg:AOqpTOHSgh7C13i_blz5yZ1CaNHWy_V7NAATbSfWJ6HQ4cRM-FbsW7qXngNzH6BO0FKTAmeyQIuyxDno1LMU6Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "iTech Report",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_e9e35808f8794c18a076ddac5bebae29.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "April 7, 2012",
+  "version": "1.8.12.2032",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "iTech Network Australia",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_e9e35808f8794c18a076ddac5bebae29.app",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Get all the latest content from across the iTech Network on your Android device today with the new and revamped application.This ad-free application focuses on the best in Australian technology news and reviews from across the iTech Network of sites including iTech Report, iGame Report and iTech Reviews.The app now also boasts support for our newest site, iTech Jobs, which lists the latest Australian IT jobs for just $10 for 30 days.Other features include:-View the latest Australian technology news with iTech Report news and comments-View the latest Australian gadget reviews on iTech Reviews-View the latest Australian gaming news and comments with iGame Report-Check out the latest Australian I.T. jobs with iTech Jobs-Interact with our social media channels on Facebook and Twitter-And much more...For support please email our team at support@itechreport.com.au and we'll get back to you as soon as possible.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_e9e35808f8794c18a076ddac5bebae29.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

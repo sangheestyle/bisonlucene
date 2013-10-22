@@ -1,0 +1,39 @@
+{
+  "title": "My MobiLife",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cathay.main",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "September 4, 2013",
+  "version": "2.66",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "215",
+  "rating": "4.176744",
+  "contentRating": "Low Maturity",
+  "creator": "國泰人壽保險公司 Cathay Life Insurance Co., Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cathay.main",
+  "extendedInfo": {
+    "installSize": "4.9M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Welcome to [My MobiLife] App issued from Cathay Life Insurance Corp. Some features are for members only, please visit the official website https://www.cathaylife.com.tw or call +886-2-5559-5110 to get more information.[My MobiLife] App makes it easy to keep track of your insurance policy, pay bills, apply policy loan, or change your policy contents (such as change contact address, change the funds within your policy, and etc.).This program provides the services:(1) Secure access to your policy, loan and claim information(2) Change your policy contents, such as contact address, the funds within your policy, and etc.(3) Cathay Life publication(4) VIP Card(5) Locate the nearby branches or service locations(6) Hot News(7) Locate the nearby selected stores(8) Customer services inquiry",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

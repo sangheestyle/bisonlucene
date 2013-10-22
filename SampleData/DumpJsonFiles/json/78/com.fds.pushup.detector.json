@@ -1,0 +1,224 @@
+{
+  "title": "AirPush Ads Detector",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fds.pushup.detector",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 28, 2012",
+  "version": "1.0R",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "109",
+  "rating": "3.3302753",
+  "contentRating": "Everyone",
+  "creator": "Fast Development Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fds.pushup.detector",
+  "extendedInfo": {
+    "installSize": "318k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "AirPush Ads Detector is an Android easy-to-use utility, which helps to find installed applications that send various annoying notifications from Airpush, Leadbolt, Xapush, Appenda, IAC, MoolahMedia., and others. After detecting , Push-up Detector will suggest to switch to annoying application properties for the further actions, i.e. uninstallation.   Unlike other applications that only detect well-known malware (Airpush, Leadbolt, Xapush, Appenda, IAC, MoolahMedia., and others),  Push-up Detector will help you to detect  those applications in particular, out of 100-200 installed ones, that disturb you with spam. IMPORTATANT: AirPush Detector does not require superuser permissions (root). Application is installed as a system service.THIS APPLICATION DOES NOT BLOCK NOTIFICATIONS. It only allows you to find which applications send annoying notifications. In order to get rid of spam, you will have to uninstall yourself applications that spread spam.During the first launch you will be asked to turn on app as a service: it is necessary to switch it on. Push up Detector will be able to perform its functions and help youonly running as a service.What to do in Main:This is the main section of the application. Here you can find the list of applications that had been noticed to be sending notifications and had not been added into White List. If you noticed an icon or notification text, that has been disturbing you, in the list of applications, just press on it and in the pop-up window choose Application Properties in order to shift to the application properties where you will be able to uninstall it. If you cannot find the needed icon from the list, try to check White-List, you could have added application to this list earlier.What is a White-List:This is a list of your applications that can send various important notifications. You can modify it on your own. After adding the application to White-List, AirPush Detector continues to control it, but will not show it on the main list.AirPush Detector:In this section you will be able to check the device on presence of malicious applications known by AirPush Detector and decided whether uninstall applications or not. If you came up with any questions, you may want to watch a video on http://www.youtube.com/watch?v=fKuKyrFCWeI or write an email to technical support.",
+    "reviews": [
+      {
+        "timestampMsec": "1362749254433",
+        "starRating": "5",
+        "title": "Thank you!",
+        "comment": "I\\'ve been going bonkers trying ti figure out where these pesky pop ups have been coming from...now I can find them and delete the app! Thank you. Hope there\\'s no hidden malware on this app....ugh.",
+        "commentId": "gp:AOqpTOE8Zz_wU_0cIYc5ju0G8umg_cOnhwbQQfWuYxVy0WOD1X_QueVHU9W18_CxxKUHo8_bH20hDWVbzcStvg",
+        "author": "maria sims",
+        "authorURL": "http://lh3.googleusercontent.com/-yxKAWSDlvU8/AAAAAAAAAAI/AAAAAAAAAcA/61RgIkSqjTE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-yxKAWSDlvU8/AAAAAAAAAAI/AAAAAAAAAcA/61RgIkSqjTE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355384989203",
+        "starRating": "4",
+        "title": "Cool",
+        "comment": "It was able to find my problem but it was my favorite app though:(  But brilliant app :)",
+        "commentId": "gp:AOqpTOHMDAcIVJJ0MT1vkUxeMYFAS0MwYQ7MtQ5FEQd8GgD7fBTyWccEv1yKcOIi3i-_Af-Ede5DWZjSNZ0TCQ",
+        "author": "Pedro Kantor",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369194874675",
+        "starRating": "2",
+        "title": "Great but downside",
+        "comment": "The app turned on accessibility and forced my phone to talk back. Bummer bc its a great app.",
+        "commentId": "gp:AOqpTOGdKsRpb5SHNVRRVpfxbGpsQgg_fHCJbdhOA_NGqHEAJWo_QzFfpxXvGGatD9QuT6Uyh2FspG44gzsuDg",
+        "author": "Erin Gabel",
+        "authorURL": "http://lh5.googleusercontent.com/-S2FUaVFUThc/AAAAAAAAAAI/AAAAAAAAAAA/iRS4nXVWqDE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-S2FUaVFUThc/AAAAAAAAAAI/AAAAAAAAAAA/iRS4nXVWqDE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355273664420",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "It was able to find the app which terrorised my phone fpr months. Other tools were unabled to find it.",
+        "commentId": "gp:AOqpTOENzF6qAP8kwiblTpRLsXs6PydIOmd1_na472IlVRsxHpjXuQRHbOquXzHT6GBLcKIIIsOav93I6krEvg",
+        "author": "Petr Nazarov",
+        "authorURL": "http://lh5.googleusercontent.com/-0mB44nFXG0U/AAAAAAAAAAI/AAAAAAAAAwg/z1O3RUdaMPE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-0mB44nFXG0U/AAAAAAAAAAI/AAAAAAAAAwg/z1O3RUdaMPE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362738084120",
+        "starRating": "1",
+        "title": "Keeps crashing",
+        "comment": "Keeps crashing--the crashes are more annoying than the ads,--uninstalled.",
+        "commentId": "gp:AOqpTOEKDuPMQOOcKPRa-uJYcvOzDTkapmYUFUVbRnjwGcCbv5IM--dvn33KSDoD5opq2cQb_qfWgyQhTYwgCg",
+        "author": "Nick Wright",
+        "authorURL": "http://lh6.googleusercontent.com/-riI7ytPaLHU/AAAAAAAAAAI/AAAAAAAACCY/avJ0oMeu588/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-riI7ytPaLHU/AAAAAAAAAAI/AAAAAAAACCY/avJ0oMeu588/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360118654091",
+        "starRating": "1",
+        "title": "This app actually air pushed me",
+        "comment": "Trying to get me to subscribe. It read there are no air push do you want to subscribe monthly when I pulled down their display banner intrusion. Therefore I uninstalled them air pushers.",
+        "commentId": "gp:AOqpTOG2K1A_QIr2q3NBZ1uowJS3_EwBSGeiMfxzHvQRRj0S0OJHHTigGayg62J-HJN4-phjjbMS4njeXfg08w",
+        "author": "James von Veit",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373702783691",
+        "starRating": "1",
+        "comment": "It automaticly turned on the text to speech option and it scared my bad\\tUgh...",
+        "commentId": "gp:AOqpTOEm1_e25gNxtVCBGSeRfX_mYnJIbuMq_shP-Eq-BifUCa_fXJGWdLDsve6Qo1jMvoZttzbEC-0csCXkIg",
+        "author": "John Cantu",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373501144514",
+        "starRating": "1",
+        "title": "I am still getting adds",
+        "comment": "What the freak the dam adds ruin my game play this is the worst app ever I hate it I am still getting those adds",
+        "commentId": "gp:AOqpTOEd8tW-d81hLWe8E2QpgP6L6b36jkzzHOzbi1gNHPNmYzmwXuuxQzhsttlsetGyo5RQ8QNdxBFOl1dNbA",
+        "author": "gemina White",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377214582235",
+        "starRating": "1",
+        "title": "Galaxy tab 2 7.0",
+        "comment": "Don\\'t work",
+        "commentId": "gp:AOqpTOEbN_9ULoC-n2z2M0HUlO4HiBQJ7iHzD8QHY1gou4EV1MmwYq5cDqOGkFBfRyFYXaBeT4KaHVTTHM4dHw",
+        "author": "Kurtis Toycen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366776390215",
+        "starRating": "5",
+        "title": "Works great!",
+        "comment": "Adds air push to system settings.",
+        "commentId": "gp:AOqpTOFGJMw8jerK0qiPq-pWVLG2DztLoT2R3uC1kSfilf_WrYTAb8nB5n2UTtkgIBBhNUZGBeoZbwYSijLEnQ",
+        "author": "Roger King",
+        "authorURL": "http://lh3.googleusercontent.com/-qKk83H_B7tU/AAAAAAAAAAI/AAAAAAAAAew/aNg5sEtNrlM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-qKk83H_B7tU/AAAAAAAAAAI/AAAAAAAAAew/aNg5sEtNrlM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359809706365",
+        "starRating": "1",
+        "title": "Scam",
+        "comment": "And why do you need my bank info and passwords?",
+        "commentId": "gp:AOqpTOGIpRuWgCV-qJxarN3YhED380Ad3ixaCflErLYOn7KpDBswMwMDZWd7g6V-mOKPe0coYOkYK8vHQnlQGg",
+        "author": "Elvie F.",
+        "authorURL": "http://lh4.googleusercontent.com/-hSm65366Q54/AAAAAAAAAAI/AAAAAAAAACM/ChNZIVm-U1Q/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-hSm65366Q54/AAAAAAAAAAI/AAAAAAAAACM/ChNZIVm-U1Q/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366417703317",
+        "starRating": "5",
+        "title": "Worked perfect.",
+        "comment": "Does exactly what it says it\\'s supposed to do.",
+        "commentId": "gp:AOqpTOE0QIzUYyH8YH1WhBMHEfEGYvP8kKMh3AzeiCq54gZ8npyrcNIGAZ0D-bIi8QBqypkewbN0SPplMWpdNQ",
+        "author": "Emily potts",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363653666906",
+        "starRating": "5",
+        "title": "GET THIS APP",
+        "comment": "This app works better than any other app I have. Does the job.",
+        "commentId": "gp:AOqpTOGM2l1P_-NRlN-XPgNIUG-GwwCOgeRJPbCV9w6A-_BZoTcqpgnw-WSuC-JDGi2ycwtEhrfqv9gQ6FPtow",
+        "author": "Mikell Hildahl",
+        "authorURL": "http://lh6.googleusercontent.com/-sfheupJgdZQ/AAAAAAAAAAI/AAAAAAAAAGc/dbYkrJMQNQ4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-sfheupJgdZQ/AAAAAAAAAAI/AAAAAAAAAGc/dbYkrJMQNQ4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1351557769064",
+        "starRating": "1",
+        "title": "MONTHLY FEE",
+        "comment": "It\\'s NOT FREE",
+        "commentId": "lg:AOqpTOGORsPsmyREWsxI6iKO1DtPsCz1eSyyUgL7mN1UbRnsfESBybbalaJRhXYkM_O4YZkxfiwA1tIxr15BHA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366025488267",
+        "starRating": "1",
+        "title": "SCAM!!! DO NOT USE!!!",
+        "comment": "They will see your passwords and bank info! DO NOT USE!!!",
+        "commentId": "gp:AOqpTOGDExNLZ0YkKjogYx9yop_mzgmI4GgVobIBJLYlWOUbUAsIprOFo-MswHbULTBVHcV8cG99ETYCSCD4ww",
+        "author": "Tiffany Spaulding",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358082942702",
+        "starRating": "5",
+        "title": "As advertised",
+        "comment": "Works!!!!!!",
+        "commentId": "gp:AOqpTOHslZ5jtCAH5dpIBBtdS5isxphSB043uYN4Lu8U5Pnh5XpmLlnnsdWFaOf507SZ88AdwcrzWoD61uZcvQ",
+        "author": "TC Heike",
+        "authorURL": "http://lh4.googleusercontent.com/-RTC_jUXeu5M/AAAAAAAAAAI/AAAAAAAAAPc/vqsB676t4V0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-RTC_jUXeu5M/AAAAAAAAAAI/AAAAAAAAAPc/vqsB676t4V0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1347019984674",
+        "starRating": "5",
+        "title": "Good job",
+        "comment": "Finally I found the application which have disturbed me.",
+        "commentId": "lg:AOqpTOGKH2IfekHiKAT4RhzQOs-wokYtU_r_rqAFIMpQOO4JbhDdh-w9xKkmCuz-Lk8GF9dO86VN3M01Ic4mZg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353058312077",
+        "starRating": "1",
+        "title": "BEWARE!",
+        "comment": "Small print says this add can read txts and bank details u enter...basically tracks, monitors and records everything u do on ur fone! Beware! READ IT FOR YOUR OWN EYES AFTER UVE INSTALLED U CAN SEE IT",
+        "commentId": "lg:AOqpTOGz0DlbEW-3joSzOlhkUsTxRUiZ-jf18C8TmHdejMqaU8HWydrRRnlMX-MQeFVHAnKg9TtJZjREVKwL1Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356897108395",
+        "starRating": "1",
+        "title": "Wow -5*",
+        "comment": "U want to get my contacts,passwords and everything what is important to me ... No thanks.!",
+        "commentId": "gp:AOqpTOGGWDvsL6qo6PRUrv0baMLXeFAfLk647TZO-Vg6GA8oiU8RZMyZuJO7juX51IOlXqv6sF-xOw-EwYKqEg",
+        "author": "Roland Udvarlaki",
+        "authorURL": "http://lh5.googleusercontent.com/-1PDsPkDcvAI/AAAAAAAAAAI/AAAAAAAAAEI/fGj3jYJ6p2I/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-1PDsPkDcvAI/AAAAAAAAAAI/AAAAAAAAAEI/fGj3jYJ6p2I/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363044569955",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Been breaking my head trying to figure which app has turned it\\'s back one, turns out, it was beats installer, had it for months before it started to misbehave",
+        "commentId": "gp:AOqpTOEjHSdgDoO6E7j3XV9lEdJe2-Jp0BfHmLonIFb8SJWXWZxQkvpXIGjvbqnkAlTy9NWsjPzuXPB1rOq1eg",
+        "author": "Igor Muzaliov",
+        "authorURL": "http://lh6.googleusercontent.com/-1NhBCgEtpiM/AAAAAAAAAAI/AAAAAAAAAko/WlgYwA5jxN4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-1NhBCgEtpiM/AAAAAAAAAAI/AAAAAAAAAko/WlgYwA5jxN4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.BIND_ACCESSIBILITY_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

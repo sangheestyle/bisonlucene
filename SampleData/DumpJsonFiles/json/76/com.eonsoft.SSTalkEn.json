@@ -1,0 +1,44 @@
+{
+  "title": "Orange Chat",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eonsoft.SSTalkEn",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "May 19, 2013",
+  "version": "1.1.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "15",
+  "rating": "2.8",
+  "contentRating": "Medium Maturity",
+  "creator": "EONSOFT",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eonsoft.SSTalkEn",
+  "extendedInfo": {
+    "installSize": "474k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Do You want Talking to the people of the world?Use Orange Chat OnAdd to your friends list and friends search for the alias.Contacts bad for the user may be blocked.Conversation subject is bad user, please add to the list of blocked contacts. The subject can block incomingMessage notification feature.Pop-up alerts, sound alerts, vibrating alerts, all can be deleted.Conversation receive settings (pop-up, vibration, sound settings)Settings dialog received relative (friend)Font color settingsManaging FriendsBlocking opponent setSelect the desired opponent can Random  chat.Orange does not require a separate membership Chatthis is a matching app.send message your lover.Lover Making of matching applications.Make friend of random talk communicator~Visit a pleasant conversation.",
+    "reviews": [
+      {
+        "timestampMsec": "1371075784839",
+        "starRating": "1",
+        "title": "Sucks",
+        "comment": "It wont let me log in it always kicks me out",
+        "commentId": "gp:AOqpTOFi_gLN9xbnABTCrlnNZOTJc3Hzi4IPHc2bz0n3EcoNzf4lFFeyVI9-iBjreMiDoLsh-4mBAKKhtzB4R4c",
+        "author": "Steven Pizzuti",
+        "authorURL": "http://lh6.googleusercontent.com/-dHskufyMl3U/AAAAAAAAAAI/AAAAAAAAABI/V4don9YpboI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-dHskufyMl3U/AAAAAAAAAAI/AAAAAAAAABI/V4don9YpboI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.eonsoft.SSTalkEn.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "US Election 2012 News App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_8bdd080864274a3988e8f448f7aefd2c.app",
+  "category": "News & Magazines",
+  "price": "$0.99",
+  "datePublished": "January 14, 2012",
+  "version": "1.2.3.2130",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Football Fan Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_8bdd080864274a3988e8f448f7aefd2c.app",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "With Democrat and Republican news and views app will keep you upto date whatever your political leanings.The 2012 Election sees a country at a crossroads, track the debates and twists and turns as we count down to polling day.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_8bdd080864274a3988e8f448f7aefd2c.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

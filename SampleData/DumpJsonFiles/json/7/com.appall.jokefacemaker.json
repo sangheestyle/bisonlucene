@@ -1,0 +1,47 @@
+{
+  "title": "Joke　Face　Maker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.appall.jokefacemaker",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 5, 2012",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "13",
+  "rating": "4.1538463",
+  "contentRating": "Low Maturity",
+  "creator": "TACOTY JP app",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.appall.jokefacemaker",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Make fun of all kinds of photos!Take photos saved in your folders or shot by camera as chief source to make interesting images with various materials in this app! Send your work to your friends or SNS to make all of your friends laugh! Featuresâ¢Edit images from folders or taken by camera. â¢ Various facial parts.â¢ Saved images can be sent or published through email, Bluetooth, infrared or logged-in SNS on terminals.",
+    "reviews": [
+      {
+        "timestampMsec": "1352604243604",
+        "starRating": "5",
+        "title": "Nasir khan",
+        "comment": "Khan sahab",
+        "commentId": "lg:AOqpTOHsgIHiwapW1V3dOcPMXXW7RRymwPGTa_0KS603pLkEPuSk84kKPcKN1INQYcxcpI-DIKvz7vZIXCG7QQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

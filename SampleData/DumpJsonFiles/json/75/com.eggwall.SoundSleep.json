@@ -1,0 +1,29 @@
+{
+  "title": "Sound Sleep",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eggwall.SoundSleep",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "March 20, 2013",
+  "version": "1.08",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Vikram Aggarwal",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eggwall.SoundSleep",
+  "extendedInfo": {
+    "installSize": "973k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Sleep better at night with soothing music or white noise.Put your sleep-time music in a directory called 'sleeping' in Music/ on SDcard. Or as a subdirectory in the Music/ directory on external storage (the directory that is shown when the phone is connected to the computer).Tap top half to play/pause music randomly.Tap bottom half to play/pause white noise.Shows a large clock.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

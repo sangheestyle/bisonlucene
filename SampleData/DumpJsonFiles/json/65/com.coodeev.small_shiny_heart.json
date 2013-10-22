@@ -1,0 +1,78 @@
+{
+  "title": "Shiny Heart batery",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coodeev.small_shiny_heart",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "June 4, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "28",
+  "rating": "3.4285715",
+  "contentRating": "Low Maturity",
+  "creator": "coodeev",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coodeev.small_shiny_heart",
+  "extendedInfo": {
+    "installSize": "656k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Shiny Heart battery widget , which displays battery level in percents. It is also monitoring battery voltage temperature etc. This widget has also a notification with current battery level, which one user can turn on/off.",
+    "reviews": [
+      {
+        "timestampMsec": "1367986042656",
+        "starRating": "4",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOHCTeFVnBeT9dE10zWnIwk3uXp9jKinYjWpnTT9zSs5RBvseqwbitjircwCpKpBfFn0K-NFv0oIFqPIow",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363899214916",
+        "starRating": "1",
+        "title": "Ad Spammer",
+        "comment": "Puts spam in the notification bar and creates spam shortcuts on home screens.",
+        "commentId": "gp:AOqpTOFglHiUrpdDA4fzuD4wr9ve3HDbYKsWi7x4YAxjQfqRlBDXRwzz97-oFqTbirp6VAeZuLHOJTws6c3pEg",
+        "author": "Jenna Eckeard",
+        "authorURL": "http://lh5.googleusercontent.com/-iKTWvBpbwBU/AAAAAAAAAAI/AAAAAAAADhw/fdDvTEeNxG4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-iKTWvBpbwBU/AAAAAAAAAAI/AAAAAAAADhw/fdDvTEeNxG4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358840414124",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Go",
+        "commentId": "gp:AOqpTOFLojKxHvYPoql-NGETUKfLn219VHOeMm7a1t9UHmfQYNQc4uVEIuEqACx9mFX_IUV7cfDyJoi-CjxZIA",
+        "author": "Thieu Vinhhien",
+        "authorURL": "http://lh5.googleusercontent.com/-10nW5DB0sRU/AAAAAAAAAAI/AAAAAAAAAQA/uOk1kr9xnWc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-10nW5DB0sRU/AAAAAAAAAAI/AAAAAAAAAQA/uOk1kr9xnWc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374653906630",
+        "starRating": "1",
+        "title": "Zzzz",
+        "comment": "Virus",
+        "commentId": "gp:AOqpTOH3l3YXCNBShzcjSpi2VQTml5pCj4gD_ihuK7OOtGhB0l5YbbjK6OeRi8S1uALiy6O4U3QRFC_nA6iIRw",
+        "author": "Aleksandre Zaalishvili",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ALARM_ACTION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

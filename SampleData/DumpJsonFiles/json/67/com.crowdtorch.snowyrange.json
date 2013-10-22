@@ -1,0 +1,42 @@
+{
+  "title": "Snowy Range Music Festival",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdtorch.snowyrange",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "August 23, 2013",
+  "version": "3.9.0.2252.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "CrowdTorch",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdtorch.snowyrange",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This is the official app for the Snowy Range Music Festival! The Snowy Range Music Festival is a three day festival filled with good music, good people and good times. Held over Labor Day Week-end, this festival is quickly becoming a destination for folks all over. It is full of high energy with the audience in mind.Create your own personal schedule, view artist photos and bios, and post to social media sites directly through the app!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdtorch.snowyrange.provider_permission",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.VIBRATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.CALL_PHONE",
+      "android.permission.GET_TASKS",
+      "com.crowdtorch.snowyrange.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

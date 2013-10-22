@@ -1,0 +1,66 @@
+{
+  "title": "Boston College Athletics",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cbs.sportsapp.android.bc",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "August 13, 2013",
+  "version": "1.33",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "CBS Sports.com College Network",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cbs.sportsapp.android.bc",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This is the OFFICIAL application of the Boston College Eagles created by the CBSSports.com College Network, in partnership with the University. This exclusive sports application offers LIVE STREAMED games:************************************************************LIVE VIDEO* & AUDIO*- Upgrade in the application to stream select games************************************************************* Audio and video are only available on certain compatible Android devices running OS2.2 or later. This device has not been tested for video compatibility. In order to access the audio or video please install the Sports Media Player in Google Play and re-launch this application.Annual Subscription $9.99ADDITIONAL APPLICATION FEATURES-\tLive Scoring-\tPlay-by-Play-\tComplete Sport Schedules-\tExclusive breaking sports news-\tVideo on demand-\tAlerts (game start and final scores)-\tTeam and Coaches Rosters & Bios-\t Much moreâ¦COVERS ALL SCHOOL SPORTS!",
+    "reviews": [
+      {
+        "timestampMsec": "1359003266273",
+        "starRating": "4",
+        "title": "Well developed.",
+        "comment": "Has a nice flow and is very easy to use. Only problem I have is on a players Bio, the very bottom stat line is partially covered.",
+        "commentId": "gp:AOqpTOFAgjJ9z2nmwymuQKohr2C3B0VS8Wy9WBbD-y9pb_gImU4fyb2HSN1fVn2L9unzn6AU9uWATrBM6_2eYg",
+        "author": "Brook Brinson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352511440993",
+        "starRating": "1",
+        "title": "sad",
+        "comment": "No audio, and video may or may not stream. If it freezes and you try to start it up again, you will be forced back to some earlier portion of the game that you have already seen. So I was still cycling through the last 5 minutes of period one, which I had, in the end, seen 5 times, while the game was, in real time, already in period in 3. This should be easy to fix, but it doesn\\'t look like they care to.",
+        "commentId": "lg:AOqpTOHu4e54-iIeBKCB_6icyvz3yYOoHHS_imgXZatRhp-R_Kl_FfMRsLbHOE1Wd3A_3DdgpSqO-vIgBKEo0g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347743471747",
+        "starRating": "5",
+        "title": "Myketrail Tyson",
+        "comment": "I love it Boston all day my home town",
+        "commentId": "lg:AOqpTOEGDLxaIBtr50oSmNY4UjWz7zD8kuwOH01DC8-9nVHqw2P_7XhzLZ4JQA9Cf_5OhM7VboApnsjOTEQDUA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.cbs.sportsapp.android.bc.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

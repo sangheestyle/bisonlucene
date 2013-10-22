@@ -1,0 +1,42 @@
+{
+  "title": "BC High Alumni",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evertrue.bchigh",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 30, 2013",
+  "version": "2.3.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "EverTrue",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evertrue.bchigh",
+  "extendedInfo": {
+    "installSize": "6.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official Boston College High School alumni app.  Join fellow alums connecting through their mobile devices.  Access searchable and location based directory, social media, events and more! Powered by EverTrue.Keywords:bc high, bc high school, boston college high school, boston college high, alumni, bc high alumni, evertrue, connect, directory, eagles",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.evertrue.evertrue.permission.C2D_MESSAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

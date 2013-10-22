@@ -1,0 +1,37 @@
+{
+  "title": "Stock Option Basic",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.stockoptionbasic",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "October 8, 2012",
+  "version": "7.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "8",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Business Compass LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.stockoptionbasic",
+  "extendedInfo": {
+    "installSize": "247k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "This application computes European call and put option prices when stock, strike, risk free interest rate, expiry time or date, historic volatility and dividend yield (optional) are supplied. Expiration time in Days, Months and Year can be entered.Expiration date can be selected.Displays call and put profit graphs.",
+    "reviews": [
+      {
+        "timestampMsec": "1349061797676",
+        "starRating": "1",
+        "title": "apps that work",
+        "comment": "Doesn\\'t load on gal 2. Downloaded twice.",
+        "commentId": "lg:AOqpTOHYGWg4_ONqc8h5AZ7_6A6hXU1t_Fj9yLZA0QLmnsY8zT-EkTgWvt3i62MHSW0TicuIRrxSNeSQDBU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

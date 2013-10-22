@@ -1,0 +1,54 @@
+{
+  "title": "Chef at Large",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chef.at.large",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 11, 2013",
+  "version": "1.0.15",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Chef at Large",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chef.at.large",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Chef at Large is an online food network that started life as a personal blog. This application makes it easy to keep in touch with everything we're up to.- Follow Facebook forum conversations- Access restaurant and product reviews from Delhi, Mumbai and Bangalore- Read and try recipes from all over- Read about interesting people in the hospitality business- Find fun-to-read columns about food and drink- Get to know the latest food & lifestyle news from all over India- Keep track of the CaL Blogger's Table- Attend Chef at Large UniversityThis application is primarily of interest to Indians. It is available all over because of our recipes and forum, that include people from all nationalities, bonded by their love for food. Please do write in and give us feedback. This is our first Android application and we know there may be so many aspects for improvement. Please write to Sid Khullar, editor@chefatlarge.in with any feedback you might have.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.15",
+        "timestampMsec": "1374785957602",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "A great app for beautiful recipes n reviews.",
+        "commentId": "gp:AOqpTOHcIpq8bC_4ktUOPBE-Q6XQyrosEEWSGk6-9fCp72H3DLsPX-2VX-Vk8btfHorx5lxMAw3jwMaix47ol-I",
+        "author": "akbar basha",
+        "authorURL": "http://lh4.googleusercontent.com/-W_qe8MjBsNk/AAAAAAAAAAI/AAAAAAAAAuA/-NI8gd-qXlg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-W_qe8MjBsNk/AAAAAAAAAAI/AAAAAAAAAuA/-NI8gd-qXlg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373721361451",
+        "starRating": "5",
+        "title": "Great Application which keeps me updated with food",
+        "comment": "Chef at Large is a must for everyone who likes food. Recipes to reviews, you\\'ve got it all.",
+        "commentId": "gp:AOqpTOHDp6Z6O4qzYNuSLUmWJycIqaneK7QZc4g8DIVq3zcEl6r5HhdSOmaoYfrLneJP1VdEsEB_u0CBkmH6SK4",
+        "author": "Nadeem Khan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

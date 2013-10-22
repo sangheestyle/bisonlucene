@@ -1,0 +1,244 @@
+{
+  "title": "GPS Status & Toolbox",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "September 8, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "57588",
+  "rating": "4.549038",
+  "contentRating": "Low Maturity",
+  "creator": "MobiWIA - EclipSim",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "5,000,000+",
+    "downloadsCountText": "5,000,000 - 10,000,000",
+    "description": "Displays GPS and sensor data: position and signal strength of satellites, accuracy, speed, acceleration, altitude, bearing, pitch, roll and battery state.Tools included: compass with magnetic and true north, leveling tool, mark or share your location and navigate back later. Keep your GPS fast: reset it or download A-GPS data regularly for faster fixes.Visit the FAQ at: http://mobiwia.com/gpsstatusGPS Status is 100% space proof. Try to spot the program in the video below :)KNOWN FIRMWARE ISSUES (please do not report them): - Samsung phones: Because of a firmware bug, they may report extreme battery consumption for GPS Status even if it is not running at all (other programs using sensors are affected too). This is harmless and no power is consumed! Just ignore it and let's hope that a future firmware upgrade will fix this on your phone.- Droid 3: The initial Droid 3 firmware does not implement the satellite status API so you will not see the satellites and the signal strength bars. The rest of the features should work properly.- Motorola phones: On some phones, turning your phone to airplane mode will turn off the GPS receiver, too. This is a hardware limitation.- Droid Charge: Reports 0 altitude.- LG Optimus: The phone cannot report the satellite SNR values correctly (all signal bars will be maxed out).- Nexus One/S: With Andoid 2.3 it cannot report NMEA sentences. This means that the DOP/HDOP/VDOP values are not available.",
+    "reviews": [
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378731262330",
+        "starRating": "5",
+        "comment": "5 stars",
+        "commentId": "lg:AOqpTOGv-IzSOJs24HzMqAAtJX3xDO9QayTwLKKjBFXNrlraW_5GhEAnuB0bfQKtqgLFwAoApS9dwXoDSLM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378660475381",
+        "starRating": "5",
+        "title": "The best to date",
+        "comment": "Excellent program.  Works well with  the mapping programme.",
+        "commentId": "gp:AOqpTOEq40F5EUXpOsf5EfdtX5vD-Yja7RMeq4jnGCJSKSH4zIGO78GG6FQf6DNbm_8hxCFRYN9Ia1RR0Yo",
+        "author": "kenneth austen",
+        "authorURL": "http://lh4.googleusercontent.com/-CTWuwJiQvB4/AAAAAAAAAAI/AAAAAAAAE24/R20o8JZDmbQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-CTWuwJiQvB4/AAAAAAAAAAI/AAAAAAAAE24/R20o8JZDmbQ/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378657069556",
+        "starRating": "5",
+        "title": "Very nice",
+        "comment": "Long time user. Several different devices. never a problem. Does what it\\'s supposed to.",
+        "commentId": "gp:AOqpTOGiArasw1t8EN6n0e5Tj3NTvNGgqTUJyfRcQDjPbX3kzI7v1PT-JB437C7AxM0PhOEmqELtq07-A2E",
+        "author": "Mustah Dayallaxeded",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378804221754",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Great little app for the road.",
+        "commentId": "gp:AOqpTOHTURVqh2791VEAZCeuOnS0nG45Vt7Tp4816A48Onc-ZCvTwreKHz1EJFksokNH_R5uwFoNU3yel3o",
+        "author": "Ionut Enuica",
+        "authorURL": "http://lh6.googleusercontent.com/-CfywKs2y2ZA/AAAAAAAAAAI/AAAAAAAAABg/3VP9egTH-Co/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-CfywKs2y2ZA/AAAAAAAAAAI/AAAAAAAAABg/3VP9egTH-Co/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378706231594",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Love this. It\\'s pretty close to being totally correct. It tells me data about positioning that other GPS devices do not.",
+        "commentId": "gp:AOqpTOE0wBVo48iVXPQtzdd-ZBMcmqab0lmveNkYy3YgDkRlBhxJ-WAkjdhDF9vVmwa1kTpavjfU9c3TDR8",
+        "author": "Joey Crook",
+        "authorURL": "http://lh4.googleusercontent.com/-eYUparh2W1Q/AAAAAAAAAAI/AAAAAAAAAP4/wntufMcXP4I/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-eYUparh2W1Q/AAAAAAAAAAI/AAAAAAAAAP4/wntufMcXP4I/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378802177317",
+        "starRating": "5",
+        "title": "THE BEST OF ALL",
+        "comment": "This apk not only helps fixing the satellites faster but also helps my navigation API gets more accurate . Thanks.",
+        "commentId": "gp:AOqpTOHk6sF8yrK4VfOSHQXCN1shgPpRNCJpDMv5pBg0vXzYTmsarIVSLZ79cp2fsAzJINX5hv6tVh5LVDg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378670187040",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Very usefull app",
+        "commentId": "gp:AOqpTOE3K_LnMgOBkszrN6IxTD3vZ8KEoeEPB8x4X9JPqoNV4fS5-VsIAGRg7h6BVLyK0NLPzbm6TL9ZLM8",
+        "author": "Emmanuel Orozco",
+        "authorURL": "http://lh4.googleusercontent.com/--yGgnUziO5Y/AAAAAAAAAAI/AAAAAAAAACA/zaZ0BRBxc-E/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/--yGgnUziO5Y/AAAAAAAAAAI/AAAAAAAAACA/zaZ0BRBxc-E/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378663020575",
+        "starRating": "5",
+        "title": "Adding 1 Star: Version 4.1 is a welcome update",
+        "comment": "I\\'ve been a satisfied PRO user since early 2012 and remain pleased with the consistent improvements made by the developer. Version 4.1 adds several new features that further define the app as a premium GPS tool. It performs well on my Android 4.2.2 (JellyBean+)/3.0.68+ kernel device.  *UPDATE: still very pleased with the application\\'s performance on both my handset and Nexus 7 (2013) devices. Developer remains active and consistently addresses bugs, issuing timely updates for new devices/OSes.",
+        "commentId": "gp:AOqpTOGnS36BsXoqrNaX9_dS0F4QUEHVo4kjZ8NbVFdhnZfVgY1MAuF6bJafeNWXPe-wkXv6FFz7z3b2KDA",
+        "author": "Scott Rynd",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378656578013",
+        "starRating": "5",
+        "comment": "Simple and useful app",
+        "commentId": "gp:AOqpTOGdJRn_0cayj2_A7y1VZLC4HGsk8nXMbH6a1c0gElJ09myrfVaxk3OFIWEU8LGZ9eyR2vu7QFOKLQI",
+        "author": "Vlad Chalapco",
+        "authorURL": "http://lh3.googleusercontent.com/-oFomqAj8ejQ/AAAAAAAAAAI/AAAAAAAAAUM/F9CbXzPmKgI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-oFomqAj8ejQ/AAAAAAAAAAI/AAAAAAAAAUM/F9CbXzPmKgI/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378683000910",
+        "starRating": "5",
+        "title": "GPS toolbox",
+        "comment": "It does what it claims. It helps my running apps get a quicker fix and record distance much better.",
+        "commentId": "gp:AOqpTOGJlGU4d-JpCaIqrAah_ZSjbcFGZpuIgHzW01J33P8mwP9O3KE69KnIn5bNB47B1FSaMme478GLE3w",
+        "author": "Bill Black",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378747610406",
+        "starRating": "5",
+        "title": "Sprint Samsung Galaxy S3",
+        "comment": "I have not used this app since the update but overall this app is cool. On a recent bus trip to Atlantic City my friend was worried about the bus driver driving too fast in the rain on I-68 in WV. I downloaded this app on the bus so we could monitor the speed our bus was traveling down the mountain.",
+        "commentId": "gp:AOqpTOH7nRgh1bCmL-vMZ557eENim7SVd8LIqjne7Kw4oiQwzCdOWFc2YKKOUiKWD2ecTD94yEURgA8MNPE",
+        "author": "Karen Loveland",
+        "authorURL": "http://lh4.googleusercontent.com/-Iz7I3JbVly0/AAAAAAAAAAI/AAAAAAAAAJE/JQmcvB0NR2E/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Iz7I3JbVly0/AAAAAAAAAAI/AAAAAAAAAJE/JQmcvB0NR2E/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378679011588",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOEMwQPzPtsssHjqf1NTEvunNQEgHKQCU1MqcUWAWa17OyzE8bYnpgHeIJSYTEfwXSPusKgcpDIy9QA",
+        "author": "Tudor Bogdan",
+        "authorURL": "http://lh5.googleusercontent.com/-D0euI44p2HM/AAAAAAAAAAI/AAAAAAAAAAA/fd0LZLeH6aE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-D0euI44p2HM/AAAAAAAAAAI/AAAAAAAAAAA/fd0LZLeH6aE/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378781715077",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOEJ2PR7yijghGBha9vaTzNYUQ1wH8fTKinCfkP7ZgeEr-VSGRDbaYU5XAoQg50akhNUPM2Fe1wXC6o",
+        "author": "Febbie Hadidallas",
+        "authorURL": "http://lh3.googleusercontent.com/-qOJxgIo1Vng/AAAAAAAAAAI/AAAAAAAAAHs/FpGn472nfJY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-qOJxgIo1Vng/AAAAAAAAAAI/AAAAAAAAAHs/FpGn472nfJY/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378743030908",
+        "starRating": "5",
+        "title": "Great application.",
+        "comment": "Excellent for satellite\\'s evaluation.",
+        "commentId": "gp:AOqpTOHDm4Am2sWhmpnuBjPGCHQHuHLkGxN-8IWskQ0HES6nCuO21-stdhLyYGmxipc3V_0NVKZv_oLTZA0",
+        "author": "OSEIAS SLOMPO",
+        "authorURL": "http://lh4.googleusercontent.com/-XeqhE3DyTvY/AAAAAAAAAAI/AAAAAAAABQA/VQsMZD_GTvc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-XeqhE3DyTvY/AAAAAAAAAAI/AAAAAAAABQA/VQsMZD_GTvc/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378679296270",
+        "starRating": "4",
+        "title": "Good GPS info",
+        "comment": "Also helps clearing the A-GPS cache.",
+        "commentId": "lg:AOqpTOE4xtIvG5JZsL8E4mGeBYvWUekWZ9Tiv4rXCWn2Od_C_JySeLTsx2rD5aIqTMPjMnWgWKcSFBGdLKo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378672633441",
+        "starRating": "5",
+        "title": "Superb app with many uses",
+        "comment": "Fantastic for Geo caching bit has many other uses too, for example seeing how fast you are going on an aeroplane, train or ship. Displays a useful readout from a number of sensors. Wouldn\\'t leave home without it.",
+        "commentId": "gp:AOqpTOHDsximwfwm-rr4JLfwmDks26_OU6EqX7IrdehGBgyd47629f8lQslSQlfGl2UxVzTB7GZKar-a9aU",
+        "author": "Rupert Brun",
+        "authorURL": "http://lh5.googleusercontent.com/-h4PHhtl915Y/AAAAAAAAAAI/AAAAAAAAACY/zEqXNxsbMAs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-h4PHhtl915Y/AAAAAAAAAAI/AAAAAAAAACY/zEqXNxsbMAs/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378677165790",
+        "starRating": "5",
+        "title": "It is now useless!",
+        "comment": "Useless unless you pay.  Removing app.",
+        "commentId": "gp:AOqpTOG06e25jVzIuyWSIEaXvjPGobAI0HJPh0Q2Q3_JFZumVNoHq_JnoovI9DStrj2L0CeDV1TeFLiBm0o",
+        "author": "Jeremy McGaffey",
+        "authorURL": "http://lh4.googleusercontent.com/-1Dz8yOlCIXE/AAAAAAAAAAI/AAAAAAAAAQA/V6PzM-mcHnY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-1Dz8yOlCIXE/AAAAAAAAAAI/AAAAAAAAAQA/V6PzM-mcHnY/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378774381648",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Great app",
+        "commentId": "gp:AOqpTOHARxpugx0AVVzroO3osxHI-YoMtumPtPewu_hUi0E46DM7T8JtOtCZcprjIwGYwEuzVmQ7RRWwRrE",
+        "author": "Dux W",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378705394218",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "Use this all the time while Geocaching, works well.",
+        "commentId": "gp:AOqpTOENM3X_60EtOR4o2jpGoZ3SGyqubH3niJPSbu8PkGwpBWKHbWzKzvKStlfB0hS2uoHIx6Vgbfqgapw",
+        "author": "Warren Peace",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.3.78",
+        "timestampMsec": "1378697698564",
+        "starRating": "5",
+        "title": "Very good.",
+        "comment": "This is a nice partner for OSMAnd.",
+        "commentId": "gp:AOqpTOH-1Vu9-zsS7LTzNzfWHWRlo2PUT7weA_x3etlv10DoL6PqUaUP6EOwh8Qi-dPfc_zGDqw9YbSLvaY",
+        "author": "Jan Exar Aspiras",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    ]
+  }
+}

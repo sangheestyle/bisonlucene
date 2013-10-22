@@ -1,0 +1,140 @@
+{
+  "title": "Subdroid SVN Pro / Donated",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.feldschmid.subdroid_donate",
+  "category": "Productivity",
+  "price": "$1.29",
+  "datePublished": "March 14, 2013",
+  "version": "0.9.6.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "28",
+  "rating": "4.214286",
+  "contentRating": "Everyone",
+  "creator": "icyerasor",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.feldschmid.subdroid_donate",
+  "extendedInfo": {
+    "installSize": "119k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This is the donate version of Subdroid.New Feature is still experimental and not tested on all kind of devices.**ATTENTION** : Data gets exported in raw to your SDcard. Will contain your svn credentials, so use with caution - keep the backup files safe, or don't use the feature at all!Howto video: http://bit.ly/azvaAYCurrent extra features: * Update Service notifies you of new commits * Download/open options for filesSubdroid is a frontend to look at Subversion Repositories (view only) in your Android device. It allows you to see authors, comments, changesets and affected files. It supports SVN served through http(s).You can live browse a repository or download the latest changesets. It displays commiter, commit time, message and changed paths with actions performed on them. You can open the head revision, revision at the time of the commit, or the revision before. After downloading changesets you can perform a text search within them.Contributions to the free version are always welcome, as is feedback - but please contact me directly, as the market doesn't allow for replies, help or discussions (yet). Designer needed :D!Free version available.",
+    "reviews": [
+      {
+        "documentVersion": "9.6.1",
+        "timestampMsec": "1341334833852",
+        "starRating": "3",
+        "title": "Please fix:",
+        "comment": "I am unable to access a SVN repository that uses SSH Authentication (protocol \\\"svn+ssh://\\\" on port 22)",
+        "commentId": "lg:AOqpTOGtGn-drhiSwQ71zwpOOqbsw7TAkJ9yD_0NiC6Wxf6RNeDplVx--QXvMm7jkpoaxOkZjKQWfemAaqHQkpA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "9.6.1",
+        "timestampMsec": "1335042609109",
+        "starRating": "5",
+        "title": "This is good, no but!",
+        "comment": "Now works on my Galaxy tab 7+  Very fast and responsive support from author. Excellent app if you want to monitor your favourite open source software project. Thanks.",
+        "commentId": "lg:AOqpTOEWBliquOBqELxKnXBzsQZNUN8faGsDBDKL7K3v1UgDpCaViaWhlZdWp65b0mXVE0StOx7olUpDqSTAUrg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.4",
+        "timestampMsec": "1328065818537",
+        "starRating": "4",
+        "title": "Love being able to reference work on the go",
+        "comment": "Never mind.... thinking of a different product ... this is awesome!!!",
+        "commentId": "lg:AOqpTOFWSAiy6JTOwVK34Xw_uZtD53tSgAZ011AdVNuzI5iy10HXx41vcd44k_RH5pccIyNpC91SqJhK5-bbUI4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.3",
+        "timestampMsec": "1295439898856",
+        "starRating": "0",
+        "comment": "This doesn\\'t work for me, all my repositories are on the svn:// protocol which doesn\\'t seem to work on here. Are there plans to implement this soon?",
+        "commentId": "lg:AOqpTOGzvl2BS3wCnm33CDxfbd6xwVmTnZWizqIeSEErQsI7ifqfPN3TIcP7i22Ft0KhHhJWjfGfSWtMYsppCMg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.3",
+        "timestampMsec": "1318738679531",
+        "starRating": "4",
+        "title": "Not bad.",
+        "comment": "Would be considerably more useful with a diff facility",
+        "commentId": "lg:AOqpTOGOUp27_uY3xz1aXldwf7iX_Q9dGWYnxs_IDDPlvvtEjmDL4Id5LWTY4sEj1y9y33aDK-N7c5iTzJVIHww",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.8.9",
+        "timestampMsec": "1291837811859",
+        "starRating": "4",
+        "comment": "Of all the svn client apps for Android, this is the best I\\'ve found. Its the only one, but good. Browsing repo by default would sometimes be handy tho",
+        "commentId": "lg:AOqpTOEP-I5xzLpcnsh6W1JahnU3YJM0sEBUeEMmhThKMZWM0sEmTJ0TFzG3DPXRkAPFmSZHeR1bFM20Urv7_NQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.8.9",
+        "timestampMsec": "1292535434862",
+        "starRating": "4",
+        "comment": "I\\'ve used the free version and now I support this through the donated version. But I still wanna be able to download a whole folder not just files.",
+        "commentId": "lg:AOqpTOEM-Z8_b20lGpcODs9Xzm11-OaJWull77lg3mGM1GUQ_snWKaQV5lusw4CbhjUYItnrUEHsKD4OwHR5P3I",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.8.7",
+        "timestampMsec": "1284959641511",
+        "starRating": "5",
+        "comment": "Very cool. Hoping for svn:// support one day",
+        "commentId": "lg:AOqpTOFva4M-nCZIjkz9juDPY9_K34Iwh2TYmtVddfaRaXdknPN8tmQzVY4dYYhrcATkCO_EclnOZLjldKM6JQQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.8.7",
+        "timestampMsec": "1279842633797",
+        "starRating": "5",
+        "comment": "Couldn\\'t imagine the day I\\'d be checking out svn on my phone. Thanks for this.",
+        "commentId": "lg:AOqpTOFcIPoJiwTCGE0iNQVkiA-_CD7FXtZcwIQM6OTj3y-cjxnFG4gU5VpeK4RpyENfoB3hpKPlxq3542lBqRc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.8.2",
+        "timestampMsec": "1272617025257",
+        "starRating": "4",
+        "comment": "Works well for viewing repositories and the change files. (Paid version does not replace previously installed free version and doesn\\'t use its data)",
+        "commentId": "lg:AOqpTOGWWH4KQ7Bgnjc1kzBIDJmTPO_LRhrwaVb-Bl6kXMXbAqnUdYOocQmoCB1WlkDVBl9JUuMXi7ZNPuJYoEY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.8.2",
+        "timestampMsec": "1272599518270",
+        "starRating": "1",
+        "comment": "fc on htc hero",
+        "commentId": "lg:AOqpTOG0-3eTRsMgyXoiauTXYvYRYDJxe1yWJS0ON6pAUfa-N99Sr3x5phKsO_l8ftKpRomZZYVpzYCCYoZTusw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332339551829",
+        "starRating": "2",
+        "title": "Needs svn protocol",
+        "comment": "Would love to use this but need svn:// protocol.",
+        "commentId": "lg:AOqpTOFH1ay1aob5cgvSVP8I2agpS48VZ23VSrSYHnh8No1xVlhfDNrgUnRDnzXuuYigUSKdZVXGpBBvxiYHGtw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

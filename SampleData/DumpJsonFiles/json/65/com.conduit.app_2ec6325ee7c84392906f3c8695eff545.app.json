@@ -1,0 +1,42 @@
+{
+  "title": "Joomla! open source CMS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_2ec6325ee7c84392906f3c8695eff545.app",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "July 30, 2013",
+  "version": "1.1.2.80",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "genetica multimedia gmbh",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_2ec6325ee7c84392906f3c8695eff545.app",
+  "extendedInfo": {
+    "installSize": "7.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Remain update with the news from joomla.org: development,security,announces and more!Joomla is an award-winning content management system (CMS), which enables you to build Web sites and powerful online applications. Many aspects, including its ease-of-use and extensibility, have made Joomla the most popular Web site software available. Best of all, Joomla is an open source solution that is freely available to everyone.What's a content management system (CMS)?A content management system is software that keeps track of every piece of content on your Web site, much like your local public library keeps track of books and stores them. Content can be simple text, photos, music, video, documents, or just about anything you can think of. A major advantage of using a CMS is that it requires almost no technical skill or knowledge to manage. Since the CMS manages all your content, you don't have to.What are some real world examples of what Joomla! can do?Joomla is used all over the world to power Web sites of all shapes and sizes. For example:    Corporate Web sites or portals    Corporate intranets and extranets    Online magazines, newspapers, and publications    E-commerce and online reservations    Government applications    Small business Web sites    Non-profit and organizational Web sites    Community-based portals    School and church Web sites    Personal or family homepages",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_2ec6325ee7c84392906f3c8695eff545.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.conduit.app_2ec6325ee7c84392906f3c8695eff545.app.permission.RECEIVE_ADM_MESSAGE",
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

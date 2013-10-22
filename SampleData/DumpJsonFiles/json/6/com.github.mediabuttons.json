@@ -1,0 +1,205 @@
+{
+  "title": "Media Buttons",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.github.mediabuttons",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "June 14, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "649",
+  "rating": "3.9969184",
+  "contentRating": "Everyone",
+  "creator": "Cory Williams",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.github.mediabuttons",
+  "extendedInfo": {
+    "installSize": "379k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Universal media control widgets that can control any media app that works with bluetooth controls (AVRCP).  Use them to play/pause whatever music or other audio is currently playing instead of hunting for the controls for the media player you are currently using.Great for control of media apps that don't have a control widget (such as Google Listen).  Also useful on car dock screens or lock screens that take widgets (like Car Dock Home v3 or WidgetLocker).This widget will NOT appear on the lockscreen unless you also buy an app like WidgetLocker that can put widgets on the lockscreen.  Android makes it difficult to alter the lockscreen and other apps like WidgetLocker take care of the heavy lifting needed to make it work.This \"app\" won't appear in your list of apps because it is a widget.  If you are unfamiliar with android widgets, watch this video to learn how to use them: http://cnettv.cnet.com/use-widgets-your-android-phone/9742-1_53-50082570.htmlEach widget is a single control (play/pause, next, previous, fast forward, rewind) so that you can add the buttons you want and arrange them as you prefer.  You need to start your music the first time directly from your media app, but then you can use the widgets to control the music.Works by emulating a bluetooth control device (AVRCP), so it only works with a media app if that app supports bluetooth control.  However this widget itself doesn't use bluetooth, so it is usable even if your phone doesn't have bluetooth.Known to work with:* Google Listen* Mixzing* Pandora* AudioGalaxy* Rhapsody* The Blur music player on Motorola handsets* Google Listen* Amazon MP3Known to not work with:* DoubleTwist (doesn't seem to have any bluetooth support AFAICT)Now supports themes.  If you want to change your theme, add a new widget and use the \"Select Icon Theme\" button at the bottom of the configuration screen.  This will change the theme for all existing widgets.  Two themes are included right now and I'm open to suggestions for more.  It also supports adding your own theme.  If you know how to create a png file and a zip file, you probably have enough know-how to make your own theme.  For details, read https://github.com/corygwilliams/MediaButtons/blob/master/doc/zip_themes.txtLicensed under the Apache License.  Code available at https://github.com/corygwilliams/MediaButtons",
+    "reviews": [
+      {
+        "timestampMsec": "1368697067654",
+        "starRating": "1",
+        "title": "doesn\\'t work at all anymore",
+        "comment": "on my phone it works flawless, but on my n7 with jellybean it only works with google music, if i am listening to pandora and i hit the pause button it will immeditaly start playing the last song i listened to in google music i hit the pause button again to pause the song now loaded in google music it resumes the song in pandora.  update: no longer works in google play music",
+        "commentId": "lg:AOqpTOHBsWfNwOMOGY85TDGwVqUf1bK7yJ_ypZjmBVpLlmnD13MEbmqI03LMCSVjq-Q-wkKbH6IuzSmQMQaATQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1321219967237",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Working great with iHeart Radio and Pandora.  I put one big \\\"play/pause\\\" button on my desktop and also on my lockscreen (using widgetlocker).  If I start playing Pandora from the Pandora app, then I can use the MediaButtons \\\"play/pause\\\" button to play or pause it.  No looking for the Pandora app, just click the play/pause button.  If I pause Pandora and then open iHeart Radio, then I can use the same play/pause button to control iHeart.  Basically you\\'re just saving yourself a few clicks & desktop room.",
+        "commentId": "lg:AOqpTOHxZIlTTdNru5PEiuKFyYywsIVdgyxJ6KjXxHx6bSbF2JG68bk2SXW69qNd6lCB388hQUqwRxghwLHqEQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339547267511",
+        "starRating": "3",
+        "title": "Only works to Play/Pause.",
+        "comment": "Using on USA HTC One X: Only the Play/Pause button works. If doubleTwist is paused - the RW or FF buttons will resume play, but they don\\'t actually rewind or fast forward.",
+        "commentId": "lg:AOqpTOGwwCJbm6T1EC2Jei4Hx_utYBOnpxXjv6JHJSnVsAFRdA0ynCSP97cs2PZaU5RkGJc9vKT11marRd3lvA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337263698662",
+        "starRating": "1",
+        "comment": "Doesnt even appear in my list of apps. Thanks for wasting my time twatface",
+        "commentId": "lg:AOqpTOFXBagtprpQdij7ciafNYHFb-pDjR8Sxr-P4L1dH9H8fxFszI1Ld58NXONgkSB9oX4ROIHZtsY52LEAIA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331874515043",
+        "starRating": "4",
+        "title": "Great idea",
+        "comment": "Great idea on how to implement near-universal media controls. I just wish more themes were included. At least it is possible to add custom-made buttons, despite the fact they will lack animation.",
+        "commentId": "lg:AOqpTOExwyCxaoCjlb3a8cTR8DbW4nc5k4PBx6kGOJZ2qFnc8IkhelAkjTmyq2LnMvbgnaBSKvHZLGkrm1Cc_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1322623335149",
+        "starRating": "5",
+        "title": "Simple and Easily Themable",
+        "comment": "Works just as described, exactly what I was looking for. Making your own theme is a breeze as well. Thanks!",
+        "commentId": "lg:AOqpTOGff7xA3sez3XkdWM88SUsNs2P51pnXJivHXnIAkOWqhaxNW_X435JiJuWa07blIvM-KYBrJH5DGqmnAA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332820027521",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Just what I was looking for. I needed large buttons to use in my car dock to control the btunes application. Simple and functional.",
+        "commentId": "lg:AOqpTOEAM2k0M3KkUGfJ2dJFhOaR1J-GX0p17vj9t6wiWLgYxGvBZch5fLHut1OYAU499HaiiFwH2RTcxz6WGA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342454752941",
+        "starRating": "3",
+        "title": "Samsung Galaxy pocket S5300",
+        "comment": "The buttons do not work on my phone. The play/pause button changes sign when music is played but it cannot control the player itself",
+        "commentId": "lg:AOqpTOFNCV6ePR3CwpSWhq9fXCvXvqIgfyyXVgdYSHpFIxzNqGqTMVwtUhqbaG6-ShYjpvRIC3MzcXwJGBvpxg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360319843199",
+        "starRating": "5",
+        "title": "Just what I was looking for.",
+        "comment": "More themes would be nice. Until then, that link you included explaining how to make your own will do.",
+        "commentId": "gp:AOqpTOHjh3skChKZ9CdArdCEJ0VVAiDyd_zighnEi47ibQEfBNlD_xB180P75LxyYW4ZgPV5yP7iQ3tmIq4mqw",
+        "author": "Eric Cinseros",
+        "authorURL": "http://lh4.googleusercontent.com/-Yrw0H7_M3do/AAAAAAAAAAI/AAAAAAAAAAA/PX1jfG8V3yA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Yrw0H7_M3do/AAAAAAAAAAI/AAAAAAAAAAA/PX1jfG8V3yA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1320701866875",
+        "starRating": "5",
+        "title": "Love the compatability",
+        "comment": "I use this app with spotify, google music beta, and amazing mp3. It works great. I added the widgets to my car dock home v3 app. Great combination.",
+        "commentId": "lg:AOqpTOH-WNcFqYOoi2kJGnbfnp2Y76dmMTNaulAbhmePiC78CAPA9CBp5WLs64D8SE4Wre53q8maXlSKWJzGxQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332108525022",
+        "starRating": "4",
+        "title": "Simple, works well",
+        "comment": "Does exactly what I want it to. Almost uninstalled for it being so ugly but then I read the description and whipped up my own theme. The folder wasn\\'t there but I just had to go and make it and it worked great! I use it with widget locker and set my grid to 5 across so they fit in the middle okay, but a 4x1 widget with previous-pause/play-next would be good. I use it with Spotify. Thanks Cory! :)",
+        "commentId": "lg:AOqpTOFoemW2wcfsFOwct5os2EuFx4iWPtnvGGygmkv39c0X0QvJKWd3N53WwOdlAKNmeGedQibVdGZb6-09uw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331787788424",
+        "starRating": "5",
+        "title": "Sweet",
+        "comment": "This does exactly what it\\'s supposed to do. People who can\\'t figure out how to use widgets should brick their phone. LG ESTEEM GSEII PLAGUEII 1.8GHz",
+        "commentId": "lg:AOqpTOF04v8vsXFStpeyZGHR1nfwvz1YdblNo4hi-d_UrI3x9BMgaEUpivud86CjbnlNxt99x4D_td8nrUwOhQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311625787172",
+        "starRating": "5",
+        "comment": "clean,simple, and it works! perfect music control app. atrix 4g",
+        "commentId": "lg:AOqpTOEroOxk1wowp3IXEkUcUtralZkwT6vFqY26O5Rnt-faYgJahgXzSxZrHxcNG2OKtnOn2Frc519b6mwcsQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320425317154",
+        "starRating": "4",
+        "title": "Works Bionic with WidgetLocker",
+        "comment": "Using Droid Bionic with WidgetLocker lock screen and works great! Seamlesly working with Pandora and Google Music. Please add display of song title.",
+        "commentId": "lg:AOqpTOEb82SRFpXVM_Oe1haQIforU-TOy8HLQhXvMZ3qqvs4HB5kjljuIVHKvuvGHqdKupzP5wdASlh5vH-i6Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335762820697",
+        "starRating": "5",
+        "title": "Love it!",
+        "comment": "I absolutely love this! It\\'s exactly what I was looking for instead of having the full Android music widget. :)",
+        "commentId": "lg:AOqpTOHD-2pcIn2NJjVv1SQR2PmjmO4PO_AFD7sGsCtIPoYV85PyiyQ_A9kF1MS9g4Q0oU47I2M7sbjPs287sQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346171732675",
+        "starRating": "5",
+        "title": "Great customizable buttons!",
+        "comment": "I only wish for a song title and artist part to go along with these widgets.",
+        "commentId": "lg:AOqpTOHz2QI2rZ-SDkBU6iRAydLVTharrHGSvFv6ILB4kJNG_13KuDx38Ic7-cINs_ZT_NU9hBSQhSTc17SGnw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324046250887",
+        "starRating": "5",
+        "title": "works perfectly on GSII.",
+        "comment": "just have to know how to get to it in widgetlocker (does not show up on lock screen automatically).",
+        "commentId": "lg:AOqpTOFf7KcBBe5H80-9dTub2WnAxH4LoXI2Exbgp1NFJjFTmdG7cF3nKDHjZ6HhVAx0fYm5Vqh1V-o75wbcmQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311411302572",
+        "starRating": "5",
+        "title": "Great alternative to phantom pro!",
+        "comment": "Phantom was my goto until they started charging for support of google music app. This works perfectly can\\'t wait for more themes and some vol buttons",
+        "commentId": "lg:AOqpTOFqAetM2aDlSRIt8W1qk0lyv19FxlYt2Qwsq1B5JtqYb5RKPbVHcnC-yNi_icE4BZ9BELDNFLKAiZlvyQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373930131186",
+        "starRating": "1",
+        "title": "Problem w pandora on galaxy s4",
+        "comment": "Galaxy S4... will pause pandora... hit play and it takes about 1 minute for playback to resume. Not an issue w data service.",
+        "commentId": "gp:AOqpTOG8CyvoKEjyIm6lx40LaGoQvwdoBwcSnHpAydrSU-3BwKEr5VzH2n5HTBJw0NJCFQ8eoO4q5zGAEkIg6w",
+        "author": "Nic Slay",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355426677127",
+        "starRating": "2",
+        "title": "good start",
+        "comment": "but how about more variety ; 3d , glass, etc. buttons? Btw where is that Flaming Lips widget in the pic?",
+        "commentId": "lg:AOqpTOHc5S7-wI7Et7syRP8SgtMkMgT5XwFW1Gvyoo5Sd-ZjIbEH1gfRvcT4mYRR-bGoVVHsfqrKYjBBSNMM9Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

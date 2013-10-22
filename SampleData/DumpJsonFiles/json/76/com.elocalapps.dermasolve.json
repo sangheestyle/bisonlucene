@@ -1,0 +1,45 @@
+{
+  "title": "Dermasolve Psoriasis Treatment",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elocalapps.dermasolve",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "August 13, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Netserver",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elocalapps.dermasolve",
+  "extendedInfo": {
+    "installSize": "7.2M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "DermaSolve was specifically formulated to treat the symptoms of Psoriasis & Seborrheic Dermatitis.DermaSOLVEÂ® is a new treatment for psoriasis that utilizes Ovasome Technology. Ovasome Technology simply put, is the process of incorporating Egg into topical skincare products. Amazing as it sounds, it took years of development and this patented process is exclusive to L'AVENIR skin care products. With over 70 vitamins, minerals and proteins found in the Egg, DermaSOLVEÂ® is a revolutionary product in the skin care industry. This incredible doctor recommended psoriasis treatment product not only helps to exfoliate dry, dead skin cells, but also provides the body with nourishment that it needs to look healthy again. DermaSOLVEÂ® provides results without using cortisone or steriods. DermaSOLVEÂ® is produced with cutting edge technology and is the only product on the market that contains the beneficial properties of the Egg. Why should you buy DermaSOLVEÂ®? Because IT WORKS - GUARANTEED!",
+    "reviews": [
+      {
+        "timestampMsec": "1376446038094",
+        "starRating": "5",
+        "title": "Great Product Nice App!",
+        "comment": "Makes it easy to order on your phone.",
+        "commentId": "gp:AOqpTOGT3pxX_KBtw0DLTVb6BYUzvpbLVQsriyOcJmE3kO_vxyzjUK9tsChMmU4VYLsNHQM6_K3lGeiCm3ARUGs",
+        "author": "Mike Marenick",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.elocalapps.dermasolve.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

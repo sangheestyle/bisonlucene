@@ -1,0 +1,41 @@
+{
+  "title": "Drive Apple",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dmeautomotive.driverconnect.apple",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "May 2, 2013",
+  "version": "1.2.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "DMEautomotive",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dmeautomotive.driverconnect.apple",
+  "extendedInfo": {
+    "installSize": "6.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Drive Apple app is your personal, mobile automotive assistant to allow you to browse across Apple Automotive Group's dealership locations:-Search dealership locations in one app by using your location or finding on the locations map-You can select your preferred store to view Special Offers, New/Used vehicle inventory and to schedule service appointments (you can switch your store at any time by going back to the locations map)-Pull service history by registering your vehicle by VIN and Last Name-Receive Service Reminders for your registered vehicles-Useful car tools such as flashlight, parking assistant and finding the cheapest nearby gas-And much, much moreâ¦.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "com.dmeautomotive.driverconnect.apple.PROPELLER_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

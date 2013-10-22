@@ -1,0 +1,39 @@
+{
+  "title": "Lee Medical Practice",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.NicholasLeeMicheleLee_39",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "October 27, 2011",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.NicholasLeeMicheleLee_39",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is the personal App of Nicholas and Michele Lee's Private Practice situated in West London, England. They have been in private practice for over 15 years and this App gives details about their practice, contact details, maps of the attending hospitals, some of their patient handouts and mroe. Nicholas Lee is a Consultant Ophthalmologist with NHS base at Hillingdon Hospital and The Western Eye Hospital. Michele also works with him as an Ophthalmic Technician. Michele Lee is Paediatric Physiotherapist specialising in Dyspraxia, DCD and co-ordination difficulties.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.cloudninedevelopmentllc.NicholasLeeMicheleLee_39.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

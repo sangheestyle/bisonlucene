@@ -1,0 +1,41 @@
+{
+  "title": "Sparks Street",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.favequest.mea.sparks_street_mall",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "June 12, 2013",
+  "version": "1.1.20",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Favequest Corp.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.favequest.mea.sparks_street_mall",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Sparks Street is Canada's Historic Open Air Linear Square and North America's Original Pedestrian Promenade. This app is your guide to everything Sparks Street has to offer, including all its businesses, services and festivals. With the Sparks Street App, you can select the Ottawa Rib Fest or Buskerfest for complete details about each festival.The App includes: Events - detailed listings of all events. Instantly add them to your calendar! Find the exact location with a single touch.Services - All the businesses on Sparks Street are included with their address, phone number and web site. Shop - Find all the great places to shop on Sparks Street. Dine - Find a great place to eat on Sparks Street. Call for a reservation with a single button press. Sparks Cam - Souvenir Cam with a commemorative frame. Rewards - Find out about our rewards program! If you are a member check on your points.Parking - Find the nearest and cheapest parking. Ottawa Ribfest - switch to the Ribfest app within Sparks Street and get a special version with all the Ribfest details.Map - See all the locations for everything on Sparks Street. Use your phone's built in GPS to get turn by turn directions for driving or walking!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.favequest.mea.sparks_street_mall.permission.MAPS_RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

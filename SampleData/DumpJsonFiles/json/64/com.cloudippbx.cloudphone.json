@@ -1,0 +1,54 @@
+{
+  "title": "CloudPhone(C2DM)OS2.2 or later",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudippbx.cloudphone",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "September 8, 2013",
+  "version": "2.0.14",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Comtech",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudippbx.cloudphone",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "SIP Dialer for cloudippbx.com*For android 2.2 or later.SIP Dialer for Use 3G/WiFi/WiMAXBecause of using C2DM technology, duringthe waiting of inbound call it will not consume battery.Transfer,Group RingingCall Recording,Monitoring,IVR,etc...Business Dialer with a lot of Features.You can use 03/06/045/052/011/022/092/050 DIDs!!You must be available to subscribers cloudippbx.com.This application only android 2.2 or later",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_LOGS",
+      "android.permission.ACCESS_PROVIDER",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.cloudippbx.cloudphone.permission.C2D_MESSAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.RAISED_THREAD_PRIORITY",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

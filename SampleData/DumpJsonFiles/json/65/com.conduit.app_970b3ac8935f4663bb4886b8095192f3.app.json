@@ -1,0 +1,47 @@
+{
+  "title": "Amazon Daily Deals",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_970b3ac8935f4663bb4886b8095192f3.app",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "April 16, 2013",
+  "version": "1.5.15.745",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "28",
+  "rating": "4.857143",
+  "contentRating": "Low Maturity",
+  "creator": "Slick2Buy",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_970b3ac8935f4663bb4886b8095192f3.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Slick2Buy, The #1 Amazon's Deals Tracking website. We track all the TOP DEALS on Amazon.com and posted. You don't have to visit any other website for Amazon.com HOT DAILY DEALS.We Post Amazon Lightning deals Item and Price, Five minutes before Amazon.com posts Lightning Deals!!! This site is provided to you in association with Amazon.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_970b3ac8935f4663bb4886b8095192f3.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

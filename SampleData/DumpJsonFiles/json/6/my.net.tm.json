@@ -1,0 +1,67 @@
+{
+  "title": "TM Dialer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=my.net.tm",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "November 8, 2010",
+  "version": "3.1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "29",
+  "rating": "4.4827585",
+  "contentRating": "Not rated",
+  "creator": "Reapfield Technology Sdn. Bhd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=my.net.tm",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Android users can now get connected to anyone, anytime, anywhere, at a much more affordable call rate. TM Dialer is exclusively offered to Telekom Malaysiaâs BBphone subscribers. Please visit your nearest TMpoint and register for your very own BBPhone account.Visit our website www.bbphone.com.my for more information.",
+    "reviews": [
+      {
+        "documentVersion": "3.1.0",
+        "timestampMsec": "1341331985968",
+        "starRating": "5",
+        "title": "Akela",
+        "comment": "Very good!!!",
+        "commentId": "lg:AOqpTOGT2cl0hfNp7ibYJUv1YnalLXkqhKD6KF94RAJFIc0udehGIRE21GtMFHQeN7bNkZ1iTlR9Sw42dohlVg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.0",
+        "timestampMsec": "1289273340440",
+        "starRating": "5",
+        "comment": "Hebat!",
+        "commentId": "lg:AOqpTOH1MCxYOzTiU2BK0J63YWF2jjXLhlq7ZuPjdiaabyFJBJFPLxGw3m_4kPB0uAzeePGDnakAetZjHai7MQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347984035069",
+        "starRating": "5",
+        "title": "Mendenye",
+        "comment": "Ape bendenye yg best",
+        "commentId": "lg:AOqpTOFqLlIvtDBDwag0WaMrDMoqqqWgNFsQFLVKsPddgE4-gHXJHym4juscSaYutjAMgypQ55IsWDi-3YkXeQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.PERSISTENT_ACTIVITY",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

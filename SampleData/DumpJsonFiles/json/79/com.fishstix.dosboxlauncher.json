@@ -1,0 +1,240 @@
+{
+  "title": "DosBox Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fishstix.dosboxlauncher",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 24, 2013",
+  "version": "2.1.6",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "185",
+  "rating": "4.2486486",
+  "contentRating": "Everyone",
+  "creator": "Fishstix",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fishstix.dosboxlauncher",
+  "extendedInfo": {
+    "installSize": "498k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "DosBox Manager serves as a Game/Profile Manager (similar to D-Fend Reloaded) add-on for DosBox Turbo (required). It makes managing multiple DOSBox configuration files easy by offering a clean interface, shortcuts and a graphical launcher. Once your DOS games are configured in DosBox Manager, its very easy to setup or start them, or alter their configuration.Features:=========â REQUIRES: DosBox Turbo (2.0.0+): http://goo.gl/PNNMeâ Manage Multiple DosBox Turbo Games/Profilesâ Access to full DosBox Turbo Configuration for each profileâ Launch Games with a single clickâ Edit autoexec.bat to allow automatic startupâ Import custom icons (Dos Cover Art) - Android 2.1+â Use System Text editor (if installed) to edit config file.Support:========Questions? Need Help?  Please e-mail me for support.  Google does not allow me to answer or respond to comments on the Google Play Marketplace.",
+    "reviews": [
+      {
+        "documentVersion": "2.1.6",
+        "timestampMsec": "1377652460887",
+        "starRating": "1",
+        "title": "What! ?",
+        "comment": "Not a computer wiz but what the bloody hell do I type at the beginning!? I don\\'t have it hooked up to anything,  somebody PLEASE HELP!!!!",
+        "commentId": "gp:AOqpTOF_Xlpt2MVXoSNZ4zGqonVacOdL3EvEYiefWir6dZ1sP0N4uXyyEKkNmTYYqE17BcFE9Q5C3FkKcqAy2u4",
+        "author": "Alex piechowski",
+        "authorURL": "http://lh4.googleusercontent.com/-QqQwIHYMTyc/AAAAAAAAAAI/AAAAAAAAABg/ZMPviGY1C_0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-QqQwIHYMTyc/AAAAAAAAAAI/AAAAAAAAABg/ZMPviGY1C_0/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.5",
+        "timestampMsec": "1377407323986",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Great addition to your DosBox Turbo program. Keep up the great work.",
+        "commentId": "gp:AOqpTOEf7rGZaPE2zG3K1qevoiGzvYAHAOOuRZEXUmAElBFKyfxPUYPdlZVIPtxb9zLmSMocvU0pQ7_Q8Cf81n0",
+        "author": "John Jara",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.2",
+        "timestampMsec": "1376585598083",
+        "starRating": "5",
+        "title": "Great program to access DOS programs",
+        "comment": "Does just what it says. Great if you remember DOS from back in the day. Allows for creation of batch entry of commands via seperate autoexec.bat files. Highly recommended download once you have installed DOSBOX Turbo.",
+        "commentId": "gp:AOqpTOGwhSjF9eWYqIZp6cGV7oOAkgqJZlTPHAj6jCu98rtoasp9qBr27QgUi5071RMGlNfxFKSEf-o5NHtdSHU",
+        "author": "Fred Brown",
+        "authorURL": "http://lh5.googleusercontent.com/-6Cdt-wfGnUo/AAAAAAAAAAI/AAAAAAAAAAA/n2ZuxReuWTo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-6Cdt-wfGnUo/AAAAAAAAAAI/AAAAAAAAAAA/n2ZuxReuWTo/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.2",
+        "timestampMsec": "1376159487920",
+        "starRating": "1",
+        "title": "crashes",
+        "comment": "every time I open the side menu.",
+        "commentId": "gp:AOqpTOGy1kdzJdb_D1l4oRgB6fkMUc7-1U9TPHGs1JGd32RuQr-rv9hpROfAOW4gaHEtellygD7Fwl4DdS-QL-U",
+        "author": "Thomas Clelford",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.2",
+        "timestampMsec": "1376594774146",
+        "starRating": "4",
+        "title": "Mt32 question ?",
+        "comment": "Where to put mt32 Rom files: root internal storage or dosbox folder (profile location)?",
+        "commentId": "gp:AOqpTOHGe2aO8O-vEBzq5nLKIbS4B3I0WKoH16NZUgqlRYNYAz8EWcNPs3GxhauBYODxzZ7nFNF50VW8OJqrK3o",
+        "author": "Jason Wood",
+        "authorURL": "http://lh6.googleusercontent.com/-Tg3JltVeyxM/AAAAAAAAAAI/AAAAAAAAAD4/JlM_lI4GoWc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Tg3JltVeyxM/AAAAAAAAAAI/AAAAAAAAAD4/JlM_lI4GoWc/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.2",
+        "timestampMsec": "1375625830462",
+        "starRating": "5",
+        "comment": "Awesome",
+        "commentId": "gp:AOqpTOGW2rhUsgxsovwu6NYCcFlXdziRCuwcmZQqRWfQhsEmq5_BJu92zOSCZemy1r-AW5DRqTBprmATmyxMDHk",
+        "author": "Sebastian w\\303\\245linder",
+        "authorURL": "http://lh5.googleusercontent.com/-ARHtlR1hcY0/AAAAAAAAAAI/AAAAAAAAASE/q8uhyEcBQPk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ARHtlR1hcY0/AAAAAAAAAAI/AAAAAAAAASE/q8uhyEcBQPk/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.2",
+        "timestampMsec": "1370128660759",
+        "starRating": "1",
+        "title": "Complicated",
+        "comment": "Way to complicated and not a lot of instruction",
+        "commentId": "gp:AOqpTOFfQaYZP17UdMO22MW_q921SP0piaoiTPg4jAz8S0PZWHevEq5cqXTiuuxa2TCXFVpA7UisKlwPtXbjdvc",
+        "author": "steve larue",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.2",
+        "timestampMsec": "1368901389079",
+        "starRating": "5",
+        "title": "DosBox",
+        "comment": "CooL",
+        "commentId": "gp:AOqpTOHsnvI1gVBo5Vsmz2yCQWIn4ysxJsujxfTdGsQzEheZXymI6VippE7AF1enFRZrRIhoQ9T0_v97ttPDBY8",
+        "author": "Del Wykes",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.3",
+        "timestampMsec": "1363626474523",
+        "starRating": "3",
+        "title": "controls portion locks up",
+        "comment": "I cant add unique controls profiles to this because when the phone rotates, it causes it not to be able to add new controls. Sadly thats the only reason i got this app. Id rather be able to switch controls profiles within dosbox turbo itself, bc it would be more convenient.",
+        "commentId": "gp:AOqpTOE2Orlp9moAd-SZpMgGpaq6lfjUnQ10dlKMz5Lb9QFjORDxyvJGn_uFs5A9gA9jIxu9bh4P9sp319lXvAg",
+        "author": "Joseph Hines",
+        "authorURL": "http://lh6.googleusercontent.com/-tUF2sve4fV0/AAAAAAAAAAI/AAAAAAAAADg/pgXe17KSDCo/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-tUF2sve4fV0/AAAAAAAAAAI/AAAAAAAAADg/pgXe17KSDCo/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1362347102159",
+        "starRating": "5",
+        "title": "very useful",
+        "comment": "obviously, makes managing and running different dosbox configurations a breeze.",
+        "commentId": "gp:AOqpTOF3Ewu90G2M81IVtNAprd1s9fTR0NqF6z7HZIJYFW7RBVjs24Q4RjPITn1oIjwYBI0ml6BtH93OTO-j8cU",
+        "author": "lalo lalouve",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1361055947759",
+        "starRating": "5",
+        "title": "Awesome. 2.00",
+        "comment": "Strange that cycles are unselected after the update. Have to reselect \\\"auto\\\" in most games so that they will run. Otherwise awesome as usual.",
+        "commentId": "gp:AOqpTOH6p6qS8ie1zhgCnNlolFCc74PZ3i36tP5LoJpbU1mIIWzqFjlVMcrHc_TrWQ7ackCIvjwNs_evNYbFwic",
+        "author": "Rob MATHESON",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.17",
+        "timestampMsec": "1360907516385",
+        "starRating": "5",
+        "title": "Super easy to configure and run dos games!",
+        "comment": "I love that with this manager, I don\\'t have to fiddle with configurations every time I want to start a new game. Set it up once just the way I want it, then just click to run. Reminds me a lot of Boxer for mac.",
+        "commentId": "gp:AOqpTOHCE7fZ0q3XcM9aABP9tnrM-C-VJ2FAvBi6GM2Xbt_GMQkBPJC-Cu-94QcRO-oid2OFLDR5oTLi_BHMEvo",
+        "author": "Yana Malysheva",
+        "authorURL": "http://lh6.googleusercontent.com/-5FKMaNVx4CU/AAAAAAAAAAI/AAAAAAAAAAA/zLjkGErkHiI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-5FKMaNVx4CU/AAAAAAAAAAI/AAAAAAAAAAA/zLjkGErkHiI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.17",
+        "timestampMsec": "1358021964089",
+        "starRating": "5",
+        "title": "Works perfectly",
+        "comment": "I literally blew the dust off of a couple of old games and now can replay them!",
+        "commentId": "gp:AOqpTOFM-1I2z39KvynV0ViJuoYztkITJ0TsFSb5W5ejZ3AoF81UfeSV-izLNP6mRrq3_gg6MuWMi9Wj7StThCI",
+        "author": "Colin Lammie",
+        "authorURL": "http://lh5.googleusercontent.com/-HLLSL2YBH9o/AAAAAAAAAAI/AAAAAAAALgc/NNirPlVKQaY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-HLLSL2YBH9o/AAAAAAAAAAI/AAAAAAAALgc/NNirPlVKQaY/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.14",
+        "timestampMsec": "1352156476213",
+        "starRating": "4",
+        "title": "Valid",
+        "comment": "Is a very good app but to unleash the power of dosbox it will be better to directly edit the profile configuration file.",
+        "commentId": "lg:AOqpTOHF5RYbaKmI3X5IwnSukrJl9CAMFzYaW0RxaqA80_jWURgZMy1mSl0uYpYzuPtCx8ms20rKSGe0lcjF07o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.14",
+        "timestampMsec": "1353448228435",
+        "starRating": "5",
+        "title": "Beautiful !",
+        "comment": "Works & functions nicely.",
+        "commentId": "lg:AOqpTOG3xjAMcCtroVNQ906gbLPmO3N4hSAnAl5lVto9iHi0AvOH4SIhUe2AWbyqkehkdn66R1Ybw62QtpTA7fY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.13",
+        "timestampMsec": "1350841136047",
+        "starRating": "5",
+        "title": "Dbt frontend",
+        "comment": "They\\'re greeeaaaaatttt",
+        "commentId": "lg:AOqpTOFIfk6QFMEBNxomsXESE9zpsk6Vrrra3lMh2wZrixL8K_-rfe42Ni8v-OTiiJ4dj7mK2i1eVXrzIoqmYhw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.12",
+        "timestampMsec": "1347727321915",
+        "starRating": "5",
+        "title": "Thank you",
+        "comment": "Do the work once. All my favorite DOS games are just a click away.",
+        "commentId": "lg:AOqpTOHiFCJ1tQfOw7xnBiDyPbOpc_myNoJFp8KcJSDtOYxjg8UGTVApjn2Msxy8AxAZDqK-cBtgVTDj6nTMK2A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.12",
+        "timestampMsec": "1347539424401",
+        "starRating": "5",
+        "title": "Does what it needs to",
+        "comment": "Pretty friggin good",
+        "commentId": "lg:AOqpTOHCOvKqhyNl1SOtZqAor6SCJBqHuPxTrzopiWR1KscJKu7nqYhOSszVPJnAy89bqDPoEhYX-nINYd-mpI8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.12",
+        "timestampMsec": "1341630799220",
+        "starRating": "5",
+        "title": "Makes launching games painless",
+        "comment": "Lets you set a custom configuration for each game, and you can even edit the config file to mount .cue/.bin ISO files and launch the game automatically. Easy to set up and use if you\\'re familiar with DosBox on the PC. Just make sure you enable manual mode in the settings or it will overwrite your changes",
+        "commentId": "lg:AOqpTOEQhHeXOfktmlqh1DzGEU4lUZPJMGYgzeogEazjmx4h8TmclAJ6TJK7Sp7oY0jWds_iNYvIZQtA0vWiIiU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.12",
+        "timestampMsec": "1339144770945",
+        "starRating": "5",
+        "title": "Awesome frontend",
+        "comment": "really handy frontend for the high performing dosbox turbo",
+        "commentId": "lg:AOqpTOEtfU0g5IuNNJZDbHlK6rvxtfy3e1p4sC9-ONktmbHcYSx1O9fjAFr_CVtMIf6nwyJbxXvn2gxVPC_5zEs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

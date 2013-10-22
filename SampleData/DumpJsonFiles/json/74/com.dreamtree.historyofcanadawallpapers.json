@@ -1,0 +1,42 @@
+{
+  "title": "History of Canada Wallpapers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamtree.historyofcanadawallpapers",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "February 19, 2012",
+  "version": "2.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "dreamtree™",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamtree.historyofcanadawallpapers",
+  "extendedInfo": {
+    "installSize": "8.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Canada has a colorful, rich history portrayed well in these photos. Because of the age of these public domain photos, the quality of the prints vary. However, each photo is carefully optimized for high resolution Android devices. This app will still work on small screens and other devices but for optimal quality, please view the application on a high resolution device.âââHighlights:â Optimized for high res phonesâ Unique images you won't find anywhere elseâ Hand-picked and cropped to precise dimensionsFeatures:â Works offlineâ Contains 36 high definition imagesâ Offline optimized for speedâ Install to SD card (requires Froyo+)Legal / Credits:Application by Dreamtree Mobile. Based in Seattle, WA.  http://dreamtreemobile.com These images are public domain. We believe our images fall under the fair use doctrine as they are reduced size and excerpted for informational purposes. However, if you would like to request removal of an image from our collection for copyright reasons, feel free to contact us at dreamtreemobile@gmail.com and we'll be happy to oblige.Note on Permissions:android.permission.INTERNET is used to connect to the advertising mediation servers and our partner advertising network servers for the purpose of retrieving advertisements. android.permission.ACCESS_NETWORK_STATE is used to determine the existence and quality of a phone's network connection for retrieving advertisements. android.permission.GET_TASKS is used to prevent advertisements from being retrieved when an application is in the background by checking to see if the application's task is active when an advertisement is requested. This is a workaround for the lack of global notifications about the active state of Android applications.android.permission.READ_PHONE_STATE is used for accounting and auditing purposes by advertising networks. Advertising networks use anonymous unique identifiers to limit the number of impressions and clicks attributed to individual users. android.permission.SET_WALLPAPER is used to set the home screen background wallpaper.android.permission.VIBRATE is used to vibrate the phone on successful completion of setting the wallpaper.android.permission.WRITE_EXTERNAL_STORAGE is used to save images to the SD card. Images are automatically saved in a sub-folder of /wallpapers/ on your SD card named based on this app. They are only saved to the SD card when you set them as a wallpaper. This way, if you remove the app, you will retain the wallpapers on the SD card. You may delete the wallpapers from your SD card if you wish without affecting the functionality of the app.Tags: first people, history,landscape, culture, reference,",
+    "reviews": [
+      {
+        "timestampMsec": "1367955717730",
+        "starRating": "3",
+        "title": "Great historical pics but...",
+        "comment": "How about an option to view some details about the pics.",
+        "commentId": "gp:AOqpTOFW12_FFLtp-4nX4-U8IuLSbP66F6rEtrzBQosd1Zk4_B2Ur_JLBB-B99JBk5LDdH_OR2f9VErv2_CRYA",
+        "author": "Roger A",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_WALLPAPER",
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

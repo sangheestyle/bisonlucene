@@ -1,0 +1,51 @@
+{
+  "title": "APS Nuclear Physics Fall Mtg",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.apsdnp11",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "October 21, 2011",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.apsdnp11",
+  "extendedInfo": {
+    "installSize": "4.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Official app for the 2011 Fall Meeting of the APS Division of Nuclear Physics, containing the scientific program, scheduler, maps and more! Meeting Dates: 10/26/11-10/29/11 Meeting Location: National Superconducting Cyclotron Laboratory Michigan State University East Lansing, MI",
+    "reviews": [
+      {
+        "timestampMsec": "1319494264689",
+        "starRating": "4",
+        "title": "Nice!",
+        "comment": "Very simple and intuitive glad they have an app!  Suggestion, would be nice if your place was remembered in the talk list when hitting back.",
+        "commentId": "lg:AOqpTOFT2UOm0pkvH-Q8RBFQFfKGyVoTy_l4hvI0CDtofTwx5zcBY3mCEUaIE5M12YOVoeu-MI2FLcjbjZN0aQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351123597419",
+        "starRating": "3",
+        "title": "Ok, but...",
+        "comment": "The app asks for rather extensive permissions. 3 stars because of the lack of explanations why, for example, it wants to read my contact list, or get my GPS location. I cannot fathom why that would be needed.",
+        "commentId": "lg:AOqpTOEirR-_q8alV81uHcreK35maMmdDBgfd0QG9fAHN661YL6ayIKjDXLFzzEh4edU09ClcoLAtHK1mqBPjQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

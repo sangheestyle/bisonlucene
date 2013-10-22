@@ -1,0 +1,53 @@
+{
+  "title": "Swift Current Broncos",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.Broncos",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "August 15, 2013",
+  "version": "1.0.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Low Maturity",
+  "creator": "Buzzer Apps Mobile Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.Broncos",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official app for the Swift Current Broncos! One tap access to all the information a fan could want. Gives you mobile access to everything you need to follow the Broncos including scores, the latest news, the schedule, social media feeds and of course stats and the team roster. We hope you enjoy using this app to enhance your Broncos Fan Experience!",
+    "reviews": [
+      {
+        "timestampMsec": "1350009158887",
+        "starRating": "5",
+        "title": "Nice app",
+        "comment": "Great app for keeping up to date with the Broncos!!!",
+        "commentId": "lg:AOqpTOHxs02xeAzeKxpmNo4BA-F5XyOlhk3KgfPDc9vCAjwkc_b3BHp5SbJTXbp9W_eLRfvW0UFriMjoF-5Waw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375030538367",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Great if you couldn\\'t catch the game",
+        "commentId": "gp:AOqpTOFWdKQ_yac7hgWXM3D60CAoTLEpaw0GDJChs8emECGyeoyTZSn8xp7MNIhw6S1Avv2nmnzPyPlIUroRUw",
+        "author": "Megan Fast",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.buzzerapps.Broncos.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

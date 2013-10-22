@@ -1,0 +1,36 @@
+{
+  "title": "Home Model Engine Machinist",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.gcspublishing.hmem",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "December 6, 2012",
+  "version": "1.3.18",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "GCS Publishing, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.gcspublishing.hmem",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Mobile application for Home Model Engine Machinist. Forums for home model engine machinists and makers.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.gcspublishing.hmem.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

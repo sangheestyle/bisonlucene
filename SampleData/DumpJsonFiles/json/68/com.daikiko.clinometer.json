@@ -1,0 +1,53 @@
+{
+  "title": "ezClinometer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.daikiko.clinometer",
+  "category": "Tools",
+  "price": "$3.62",
+  "datePublished": "May 10, 2010",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "10",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Sora Takayama",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.daikiko.clinometer",
+  "extendedInfo": {
+    "installSize": "960k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "For a geological research.Step 1. put device bottom on the surface of a geological layer.Step 2. click MENU to hold.Step 3. click StrikeDip.You can calibrate and cancel the background magnetic vector of device itself.Ver.1.2 Digital Sextant.",
+    "reviews": [
+      {
+        "timestampMsec": "1274726362455",
+        "starRating": "5",
+        "comment": "Good idea! If it will also have CLAR :-) (dip direction instead of strike direction), and you can export data will be great.",
+        "commentId": "lg:AOqpTOH5yvrdc5MoMgRIbaF4a1J6CDXO4A2_BEnqaHDwfsYvO2dJCwgqJjFMkHq1PtywZfrZ0CNz4Bl3O-M0K5w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316211150148",
+        "starRating": "5",
+        "comment": "Great app as it supports magnetic sensor calibration: no other app on the Market delivers it!!",
+        "commentId": "lg:AOqpTOGsgFmlKGAiL4uOwshm9JzeYlEElvrc4BuRAUEqiXRMHATCOBTrID7P2Y-vwJ_EEpsioNog8hF-r5utXog",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1278170345174",
+        "starRating": "5",
+        "comment": "Strike & dip works great",
+        "commentId": "lg:AOqpTOE7aXRXI696c5Q9ZAzaIUZhT9iNCGgVZvjytTwb-85VGn9dSkPQEDoYzWbID660DsP_AveTaY3XHOVOBIA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "West Highland Way",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.caltonhill.android.whw",
+  "category": "Travel & Local",
+  "price": "$3.11",
+  "datePublished": "July 13, 2013",
+  "version": "1.4",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Calton Hill",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.caltonhill.android.whw",
+  "extendedInfo": {
+    "installSize": "272k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app provides a detailed guide for people walking the West Highland Way, Scotland's premier long distance path. Use it to plan your route and accommodation in advance and also day-to-day as you walk the route.When planning you can:- View the route overlayed on Google Maps Satellite view or Road Map view.- Display the locations of essential facilities on top of the map, including hotels, hostels, B&Bs, campsites, restaurants, pubs, shops, transport links, etc.- Display information about each facility, including links to the appropriate website for detailed information. So you can find the best accommodation options and link straight to their websites for contact details and booking.- Display the locations of other points of interest, including local mountains and historic sites. Further information and links to websites are presented where appropriate.- Display detailed information about the distance of each day's walk, including height ascended and descended. You can also pick any 2 points on the route and display the distance between them.- Choice of miles or Km.- Customise the segments of the route so that each day's walk is tailored for the distance you want to walk and the places you want to stay.- Create and save your own favourite places on or close to the route, for example if you find accommodation that's not listed in the app itself.When you come to walk the route, in addition to everything listed above, the app uses GPS positioning to allow you to:- Display your current position on the map of the route.- Pick any point on the route and display the distance to it from your current position.You can also keep a diary as you walk the route:- Your diary entries are tagged with the date, time and your GPS position.- You can display your diary entries overlayed on the map of the route.- You can send individual diary entries to your friends by email or SMS.- You can also send your whole diary as an attachment to an email.Watch out for future walking, hiking and trekking apps developed by Calton Hill Ltd. We intend producing guides for other National Trails, Great Trails, Long Distance Routes and other waymarked trails and recreational routes in the UK, England, Scotland, Wales, and Ireland. Please send us an email telling us which other routes you'd like us to cover.",
+    "reviews": [
+      {
+        "timestampMsec": "1365966314227",
+        "starRating": "4",
+        "title": "Very useful",
+        "comment": "Very useful, used every day on walk. Map often didn\\'t load though, red route showing path still appeared with accurate GPS tracking so map didn\\'t matter too much as the distance calculator still worked & I could find out how far shops, pubs etc were away",
+        "commentId": "gp:AOqpTOFZPzr8omM_GLFlTaAMgYWXSegcbHInYvNMvHw8dBfTDNt75fPAlZOPz-WRnqznlz6GfvlGgMNi2Ji-740",
+        "author": "francine grimley",
+        "authorURL": "http://lh6.googleusercontent.com/-7CeRVRPmuxw/AAAAAAAAAAI/AAAAAAAAADc/PEmxmymYHWI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-7CeRVRPmuxw/AAAAAAAAAAI/AAAAAAAAADc/PEmxmymYHWI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

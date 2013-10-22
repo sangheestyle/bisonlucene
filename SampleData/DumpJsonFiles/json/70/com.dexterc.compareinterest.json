@@ -1,0 +1,31 @@
+{
+  "title": "Compare Interest Rates",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dexterc.compareinterest",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 3, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dexter Damien Chan",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dexterc.compareinterest",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "A Simple Calculator to help you compare two different Interest Rates and get a set of results like:- Total Amount Saved from Any Amount at start, Monthly Intended Savings and Number of Saving Years- Total Interests earned from the two Interest Rates- Total Savings Accumulated (a sum of the above two)- Difference in Savings madeUse this piece of information to help you appreciate how much more money you can make by exploring plans that can give you higher interest rates.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

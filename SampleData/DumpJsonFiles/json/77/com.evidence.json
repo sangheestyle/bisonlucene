@@ -1,0 +1,82 @@
+{
+  "title": "AXON Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evidence",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "April 22, 2013",
+  "version": "1.4.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "13",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "TASER International, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evidence",
+  "extendedInfo": {
+    "installSize": "1,004k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Easily upload photos, videos and audio recordings to your Evidence.com account with your Android mobile device. Evidence Mobile allows easy and intuitive capturing, metadata editing, and uploading to our Cloud based system all from your mobile phone or tablet.",
+    "reviews": [
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1377803837111",
+        "starRating": "5",
+        "title": "Great tool for the field",
+        "comment": "The GPS tagging feature is great! And you have the ability to turn it off. You don\\'t even need to have your GPS running.  Would like to be able to tag the image with notes after I have saved the picture, unless I haven\\'t figured it out yet...",
+        "commentId": "gp:AOqpTOGUeN9LIaN5Zx2UObGCX0OvwsmCFs7cNGe0bFrUNuXpIq84HX1N1oU5NHCxm0fA-5_cOGYvXDffpPDJSA",
+        "author": "Doug Landers",
+        "authorURL": "http://lh4.googleusercontent.com/-kjsc8xr_xyE/AAAAAAAAAAI/AAAAAAAAAEM/pIezmD3JH5k/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-kjsc8xr_xyE/AAAAAAAAAAI/AAAAAAAAAEM/pIezmD3JH5k/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1377808368550",
+        "starRating": "5",
+        "title": "Intuitive and easy to use.",
+        "comment": "Captures multimedia evidence and stores it. Very easy and intuitive user interface.",
+        "commentId": "gp:AOqpTOEHR8dP7AF68bmN7BNLE64035fe9aSF8nNVEAAltgu41b9C8KGha2LBkD-7sSwBnrcz9XExZButSoKnzQ",
+        "author": "Max Nerheim",
+        "authorURL": "http://lh3.googleusercontent.com/-DpCAgLRva7w/AAAAAAAAAAI/AAAAAAAAAEY/qQWliJbKpmQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-DpCAgLRva7w/AAAAAAAAAAI/AAAAAAAAAEY/qQWliJbKpmQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1356164928417",
+        "starRating": "5",
+        "title": "Excellent app.",
+        "comment": "This has proven to be an excellent side app when used with the Axon.   I highly recommend it.",
+        "commentId": "gp:AOqpTOF7agycLXdoNRoze69DrMU8FSl93-nu5Ok_VWhEoIXHCIdzLNAEwNcYdc2Vmd3SYvKqxqTBapw2Jz_qQQ",
+        "author": "William Kenealey",
+        "authorURL": "http://lh5.googleusercontent.com/-VMh03c283Xg/AAAAAAAAAAI/AAAAAAAAAgs/0LeXtZfr84s/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-VMh03c283Xg/AAAAAAAAAAI/AAAAAAAAAgs/0LeXtZfr84s/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367948656908",
+        "starRating": "5",
+        "comment": "This Is A Great Tool!",
+        "commentId": "gp:AOqpTOGjg3FAm0StTGM-ABVt-Yz6dmLUjzh_-fNCV9z2394h61ZhOxEya5yMKE-keMiz29J9jnWDohonjqwanQ",
+        "author": "Andrew Mellen",
+        "authorURL": "http://lh6.googleusercontent.com/-mQNwXVrGCVM/AAAAAAAAAAI/AAAAAAAAAC8/A4OwJoHDFPY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-mQNwXVrGCVM/AAAAAAAAAAI/AAAAAAAAAC8/A4OwJoHDFPY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.CAMERA",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.MOUNT_FORMAT_FILESYSTEMS",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.STATUS_BAR",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Add Me!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.csf.callingcard",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "May 7, 2012",
+  "version": "BETA",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "High Maturity",
+  "creator": "Cavern Solutions Factory",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.csf.callingcard",
+  "extendedInfo": {
+    "installSize": "270k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Quickly add friends in your contact list or facebook, and soon more places.Only configure your number and share your QRCode with your friends and you instantly you have your friend in your own contact list. Or on Facebook.All you have to do is download the BarCode Scanner available from ZXing.Phone Contact:1 - Configure your name and number.2 - If you want that someone add your number you can touch on the button 'Show your number QRCode'If you want  add someone on your contact list you can touch 'Add friend on Contacts', and read friend's QRCode.It's easy and fast for uncountable social situations when there is any kind of trouble to share contact information.There is no need any kind of previously registered  account. And we won't do that.Configure what you want and share with who you want.You can find friends added using Add Me! looking for Add me! - [friend added] on your contact list.#####Please don't give us a negative feedback. It's just a beta version. We are working to provide the best for you##############",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

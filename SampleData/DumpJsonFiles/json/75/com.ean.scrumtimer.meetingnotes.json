@@ -1,0 +1,61 @@
+{
+  "title": "Meeting Notes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ean.scrumtimer.meetingnotes",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "May 25, 2011",
+  "version": "1.1.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "2.25",
+  "contentRating": "Everyone",
+  "creator": "EAN",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ean.scrumtimer.meetingnotes",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The application will help the meeting organizer to gather meeting notes and help attendees stay focused, restrict the meeting duration. Every meeting is immediately followed by a meeting report with all the collected issues, action items and meeting details.Features- User friendly, intuitive interface, most of functions are managed by several clicks - Separate timers for meeting and for participants- Highlighted time counter if it exceeds the predefined time limit- A note, action item, issues can be added by several clicks and then managed in a simple way- Excel report with meeting notes, who is talkative or silent, and elapsed time collected historically. Can be sent over email to participants- Participant details, photo can be imported from Phone Contacts. A photo can be also captured using a phone camera or taken from a picture gallery",
+    "reviews": [
+      {
+        "documentVersion": "1.1.3",
+        "timestampMsec": "1332503115447",
+        "starRating": "2",
+        "title": "Still under development",
+        "comment": "Apparently, this app isn\\'t ready yet and the download is actually Scrum Master Assistant (older version) from EAN playing a stand-in (and so 2 stars). If you want to take meeting notes, wait. Install the updated Scrum Master Assistant from the proper listing if you want just a timer + to-do list.",
+        "commentId": "lg:AOqpTOGwtR-pJF_VgL-emB6Lj7Q0gEMruUpjFwsmoyeES4Upnq_oPT8iUV3-5PE2KHXeQyllHHzhYXKRlVPxHf0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.2",
+        "timestampMsec": "1306639781446",
+        "starRating": "1",
+        "comment": "Never opened. Force closed every time I tried to open it on the Epic. #fail",
+        "commentId": "lg:AOqpTOF-pJm9ObqiJ_UInyTSrD0qsFp7E-V2ZozVY6AS1tlARy8lZsm95updzdz9bLMNAJXiDtox7svXUArfqkE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343848667586",
+        "starRating": "1",
+        "title": "Not what its states on the listing",
+        "comment": "Very limited timer of some sort. Not intuitive oe easy to use",
+        "commentId": "lg:AOqpTOFVr4FaY4C3RX6reLqd24nRApDaK0uxth9nZ2UjEQjm9AeILP2hrXvGVyN7KVkmVpzIT0HAg9CwfMp-TMY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

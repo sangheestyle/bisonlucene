@@ -1,0 +1,58 @@
+{
+  "title": "My Weather",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.esl_weather",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "July 30, 2013",
+  "version": "1.9.5",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "111",
+  "rating": "3.5045044",
+  "contentRating": "Low Maturity",
+  "creator": "Hami apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.esl_weather",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Support multi-national city weather information, including a desktop widget, weather preview and management of multi-city search city weather function.Keywords: weather, weather forecasts, weather tools, weather conditions, the National Weather.",
+    "reviews": [
+      {
+        "documentVersion": "1.8.3",
+        "timestampMsec": "1353565277153",
+        "starRating": "1",
+        "title": "Very poor",
+        "comment": "Can\\'t detect whether its day or night. The icon shows night when its day time . Auto location never works .",
+        "commentId": "lg:AOqpTOFQhSDkiOt5G-TINTGp9FAaY462e-NaOipiey1dFsTX1cH5pVda0LK2ZJfb5P-ZUtEjazojKTMDLQCGhMU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.3",
+        "timestampMsec": "1351133936913",
+        "starRating": "5",
+        "comment": "Gud nice.",
+        "commentId": "lg:AOqpTOGajg0w640lso06VxDy9BLqnW-2xvaPmC78qv8qkcdWOJ5jD75iMCGv7Iog82BOiiLHKXYOHQRlyYCNb0A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352750228503",
+        "starRating": "1",
+        "title": "Sucks",
+        "comment": "Add lebanon to the map .\\\\/.",
+        "commentId": "lg:AOqpTOE9ITi9myPbsGIss0RquAaSHm7K00J-OCO0j-xpmAzIyj_aS4K1VXQeYNMR78RvmEl22cmXqVKON-7dQzQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

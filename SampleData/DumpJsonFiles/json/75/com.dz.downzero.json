@@ -1,0 +1,53 @@
+{
+  "title": "Down Zero",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dz.downzero",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "March 31, 2012",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "DownZero",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dz.downzero",
+  "extendedInfo": {
+    "installSize": "155k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Down Zero is an IDPA scoring application.  This application was created as a tool to actively track your scores for each stage of an IDPA match.The application is designed by IDPA competitors and intended for personal use.  Match data can be exported from the application directly into an email program on your phone.  The exported data is in a coma separated format which makes it easy to cut and paste into a spreadsheet program for analyzing and archiving.New Matches can be created with up to 16 stages.  Each stage can be configured for a maximum of 8 strings and up to 16 targets.  Entering stages results can be done quickly as the match officials call out the scores.  As data is entered for each stage a score is automatically calculated allowing a quick comparison to the official match score sheet.  Using the menu, save button will save the stage results into a database for later review.A summary screen displays data for each stage consolidated into raw time, total points down, total penalties and total score.  A match summary is also shown with totals for all stages.  From the summary screen the menu button can be used to export the data to an email program.Upon installation be sure to check out the Help menu on the main screen for detailed information on using the application.",
+    "reviews": [
+      {
+        "timestampMsec": "1336308663968",
+        "starRating": "5",
+        "comment": "Great app that could become awesome! 3 suggestions, option to default a shoot for the classifier. Option to export or email your results. Option to capture only hits and points down per Target. Really do like this app though... thanks a tonne.",
+        "commentId": "lg:AOqpTOGccraz2T3q5xPe_lGBC9c4dzx6fsmJ3gsER4Tc0F6YWenD2Hs4pqpV9biQaJSE_awS3VBfLT0CQMgUbuE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330389995439",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Thanks for a great IDPA app. Works great and best if all it is free. Thanks",
+        "commentId": "lg:AOqpTOENQ29EPSSzN10HdyHRhsXB75e1AxGcNQdhgMv9MCXpT63M1dm05v3UqaArDcrKrrKn5WC3UcIwaguAUxo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370220114471",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Finaly a decent app for IDPA scoring",
+        "commentId": "gp:AOqpTOHavMhrpDuQSf4OipQFMDwkAcmtDZlHomZ0hEfJD6-oSLuTy1v1XPfsELSJ6kuI8hneWNGO2x8-pMGDgWQ",
+        "author": "Goran Jordanov",
+        "authorURL": "http://lh3.googleusercontent.com/-5Y8caAh-qiA/AAAAAAAAAAI/AAAAAAAAJs0/txqHLJiLaPo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-5Y8caAh-qiA/AAAAAAAAAAI/AAAAAAAAJs0/txqHLJiLaPo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

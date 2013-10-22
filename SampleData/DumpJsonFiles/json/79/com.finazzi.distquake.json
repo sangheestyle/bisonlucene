@@ -1,0 +1,42 @@
+{
+  "title": "Earthquake Network",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.finazzi.distquake",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "September 1, 2013",
+  "version": "3.9.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "80",
+  "rating": "4.1",
+  "contentRating": "Low Maturity",
+  "creator": "Francesco Finazzi",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.finazzi.distquake",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Use your smartphone or pad as a vibrometer to automatically detect earthquakes and vibrations. Report an earthquake that you felt and see the real time map with the reports of the other users and their messages related to the quakes. Enter the Earthquake Network contest and guess where the next eartquakes will strike looking at the global tectonic plates. Download the Pro version for more features such as sound alarm in case of a quake, faster notifications (every 5 minutes instead of 15 minutes), e-mail notifications and list and map of the earthquakes detected by the global official monitoring networks such as USGS (U.S. Geological Survey).Visit www.earthquakenetwork.it for more detailsQ: What is Earthquake Network?A: Earthquake Network is the first Android application for detecting earthquakes through a global network of smartphones and pads.Q: How does it work?A: When the device detects the waves of a quake, the event is notified to a server along with your geographic position.Q: What happens if I move my device?A: Since the single device is not reliable, a quake is actually detected when many devices in the same area detect the quake at the same time.Q: How do I use the app?A: Start the application and use your device as always. The application works as a seismometer only when the device is placed over an horizontal surface, is charging and the screen is off.Q: Does the app drain my battery?A: No. The app is only running when the device is on charge.Q: Does the app collect personal informations?A: No. Only the geographic position is anonymously collected and it is deleted from the server after 10 minutes if no earthquakes are detected.Q: Why should I keep Earthquake Network on my device?A: Because the app can be useful to detect earthquakes only if it is installed on a large number of devices and it is free. Thanks for your cooperation!",
+    "reviews": [
+      {
+        "documentVersion": "3.5.9",
+        "timestampMsec": "1368210222962",
+        "starRating": "1",
+        "title": "Bad",
+        "comment": "No bravo",
+        "commentId": "gp:AOqpTOE4dRFdSnBFdsAGXX56a4YhL8e2eMgrcOWu8k-Ehv4vQt7uRVsqcQBf-hkFJlOGetv1xw4cEwvi9piCuw",
+        "author": "Babu Kakkadan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

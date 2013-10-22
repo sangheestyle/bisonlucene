@@ -1,0 +1,43 @@
+{
+  "title": "Quick View",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fasoo.digitalquick",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 9, 2013",
+  "version": "1.4.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fasoo.com, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fasoo.digitalquick",
+  "extendedInfo": {
+    "installSize": "13M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Cloud storage like Dropbox, makes it easy to share your files. At the same time you are at risk for data leaks and security attacks. With DigitalQuick you can now persistently protect your files in the cloud and your device. Your files that are dragged and dropped or stored directly in to a Dropbox folder or any folder on your computer are automatically encrypted and protected persistently when they are in use, copied, moved, and shared with others. Further more you can easily set permissions such as read only, edit, print and more for your files and monitor all file and user activities from our website.Quick View, Android app for DigitalQuick, lets you securely access encrypted files on the go. Even when opening, feel assured that your files are always encrypted.Securely sync and share!Features:- View DigitalQuick encrypted files.- View major office documents.- Zoom to any size from multiple-pages-on-screen, to huge.- Slide show presentation.- Search for text.- Show properties of encrypted files.- Set a passcode on mobile devices for additional security.File formats:- Microsoft Office 1997 and above:- Microsoft Word, PowerPoint and Excel 97, 2000, XP, 2003, 2007, 2010, doc, docs, xls, xlsx, ppt, pptx- PDF- JPEG, PNG, GIF, BMP imagesBy downloading you agree to Terms of Service: www.digitalquick.com/terms",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.fasoo.digitalquick.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.READ_OWNER_DATA",
+      "android.permission.WRITE_OWNER_DATA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

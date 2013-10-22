@@ -1,0 +1,45 @@
+{
+  "title": "Say What?! Comics",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_3955964fe10d4a7fa5ca57163e8c5b42.app",
+  "category": "Comics",
+  "price": "Free",
+  "datePublished": "December 29, 2011",
+  "version": "1.4.4.1725",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Elbert Maurice Love",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_3955964fe10d4a7fa5ca57163e8c5b42.app",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mort is an eighteen year old senior in high school who inspires to become a journalist. His primary goal is to make his blog entitled \"Say WHat\", the most read blog on the web and there's nothing he won't do to achieve this. His interest is writing about things that make you shout, \"SAY WHAT\"! So, we can only imagine what stories we will find.Mort and the guys have made plans for a memorable final year in high school; eating pizza, football games and girls. Things get complicated when Mort dedicates most of his time on his blog. Thus leaving Mort to find every opportunity possible to include his friends with his blog. Weather it's investigating a story or helping Mort avoid a beat down because of something he wrote. Which is a freaquent occurrence.",
+    "reviews": [
+      {
+        "timestampMsec": "1353686793613",
+        "starRating": "5",
+        "title": "Interesting",
+        "comment": "Cool comic book",
+        "commentId": "lg:AOqpTOFjiVeVH_Q1aiTKmyJoCobUuwx5pJVTX7g7Qk4maJC-uwonc3hfOOLGWUQYdoSf0IHLPLtsa3s_t8I3Gg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_3955964fe10d4a7fa5ca57163e8c5b42.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

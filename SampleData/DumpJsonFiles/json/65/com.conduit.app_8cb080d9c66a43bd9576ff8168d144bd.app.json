@@ -1,0 +1,46 @@
+{
+  "title": "Call A Doctor (MeraDoctor)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_8cb080d9c66a43bd9576ff8168d144bd.app",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "December 6, 2012",
+  "version": "1.2.7.140",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "MhealthVentures",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_8cb080d9c66a43bd9576ff8168d144bd.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "With MeraDoctor, you can be speaking to a licensed MBBS doctor in minutes, for an ultra low cost. Single consultations cost Rs 99 (less than US$ 2.00). And multiple unlimited consultation packs start at Rs 299 (US$ 6.00) for three months. Plus, you can speak to a doctor in your choice of English, Hindi or Marathi... whatever you're most comfortable with!Here are just a few of the reasons why thousands of patients call MeraDoctor to speak with our licensed doctors, 24 x 7.1. You need immediate reliefWe've got reliable advice, home cures, and OTC drug prescriptions by SMS.2. The treatments you're taking have not helpedWe often correct a misdiagnosis or incorrect advice.3. A recurring problem is flaring up againWe know the latest treatments and best drugs.4. Your doctor didn't answer all your questionsAsk us anything your doctor didn't have time for.5. You need help making a decisionWe'll explain the options or offer a second opinion.6. You want to take medicines safelySmart move. It's dangerous to mix the wrong drugs.7. You need help becoming a better youHow to live healthier, eat better, get fitter.8. You're preparing to visit a specialistKnow the RIGHT questions to ask during your visit.",
+    "reviews": [
+      {
+        "documentVersion": "2.7.140",
+        "timestampMsec": "1374951601603",
+        "starRating": "5",
+        "title": "SamSung Galaxy S",
+        "comment": "Superb services and well qualified Doctors. Love it.",
+        "commentId": "gp:AOqpTOEnnomhJY9d3ugzFca-vo8GcQG09MXXLxURxdtkDEFceF7h71UWKZOiiBKmgJiLRpOm0lSIvFsC9Nin_A",
+        "author": "sumit singh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_8cb080d9c66a43bd9576ff8168d144bd.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

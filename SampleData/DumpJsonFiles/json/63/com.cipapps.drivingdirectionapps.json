@@ -1,0 +1,50 @@
+{
+  "title": "Driving Direction",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cipapps.drivingdirectionapps",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 10, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.5",
+  "contentRating": "Medium Maturity",
+  "creator": "CIP Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cipapps.drivingdirectionapps",
+  "extendedInfo": {
+    "installSize": "4.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "If you are new to a place and driving on the roads, you need to have our brilliantly developed android driving directions app in your phone that will surely help you in knowing about the mapquest mobile.Some of the great features of this app include the following.â¢\tMany articles and blogs related to driving directions for ipad, mapquest mobile iphone.â¢\tThe app provides you with fair mapquest mobile 4 reviews; which can be viewed right through your hand device even without the internet connection.â¢\tVideo clips on the related search make the app more exciting.Get your app today!DISCLAIMER: The content provided in this app is collected using Feeds and Videos are hosted by YouTube and all are available in public domain. We have not uploaded any videos to YouTube. Apps is fetching the data from RSS feeds of different sites.This app provides an organized way to browse, read contents and watch YouTube Videos.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.cipapps.drivingdirectionapps.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

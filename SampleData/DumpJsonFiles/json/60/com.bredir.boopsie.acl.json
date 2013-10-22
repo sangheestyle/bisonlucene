@@ -1,0 +1,80 @@
+{
+  "title": "Alameda County Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.acl",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "September 3, 2011",
+  "version": "4.5.62",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "3.7142856",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.acl",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Search for books, place holds, ask questions, follow tweets and more. Try an easy way to search for books by typing the first couple of letters of words.  So for: âJacqueline Kennedy Onassisâ simply type âja ke onâ.  Try it!We hope you enjoy using ACLibrary on the Go!",
+    "reviews": [
+      {
+        "documentVersion": "4.5.62",
+        "timestampMsec": "1365999827051",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Great way to view current books and renew. Would like to stay logged into multiple accounts to monitor my kids\\' use. (hey 1-star-reviewers: click \\342\\200\\235my account\\342\\200\\235 to log in)",
+        "commentId": "gp:AOqpTOEf_HLqWzRSnWoTfpFXoP32xIwXIFdkT-8IdtO4eFUD8Q2hpMAeYCc50WBUR419kW0MgnbdCnVmyRLcuZM",
+        "author": "Grant Hughes",
+        "authorURL": "http://lh3.googleusercontent.com/-hv7UQ_rnDNc/AAAAAAAAAAI/AAAAAAAAAAA/DDgoCIQ9u1A/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-hv7UQ_rnDNc/AAAAAAAAAAI/AAAAAAAAAAA/DDgoCIQ9u1A/photo.jpg"
+      },
+      {
+        "documentVersion": "4.5.62",
+        "timestampMsec": "1322608858468",
+        "starRating": "5",
+        "comment": "It\\'s wonderful!",
+        "commentId": "lg:AOqpTOHgukz1p11SC24_5XXOvOIV9Ilc0HczbE4rCLFdPt-GZrRFQBMDwwhIMF5XMjSCjiphN2zqvoxpOHn3ck8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.62",
+        "timestampMsec": "1326393606518",
+        "starRating": "1",
+        "comment": "I want to give it 5 stars but I can\\'t log in my library card account. Please fix cause I don\\'t see a point to app without being able to log in!",
+        "commentId": "lg:AOqpTOEyLulLAoxk2amgVKqrNcYFQH7NSvYUHKk6_tRVo1gqLEDSiXWwDOKDgkdH1awWekZL06Q4aRZaHtQ5ZPg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.62",
+        "timestampMsec": "1354648468521",
+        "starRating": "4",
+        "title": "Great app! But needs Link+ capabilities",
+        "comment": "This is a functional, fairly easy to navigate app. I love that I can reserve and renew materials from my phone. But I\\'m also a frequent Link+ user and really wish this app had that capability.",
+        "commentId": "gp:AOqpTOE_6oYTekWlXUwdV3J2ezk20ChtAvw4Rigsva_1iWFpwR1xmbxp_-DdYFPxsbxw1ygYcYPKW0Z-_lyCy0I",
+        "author": "Mary Bucci",
+        "authorURL": "http://lh4.googleusercontent.com/-kMmJ3NSh204/AAAAAAAAAAI/AAAAAAAAAo8/l8N01WfT2Iw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-kMmJ3NSh204/AAAAAAAAAAI/AAAAAAAAAo8/l8N01WfT2Iw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1350749287064",
+        "starRating": "1",
+        "title": "Can\\'t log on",
+        "comment": "This app is a wonderful idea, but it won\\'t allow me to log on.  Frustrating.",
+        "commentId": "lg:AOqpTOFqu8_iz79CxJfbrKeiPkjKHBZynT61pfs3oA8Tm1MmATOUAp93pqtewRjQXJwNm54awgETYcUlefbXR9I",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

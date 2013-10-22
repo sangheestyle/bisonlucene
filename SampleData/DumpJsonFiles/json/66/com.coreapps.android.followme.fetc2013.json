@@ -1,0 +1,83 @@
+{
+  "title": "FETC & Learning Environments",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.fetc2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "January 29, 2013",
+  "version": "3.8.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.fetc2013",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "FETC is the content-rich conference that brings education leaders and technology experts together to exchange techniques and strategies for teaching and learning success. Known worldwide for its outstanding program, FETC provides educators and administrators the opportunity to explore the integration of technology across the curriculum -- from kindergarten to collegeâthrough hands-on exposure to the latest hardware, software and successful strategies. FETC offers a wealth of information for all education professions -- teachers, principals and deans, district administrators, curriculum designers, media specialists, technology directors and others.Learning Environments is the face-to-face information resource for professionals serving the K-12 and higher education markets. Formerly the School and College Building Expo, our new name reflects a newly re-energized conference and expo event that fully integrates the latest in education and construction trends and technologies with the creativity and ideas of the design process, to provide you the information and tools you need to support and build the schools of tomorrowâtoday.",
+    "reviews": [
+      {
+        "documentVersion": "3.8.5",
+        "timestampMsec": "1359503445013",
+        "starRating": "1",
+        "title": "Missing Exhibitors!!!",
+        "comment": "Gold Sponsor TROXELL COMMUNICATIONS is not listed as an exhibitor?",
+        "commentId": "gp:AOqpTOHGSzgLqjcUIxy056YVQwJI0OQEUqzF2A71WJGxOJdxRlI9RcLUyVwGbRmiIX7sLqsnLGs4HKYjOXLGI7Q",
+        "author": "Ian Weingold",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.8.1",
+        "timestampMsec": "1359234773080",
+        "starRating": "1",
+        "title": "Does not work",
+        "comment": "This application crashes upon opening when trying to download updates. I\\'m using a galaxy nexus.",
+        "commentId": "gp:AOqpTOHchawYqM_G0sHJ-JHFli2wV-g5GAzZlOw0uxQPjdDxyLiROLzqGBhs7Q4cc4MCEUzLBMaIawvpuSgDANc",
+        "author": "Crystal Barger",
+        "authorURL": "http://lh3.googleusercontent.com/-x6V2-t-GSrI/AAAAAAAAAAI/AAAAAAAACzc/YgDQjn8ESnI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-x6V2-t-GSrI/AAAAAAAAAAI/AAAAAAAACzc/YgDQjn8ESnI/photo.jpg"
+      },
+      {
+        "documentVersion": "3.8.1",
+        "timestampMsec": "1359080607433",
+        "starRating": "1",
+        "title": "App is not working on Samsung galaxy ii",
+        "comment": "App does not work on my Samsung galaxy ii it crashes whlie downloading updates",
+        "commentId": "gp:AOqpTOG4FJBqKLLncI6SKZGOHGq0FN4jdz6uxUEKio4zzWghF69cg78_oMOV19OHH7Ib3hL5lZXQo-qVfIVuAXI",
+        "author": "Asad Syed",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.fetc2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "My Energy Account",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flintenergies.smartapps",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 7, 2013",
+  "version": "1.99.0033",
+  "operatingSystems": "2.2 - 4.2",
+  "ratingsCount": "13",
+  "rating": "4.6153846",
+  "contentRating": "Low Maturity",
+  "creator": "Flint Energies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flintenergies.smartapps",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Our Mobile App is designed to give you fast, secure account access so you can easily manage your account details, view your bill and your account balance, make payments and find payment locations, schedule alerts and reminders, receive push notifications, and more. Nearly everything you can do from our web portal can now be handled instantly whether youâre at home, at work, or on the go.",
+    "reviews": [
+      {
+        "documentVersion": "1.26.0030",
+        "timestampMsec": "1339827869346",
+        "starRating": "5",
+        "title": "Hey micheal .lol",
+        "comment": "My razr has ICS and it works fine...so..hmmm..idk..mine is a port from the 4.0.4..",
+        "commentId": "lg:AOqpTOE-o8vqGz0Ft2_oT4ZjqUEsWYe3cUPaZK0aKoxWBsSVOecbt-o_UWSN0gUiE2PoitppPF39aSLxLhKcCeM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.20.0030",
+        "timestampMsec": "1332596301559",
+        "starRating": "2",
+        "title": "Good Start",
+        "comment": "It is a good start.  No way to exit once opened, please fix!  Also please include daily usage and amount  billed not just the usage graph!!!",
+        "commentId": "lg:AOqpTOGrMm8ZxwKJeSufLxpbThZIqNKSmK8eDdNpMraPLjIIMN-WDpopHFz89sSlUu3iAy33GrVBsVI4lz_t8A8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367947627445",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "User friendly and I love the fact I can pay my bill right from my phone and check my account to see my usage.",
+        "commentId": "gp:AOqpTOGmSuDkUYECR6QjlmWAFRP41Keo9ln1gTwTIhOdFlXlUWiUxyKbMe8nkeQUeoFGHkraTaPm8-Y61IHWF6Y",
+        "author": "Chuck Hand",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335961437129",
+        "starRating": "3",
+        "title": "Please at ICS support!",
+        "comment": "Doesn\\'t work with ice cream sandwich",
+        "commentId": "lg:AOqpTOE20LYZms9l-6lfCFeExvryxxAY1XdvIJ-vPBnVVS6WnAPmnoOc4zzY7LzWwSBBSs_-gcP70DBhIDSlfXk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.flintenergies.smartapps.permission.MAPS_RECEIVE",
+      "com.flintenergies.smartapps.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.provider.Settings.ACTION_LOCATION_SOURCE_SETTINGS",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    ]
+  }
+}

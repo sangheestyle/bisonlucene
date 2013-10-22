@@ -1,0 +1,51 @@
+{
+  "title": "ClickMobile Oil & Gas",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clicksoftware.clickmobileoilgas",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 29, 2013",
+  "version": "1.1",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "ClickSoftware SC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clicksoftware.clickmobileoilgas",
+  "extendedInfo": {
+    "installSize": "16M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "The ClickMobile Oil & Gas Interactive App allows you to experience ClickMobile. ClickMobile is a mobile application platform designed to connect mobile workers with multiple enterprise back-end systems. With ClickMobile, field users can access mission critical information, view their shifts hours, tasks, report their time & attendance, access customer information, report their activities, status, and collaborate knowledge and ongoing information while connected to the enterprise back-end systems. ClickMobile is designed to run multiple integrated apps on multiple devices, and seamlessly function both online and offline. Additional capabilities can be added to the ClickMobile Platform using the Mobility Studioâs visual configuration tools which are designed to minimize the need of coding, and configure a powerful enterprise mobility solution using wizards and drag & drop tools. ClickMobileâs Oil & Gas package Key Features: 1. Advanced schedule view: Shows working hours and optimized schedules. 2. Timesheets view: Reports time and activities. 3. Team view and messaging. 4. My Area maps. 5. Reporting used parts and materials 6. Viewing and modifying companyâs assets and equipment 7. Capturing customer signatures while going through the completion reports",
+    "reviews": [
+      {
+        "timestampMsec": "1375887947884",
+        "starRating": "5",
+        "comment": "Very informative",
+        "commentId": "gp:AOqpTOGnnJPAAZzoKxY-psAteGI8ByfBaLi3vbvWdL5R1zsWU6mcd4FjLZo3yMwa3vrz-oYB35anue5na8t53yU",
+        "author": "Amit Zilberberg",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CLEAR_APP_CACHE",
+      "android.permission.CLEAR_APP_USER_DATA",
+      "android.permission.DELETE_CACHE_FILES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "com.clicksoftware.clickmobileoilgas.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Open Slideshow Gallery",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elsewhat.android.slideshow",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "September 11, 2012",
+  "version": "1.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Everyone",
+  "creator": "Dagfinn Parnas",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elsewhat.android.slideshow",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is a demo app for the open-sourced Slideshow Gallery that was used in the well-known \"Photo Voyages of Trey Ratcliff\" app. The code is available at https://github.com/elsewhat/com.elsewhat.android.slideshow",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

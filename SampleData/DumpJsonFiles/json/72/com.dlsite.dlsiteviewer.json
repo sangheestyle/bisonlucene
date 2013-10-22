@@ -1,0 +1,41 @@
+{
+  "title": "DLsite Viewer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dlsite.dlsiteviewer",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "May 15, 2013",
+  "version": "1.5.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "26",
+  "rating": "2.2307692",
+  "contentRating": "Low Maturity",
+  "creator": "EISYS, INC.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dlsite.dlsiteviewer",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "DLsite Viewer is a free app that allows you to download and view DLsite Touch! contents (such as comics) which require user authentication. [ How to View Contents ]DLsite Viewer allows you to view products easily on your Android device.Useful functions to offer you a pleasant reading:- Show pages in single page view or two page view- Zoom to read pages in your preferred size- Bookmark to resume reading from the page displayed on exit- View pages in thumbnails and auto play[ Bookshelf ]Bookshelves can be viewed in list or rack format.You can add bookshelves at will to organize your library.You can instantly move and delete several products. Easy and simple![ How to Use ]When you purchase a product which requires user authentication from DLsite Touch! and tap the download button, DLsite Viewer automatically starts up and downloads it.DLsite Viewer performs user authentication when the download is complete and you view a product for the first time.[ Languages ]Japanese and English[ Operational Requirements ]Operating Systems: Android 2.2 or greaterCPU: 600MHz  (1GHz or greater is recommended)Memory: 512MBStorage on device: 10MB[ Note ]* We do not warrant the app will run, even if used on a device   with appropriate specifications. Depending on the device   you are using, the app may not operate correctly.* You need to secure that the SD card have sufficient capacity   to store data of products.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1367197239852",
+        "starRating": "3",
+        "title": "Could be improved",
+        "comment": "Certain books don\\'t appear optimized for tablet viewing and appear jagged. Would be good if they added a function to scale all pages a certain size.",
+        "commentId": "gp:AOqpTOEXhg9PakCQA0IUzTqVQIeJw89M9eX6zFABIcSRy8hmgXPsaBepm3StLSpKrldKK6vlYU6L4lQh-S5gRg",
+        "author": "Joe Yabuki",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

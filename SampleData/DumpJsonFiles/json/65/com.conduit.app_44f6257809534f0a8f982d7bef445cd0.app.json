@@ -1,0 +1,40 @@
+{
+  "title": "Z Floor Co. Sports Flooring",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_44f6257809534f0a8f982d7bef445cd0.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 11, 2013",
+  "version": "1.1.2.67",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Bo Peacock",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_44f6257809534f0a8f982d7bef445cd0.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "A mobile or tablet based app designed to bring our company to your device. We specialize in total sport flooring needs and pride ourselves on being a leader in the installation, repairs and maintenance of athletic flooring.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_44f6257809534f0a8f982d7bef445cd0.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

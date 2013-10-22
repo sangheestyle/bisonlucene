@@ -1,0 +1,54 @@
+{
+  "title": "Secret Text Messenger",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exitbrain.texting.codedsms",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "April 3, 2013",
+  "version": "1.5",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "exitbrain",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exitbrain.texting.codedsms",
+  "extendedInfo": {
+    "installSize": "291k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "With Secret Text you can be sure that only the people you intended to read your message will.How it works is that you choose a common password between you and your chosen contact(with an Android phone) and use that password when you message them. The app encrypts the message using your password so that no one can view the message on either phone without putting in the password you chose.With the image encryption you can open or capture an image file with Secret Text and encrypt it as you would with text. Once it's encrypted you can save it to your device, email it with Gmail or share it with other apps like Dropbox to share it with other people. Once the file is encrypted it cannot be changed/scaled or it will not be able to be decrypted.How to Use:-After you have added a contact Click on it to open your SMS Messenger window.-The lock image on the top and by the send button is your encryption indicator. If it is unlocked and white then the messages are sent and viewed decrypted. If it is locked and blue then anything you send is encrypted and you can view the encrypted messages sent to you. Press the lock to change from one to the other.-Use it like you would any other SMS Messenger.You can buy an upgrade in the Settings (top right button). The upgrade removes the ads from the add and speeds up the encryption and decryption of the messages.If you have any questions or feedback about the app, please feel free to email me at  exitbrain@exitbrain.com",
+    "reviews": [
+      {
+        "timestampMsec": "1360487357118",
+        "starRating": "1",
+        "title": "Don\\'t waste time",
+        "comment": "Worse",
+        "commentId": "gp:AOqpTOHPsb1t8WgE3GYiPh6ikedUb5tAQ3vi-IbhDHdpgRy-SYjKUa5Oymcrpwif-OR1KW8UEcnWI2zgZ2e-aYs",
+        "author": "Suraj Upadhyay",
+        "authorURL": "http://lh3.googleusercontent.com/-OhoSc-jEfKU/AAAAAAAAAAI/AAAAAAAAAGY/kgyybJaXRxM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-OhoSc-jEfKU/AAAAAAAAAAI/AAAAAAAAAGY/kgyybJaXRxM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357446998906",
+        "starRating": "5",
+        "title": "Awsome",
+        "comment": "Gud",
+        "commentId": "gp:AOqpTOFPPy8BZ25zws2AOECBXteEPink6Vv3m416WvTytwxYhY7MdV0BAul3mBXvfAa3h6AIlo6pkX5C80nYSUw",
+        "author": "Mano Khan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.RECEIVE_MMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

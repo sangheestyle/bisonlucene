@@ -1,0 +1,40 @@
+{
+  "title": "Christmas Fun Stuff",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.christmas.stuff.fun.pack",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "November 29, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "19",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "CHRISTMAS STUFF",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.christmas.stuff.fun.pack",
+  "extendedInfo": {
+    "installSize": "4.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Christmas Fun StuffWith this app, you always know exactly how long it is until Christmas.Always be prepared with our integrated calendar within the app. Makethis Christmas with Red Santa and White Snow plus our added ringtonesspecially for the ChristmasFeatures:-+ Immaculate User Interface with nice navigation+ Countdown timer+ Integrated Calendar+ Christmas Ringtones, Set your ringtones with one touchChristmas is both a sacred religious holiday and a worldwide cultural and commercial phenomenon. For two millennia, people around the world have been observing it with traditions and practices that are both religious and secular in nature. Christians celebrate Christmas Day as the anniversary of the birth of Jesus of Nazareth, a spiritual leader whose teachings form the basis of their religion. Popular customs include exchanging gifts, decorating Christmas trees, attending church, sharing meals with family and friends and, of course, waiting for Santa Claus to arrive. December 25âChristmas Dayâhas been a federal holiday in the United States since 1870.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

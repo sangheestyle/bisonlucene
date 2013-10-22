@@ -1,0 +1,35 @@
+{
+  "title": "Cosmetic Choice",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cosmeticchoice",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "August 10, 2011",
+  "version": "2.0.1",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cosmetic Choice",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cosmeticchoice",
+  "extendedInfo": {
+    "installSize": "805k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Cosmetics Australia - a leading directory for Cosmetics, Health and Wellbeing.The application allows you to browse specifically in the Cosmetic, Health and Wellbeing sitesso that you have immediate access to information, reviews & blogs about health topics.Allowsyou to easily search for a reputable provider.You can then deal direct with the providers website or immediately make your booking through Cosmetic Choice.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

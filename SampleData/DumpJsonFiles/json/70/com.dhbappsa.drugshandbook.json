@@ -1,0 +1,37 @@
+{
+  "title": "Drugs Hand book",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dhbappsa.drugshandbook",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "August 30, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "freestudioworld",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dhbappsa.drugshandbook",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Very friendly and beautiful interface. The best choice for pocket drugs book.All information about drugs: uses, how to take, side effects.APP FEATURES:Drugs:â¢ Prescription & safety information of 2,000+ drugs â¢ Drug / Brand Search Features.Drug book is the leading medical resource mostly used by physicians, medical students, nurses and other healthcare professionals for clinical information.Drug book delivers frequently updated, comprehensive, practical information on over  2000+ generic drugs. This powerful app contains everything you need to provide better care to your patients including information on dosing and administration, safety, interactions and patient teaching.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

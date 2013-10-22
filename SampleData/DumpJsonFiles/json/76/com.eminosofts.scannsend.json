@@ -1,0 +1,31 @@
+{
+  "title": "Scan N Send",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eminosofts.scannsend",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 8, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "EMINOSOFT PRIVATE LIMITED",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eminosofts.scannsend",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Turn yourAndroid device into a document scanner!Scan To PDF allows you to obtain images of documents from your camera or image library and convert them into great looking multi-page PDF files. The app includes a proprietary image processing algorithm that converts the color images taken from the camera into great looking black and white images. Once the PDFs are generated, you can view the PDFs ,export them via email ,and save in SD card also. Scan to PDF includes many image processing tools such as rotation, crop, copy to clipboard and others.Features:- proprietary image processing algorithm for great looking documents.- import from camera, clipboard, or image library.- export PDFs via email,save in Sd card.- export individual images via clipboard or image library.- magnified view to see full image detail.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

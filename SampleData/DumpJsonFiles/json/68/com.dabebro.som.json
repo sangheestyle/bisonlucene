@@ -1,0 +1,70 @@
+{
+  "title": "Shapefile over Map",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dabebro.som",
+  "category": "Tools",
+  "price": "$7.50",
+  "datePublished": "August 14, 2013",
+  "version": "2.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "14",
+  "rating": "3.9285715",
+  "contentRating": "Low Maturity",
+  "creator": "DabeBro",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dabebro.som",
+  "extendedInfo": {
+    "installSize": "930k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Load your own shapefiles with this Geographic Information System (GIS) directly from the sdcard of your mobile device and visualize them over a map. You can also edit the values of its dbf table and use it in offline mode, loading maps from your memory card. With this GIS application, you can select and load a shp file or load an entire folder automatically. You can select one of these shp files and mark it as the active layer and if you use a long press over one of them you can change its coordinate system, its color or make it invisible.The map will display a series of icons, belonging to each of the records in the active layer, which when pressed will allow you to view and edit information from its corresponding attribute table. The application also allows you to view your current position via GPS and center the map on it. You can choose between several online map servers. Now also includes a tool to measure distances, areas and perimeters.New tool to search shapes by dbf field valueNew functionality to add and delete dbf fieldsNew functionality to add WMS serversA Quick Help has been addedNew drawing system. Now move the map is fasterMore memory available to load larger shapefiles(only in Android versions 3.0 or later)New layers administration systemNew tool to load the last sessionNew auto zoom tool to the active layerNew Settings option to change measure units, GPS update time and character codificationsTo use a map in offline mode, simply download it previously (for example using Mobile Atlas Creator (using OsmAnd tile storage format)). You must copy the map to the folder /sdcard/osmdroid/tiles/MAPNAME and it should be in the format /ZOOM/X/Y.png.tile",
+    "reviews": [
+      {
+        "timestampMsec": "1373624193087",
+        "starRating": "3",
+        "title": "It`s good but can be better",
+        "comment": "Try to use it in fieldwork for updates of my work. Would be great to have a option to add a new field to the database. Also is necesary to have more zoom in (5m) and a button to change the data of a map. My items are not very far from each other, so with this baloons symbols and the higher zoom  its impossible to select most of them, and finally I have to use paper again. Good for showing and with a good idea but at the moment to far from beeig very useful.",
+        "commentId": "gp:AOqpTOFm9vwPVlBYa3RvU0v0vJCvkZonSZS_Rghnq_kS5C2MIBTwIcmf8c-WYHTljU_5N-DQMbCW5suVJhWMf0k",
+        "author": "Sven Adler",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373071128314",
+        "starRating": "2",
+        "title": "Alpha, basics are there, needs UX work",
+        "comment": "Would consider this very much alpha. Tried to use in field to update attributes, frustrating touch controls to highlight feature and access table. Useful in theory, why I bought it, but the UX needs work for actual field use.  Went in loop, zooming out to world view in steps.  Need to think of purchase as a contribution to further work.",
+        "commentId": "gp:AOqpTOEfHIRfMxQCCFoIpkhboaQwgPTstU8nyVboajXfSpqvqZYfqOP5yNePwcRIMSj0fG1wX267dEziUOVXhvw",
+        "author": "Peter Sprague",
+        "authorURL": "http://lh3.googleusercontent.com/-S63aK9Ph0T8/AAAAAAAAAAI/AAAAAAAAADU/ZBX3Vyl5f9w/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-S63aK9Ph0T8/AAAAAAAAAAI/AAAAAAAAADU/ZBX3Vyl5f9w/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364505171942",
+        "starRating": "3",
+        "title": "Good start",
+        "comment": "Would like to be able to 1.Add a feature to an existing layer. 2. Copy/paste a feature. 3. Use offline maps. 4. Use custom icons for points.",
+        "commentId": "gp:AOqpTOHx1lh2r-Alm_N7WsSPp8Zm1yN-g7J8JyI2v_XYtO-eG4IFeV0fRoj7okQmP7DSQ74eGQF6tFKDRWLwjYQ",
+        "author": "Boris Kofman",
+        "authorURL": "http://lh6.googleusercontent.com/--aHB6vf399Q/AAAAAAAAAAI/AAAAAAAAZdI/mTOLEqOB4Kw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/--aHB6vf399Q/AAAAAAAAAAI/AAAAAAAAZdI/mTOLEqOB4Kw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355614927199",
+        "starRating": "2",
+        "title": "My advices",
+        "comment": "1.pop up attribute table when tabbing on shp object instead of yellow baloons.because i can\\'t see anything on map when the baloons display. 2.sometimes i need to display my shp data without any basemap. a null (no server) server shoul be added to the map server list.3.user should be able to define solid color, transparency and outline color of polygon data independently. And need thematic display.4.i need to label features choosing a field from attribute table.5.send shape data to ftp server or email it.",
+        "commentId": "lg:AOqpTOFYuIexH0qyuXlPJyXGTKOoWJvl5z011qQkJX8wf-TkwjYdMSClgeHA4Zy2uOLJ9xIenH6dk7PIrRI0c7Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

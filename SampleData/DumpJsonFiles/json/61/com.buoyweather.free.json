@@ -1,0 +1,43 @@
+{
+  "title": "Buoyweather Marine Forecasts",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buoyweather.free",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Surfline",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buoyweather.free",
+  "extendedInfo": {
+    "installSize": "882k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Buoyweather (BW) is the best marine weather application for mariners, costal residents, fishermen and water sports enthusiasts worldwide.Using a unique global network of virtual buoy points, the Buoyweather app delivers accurate long range marine forecasts, charts and graphs, wind and weather data. Simply pick any point on the ocean map to receive a long range marine forecast. The Buoyweather app makes it easy to check up-to-date marine weather conditions.REQUIREMENTSAvailable ONLY on GPS enabled, non-GPS enabled phones DO NOT work.CURRENT BUOYWEATHER PREMIUM MEMBERS â JUST DOWNLOAD FREE AND SIGN IN.Since you are already a Buoyweather Premium member, just download our free app and sign in. You will have unlimited access to the BW features you rely on right at your fingertips.NEW TO BUOYWEATHER?As a new BW iPhone app user, you receive our FREE 2-day forecasts and conditions for any offshore ocean point. We recommend that you sign up as a Premium member for the best experience. Set and access your favorite forecasts, charts and receive the most up-to-date marine weather conditions.PREMIUM MEMBER BENEFITS- 7-day marine, wind and swell forecasts for any location in the world- Access to long-range marine forecasts- Access to wind speed, swell period, and surface pressure charts- Quick access to your favorites, set locations and get updates on the go- And lots more exclusive featuresâ¦DATA AVAILABLE- WW3: Swell heights, periods, windspeed and direction- GFS: Winds, Pressure, Air Temperature, Dew Point, Cloud Cover, Humidity, Lifted Index, 500 mb Wings. NAM equivalent available in North America.- Buoy Centered Satellite imagerySPECIFICATIONS AND TIPS- Requires Internet access for forecasting features to receive data and functionality- Performs best with 4G and WiFi networkDOWNLOAD OUR FREE BUOYWEATHER APP TO START NOWLANGUAGEEnglishCUSTOMER SERVICEContact email: customerservice@buoyweather.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

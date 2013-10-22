@@ -1,0 +1,50 @@
+{
+  "title": "The Message",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chinesemessageapp",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "September 2, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Chinese Missions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chinesemessageapp",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "William Marrion Branham was one of the most influential Bible ministers of our time. He was considered by many to be the initiator of the healing and charismatic revival that began in 1947, and from his ministry there sprang a myriad of other ministers who became internationally known.From 1947 until the time of his passing in 1965, the powerful ministry of William Branham was well known and considered unparalleled in the history of gospel meetings. The impact of the supernatural ministry of this one man was felt not only in North America, but also around the world.Keywords:William Branham, Branham, God, Jesus Christ, Prophet, Jesus, heaven, religion, bible",
+    "reviews": [
+      {
+        "timestampMsec": "1375678122484",
+        "starRating": "5",
+        "comment": "I love brother Branham",
+        "commentId": "gp:AOqpTOEk3VuXNypgLk7be2ABotGPAal4Z2sEiwhi0rQCw5LCCNXrvbWrMF752mD8WABIr15JCoykJWwMjLk",
+        "author": "Crystal Klassen",
+        "authorURL": "http://lh4.googleusercontent.com/-AAbcyg0qYKs/AAAAAAAAAAI/AAAAAAAAAzM/Bk6BBUYkO2c/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-AAbcyg0qYKs/AAAAAAAAAAI/AAAAAAAAAzM/Bk6BBUYkO2c/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "com.chinesemessageapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Burger Theory",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.burgertheory.BurgerTheory",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "April 3, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Burger Theory",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.burgertheory.BurgerTheory",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The good grease on Burger Theory's current street food location.The back story: James politely told us we needed an app. We politely listened. He reasoned that it would be nice to know where our truck was going to be, exactly, and for how long it was going to be serving. We agreed. Finally, he said he could build it. So we let him. This is our first app, and it does precisely what James said it would. It's even got an in-built compass to aid you on your journey. As for James, he can be found through his website: jamesmoschou.com. Approach him politely with your idea, and he will politely listen.",
+    "reviews": [
+      {
+        "timestampMsec": "1371456846949",
+        "starRating": "3",
+        "title": "A bit of a shame.",
+        "comment": "When I had this on my old phone it  worked like a charm.  Doesn\\'t work on my Xperia S though.   Would have been five stars otherwise.",
+        "commentId": "gp:AOqpTOExlo-8rNnkphwZLcva7wwOnTX6K8YIl4wyc3_jQCszQipuMyaWs_C7q-vR34YJb69yc1lKfKlcAZL-9Xc",
+        "author": "Scot Lennon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365043733046",
+        "starRating": "5",
+        "title": "Nice!",
+        "comment": "Best kind of app. Simple and it works!!! Very well done.",
+        "commentId": "gp:AOqpTOFarA7NLGCszLNeU96R1Z7eIRrXwUGOp9ESpTAXdkw7kZCPyLO39xhhDuC2YXHWaSG2JrWonH9iyv6cEco",
+        "author": "Patrick Browne",
+        "authorURL": "http://lh3.googleusercontent.com/-9E6aqbPJjGA/AAAAAAAAAAI/AAAAAAAAFII/49y2Hrsut4k/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-9E6aqbPJjGA/AAAAAAAAAAI/AAAAAAAAFII/49y2Hrsut4k/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364967407743",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Great app for Adelaides best burgers!",
+        "commentId": "gp:AOqpTOExbVh5BuLbSfcPhVNzqUz0YvjJ5nezQq7srxpxTbRlhrdXfQFPP29EO4C23q3pcLpQYPVsEdeWb70E0Y4",
+        "author": "Toby Strudwicke",
+        "authorURL": "http://lh4.googleusercontent.com/-02MumQIlWmA/AAAAAAAAAAI/AAAAAAAAANY/0KRYHBAlniA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-02MumQIlWmA/AAAAAAAAAAI/AAAAAAAAANY/0KRYHBAlniA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.burgertheory.BurgerTheory.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

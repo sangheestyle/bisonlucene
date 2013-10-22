@@ -1,0 +1,38 @@
+{
+  "title": "US Common Sense Blogs",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wUSCS",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "May 13, 2011",
+  "version": "0.8.13053.21849",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "HN Enterprises",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wUSCS",
+  "extendedInfo": {
+    "installSize": "174k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome to the US Common Sense blogs.  The purpose of this blog is to take a non-partisan view of our current local, state, and federal government policies and actions to determine if they actually benefit or hurt us as a nation",
+    "reviews": [
+      {
+        "documentVersion": "8.13053.21849",
+        "timestampMsec": "1305316529420",
+        "starRating": "5",
+        "comment": "Great app. Keeps be up 2 date on politics",
+        "commentId": "lg:AOqpTOFHgoYEgyLlW8ZiJ8FzhD_O14Bw87_o3sLLlqFlh5Fj1-CrDq_e-V4a5Ah9RtnuzA5UcQbqX-jKfgo-yLo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wUSCS.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

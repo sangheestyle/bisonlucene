@@ -1,0 +1,66 @@
+{
+  "title": "SMS Browser",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dummy.fooforandroid",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "May 22, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "8",
+  "rating": "4.75",
+  "contentRating": "Everyone",
+  "creator": "Hot Beats",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dummy.fooforandroid",
+  "extendedInfo": {
+    "installSize": "575k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "***Version .1***This is Alpha Quality SoftwareRequires SL4A and Python to be installedThis will BEAST on  your SMS messages. It delivers the webst  via SMS. Simply tap on the app and type in the website you want to visit. Rinse and repeat. If you don't have unlimited SMS messages this will absolutely ravage your BILL :)**Send bugs or feature requests to my email/twitter and I will fix them ASAP***This only works in North America, those of you in Asia please put a comment with your carrier so i can support you :)***Bonus Features***Creepy messages from the developersend TALK TO ME instead of a website and the developer will respond and talk to you",
+    "reviews": [
+      {
+        "timestampMsec": "1301453068688",
+        "starRating": "5",
+        "comment": "Doesn\\'t seem to work on motorola cliq, but I love the idea. Keep up the great work guys.",
+        "commentId": "lg:AOqpTOELgkPvDUJ_MR-SnxQLKQO1_xuZwismTC_ruzmvDSzr_N7T1nPWOfHP5R75bSBZw37xbB2jjcpgZnyqedQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1296354785407",
+        "starRating": "5",
+        "comment": "Great software",
+        "commentId": "lg:AOqpTOEvGKT8YC2tChYwZ_RJyLhTj4crJ2FUZ82yx-8qYa_udUmMk3fTBZa_wlbknh6gumKz-lnj9qugZjlfB7Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1295360773565",
+        "starRating": "0",
+        "comment": "FC on launch on SGS running 2.2.1 (SL4A and Python installed and working).",
+        "commentId": "lg:AOqpTOE03zRIgKz9GNbjzJnm11gGW9qfRlD8lYHiRBivDh-i4hABJaiuRf0vvSpNDrdLr9_8Px9IGm5QRiW1_aM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1296149645920",
+        "starRating": "5",
+        "comment": "Server is down",
+        "commentId": "lg:AOqpTOGjxRe6BBC_AIY5vCHRKlYX_V631dmLb8ydVNXEVv4xJjMq93vJ48IfeJPFhXSxUNYvvBp8vuHmDq5_Yq8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.BROADCAST_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SMS",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

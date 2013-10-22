@@ -1,0 +1,34 @@
+{
+  "title": "Clio Super Painter (HD)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cliopad",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 14, 2012",
+  "version": "2.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.4",
+  "contentRating": "Everyone",
+  "creator": "Clio Squad",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cliopad",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Clio Super Painter is a revolutionary painting tool on Android Pads. With Clio, you can share your inspiration with your friends by wireless links on more than three Android devices. It's also a perfect family game for you and your children.Clio Super Painter allows you to easily set a painting group on Wifi and then do a synchronous group painting work.It also offers the Bluetooth link for painting in case there is no Wifi access. Notice that the Bluetooth Mode could only support two devices linking.You are welcomed to attend the Clio Painting Competition by sending your painting works on Clio Super Painter to our email cliosuperpainter@gmail.com. We will exhibit them on Clio's official Facebook.How to use synchronous painting via wifi?    At first, it must be ensured that every single one of the users has been connected to the wireless hotspot if they want to use synchronous painting. Keep it in mind that they have to connect to the same wireless hotspot. The wireless hotspot can be a wireless router or some other devices which can work as a hotspot.    After connecting to the wireless hotspot, one of the users should set up a group and name it.  The other uers then join in the group after they find it. A new user will get the current canvas shared by the group.For more information, please go to Clio's official Facebook. http://www.facebook.com/pages/Clio-Super-Painter/160853880683927",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Number Puzzle",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.etaostudio",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 23, 2012",
+  "version": "3.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "6",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "eTaoStudio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.etaostudio",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Want to challenge your brain? Try this Number Puzzle game. Each time there will be a number with four different digits. You have 10 chances to guess it. For each try, your result will be displayed in a (?)A(?)B format. The A means you have numbers correct and at a correct position. The B means you have numbers correct but at a wrong position. You could use these hints to find the final answer.Three different themes available.",
+    "reviews": [
+      {
+        "timestampMsec": "1336141241001",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "Reminds me of Mastermind.",
+        "commentId": "lg:AOqpTOFPI7uM184Ep6GlL8zVWasjx_XbTSsl5nzkhHrDkBIpcpz6_2TdwzPW_zTWl9NuUl0_BeYTfjeSu_59uw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Sudoku Challenge",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exeliumpartners.sudokuchallengegame",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "4.0.1",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "9",
+  "rating": "4.111111",
+  "contentRating": "Everyone",
+  "creator": "Exelium Partners Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exeliumpartners.sudokuchallengegame",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Stop playing Sudoku on your own, and start challenging yourself with your friends or others in a competition. SudokuChallenge allows you to play online against other players you have linked with, and truly see who is faster to complete the same assigned Sudoku puzzles as part of a competition.SudokuChallenge is not a real time Sudoku application as it requires a critical mass of players. This feature will be available shortly.You initiate a challenge to someone (a friend or random), you wait it is accepted, and then you can start completing the puzzles. The winner is declared after both players have completed the 3 assigned puzzles.Features:- Traditional Sudoku, i.e., play on your own- A Daily Challenge; all players, same grid... at the end of the day, the winner is declared.- 3 difficulty levels supported.- 3 puzzles per challenge of the same complexity to complete with a friend. You need to win at aleast 2 to be declared the winner.- You can play offline. The app will sync up as soon as connectivity is back, and see whom the winner is.- Two players, multiple players.- You can link and play with random players.- Hints.- Notification message when your challenger has initiated a challenge with you, or finished ahead of you.",
+    "reviews": [
+      {
+        "documentVersion": "4.0.1",
+        "timestampMsec": "1377858363735",
+        "starRating": "5",
+        "title": "Addictive for me",
+        "comment": "I like playing the Complex games. Just when I thought that there were no solution to a game than guessing...I find a way then I like comparing my speed against another player. I also keep trying to land myself on the Top 5 of their Daily Challenge",
+        "commentId": "gp:AOqpTOEBJLmCx66iGz6YMQF-XqKUfebdaHFSuhZbCRsbo5r0TbF7vpyA2KbJWzFgqqDOSpzC_sbDZ__86FJq",
+        "author": "Aimee Galias",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.0",
+        "timestampMsec": "1372534511637",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "I love this app. In response to the below comment, I love the pause feature... not so I can think on the puzzle but because I have a crazy life and am frequently interrupted in my day and per Murphy\\'s Law it usually happens when I\\'m playing. That said I probably only use it @ 25% of the time.",
+        "commentId": "gp:AOqpTOH4gf5286wtIuYMVAQMxZNPq3yLCBQ_pGawSHq4M7hX7mN5YOfMusM9N8FLnGblb7JT1U6GgmT-IwRF",
+        "author": "Naomi Patrick",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1369132673320",
+        "starRating": "4",
+        "title": "for fairness",
+        "comment": "we shouldn\\'t have the  \\\"pause\\\" button.",
+        "commentId": "gp:AOqpTOEPJFU7IMMdB90WdxfgSivXznaP5knE6oCradrkcQCxlNXLP0vfdh_VmIMR7CM60vGu2R7mNLOc1y32",
+        "author": "Tetsuro Sakamoto",
+        "authorURL": "http://lh4.googleusercontent.com/-4RnTDPcMRDA/AAAAAAAAAAI/AAAAAAAABaE/MH2xT4D_NQ8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-4RnTDPcMRDA/AAAAAAAAAAI/AAAAAAAABaE/MH2xT4D_NQ8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "com.android.vending.BILLING",
+      "com.exeliumpartners.sudokuchallengegame.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

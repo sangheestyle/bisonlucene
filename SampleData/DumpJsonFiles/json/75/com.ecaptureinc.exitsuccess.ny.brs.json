@@ -1,0 +1,39 @@
+{
+  "title": "EXIT Realty Success",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ecaptureinc.exitsuccess.ny.brs",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 26, 2013",
+  "version": "1.9.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "ECapture Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ecaptureinc.exitsuccess.ny.brs",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Exit Realty Success would like to welcome you the premier websites for Corona & Long Island NY Real Estate and Homes for Sale. As a successful real estate brokerage, we have eager Corona NY real estate agents ready to serve Corona, Flushing, Elmhurst, Jackson Heights, and Middle Village, and all of Long Island area.Our team will diligently identify your goals and needs so that we can show buyers the right homes and coach sellers to get their property sold quickly and for the best price. Let us start working for you! Email or call us for all of your Corona & Long Island New York Real Estate needs!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.ecaptureinc.exitsuccess.ny.brs.permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Smart Fall Detection",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fall",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "December 7, 2011",
+  "version": "R1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "13",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Hamideh Kerdegari",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fall",
+  "extendedInfo": {
+    "installSize": "972k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Smart Fall Detection application was developed as result of master research in field of computer and artificial intelligence, by Hamideh Kerdegari under supervision of Dr. Khairulmizam samsudin. Department of Computer and Communication Systems Engineering, University Putra Malaysia (UPM).Description: Smart Fall Detection uses Artificial Neural Network (ANN) to process the acceleration signals. The ANN was trained with 1000 samples of fall and non-fall patterns to detect the fall among elderly and helps them by increasing their independency. This application follows three states: Fall-checking state, Long-lie state and Fall-state. In Fall-checking state system looks for occurrence of fall by reading the acceleration data and using ANN. When ANN detects the fall, the system enters to Long-lie state. In this state the system checks the long-lie and if any movement happens it turns back in Fall-checking state, otherwise after at least 30 seconds it enters to Fall-state. In this state the siren plays back and after at least 60 seconds a help request text message will be sent to specified emergency contact by SMS and whenever GPS data is available, second text message including the exact location of falling will be sent by SMS.End User License Agreement: The Smart Fall Detection application and database are protected by copyright and may not be reproduced or used without the expressed written permission of University Putra Malaysia. You may use the Smart Fall Detection application on all android based computing devices used for personal use or in your place of business. Making additional copies of the software or database, or enabling others to use your registration code(s) or serial number(s), if any, is strictly prohibited. It is also prohibited to give or transfer copies to any person who has not purchased the appropriate license (or agreed to the terms of the download page on the App Store) for the software; to install the software on mobile devices used by individuals who have not purchased the appropriate licenses for the software; or to duplicate the software by any other means including electronic transmission. The software in its entirety is protected by copyright laws. The software also contains trade secrets and you may not decompile, reverse engineer, disassemble or otherwise reduce the software to human-perceivable form or disable any functionality which limits the use of the software. You may not modify, adapt, translate, rent or sublicense (including offering the software to third parties on an application service provider or time-sharing basis), assign, loan, resell for profit, or distribute the software, disks or related materials or create derivative works based upon the software or any part thereof, without the express written permission of University Putra Malaysia.Application Disclaimer: This application is not a substitute for medical and health services. Users of the application should consult their healthcare professional before relying on this application.This application is intended for educational purposes only. Persons using this application for fall monitoring purposes should not rely solely on the accuracy of fall detection service. While the application may be updated periodically, users should independently check for new version of this application on android market.Any and all liability arising directly or indirectly from the use of this application is hereby disclaimed. The information herein is provided \"as is\" and without any warranty expressed or implied. All direct, indirect, special, incidental, consequential or punitive damages arising from any use of this application or data contained herein is disclaimed and excluded.",
+    "reviews": [
+      {
+        "timestampMsec": "1351906438000",
+        "starRating": "5",
+        "title": "Interesting!",
+        "comment": "Interesting! Simple to use. I like the available GPS option that the program has. Does this app still monitor for a fall when the phone goes into power down standby?",
+        "commentId": "lg:AOqpTOGNicpOPFXNpUUIGsgs6OS-H16ahORaCzYPtM8bLbGh3UrEZlYulz8s1mY7EPMB-Loeztiz6woL1pWSuQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357231915324",
+        "starRating": "5",
+        "title": "Thanks for the comment",
+        "comment": "Yes, this app runs in the background and even works when the phone is in standby mode. However to save the battery, the GPS only works when the fall is detected.",
+        "commentId": "lg:AOqpTOGLcfp815QU7kILyITFq9lm3QIslI18_eUhfkG_K2-rAVQrNiSX3q1ArV0boVvnZYbZI3smRnOlHzDZlQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331306238582",
+        "starRating": "4",
+        "title": "Awesome app",
+        "comment": "Awesome app. Thanks!",
+        "commentId": "lg:AOqpTOHTtA4ZeIZZJqCQ6ZUV0mqC1eav4SEQ-ECltFpRuAZo6oqqCYTdx80KtFD15zrHRp2QojyR58TE8L0Vng",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362023060042",
+        "starRating": "2",
+        "title": "Not reliable",
+        "comment": "Sometimes works sometimes not.",
+        "commentId": "gp:AOqpTOHusDiI16rMs3l7-fx3MiTfVhe-Lm43pJ5emDyp6NgFkDyffmJHpjtL4JmHkOPOnue8j661Gj_qFq4X_w",
+        "author": "Narciso Zorzi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367430498341",
+        "starRating": "4",
+        "title": "Very cool, better than the rest",
+        "comment": "Very good. Works better than the rest I have tried. As a motorcyclist this is a must have app.",
+        "commentId": "gp:AOqpTOFepTzWsvMCXtaO9e5_gBRZO6rTp0XjftBsywg6YlTOs8xcSrwXzy4FokzZiOEorw0SThSAbYetUl04zg",
+        "author": "Ray Erasmus",
+        "authorURL": "http://lh4.googleusercontent.com/-JFnety0oJLA/AAAAAAAAAAI/AAAAAAAAAEI/_qY1MCh7j8k/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-JFnety0oJLA/AAAAAAAAAAI/AAAAAAAAAEI/_qY1MCh7j8k/photo.jpg"
+      },
+      {
+        "timestampMsec": "1330656098357",
+        "starRating": "1",
+        "title": "Crap",
+        "comment": "Don\\'t work worth $%@&",
+        "commentId": "lg:AOqpTOFyPfNxxxqviOhp-xtG-QeoVFtSPB0Ro7LvaZiqBzcefskkihizzKzM1zOv0IUA4zdXVDd0uZWxCg-Aew",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.DEVICE_POWER",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Logo Quiz Football Team",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dualbootapps.footballteam",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "May 4, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Medium Maturity",
+  "creator": "Hunter Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dualbootapps.footballteam",
+  "extendedInfo": {
+    "installSize": "3.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is logo quiz game full of fun that consists on guessing the names of hundreds of logos around the world. Compare your answers with your friends. Challenge them to see who know more logos!All the time we are surrounded by hundreds, maybe thousands of company logos, we see them on TV, when shopping in the mall, walking on the street, during important events, even when we are playing video games! How many of them can you recognize?All Logos & brands shown or represented in this game are copyright and or trademark of their respective corporations. This trivia game is for fun and knowledge.New logos coming soon.Check for the updates!",
+    "reviews": [
+      {
+        "timestampMsec": "1368901520830",
+        "starRating": "3",
+        "title": "Good but Too easy",
+        "comment": "It an all right game but could be better and put in more levels than 5",
+        "commentId": "gp:AOqpTOGN4QBegYkGP8uqQPBDmPXtTanW4XC0ECeeyHtJEbG6S9TNupRtfUlHuk4w-PpU-av8v-U-G33t57eWa34",
+        "author": "Micheal Manning",
+        "authorURL": "http://lh6.googleusercontent.com/-VZK9R6wptSU/AAAAAAAAAAI/AAAAAAAAAGI/0oWpEb8f4_c/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-VZK9R6wptSU/AAAAAAAAAAI/AAAAAAAAAGI/0oWpEb8f4_c/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.dualbootapps.footballteam.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

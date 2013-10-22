@@ -1,0 +1,45 @@
+{
+  "title": "Ascot Motor Claims App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.directcommercial.ascotclaims",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "February 27, 2012",
+  "version": "1.0.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Direct Commercial Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.directcommercial.ascotclaims",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "If you have an Ascot motor policy you can now send your initial accident claim details safely and securely with this app. Quickly and easily record and upload details and photos of your accident to begin your claim. The app also features breakdown assistance, giving your current location with co-ordinates to breakdown services so that they can find you quickly. This app requires either a network connection or to be connected via WIFI to send and receive your claim data from our servers.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "InTouch Formentera",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dataracing.app",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 18, 2013",
+  "version": "2.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "11",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "dataracing",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dataracing.app",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Lâunica vera guida ad essere gratis!Per chi ama Formentera, per chi questâisola la vive tutto lâanno, per chi invece ci andrÃ  in vacanza, finalmente lâapplicazione che vi permetterÃ  di avere tutte le informazioni di cui avete bisogno, sempre con voi.Non ci sono guide piÃ¹ complete o strumenti migliori per scoprire tutto quello che questâisola puÃ² offrire. Questâapplicazione vi permetterÃ  di essere gli artefici della vostra vacanza, sempre e ovunque.Una volta scaricata, vi permetterÃ  di avere a portata di mano qualsiasi informazione voi cerchiate. Non necessita infatti di connessione a Internet o Wi-Fi per poter essere consultata. Nonostante questo, i contenuti che offre sono unici, tanti e sempre disponibili. Eâ stata pensata da chi questâisola la vive nella quotidianitÃ  per poter essere utile a 360Â°, contiene infatti tutte le attivitÃ  di Formentera e tutti i servizi di cui avete bisogno: dalle spiagge agli hotel, dai ristoranti ai locali per lâaperitivo, dai luoghi mozzafiato ai negozi!!Con copertura wi-fi l'applicazione vi permetterÃ  di essere sempre aggiornati su tutte quelle che sono le informazioni necessarie a Formentera, come il meteo con la possibilitÃ  di accedere a windguru per previsioni piÃ¹ precise, l'accesso diretto ai piÃ¹ conosciuti social media, la visualizzazione delle notizie piÃ¹ importanti e dei gossip dell'estate, consultare ed aggiornare gli orari delle barche e, cosa unica, la possibilitÃ  di utilizzare lo street view di google maps.Top features:-Accesso diretto ai social media facebook, twitter e tripadvisor.-Orari delle barche sempre a portata di mano.-Mappe off-line che non richiedono connessione internet.-Galleria Fotografica.-Patrocinio dellâufficio del turismo di Formentera per contenuti veritieri che nessuno possiede.-Meteo con possibilitÃ  di accedere a windguru.-PossibilitÃ  di visualizzare tutti i percorsi verdi di Formentera.-News e Gossip aggiornati giornalmente.-PossibilitÃ  di votare le spiagge, i locali, i luoghi da vedere, per farli comparire nella classifica dei top ten di Formentera.E molti altri servizi..",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

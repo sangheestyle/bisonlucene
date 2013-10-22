@@ -1,0 +1,75 @@
+{
+  "title": "Head Track",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.c0bra.head.track",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "November 18, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "2.8888888",
+  "contentRating": "Everyone",
+  "creator": "C0BRA",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.c0bra.head.track",
+  "extendedInfo": {
+    "installSize": "145k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Use your phone as a FreeTrack controller similar to TrackIR by mounting it to your head phones.  You need to install the server on the PC you intend to use this on, for more information on how to use this application visit http://xiatek.org/headtrackA phone with a gyroscope will have much more fluent and accurate results.",
+    "reviews": [
+      {
+        "timestampMsec": "1371472411522",
+        "starRating": "3",
+        "title": "Theoretically works",
+        "comment": "Works in theory, getting the phone connected to the desktop application (SGE.exe - get it from the dev\\'s site) is possible. Simply launching Arma 2 while SGE is running, should show up a \\'FreeTrack\\' device in the controllers menu in Arma. Select this to use the phone gyro. Motion capture is displayed in the SGE application, and is quite accurate. The information passed to arma 2 is unusable though, it constantly flips around 180 degrees on the vertical axis, while the horizontal axis is so insensitive, movements are barely noticeable. A calibration system would be great, as freetrack cannot be calibrated in arma.",
+        "commentId": "gp:AOqpTOG_X864oYKdf30FUxNfwp73iO6WJ9Wbg7Vrj0WdJVRpfGz1lFbpUQvPgtLLXWtvq3KqfwxdHA0ZNi1rxA",
+        "author": "Walter Sereinig",
+        "authorURL": "http://lh6.googleusercontent.com/-tBdxCA6nPNs/AAAAAAAAAAI/AAAAAAAAAEU/QFlEoPKURGA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-tBdxCA6nPNs/AAAAAAAAAAI/AAAAAAAAAEU/QFlEoPKURGA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1353729173405",
+        "starRating": "3",
+        "title": "Good",
+        "comment": "I was able to get close to what I want.  Looking forward to updates for both phone and server.",
+        "commentId": "lg:AOqpTOGpLwmXRYqUkO0vnbl8O1vG4crp_qzUd9i-hQE2we1l95CDRCwq_GkgH3BaqdknGNTU3qnqK-8ice6_Yw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376670145750",
+        "starRating": "1",
+        "title": "Server",
+        "comment": "Server on PC wont work, when starting SGE.exe pop up shows windows error (don\\'t send)...",
+        "commentId": "gp:AOqpTOH5u-I9U2Th7aYRWT8DwDf4vhdqNhz0c_ugrWI-XupWbYF92AqVTUn6Qo9IENwWpV4d2wR7ASlnrWenAg",
+        "author": "Aleksandar Misic",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361752262879",
+        "starRating": "3",
+        "title": "Great concept, but no instructions",
+        "comment": "I love this concept, and was hoping to get it working with euro truck simulator 2, however starting the server just opens up an application with a grid (which I can move around with the phone).  How can I get this to work with games? Or does it only work the the grid demo at the moment?",
+        "commentId": "gp:AOqpTOFyp6PcRkWA8GIqPqEQTopjg3zoWACGpyB9a6nYbWUybFKEvD0chzJy5fNsk8L11aZPDNz4Zu3TiSi39w",
+        "author": "Michael Golkowski",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359619639382",
+        "starRating": "2",
+        "title": "Works",
+        "comment": "Doesn\\'t mean it works well.  Might fare better over LAN but my whole system is wired for security reasons.",
+        "commentId": "gp:AOqpTOGwAsPikPqLmStdQAjzkQCdZRM18_PTgOFs9pDayqf4EQa2QtPG871WUjENDYQwlTrowRvqBMLMevqnng",
+        "author": "Chris Noble",
+        "authorURL": "http://lh4.googleusercontent.com/-iezp0xoQXpE/AAAAAAAAAAI/AAAAAAAAAHY/AYpOLIR17I8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-iezp0xoQXpE/AAAAAAAAAAI/AAAAAAAAAHY/AYpOLIR17I8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

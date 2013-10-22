@@ -1,0 +1,38 @@
+{
+  "title": "Eagle Nest Cam",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.tiggzi.project74561",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 29, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 - 4.2",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "Oleksandr Nedbaylo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.tiggzi.project74561",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "About our bald eagles, nest cam & cause. The \"live\" video feed is streamed on-line 24/7. At night an infrared light provides night vision to viewers via the cam. Infrared light is not visible to the eagles, so they do not see it or know it is there.This year's bald eagle nesting pair are Independence\" and \"Franklin\" (female has a black feather spot on the back of her head).This year (2013), we added 2 new high definition PTZ cameras designed to enhance the viewing experience.The \"non-releasable\" birds are cared for by the AEF at its United States Eagle Center in the foothills of the Great Smoky Mountains (Pigeon Forge, Tennessee).At its raptor center, the AEF cares for about 80 birds of prey daily, including the world's largest collection of \"non-releasable\" bald eagles.Most all these birds are used for educational purposes, and, in some cases, for propagation purposes to release captive-hatched young into the wild for re-population purposes in specific territories.Also, the AEF cares for and rehabilitates injured and orphaned eagles and other birds for possible return to the wild.The Independence and Franklin nest is located inside the \"Eagle Mountain Sanctuary\" aviary exhibit on the Dollywood family adventure park.This disabled bald eagle pair (Franklin & Independence) has produced numerous young during previous breeding seasons, which have all been successfully released into the foothills of the Great Smoky Mountains - on Douglas Lake in Dandridge, Tennessee.",
+    "reviews": [
+      {
+        "timestampMsec": "1368720412810",
+        "starRating": "5",
+        "title": "Enjoyable app!",
+        "comment": "If you love eagles this app is the one! The eaglets are adorable!",
+        "commentId": "gp:AOqpTOEV0xUO804JiLPXAG-fU1WbgXP-Pr0L8y0aEQ77AgQKl6TW6uKL-pJlNyaWTJJb30Lx_jxUSZ50-S088RY",
+        "author": "Shannon Pollard",
+        "authorURL": "http://lh5.googleusercontent.com/-iiwOoOEuokI/AAAAAAAAAAI/AAAAAAAAADA/Hfb0kMWBMUQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-iiwOoOEuokI/AAAAAAAAAAI/AAAAAAAAADA/Hfb0kMWBMUQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.tiggzi.project78137.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

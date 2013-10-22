@@ -1,0 +1,43 @@
+{
+  "title": "FratMap: Penn State",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cmpny.FratMap.MainMap",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "August 17, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Chocolate Chip Apps LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cmpny.FratMap.MainMap",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "From Philanthropy to Daylong, Frat Map will get you there. Search for any frat and follow the easy-to-use map to your location (GPS enabled) Check-In to your location using the built in facebook check-in feature by simply clicking on your location, and clicking on the arrow next to the address! See which of your friends are close-by in Real-Time by switching from \"Normal\" to \"Real-Time\" on the map. Chat with your friends and check your news-feed with built in features!",
+    "reviews": [
+      {
+        "timestampMsec": "1314659642055",
+        "starRating": "5",
+        "title": "Nice!",
+        "comment": "Wonderful app!",
+        "commentId": "lg:AOqpTOGPXfs0kdY_vZvhs731UtGIxfdhjlG7s8UD7SfDJ9hFufz2pMKNqjYc1Bt0uO6htyHbwdwWwH4AEtIMtw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.CONTROL_LOCATION_UPDATES",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

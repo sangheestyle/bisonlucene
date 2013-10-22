@@ -1,0 +1,241 @@
+{
+  "title": "AnyConnect ICS+",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cisco.anyconnect.vpn.android",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "March 15, 2013",
+  "version": "3.0.09093",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "276",
+  "rating": "3.481884",
+  "contentRating": "Everyone",
+  "creator": "Cisco Systems, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cisco.anyconnect.vpn.android",
+  "extendedInfo": {
+    "installSize": "6.0M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Samsung no longer permits updates to this version. Check for an OS update for your deviceSupports the following Samsung devices, which have received a firmware update PRIOR to September 2011. September 2011+ requires  \"Samsung AnyConnect\" and will display \"incompatible with other application(s) using the same shared user id\" at install.- Galaxy S model GT-I9000 and SC-02B, running 2.3.3- Galaxy S II model GT-I9100 and SC-02C (pre 2.3.6 update)- Galaxy Tab 7 running Android 2.3.3 (with the exception of the Sprint Galaxy Tab)- Galaxy Tab 8.9 and 10.1 running Android 3.0+ with the Samsung TouchWiz MR.Android images must be official Samsung/carrier versions. \"Incompatible with other application(s)...\" indicates unsupported device.DESCRIPTION:Cisco AnyConnect provides reliable and easy-to-deploy encrypted network connectivity from Samsung Android devices by delivering persistent corporate access for users on the go. Whether providing access to business email, a virtual desktop session, or most other Android applications, AnyConnect enables business-critical application connectivity. Through the use of Datagram Transport Layer Security (DTLS), TCP-based applications and latency-sensitive traffic (such as voice over IP [VoIP]) are provided an optimized communication path to corporate resources. Additionally, AnyConnect support IPsec IKEv2 with Next Generation Encryption.LICENSING AND INFRASTRUCTURE REQUIREMENTS:AnyConnect for Android requires Cisco Adaptive Security Appliance (ASA) Boot image 8.0(4) or later.For licensing questions and evaluation licenses, please contact ac-mobile-license-request (AT) cisco.com and include a copy of \"show version\" from your Cisco ASA. If you already have an Essentials or Premium ASA license, you may use the automated license request tool at: https://tools.cisco.com/SWIFT/Licensing/PrivateRegistrationServlet?FormId=717The ASA requires an AnyConnect Mobile license (L-ASA-AC-M-55XX=), as well as either an AnyConnect Essentials (L-ASA-AC-E-55XX=) or AnyConnect Premium Clientless SSL VPN Edition (L-ASA-AC-SSL-YYYY=) license, where XX is the last two digits of your ASA model number and YYYY is the number of simultaneous users. AnyConnect Mobile and Essentials licenses are enabled per ASA, there is no per user charge for either of these licenses.FEATURES:- Automatically adapts its tunneling to the most efficient method based on network constraints, using TLS and DTLS- DTLS provides an optimized connection for TCP-based application access and latency-sensitive traffic, such as VoIP traffic- IPsec/IKEv2 also availaaable- Network roaming capability allows connectivity to resume seamlessly after IP address change, loss of connectivity, or device standby- Wide range of authentication options- Supports certificate deployment using AnyConnect integrated SCEP and the certificate import URI handler- Policies can be configured locally, and automatically updated from the security gateway- Access to internal IPv4/IPv6 network resources- Administrator-controlled split / full tunneling network access policy- Trusted Network Detection- Localizes according to the device's language and region settingsSUPPORT:If you are an end-user and have any issues or concerns, please contact your organizationâs support department. If you are a System Administrator having difficulties configuring or utilizing the Application, please contact your designated support point of contact.FEEDBACK:You can reach out to us to provide feedback, suggestions, or leave comments via Twitter by directing a tweet to the @AnyConnect account, visit our Facebook page at http://www.facebook.com/anyconnect, or e-mail us at ac-mobile-feedback (AT) cisco.com.DOCUMENTATION:Release Notes: http://www.cisco.com/en/US/docs/security/vpn_client/anyconnect/anyconnect30/release/notes/rn-ac3.0-android.htmlUser Guide: http://www.cisco.com/en/US/docs/security/vpn_client/anyconnect/anyconnect30/user/xmart/b_Android_User_Guide.html",
+    "reviews": [
+      {
+        "documentVersion": "3.0.09093",
+        "timestampMsec": "1366257570627",
+        "starRating": "1",
+        "comment": "Will not install",
+        "commentId": "gp:AOqpTOG8JowqVAsNUjeu_0XK7phPQbzLOm1Lib7GF8yUC4L7DOnWA0QoFJTzndk55j__zFEIQskxU-5VsVfd0Q",
+        "author": "david nystrom",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.5125",
+        "timestampMsec": "1343746657912",
+        "starRating": "4",
+        "title": "better",
+        "comment": "Good that you can quit this app now. And that it doesn\\'t start automatically. I still have problems to connect to my fritzbox.",
+        "commentId": "lg:AOqpTOHA7EFLr5ugSITHlX7jVY9WN1-DwslVPSYOY5uEiUeVIkieCNN8NJvp2O2E7DctlN1bs2ueaVN1Iz_uGw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.5125",
+        "timestampMsec": "1349688202935",
+        "starRating": "4",
+        "title": "1234",
+        "comment": "Yay",
+        "commentId": "lg:AOqpTOEjA84ot-T4O42xI9B7u44YMIPO9X1TwzNlEfRhQi8snBg10AbB7WlQfA3pdA4A8qVtP7hli-xCZh2-Wg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.5116",
+        "timestampMsec": "1332344060621",
+        "starRating": "1",
+        "title": "Galaxy tab 10.1 Issue",
+        "comment": "Was working until I had to do an update.. Now it gives me an error message which states that it is incompatible with other application(s) using the same shared user Id",
+        "commentId": "lg:AOqpTOEbVRfqZt15gsCfRWig_YWuPErPiSsALAaClaWKwK4KXR40EYHV3Ab3UZ3HdesBz3Hlf4mMy9rB7-VFug",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.5116",
+        "timestampMsec": "1333527707376",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Easily configurable",
+        "commentId": "lg:AOqpTOG9bAcdDRF_xsqzl6g0XsR9PL7dx8UTtBAwwWjMSruy-uFLTUnVtNgsZK-9VYKcnzEHv-Ve8HS_-Hcvfg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1326224198095",
+        "starRating": "1",
+        "title": "Close but no cigar...",
+        "comment": "Much needed app for enterprise access. Says it can\\'t get required access (looking for root?) on my Galaxy Tab even though it says it\\'s suuported. Who needs to step up here? Discover? Google?",
+        "commentId": "lg:AOqpTOEI94Ij4WTYQGXWVlNyORwKb5hN6A6px4j25fODluGQn5utyePnBhtUG-g3G61b3u1j8Re1pMq839-CFg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1309270600331",
+        "starRating": "1",
+        "title": "Galaxy Tab 10.1 - Does not run",
+        "comment": "I was excited to find this in the market today for my Galaxy 10.1; however, when I tried to run it, I received an error: \\\"Could not obtain the necessary permissions to run this application\\\". I\\'m guessing here, but it seems that the current build requires phone state and identity permissions which my device does not have as it is a wifi tablet, so those permissions aren\\'t available.",
+        "commentId": "lg:AOqpTOGqK9rIVctUYT6j6_jALlvpiI3kCVN-mWr0hoA6LX_4VmQjZlVlRWq_Rp6fOwFHCfVE4j6vv-zrRPf4JA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1318528545523",
+        "starRating": "3",
+        "title": "Group/Secret Options",
+        "comment": "At our University, the Campus IT group uses a Cisco VPN setup that requires the Group/Secret combination.  Without this, we have no way to connect Android devices.  I have a Samsung Galaxy Tab 10.1, and am hoping this will be a viable option for some of our staff that is in the field.  But will need VPN to work in some cases.  Will rate 3 for now in hopes that it will have this added functionality soon!",
+        "commentId": "lg:AOqpTOEsAMGH5rISt52qmKnSwG7tpZNTDbvX4qCHeOBvL5hrazvLQ6iQY6A0VGqTbnFHgLJFhJpHL8E18PgJtg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1317649247923",
+        "starRating": "1",
+        "title": "Does not work on the (Samsung) Nexus S",
+        "comment": "Since my phone has a big Samsung stamp on the back I would assume that this would work, but sadly I get a -8 error which means my device is not supported.",
+        "commentId": "lg:AOqpTOHFQXpjpILPfUUuBqs3nXGAc2tIWzgsWsson1gPaLXzaFdPiSgoU5rRLxe_u2Un_ZSenyLYoUuUY2rZ1w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1309415189599",
+        "starRating": "1",
+        "title": "Not Working on Samsung Galaxy i 5801 & android 2.2",
+        "comment": "Installed succesfully, but while running, throwing an error \\\"Could not obtain the necessary permissions to run this application\\\". Poor App from Cisco. frustrated with android, samsung. 0 stars if permitted",
+        "commentId": "lg:AOqpTOF4Xhng1IaiNv4Gi4gdVHeADUf0Ht9M8_Bj6ZqfQVYfoXDb4uXL-p1IB6lXXhdHjqyt0xPLp82qawo5gA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1310064432049",
+        "starRating": "4",
+        "title": "Works fine on my galaxy tab 10.1",
+        "comment": "Works fine on my galaxy tab 10.1. (not sure if they just released an up date or what). Behaves fairly well. A few minor issues: Can\\'t find option to hide in status notification bar- its contantly there, connected or not. Also, not sure if this is a network or vpn issue, but none of the rdc clients I\\'ve tried have been able to resolve by name- only by ip address. When I rdc from my home pc I can resolve by name without issue. I would love to see this support my OG droid as well!",
+        "commentId": "lg:AOqpTOEBWpYwE67udo4Wa-0MQgoN7oh2gDlE1IAZ4qig_JebeFGJJoSgTst7F8ftDkAVB2GZ3xbQ0GgCyEYupg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1309247932268",
+        "starRating": "5",
+        "title": "AnyConnect on Samsung Galaxy SII",
+        "comment": "Just brilliant!!! Thank you Samsung and Cisco for making this possible. Works like a charm.",
+        "commentId": "lg:AOqpTOG-KSToSDjjzsAVGzES2-9SQR0aBbu516FBJISgDNxXdbDl0Wz2vXGlNRfh32--P9NJ2bUybxSlctJJRw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1344878199964",
+        "starRating": "5",
+        "title": "Samsung TouchWiz MR",
+        "comment": "\\\"Galaxy Tab 10.1 compatibility is expected once the Samsung TouchWiz MR is available for these devices.\\\" How long do we have to wait for Samsung? What\\'s the best way to to contact them about this?    UPDATE: Yes, I believe it is working now. Will verify later. updating rating to 5 stars.  Thanks.",
+        "commentId": "lg:AOqpTOFs_W8F3MYflG778FSqMxN-puj992u6eaPqFc2GQxHR9fwNe4mGHfIBI2KjDw9Zey-X9nQdLPTOIOBnPg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1316949657057",
+        "starRating": "1",
+        "title": "Doesn\\' t work on Galaxy S Plus (GT- I9001)",
+        "comment": "Even if the app is \\\"compatible\\\", it doesn\\'t work. The phone does not meet minimum requirements.",
+        "commentId": "lg:AOqpTOGnaBHSc7HnY92vAeWFGPTnwv00tM4fBsQ3AkznimbPeER5Q00607vID6pAunqTRc_enZq1o65ZWiHs2Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1317066813903",
+        "starRating": "5",
+        "title": "Got this going without a hitch.",
+        "comment": "I installed this software and connected to my CISCO ASA\\'s no time at all. Just ensure you have the proper licensing on your ASA and you should be good to go. While many people seem to leave negative reviews for this software, I have to believe they\\'re either non-technical in nature, or simply do not understand what is needed to make this application work.",
+        "commentId": "lg:AOqpTOEG4TYkhQ0URvL_Ky6oroRXt7EeTOTPYVEDX7XymHUprcO74-JYVEwAFfv8_IAB9t1XA_381l84YZRpwQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1316452365172",
+        "starRating": "1",
+        "title": "Does not work on the Epic 4G.",
+        "comment": "\\\"Could not obtain the necessary permissions to run this application. This device does not support AnyConnect.",
+        "commentId": "lg:AOqpTOF1vVGPeFl64ZqrWUfW-rl-KLQEwrvWhneqcS1LHaKgIYN2aTF8jKRMDULC6La-j9D_JBkPm5laz_l0bQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1317990509387",
+        "starRating": "4",
+        "comment": "Finally this s/w is working on my Samsung Galaxy GT-i9003. (Needs additional tun.ko and root s/w)",
+        "commentId": "lg:AOqpTOEVi4u22I3worZWNs-qFoge8OQTnstPmsZHsOL2HQkdg9UkGOZl0YcHh6Qxbom7EaG6ghkQzcwcrOvMzw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1327369598537",
+        "starRating": "1",
+        "title": "samsung infuse",
+        "comment": "does not work...<2011....",
+        "commentId": "lg:AOqpTOF8efZjpyB8Z9_yqMOelbnobGKwgUSvBIvQhUiZTLsneu7k8gs9CqS3W4BhrZD8dhkFfQGE55o9wrVqlw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1322303583808",
+        "starRating": "3",
+        "title": "Captivate, Froyo 2.2. All seemed ok, but...",
+        "comment": "It requres root, which I had, but when about to get connected,  it said my phone was not supported I was missing TUN/TAP driver.guess I need upgrade",
+        "commentId": "lg:AOqpTOGBLHREBdZYn8gEqM_bMWzw3eRUTf1OgAEtpDCopWTsjuQPTBUbT-n8rv_F6Q3BPkWqmgp02KgujOzOIQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7073",
+        "timestampMsec": "1329922911818",
+        "starRating": "5",
+        "title": "Worked",
+        "comment": "Worked perfectly with my university VPN and my Samsung captivate",
+        "commentId": "lg:AOqpTOFAn7igLVNcqGmqYsSUz-GjwhKHwCRFJjrx1UFmN2IaAd6WPoUQ5XuoNDzUd371dN5MYQfUw8K7pBOylQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_LOGS",
+      "android.permission.DUMP",
+      "android.permission.DIAGNOSTIC",
+      "android.permission.ACCESS_CHECKIN_PROPERTIES",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_SECURE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VPN",
+      "android.permission.NET_ADMIN",
+      "android.permission.NET_RAW",
+      "android.permission.SAMSUNG_MODIFY_ROUTE",
+      "android.permission.SAMSUNG_TUNTAP",
+      "android.permission.SAMSUNG_MODIFY_IPTABLES"
+    ]
+  }
+}

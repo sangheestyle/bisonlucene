@@ -1,0 +1,41 @@
+{
+  "title": "Durak Card Game with Putin",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.durak.card.game.putin",
+  "category": "Cards & Casino",
+  "price": "Free",
+  "datePublished": "August 1, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "189",
+  "rating": "4.0634923",
+  "contentRating": "Everyone",
+  "creator": "KaktuzMedia",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.durak.card.game.putin",
+  "extendedInfo": {
+    "installSize": "6.2M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Check your intellect - Play the fool with the president of Russia. Look on what is capable giant of thought - Vladimir Vladimirovich Putin. Perhaps not that person rules the great Russian country, but while you are afraid that run as a candidate, so begin with small - to beat the President, make him a fool, and maybe then you will become confident in your abilities and you show the world who is who. Everything is in your hands - download the app and go",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_TASKS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_SETTINGS",
+      "com.durak.card.game.putin.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

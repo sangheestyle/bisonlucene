@@ -1,0 +1,42 @@
+{
+  "title": "Christian ThanksGiving Prayers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coderz.thanks_prayers",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "December 30, 2012",
+  "version": "2.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Coderz",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coderz.thanks_prayers",
+  "extendedInfo": {
+    "installSize": "926k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Apps contains a bunch of Thanksgiving prayers for the Chrisitans.",
+    "reviews": [
+      {
+        "timestampMsec": "1346367202251",
+        "starRating": "5",
+        "title": "Christians thanksgiving prayers",
+        "comment": "This is very useful to prahers when you to choose it any thanksgiving DFC",
+        "commentId": "lg:AOqpTOFj_mSTPWQBUjYlJgQ4_MOZxm82cXC035iK3KtUkOP8C_nZ0IH00r2ll87vRHpMb2E93b9INncHcKewHrA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "System Check",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coughmist.SystemCheck",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "September 24, 2011",
+  "version": "1.01",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "13",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Mike Portell",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coughmist.SystemCheck",
+  "extendedInfo": {
+    "installSize": "913k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is my second app.  I am learning java, and created this using the fantastic book \"Beginning Android Games\" written by Mario Zechner(Chapter 4). I took the liberty of modifying some of the code where I could, so this will not be exactly like what is in the book.Anyway, thanks for checking it out!-Mike Portell(Coughmist)System Test allows you to test certain functions of your phone.  Ever wonder how data is seen by your phone?Test the functions of your system:-Life Cycle Test(Hit back, home, or lock your phone.  Open this app back and see how the system interrupts these actions.)-Single Touch Test(Touch the screen with one finger. Shows the x and y coordinates.)-Multi-touch Test(Touch the screen with multiple finger. Shows the x and y coordinates of each. How many touches can your phone capture?)-Key Test(Got a keyboard? Test functionality.)-Accelerometer Test(Gravity?! That's what this test checks.  Returns the x, y, and z values of the Accelerometer in m/s.)-Assets Test(Loads a text file stored inside this package.)-External Storage Test(Accesses the SD card, creates a text file, displays the info, then deletes it!)-Sound Pool Test(Touch the screen... huh? Take your finger off! That's how this *beep* works.)-Media Player Test(open to test a tune.)-Full Screen Test(Tests fullscreen functionality. Plays a tune while it does.)-Render View Test(Tests screen access for pixel modifications. Do not stare at this if you have epilepsy.)-Shape Test(See the shapes? Drag the square.)-Bitmap Test(Loads and places a bitmap(.png) image on the screen.)-Font Test(Loads a font, and creates a sample test with it.)-Surface View Test(Draws to the ServiceView. Enhances screen refresh and allows the CPU to focus on more important tasks.",
+    "reviews": [
+      {
+        "timestampMsec": "1330626078395",
+        "starRating": "5",
+        "title": "Z",
+        "comment": "Z",
+        "commentId": "lg:AOqpTOGiInZQszhlgxvQf1_RoKI4u_YzsiQoUvuhieAbPbFd3tbVwP-R3PMpgvP6Z51i8xKDVAmry13C7qnI6Jg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

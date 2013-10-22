@@ -1,0 +1,39 @@
+{
+  "title": "Sell Books NDSU",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.ndsu",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 29, 2011",
+  "version": "1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "CutCom Software, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.ndsu",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Sell your used textbooks to the North Dakota State University Bookstore using this instant price quote app! It allows you to scan the barcodes of books that you'd like to sell using your phone's camera. You'll find out instantly how much we'll pay you for your used books. Please note: This application is able to use your camera to scan barcodes, however the camera on IPod Touch doesn't have the resolution to capture barcodes reliably. But, you can always type in your ISBN. This app was developed by CutCom Software Inc. on behalf of the North Dakota State University Bookstore. If you have any trouble, please let us know!",
+    "reviews": [
+      {
+        "timestampMsec": "1306981221998",
+        "starRating": "5",
+        "comment": "Excellent app if you go to NDSU. Barcode scanner works perfectly and prices are correct. Highly recommended.",
+        "commentId": "lg:AOqpTOHxHM_PJBefh9e2-k8z27hS5w58sWA1ANDbj-cQ54UlT4ExLwufYu7t4FhrU-Mc1hfYtxSsH92ZfQNsu8w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

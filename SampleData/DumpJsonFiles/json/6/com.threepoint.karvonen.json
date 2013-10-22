@@ -1,0 +1,39 @@
+{
+  "title": "Karvonen Formula",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.threepoint.karvonen",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "November 14, 2012",
+  "version": "1.0.1",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Juan Mireles II",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.threepoint.karvonen",
+  "extendedInfo": {
+    "installSize": "206k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "A fitness calculator that will calculate your proper heart rate range using the Karvonen Formula.  The formula takes into account your age and resting heart rate.  Get that data, plug it in, and you got your proper training range (55%-85%).  This equation works for males or females.  It takes into account your personal fitness level.**NOTE: Always consult with your doctor before embarking on any type of fitness regimen.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1346103552946",
+        "starRating": "2",
+        "title": "Could use some tweaking",
+        "comment": "The app needs to show the percentages along the way. It just shows minimum (55%) and maximum 85%) heart rates.",
+        "commentId": "lg:AOqpTOG_iei-zXBxwPiQxqDNRBPr-aYxgrD2PSqO-JQg-gAmuDEns9hBkcxV_D8VWH_vHTpqdHe8ax8Slswtkw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Indonesia Hotel 80% Discount",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ej.hotelindo",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Low Maturity",
+  "creator": "Hotel",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ej.hotelindo",
+  "extendedInfo": {
+    "installSize": "5.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Indonesia Hotel 80% Discount is one of the largest hotel comparison site in IndonesiaYou get the best interactive Indonesia hotel booking experience with the Indonesia Hotels Booking Booking free Android app â¢ Cheap hotel rooms or 5 star luxury suites,making it easy to find the best accommodation including hotels, apartments and B&Bs.â¢ Use our hotel guest reviews and opinions from genuine customers to find the perfect hotel for you â we even include TripAdvisor reviews!â¢ Search for a place to stay close to your location as well as on our interactive maps.â¢ Sort, filter and compare by price, deals, ratings or reviews with the powerful hotelcombined.com search tools.â¢ Choose your favorite brands including; Hilton, Marriott, Best Western, Sheraton, Holiday Inn and many more.â¢ You can search hotel room in all other countriesInstead of spending hours browsing through multiple websites for your hotel, this apps does the searching for you all in one place!www.Agoda.com, www.Expedia.com, www.booking.comand many more site",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.ej.hotelindo.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

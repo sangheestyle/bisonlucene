@@ -1,0 +1,34 @@
+{
+  "title": "Flood 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.esrihu.mapsurvey",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "June 12, 2013",
+  "version": "1.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.125",
+  "contentRating": "Low Maturity",
+  "creator": "ESRI Hu",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.esrihu.mapsurvey",
+  "extendedInfo": {
+    "installSize": "8.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Flood 2013Help us to prevent more damages caused by floods in Hungary! Join our community and send a photo about the emergency situation so the General Directorate of Water Management  can quickly help flood defence.The Flood 2013 application allows you to report damages, emergency situations caused by floods by uploading at least one photo with a comment about the flood situation even right on the spot. With the help of GPS technology  in your phone, the application then will publish it on a map. Your uploaded reports will be available on the webpage www.vizugy.hu which also provides other useful information about the flood situation.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

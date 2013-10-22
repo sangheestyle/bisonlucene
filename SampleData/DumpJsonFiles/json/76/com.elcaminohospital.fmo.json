@@ -1,0 +1,41 @@
+{
+  "title": "Family Medical Officer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elcaminohospital.fmo",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "November 17, 2011",
+  "version": "1.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "El Camino Hospital",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elcaminohospital.fmo",
+  "extendedInfo": {
+    "installSize": "308k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Family Medical Officer application from El Camino Hospital, the Hospital of Silicon Valley, provides instant access to several valuable healthcare services and information, including:EMERGENCY RESPONSE: Current wait times for our emergency rooms in Mountain View, California and Los Gatos, California. View a handy checklist of things to bring if you do have to visit the ER, or dial 911 with the touch of a button.FIND A DOCTOR: Whether you need a general practitioner or a specialist, you'll find some of the best physicians in Silicon Valley here. Search by name, specialty, or location.MY FAMILY & ME: Keep track of your family's medical history for diagnosis and information purposes in this password-protected tool.ECH RESOURCES: A comprehensive health library, a drug reference, and a health encyclopedia, all at your fingertips.VISITING ECH: Get turn-by-turn directions to our facilities, campus maps, visiting hours and other useful information.ECH NEWS & EVENTS: Get the most up-to-date news via our RSS feed, our Facebook posts, and our Twitter feed in this tool.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1322065847722",
+        "starRating": "3",
+        "title": "Will take it wherever I go",
+        "comment": "Nice start.  My favorite feature is the ER wait times, and they seem up to date (usually within 10-15 minutes).  The Medical Library seems helpful too with a lot of information, but this appears to make the search slower than expected.  The \\\"My Family & Me\\\" is a nice touch to store important information you might need while traveling such as health conditions, medications, etc, but part of me wishes I didn\\'t have to login to get to that (Although I understand the security risk).  Keep up the good work!",
+        "commentId": "lg:AOqpTOHKxTarug0ZClJzxA9vU2OzAw5shqbLmjSDkfiJtrNI6MyiaSWtkpQ-UYmgZo35ethiY-r10n6V2W6RaIc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_ASSISTED_GPS",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

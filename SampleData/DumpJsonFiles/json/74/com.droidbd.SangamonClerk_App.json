@@ -1,0 +1,53 @@
+{
+  "title": "Sangamon Circuit Clerk",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidbd.SangamonClerk_App",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "October 13, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "3.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "Victory Enterprises",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidbd.SangamonClerk_App",
+  "extendedInfo": {
+    "installSize": "943k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Sangamon County Circuit Clerk app allows users to view Court Schedules, find court records, and more.",
+    "reviews": [
+      {
+        "timestampMsec": "1356704489662",
+        "starRating": "4",
+        "title": "Great",
+        "comment": "Seems to work just fine. Records search page cud use the name before you proceed, as it soundex searches names and they arent exact.",
+        "commentId": "gp:AOqpTOHgkDQbc4Q2wGCzfGrYpb1bo2VnYFQBmUsCpdEe-_v2W6eMbrEFDsArzp8CWfu-kbPef5R6MqGIY9jJvGE",
+        "author": "Jim west",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351195091169",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "Great App. It is very handy to have.",
+        "commentId": "lg:AOqpTOFGCREzeew9pBc7rc6oOA6oekYT2pEGtkJPPmRfH2fn9xK-FQfk2xdmRVJBgHpmutFWrqL4mL5I7udi76Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

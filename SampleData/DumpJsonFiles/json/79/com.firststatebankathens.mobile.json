@@ -1,0 +1,54 @@
+{
+  "title": "First State Bank Athens Texas",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.firststatebankathens.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 1, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.firststatebankathens.mobile",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "First State Bank Customers â Now you can âbank where you areâ with First State Bank Mobile Banking.  Fast and secure, plus the mobile app is free to download.  Using your current Online Banking login information you can start mobile banking today.Features:    Checking account balances    View recent transactions    Transfer money between your accounts    Locate ATMs and Branch LocationsText Messaging available for:    BAL (Balance on all eligible accounts)    HIST (Review recent transactions on all eligible accounts)Standard text messaging and data usage charges may apply through your wireless carrier.Security: At First State Bank, protecting your personal information is our top priority.  We use the latest technology to ensure security and confidentiality.  As an added safeguard, access to mobile banking requires prior enrollment in to First State Bank Online Banking.  For more information about First State Bankâs commitment to online security and how you can sign up for Online Banking, please visit our website at www.fsbathens.comTo get started with Mobile Banking:STEP ONE: Enroll in First State Bank Online Banking at www.fsbathens.com.  If you are already enrolled, proceed to STEP TWO below. STEP TWO: Download and install First State Bank app.  This app is available through the application store for your iPhone.STEP THREE: Sign in to First State Bank Mobile Banking using your Online Banking username.  Make sure your security image and pass phrase are correct before entering your Online Banking password.OPTIONAL:  Once enrolled in Mobile Banking visit the Users Option tab in Online Banking to manage your Mobile Banking Profile.  This feature will allow you to:â¢\tAdd additional phonesâ¢\tChange your phone numberâ¢\tSelect or unselect accounts to see in Mobile Bankingâ¢\tAssign Nicknames for accounts to be used in Text Messagingâ¢\tSet a different time zoneFor more information contact us at 903 676-1900 or visit our website at www.fsbathens.com",
+    "reviews": [
+      {
+        "documentVersion": "2.5.22",
+        "timestampMsec": "1374207183637",
+        "starRating": "5",
+        "title": "Wounderfull",
+        "comment": "Love the app thanks",
+        "commentId": "gp:AOqpTOG8ipTx-SZTQTTwlV-l0BwMOG76XW-eEr7XjeEShSqXzg5QeDU4oBc5f79xEdK7Tm_LqnKUPEhxgotq2g",
+        "author": "cora brown",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.22",
+        "timestampMsec": "1367235219204",
+        "starRating": "5",
+        "comment": "Good app!",
+        "commentId": "gp:AOqpTOFc3-3Bi_H3iZrJvZ9zd5FW5Cc7z-WrTUqssHrcnlpKz4naEWfnRaXCWGnxBhIcRxztJ-ndYFc9gAvATQ",
+        "author": "Steven Faust",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Shift It Right",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.goldstarapp.shift",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "July 2, 2010",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "3.0",
+  "contentRating": "Not rated",
+  "creator": "GoldStar App",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.goldstarapp.shift",
+  "extendedInfo": {
+    "installSize": "92k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Shift It Right is a number slider game now available on android. Goal of the game is to arrange number in sequence (refer to menu->help for desired sequence).  Game itself is very addictive. Everytime you play it will challenge you. It is for everyone, people of all age like to play.Have fun !!!",
+    "reviews": [
+      {
+        "timestampMsec": "1278112247290",
+        "starRating": "1",
+        "comment": "Apparently uses more permissions than install states. Possible malware.",
+        "commentId": "lg:AOqpTOEtR5XvLbptHShhYgqx4WB282AHMZp9GbeyRxl-u2BZUu0nHl_4ejA6-7pHfClyGTVJn6fb3q-q2zpH2A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

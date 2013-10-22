@@ -1,0 +1,56 @@
+{
+  "title": "2012 WFF Annual Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.wff2011",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 19, 2012",
+  "version": "2.4.7",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.wff2011",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "For more than 20 years, the Womenâs Foodservice Forum (WFF) has led the industryâs efforts to develop gender-diverse leadership talent for all segments of the foodservice industry â operators, manufacturers/suppliers and distributors. We have made important differences in the personal and professional lives of individual members and the foodservice industry at large through superior programming and networking opportunities.At Conference this year attendees will experience:1.               â¢An elevated level of educational programming with accomplished speakers from respected academic and consulting organizations - - to provide you with the skills and insight to apply to your business today;2.               â¢Inspirational and aspirational keynote speakers that include women business leaders, academics and an agent for change;3.               â¢Unparalleled networking you will find only at WFF events â to help you build the strategic connections you need now and in the future.Come together with other committed professionals to experience and advance our goal of creating âReady Womenâ and âReady Organizationsâ to make our industry a place where women thrive and organizations out-perform other industries through gender-diverse leadership.",
+    "reviews": [
+      {
+        "documentVersion": "2.4.7",
+        "timestampMsec": "1335182891805",
+        "starRating": "5",
+        "title": "Zumba",
+        "comment": "Energizing!",
+        "commentId": "lg:AOqpTOFXoh4DNxyD_-Xer3Vmty1SUigbxSAA7RsZlPQGhceycJ1X0p0vW8J1AKwhCnnAVnwbEvwdXn5wMba9Hw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

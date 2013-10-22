@@ -1,0 +1,32 @@
+{
+  "title": "US Air Force Archive",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.camille.usaf",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 8, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "3.857143",
+  "contentRating": "Everyone",
+  "creator": "Camille Espanol",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.camille.usaf",
+  "extendedInfo": {
+    "installSize": "133k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Explore wonderful pictures from the US Air Force archive, depicting aircrafts, crew members, special operations and so on.Use the control buttons in order to load the next / previous picture, zoom it or even rotate it. You can also save it to your SD card if it is available and mounted. Each picture comes along with its description and its title.Pictures mainly originate from the US Air Force collection archive, but the US Air Force Archive application has not been developped by the US Air Force. More pictures will be added.Feel free to rate the application or send me some comments, whether you like it or not.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

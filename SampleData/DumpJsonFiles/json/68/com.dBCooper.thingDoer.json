@@ -1,0 +1,35 @@
+{
+  "title": "Thing Doer Alpha Test",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dBCooper.thingDoer",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 16, 2011",
+  "version": "0.20.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "dBCooper",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dBCooper.thingDoer",
+  "extendedInfo": {
+    "installSize": "106k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Thing Doer is an app to automate your android phone.  This is an early alpha test, where features are just starting to roll in.Here examples of what you can currently do with Thing Doer (Alpha):- Perform an array of actions based on a powerful scheduling system- Set ringer preferences based on GPS/Network location or schedule- Turn on/off Wifi based on location or schedule- Create notifications based on schedule or locationsThis is an early test, partly to get my feet wet in the Android Market.  If this app is useful to you, great!  If not, it might be a good idea to check in once in awhile to see how it is progressing.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

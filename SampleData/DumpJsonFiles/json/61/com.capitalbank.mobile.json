@@ -1,0 +1,62 @@
+{
+  "title": "Capital Bank Mobile Banking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.capitalbank.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 1, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.capitalbank.mobile",
+  "extendedInfo": {
+    "installSize": "794k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Now you can manage your accounts using your mobile phone*; receive alerts, view accounts, pay bills**, even transfer funds whenever you need to.  Wherever you happen to be. You decide how you'll use it! Request a text message be sent if your balance falls below a specified amount.With Mobile Banking you can log on to:â¢\tView account balances â¢\tView transaction history â¢\tTransfer funds between accounts â¢\tEven pay your bills!**â¢\tFind ATMs and branch locationsWith Mobile Banking, your information is secure.  With multiple layers of authentication, you'll not have to worry about the wrong people getting your information. A personal password and phone activation code keep your information safe.Message and data rates may apply.Note:Mobile Banking is available to any Capital Bank customer currently enrolled for our Online Banking services. To enroll to Mobile Banking, log on to Online Banking and select Mobile Banking from the options and then SIGN UP.*Must be enrolled in Online Banking**Must be enrolled in Bill Payment and have set up bills previously     Capital Bank, Mobile Banking, Banking, Finance, Bill Payment, Bank",
+    "reviews": [
+      {
+        "documentVersion": "2.5.22",
+        "timestampMsec": "1374791216004",
+        "starRating": "5",
+        "title": "SF",
+        "comment": "Great app easy to work",
+        "commentId": "lg:AOqpTOFiJ-MVdodbUVKABx6PGJQZt9h51Eq7yq8hPnl3OIcY6fL1AWDAxcZQ6qwAsmJRp6hlol3zV1EIg0tkskg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7",
+        "timestampMsec": "1353022750701",
+        "starRating": "5",
+        "title": "Great!!!",
+        "comment": "I\\'m glad they finally have this!!!",
+        "commentId": "lg:AOqpTOGpkwNeESzzYPu0PEMOMcC_5KFRLkFHmbqxFz_4JmHexn-BM1OSwBFJB4h4EbJCjNPtyXznTMG4suJnKeE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353774327968",
+        "starRating": "5",
+        "title": "Matt",
+        "comment": "Great app!",
+        "commentId": "lg:AOqpTOE3c2CtkATS2LMprlbe1JnsJGYWsRK1eMk7O7ZnCr951HrzayG5TVtRj6gERUjZ3fgzGQ7rgqo4JTdrIl0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

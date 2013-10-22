@@ -1,0 +1,36 @@
+{
+  "title": "Net Manager Try-Battery Saver",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.davinci.net.manager.trial",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 14, 2013",
+  "version": "1.2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Ayhan Kibar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.davinci.net.manager.trial",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Net Manager is a powerful and easy application specifically designed to make your life easy and also extend the battery life of your Android device.I have tried a lot of connectivity managers and power saver applications, but found some off them too complex and some of them not applied to my simple requirements. Therefore i have decided to make one for myself, and glad to share it with you.Net Manager has following features:- Fully control on wifi and mobile data based on Screen On / Screen Off / Screen Unlock / Airplane mode / On Call and Schedule.- Automatically disable connection on screen-off after specified seconds or until all connection activities finished.- Automatically enable connection on screen unlock or screen on after specified seconds.- Automatically disable mobile data when WiFi is connected.- Configurable periodic reconnection to allow notifications.- Run in foreground: always show app icon in the notification bar (optional).- Airplane mode: automatically enable/disable reconnections at specified times.- Easy and clean interface.- Lightweight and fast app.------ Attention! ------This is 4 days trial version. Full version of Net Manager is available at:http://goo.gl/xQOi6I hope you will enjoy using it. Any feedback is welcome.Keywords: 3G, Wifi, Night mode, Network, Net, Mobile Data, Battery, Saver, Savior, Boost, Save, Drain, Juice Defender, Battery Booster, Easy.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

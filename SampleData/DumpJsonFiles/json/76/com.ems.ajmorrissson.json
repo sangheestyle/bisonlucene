@@ -1,0 +1,39 @@
+{
+  "title": "A&J Morriss & Son",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ems.ajmorrissson",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 31, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Appitized",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ems.ajmorrissson",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "We are a truly independent funeral director based in Addiscombe, Croydon, Surrey. We offer a professional and caring service with dignity, understanding and guidance. When someone dies there are many decisions and arrangements to be made at a time of personal distress. No one can show or know what you are going through, but in a caring way we would like to advise you on some of the practical necessities that must be performed at this trying time. App Features; - Helpful advice and information for when you are dealing with bereavement. - To Do List to help you keep track of your funeral arrangements and tasks. - List of Funerals being held by Rowland Brothers. - Make Donations in memory of the deceased. - Purchase flowers. - Get in touch via phone, email or get directions for a visit. - Share the App with your contacts.Keywords: A&J Morriss & Son, Funeral Directors, Death, Croydon, LondonSupport URL: http://appitized.com/contact-us",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CALL_PHONE",
+      "com.ems.ajmorrissson.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

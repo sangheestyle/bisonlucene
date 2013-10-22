@@ -1,0 +1,68 @@
+{
+  "title": "Reveal See it, Buy it",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.da.rsb",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "June 14, 2012",
+  "version": "1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "Hearst Magazines UK Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.da.rsb",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Shopping is about to get a whole lot easier with the launch of the Reveal \"See It, Buy It\" app. This free app enables you to buy the fashion items you see in the magazine, straight off the page. What could be easier? As well as being able to buy fabulous must-haves from your favourite retailers, the app has loads of fashion and beauty extras you won't find in the magazine, such as exclusive tips from Gok Wan, hot fashion and beauty tips, behind-the-scenes videos and competitions. Be the first to get the hottest shopping app around! You'll wonder how you managed without it! Note: A data connection is required at all times to use this app. If you are on a restricted data plan, select the WiFi option from the Settings option to either use exclusively WiFi when available or WiFi only for video streaming.",
+    "reviews": [
+      {
+        "timestampMsec": "1354280004266",
+        "starRating": "1",
+        "title": "Restart required",
+        "comment": "Every time I open this app it restarts itself then suddenly closes itself again, never made it past the opening page. Such a shame",
+        "commentId": "lg:AOqpTOHZ5izXFyJKr9tyKn4UhzpLN_mEBvs1jVmE50DFi9ybY3_-3RF7VEMN-cJXa_hOeYogidoP-oCcHTOk0w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374170968947",
+        "starRating": "5",
+        "title": "A must for girls",
+        "comment": "Great for the shoppers must haves!",
+        "commentId": "gp:AOqpTOEQgBldPs9oY-CcFtd2xXHEIFR09zrHhY7v8j82GcFTKuHOBE-yOxjRiXBPmrzDRCKGgYxyFQ2P50t5hw",
+        "author": "MISSY K",
+        "authorURL": "http://lh3.googleusercontent.com/-UZ6-H63BgnQ/AAAAAAAAAAI/AAAAAAAAADo/WubWoWPYtHE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-UZ6-H63BgnQ/AAAAAAAAAAI/AAAAAAAAADo/WubWoWPYtHE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1345551987898",
+        "starRating": "1",
+        "title": "Gi gi",
+        "comment": "Very slow and often doesn\\'t show a picture of the item you\\'re trying to view. Uninstall.",
+        "commentId": "lg:AOqpTOGoMUBvzK9R5tHSD9eENl11-UES-PRTb4hsy1p0HttXiK2u1Z4VQ144JaXoIKjHViQsG7MI2iI8HhbbNA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.FLASHLIGHT",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

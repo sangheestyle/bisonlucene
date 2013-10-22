@@ -1,0 +1,38 @@
+{
+  "title": "American Dream Vacations",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_d724c4661d4f4859bb77dc784013c101.app",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "October 5, 2012",
+  "version": "1.5.22.2417",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "American Dream Vacations",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_d724c4661d4f4859bb77dc784013c101.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app allows you to access our library of instructional videos related to your RV systems. It also lets you share pictures of your favorite camping memories and destinations. You have a quick dial function to call us, email or find our location. You can easily follow us on Facebook and Twitter.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_d724c4661d4f4859bb77dc784013c101.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

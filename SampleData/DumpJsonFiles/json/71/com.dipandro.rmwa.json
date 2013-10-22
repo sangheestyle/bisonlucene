@@ -1,0 +1,47 @@
+{
+  "title": "Remind me when @",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dipandro.rmwa",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "April 14, 2012",
+  "version": "1.0.6",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Dipesh Naigaonkar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dipandro.rmwa",
+  "extendedInfo": {
+    "installSize": "100k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "\"Remind me when @\" is a Location based (wifi) reminder notification application.For privacy concerns it only allows to register location if the user is authorized to connect to the wifi network.Thus you can set a reminder message such as placing safe reaching call or completing tasks/ making payments on reaching any location such as office/ home. The application neither uses GPS nor cell/wifi based coarse location triangulation - it relies on only the connected wifi network SSID.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1333695299113",
+        "starRating": "5",
+        "title": "Excellent  App",
+        "comment": "excellent application which is a necessity to most of us out there",
+        "commentId": "lg:AOqpTOGvbf5dm2riPM_Ndwk1E4gEJjM3wX4Gpj0NB5JBlM_npEpeSM4Fs0JRZXzqEb2PH4e_EeNZLi6SIPJ_bQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1333476293742",
+        "starRating": "5",
+        "title": "wifi based reminders",
+        "comment": "does what it says nice app",
+        "commentId": "lg:AOqpTOGNL9R1BM0EM95a1d1fmNpu1NKINws5lc0makx374k4hWbepq1iHbCGMTWN5-2lsYRvaAlsw_8Skp-p5g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

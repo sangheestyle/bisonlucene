@@ -1,0 +1,40 @@
+{
+  "title": "Mobile Membership",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dub.poweredbydub.assoc.mm",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 24, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dub Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dub.poweredbydub.assoc.mm",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "\"Mobile Membership is the only personalized and intuitive mobile app for associations and not-for-profits enabling members to connect, network and access association news and events - all from their mobile phone. Members will be able to search the member directory, connect with other members, get updated news and events- including details on conferences, trade shows and more. Note: You must be a member of a participating association or non-profit in order to fully use this app. Features: Directory - Members can browse or search the member directory to find and contact other members. Great for setting up appointments, getting referrals, or keeping in touch with friends or business acquaintances. News â Keep up with what is going on at your organization and in your industry. Follow the latest news, updates, blogs and members only content when you are away from your desk. Events â Both members and nonmembers can view public events offered by the organization. When logged into the app, members can view community and other private events to which they have access. Contacts â Keep in touch with the contacts you have made in the industry. This quick âfriendsâ list will always be up to date as your colleagues move around. Messages â Receive community invitations, contact requests, and member to member messages sent via your organizationâs memberâs only social network. Profile â View and update the contact information that your organization has for you. Keep it up to date so that you never miss the magazine, newsletter, or other important communication. Keep your colleagues up to date on how to contact you. Discussions â Keep up with the discussions going on amongst your colleagues. Conversations and Q&A with your peers is one of the most valuable benefits of membership. Never miss a message and be part of the conversation even when on the road. Notifications - Messages and alerts are sent to the app and the user can click them for details. Notifications can include personal messages about membership renewal or alerts to all members. Info â Read information about your organization and how to contact support. OTHER Mobile Membership is a Powered by DUB platform for Associations and Non-Profits â www.poweredbydub.com. Membership system integration and social media tools by Higher Logic â www.higherlogic.com\"",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

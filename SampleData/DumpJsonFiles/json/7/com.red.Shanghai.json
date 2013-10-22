@@ -1,0 +1,36 @@
+{
+  "title": "Shanghai Subway Map HD",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.red.Shanghai",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 22, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "iMap Place",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.red.Shanghai",
+  "extendedInfo": {
+    "installSize": "5.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Shanghai Metro is the rapid transit system serving the city of Shanghai, a direct-controlled municipality in the People's Republic of China. The system incorporates both subway and light metro lines. The first line opened in 1995, making Shanghai the third city in Mainland China, after Beijing and Tianjin, to have a rapid transit system. Since then, the Shanghai Metro has become one of the fastest-growing rapid transit systems in the world, with several lines still under construction.Overall, there are 12 metro lines and 288 stations, with an operating route length of 439 kilometres (273 mi), making the system the third longest in the world. The Shanghai Metro delivered 2.276 billion rides in 2012, making it the fifth busiest metro system in the world. It set a daily ridership record of 8.486 million on March 9, 2013.Ticket system:Like many other metro systems in the world, Shanghai Metro uses a distance-based fare system. As of September 15, 2005, after Shanghai Municipal Government raised the price, fares range from 3 yuan for journeys under 6 km, to 10 yuan for journeys over 6 km.As of December 25, 2005, Shanghai uses a \"one-ticket network\", which means that interchanging is possible between all interchange stations without the purchase of another ticket where available. In the event of riding beyond the value of one's ticket, the user may pay the difference at a Service Center near the main turnstiles.Since June 1, 2008, users of the Shanghai public transport card can interchange at Shanghai Railway Station, and Hongkou Stadium without paying another base fare. (see section on virtual interchange stations above).For most lines, the base fare is 3 yuan (US$0.45) for journeys under 6 km, then 1 yuan for each additional 10 km. As of April 2010, the highest fare is 10 yuan (US$1.50).For journeys exclusively on Line 5 (Xinzhuang â Minhang Development Zone), the fare is 2 yuan for journeys under 6 km and all other journeys are 3 yuan (though the total length of this line is a bit longer than 16 km).Users of the Shanghai public transport card get a 10% discount for the rest of the calendar month after paying 70 yuan. The discount is applied only for journeys after the payment; it is not retroactively applied to previous journeys.Users of the Shanghai public transport card as part of the \"Air-conditioned Bus Transfer Discount\" get a 1 yuan discount when transferring to the metro within 90 minutes. (The 10% monthly discount may be applied after the transfer discount) This discount also applies for bus to Metro and bus to bus transfers and can accumulate over multiple transfers. For example, to get from Zhenbei Rd/Meichuan Rd to Xiuyan Rd/Hunan Rd would normally cost 8 yuan each way (947 bus to line 4 to 451 bus) but only costs 6 RMB with the card (947 bus discounted transfer to line 4, discounted transfer to 451 bus). Depending on the time spent at the destination the discount will be applied at the start of the return trip as well, making the cost of a round-trip 11 yuan instead of the 16 yuan that would normally be charged without the card.Seniors over 70 years of age can take the metro for free (except during rush hours, 7â9am and 5â7pm on weekdays) by using their social security cards (also RFID-embedded) at a special turnstile at each metro station.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

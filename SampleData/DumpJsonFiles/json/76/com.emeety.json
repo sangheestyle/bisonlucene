@@ -1,0 +1,42 @@
+{
+  "title": "eMeety",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emeety",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "September 7, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Olimpsys",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emeety",
+  "extendedInfo": {
+    "installSize": "13k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Do you travel a lot? Visit different places? Or even staying home, would you like to know what kind of people is around you, what they're talking about? Use eMeety to see who is around you, and maybe make new friends!--------------------------------------------------People who search for emeety, usually search for:dating, girls, beautiful, babes, women, men, guys, geolocation, twitter, facebook, fb, foursquare, angry birds,  people aroud, games, flirting, maps",
+    "reviews": [
+      {
+        "timestampMsec": "1336802265929",
+        "starRating": "5",
+        "title": "OPA?",
+        "comment": "Bom pracaraaaaaaaalho!!",
+        "commentId": "lg:AOqpTOECrm0VEPhwqQgPgwviH1QvzY8TuUzxieswKsNSlceTZv5qHiFMOfj7ynULGP4YDAcMMfQJ3ccT8MTVKQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_ASSISTED_GPS",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "title": "APS DFD Meeting 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.apsdfd12",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "October 26, 2012",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.apsdfd12",
+  "extendedInfo": {
+    "installSize": "6.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app contains the scientific program for the 65th Annual Meeting of the APS Division of Fluid Dynamics, November 18-20, 2012 in San Diego, CA. Abstracts of all the presentations and some general information about the meeting is available.Keyword: APS Physics, DFD, DFD12 Meeting",
+    "reviews": [
+      {
+        "timestampMsec": "1353338058097",
+        "starRating": "2",
+        "title": "not bug free but usable",
+        "comment": "It frequently freezes the phone if the network connection (wifi or 3G) is turned on.  It\\'s acceptable when the network is disabled.  Could have made the user interface, especially the schedule part, more user friendly.  update: contains couple sections that doesn\\'t exist!",
+        "commentId": "lg:AOqpTOHc8UvQSbowW5_IdUxnWvoZ9KMVXf5aAbDI1MIpkgo-1vGWnaGiOUb72Plx4MAy3IyoCmzD3sqgk8soQN8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352902911991",
+        "starRating": "2",
+        "title": "Full of bugs",
+        "comment": "Crashes constantly on GSII running 4.0.3",
+        "commentId": "lg:AOqpTOG17XV_w4P0F6IQdC21YF9qCkyvH14XuHeG9Aw1jHdCm2_42eajdFxPh5dOf5_WIJG6Oxzi3fJRUY7t2nM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353668399298",
+        "starRating": "2",
+        "title": "Barely functional",
+        "comment": "Not great, no better than a searchable PDF. Needs calendar intengration.  UI colours can result in ineligible text.",
+        "commentId": "lg:AOqpTOGjozllcloj1LNl-nDJ0G534fhmom6yPMs4kbAebOCaV00UZDuyA-RGFw_NVB1Ei_5Bg9nQO51Brt4gAWs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Confederate Relic Room Museum",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brinkman.RelicRoom",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "April 25, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "David Brinkman",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brinkman.RelicRoom",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "For over a century, the South Carolina Confederate Relic Room and Military Museum's mission has been to collect and preserve the military history of this state. When you enter Columbia's oldest museum, you uncover the state's martial tradition from the Revolutionary War to the present War on Terror. The museum is also known for being at the forefront of technology. This application is the first in the world to use smart phone wireless indoor positioning. As you walk through the museum, the application will automatically sense your location and start talking (in English, German, French, Spanish, or Italian) to you about the nearby exhibit. Be sure to stop by the museum in May of 2011 and be one of the first to experience this technology.The history contents of this tour is provided by the staff of The South Carolina Confederate Relic Room and Military Museum.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

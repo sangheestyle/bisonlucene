@@ -1,0 +1,76 @@
+{
+  "title": "Car Value",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsrsol.carvalue",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "April 23, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "1.0",
+  "contentRating": "Medium Maturity",
+  "creator": "DSRSOL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsrsol.carvalue",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Car value is one of the important priorities that one needs to have knowledge before going to buy a car. Car value relates to the market price trends, the dealersâ quotes, the best deals at particular time on some of the best brands of cars and also the reviews of the cars used.But to get the best information on car value seems to be bulky work. Our android app on âcar valueâ, here can prove to a great help. The app highlights the following features: â¢\tNews related to the price of the cars.â¢\tArticles on the used carsâ¢\tImages on the graphics of the carsâ¢\tVideos to evaluate car prices",
+    "reviews": [
+      {
+        "timestampMsec": "1367346847452",
+        "starRating": "1",
+        "title": "Don\\'t Waste Your Time",
+        "comment": "Rubbish. Unable to find how to value my car.",
+        "commentId": "gp:AOqpTOFuaANLPqQqgQ7U5WsEgFaRMbOtyba2cyQfr_CAWS1H-FKStD_oQsKFSEI5Ma0PJtWwSg3ADiYR0M6IZJs",
+        "author": "Brian Abbott",
+        "authorURL": "http://lh5.googleusercontent.com/-xeh4p6crjqI/AAAAAAAAAAI/AAAAAAAAAAA/ApDGlhhlZ5M/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-xeh4p6crjqI/AAAAAAAAAAI/AAAAAAAAAAA/ApDGlhhlZ5M/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373559564307",
+        "starRating": "1",
+        "title": "Don\\'t even look at this",
+        "comment": "It seen u to other app bs",
+        "commentId": "gp:AOqpTOHQE13ejhTshsx91shI6fPEI6VzUvDPGFtcwLcNu6t_lfYyCJZl2-6upEEWM2MpWICXanPaRBwaiJ2enDg",
+        "author": "James Harrison",
+        "authorURL": "http://lh3.googleusercontent.com/-b6bviJDrhPE/AAAAAAAAAAI/AAAAAAAAABM/4L0vLKf9wXA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-b6bviJDrhPE/AAAAAAAAAAI/AAAAAAAAABM/4L0vLKf9wXA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371682074563",
+        "starRating": "1",
+        "comment": "Rubish",
+        "commentId": "gp:AOqpTOEmaNY9w_GtSQcRERWmfRL4zWZ4Mec8x16VNceFMr8yHBaG3ZVqPXz0Apd1pqFzsovRMZeoOOEZ69pmDes",
+        "author": "ALI adnan",
+        "authorURL": "http://lh3.googleusercontent.com/-cKcb05dQ3qA/AAAAAAAAAAI/AAAAAAAAAyg/0vpIiMKTNpg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-cKcb05dQ3qA/AAAAAAAAAAI/AAAAAAAAAyg/0vpIiMKTNpg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.dsrsol.carvalue.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

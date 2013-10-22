@@ -1,0 +1,48 @@
+{
+  "title": "School Districts Finder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.districts",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 31, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Meera Bavadekar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.districts",
+  "extendedInfo": {
+    "installSize": "862k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you want to know which school district your house feeds into? Are you in market to buy a house and have school going kids?  This application is for you!Arm yourself with this application for next house hunting trips. Click on 'My location' to find out school district at current location.Enter address to find out school district. Call school district phone number to confirm attendance area. Drag the marker on the map to navigate through region. Local school district is automatically updated as you move the marker.",
+    "reviews": [
+      {
+        "timestampMsec": "1361835461942",
+        "starRating": "1",
+        "title": "Force closes",
+        "comment": "Force closes when trying to search. Could be a great app",
+        "commentId": "gp:AOqpTOE_G1WLdDtDn3KFUUi93WvEw1Q4dSPnbIPmqPCaKwY10nb18cQxH0-18u8ZiMGdBPMttj1AtK5Uk1gjrfY",
+        "author": "Robert Oberg",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377711361942",
+        "starRating": "1",
+        "title": "Crashes",
+        "comment": "Worked once, then crashed. Plz fix, this is needed on Android!",
+        "commentId": "gp:AOqpTOFjAWe4Bg8naHZyT29A-Bgd6Q4KuTpMp4R7zMV1cOb-Y2VtkgzLoDtb-bGvQiEQwNPrY1eNm7T4Hk8r1gU",
+        "author": "Andrea Flynn",
+        "authorURL": "http://lh6.googleusercontent.com/-sixmUMSFiLI/AAAAAAAAAAI/AAAAAAAABsY/IEfUmvIPyA4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-sixmUMSFiLI/AAAAAAAAAAI/AAAAAAAABsY/IEfUmvIPyA4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET"
+    ]
+  }
+}

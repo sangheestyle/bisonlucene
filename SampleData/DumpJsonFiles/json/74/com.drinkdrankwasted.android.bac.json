@@ -1,0 +1,51 @@
+{
+  "title": "Blood Alcohol Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drinkdrankwasted.android.bac",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "June 29, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "96",
+  "rating": "3.3541667",
+  "contentRating": "Medium Maturity",
+  "creator": "DDW!",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drinkdrankwasted.android.bac",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Blood Alcohol Calculator - The new alcohol tracker for Android!Track your alcohol consum with Blood Alcohol Calculator and get notified when you sober up!Features:- Track multiple persons at the same time- See the current and maximum blood alcohol content (BAC in â°)- Calculate the required time to sober up- Take a picture or select an avatar for each person- You are notified, when a person sobers up- Share a person or a whole group of persons with your friends- All calculations are based on the WATSON-FormulaPermissions:Network communication - to share a persons or a whole group via Facebook, to load ads",
+    "reviews": [
+      {
+        "timestampMsec": "1372021026558",
+        "starRating": "1",
+        "title": "Has malware advertising.",
+        "comment": "Has malware advertising.",
+        "commentId": "gp:AOqpTOG5fRQRSKOtszDY-lYtf4Qfatowp7_KMlL22x8ieQ7HQwQ_lPZhTRwGPWunPvTeLTtfE65ldnaADO30kpg",
+        "author": "Arto Liuha",
+        "authorURL": "http://lh4.googleusercontent.com/-75DQ3zM4tOo/AAAAAAAAAAI/AAAAAAAAA-U/CD5_w6b0Kkc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-75DQ3zM4tOo/AAAAAAAAAAI/AAAAAAAAA-U/CD5_w6b0Kkc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373896209698",
+        "starRating": "2",
+        "title": "24 hour Clock is not understood",
+        "comment": "Otherwise ut seendets to be OK.",
+        "commentId": "gp:AOqpTOFlTWU9vVaReious9e-JQZVqybu6loFStfT0yb6M2iVrhd260Y8VkMkESqpvKiZnkloGye5OhQvWRr7row",
+        "author": "Ulf Nilsson",
+        "authorURL": "http://lh5.googleusercontent.com/-o7zCFmTtSEU/AAAAAAAAAAI/AAAAAAAAKNs/L7gEcHn0RGo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-o7zCFmTtSEU/AAAAAAAAAAI/AAAAAAAAKNs/L7gEcHn0RGo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

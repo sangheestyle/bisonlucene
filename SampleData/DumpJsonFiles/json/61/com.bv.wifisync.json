@@ -1,0 +1,258 @@
+{
+  "title": "SyncMe Wireless",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bv.wifisync",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 11, 2013",
+  "version": "1.23.6156",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "951",
+  "rating": "4.623554",
+  "contentRating": "Everyone",
+  "creator": "bvaisoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bv.wifisync",
+  "extendedInfo": {
+    "installSize": "759k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Copy, move, sync and backup your mp3, pictures and documents over WiFi, USB tethering, cellular VPN or wired network to your computer or NAS device. Nothing to be installed on your computer. Sync automatically even before you enter your home with 'If connected to WiFi router'.SHARING MUST BE ENABLED ON YOUR COMPUTER, the simplest way to do this on Windows is to right click the folder you wish to synchronize select Share With and go with the instructions. Restart of the PC sometimes is needed when sharing for the very first time.For best performance when screen goes off, configure WiFi sleep policy to Never and Best WiFi Performance in your device Settings-Wireless&Networks-WiFi Settings-Advanced (you may need to hit menu button to get to the Advanced).Features:Two and one-way sync.Track deletions.Schedule sync by combination of interval, exact time of the day, weekday, when device connects to a specific WiFi router and when power charging. Include/exclude filter for hidden, read protected, individual files and folders, file name pattern or file type (extension).VPN and Portable WiFi Hot Spot over cellular connections.Wake up PC (WOL) either manually or on a scheduled sync.Organize pictures by date and/or address. Organize mp3 music by artist and/or album and rename to the original song name.Preview remote and local files.Uses Windows shares, Samba on Linux and older Macs, CIFS (SMB) protocol.Hidden sneaky costs: There are four premium (payed) features in this app: 1) Schedule with router 2) Weekly schedule 3) Include/Exclude directories and files, new extensions and regular expressions 4) Wake up PC before sync. One time ~3$ donation covers them all and any upcoming premium feature.Known issues:1) Insufficient resources error with Windows - looks like Windows sometimes is not fast enough to reclaim resources. Changing registry seems to help: \"HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\services\\LanmanServer\\Parameters\\Size\"  32) Some devices do not have write permission for external sd card. Nothing I can do here.https://code.google.com/p/android/issues/detail?id=185593) Some Android devices have no permission to set file modified time, therefore the app updates PC file modified time. PC folder share must have write permission (Windows) or ownership (Linux). This may cause permanent resync when syncing multiple devices against the same PC folder. https://code.google.com/p/android/issues/detail?id=186244) Payed features sometimes do not unlock. Reinstalling app/waiting for a few hours usually resolves the issue.5) App will fail without warning or error on file/directory names having more than 127 non- ASCII and 255 ASCII characters long.https://code.google.com/p/android/issues/detail?id=176846) Some routers with NAS capability (USB plug), have no permission to update time stamps on FAT volumes. Workaround - format usb flash drive or external hard drive NTFS.Note:This software was tested with PCs running Windows (XP, 7, 8), Linux. Works on Mac but was not officially testedFAQ is available within the app - download the latest version.Want to see this app translated to your language or fix translation, send request to bvaisoft@gmail.com to participate in the online translation effort.",
+    "reviews": [
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1376729647232",
+        "starRating": "5",
+        "title": "This is the best app you can find",
+        "comment": "This is probably the best and only app you can find to sync seamlessly.  Simple and fast.  Works like a charm for me.. Great job",
+        "commentId": "gp:AOqpTOEECe9iDR2umtiz6hs1Ti6gsQtki4gpmKQbH5HuzrghzjAPZCFs9z87SQkszw_vB6CUufdpsMbuAQGnLwE",
+        "author": "Bharat Bang",
+        "authorURL": "http://lh4.googleusercontent.com/-3maT6IIRDcw/AAAAAAAAAAI/AAAAAAAAHMU/CYEw-zNXogM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-3maT6IIRDcw/AAAAAAAAAAI/AAAAAAAAHMU/CYEw-zNXogM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1371070055892",
+        "starRating": "5",
+        "title": "Best!",
+        "comment": "Fast, works fantastic. All the options I need. Paid the donation fee right away. Now I can exclude the animation folder on my server, due to size constraints. Two way sync of 15,000 pictures between Linux server and tablet. Love it. Well worth the money.",
+        "commentId": "gp:AOqpTOGw8u0fSYU2CfWFK0CBQHYkRYowPDFr8199QYH1nIgTLiSCzkiXw-IFUpaj_4f7UzeXhe7upQrWxOMTfL4",
+        "author": "Arnie Carlson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1371062346438",
+        "starRating": "5",
+        "title": "Fantastic!  No s/w to download pc",
+        "comment": "it sets up easily. now every day the internal and sd memory sync to separate folders every day auto. pictures sync every 8hrs. push button manual syncs for easy access.FREEE. Bravo dont change it. only my second review",
+        "commentId": "gp:AOqpTOH6cptAzyU0GhKo0k76k0Rr8hoKK1Bkz2ofo3gbjaJKCwdK5uccXiu3PPnBXkfGDuzin-0RQdZZd3Xd3Qo",
+        "author": "Guy Stevens",
+        "authorURL": "http://lh4.googleusercontent.com/-b2Uo_BYkNDQ/AAAAAAAAAAI/AAAAAAAACkI/K2OLgCnFXP4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-b2Uo_BYkNDQ/AAAAAAAAAAI/AAAAAAAACkI/K2OLgCnFXP4/photo.jpg"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1371307446023",
+        "starRating": "5",
+        "title": "Just Awesome Programming and GUI",
+        "comment": "I am using Android 4.0.3 in Sony Xperia Tipo. Just installed this App and sync all the musics that I want into my device. Steps to Install and configure it with your PC - 1. Turn on your WiFi and connect both Android and PC with Wi Fi. 2. Open SyncMe on Android device. 3. Click on Add Computer -> Computer Name -> Choose your Computer. 4. If your computer is password protected then provide user name & Password. 5. Your computer will be added. Then click on the icon that just added -> then click on Add sync folder. 6.Click on Device folder (In android device where you want to copy your files) -> Select the folder 7. On PC create a folder (\\\"Copy Music to Android\\\") and share it with read permission. 8. Now come to SyncMe and select Computer Folder -> (You will find your shared folder) Select it. 9. Now select Copy To -> Select Copy to device only. 10. Click on Ok. 11. On PC Copy the files(Music, Videos etc) into the shared folder. 12. Now in Android device open SyncMe-> Just below your Computer name -> Click on the Job You just created. 13. Click on Run, \\\"Thats it\\\", You files will be copied to your android device and will be sync with your music or video players.",
+        "commentId": "gp:AOqpTOG4vGeq8LEUuoUYWb_NnDq28mQ9uut5wcUBqNp3qDn1N7UGeyx_18tlQ4DduA7mjkoKKhlK3oh2GVxECN4",
+        "author": "Ananya Banik",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1375791782044",
+        "starRating": "4",
+        "title": "Working But,",
+        "comment": "Nicely Doing Job. Timeout Error was coming for bigger file ( > 100MB). But, Found out, they have already porivded option to increase it. Increased to 90 Sec and problem solved. Some time fails to detect computer on wifi network, so schedule sync fails and have to do it manually. But much more convenient then doing all the things manually. Hope improves more in future.  Kudos !!",
+        "commentId": "gp:AOqpTOENWDcWjH24KYTX_zC5txLATECsixAjlw4k5z92NOg0vB0zil1zrix99vcUXrEQIPocM9AnzRzw-UzeIA0",
+        "author": "Hitesh Dhola",
+        "authorURL": "http://lh3.googleusercontent.com/-MymgZuy0ics/AAAAAAAAAAI/AAAAAAAAF4s/mQ54G1WvpR8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-MymgZuy0ics/AAAAAAAAAAI/AAAAAAAAF4s/mQ54G1WvpR8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1371928360924",
+        "starRating": "1",
+        "title": "Didn\\'t work",
+        "comment": "Tried it the first time and worked. but every time after that it said \\\"insufficient server resources\\\" even when I had no programs active on my computer.",
+        "commentId": "gp:AOqpTOFWgN2N1iv-ubsk-2IKL254LLUd4rZbltay5HllinqfVBJsrCZDIZ50hnPfJo3aSyhQQw5_n3P9jwrrVF0",
+        "author": "James King",
+        "authorURL": "http://lh3.googleusercontent.com/-8ajrZ9h-kMQ/AAAAAAAAAAI/AAAAAAAAawY/KKqCqmC6DqA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-8ajrZ9h-kMQ/AAAAAAAAAAI/AAAAAAAAawY/KKqCqmC6DqA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1368977855696",
+        "starRating": "5",
+        "title": "Worked really well",
+        "comment": "It was difficult at first since it kept failing due to network timeout issues.  So I tethered it to the pc and all was fine.  Best synch solution - no rooting and no software to install on pc!",
+        "commentId": "gp:AOqpTOG3ztgfRDXFjcVv7kwtVXasYZvlo3DeDBUehnDbh963azFuBblzfvtWaDxisJMNO8_uPi03CY6sPpao2-g",
+        "author": "Mais S",
+        "authorURL": "http://lh5.googleusercontent.com/-RlL0o6B_Aug/AAAAAAAAAAI/AAAAAAAAAQ8/gNxTYNWeIqk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-RlL0o6B_Aug/AAAAAAAAAAI/AAAAAAAAAQ8/gNxTYNWeIqk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1369684975942",
+        "starRating": "4",
+        "title": "Erase Extra Folders & Files on Target",
+        "comment": "Awesome App., One thing (M), or I haven\\'t found it yet, I want a Exact Sync, The Default is (Do not Erase Extra Folders or Files on Target), On the Source, If I Name a Folder 1 & Sync, Target will have Folder 1, If I rename the folder 1 to 2 on source, when Synced., Target will have Folders 1 & 2, with exact files in it, I Need another Option, (Erase Extra Folders & Files on Target)... If fixed this would be the Bomb... My windows Sync. would be Obsolete... My HTC Desire, Acer Tablet and ASUS PC would have the exact Folder on all of them... Fix this and I\\'ll give it a 10 Star...",
+        "commentId": "gp:AOqpTOHQVtZkKK-iqEbPRGNCkLL3VypRYj-QUuS4vwSR5nrog9TpwmSjTMzytOZBJk9BAM3eiLDWY3IWgNJDxnE",
+        "author": "Adam Rapozo",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1375772722118",
+        "starRating": "5",
+        "title": "Great and Easy",
+        "comment": "A great, low sized app that actually does what is says. I was surprised at how easy it was to use! All it needs is a one-press home screen widget to quickly sync files without opening the app.",
+        "commentId": "gp:AOqpTOHUkirlGkTTJVaOABqtVBI4KTkQkOVid9tJc96hHjEt-OjAqERE0HdimdGNCV5YhEvHvhzYxgIUXo4b4dI",
+        "author": "Daniel Bisegna",
+        "authorURL": "http://lh5.googleusercontent.com/-fWC6q989Q4w/AAAAAAAAAAI/AAAAAAAAADc/JAk-zCiBC2o/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-fWC6q989Q4w/AAAAAAAAAAI/AAAAAAAAADc/JAk-zCiBC2o/photo.jpg"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1372213908171",
+        "starRating": "1",
+        "title": "Could not log on",
+        "comment": "The app detects my computer, so I enter my account name and password, hit OK and just get an error message. I made sure my sharing settings were as required but still could not get it to work.",
+        "commentId": "gp:AOqpTOG_VCmM6atlZSgoVmcmrlJFZVObZ1wmpP0AECPKT1vwygGqS1j8TkCRiQSWb2YnkBHlxvfYtaPxfBhjGMU"
+      },
+      {
+        "author": "Greg How",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1372317903570",
+        "starRating": "3",
+        "title": "PREMIUM FEATURES VS FREE FEATURES",
+        "comment": "The APP seems to work ok. It lacks some notification when PREMIUM FEATURES are being accessed. This would impede the DONATION pop up to show up. It can mislead to thinking the APP is not free. It is described in the description, but if one doesn\\'t read carefully and uses the APP he can mistake those PREMIUM feature and be lead to donate without having to do it. Just a bit more clarity would avoid this.",
+        "commentId": "gp:AOqpTOELKnIG0i_YH4XaqEKWh5gliOembzDplUybtpHMzx7WME9IBfsSId4kQ0ur0_2zQ8g6qgQYCskPn5Sf1eo",
+        "author": "Roger Bertrand",
+        "authorURL": "http://lh3.googleusercontent.com/-DByEk0lDH7U/AAAAAAAAAAI/AAAAAAAAG-4/XRY-m_IIj-M/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-DByEk0lDH7U/AAAAAAAAAAI/AAAAAAAAG-4/XRY-m_IIj-M/photo.jpg"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1375014164136",
+        "starRating": "5",
+        "title": "Amazing!",
+        "comment": "I am using this app from a day. This is quite useful as it automates a lot of steps. I can sync any file in my phone with pc with one click and also I can selct the direction. Best app!",
+        "commentId": "gp:AOqpTOGhAk8HROFrYKz-EBpE9Wpl-04CJW3WouyQuW8LxEhb1Q65BrP3PMU08kfiONPN_rZFCVxxA49K5ddz2zk",
+        "author": "Sumanth M.V",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1372368910793",
+        "starRating": "5",
+        "title": "very good idea",
+        "comment": "just what i needed, to sync my pics to my NAS  simple idea that just works",
+        "commentId": "gp:AOqpTOEfqIQZfYBznW6EssaJTwKFteCY1_1LrcF2yc5hxYQhMp14IU9SVb5NaeH51zUf1CMD-e_ZQbCCdXr2D8s",
+        "author": "gil levy",
+        "authorURL": "http://lh5.googleusercontent.com/-K41823GdYMc/AAAAAAAAAAI/AAAAAAAADC4/ms9rRnZs4fw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-K41823GdYMc/AAAAAAAAAAI/AAAAAAAADC4/ms9rRnZs4fw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1374314037978",
+        "starRating": "5",
+        "title": "Great! But can be even better!"
+      },
+      {
+        "commentId": "gp:AOqpTOH8jWJRl-hSnANRxlGpkpVX9RD9CpcvFlpiY1NSx9Ikp-FeMDacaVHAToI0Q_lFEzL59RYhqHaMSy5g_YE"
+      },
+      {
+        "author": "Kenny Chai",
+        "authorURL": "http://lh4.googleusercontent.com/-X2DRXhY8lcc/AAAAAAAAAAI/AAAAAAAAAE8/0OyWMDrMNjE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-X2DRXhY8lcc/AAAAAAAAAAI/AAAAAAAAAE8/0OyWMDrMNjE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1374020511865",
+        "starRating": "1",
+        "title": "Really wish this would have worked",
+        "comment": "The app keeps saying it can\\'t find my computer.  I manually put in the IP address and scanned and rescanned.  I also already enabled file sharing. I tried everything.  I wish i could leave a zero star review",
+        "commentId": "gp:AOqpTOG5mSOxgvdDS8Mw2hP8Uv9zKIvVGlKfvjUqMiz-nySCjNLvF_xkxLTlI8jFtgtUuJUkJBS-g_pjCB2gvGY",
+        "author": "Rachel S",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1372572039247",
+        "starRating": "5",
+        "title": "#1 sync app",
+        "comment": "Works the best and most slick interface out of any sync apps I\\'ve tried. Had a small issue with my syncing not working but developer was very helpful and quickly sorted it out.",
+        "commentId": "gp:AOqpTOFXaDMuDJLH8r0ixGX5HuELq0Cr5g1xq6jIx9YFESXKeCB7NeQ0d1DWsYr6tPe2TeAK-h2toAw-m1HRN40",
+        "author": "Joshua Allan-Sloper",
+        "authorURL": "http://lh5.googleusercontent.com/-GH_muYsrbTM/AAAAAAAAAAI/AAAAAAAAFMQ/N2CJHESdbXU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-GH_muYsrbTM/AAAAAAAAAAI/AAAAAAAAFMQ/N2CJHESdbXU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1374369093811",
+        "starRating": "5",
+        "title": "Excellent sync solution for android.",
+        "comment": "This should be a standard android app with every android phone.1000 Times better than ICloud/ITunes. No wires needed and backs up any folder to nas/computer.",
+        "commentId": "gp:AOqpTOGLMooeT2Q0woGa6M7xjBoeC-OjBmajMX60Frwha4R1fCuuGbii3UzTw4DfHm4RSeqGcYGTQHJSRmFKRcE",
+        "author": "Chetan V",
+        "authorURL": "http://lh5.googleusercontent.com/-myFfA6ZVR0Y/AAAAAAAAAAI/AAAAAAAAAHU/w1adzQOwjhA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-myFfA6ZVR0Y/AAAAAAAAAAI/AAAAAAAAAHU/w1adzQOwjhA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1371144183428",
+        "starRating": "5",
+        "title": "One word... Fantastic!!!",
+        "comment": "It is by far, the best sync tool out there.  I only wish there is a version for iPhone, so my wife can have the same.  Love it!!!",
+        "commentId": "gp:AOqpTOFFM62fyj9icHFHSL6F3FYsU9NOhnTV9qFqsUHmPzaeqb2RhDQX79KZ43vYhiBrhZqHqX8WpxSMvbdiSRs",
+        "author": "Edin Softic",
+        "authorURL": "http://lh5.googleusercontent.com/-0w3FJKgtE_Y/AAAAAAAAAAI/AAAAAAAAAAA/ph8YeYXSnBQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-0w3FJKgtE_Y/AAAAAAAAAAI/AAAAAAAAAAA/ph8YeYXSnBQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1377016953915",
+        "starRating": "4",
+        "title": "Excellent",
+        "comment": "I know that you mention hidden costs in the description, why don\\'t you just have a premium app for those features?  Otherwise, exactly what I was looking for. Excellent options and easy to use.",
+        "commentId": "gp:AOqpTOEvIKGX1Mre3OYRS3Q_bfOGyU97JtUs8NpqEKUkm0p_PLYsVRF5CK0RsGqKOCnx306Zo2MosAskOs11Js8",
+        "author": "Larnell Carthans",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.23.6156",
+        "timestampMsec": "1372144588641",
+        "starRating": "1",
+        "title": "BUG",
+        "comment": "It cannot handle different subnetmasks than /24 during the discovery which is a shame... Developer contacted me with a rude way. Dear developer: Not the users need to prove your bugs, you need to appreciate that somebody report you something. This is super easy to test.",
+        "commentId": "gp:AOqpTOGhnVER4i7hNU-w6FISbCi_QEKbfDrqldjDiDN-ovuNUYwOAhgU37ELA0DlRFVURqBGV-UCsdBgqI5ObfE",
+        "author": "A Maky",
+        "authorURL": "http://lh5.googleusercontent.com/-qnVBRqN6KdU/AAAAAAAAAAI/AAAAAAAACzo/GPQhihYrvJU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-qnVBRqN6KdU/AAAAAAAAAAI/AAAAAAAACzo/GPQhihYrvJU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

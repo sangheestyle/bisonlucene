@@ -1,0 +1,32 @@
+{
+  "title": "Duchenne Central",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.duchenneconnect",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "April 29, 2013",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Siren Interactive",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.duchenneconnect",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Duchenne CentralBrought to you by Parent Project Muscular Dystrophy (PPMD), the Duchenne Central mobile app is an easy-to-use, on-the-go tool that enables members of the Duchenne community to locate and learn about ongoing clinical trials and clinics specifically for muscular dystrophy. View status details on trials, get contact information for clinics, and stay up-to-date with the latest Duchenne news, which you can easily bookmark for reference and share with others.Register on DuchenneConnect to learn more about clinical trials and research studies and to help advance research.  Compare experiences with over 2,500 patients, and take part in the new Clinic Survey to compare and share experiences with specific clinics that might be helpful to other families.Features:Â·       Sort clinical trials and clinics by locationÂ·       Bookmark clinic sites for quick accessÂ·       Be the first to know about new MD clinical trialsÂ·       Bookmark trials to keep up-to-date with progressÂ·       Share news, trials, and clinic info with your communityÂ·       Get ongoing news and updates from PPMDÂ·       Join the DuchenneConnect Registry",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

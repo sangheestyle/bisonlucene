@@ -1,0 +1,34 @@
+{
+  "title": "Clear-Hotel",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clearHotel",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 13, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.3.3 - 4.2",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Clear2all",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clearHotel",
+  "extendedInfo": {
+    "installSize": "5.0M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The new mobile application Clear-Hotel, allows you as a hotel guest to receive necessary information about hotel services, such as, menus, room service, hotel activities and other information â in your native language. The Clear Hotel app constitutes an innovative service that can easily translate any piece of service information into any given language.In order to use the Clear Hotel application, you simply have to scan the unique code that appears at the hotel registered to the service in order to receive information about the hotel, like hotel services, meal times, conventions, spa and more, directly to your smartphone or tablet â all in a very clear fashion and in your own language.Clear Hotel is an application that connects customers to service providers, guests to hotels, and enables them to communicate better with one other, to get to know  essential  information, to be more familiar with the special offers the hotel provides to guests and visiting tourists, to share information with others, to save to favorites, add comments â and mostly to understand one another.So go aheadâ¦. âFeel at home away from homeââ¦. Upgrade your travel experience and make it more personal, comfortable and clearer than everâ¦ simply start using Clear Hotel !",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

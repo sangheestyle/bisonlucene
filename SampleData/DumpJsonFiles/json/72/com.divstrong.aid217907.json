@@ -1,0 +1,41 @@
+{
+  "title": "Planned Growth",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.divstrong.aid217907",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 6, 2013",
+  "version": "217907",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Beagle Studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.divstrong.aid217907",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Download the Planned Growth App to manage client reports and other Planned Growth VIP features.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.divstrong.aid217907.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

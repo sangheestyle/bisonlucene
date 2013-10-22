@@ -1,0 +1,34 @@
+{
+  "title": "Enterprise Data World 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.edw2012",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "April 18, 2012",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.edw2012",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Enterprise Data World mobile app is your official guide to everything data! Here you will find a detailed session schedule, exhibitor listings, a new digital way for you to connect with your fellow EDW attendees, and much more. The Enterprise Data World mobile app will be your digital companion helping you find your way around the Omni Hotel, guiding you around the Exhibit hall floor, and filling you in on exact locations for sessions, panels and special events! Enterprise Data World, the most comprehensive educational event for data and information management, is taking place April 29 - May 3, 2012, in Atlanta, Georgia. More than 200 hours of programming on every aspect of the world of data management. Architecture, Governance, Modeling, MDM, Big Data, Analytics, NoSQL, Cloud, Metadata and more, EDW covers it all. The transformation to Data-Driven Business starts at Enterprise Data World. Download the Enterprise Data World 2012 mobile app for all of the information you will need at EDW this year.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "George W. Bush Center",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cortinaproductions.gwbcpersonal",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 9, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cortina Productions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cortinaproductions.gwbcpersonal",
+  "extendedInfo": {
+    "installSize": "25M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Personal Mobile App of the George W. Bush Presidential Center.The Bush Center is located on the campus of Southern Methodist University in Dallas, Texas, and invites you to learn about President and Mrs. Bush and the American Presidency by visiting its Presidential Museum.  Explore the interactive museum galleries, sit in the Oval Office, enjoy the Texas Rose Garden, eat lunch in the restaurant or cafÃ©, shop in the Museum store and stroll through the 15-acre park filled with native Texas prairie grasses and wildflowers.This application is designed to provide information about the George W. Bush Presidential Centerâs exhibits and enhance your visit to the Museum. When outside the Bush Center, the app provides information about the George W. Bush Presidential Center, the archives, and a calendar of events, and describes the tour and film content available at the Bush Center.Outside the Bush Center, the App features:â¢\tInformation about the Bush Center including its historyâ¢\tBush Center Event Calendarâ¢\tBush Center Social Mediaâ¢\tInformation with which to plan your visitâ¢\tInformation about Bush Center Tours and FilmsWhen at the Bush Center, the app allows users full access to the Museumâs tours and films.Inside the Bush Center, the App features:â¢\tDetailed multi-stop audio tours in English, Spanish and for ADA users.â¢\tFilms about George W. Bushâs Presidency.â¢\tThe ability to take and share photos and videos(Please note, you must be at the Bush Center and have location services enabled to see all the features).",
+    "reviews": [
+      {
+        "timestampMsec": "1368851705850",
+        "starRating": "1",
+        "title": "Grant app",
+        "comment": "love bush!!!!!!",
+        "commentId": "gp:AOqpTOHJUsRdXFRDnAUM_40G5t2GSMla37qZ1AU7BXTHCrJY8x_kwCnrxLEqAu8A4gAFKCquWM1F2oRIEUrlgg",
+        "author": "Michelle Davis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.SDCARD_WRITE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.SEND_SMS",
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.cortinaproductions.gwbcpersonal.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR"
+    ]
+  }
+}

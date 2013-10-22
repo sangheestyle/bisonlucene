@@ -1,0 +1,60 @@
+{
+  "title": "Meeting Recorder Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.app.meetingrecorder",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "March 30, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "2.6",
+  "contentRating": "High Maturity",
+  "creator": "FuGenX Technologies Pvt. Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.app.meetingrecorder",
+  "extendedInfo": {
+    "installSize": "7.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Meeting Recorder is the best ever Minutes of Meeting taker. Now no need to worry of missing key points during your discussion. You can take notes, record audio and video. This is available for the Android Smart phones and Tablets. Lite version provides limited use of all functionality. You can buy the full version \"Meeting Recorder\" to enjoy unlimited.Meeting Recorder records notes, audio and video at the same time. Since It is a free version, User can able to save notes only upto ten Records and at the sametime audio & video will record for only two minutes.If you want more features with unlimited savings \"Install full version of Meeting Recorder\". It combines the functionality of a notepad, a voice recorder and video recorder to create a powerful tool that will save you time while improving the quality of your notes. Perfect for business or students!It helps managers, secretaries, journalists, researchers and students to record meetings, interview, lectures, and classes, seminars ,to-do lists, shopping lists or even your kidâs voices. It produces high quality recordings and supports following features:â¢ A simple user interfaceâ¢ Background recording and playback (other apps can run while Smart Recorder is recording or playing or your device can be sleeping during recording or playback)â¢ Recorded data stored in the sdcard in the different folders according to the particular date. â¢ Categorize/sort recordingsâ¢ No time limit on recordingsâ¢ Drop box   â¢ Time menu/list buttons to quickly navigate through your recordingsâ¢ Many system settings to control the behavior of Smart Recorder",
+    "reviews": [
+      {
+        "timestampMsec": "1337581801619",
+        "starRating": "1",
+        "comment": "Poor sound quality",
+        "commentId": "lg:AOqpTOE3r8EDwPsq67WAcSnnmwiTfQBsY47rIkMixpgWem0L9pSLLwPj_d6kJsis2y2DDTXQSK0MIHGoBUycfSo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344071806016",
+        "starRating": "1",
+        "title": "Continually crashes samsung galaxy tab",
+        "comment": "Cant get  past the first screen",
+        "commentId": "lg:AOqpTOHOcSWRRqGBbFLLOrxn4YbgNtUJVCNzq1bUHCHCBWcAoEkKlN8OMtGhVhCub5q9e1ufGJ_zXG71xswOQFo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346054169460",
+        "starRating": "1",
+        "title": "Awful",
+        "comment": "Uninstall!",
+        "commentId": "lg:AOqpTOGlviGcmE3nlLe0Nq1WOGaoRUo34mbKGjGiluK5bsCj6rA7sx-FBWtVXWI6y6VPusWKEtzbUZAOnk3S-fU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_VIDEO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

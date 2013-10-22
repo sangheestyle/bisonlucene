@@ -1,0 +1,75 @@
+{
+  "title": "SMS Auto Reply",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bunnies.SMSAutoReply",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 10, 2011",
+  "version": "4",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "10",
+  "rating": "3.3",
+  "contentRating": "Everyone",
+  "creator": "bunnies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bunnies.SMSAutoReply",
+  "extendedInfo": {
+    "installSize": "18k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Set a message and automatically reply to incoming text messages. Optionally, you can specify text used to filter incoming messages for auto-reply.You can view a history of the most recent 20 messages sent by this app.Please note that the auto-replies won't show up in the history of your default text message app because (as far as I know) it's impossible to make the default app send the message for you unless you manually press the send button each time. The messages are sent directly by this app, so your default app never sees them.Please contact me with any questions/comments/problems/suggestions. Thanks!",
+    "reviews": [
+      {
+        "timestampMsec": "1344336265118",
+        "starRating": "4",
+        "title": "Sandeep",
+        "comment": "Very nice app but in multi keywords i can only send fixed message. It would be very nice if all keywords have different messages also.",
+        "commentId": "lg:AOqpTOHUnNLkQZL7-AnSgQzpSzHgZ8OO2WinE3DcvvxvzADfrkHbqPxWt6n2mPsM4JbCfBnhBS8iowS__hhatg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310952602475",
+        "starRating": "3",
+        "comment": "Does what I want but filter is is not case-insensitive as the app claims.",
+        "commentId": "lg:AOqpTOEa057f6ennPOMeunfN38de5ZfMHFKdFOH6qKiidheVN38VBmd50qy-YjdJUm_ECoL2KG0SDpw94av0qw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310397631317",
+        "starRating": "4",
+        "comment": "Needs to be able to only work with certain contacts. Or turn off for others",
+        "commentId": "lg:AOqpTOFPk7wawzl6KeA5OQyyOTDD8sbRCQywUxHnIMf7snbP0__3kqyFEM5KQZzBCUrJ-KMhhFvLucSQGU4GZA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1309951667197",
+        "starRating": "1",
+        "comment": "Don\\'t work",
+        "commentId": "lg:AOqpTOHU4rVmJ-FVF__cviQs9LIb2SLe8SiuapSAVrXbqGtieugc__nVDuLjvLmAaZZrd1I7aBs9-WItsdQ_Zw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310114048399",
+        "starRating": "1",
+        "comment": "Useless!",
+        "commentId": "lg:AOqpTOFVv39evtIGIeMQQeJDuAKtUBzhRxCi3gN09h5WZtbAiq7bDK23MMJZuUBJsZ8ID-ooHFpa7pmp70F-ZQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1305838350193",
+        "starRating": "5",
+        "comment": "So awesome, I emailed dev about being able to have multiple keywords, and he added it days later! Great app and responsive dev. DROIDX2.2.1",
+        "commentId": "lg:AOqpTOG1w5pwCNP0IkdDqxH0MzYbHCkGrxEDolRNOvRwJ_HCV2NPvsxbK7-YFYf9vO8LSZnP1txlcWrsjoL8Tg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS"
+    ]
+  }
+}

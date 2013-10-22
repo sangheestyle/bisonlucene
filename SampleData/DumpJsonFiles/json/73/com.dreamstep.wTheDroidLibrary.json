@@ -1,0 +1,67 @@
+{
+  "title": "The Droid Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wTheDroidLibrary",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "November 26, 2011",
+  "version": "0.21.13224.06196",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "The Droid Library LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wTheDroidLibrary",
+  "extendedInfo": {
+    "installSize": "112k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Droid Library is an app which provides access to a database of over 1  million licensed eBooks for Android devices absolutely FREE! Search for any eBook you want, and download it for free to any Android phone, tablet, e-Reader or PC. Just open up the app, sign up, and start downloading right away! Works as an eBook database, eBook downloader and e-Reader.Includes novels, magazines, newspapers, comics, and more.",
+    "reviews": [
+      {
+        "documentVersion": "1.13224.06196",
+        "timestampMsec": "1373667753573",
+        "starRating": "1",
+        "title": "SCAM!",
+        "comment": "Free: Yeah RIGHT! Sure you can download it free, but they seemed to just leave out the part about having to pay to register with them! I mean come on! Don\\'t waste your time with this one people, it\\'s not worth it.",
+        "commentId": "gp:AOqpTOEvEo5jyupAfY7RLssXPxcpu2I85iRJtqMm7thW4dXgNbxTAP-BSPIJv43V8zLjjcJwocSRuXdBFbLmXg",
+        "author": "Samantha Pettiquin",
+        "authorURL": "http://lh3.googleusercontent.com/-viuOegO1gm8/AAAAAAAAAAI/AAAAAAAAADQ/0pAJmOs97fA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-viuOegO1gm8/AAAAAAAAAAI/AAAAAAAAADQ/0pAJmOs97fA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.13224.06196",
+        "timestampMsec": "1332289688305",
+        "starRating": "1",
+        "comment": "It suck like pay for nothing",
+        "commentId": "lg:AOqpTOHQG6yq4M53Ie3VsJDUEoKrurLmnF4U2cgUTsTC5V0Za7z0J0VgQG4ddyEzPq6qPAVwCtoMpc0i8bfCzA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1323315774652",
+        "starRating": "1",
+        "title": "Misleading.  Actually costs $60.  Shame!",
+        "comment": "This is yet another example of why I need to build a web site which calls these horrible app makers on their egregiously-misleading behavior.  There is NOTHING free about this app.  Oh, sure, the app, itself, is free; but you have to sign-up on the web site paying a one-time $60 fee, and only THEN can this \\\"free\\\" app download things.  Worse, the web site conveniently can\\'t list the books and other publications which may be downloaded.  They\\'re just adding them too fast, they say.  Gimmee a break.  This has all the earmarks of a rip-off... just like those Windows apps through which you can view thousands of online TV shows for which one pays a one-time fee of $39.95... NOTHING BUT A RIP-OFF.  They\\'re all free TV feeds, and there is no end of freeware apps which will allow one to view them.  If the appmaker and his/her web site were on-the-level, there would be a list of available publications so that we could see that they\\'re not just a bunch of stupid self-published, good-for-nothing crap!  What is it finally going to take to bring honesty and integrity to the Android Market?  Must I launch a site which exposes these rip-offs?  I\\'m on the verge of it, I tell you.  Shame!",
+        "commentId": "lg:AOqpTOEYYY5RF9YdIEo4-s-wrBkIt-Qi8VWS8sLTnWDielrQHXVPylHHU821LwJ2RI0Qd-wWenLuSKgPh7NKtg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347583383350",
+        "starRating": "1",
+        "title": "Sucks",
+        "comment": "Doesnt even lead to a library..",
+        "commentId": "lg:AOqpTOESU1cgbVQMVqu5zZhBJ0kKNIQF0yrZ2hphp5Pzf34bygHt5fovWy35DWy9FZ6aniqqmwpE9Wl115pflw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wTheDroidLibrary.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "FlatrateBooster",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flatratebooster.tel",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 6, 2013",
+  "version": "2.5.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "95",
+  "rating": "4.0842104",
+  "contentRating": "Low Maturity",
+  "creator": "DALASON GmbH",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flatratebooster.tel",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "!!! MAKE CALLS FOR 8,9 CENT/MIN TO GERMAN MOBILE NUMBERS !!! !!! INTERNATIONAL CALLS STARTING AT 1,9 CENTS !!!FlatrateBooster is the free app to make ultra low priced international calls from any mobile or calls to German mobile numbers for 8,9 cent/min. FlatrateBooster automatically routes calls to predefined destinations via a landline or freephone phone number. If we don't have a dialin in your country, you can use FlatrateBooster with our callback system. Choose yourself which destinations (international, T-mobile, Vodafone, E-Plus, O2) will be dialled through FlatrateBooster. PLEASE NOTE: Use FlatrateBooster in combination with a provider flat rate for landline numbers for making international calls and calls to German mobiles and save a lot of money! When using FlatrateBooster for calling German mobiles we strongly recommend to use FlatrateBooster only in combination with a flat rate from your provider to German landline numbers. WHY FLATRATEBOOSTER?FlatrateBooster is for everyone who wants to save on calls to other mobile providers or to international destinations! Some contracts providers sometimes charge 29 cent/min for calls to other mobile providers! Use FlatrateBooster for these calls and save a lot of money!SAVES AUTOMATICALLY: Once you have setup FlatrateBooster, it saves automatically if you place an international or mobile call. No increased battery drain, no memory consumption, almost no data traffic (5kB per call)!8,9 CENTS/MIN TO ALL GERMAN MOBILE PROVIDERS: Don't worry about high costs to other mobile providers. Choose yourself for which destinations you want to use FlatrateBooster and start making calls to German mobiles for 8,9 cents/min!UP TO 99% SAVINGS: You can make ultra cheap international calls for 1,9 cent/min or save on German mobile numbers for 8,9 cents/min. Check our price list a complete list of our termination charges at www.flatratebooster.de/preisliste.html2 EUR FREE CREDIT = 100 FREE MINUTES: You will receive 2 EUR free credit to try out FlatrateBooster without any commitments attached. You can call more than 100 minutes for free to USA, Australia, European landlines or many other countries or 22 minutes for free to any German mobile network.FLATRATEBOOSTER AS AN ADD-ON SERVICE: Keep your SIM card and your mobile number. COMPLETE COST CONTROL: Credit and price announcement. Prepaid account. You just pay for your calls. NO monthly fee, NO subscription, NO minimum consumption, NO hidden costs! USE YOUR EXISTING CONTACT LIST: No need for another buddylist. Just dial from your telephone address book or dialpad.SUPERB VOICE QUALITY: No calls via internet. No VoIP.FLAT RATE TO LANDLINE NUMBERS: The call to the destination is routed through a landline or freephone number. Using a flat rate to landline numbers there are not extra-costs charged by your provider. Use FlatrateBooster for calls to international destinations and to German mobile networks and save a lot of money! For making calls to German mobiles we strongly recommend a flat rate to German landline numbers.Please note: A slow internet connection may cause a delayed call establishment.FUTURE FEATURES: Free calls to other FlatrateBooster users!FlatrateBooster is free and without any in-app advertising. You just pay as you go for calls.Try out FlatrateBooster for free and even get 2 EUR free credit.If you have any questions please contact our support team. Tel: +49 (0) 221 999 999 39 (weekdays, 10 am to 6 pm) E-mail: support@flatratebooster.deLink to our fair GTC:http://www.flatratebooster.de/agb.htmlLink to our privacy policy:http://www.flatratebooster.de/privacy.html(Sorry, translations will be following soon!)",
+    "reviews": [
+      {
+        "timestampMsec": "1346323201261",
+        "starRating": "5",
+        "title": "Guenstig telefonieren",
+        "comment": "Funktioniert sehr gut (SGS 2). Ist vor allem komplett in das OS integriert und daher sehr einfach zu benutzen. Grosse Kostenvorteile vor allem fuer internationale Telefonate.",
+        "commentId": "lg:AOqpTOGxrR8H5KKQ0usn-N3r2N5XxCoJ-U5I8O7X1YSJYUxC80TlTft4d16W3rHFZjyIPkkpppx9bg1_2pBHlx4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346329778475",
+        "starRating": "5",
+        "title": "Best call app",
+        "comment": "Awesome app if you don\\'t want to spend a lot on calls. It\\'s super stable, easy to use and does exactly what I want it to do. Thanks you DALASON.",
+        "commentId": "lg:AOqpTOEQ4d9_Q3zzQbsVOVrjwhnb4fUnZ3NXIG8hXQLMVXV_oOFv6IXo17-20hiPVWRHpbFTQeKFwLURcd2_bOM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CALL_LOG",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_TASKS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.flatratebooster.tel.permission.C2D_MESSAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

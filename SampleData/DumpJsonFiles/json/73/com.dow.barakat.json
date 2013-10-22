@@ -1,0 +1,50 @@
+{
+  "title": "Barakat Travel Agency Lebanon",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dow.barakat",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 10, 2012",
+  "version": "1.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dow Group",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dow.barakat",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Since 1990 Barakat Travel Agency has been offering a wide selection of travel services with a continuous growth rate in the field to cope with the high and fast development and changes in the travel and tourism industryBrakat Travel expanded from South Lebanon to be one of the most progressive and leading travel management firm in the region. The main target of the agency is to provide for its customers the ultimate and complete travel solution.From one office in Ghazieh Barakat Travel today has 4 branches (Beirut Main Office - Saida Ghazieh and Massaileh). This development is a result of a marketing strategy focusing on new market segments and further targets.The agency various departments offers different services that meet every traveler \\'s requirements like air tickets, train tickets, ferries tickets, cruises bookings, hotels bookings, transfers, meet and assist services, travel insurance, customized packages for all kinds of tourism holidays (family vacations , honeymoons, adventures, religious, cultural, business, incentives, team building and others)Being a GSA of HotelsPro a B2B Global Hotels Wholesaler, Barakat Travel has established strong contacts and good business relations with over 250 Lebanese travel agencies.Barakat Travel handles as well a recruitment agency Barakat Services providing all services required to this field.Being a sister company to Barakat Travel, Noura Rent a car offers highly performed services in the industry of car rental.The young and enthusiastic but yet professional team of Barakat Travel handles high level of performance on the front line in customer service, consultancy and reservation, as well as in the planning, organization and products preparation in the back office. This professionalism is communicated to our current and prospective customers by our sales team.Barakat Travel is the owner and operator of Jazeera Airways franchise in Lebanon , with the new offices opened in Down Town Azarieh Building great value packages for flights and accommodation are offered mainly to Dubai and Kuwait.The consistency in providing high standard of services is one of our main goals, and by keep looking for future possible developments we maintain our position in a fast growing industry.",
+    "reviews": [
+      {
+        "timestampMsec": "1369695648992",
+        "starRating": "1",
+        "title": "Poor",
+        "comment": "Poor",
+        "commentId": "gp:AOqpTOGyrzqyoyGQVmdu7mSXP0kYmXSgonEOCwrrAJyIHZv-QoEOXONmNM7ahyepFqAm-Av9_zfwGik8EeBrPw",
+        "author": "Elie Ibragim",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.dow.barakat.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

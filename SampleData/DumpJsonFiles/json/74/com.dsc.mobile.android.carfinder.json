@@ -1,0 +1,55 @@
+{
+  "title": "Where's My Car",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsc.mobile.android.carfinder",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "March 13, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "5",
+  "rating": "3.4",
+  "contentRating": "Low Maturity",
+  "creator": "Downs Software Consulting, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsc.mobile.android.carfinder",
+  "extendedInfo": {
+    "installSize": "41k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is a simple application allowing you to locate your vehicle using the GPS on your device.",
+    "reviews": [
+      {
+        "timestampMsec": "1304446533714",
+        "starRating": "4",
+        "title": "GPS Stays on - a photo locator / map would be nice",
+        "comment": "Per the earlier reviews the GPS remains on. Taking a picture to \\\"park\\\" the car would be nice (and provide a visual reference - funny how the mind works). Integration with maps or directions would be welcomed as well.",
+        "commentId": "lg:AOqpTOGLxoYMHzeoAk_-xZzZ6Mdeq_0sz9d2rkP7gyZmrswjv4e5wScZWqsU7QOo5hgLoPnKPVoPwRLLUavyRT8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1300946192091",
+        "starRating": "3",
+        "comment": "GPS stays on after program is exited. Fix for five stars.",
+        "commentId": "lg:AOqpTOGAjwQRF9ZQMxU76oYiczp8jNPLzKttUFKlRBJASuYYVqHlsxUd5f1QQxJWAbIGhoZ54ga0ijGSdtYMKwc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302215655909",
+        "starRating": "4",
+        "comment": "GpS is never available",
+        "commentId": "lg:AOqpTOGZLaKJx47aZVINcBsLRD_efHbjBDRFzOKTzHX1_elg_TndQLhIMn3-Q6HNBP96MX_MVqdm-YfNxvWJCWY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COURSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

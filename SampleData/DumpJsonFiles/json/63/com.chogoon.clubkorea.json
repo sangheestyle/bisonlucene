@@ -1,0 +1,43 @@
+{
+  "title": "CLUBKOREA - Hot! Photo gallery",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chogoon.clubkorea",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 17, 2013",
+  "version": "1.0.5.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "96",
+  "rating": "4.5104165",
+  "contentRating": "Medium Maturity",
+  "creator": "chogoon",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chogoon.clubkorea",
+  "extendedInfo": {
+    "installSize": "637k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Get the ultimate party app! Most famous \"CLUBKOREA\" Magazine in South Korea. asian night club, Hot body people. Photo gallery.",
+    "reviews": [
+      {
+        "timestampMsec": "1353557188701",
+        "starRating": "1",
+        "title": "?",
+        "comment": "Is there supposed to be something on this app? It\\'s blank for me. DROID X",
+        "commentId": "lg:AOqpTOHcporg8mBFL7822YxRAc3f35ZZfL2e5pc2-9LRl1q6Gzgp2OkTEYQ7ZV13EtokArjk_2B5XZKdLtlWvg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_PHONE_STATE",
+      "com.chogoon.clubkorea.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

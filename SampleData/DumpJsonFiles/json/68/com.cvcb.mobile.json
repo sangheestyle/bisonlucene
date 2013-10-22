@@ -1,0 +1,42 @@
+{
+  "title": "Central Valley Community Bank",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cvcb.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 1, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "cvcbbanking",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cvcb.mobile",
+  "extendedInfo": {
+    "installSize": "511k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mobile Banking at Central Valley Community Bank is a fast, secure and free service for our Personal Online Banking customers. You can manage your money anytime, anywhere â from your mobile device. With Mobile Banking from Central Valley Community Bank you can conveniently and securely:â¢\tCheck your account balancesâ¢\tView recent transactionsâ¢\tTransfer money between your Checking and Savings accountsâ¢\tSend and receive moneyâ¢\tPay bills - Schedule payments and bills right from your mobile device (If youâre already a Bill Pay customer, your payees are automatically available)â¢\tFind CVCB ATMs and branch locations - Using your current location or enter the zip code or address of the area you wish to search and you will be provided with a list of CVCB ATMs/Branches with the address and distance from your current locationYour security is our priority â Mobile Banking data transmissions are safeguarded by 128-bit SSL (Secure Socket Layer) to prevent unauthorized access. Just like Personal Online Banking; Log In securely with your Username and Password, knowing that your information is protected by encryption technology.To Get Started:Step 1: Log In to your Central Valley Community Bank Personal Online Banking Account and click on the âSign Up/Manage My Mobile Moneyâ link under the Self Service tab. Select the service options that you would like to sign up for. Available options include â Mobile Browser, Mobile App, Text Messaging and Alerts.â¢\tIf you have a Central Valley Community Bank Personal Checking or Savings Account and need to sign up for Online Banking, you may do so by visiting www.cvcb.com, click on the Online Banking Log In button, select the âEnroll in Online Bankingâ link and follow the easy enrollment steps.â¢\tIf you are not a Central Valley Community Bank Personal Banking customer, you must open a Personal Checking or Savings Account with the Bank and be enrolled in Personal Online Banking to download the Mobile App. For more information about Central Valley Community Bank accounts, visit www.cvcb.com or visit your nearest Central Valley Community Bank office.Step 2: Visit the App Store to download and install the Mobile AppStep 3: Log In to the Central Valley Community Bank Mobile Banking App using your Personal Online Banking Username and Password. Make sure your Security Image and Phrase are correct before entering your password.*Central Valley Community Bank Mobile Banking is a free service and only available with a Central Valley Community Bank Personal Online Banking Account. However, your mobile phone service provider may charge for text messages and/or web access, check your plan for details.",
+    "reviews": [
+      {
+        "timestampMsec": "1362836243428",
+        "starRating": "5",
+        "comment": "Its alright",
+        "commentId": "gp:AOqpTOHSMQwcfk6SWRmeWsi8XKJGLN9epcPHgyVDjOMle3lM2pGDVhl7IzKu1H_MrOp8Pd6wDuiuyI7FEIjfGTg",
+        "author": "Martha Zamora",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

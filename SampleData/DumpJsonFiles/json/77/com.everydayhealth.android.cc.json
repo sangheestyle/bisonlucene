@@ -1,0 +1,54 @@
+{
+  "title": "Calorie Counter PRO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.everydayhealth.android.cc",
+  "category": "Health & Fitness",
+  "price": "$1.99",
+  "datePublished": "July 19, 2013",
+  "version": "1.0.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Everyday Health",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.everydayhealth.android.cc",
+  "extendedInfo": {
+    "installSize": "7.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Calorie Counter PRO, from the #1 health website Everyday Health, makes reaching your goal weight easier than ever before! Set goals, track calories consumed AND burned, find friends, and read expert advice â all from your Android device. We created the best user experience of any dieter tracker:Features:â¢ FASTEST calorie search for food and exercise availableâ¢ SMARTEST auto suggest - instant results as you typeâ¢ FEWEST number of taps to enter a new foodâ¢ PRECISE and customizable calorie counts for any food and quantity, including foods, store brands, and restaurant foodsâ¢ WORKS OFFLINE without internet connectionYour customized Calorie Counter will automatically sync up with EverydayHealth.com, your personalized health site for managing every aspect of your health and weight:â¢ Most up-to-date diet, nutrition, and fitness tips from the industry's top expertsâ¢ Exclusive access to celebrity weight-loss secretsâ¢ Community support from thousands of active online membersâ¢ Customized meal plans, exercise programs, weight tracker, food and fitness journal and diary, shopping lists, BMI calculator and 1,000+ healthy recipesâ¢ All your data and goals will be backed up onlineSupports versions 2.1 and higher.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1346634282395",
+        "starRating": "1",
+        "title": "Needs a lot of work",
+        "comment": "Why are there ads on the paid version?  And even though I deleted a custom food I created online, it still shows up as an available food on my phone.  Needs to sync online & phone better.  Would be nice to scan a food\\'s barcode and have its nutrition info import automatically.",
+        "commentId": "lg:AOqpTOFQJz6l5O6waPrTgw_Sn-oEL7apSiwCwej2eMGQuQwNa0V_OSMEYZgj5sbf-xBOw1ZuGkFCeumyivxZaug",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1358251027585",
+        "starRating": "1",
+        "title": "No diffrence",
+        "comment": "there\\'s no difference between this and the free ones so why spend a buck 99",
+        "commentId": "gp:AOqpTOGNWj5NC-I5n2MVHnrkSgp1YUZL9qxWt-3A8vgJACX5_etZwrMUZrCgIDNuhi-quu8dZmlqXMpGXGyqe_8",
+        "author": "Kristie Metcalf",
+        "authorURL": "http://lh5.googleusercontent.com/-leVlbqmk6uQ/AAAAAAAAAAI/AAAAAAAAAa8/5H3RtI2HlxM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-leVlbqmk6uQ/AAAAAAAAAAI/AAAAAAAAAa8/5H3RtI2HlxM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

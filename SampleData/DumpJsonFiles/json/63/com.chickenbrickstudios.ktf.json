@@ -1,0 +1,48 @@
+{
+  "title": "Kiss The Fish",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chickenbrickstudios.ktf",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "January 2, 2013",
+  "version": "1.0.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "26",
+  "rating": "4.3076925",
+  "contentRating": "Everyone",
+  "creator": "Swarm, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chickenbrickstudios.ktf",
+  "extendedInfo": {
+    "installSize": "4.1M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Kiss the fish!Tap on a fish that matches the color and pattern shown, and then quicky tap on the hearts before they disappear.  How many fish can you kiss before the time runs out?  Test your skills and post your scores on the global leaderboards, unlock achievements, and earn beautiful new backgrounds ( all powered by Swarm ).Swarm is the game developer's Swiss Army Knife.  The free Swarm SDK for Android game developers can be used to power Leaderboards, Achievements, Virtual Stores, Friends, Private Messaging, Cloud Data Storage, and Push Notifications. Nearly all Swarm-powered features are fully customizeable!  Please visit http://swarmconnect.com for more details.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1330398106047",
+        "starRating": "5",
+        "title": "Fun Gameplay, Great Social Features!",
+        "comment": "This game is easy to pick up, has fun, fast-paced gameplay, and even runs great on my old original Droid phone.  The developers also did a good job adding in customized leaderboards, achievements and store (powered by the new Swarm SDK).    Highly recommend Kiss The Fish!",
+        "commentId": "lg:AOqpTOEk2P_fqauzc3b50q5ylQDE2XpiE91y87DXBB7miGbthJMqmGnjn76KRv35lDA8xKJtadxI3h6OWmWZJg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1337716956500",
+        "starRating": "5",
+        "comment": "my little cousin lowes it :)",
+        "commentId": "lg:AOqpTOGJiM9wWzHL6NiOOujRLHgg2CCKagoTzBnC4YK6mIArv_0IGqlBXaaGjHWR69xSpwAl4N6D7HHzTflMHQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

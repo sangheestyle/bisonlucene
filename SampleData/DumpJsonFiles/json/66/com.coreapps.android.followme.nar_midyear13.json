@@ -1,0 +1,51 @@
+{
+  "title": "2013 Midyear Legislative Mtgs",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.nar_midyear13",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 15, 2013",
+  "version": "4.2.4.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.nar_midyear13",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The NATIONAL ASSOCIATION OF REALTORSÂ® is Americaâs largest trade association, representing 1 million members involved in the residential and commercial real estate industries. The 2013 Midyear Legislative Meetings & Trade Expo is where NAR members take an active role to advance the real estate industry, public policy, and the association. Admission is free for NAR members, but registration is required.NAR Midyear is the official smartphone application for the 2013  Midyear Legislative Meetings & Trade Expo. The mobile app will help you get around the meetings and keep track of your schedule. Features include: meetings schedule, speaker details, exhibitor listings, hotel information, transportation options, event news, social networks, and more.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.nar_midyear13.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

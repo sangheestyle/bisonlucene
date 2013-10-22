@@ -1,0 +1,34 @@
+{
+  "title": "Wifi Phone Explorer - Trial",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dexterltd.wifi_phone_explorer_trial",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "July 19, 2012",
+  "version": "1.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "84",
+  "rating": "3.5357144",
+  "contentRating": "Everyone",
+  "creator": "Manas Gajare",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dexterltd.wifi_phone_explorer_trial",
+  "extendedInfo": {
+    "installSize": "336k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Frustrated because of connecting your phone to computer by USB cable every now & then? OR  taking out SD card from phone & inserting in computer?Not any more. Start the app, type the given link in web browser & the app will give you access to all the files on SD Card in your phone on computer.You can delete, download files from SD card to computer. You can also upload files to SD card. All done without connecting USB Cable.Requires wifi connection.** This is a 7 days trial **Features1. All the contents of phone on the computer (browser)2. Download any file to the computer.3. Zip download4. Delete files in the mobile.5. Upload. From computer to mobile.6. Multiple uploads.6. Ultimate user interface.7. No settings required. 8. Notification to check if the app is still on.To check the actual interface on browser, have a look at this. http://dexterltd.com/screenshot.pngSimple. Fast. Easy. If you face any issues with the app, mail us. Do not rate low without first seeking our help.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

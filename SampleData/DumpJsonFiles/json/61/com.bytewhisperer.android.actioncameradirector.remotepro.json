@@ -1,0 +1,48 @@
+{
+  "title": "GoPro Action Camera Director P",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bytewhisperer.android.actioncameradirector.remotepro",
+  "category": "Media & Video",
+  "price": "$3.89",
+  "datePublished": "August 10, 2013",
+  "version": "1.4.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Byte whisperer",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bytewhisperer.android.actioncameradirector.remotepro",
+  "extendedInfo": {
+    "installSize": "8.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Action Camera Director App lets you set up your GoPro perfectly!Please try the Free version prior to buying the Pro version to make sure it meets your demands.Supported devices:- GoPro HERO2 with Wi-Fi BacPac- GoPro HERO3 Black editionAction Camera Director allows you to configure and control your gopro camera and shows what your camera is  framing on a live stream. Video and Photo configurations are available on the main screen, this allows you to view the results of your adjustments immediately in the live stream. Turn the phone into landscape angle to preview your camera video in full screen.The top bar displays to which wifi gopro camera/network you are connected to and allows you to navigate to your Androids wifi settings screen. A build in wizard will help you with pairing your Android device to your GoPro camera. You can switch instantly between any GoPro HERO2 and/or GoPro HERO3 Black edition.The common controls are available in all camera modes and are therefore always available. The common controls from left to right are:- Power on- Whitebalance- Mirror camera input- Record video / photo- Locate cameraSlide the bottom menu from left to right to change to different camera modes and to gain access to the specific configuration settings for your selected mode. The available modes are:- Browse your SD Content*- Video settings- Photo settings- Photo burst settings- Photo timelapse settings- Photo timer settings*- General camera information and configuration options* GoPro HERO2 only.The video resolution table lists all possible video settings and allows you to change the following configurations in a single click:- Resolution- Frames per second- Camera angle- Protune- Pal/NTSCBrowsing the SD content allows you to preview photos in the preview window. (HERO2 only).Although we try to optimise this as much as possible, the video stream has a short delay. This is partly due to how the camera compresses the videostream, which is something we cannot influence. This app is build by observing the original GoPro network protocol. As we have no influence on future firmware versions, we can only guarantee compatibility with the following firmware versions:- HD HERO2 Firmware version 8.12.222 + Wi-Fi BacPac version 3.4.1- HD HERO3 Firmware version 02.39The protocol is unlikely to change, but if it does, we will try to update the compatibility.Designed for use with GOPROÂ® products. GOPROÂ® is a registered trademarks of Woodman Labs, Inc. in the United States and other countries.",
+    "reviews": [
+      {
+        "documentVersion": "1.4.1",
+        "timestampMsec": "1378375313041",
+        "starRating": "5",
+        "comment": "Woooow good program 5/5 star",
+        "commentId": "gp:AOqpTOEfDF-TvW5-u8hXWfheSnogB3qSl098P3xcFEbLFTr53Yf0e7MSfNUK1LZy2AHEeE1yNf2eCU9e6uEK9gE",
+        "author": "\\330\\243\\330\\255\\331\\205\\330\\257 \\330\\247\\331\\204\\330\\264\\331\\205\\330\\261\\331\\212",
+        "authorURL": "http://lh6.googleusercontent.com/-0LLB4dWR0mo/AAAAAAAAAAI/AAAAAAAAAEw/NlXz8nqskYM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-0LLB4dWR0mo/AAAAAAAAAAI/AAAAAAAAAEw/NlXz8nqskYM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367436333293",
+        "starRating": "5",
+        "title": "Great program",
+        "comment": "Works perfectly",
+        "commentId": "gp:AOqpTOGnmfRlCRrSgSGWjLBpSYBOUXCKsrG04XFc-XOxTAuX866j1Rmrnu5mtbYzhcNkoG0vIxtHvZYxRhmLafo",
+        "author": "Woody Phillips",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

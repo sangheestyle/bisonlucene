@@ -1,0 +1,29 @@
+{
+  "title": "Basketball Team Picker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ellsworth.BBTP",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "March 13, 2012",
+  "version": "1.1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "EC Android",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ellsworth.BBTP",
+  "extendedInfo": {
+    "installSize": "159k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "If you're tired of having to do \"team captains\" every time you want to change up teams, but don't want entirely random teams either, give this app a try.This team picker's skills are designed for basketball games.  Team player distribution is based on 7 different player skills and allows selecting which players are there before picking teams.Skills used: height, speed, handling, shooting, defense, teamplay, endurance.The algorithms used are quick and efficient, and produced fairly balanced teams based on the skill ratings.  It takes only a few seconds to add a player to the database, and only a few seconds more to un-select players not present.Some advanced options are available in the Preferences, as well as turning on a more detailed explanation of the team balances after the algorithm is done selecting players.* Supports 7 different player skills with ratings of 1 to 5.* Add, edit, and delete players.* Pick any number teams.* Select players available for current game.* Force certain players to be paired with or separated (split) from others.* Mark players as inactive to make selecting available players quicker.* Backup, restore, send (e-mail, Dropbox, etc.), and receive/load player database.* Import and export CSV versions of the database.* Easy and lightweight interface.* Can try to make teams' gender distribution equal.* Optional skill weighting.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Write it Off Free App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fipl.writeitoffFree",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 16, 2013",
+  "version": "1.6",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Write It Off App, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fipl.writeitoffFree",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "The FREE version offers everything that the PRO version does with two exceptions: (1) The FREE version does not allow you to export your entire list of write-offs in spreadsheet format and (2) the FREE version does not allow web-based access to all of your write-offs. If you would like these two features then please upgrade to the pro version.Write It Off App is a great all-inclusive app that is useful for saving your tax expense records in a simple and organized fashion. Don't wait until tax season to unearth your receipts to submit to your accountant or CPA. Keep track of your life's daily expenses throughout the year. This easy-to-use app allows you to track potential write-offs; categorize expenses; include images of the receipts; and email your entire write-off list to be downloaded and printed in spreadsheet format. All write-offs are stored and protected in an SSL certified database. The apps features include: â¢Track daily and end of the year write-offs using a easy-to-use one-screen approach. â¢Add/view receipt images for all of your write-offs. â¢Organized write-offs by category. â¢Easily search all write-offs. â¢Automatically calculates mileage using the standard US mileage rate. â¢Export write-offs by category into spreadsheet format - the spreadsheet automatically calculates the total for each category. (PRO version only)â¢View/edit your write-offs using a web-based backup system. (PRO version only)â¢Social networking. Types of write-offs included in app: â¢Child care â¢Medical/dental â¢Charitable donations â¢Business-related â¢Work-related â¢Mileage â¢Car registration â¢Sales tax â¢Moving expenses â¢Educator expenses â¢Mortgage interest â¢Energy tax credit purchases â¢Property tax â¢Moving expenses â¢Student loan interest â¢Tuition and fees Questions/comments: Please email writeitoffapp@gmail.com Note: This app is to be used for organizational purposes only. Please consult your personal accountant to check that your write-offs meet Internal Revenue Service criterion for tax deductions.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_LOGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

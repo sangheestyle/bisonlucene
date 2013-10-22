@@ -1,0 +1,33 @@
+{
+  "title": "Astronaut Quotes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.narble.quotes.astronaut",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "December 3, 2010",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Kab Games",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.narble.quotes.astronaut",
+  "extendedInfo": {
+    "installSize": "437k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Famous quotes from astronauts like Buzz Aldrin, Neil Armstrong, Alan Bean, Pete Conrad, Yuri Gagarin, John Glenn, Linda Godwin, Chris Hadfield, James Irwin, Story Musgrave, James Newman, Ellen Ochoa, Philippe Perrin, Richard Richards, Sally Ride, Wally Schirra, Jack Schmitt, Alan ShepardKW: comsmonaut NASA space",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

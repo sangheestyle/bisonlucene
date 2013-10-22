@@ -1,0 +1,44 @@
+{
+  "title": "Interview Prep 4 Pilots",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dl_aviation.interview",
+  "category": "Business",
+  "price": "$4.61",
+  "datePublished": "August 21, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "DL Aviation SPRL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dl_aviation.interview",
+  "extendedInfo": {
+    "installSize": "14M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "DL Aviation SPRL Interview Preparation App focuses on technical questions which some may be asked during Airlines Interview. The first part is non type related, while the other focuses mainly on the Airbus A320 simulator assessment. This part targets Pitch and Thrust settings and are given for a certain configuration. Compared to other apps, we emphasize on the practical side of the interview process. Some videos from our training can be viewed as well from this app with an internet connection. This app will allow you to have a practical refreshing overview. Being prepared will give you an advantage in your technical interview process.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

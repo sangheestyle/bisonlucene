@@ -1,0 +1,42 @@
+{
+  "title": "4eco GPS Tracker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ecotelematics.tracker",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "December 12, 2012",
+  "version": "0.5.22.1",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "8",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "EcoTelematics Group",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ecotelematics.tracker",
+  "extendedInfo": {
+    "installSize": "580k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "More information about installation and activation process:https://foureco.com/index.php/faqReal time GPS position.With 4eco GPS Tracker, organizations with employees in the field can see their exact GPS locations on OpenStreet Maps, Google, Bing in real time. 4eco GPS Tracker consists of a downloadable Freeware application for mobile Android devices, a secure cloud-hosted management console that can be accessed from any web-browser and optional data exchange and integration.4eco Mobile ApplicationUsing Android GPS-enabled mobile device, the 4eco GPS tracker mobile application collects and reports location, time and route information in real time, giving you the immediate information you need to make daily operational decisions and the historical trends data you need to assess and improve the overall productivity and performance of your mobile employees.With 4eco Software Dispatcher and Managers can:â¢View your employees, jobs and locations using OpenStreet mapsâ¢Generate an employee list that summarizes login/GPS status, current location and total hours worked so youâll always have a handle on your entire workforceâ¢Measure the time employees spend traveling between and at each job locationâ¢\tEasily create geofences to keep you informed when employees enter or leave certain geographic areas.Generate powerful reports to help assess operational performance.â¢Route history and overview reportâ¢Schedule reports to be delivered by email at any frequency, saving you time in getting information to the right people on time.â¢Analyze historical data to assess and improve employee productivity, waybill, and timetable.â¢Save time and go paperless with employees completing forms for their activitiesâ¢Export reports into spreadsheets that can be easily imported into other back-office systems to assess sales productivity, job costing, merchandising effectiveness, expense management, and more.More information about installation and activation process:https://foureco.com/index.php/faq",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SMS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

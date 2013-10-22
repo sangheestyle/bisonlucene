@@ -1,0 +1,47 @@
+{
+  "title": "CONEXUS NW Select Application",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conexusmobile.widget",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "April 17, 2011",
+  "version": "1.0.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "3.7142856",
+  "contentRating": "High Maturity",
+  "creator": "CLINKS Co., Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conexusmobile.widget",
+  "extendedInfo": {
+    "installSize": "955k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This Application will help CONEXUS customers using CONEXUS Daily Flat-Rate Data Roaming Plan to avoid overseas data usage bill-shock by displaying alarm and pop-ups.This Application starts working by deploying conexus widget into your Android phone's screen.If CONEXUS customers activate this conexus widget while Roaming in Conexus Countries, the Widget will alert them to the incorrect Network choice and help them set the designated operator manually.Please access to CONEXUS Mobile Alliance homepage and read the License Agreement.URL:http://www.conexusmobile.com/android/installation.htmlBy downloading, installing, or using this Software, User agrees to comply with the terms and conditions of this Agreement. If User does not agree to all the terms and conditions, User shall stop downloading, installing, or using the Software immediately.",
+    "reviews": [
+      {
+        "timestampMsec": "1341739018282",
+        "starRating": "1",
+        "title": "Stupidity App Ever",
+        "comment": "Just does not work. Have tried on two phones. Nothing. Ignore it.",
+        "commentId": "lg:AOqpTOHL3jfc389iB6nAzMmC6gzUoSV8Ok3nMz9LdhycPZcs085IhUi0BV4oHatt-R71LjESsAlyZq0CkbRCZA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332209833529",
+        "starRating": "2",
+        "title": "Doesn\\'t work in ICS Galaxy Nexus",
+        "comment": "When loading, it loads only half the screen. the widget never tells me I\\'m on an approved network when traveling. It used to work for me with my old 2.3.x phone.",
+        "commentId": "lg:AOqpTOH6on3NwBB1Mpq1md9mLXat-pHL8qmQAlTTFA3WLARtGjSMBrizc_07B5g6fanT5Yl6Cw-2EG2-IKQfJA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

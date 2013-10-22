@@ -1,0 +1,258 @@
+{
+  "title": "Samsung AnyConnect",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cisco.anyconnect.vpn.android.samsung",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 19, 2013",
+  "version": "3.0.09156",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "431",
+  "rating": "4.174014",
+  "contentRating": "Everyone",
+  "creator": "Cisco Systems, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cisco.anyconnect.vpn.android.samsung",
+  "extendedInfo": {
+    "installSize": "5.6M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "The following Samsung devices are supported: Galaxy S4Galaxy S IIIAT&T - Galaxy S II (SGH-I777), Skyrocket (SGH-i727), Tab 8.9 LTE (SGH-i957), Note (SGH-i717), Note 2Galaxy Note (GT-N7000), Galaxy W (GT-I8150)NTT DOCOMO - Galaxy Tab 10.1(SC-01D), S (SC-02B), S II (SC-02C), S II LTE (SC-03D) 2.3.6+Sprint - Epicâ¢ 4G Touch(SPH-D710)T-Mobile - Galaxy Sâ¢ II(SGH-T989)VZW - Stratosphere (SCH-i405), Illusion (SCH-I110), Tab 10.1 (SCH-i905 EL01)GT-I9100, GT-P1000 (2.3.6+), Note 2Android images must be official Samsung/carrier versions. \"Incompatible with other application(s)...\" or \"Unknown Reason: -8\" at install indicates unsupported device.DESCRIPTION:Cisco AnyConnect provides reliable and easy-to-deploy encrypted network connectivity from Samsung Android devices by delivering persistent corporate access for users on the go. Whether providing access to business email, a virtual desktop session, or most other Android applications, AnyConnect enables business-critical application connectivity. Through the use of Datagram Transport Layer Security (DTLS), TCP-based applications and latency-sensitive traffic (such as voice over IP [VoIP]) are provided an optimized communication path to corporate resources. Additionally, AnyConnect support IPsec IKEv2 with Next Generation Encryption.LICENSING AND INFRASTRUCTURE REQUIREMENTS:AnyConnect for Android requires Cisco Adaptive Security Appliance (ASA) Boot image 8.0(4) or later.For licensing questions and evaluation licenses, please contact ac-mobile-license-request (AT) cisco.com and include a copy of \"show version\" from your Cisco ASA. If you already have an Essentials or Premium ASA license, you may use the automated license request tool at: https://tools.cisco.com/SWIFT/Licensing/PrivateRegistrationServlet?FormId=717The ASA requires an AnyConnect Mobile license (L-ASA-AC-M-55XX=), as well as either an AnyConnect Essentials (L-ASA-AC-E-55XX=) or AnyConnect Premium Clientless SSL VPN Edition (L-ASA-AC-SSL-YYYY=) license, where XX is the last two digits of your ASA model number and YYYY is the number of simultaneous users. AnyConnect Mobile and Essentials licenses are enabled per ASA, there is no per user charge for either of these licenses.FEATURES:- Automatically adapts its tunneling to the most efficient method based on network constraints, using TLS and DTLS- DTLS provides an optimized connection for TCP-based application access and latency-sensitive traffic, such as VoIP traffic- IPsec/IKEv2 also available- Network roaming capability allows connectivity to resume seamlessly after IP address change, loss of connectivity, or device standby- Wide range of authentication options- Supports certificate deployment using AnyConnect integrated SCEP and the certificate import URI handler- Policies can be configured locally, and automatically updated from the security gateway- Access to internal IPv4/IPv6 network resources- Administrator-controlled split / full tunneling network access policy- Trusted Network Detection- Localizes according to the device's language and region settingsSUPPORT:If you are an end-user and have any issues or concerns, please contact your organizationâs support department. If you are a System Administrator having difficulties configuring or utilizing the Application, please contact your designated support point of contact.FEEDBACK:You can reach out to us to provide feedback, suggestions, or leave comments via Twitter by directing a tweet to the @AnyConnect account, visit our Facebook page at http://www.facebook.com/anyconnect, or e-mail us at ac-mobile-feedback (AT) cisco.com. DOCUMENTATION:Release Notes: http://www.cisco.com/en/US/docs/security/vpn_client/anyconnect/anyconnect30/release/notes/rn-ac3.0-android.htmlUser Guide: http://www.cisco.com/en/US/docs/security/vpn_client/anyconnect/anyconnect30/user/xmart/b_Android_User_Guide.html",
+    "reviews": [
+      {
+        "documentVersion": "3.0.09156",
+        "timestampMsec": "1377640075575",
+        "starRating": "3",
+        "title": "AT&T Samsung Galaxy Tab 2 10.1",
+        "comment": "I am able to use Samsung AnyConnect without a problem on my Tablet as long as I am on WiFi.  As soon as I disable the WiFi and try to use the AT&T Network, it will not connect.  Any thoughts/comments?  I am not able to \\\"disconnect\\\" the 4g/LTE option either, as Verizon users are able to.  Thanks!  Lori",
+        "commentId": "gp:AOqpTOENeGEzp5s7Q4AtTvXC6Th658DInl_9Me59FYFjU_x-SBzn3tJIf3WW9VGetlz3jmoYNvHA2Hn94Ekv2P0",
+        "author": "Lori Smith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.09156",
+        "timestampMsec": "1377030438899",
+        "starRating": "5",
+        "title": "It stopped working",
+        "comment": "Missing client certificate",
+        "commentId": "gp:AOqpTOEbBlojKUBWSgyS6WvCUqCM5fghNoA9rI9e1mdtm1y9kprFyCQdGaHd996-Di9EfUQCHJLxfW6NDOlQzRQ",
+        "author": "Benjamin Mark",
+        "authorURL": "http://lh3.googleusercontent.com/-51romBy-2X0/AAAAAAAAAAI/AAAAAAAAA2Q/eDv0mQpWYSA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-51romBy-2X0/AAAAAAAAAAI/AAAAAAAAA2Q/eDv0mQpWYSA/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.09156",
+        "timestampMsec": "1377283584146",
+        "starRating": "2",
+        "title": "Fail",
+        "comment": "Since the last update, not even killing the app will keep it down. It just restarts.",
+        "commentId": "lg:AOqpTOGfJX9d-cXfdyADhLD34so8q-BxLBj0PRT6ycAWlQtAePA729AzYsR9K-hqQ2qwubNXkIbZvNdo1D-WPzc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.09140",
+        "timestampMsec": "1373934271954",
+        "starRating": "1",
+        "title": "Could not able to connect",
+        "comment": "Could not able to connect",
+        "commentId": "gp:AOqpTOFSWezYq1_ReEAy4RswcXhHzZbXnSGq9pAukBAdz1pRf60AuARY8jUb5vYkLfd3uQffSVJM-y84fX0iMVA",
+        "author": "Ansar Basha",
+        "authorURL": "http://lh3.googleusercontent.com/-L26TRoe4t2g/AAAAAAAAAAI/AAAAAAAAB1Y/WvKlR2P93xM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-L26TRoe4t2g/AAAAAAAAAAI/AAAAAAAAB1Y/WvKlR2P93xM/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.09129",
+        "timestampMsec": "1372286348999",
+        "starRating": "3",
+        "title": "I use anyconnect for a secure VPN on Android",
+        "comment": "On my iOS device the connection on demand works but with anyconnect on Android it does not. If the user disconects the VPN on iOS it gets connected automatically but with Anyconect on Android it does not any help would be highlyvappreciated",
+        "commentId": "gp:AOqpTOEs6UQGn7woNXSsE3HxUir86u2VBI0Tu-UlD2Wy6D0Z-E58vWsMZugZqaw7QXi0k3kFmFH_iZUM7YFB5ZQ",
+        "author": "Anurag Swarup",
+        "authorURL": "http://lh4.googleusercontent.com/-ZcOd8HaINy4/AAAAAAAAAAI/AAAAAAAAq7w/NhIQd8ldWB4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ZcOd8HaINy4/AAAAAAAAAAI/AAAAAAAAq7w/NhIQd8ldWB4/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.09129",
+        "timestampMsec": "1364890581769",
+        "starRating": "1",
+        "title": "Unable to access external sites.",
+        "comment": "I am connected to the wifi of my organization. To access the internet I have to connect to vpn. When I use this anyconnect I am able to access only internal sites of my organization  and not external sites. This problem is there for Note 2 only. It is working perfectly fine on S3 and Note with same setting. Can you please help me in making it work for Note 2 too. I would like to give it 5 star if it works on my device.",
+        "commentId": "gp:AOqpTOFesG0qkovXk0VSkil8-gQaE7FR_aCpPFsUqnP2sS-iN8j-1SfEXM_bnY66guQDd-UNHbIPva68gS62sec",
+        "author": "Abhishek Mishra",
+        "authorURL": "http://lh6.googleusercontent.com/-4PPWCzHI66s/AAAAAAAAAAI/AAAAAAAACME/i1eoDyG9rXg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-4PPWCzHI66s/AAAAAAAAAAI/AAAAAAAACME/i1eoDyG9rXg/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.09129",
+        "timestampMsec": "1370908446953",
+        "starRating": "4",
+        "title": "Unable on Galaxy note 2 but I can on Iphone",
+        "comment": "Hi, Just install Anycconect on Samsung Galaxy II, requesting me for Access code (RSA SecurId token) but for some how I can not connected, but under my Iphone, is asking me for Password not Access code, and I can connected from Iphone but not for Galaxy Note 2. Any help or how to change on Note 2 for asking me for Password instead of Access Code???",
+        "commentId": "gp:AOqpTOHzyhQ4xQAuq5-qWPSOAEaOi_B9TqQdyMFjYVHEEMkDAQb7mMRAaA2ehNmkc97XVlmMqms9SE-bF_dPtGM",
+        "author": "Marco O",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.09129",
+        "timestampMsec": "1370724807214",
+        "starRating": "4",
+        "title": "Works great on Galaxy S4",
+        "comment": "Would be nice if it remembered my password.",
+        "commentId": "gp:AOqpTOFIJKcXUhVk9YnbLZl9qPB0ayYzvKopKKzVZS62ogUQbL5NSZmvX9oqCqklwicSuhy2a17ccST9KqfWhUI",
+        "author": "Mark McWhinney",
+        "authorURL": "http://lh5.googleusercontent.com/-BdpmjnTMP7c/AAAAAAAAAAI/AAAAAAAAAAA/bb9l_InDOFY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-BdpmjnTMP7c/AAAAAAAAAAI/AAAAAAAAAAA/bb9l_InDOFY/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.09129",
+        "timestampMsec": "1368102207882",
+        "starRating": "1",
+        "title": "Not working on galaxy s4",
+        "comment": "I tried using any connect on my galaxy s4, however it is not working",
+        "commentId": "gp:AOqpTOEHW_lKG1VycuaC1NuWzFHdoiVRAzKXnmtRZMioHuAE6-quRbmHIyg7Xe5abV9w2FpU5eKKX0pSeReDODY",
+        "author": "Lalit Purohit",
+        "authorURL": "http://lh5.googleusercontent.com/-zE398VwdITs/AAAAAAAAAAI/AAAAAAAAAB0/D0kKJg7GLc8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-zE398VwdITs/AAAAAAAAAAI/AAAAAAAAAB0/D0kKJg7GLc8/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.09129",
+        "timestampMsec": "1370272975203",
+        "starRating": "1",
+        "title": "Galaxy S4",
+        "comment": "Not working with S4.  I tried with S2 and S3 and  it is working",
+        "commentId": "gp:AOqpTOEvmZpUSk71IdME7n84yyXdOQg9tRzmXhypN5Wd-5XS3raFbWLYFeSIHcYsVB_RPJMcFnct810gaibcDzg",
+        "author": "Samih Mirghani",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.09129",
+        "timestampMsec": "1365165313049",
+        "starRating": "5",
+        "title": "Idk",
+        "comment": "Well see",
+        "commentId": "gp:AOqpTOGc5TfnNBuHsO7dz3dcLukxP4TNa4WHVi-eCXpLBc61HhBrUgzqmwxJ01ANH5ckaKQNcyMaN9cLu87Uxcc",
+        "author": "Veronica Favors",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.09129",
+        "timestampMsec": "1364287261149",
+        "starRating": "1",
+        "comment": "Not working on Samsung Galaxy S3",
+        "commentId": "gp:AOqpTOFWc30jYx637UOMFZk6Gwt907L0-K8Wcm26bR1NofDM-pqtwe2JyaWVhow5yudUEbputoYDe5BgjcRPlwE",
+        "author": "Jovo Blagojevic",
+        "authorURL": "http://lh5.googleusercontent.com/-ICZ-Wc3EIrk/AAAAAAAAAAI/AAAAAAAAAFo/O-fgvAm3qTQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ICZ-Wc3EIrk/AAAAAAAAAAI/AAAAAAAAAFo/O-fgvAm3qTQ/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.09093",
+        "timestampMsec": "1356788690734",
+        "starRating": "1",
+        "title": "Samsung note 10.1 does not work",
+        "comment": "It shown time out always and certificate does not match. Please advice I really use vpn on my work. Thank you My Android version is 4.0.4, device: samsung note 10.1 ,  model: GT8000",
+        "commentId": "gp:AOqpTOFwzhFBDyuPD5ycRzrwOcyy9FCz0UycS07UM1X5Md2zclXhVFoq_BRhUrEH5qIfp3Du5AETs-Ywp8QZIAU",
+        "author": "IPS ITSM",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.09093",
+        "timestampMsec": "1352805438236",
+        "starRating": "5",
+        "title": "VPN Anywhere",
+        "comment": "Love this product. Very easy to use and reliable on a Samsung i9100. Makes my job just that little bit easier.",
+        "commentId": "lg:AOqpTOG2vfjHYpVt0QaW0oU_8mbhOLGExtmcC4xGPeXRFlQTN4xG5PcU6oa0HFL-9tUVsO4r32gdDTbf1aHzPz4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.09093",
+        "timestampMsec": "1352971249082",
+        "starRating": "5",
+        "title": "Confusing, but working"
+      },
+      {
+        "commentId": "lg:AOqpTOHnpBYQS-xDWCaI3KTMKPrNFSBfUGd3rKuNFOg6W39akRXO-rWpFgPoIoiZp87zq0uRQH7EHtFie1KRw00",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.09093",
+        "timestampMsec": "1361640599549",
+        "starRating": "1",
+        "title": "Download/Install fails",
+        "comment": "Says it\\'s \\\"compatible with your AT&T Samsung SAMSUNG-SGH-I997\\\".  However, app does not even complete downloading.  Error says \\\"Incompatible with other application(s) using the same shared userID.\\\"    Does not indicate what user IDs.  I tried the < SEP2011, which installs but errors when opening.  Any help?",
+        "commentId": "gp:AOqpTOHRTBPZi9dlTun4D4pIDs5v37rTrLk6Z3w0d1MvBa654uPkC7gqwiqAPxnQtJiX1S0mnj9IBUXdHPD5dkc",
+        "author": "Tracy Walker",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.09093",
+        "timestampMsec": "1358443848597",
+        "starRating": "4",
+        "title": "Samsung Galaxy Note 2",
+        "comment": "I downloaded this app for use from my phone so that I can connect into the office and work.  Now I do not necessarily need to go into the office anymore or use my laptop.  Only part that I do not like is that MMS is blocked once connected to the VPN.  I found the following information:  AnyConnect 2.5.5131 is a hot fix release that contains the following changes: - Fix inability to resolve internal hosts on CDMA/LTE Galaxy S3 devices - Allow MMS traffic on Galaxy S3 devices with appropriate server-side configuration  Really need to be able to receive MMS while connected through the VPN.  Any possibility of allowing MMS traffic on the Galaxy Note 2?  This is the only reason why rating is only 4 stars.",
+        "commentId": "gp:AOqpTOE2oku8AJVuUfLTTUfh46jAyldDLghuZ2L95hjC_bbznXI91CxXrvmRgLgldnXNdFKkN_4YUEV6QMYTBQY",
+        "author": "Stephen Greene",
+        "authorURL": "http://lh3.googleusercontent.com/-pESjLHgV6S8/AAAAAAAAAAI/AAAAAAAAAPY/tJGGBS4zoWU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-pESjLHgV6S8/AAAAAAAAAAI/AAAAAAAAAPY/tJGGBS4zoWU/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.09093",
+        "timestampMsec": "1354366089655",
+        "starRating": "2",
+        "title": "DNS problem",
+        "comment": "After connecting through this app, not able to set the DNS to local servers. Hence unable to use any of the internal apps.",
+        "commentId": "gp:AOqpTOGGwox9eT4iHjljTTpRnF4d7J7FnTMTFyWfKXhh6sI9HuqeU6LjU6xYkHHKHUn26KDDaTujASYMqhAStrE",
+        "author": "Nilesh Sangoi",
+        "authorURL": "http://lh6.googleusercontent.com/-BB24fncfdl0/AAAAAAAAAAI/AAAAAAAAAi8/cOUC7l6q3kY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-BB24fncfdl0/AAAAAAAAAAI/AAAAAAAAAi8/cOUC7l6q3kY/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.09093",
+        "timestampMsec": "1355266716754",
+        "starRating": "4",
+        "title": "Close. No License",
+        "comment": "Gets all the way to the last connection step and errors No License. Phone isn\\'t on official list... Is it the phone or company problem ?  Windows pc and Iphone work.  Update... Thanks for the reply. The ball in now in my company\\'s court.",
+        "commentId": "gp:AOqpTOGrH6QB8DXy6vqI5kh_oUtDTT17XQHg2dnTJVbRgDi9EU6s4WxmLYiCejai5jY4MixXLpKSrTpXbLAD_-Y",
+        "author": "Brian Foddy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.09093",
+        "timestampMsec": "1355704068736",
+        "starRating": "5",
+        "comment": "Great on GS3 connecting to USC vpn",
+        "commentId": "gp:AOqpTOFeauzmmKO0vPMVLt2EI7DJvR-QcNQa8biGwXF7SLkSkWVvzYbOxd4uG2FUs2j3RrlstfLTgXdXPyqhkVU",
+        "author": "Ehsan Ehsanipour",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_LOGS",
+      "android.permission.DUMP",
+      "android.permission.DIAGNOSTIC",
+      "android.permission.ACCESS_CHECKIN_PROPERTIES",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_SECURE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VPN",
+      "android.permission.NET_ADMIN",
+      "android.permission.NET_RAW",
+      "android.permission.SAMSUNG_MODIFY_ROUTE",
+      "android.permission.SAMSUNG_TUNTAP",
+      "android.permission.SAMSUNG_MODIFY_IPTABLES"
+    ]
+  }
+}

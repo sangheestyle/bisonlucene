@@ -1,0 +1,43 @@
+{
+  "title": "Where am I? - ESP",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dondeestoy.rob",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "February 10, 2013",
+  "version": "13.2",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "20",
+  "rating": "4.6",
+  "contentRating": "Low Maturity",
+  "creator": "Roberto García Cáceres",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dondeestoy.rob",
+  "extendedInfo": {
+    "installSize": "172k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "VersiÃ³n en espaÃ±ol. Puedes conseguir la versiÃ³n en inglÃ©s - internacional (\"Where am I?\") en Market.Potente herramienta que permite determinar tu ubicaciÃ³n, tus contactos de Gmail y aquellos POIs creados por ti.\"Â¿DÃ³nde estoy?\" te ubicarÃ¡ en un mapa e indicando igualmente una direcciÃ³n postal. Esto y aÃºn mÃ¡s informaciÃ³n (enlace a mapa sencillo y detallado, enlace del tiempo, enlace para ver foto real de la calle, etc...) puede adjuntarse en un SMS y/o Email.Las principales caracterÃ­sticas de \"Â¿DÃ³nde estoy?\" son:1. Indica dÃ³nde estÃ¡s usando GPS, red de telefonÃ­a o WiFi.2. Traduce tu ubicaciÃ³n en un mapa con posibilidad de zoom, vista satÃ©lite y condiciones del trÃ¡fico.3. Esta informaciÃ³n, junto con la de las condiciones climatolÃ³gicas actuales, pronÃ³stico del tiempo, alba, ocaso, toda la informaciÃ³n sobre ese lugar donde estÃ¡s (poblaciÃ³n, aspectos geogrÃ¡ficos y polÃ­ticos etc...), vista real en foto de ese lugar, mapa simple y detallado; todo eso se puede aunar junto o por separado para disponer de toda la informaciÃ³n del lugar en el que estÃ¡s y poder enviarlo a cualquier amigo por SMS y/o Email. TambiÃ©n lo puedes guardar en tu tarjeta SD de tu mÃ³vil en un archivo de texto.4. Te muestra tus contactos de Gmail en un mapa (aquellos que estÃ©n a menos de 10 km. de tu ubicaciÃ³n).5. Te muestra tus contactos de Gmail en una lista, pudiendo ver la distancia que hay entre ellos y tÃº. TambiÃ©n podrÃ¡s acceder a la vista de foto real del lugar donde estÃ¡n (predefinido en los campos de direcciÃ³n de tu libreta de direcciones para Gmail).6. Posibilidad de crear tus propios POIs que son guardados en una base de datos. PodrÃ¡s realizar copias de seguridad y restaurar esa base de datos cuantas veces quieras en segundos.Esos POIs se mostarÃ¡n en un mapa y si pulsas sobre cada uno de ellos obtendrÃ¡s toda la informaciÃ³n relativa a cada POI.7. Estos POIs se pueden configurar con una alerta de proximidad (puedes selecionar el radio/rango en metros deseado y si la alerta debe expirar y cuÃ¡ntos dÃ­as de vigencia). La alerta te avista con un mensaje y con vibraciÃ³n. TambiÃ©n se te avisarÃ¡ cuando salgas del radio/rango de metros que estableciste para el POI en cuestiÃ³n.8. Opciones como \"Actualizar ubicaciÃ³n...\" y la posibilidad de navegar de una forma simple pero a la vez Ãºtil, son otras de las cosas a destacar.9. Y mucho mÃ¡s...",
+    "reviews": [
+      {
+        "timestampMsec": "1357602081721",
+        "starRating": "1",
+        "title": "Mal\\303\\255sima",
+        "comment": "No puedo creer que hayan hecho una bazofia como \\303\\251sta, me quedo con google earth",
+        "commentId": "gp:AOqpTOE4NFc2hs60iq5Zfeg19fMAwrJYD-kESOKE5uMV88Z37TICR9T6PljMNxSNMHgeio7BtuWsCNXlzsuhhA",
+        "author": "dan mora",
+        "authorURL": "http://lh5.googleusercontent.com/-_EurJYAuOYQ/AAAAAAAAAAI/AAAAAAAAAAA/iYrqJYPzC2E/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-_EurJYAuOYQ/AAAAAAAAAAI/AAAAAAAAAAA/iYrqJYPzC2E/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

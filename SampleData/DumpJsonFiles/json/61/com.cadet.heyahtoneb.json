@@ -1,0 +1,33 @@
+{
+  "title": "Hi Yah Voice Button",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cadet.heyahtoneb",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "April 5, 2011",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Sounds",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cadet.heyahtoneb",
+  "extendedInfo": {
+    "installSize": "818k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Use this button to greet those beaming, energetic morning people at school or work.  That way you can zombie walk to your destination but appear cordial.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

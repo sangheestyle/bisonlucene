@@ -1,0 +1,49 @@
+{
+  "title": "Headphones Helper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.customs.dbc.headphoneshelper",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "June 18, 2013",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "DBC Customs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.customs.dbc.headphoneshelper",
+  "extendedInfo": {
+    "installSize": "288k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Do you always open your music player when you plug in your headphones?Headphones Helper will automatically adjust your device's volume, and open your music player as soon as you plug in your headphones, or connect your Bluetooth headset. Headphones Helper will also allow you to skip the current track in your music player by simply shaking your device from left to right.Unlike other apps on the market, we have found a way to route media controls to the specified app on phones running Android 4.0+Currently the app is set to be able to open the following music players:PandoraTuneIn RadioGoogle Play MusicSlacker RadioiHeart RadioSamsung Galaxy S built in Media PlayerWinampIf you have an app that is not on the list, you can choose a custom app as well.I will be adding new features often, if you have any requests for features you can email me as well.Download the pro version for the following added features:Ads removed.Ability to choose a separate App to open when on WiFi connection.",
+    "reviews": [
+      {
+        "timestampMsec": "1371122469808",
+        "starRating": "5",
+        "comment": "Amazing!",
+        "commentId": "gp:AOqpTOF2VxTySmlVdoFLE9Zp4Tmi5VI2QPtEi4KSplTGI2AZ4CTmBHnyGyYKbMmOP_6Z2srIP7YaGhFsNbhjPw",
+        "author": "Kirstine Delegencia",
+        "authorURL": "http://lh6.googleusercontent.com/-eBedKwhk9Js/AAAAAAAAAAI/AAAAAAAAABY/t0EgqUAHmVk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-eBedKwhk9Js/AAAAAAAAAAI/AAAAAAAAABY/t0EgqUAHmVk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368598090189",
+        "starRating": "5",
+        "title": "Awesome!!",
+        "comment": "I use this app daily.  I love being able to just plug in my buds and let the music listening commence!",
+        "commentId": "gp:AOqpTOFPGyqCLAbkJcbc17dnc7xcohys-mLE6039tK3Ha14fizeIWAyWj7Wkz5mrXxY5G4_XPtY8bHK0GXZrhA",
+        "author": "Sean Donahue",
+        "authorURL": "http://lh5.googleusercontent.com/-0UpHq7I9dwo/AAAAAAAAAAI/AAAAAAAAAsk/jbUtaM0gBSw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-0UpHq7I9dwo/AAAAAAAAAAI/AAAAAAAAAsk/jbUtaM0gBSw/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

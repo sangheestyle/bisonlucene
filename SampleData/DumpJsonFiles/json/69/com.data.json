@@ -1,0 +1,65 @@
+{
+  "title": "Call Timer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.data",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 19, 2013",
+  "version": "1.2",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "6",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "TouchSpot MX",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.data",
+  "extendedInfo": {
+    "installSize": "339k",
+    "downloadsCount": "1,000,000+",
+    "downloadsCountText": "100 - 500",
+    "description": "See your mobile data usage on the status bar like the battery indicator!!!Real Time Mobile Data Monitor is a simple mobile data monitor application that will tell you about your usage in real-time!(NOTE: If you are already on mobile data when you install Real Time Mobile Data Monitor, restart the data connection)When you are connected with mobile data, Real Time Mobile Data Monitor will show you a status bar icon (like the battery indicator) that will symbolically tell you how much mobile data you have used up. Pull down the notification bar and you will see a notification that will give you detailed view of your mobile data usage along with your bill due date details.With Real Time Mobile Data Monitor, you no longer have to go away from your current application to your data usage monitor apps to know how much data is left.Once you install Real Time Mobile Data Monitor, you simply have to setup the billing day for postpaid(contract) data connections or the start and end dates for prepaid(pay-as-you-go) data connections along with the data usage limit in either MB or GB.* Every time you connect to mobile data, you will notice the status bar icon (like the battery indicator) that will let you know your current mobile data usage.* Pull down the notification bar for a detailed view.* Click on the notification bar to open the application and change any settings.* The new settings will be immediately reflected in the notification.* Alerts for 90% usage limit and 100% usage limit.* The notification is removed when you disconnect mobile data.* Very light on CPU (doesn't use threads).Real Time Mobile Data Monitor doesn't currently allow the users to set the usage warning limit and also doesn't provide usage stats for each application. I will be including these features in the future versions.Please note that the usage details shown by Real Time Mobile Data Monitor, although very accurate, are only indicative. For the actual usage details, please contact your service provider.Please provide your valuable feedback for me to improve this app in the future versions.",
+    "reviews": [
+      {
+        "timestampMsec": "1368242224817",
+        "starRating": "4",
+        "title": "good",
+        "comment": "Easy to use and good",
+        "commentId": "gp:AOqpTOEu6LI8xAua9oObuysIEXPB4_wPO2tvuJYYQYkrlqB_CYeOkTYp4A5davnecE6iXf6mU093PYkxOKRgKC8",
+        "author": "Praveen Deswal",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361892987225",
+        "starRating": "5",
+        "title": "Very Useful",
+        "comment": "Simple app... Lets me know my usage directly in the notification. Fantastic one !",
+        "commentId": "gp:AOqpTOFLR9Ht00r5GbFLqmfRmIA23G6pu1ocXQPfqiR1mwblHzObn7kORwstwDLr1AJdnLmiw8P9qpaywbyjW5o",
+        "author": "Sushyamala Medisetty",
+        "authorURL": "http://lh6.googleusercontent.com/-GwNG1xDZJJE/AAAAAAAAAAI/AAAAAAAAAuY/rgzIStnv8L8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-GwNG1xDZJJE/AAAAAAAAAAI/AAAAAAAAAuY/rgzIStnv8L8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362042670673",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "Cool one. Shows the usage in the notifications",
+        "commentId": "gp:AOqpTOFQNwku0xIoKDl0ook8fK8pLF2sFInpovkLz9fE5-omVyVpXUkCbopuJCMQFqseumtFFH5PlnqDMih8GiI",
+        "author": "Praveena Paruchuri",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361955306004",
+        "starRating": "5",
+        "title": "Really useful and great app",
+        "comment": "With this installed I can stop worrying about my data limits. Warns at 90% which is really helpful... and with the status bar in the notifications, its very easy to monitor my usage. Thanks",
+        "commentId": "gp:AOqpTOGXCJjt6C_vzDaeoWai-LEeUnLxGXs8Vwg92Hg7ADvbuyfh_DpCNm5kEfCe50_u2TyCCUBDNjr7wBgrnq8",
+        "author": "Medisetty Chaitanya",
+        "authorURL": "http://lh3.googleusercontent.com/-X9IFXsEOFvA/AAAAAAAAAAI/AAAAAAAAADs/Id8c1-f68xE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-X9IFXsEOFvA/AAAAAAAAAAI/AAAAAAAAADs/Id8c1-f68xE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

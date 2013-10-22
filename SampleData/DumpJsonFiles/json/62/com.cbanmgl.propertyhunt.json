@@ -1,0 +1,43 @@
+{
+  "title": "Property Hunt",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cbanmgl.propertyhunt",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "September 6, 2010",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Not rated",
+  "creator": "CBANMGL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cbanmgl.propertyhunt",
+  "extendedInfo": {
+    "installSize": "132k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Real Estate tool allowing users to capture images, record financial information, features, notes, and more of potential properties.  Good for House Hunters, Real Estate Agents, Land Purchasers, etc.v1.1 - Bug fixes",
+    "reviews": [
+      {
+        "timestampMsec": "1283827171908",
+        "starRating": "5",
+        "comment": "Nice app - does what it promises on N1 froyo. Developer is responsive and helpful.",
+        "commentId": "lg:AOqpTOHeRkhY5KFSAXvp9gOQ7rPtoJqP7esb5VL5dD8bUfoagtNLYagSl5Pg-eeJ2z7lil9KLSZR0gnqO1mUzEE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302835926067",
+        "starRating": "1",
+        "comment": "Not worth the time and tends to freeze",
+        "commentId": "lg:AOqpTOHz1AFldX-um7aJuln2Yj4EMc_e0F9nkXm2Y6ERPr6gUuv-xNShBmropJa-ZmNLqaBFNsIfa_keXutoFgA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

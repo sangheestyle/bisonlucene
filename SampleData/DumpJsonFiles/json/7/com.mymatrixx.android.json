@@ -1,0 +1,37 @@
+{
+  "title": "myMatrixx Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.mymatrixx.android",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "March 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "myMatrixx Healthcare",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.mymatrixx.android",
+  "extendedInfo": {
+    "installSize": "383k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "myMatrixx Mobile is the first workersâ compensation tool that allows both claims handlers and patients to seamlessly access their data on the go!  myMatrixx is a full-service pharmacy benefit management (PBM) and ancillary services company focused on workersâ compensation. By combining advanced technology and proactive clinical management throughout the claims process, myMatrixx delivers a Fast, Simple, Effective solution with proven Results.  Authorizations â Claims handlers can manage pharmacy and ancillary authorizations via their mobile device just as if they were at their desks!  Patients have visibility into the status of their pharmacy and ancillary authorizations.Ancillary Search â Claims handlers can quickly receive a quote for a number of products or services and then order directly from myMatrixx Mobile.Pharmacy Search â Search over 64,000 nationwide pharmacies by name, address or zip code and then conveniently tap to get interactive driving directions.Pharmacy Card â Never lose your pharmacy card again, with myMatrixx Mobile your personalized Rx Card will always be at your fingertips!Medication Search â Drug descriptions available and linked to patient profiles.",
+    "reviews": [
+      {
+        "timestampMsec": "1364254284186",
+        "starRating": "5",
+        "title": "The Perfect Workers Comp App!!",
+        "comment": "This excellent application allows adjusters to process pharmacy and dme authorizations without being near a computer. Patients can easily create an account and view their benefits card, as well as their pending medication authorizations. The pharmacy locator is an amazing tool!",
+        "commentId": "gp:AOqpTOEsxGtH2DIfX1yMBH4hil_vrfa0SattNvVo3Vh7JhukEfWaK0qsi_zsv2YR0MQcAzhCb8NrX2Od4iD3jQ",
+        "author": "James North",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

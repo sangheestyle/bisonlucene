@@ -1,0 +1,43 @@
+{
+  "title": "Cook Expert",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cuuk.made",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "July 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Chantel Baptista",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cuuk.made",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you like the kitchen? What food do you like? Then try this with cooking-themed game. The game will teach you how to make delicious food. Come on, let's do delicious meal.",
+    "reviews": [
+      {
+        "timestampMsec": "1375638608570",
+        "starRating": "4",
+        "title": "Awsome",
+        "comment": "It is a excellent game fun for the hole family.",
+        "commentId": "gp:AOqpTOFlRbskf-UkF6ganTgvPchTAUY9rSTjAGIQRZHEzkdgVbb2DKCNr1cu1lb8llICesAW1cBsvd7UP39zA2Y",
+        "author": "Joseph Graham",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

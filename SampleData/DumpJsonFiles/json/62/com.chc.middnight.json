@@ -1,0 +1,38 @@
+{
+  "title": "Middnight On Main",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chc.middnight",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "December 29, 2012",
+  "version": "2.0.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Community Health Center Innovations",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chc.middnight",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The ultimate way to enjoy Middnight on Main â create your own schedule, receive push notifications on your schedule, get last minute updates, GPS walking guide to the next event or receive a live twitter feed - itâs all available on the app.",
+    "reviews": [
+      {
+        "timestampMsec": "1323711740529",
+        "starRating": "5",
+        "title": "Great Event Manager",
+        "comment": "Middnight on Main is a city wide New Year\\'s Eve celebration in Middletown, CT.  It will have over 100 different performances, including some really great bands.  This app makes it easy to find the performances.  It gives you the ability to get information about the performers from the App.  They can then be added to your personal calendar.  Using the GPS and Google Maps, it then will show you how to get to the venue where your favorite band is playing.  It also pulls in data from Twitter to get current updates  about what is going on.",
+        "commentId": "lg:AOqpTOEq3gSNraNCONcHnHmc-8CELPeLidS_BMYKM05k2VYFrUcZ62IvIEE-tHmmEiNs5vjMZINc_BMV0WqCvg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

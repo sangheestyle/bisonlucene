@@ -1,0 +1,41 @@
+{
+  "title": "Fear Factor Unofficial App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fanapps.fearfactor",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "February 13, 2012",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "3.8",
+  "contentRating": "Low Maturity",
+  "creator": "Android Fan Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fanapps.fearfactor",
+  "extendedInfo": {
+    "installSize": "598k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Fear factor fan app is the most informative Fear Factor app in the market. Current tweets and blogs about the new 2011 Fear Factor TV reality show, hosted by Joe Rogan. Video will be released as soon as it is available, be an insider on the all new Fear Factor comings and goings.This is the UNOFFICIAL fan application for the Fear Factor reality TV show.",
+    "reviews": [
+      {
+        "timestampMsec": "1325020846458",
+        "starRating": "3",
+        "comment": "When will the contestant part come out? :(",
+        "commentId": "lg:AOqpTOEdCoC29bWzJcHcAHewJnsa9aiqW53YqRddosqrGd8U9IRmSKeRdamRtPhHzFDNqsm9GNCclIE1S4sjKg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

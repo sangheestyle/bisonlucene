@@ -1,0 +1,84 @@
+{
+  "title": "Speech Enhancement for Android",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.enhancement",
+  "category": "Music & Audio",
+  "price": "$4.86",
+  "datePublished": "January 2, 2013",
+  "version": "2.0.4",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "8",
+  "rating": "3.875",
+  "contentRating": "Low Maturity",
+  "creator": "DigiPhD",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.enhancement",
+  "extendedInfo": {
+    "installSize": "5.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "\"Speech Enhancement for Android (SEA) is an off-line spectrum analyser with the ability to also conduct spectral modifications such as filtering for speech applications.\"Join other users on the discussion forum to discuss your ideas and sort out any bugs you have come across:https://groups.google.com/forum/#!forum/speech-enhancement-for-androidOr join the Facebook community:http://www.facebook.com/#!/enhancementapp#### Tested Devices (Better suited for dual core devices) ####Motorola Xoom with Android 4.0.4 (Good)Samsung Galaxy S III (Quad core, AU release) with Android 4.0.4 (Good)Sony Xperia with Android 4.0.4 (Good)Motorola Atrix 2 with Android 2.3.6 (Good, must have sdcard installed)HTC Desire HD with Android 2.3.5 (A bit slow)Motorola Atrix with Android 2.3.4 (Good)HTC Incredible S with Android 2.3.5 (A bit slow)#### BUGS AND REPORTS ####Apologies for incompatibilities on devices other than the ones listed above. If you find any bugs or issues please e-mail me (miscanalysis@gmail.com) and include what you were doing at the time the bug occurred so I can fix it. If it happens I can't support your device I WILL REFUND YOUR MONEY.#### Description #####SEA frequency analysis has a selectable resolution from 128 to 4096 bands, between 0-4 kHz. This tool is great for audio engineers, anyone with a background in linguistics (phonology or phonetics), cognitive psychology (psycholinguistics), speech and music analysis or Digital Signal Processing (DSP). It is a useful tool for off-line frequency analysis of acoustic signals and a powerful educational aid for students in those fields of study. You can record, distort, enhance and modify your own voice, giving you the ability to hear and see each step you take. One of the frequency analysis tools available is the spectrogram. The spectrograms generated in SEA are very high resolution, allowing the user to observe harmonics and the fine structure of their recordings.Initially it was designed for students and researches in Electronic/Electrical Engineering, however, anyone can try their hand at using it. It incorporates some past and present state-of-the-art speech enhancement algorithms which allow you to filter out noisy signals and see and hear the result of these algorithms first hand. Some of these algorithms are currently used in some telecommunications systems.You can quickly make changes and share them with colleagues or teaching staff via e-mail, Blue-tooth and any other supporting image or sound transfer services. All spectrograms and frequency plots are zoom able via an image viewer.Complete list of features as of V2.0.1:- Record audio- complete spectrogram analysis- complete short-time magnitude analysis- Linear predictive analysis:+ LPC Spectrograms+ LPC Magnitude analysis- Saving of Spectrograms and audio files to desired location- Distort recorded audio with different noise types from -30dB to +30dB- Additive noise types include:+ White noise+ Jet+ Babble (human voice)+ car+ Street+ Restaurant+ Airport- Matlabs JET color scheme- Multi color image generation- Exporting of AMS configuration as txt file- Short-Time Fourier Analysis on all generated audio- Real time amplitude recording- dBFS scale on all spectrograms- Saving and sharing of all images and audio- The following Statistical based filters:+ spectral subtraction+ Frequency Wiener filter+ MMSE spectral amplitude+ MMSE with SPU+ LogMMSE+ Spectral energy - The following acoustic modification methods:+ Unit Magnitude+ Random Phase+ Zero Phase- Peak frequency tracking - Generate spectrogram png files- Generate .wav files- comprehensive help and documentation - Video tutorials",
+    "reviews": [
+      {
+        "documentVersion": "2.0.4",
+        "timestampMsec": "1362963632547",
+        "starRating": "1",
+        "title": "Evp analizer",
+        "comment": "Hate it want my 5$ back its slow to open files  and it recors less than a minute... sucks",
+        "commentId": "gp:AOqpTOGvOWysXM6hfcZzDXTHUlfYoY1fmrVnFnWb91WybI1pMS0fxo2R1sLTt29gDPyssAdc8wztzkk7lqfmxw",
+        "author": "Melissa Pandola",
+        "authorURL": "http://lh3.googleusercontent.com/-o-09uoEfKmY/AAAAAAAAAAI/AAAAAAAAAqU/N629sT3JhWM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-o-09uoEfKmY/AAAAAAAAAAI/AAAAAAAAAqU/N629sT3JhWM/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.3",
+        "timestampMsec": "1346286873975",
+        "starRating": "5",
+        "title": "Great quality / feels like toy",
+        "comment": "The underlying dsp is clearly of very high quality, but for the cost I\\'d like to see more flexibility and features: it feels like a demo with a only a few scripted things to do, though these are very well implemented.",
+        "commentId": "lg:AOqpTOFxxTT-zqb4XZvAqmKxd8Bsi83ivaBUM4gS4CD1D_-3Pv_mgUZmLtdVNaCPk6ZX7QLsSjBQls-DOvo0Pg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341185704700",
+        "starRating": "5",
+        "title": "Great for quickly seeing theory in practice",
+        "comment": "This app greatly helped with the solidification of my speech enhancement knowledge and allowed me to quickly and easily see the theory in practice.  When I was ready to try implementation myself, the app was a great tool to help verify my own experimental results.  The app has plenty of features, all of which are clearly explained in their respective help menus which makes for a pleasant and user friendly experience.  I would recommend this app to anyone interested in, or learning about, signal processing techniques - student and professional alike.  While the app shows the theory applied to speech processing, it is the same theory that is applied to a wide range of signals in real world applications.",
+        "commentId": "lg:AOqpTOFBYzwCMrnXEQHsXQnKGrxpVatmNFt2vt881w1qwmBW1VgrVzCBX-HmenCpmRq3wZLuxkiRQ9kWNz5QXw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331515302165",
+        "starRating": "5",
+        "title": "Feature-rich -while miraculously avoiding clutter",
+        "comment": "Was chuffed to discover that there even WAS an app for DSP! You can imagine how much more ecstatic I became when the ease of acquiring and manipulating \\'signals\\' became apparent.   There is no shortage of algorithms to choose from. Perhaps my only misgiving though, is that there appears to be no way to dynamically load new ones. I may have yet to find that option though. In any case, the bountiful features will keep you occupied for longer than any of us have time for anyway!  The tutorials and online help were of considerable  assistance to me. Easy to navigate.  Produces vivid Spectograms on my Galaxy SII!",
+        "commentId": "lg:AOqpTOEXo47Sag5gXF4A7Xw7BzkyCNXNjOs_-Zs-tTB6FjCOceDIzbKt-EiFs1glrPviuwL5q8iJLKO1Y86JjQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365809050180",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Very well built easy to use and does a lot. Well worth buying.",
+        "commentId": "gp:AOqpTOGBEfx62mj1OQzU-Q2a5zY9nlFZ9py1uxk0Ghm9E_sDbAIf6q4IIMpnVnMU8HGYSTErV90k3uVqSmi0zA",
+        "author": "Richard Brown",
+        "authorURL": "http://lh5.googleusercontent.com/-11RmA68-5yo/AAAAAAAAAAI/AAAAAAAAACE/0fJOZRYXMiY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-11RmA68-5yo/AAAAAAAAAAI/AAAAAAAAACE/0fJOZRYXMiY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.enhancement.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

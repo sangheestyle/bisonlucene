@@ -1,0 +1,49 @@
+{
+  "title": "Missed Calls",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.amannain.android.missedcalls",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 8, 2012",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "Androider Aman",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.amannain.android.missedcalls",
+  "extendedInfo": {
+    "installSize": "82k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This app helps you to view your missed calls in an organized manner. It has two tabs which divide your missed calls between Listed and Unlisted contacts. Listed Contacts tab shows Missed Calls from your known contacts (Saved Contact in your phone). Unlisted Contacts tab shows Missed Calls from unknown callers (Caller not in your Contact List).***Version 1.1 has few improved features.Names and numbers don't get cluttered when the call log list is long.Lookout for exciting advanced features in the next version.Version 1.2 is here.Now you can call and sms from the app itself.Tightly integrated with Android's native Dialer and Messaging apps.Spinner icon on each contact gives you a seamless option to call/sms from the app itself.Want more from the app? Wait for next version.",
+    "reviews": [
+      {
+        "timestampMsec": "1360792462982",
+        "starRating": "3",
+        "title": "Good app, but not for me",
+        "comment": "No option for \\\"standard\\\" time format., and a couple of other little things missing that I need. Other than that seems to be a pretty good app",
+        "commentId": "gp:AOqpTOGEIDmQlvYyifWj9xr9glUcmFRNAQB1P8K-dtbvg6gWwJiUjBQxtIKwX7y2IZffsYnSQoDe1RypT3V30YU",
+        "author": "Suki Niko",
+        "authorURL": "http://lh5.googleusercontent.com/-4MUEq6FybLg/AAAAAAAAAAI/AAAAAAAAAPk/F1bdnP7xHII/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-4MUEq6FybLg/AAAAAAAAAAI/AAAAAAAAAPk/F1bdnP7xHII/photo.jpg"
+      },
+      {
+        "timestampMsec": "1337169908357",
+        "starRating": "5",
+        "comment": "Excellent app",
+        "commentId": "lg:AOqpTOEo7eUlVlxxuWX_dpqpRCnLzmEmk6cmfjR6KAgtOLRbmukL09AE5Fkd03Fyx0A-FD0kNa9Zx3P0pjACDRQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

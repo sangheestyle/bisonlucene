@@ -1,0 +1,221 @@
+{
+  "title": "FuncGen Signal Generator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crescendosystems.afg",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 28, 2010",
+  "version": "1.0.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "167",
+  "rating": "4.233533",
+  "contentRating": "Everyone",
+  "creator": "Crescendo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crescendosystems.afg",
+  "extendedInfo": {
+    "installSize": "75k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "The Crescendo Systems function generator can be used to generate sine, triangle, square and non repeating noise signals. Additionally these carrier signals can be AM, FM or PM modulated or swept in frequency. The modulations can be enabled on their own or in any combination.The square and triangle signals have a duty-cycle that can be set from 1% to 99%. The ArbGen app adds frequency resolutions below 1Hz, automatic and customized saving of all parameters and the arbitrary function generator.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1316631379797",
+        "starRating": "5",
+        "title": "Best in Class",
+        "comment": "Beats competition with easy UI, no gimmicks. Great for \\\"dog whistle\\\" pranks. Works fine on my HTC EVO.",
+        "commentId": "lg:AOqpTOEuBHUt5aZP7_GivtZlNEOFsVjpDd1naDhdqXThtbnNbEefNK0XQHEkENjzHqXyfnOtXzS-BVc6rdpbHQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1372715497291",
+        "starRating": "5",
+        "title": "Excellent App",
+        "comment": "It would be very nice if the resulting waveform was displayed  Ola",
+        "commentId": "gp:AOqpTOG_K3BO7paMoEclPy_7TO4hKOW4lTXAzvWRIsxqmhpO8F_9r0cybOCjHHdq6bwhyBPibV-M5hd-Fmt8ig",
+        "author": "Ola Juvkam-Wold",
+        "authorURL": "http://lh5.googleusercontent.com/-_pJ98ZIURf4/AAAAAAAAAAI/AAAAAAAAABI/uL0xLbCIO_c/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-_pJ98ZIURf4/AAAAAAAAAAI/AAAAAAAAABI/uL0xLbCIO_c/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1367244097914",
+        "starRating": "4",
+        "title": "Almost there",
+        "comment": "HTC one. Sine wave does not work. Also needs proper popups for value entry instead of text box",
+        "commentId": "gp:AOqpTOHBwFJd1Y6BCB5kCynQjIgOWHA-psF4pYD03MTlsz1TwYBDf3t5vbioh4TKxEMBUc1X-l6Quejk3vsE0w",
+        "author": "Mathias Bur\\303\\251n",
+        "authorURL": "http://lh6.googleusercontent.com/-LNRXeVMaKlE/AAAAAAAAAAI/AAAAAAAABuU/UdJJbrg-YMA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-LNRXeVMaKlE/AAAAAAAAAAI/AAAAAAAABuU/UdJJbrg-YMA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1360270176439",
+        "starRating": "5",
+        "title": "TESTED IN MY LAB...",
+        "comment": "DONE WITH MY TEK 200MHz OSCILLOSCOPE, WITH A 100 OHM LOAD ON PHONE OUTS... I AM USING A NEXUS7 32G TABLET. 1. GREAT SIGNALS, SINE VERY CLEAN ALL THE WAY, TRANGLE AND SQUARE DEPEND ON SAMPLING RATE. FINE UP TO 6KHZ, THEN THEY ROUND OFF. LOGICAL. 2. LIKE THE LOG SWEEP OPTION AND OTHERS, LOVE TO DO LONG SWEEPS TO CHECK STANDING ROOM WAVES. 3. Wish the keyboard did not pop up all the time... 4. Wish it did not revert to 440 Hz every time BUT KEPT MY LAST SETTING. Otherwise, CLEAN, VERY LITTLE JITTER, GOOD DESIGN, THE BEST FREE OUT THERE ! KEEP IT UP GUYS, blessings from Caracas.",
+        "commentId": "gp:AOqpTOGkP2UHQbnacL51NAfx414nAU1TbSnj0cO0xC3P2Fo4Fh6CuiU7-CCupT3zUIRQTWHdEjNfBVFzQUSHDA",
+        "author": "Jim Kovacs",
+        "authorURL": "http://lh6.googleusercontent.com/-kE-2kmOMimA/AAAAAAAAAAI/AAAAAAAAASc/AIu2pPwvmXc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-kE-2kmOMimA/AAAAAAAAAAI/AAAAAAAAASc/AIu2pPwvmXc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1301143978978",
+        "starRating": "4",
+        "comment": "Good app, but with my phone it produced square waves on triangle mode, and triangle waves on square mode. I checked out with an osciloscope.",
+        "commentId": "lg:AOqpTOGVaT2DWuQzo4QaW3OZjfuibyhnQGBMDUN_wAlnr1T8wdYML2cAPzP-8yZlonz4S8ltuLM6fxVVyuIVdg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1346393579124",
+        "starRating": "2",
+        "title": "Lame",
+        "comment": "Very good functionality. Awesome icon. Totally lame interface. Useless.",
+        "commentId": "lg:AOqpTOGE2CwwefK8Xa4rLIyH1Ha0yrEAWOTkRxzw_dgDQaDkTd2JUBYi0zMrS8qTARfHyg6RzYelTvT1zkoP9w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1331591972847",
+        "starRating": "4",
+        "title": "Output OK on scope",
+        "comment": "I like being able to turn up the volume on my Samsung Galaxy II S and get nearly 2V P-P on my scope, closely resembling sine, triangle, and square waves. (I assume that their quality may vary greatly depending on your hardware.)  The user interface could be improved by turning with my phone (allowing the connector on top or left) and by leaving the output on as I change wave shapes. Numeric entry is clumsy.  Overall, it\\'s good. As a free app, the price is right. I recommend trying it.",
+        "commentId": "lg:AOqpTOFWoIdFiHeyYO6GqqWMoQp5SW744eiqlWSCCX6JZAO7mlZM5IPOPc0Mr0vEg4E8DboNxljFXz9du12H-Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1375988053233",
+        "starRating": "5",
+        "title": "Works like it should within limits",
+        "comment": "Checked it on the Rigol 1052e also with FFT.  The sine waves are  ~ flat ~ 20Hz-17kHz ; frequency is stable then drops quickly.  Some waveforms generate small spurs 3-4x the fundamental about - 30dB.  The triangle wave distorts above 1kHz and the square has a lot of ringing.  Other functions work as expected within the above limitations and the constraints of the menu items [ e.g. sweep rate or modulation %].  It can be recommended as a pocket signal generator for gross testing whenever you need an audio signal such as troubleshooting speakers, headphones or testing gross frequency response.  The menu system is workable but crude, no bugs immediately noticeable.  The triangle & square waveforms are of limited usefulness due to distortion.  Generated using a Droid 2 on a 100 ohm resistive load to emulate headphones.",
+        "commentId": "gp:AOqpTOEavpnKO1OWPxUbEit-os8kWWijsNFi7QGIPSKIlMliC15DSV_b5Yhn0QZwZTOLlIUS0ptfE9ftHQcUag",
+        "author": "Ig Saturation",
+        "authorURL": "http://lh4.googleusercontent.com/-QpLuGXboT8k/AAAAAAAAAAI/AAAAAAAABlo/PsAEX63u3Yo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-QpLuGXboT8k/AAAAAAAAAAI/AAAAAAAABlo/PsAEX63u3Yo/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1331094140138",
+        "starRating": "2",
+        "title": "Actual waveforms are poor",
+        "comment": "Observed on a scope - square wave definitely does not even resemble a square wave. Sinewave not evenly biased and negative peaks dampened on one channel.? But deserves an extra star cause its free.",
+        "commentId": "lg:AOqpTOE9sHnQxfR2B010hi8FEF6gkmV-MicmBnxwe8TPQe98YGE-1VePGEAkNopb5PrCIAutCq95uobRqe9VEQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1334337429621",
+        "starRating": "4",
+        "title": "Something wrong",
+        "comment": "I do not trust it for low frequencies. Why we hear f. Below 15Hz?",
+        "commentId": "lg:AOqpTOE_dDaYq8x0fI4GnK8u_ibe03RgrF4lEPEav9_11Yh2aX3LXKbgVOmfvH_SLu71T8K9j9BisvftoiT2ug",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1321494423107",
+        "starRating": "3",
+        "title": "Good functions, poor quality",
+        "comment": "This has good functionality, but is very unpolished. Poor interface for modulation. Should remember the settings from one run to the next.",
+        "commentId": "lg:AOqpTOHvq2_Z9gID9CYvBrIukmIchBx2F9pXT83qiMlsK-EARQPfG_RH1zB3wJ__x5FtLe7GpmN5Zy1jMOnbmA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1292013526148",
+        "starRating": "4",
+        "comment": "Nice sine tone. Need to be able to set frequency resolution to at least two decimal points. Nice if could create/save presets. 5 stars if you do that.",
+        "commentId": "lg:AOqpTOF_6p4EQ_2t_aOlD9qtIa3Ptka3nT-2x_brvJ9p_R32U8EF0apI2K7Gw8MHVUEIGlsdEwYNcGaKttL4tw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1290353252553",
+        "starRating": "1",
+        "comment": "Froze my HTC desire. Needs more work.",
+        "commentId": "lg:AOqpTOFTmtWIDGuZtauvhiDF_qCPquWVteh3VAzUKNVaZ_zNLLAqLA74yxh99YcLxHQHv1xYYOkw4RXD90IcKw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1343573889349",
+        "starRating": "5",
+        "title": "Does exactly what it says on the tin.",
+        "comment": "You might need a decent speaker setup to prove it though.",
+        "commentId": "lg:AOqpTOFlPjWcUtvgs_qMDJPwHB8kXW4EN7WgRuizSFRZ58uGjFagIas3HfYN737Eo3qJglGGooVS8ALew2cLVQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1309049395209",
+        "starRating": "5",
+        "comment": "Couldn\\'t get any sound via speaker HTC Wildfire 2.2, my problem now fixed",
+        "commentId": "lg:AOqpTOHXwsguu2wTSrPx7Zuuw8oBGDdy54f9E1w9-aDG4LgFTQJ4Ka_Hpx45Sbb2jpQKEjlk7Haxa0I6FFYYYg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1338209408120",
+        "starRating": "5",
+        "title": "Well",
+        "comment": "No special permissions required, that is a good sign :)",
+        "commentId": "lg:AOqpTOFGhLzVu3wl2hS32M6Do__iseejC_BninZms0beDnlXXcqUZoRafV7V361Gz8AUwSn_oBwaKWfTVEKeDg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1297141246298",
+        "starRating": "3",
+        "comment": "Can anyone tell me what this app is for other then making horribly shrill noises?",
+        "commentId": "lg:AOqpTOEe126-Dep_qqzZJ9Ev4UJCobhkraAi1M7J1HHBF22OhLDgA9hMUHM0sQPK4A63K2O8Flo-3IRG1rEFlw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1352560495182",
+        "starRating": "4",
+        "comment": "Does what it\\'s supposed to. Works on Archos 101it. Having coarse and fine adjustment with known steps would be welcome.",
+        "commentId": "lg:AOqpTOHrHissyTvvA6WKTVpLJ0RCUIQeV8m3o7hEPXDlQ4l9PY9Ap-LnaiaUUlc-IGofrfZvJPKuDl2Fo_Yxtw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1292163851076",
+        "starRating": "3",
+        "comment": "The best of the bunch, but irritating keyboard covers interface..the only one I tried which produces a 1V output @ 1kHz but couldn\\'t, get it to 0dB",
+        "commentId": "lg:AOqpTOG2bvOZf4PyuACCMVuoApNcOd5jU2LTGJ_hT9MRULBglXOs7guoXsq8fAUMGzm5hzBWvztGKXX3yeY7JQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1289461056106",
+        "starRating": "5",
+        "comment": "Very useful. Just used it to fine tune a coil while wrapping. Its handy to enter a frequency directly. the slider bar for adjustment is great.",
+        "commentId": "lg:AOqpTOHn11nTLnRInoLHApg0csjy9Qp-MvXZ7WClWSZ9FlrVSMgFO74Ejwpfv9P2sFtCxezSrE7t45ensqHD-Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

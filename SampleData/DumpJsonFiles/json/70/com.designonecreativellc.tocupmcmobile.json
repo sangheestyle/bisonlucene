@@ -1,0 +1,40 @@
+{
+  "title": "Team One CU PMC Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.designonecreativellc.tocupmcmobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "February 28, 2013",
+  "version": "1.2.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Design One Creative, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.designonecreativellc.tocupmcmobile",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Personalize your VisaÂ® Debit or Platinum card from your Android device using Picture My Cardâ¢ Mobile from Team One Credit Union. Choose or take your favorite photo, crop it, and view a preview of your card. Submit your request when you are finished!",
+    "reviews": [
+      {
+        "timestampMsec": "1330564276613",
+        "starRating": "4",
+        "title": "Not bad!",
+        "comment": "I like the fact that you can see what your going to get. I don\\'t like that you have to put your whole card number in. Is it safe? Since you have to put your account number in I wish you only had to put in the last 4 numbers of your card. Very easy to use!",
+        "commentId": "lg:AOqpTOGAJ7lxopH9_81NCkq2wjGT0_mp3UX1gIAThKJZo4fT05W-BXe3z0_RgU38FgGEO5EPRSgIuwYeo9SbAw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS"
+    ]
+  }
+}

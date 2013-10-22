@@ -1,0 +1,45 @@
+{
+  "title": "Stock Option Professional",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.stockoptionprofessional",
+  "category": "Finance",
+  "price": "$3.99",
+  "datePublished": "October 8, 2012",
+  "version": "6.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Business Compass LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.stockoptionprofessional",
+  "extendedInfo": {
+    "installSize": "237k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "1. Computes American and European Option prices using Barone-Adesi Whaley and Black-Schole models respectively2. Computes Option Greeks - Delta, Gamma, Theta, Vega and Rho3. Computes implied volatility for American and European options4. Accommodates dividend yield5. Save and e-mail 6.Profit graphs of option strategies",
+    "reviews": [
+      {
+        "timestampMsec": "1349030773710",
+        "starRating": "1",
+        "title": "Does not work on ICs",
+        "comment": "Sadley it keeps crashing to desktop when its opened on ICS ver 4.04.  Using a windows N101 tablet.",
+        "commentId": "lg:AOqpTOF6DDT50V6QQcKKVDTzxt5rFFqVNyeSEJhaQgUZ_LPLor-htjaey9zIjwoK-SBbwy20Qo75tybLgV-fPPE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1297138956436",
+        "starRating": "5",
+        "comment": "Useful for any options trader.",
+        "commentId": "lg:AOqpTOFu5ybAq3Lr3uGca1NRWj9pUxrAddx6I98aisgSLKM9EK1E5yuoTB9hqZwtNFORKxVq3vRwHk-x5lkkkWk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

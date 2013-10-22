@@ -1,0 +1,54 @@
+{
+  "title": "Get Ready Portland",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_7e981ad946644c2e9279343192f8cf2d.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "March 17, 2013",
+  "version": "1.1.2.176",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Conscious Computers",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_7e981ad946644c2e9279343192f8cf2d.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Get Ready Portland with the new app from the Portland Preparedness Center, our app helps you stay current with news and events at the center. It also allows you to listen to The Wise Prepper show, our preparedness show that broadcasts live Saturday nights on 101.1FM KXL here in Portland Oregon. You can also get preparedness tips and visit our store right from your phone.",
+    "reviews": [
+      {
+        "timestampMsec": "1363580076047",
+        "starRating": "4",
+        "title": "Keep it local",
+        "comment": "It is great to see an app that is focused on the local area, but still has information anyone can use. It looks to be a good platform in order to stay in contact with their customers and those interested in preparedness. I look to many other great ideas coming from Portland Preparedness Center.    J.Bradbury",
+        "commentId": "gp:AOqpTOFF4amn4xPFoNhnz0dhl6fLnWOp3R68fo4PU0b1w7hp7MNGVUNVzqOUOYhotEK27Cjr0BANxOckuUVXbZ0",
+        "author": "J Bradbury",
+        "authorURL": "http://lh5.googleusercontent.com/-mp_ikOgzZ4I/AAAAAAAAAAI/AAAAAAAAANY/fu36t29fg5Q/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-mp_ikOgzZ4I/AAAAAAAAAAI/AAAAAAAAANY/fu36t29fg5Q/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_7e981ad946644c2e9279343192f8cf2d.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

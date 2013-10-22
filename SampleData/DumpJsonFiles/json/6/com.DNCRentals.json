@@ -1,0 +1,35 @@
+{
+  "title": "DNC Rentals",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.DNCRentals",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "April 10, 2012",
+  "version": "2.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "BizApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.DNCRentals",
+  "extendedInfo": {
+    "installSize": "73k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Find housing rentals for the Democratic National Convention in Charlotte through BDF Realty Inc.  BDF Realty is \"Charlotte's Most Innovative Property Management & Investment Company.\" Find Democratic National Convention (DNC) Home Rentals in Charlotte, NC!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_PHONE_STATE",
+      "com.DNCRentals.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Virtual Film Maker 3.0 (Pro)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fastclipper.vfs.vfm",
+  "category": "Media & Video",
+  "price": "$2.00",
+  "datePublished": "April 29, 2012",
+  "version": "1.1.22",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "VFS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fastclipper.vfs.vfm",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Virtual Film Maker provides the unique set of features:ï§ Allows easy mixing video, photo and HTML files in a continuous presentation called 'Virtual Film'ï§ Playback of the selected fragment of the video fileï§ Individual duration for each slideï§ Preview of a folder with videos, photos and sound files in some seconds ('Pro' version only)ï§ Automatic slideshow creation out of any folder in some secondsï§ Background play list â varios background soundtracks for your film ('Pro' version only)ï§ Unlimited Undo ('Pro' version only)ï§ And more!Virtual Film Maker is not a video editor. It doesn't deal with media file internals.Virtual Film doesn't exist as a physical media file. That's why it's called \"virtual\". It weights little and loads fast.It is just a script in the simple XML file format that controls the customized Android media player. It just tells the media player, in what sequence to playback fragments of videos and photos and adds background music. And, yes... you cannot upload the finished product to YouTube.Please, find more details, screenshots, videos, feature comparison and positive customer raves on the developer's web site. More demo videos are available on \"VirtualFilmsSoftware\" YouTube channel http://www.youtube.com/user/VirtualFilmsSoftware#p/uVirtual Film Maker 3.0 is intended for Android 3.0 tablets and is available in both free and paid ('Pro') versions on Android Market.Virtual film Maker supports English, Spanish, Russian and French. The application is simple enough for a child to use and features a stylish interface that will encourage you to use it over and over.Try free version, Enjoy and then Buy 'Pro'!PS. For 'Browse' button to work, the external file manager should be installed. Both 'OI File Manager' and 'ES File Explorer' are supported.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.launcher.action.INSTALL_SHORTCUT",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

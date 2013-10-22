@@ -1,0 +1,37 @@
+{
+  "title": "Get Them Tested",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codigo.dsc",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "May 12, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "High Maturity",
+  "creator": "Codigo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codigo.dsc",
+  "extendedInfo": {
+    "installSize": "4.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Get Them Tested app is an application that allows registered users to contact their partners for a sexual health screening at DSC Clinic, located in Singapore. The partner notification module is password protected and only registered users can access its services. Non-registered users will also find this app useful by accessing its other modules including the Risk Calculator & Know the Infections. The Risk Calculator performs a quick calculation of your sexual health risk anonymously. At the end of the quiz, you will be offered the option to make an appointment at DSC clinic for a health checkup, if necessary. The Know the Infections module is a section where all users can find useful facts about sexually transmitted infections and HIV. Understand more about these infections and learn how you can prevent an infection. About DSC Clinic (Singapore) DSC (Department of STI Control) clinic is a specialist outpatient clinic under the National Skin Centre in Singapore. We set high standards for your care and we want to make your visit as fruitful, convenient and comfortable as possible. We share the National Healthcare Group vision of âadding years of healthy lifeâ. Our mission is to be the national and regional referral centre of excellence for the diagnosis and treatment of sexually transmitted infections/ diseases (STI/ STDs). We are committed to provide confidential, cost-effective and expert management of STI/STDs in a setting of intensive medical research, quality education and patient safety.",
+    "reviews": [
+      {
+        "timestampMsec": "1369229880817",
+        "starRating": "5",
+        "comment": "First ever contact tracing mobile apps to allow pt to have ease of mind for anonymity\\tI m glad the apps came in on time in line with current trend and technology. Thanks dsc clinic",
+        "commentId": "gp:AOqpTOH17WsaiBZD0QAH-fmq3VP1rxIb7Y9dIX09qSLOzoeNQvDR3cLijFpZRON44Z_Jrs3ot7M3-5TQ3dHC5A",
+        "author": "james foong",
+        "authorURL": "http://lh6.googleusercontent.com/-iUrNy6Wdsrs/AAAAAAAAAAI/AAAAAAAAAAA/LMxQXsAxBnk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-iUrNy6Wdsrs/AAAAAAAAAAI/AAAAAAAAAAA/LMxQXsAxBnk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SEND_SMS"
+    ]
+  }
+}

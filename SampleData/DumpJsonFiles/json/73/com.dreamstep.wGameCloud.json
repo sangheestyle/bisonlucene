@@ -1,0 +1,38 @@
+{
+  "title": "GameCloud - Company Info",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wGameCloud",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 1, 2011",
+  "version": "0.13.13095.41303",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "GameCloud Technologies Private Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wGameCloud",
+  "extendedInfo": {
+    "installSize": "104k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Thanks for downloading this app. Basically, this app shows the services offered by GameCloud Technologies Private Limited through the website. GameCloud is ISO 9001:2008 Game QA Organization. This app will keep all the android users updated with our web content and new releases. We are aiming for people in game industry through this app. This app will become more useful as we go on launching our mobile apps/games, create new job opportunities in gaming and animation industry and update our website content.",
+    "reviews": [
+      {
+        "documentVersion": "3.13095.41303",
+        "timestampMsec": "1309816430802",
+        "starRating": "4",
+        "comment": "This app is useful to people who are looking for jobs in game industry. Also suitable to game developers who wanna outsource stuff like Game Testing.",
+        "commentId": "lg:AOqpTOG3T0fTQ4d22ddTrMvtNyrt_QthSQ04LcAjCLjF5PAxxEv-oItbANTIds138JfHNSHIOcCCAmnRb338HKk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wGameCloud.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "CCNP ROUTE Introduction",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clerverlearn.quiz.ccnp.route",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "3.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "3.2857144",
+  "contentRating": "Everyone",
+  "creator": "CLEVERLEARN",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clerverlearn.quiz.ccnp.route",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Cisco Certified Network Professional (CCNP) validates the ability to plan,implement, verify and troubleshoot local and wide-area enterprise networks andwork collaboratively with specialists on advanced security, voice, wireless andvideo solutionsThe ROUTE course is designed for network engineers with at least one yearof professional work experience, who are ready to advance their skills andwork independently on complex network solutions. Students will learn to plan,configure and verify the implementation of secure enterprise LAN and WANrouting solutions using a range of routing protocolsThe Implementing Cisco IP Routing (ROUTE 642-902) is a qualifying exam forthe Cisco Certified Network Professional CCNP, Cisco Certified InternetworkProfessional CCIP, and Cisco Certified Design Professional CCDP certifications.The ROUTE 642-902 exam will certify that the successful candidate has theknowledge and skills necessary to use advanced IP addressing and routing inimplementing scalable and secure Cisco ISR routers connected to LANs andWANs. The exam also covers configuration of secure routing solutions to supportbranch offices and mobile workers.The following information provides general guidelines for the content likely tobe included on the examImplement an EIGRP based solutionImplement a multi-area OSPF NetworkImplement an eBGP based solutionImplement an IPv6 based solutionImplement an IPv4 or IPv6 based redistribution solutionImplement Layer 3 Path Control SolutionAre You Ready to Certify ?Use the self assessment application for Android OS to determine whether you areready.",
+    "reviews": [
+      {
+        "timestampMsec": "1376150413149",
+        "starRating": "1",
+        "title": "Way too many permissions.",
+        "comment": "There can\\'t be any need for all those permissions, surely? Why?",
+        "commentId": "gp:AOqpTOGoE6j4cIufvepPTjSra0DFEjRNl66Way4LHJLWTjuiaTra-EnTilTwWDL23LdFYlcEsI9b79y_xPio9fE",
+        "author": "Richard Pawley",
+        "authorURL": "http://lh3.googleusercontent.com/-uBuoZZ7gt30/AAAAAAAAAAI/AAAAAAAAFf8/DfsHv3mrmeo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-uBuoZZ7gt30/AAAAAAAAAAI/AAAAAAAAFf8/DfsHv3mrmeo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375997142778",
+        "starRating": "5",
+        "title": "Works great now!",
+        "comment": "I just updated and both the exam and training options are working great. I haven\\'t been through all of the material, but I am ready to learn more!",
+        "commentId": "gp:AOqpTOHVbSiYAf-rQajZDiIYzohi3mM7Hk_mCieCUM7Gkiixk3J8l-efnWAzz7eGo_jlVaXxKHwl7HydXDiFNNw",
+        "author": "Adam Sol\\303\\255s",
+        "authorURL": "http://lh5.googleusercontent.com/-B01z06SESD4/AAAAAAAAAAI/AAAAAAAAHZk/tJrxT9rht-U/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-B01z06SESD4/AAAAAAAAAAI/AAAAAAAAHZk/tJrxT9rht-U/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372997348861",
+        "starRating": "1",
+        "title": "Too buggy",
+        "comment": "Tried clicking in next and it would sit there. Doesn\\'t seem to work properly and i cannot see the pics of it ends up working",
+        "commentId": "gp:AOqpTOFmph06URBIpQEsvbGVyi0oLJFPdYJcCk-WhRnszKmiT3n4RV6F6obs_-eCf8xFeTToi0mdlAgP9TzUX4U",
+        "author": "Chris Shanks",
+        "authorURL": "http://lh6.googleusercontent.com/-60ubSq3XqWk/AAAAAAAAAAI/AAAAAAAAAIo/BHogjHOUbac/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-60ubSq3XqWk/AAAAAAAAAAI/AAAAAAAAAIo/BHogjHOUbac/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.READ_SETTINGS",
+      "com.motorola.dlauncher.permission.READ_SETTINGS",
+      "com.fede.launcher.permission.READ_SETTINGS",
+      "com.lge.launcher.permission.READ_SETTINGS",
+      "org.adw.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.INSTALL_SHORTCUT",
+      "com.motorola.dlauncher.permission.INSTALL_SHORTCUT",
+      "com.lge.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_TASKS",
+      "com.clerverlearn.quiz.ccnp.route.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

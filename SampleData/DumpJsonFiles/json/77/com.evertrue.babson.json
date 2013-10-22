@@ -1,0 +1,42 @@
+{
+  "title": "Babson College Alumni Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evertrue.babson",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 23, 2013",
+  "version": "2.3.0.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Medium Maturity",
+  "creator": "EverTrue",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evertrue.babson",
+  "extendedInfo": {
+    "installSize": "6.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official Babson College Alumni app.  Securely network and connect with the Babson community around the world.  Includes a directory integrated with LinkedIn, maps, photos and more! Powered by EverTrue.Babson College, Babson, evertrue, alumni, community, alum, alumnae",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.evertrue.evertrue.permission.C2D_MESSAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Engineer Toolkit",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.caffeine.hydraulics",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "June 3, 2011",
+  "version": "1.02",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Caffeine Industries - Michael Martinez",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.caffeine.hydraulics",
+  "extendedInfo": {
+    "installSize": "560k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Engineer Toolkit is a comprehensive Android tool for Engineers / Drivers / Pump operators / Firefighters. Complex hose lays, Ladder Operations, Friction Loss, Pump Discharge Pressure and other information are easily calculated with this app. Engineer tool kit requires ZERO manual input of values to get pump discharge pressure (PDP) and friction loss (FL) of complex hose lays and scenarios. It was designed and developed by an Engineer who works for a metropolitan fire department. Quick data entry is paramount when determining what to pump on scene. Input on mobile devices can be tedious and sometimes difficult when forwarding the latest joke to your crew. Now imagine typing all the hose lengths, various flows and nozzle pressures when your at the âbig oneâ! You canât delay and recalling rote memorized hydraulic formulas can be difficult at 3am. Most of the app is structured in a step-by-step fashion leading to the eventual calculated data, I.e. PDP, FL, etc.  It was designed to be intuitive and easy to use. Please let me know what you would like to add, change or otherwise improve as this app is for you.I'm rapidly developing and hope to add some seriously cool features for my brothers and sisters in the fire service across the globe. Stay connected!",
+    "reviews": [
+      {
+        "timestampMsec": "1306984056565",
+        "starRating": "1",
+        "comment": "Ran one calculation through it and the program was off by 50 psi on a wye evolution fail",
+        "commentId": "lg:AOqpTOEAx4DkNhXSSxKr3ph8MR-NcEmtt1R7-0ol9tl6ySS0FTIbyuvniT7el7ZAy6aten3zvDq2-SLB8IXB-zM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340131120905",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "Love it",
+        "commentId": "lg:AOqpTOHps3tXkSBNer9GxdBMtXHUP08U68xGw3zI_Z9f237MDe_iIz-tbKER0XZgFDwkWP3G9XIWVOT7oXrWlBk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

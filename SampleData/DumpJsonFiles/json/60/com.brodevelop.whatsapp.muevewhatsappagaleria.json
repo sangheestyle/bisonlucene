@@ -1,0 +1,39 @@
+{
+  "title": "Move WhatsApp to Galery",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brodevelop.whatsapp.muevewhatsappagaleria",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "August 8, 2013",
+  "version": "1.13",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "33",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "BroDevelop",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brodevelop.whatsapp.muevewhatsappagaleria",
+  "extendedInfo": {
+    "installSize": "702k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Esta aplicaciÃ³n sirve para mover las fotos y los vÃ­deos que recibes desde WhatsApp a la carpeta de la galerÃ­a. Con esto conseguirÃ¡s tener todas las fotos y vÃ­deos en una misma carpeta, te serÃ¡ mÃ¡s fÃ¡cil tener todo ordenado y ademÃ¡s si tienes activada la subida instantÃ¡nea del google plus tendrÃ¡s una copia de seguridad de todo el contenido multimedia que recibas por WhatsApp y muevas a la galerÃ­a ya que google plus hace una copia de seguridad sÃ³lo de lo que tengas en la carpeta de la galerÃ­a.La versiÃ³n PRO puede mover las fotos automÃ¡ticamente.",
+    "reviews": [
+      {
+        "timestampMsec": "1376830568260",
+        "starRating": "1",
+        "comment": "Not any special stuff",
+        "commentId": "gp:AOqpTOGwaDBHsChWaPjmwEMpCe4VgYqw0gs6Jeo__Y4suofVTmreGxYmNc_4ZGNAszEsnh9ekAmr2GQZ-vGhCMY",
+        "author": "Ghanshyam Gadhiya",
+        "authorURL": "http://lh5.googleusercontent.com/-eruCwMPvYH0/AAAAAAAAAAI/AAAAAAAAEFE/IaA4gXEUJ2Q/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-eruCwMPvYH0/AAAAAAAAAAI/AAAAAAAAEFE/IaA4gXEUJ2Q/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

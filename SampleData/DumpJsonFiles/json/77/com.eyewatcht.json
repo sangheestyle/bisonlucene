@@ -1,0 +1,50 @@
+{
+  "title": "Travel Safe with Eyewatch",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eyewatcht",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 16, 2013",
+  "version": "1.9.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Eye watch",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eyewatcht",
+  "extendedInfo": {
+    "installSize": "3.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Traveling to new destination is always fun, however it covers at the cost of uncertainty.  In such situation, Eyewatch comes handy for you to stay connected to your loved ones and travel without tension. Get Eyewatch and enjoy hassle free travelling.In the changing world of Mobile Phone Applications, Do we have a possibility to have a system based on mobile phones that can help in emergency situations and thus reducing the response time ?? YES we do !!!Eyewatch is an easy-to-use application for your personal safety, which gets installed on your mobile and allows you to trigger instant emergency alerts to your trusted contacts, alerting them of your emergency along with your location, audio visuals of the situation and other critical details.-Immediately captures audio-visual information of situation to share with your emergency contacts.-Tracks location using GPS & Network Triangulation.-Alert your loved ones without drawing anyone's attention.-Alert data stored on a secure cloud server.-Sends sos alert even if not connected to GPRS.-Safety confirm - upon click guardians get a message with location.Eyewatch can help in situations like:â¢\tInsecurity in lonely placesâ¢\tMedical emergenciesâ¢\tTravel emergenciesâ¢\tRaggingâ¢\tWomen Safetyâ¢\tRoad Rageâ¢\tStuck in a liftâ¢\tLost in a new cityâ¢\tConcern about loved ones when they travelâ¢\tPersonal security threatWho is Eyewatch for?â¢\tWorking Professionalsâ¢\tSingle Womenâ¢\tWorried Parentsâ¢\tKidsâ¢\tCollege Studentsâ¢\tSenior CitizensFor more information on Eyewatch, visit www.eye-watch.in",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_CONTACTS",
+      "android.permission.BATTERY_STATS",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET",
+      "android.permission.STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.hardware.camera",
+      "android.hardware.camera.autofocus",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "FieldAware Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fieldaware.app",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "1.9.2",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "9",
+  "rating": "4.4444447",
+  "contentRating": "Low Maturity",
+  "creator": "FieldAware",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fieldaware.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "FieldAware Mobile gives you industry-leading field service management capabilities in the palm of your hand. Manage work orders, customers, contacts, locations, tasks and products directly from your Android phone.FieldAware is the field service management solution for small and medium businesses. We help field service companies make more money by streamlining the service scheduling process, increasing field worker productivity, accelerating invoicing, improving customer satisfaction, and generating lead opportunities in the field. Our SaaS solution is available on demand over the internet for a small monthly fee, so there's no hardware to buy or software to install for your office. No matter what service you provide â HVAC, Electrical, Plumbing, Pest Control, IT Services, Security, etc. â our powerful yet flexible system can digitize the entire work flow to increase profitability. Don't wait to start making more money! Start using FieldAware today to take your business to the next level.Benefits:* Native Android app gives you full functionality in the intuitive Android form â not a clunky browser* Receive and create jobs with full access to customer, contact, location, task and product data* Start, pause, or complete jobs on the fly, with automatic time tracking* GPS features to get you to your jobs* True mobility allows you to continue working â even if you donât have a connectionFieldAware Mobile is a fully functioning application for managing your field service workflow. You can download it and use it without any commitment. However, there is no invoicing or reporting capability in the mobile app. To convert to a complete end-to-end solution and take advantage of FieldAware's browser-based solution for your office, visit us at www.fieldaware.com, or call us at +1.855.840.9228.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.0",
+        "timestampMsec": "1351775833023",
+        "starRating": "5",
+        "title": "Greatness",
+        "comment": "I no longer have to call dispatch to find the history of a customer\\'s service history.  It\\'s all in my hand now.",
+        "commentId": "lg:AOqpTOFbGfj6ZX-vpkuIsm4iW3-L6OJ_X9np0hZsd2RqqUyY_EvuyMlhUozpBnN3TtwceqPTg3M24vFmiNadMQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.0",
+        "timestampMsec": "1350660882810",
+        "starRating": "5",
+        "title": "Love it!!!",
+        "comment": "My life is soooo much easier _",
+        "commentId": "lg:AOqpTOGBqz5k4cwGMit169EGoLCOGnWevfUFYkBN3TZDrwJmu58BvgU0mOHfqBFXCPX6Q_c37DCcZlBmZA-8OA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348264497185",
+        "starRating": "5",
+        "comment": "Great app!",
+        "commentId": "lg:AOqpTOFtWuEb5Mvr8SXKWvkvVHsrh_C7aGffnf9XgDW-K6hDRHxe--ZCXV7R-G3A6iA-9PV2c8WpvhgcXl8pVg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364164509265",
+        "starRating": "5",
+        "title": "SJV Tech",
+        "comment": "This app gets the job done much easier, simplifies everything!!!",
+        "commentId": "gp:AOqpTOHjQVCfvDaZXN-YeeM_a-TlRiYd9wdxHHfmvJi80gzSMUIT5wOAniHniNt9r2inup3lA4qnWW0zHIctzg",
+        "author": "Brandon Baxter",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "com.fieldaware.app.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.fieldaware.app.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

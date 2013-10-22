@@ -1,0 +1,33 @@
+{
+  "title": "BroselowQR",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ebroselow.safedoseandroidqr",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "March 17, 2013",
+  "version": "3.00",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "eBroselow",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ebroselow.safedoseandroidqr",
+  "extendedInfo": {
+    "installSize": "8.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "BroselowQRÂ® is your \"second check\" â like having a trusted pharmacist (or Doctor Broselow) looking over your shoulder to make sure any dose you give to a child or adult is accurate. Avoid the dreaded ten-fold dosing errors that can lead to \"death by decimal point.\" BroselowQRÂ® is: Easy to Use Simply click on the big button and then point the camera viewfinder at a Broselow QR Code. The code can be captured from a printed label or can even be captured directly from Artemis shown on your computer's screen. BroselowQRÂ® displays the standard dose in mg and presents the mLs to administer for the selected concentration. Comprehensive Unlike other medical dose calculators, BroselowQRÂ® also provides mixing, preparation and administration instructions. It also shows adverse affects and other information. It includes pediatric as well as adult doses. Accurate Doses are chosen by drug and indication. Visual cues and tabbed selection rather than typing help ensure correct selection of weight or length. These and other built-in features prevent error. Accountable BroselowQRÂ® can log the time and dose for each medication you administer. It also allows you to timestamp information not related to medication administration. This includes taking pictures and adding notes. You can thereby produce a PDF report in realtime with no typing required that can be emailed, printed or attached as a document into your external EMR. This report can serve as a log or even as a medication order. Peer-Reviewed All BroselowQRÂ® medical content is peer-reviewed by doctors and pharmacists for accuracy. The Artemis Initiative is a joint effort of eBroselow and the Pediatric Pharmacy Advocacy Group to develop an international standard for pediatric dosage. The Artemis emergency pediatric care software provides healthcare practitioners with critical, size-specific therapeutic information in seconds so that they can deliver prompt, competent and confident emergency care. Artemis is a web-based enterprise-level application suitable for hospitals, urgent care and EMS. For further information, visit eBroselow.com. Dr. James Broselow and Dr. Robert Luten deliver their heralded color-coded acute pediatric care system via web-based and mobile applications. Products include Artemis, SafeDose and BroselowQRÂ®. For more information, visit eBroselow.com. The word âQR Codeâ is a registered trademark of DENSO WAVE INCORPORATED.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

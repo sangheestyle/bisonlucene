@@ -1,0 +1,41 @@
+{
+  "title": "97.3 Yes! FM",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.commotion.KLZK",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "May 16, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Commotion",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.commotion.KLZK",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "80s 90s Now, 97.3 \"YES FM\" Android application. Pop hits from the 80s, 90s and Now.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.commotion.KLZK.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

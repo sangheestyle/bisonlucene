@@ -1,0 +1,30 @@
+{
+  "title": "Valuation - APV",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.apv",
+  "category": "Finance",
+  "price": "$2.99",
+  "datePublished": "September 25, 2009",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Not rated",
+  "creator": "Business Compass LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.apv",
+  "extendedInfo": {
+    "installSize": "30k",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "âBase caseâ valuation of firm (or project) assuming all-equity financing. Discount rate is Ra. Then, add financing side effects to the \"base case\" valuation:1. Interest tax shields (PVTS)2. Costs of financial distress (PVFD)This app allows flexible FCF timing, cost of asset (Ra) as in all equity case and FCF repetition.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

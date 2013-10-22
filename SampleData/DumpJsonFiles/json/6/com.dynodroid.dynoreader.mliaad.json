@@ -1,0 +1,53 @@
+{
+  "title": "Dyno Reader for MLIA",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dynodroid.dynoreader.mliaad",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "December 7, 2012",
+  "version": "3.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "23",
+  "rating": "4.3913045",
+  "contentRating": "Low Maturity",
+  "creator": "DynoDroid",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dynodroid.dynoreader.mliaad",
+  "extendedInfo": {
+    "installSize": "143k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Dyno Reader now has new and improved screens for easier use.The Dyno Reader for MLIA is the same as the generic Dyno Reader except that the MyLifeIsAverage RSS feed comes pre-selected.  When first installed, the application will load the 10 most recent posts and add more as the app runs. By default it will keep looking for additional posts every 15 minutes until the default max of 50 posts.  The interval to check for additional posts and the number of posts to keep can be modified within the app by pressing menu and selecting Settings.Dyno Reader is a RSS feed reader designed for small text content. You can import any RSS feed URL to stay up to date with your favorite sites. You could also choose one of the preloaded feeds as well. If your feed includes images you can choose to display or hide them. A long click on the items will give you several options, such as sharing, copying, or going directly to the article itself.  You can also filter your feeds to view one specific feed at a time.If you are having problems with the application slowing down or pausing, try turning off Download Images in the Settings by pressing Menu then Settings.Some of the suggested RSS feeds this application is designed for are: My Life Is Average, Dear Girls Above Me, The Today Show Tweets, The Office Tweets.",
+    "reviews": [
+      {
+        "timestampMsec": "1330443173515",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "Offers you more than just the Miss feed which is certainly nice.",
+        "commentId": "lg:AOqpTOEew7y4107xBJCc5PxwD8xuI-zrxCehn7PTwDmmcbAQY_AJOV3skZTwThHSM85D70s-74TfUHyQr2K-8Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316602895694",
+        "starRating": "5",
+        "title": "Mlia",
+        "comment": "Works like a charm! MLIA",
+        "commentId": "lg:AOqpTOHbDvgOHQLInz9dhMw9raE0zCY6VLwZvEO45laABgWHthK80WmZ4A0bbgDG8r7UVNQCmK2gQNZbB-RiYw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1307075763299",
+        "starRating": "3",
+        "comment": "I can not figure out how to read older mlias...i can read about 5 and then thats it :( fix it please or tell me what I can\\'t figure out",
+        "commentId": "lg:AOqpTOHX2Y7XOKx_kKjBVCAdT--sKIpqMnnBrfrFf9IH0wGvVKftxtlmqI6u_7PsjpLNF7PO7V49GZzq1i4btQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

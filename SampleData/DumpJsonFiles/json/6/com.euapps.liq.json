@@ -1,0 +1,131 @@
+{
+  "title": "Pressure Drop Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.euapps.liq",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 17, 2011",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "62",
+  "rating": "4.596774",
+  "contentRating": "Everyone",
+  "creator": "Antonis Lilis",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.euapps.liq",
+  "extendedInfo": {
+    "installSize": "41k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Calculates pressure drop (head loss) of a fluid, in straight circular pipes due to friction. Input parameters for this app is pipe diameter, lenght of pipe, pipe roughness (app includes default values for widely used pipes), flow rate in several expressions, and physical properties of the flow medium). At first the Darcy friction factor f,is calculated depending upon the type of flow that exist in the pipe. So, if Reynolds number is less than 2000 (laminar flow), the f=64/Re formula is used to calculate the friction factor f. If Reynolds number is more than 2000 (transition or turbulent flow), an approximation of the Colebrook equation (Swamee-Jain equation) is used in order to calculate friction factor f. Then Darcy-Weisbach equation is used finally to calculate the pressure loss.",
+    "reviews": [
+      {
+        "timestampMsec": "1320295894389",
+        "starRating": "5",
+        "title": "Good software",
+        "comment": "I like this software, make us easier do the program has 2 difderent type of conversion, metrik and us standard",
+        "commentId": "lg:AOqpTOEYhtJ-df4BbGUcRl8kOTqa2V04ijCxYDdXxXCR0BI3GWdwR1tdKh1YyZBg5GN6GaGPdKQhZOrakJH9tg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356848718806",
+        "starRating": "4",
+        "title": "Micromax a52 gopi",
+        "comment": "Its great application ....every technical person this who is doing in core side jods...",
+        "commentId": "gp:AOqpTOHN6X3kEKcuLw-LbLyNtwuaX1aaaplh_9TiXbcRStw6oJfmikq4okd7vI1GvUoF5HMloxyHI3pauXD68w",
+        "author": "Gopinath Gantyala",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316449138849",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Mpravo Antonaki! Nice app",
+        "commentId": "lg:AOqpTOEJpmPZ7Ox_HVS3S7q3cZEISQr9LoPVTz8vxykMQ6xDmGQnu1eKL5c245fmN9zzMS9Z26u1bMvAz3B5Sg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350333126591",
+        "starRating": "4",
+        "title": "Just one thing",
+        "comment": "You should get option to set pipe under angle. That\\'s why 4*. . But it\\'s still great app. Recomemended for download",
+        "commentId": "lg:AOqpTOESxO8uWM9fBrUy-0DlO-FMqDGF4XiGA4TTHTr_iF16vUmBxvKPKB-oJUskonLw54ruHaK_xhjv7OGhRg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316301695410",
+        "starRating": "5",
+        "title": "Great app.",
+        "comment": "A must for any engineer.",
+        "commentId": "lg:AOqpTOGcn83cTVm-GAl6r6HWninoNnQ1vSPexu8WYQxtT8hF1UrWVXXMmCNIweKRAehbGfhHqyeNUUNBIE4eNg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316349757925",
+        "starRating": "5",
+        "title": "Great application!",
+        "comment": "Excellent on the go tool for those times I need quick delta Ps.",
+        "commentId": "lg:AOqpTOEEPvr_Jkd4YGLHvSZ7YEr1BFWRNJsmzyj1nJ44XaIifqJpgSw2qYWF2aiivVEd4ZuMwmKHA1qum596Pg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316240004612",
+        "starRating": "5",
+        "comment": "Well done! Please include other mediums like glycol/water mixture",
+        "commentId": "lg:AOqpTOENDyMNfFhPJdZ4_rXrjK9ty07FFcIjK8S_u_14MWQpwrxQKJ813zT8-bUlgmgAJJ5bCa3NtY4vSb3ttw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302380458521",
+        "starRating": "5",
+        "comment": "Great work. Well done. Please continue such nice job. Maybe you can make one for valves leak valume calculation by dp.",
+        "commentId": "lg:AOqpTOE4HtJ5UGCPYgH80VfXx-tlR3n8CA54J3xdIwK9R0-yKEhyCt8zpmKSBNVgS8X_eIYAFERQ01TWFlYb0w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310588130647",
+        "starRating": "4",
+        "comment": "Only suggestion: include MGD as a unit option.",
+        "commentId": "lg:AOqpTOEcnLsIv3C3hbk6GUNKp1HAiAWsHUpAcbBcbtyTs6LXqDu9k-HfaPiT9cPFAj7ckVebBsZ5ccBBt5DOUg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349192811400",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "nicely calc",
+        "commentId": "lg:AOqpTOECjVbPvzhlEyLjliTZ4W2l_zdM7v3g29vKzLznVuAN_GQ_7CkXweJJE2pvWZnNaBsAMtwATjXoNVsz1A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341388189324",
+        "starRating": "5",
+        "title": "\\316\\240\\316\\277\\316\\273\\317\\215 \\316\\272\\316\\261\\316\\273\\317\\214 \\316\\261\\317\\200",
+        "comment": "\\316\\234\\317\\200\\317\\201\\316\\254\\316\\262\\316\\277. \\316\\221\\316\\275 \\317\\205\\317\\200\\316\\256\\317\\201\\317\\207\\316\\261\\316\\275 \\317\\200\\317\\201\\316\\277\\316\\265\\317\\200\\316\\271\\316\\273\\316\\277\\316\\263\\316\\265\\317\\202 \\316\\263\\316\\271\\316\\261 \\317\\201\\316\\265\\317\\205\\317\\203\\317\\204\\317\\214\\317\\204\\316\\267\\317\\204\\316\\261 \\316\\270\\316\\261 \\316\\256\\317\\204\\316\\261\\316\\275 \\317\\204\\316\\255\\316\\273\\316\\265\\316\\271\\316\\277. \\316\\245\\317\\200\\316\\255\\317\\201\\316\\277\\317\\207\\316\\267 \\316\\264\\316\\277\\317\\205\\316\\273\\316\\265\\316\\271\\316\\254!",
+        "commentId": "lg:AOqpTOG3rs1TIujhdxDepF7_gno91VFwVOLrqv9yFEzayYoJ9wG3syDUhS243JzOqk7OJ_f3e4iWK5OFQCJfbg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351747113096",
+        "starRating": "4",
+        "title": "Ok",
+        "comment": "Muy bueno",
+        "commentId": "lg:AOqpTOEC9VvHhcaFltIgOalhLeY2ZV_j29NnmqbB33F8zj_I6DlWDrcB2S_ddGGKF2LIEnD8bfdA9kNXJOJ0hQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

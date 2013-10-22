@@ -1,0 +1,187 @@
+{
+  "title": "Voice Recognizer Demo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.example.VoiceRecognizer",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "May 1, 2009",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "176",
+  "rating": "3.4772727",
+  "contentRating": "Not rated",
+  "creator": "Android and Me Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.example.VoiceRecognizer",
+  "extendedInfo": {
+    "installSize": "11k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Example application for \"Cupcake Voice Recognition Now Available for Testing\" on AndroidAndMe.com.  WORKS ON CUPCAKE ONLY.  You must have a Haykuro image, 1.5 ADP, or the Cupcake OTA update.* Takes a short voice command and converts it to text.  See article link below for details.Developed by Alex Byrnes",
+    "reviews": [
+      {
+        "timestampMsec": "1242077632092",
+        "starRating": "3",
+        "comment": "Add ability to select (and copy paste), doesnt work good for swedish though ;)",
+        "commentId": "lg:AOqpTOHLo9OoU940feXX4dOHHSvE7ybPirhyJweAgnV_MHVjvJP5MvO0dvoV1gTpy8uE4pBeyMmWBsqAm3KCgiE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1255580080907",
+        "starRating": "4",
+        "comment": "It is nice to have a simple app that just shows you how well speech rec works.",
+        "commentId": "lg:AOqpTOGWgHMz9dU67I9381X6uM0ocJHcDvytwIdFW6RT6ERa12P3E2wgdSTxMXV3IEJgph3-QJc_CIrALii4j6w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1250238251294",
+        "starRating": "5",
+        "comment": "Nice demo.  Look forward to seeing where you take it next.  Text/Email by voice...?",
+        "commentId": "lg:AOqpTOEpdIb2aM3TKvkJEmkkpK-LtWYENW0BRglA88X4lRou7rFVX2t-KvY9g5fLjBYaKDkh8cfic7CC0qdsht0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1244411886954",
+        "starRating": "3",
+        "comment": "Cool concept, but definitely not perfect.  If the sentence is too long, it times out.",
+        "commentId": "lg:AOqpTOGR003yQe9QYPGmPULA2P6ABo7vtsM2mGTZZpKOXNdIN_GSgXeSwQoYJ7DRWFF1XB3dA7IC2U5NMYb-HYA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1241224514637",
+        "starRating": "4",
+        "comment": "Great! Add functionality to copy text",
+        "commentId": "lg:AOqpTOEsMziuOZ097gn_YQPqiqyyhN0fNFw5rVb__xstCFvlJW5k3g9Andar8rAJnEA7KumwyRgCoBBicC7fMuo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1241238790267",
+        "starRating": "5",
+        "comment": "Works great for me.  You should add more function.",
+        "commentId": "lg:AOqpTOFUEmNmgwq1bJ598XSzjAfUAIgUC4FqokBU9ycEEdyTyILiOkLNaRg_WKOibLC2T45liY7Z5DFR4PVMIgE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1241205154953",
+        "starRating": "5",
+        "comment": "Works on ADP. Pretty cool stuff. Excited to see where this goes...",
+        "commentId": "lg:AOqpTOHwiGOVgymdGVsES_MNcBRaGJTywgiQ5RjDepchQD8UavV4EiEgrGZIgYBRugZpkfFZrE5r2LCFuGd0Vww",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1243647162968",
+        "starRating": "2",
+        "comment": "Quite useless. Displays the recognized string, but you cannot do anything with it. The cupcake voice-activated Google search is a much better demo.",
+        "commentId": "lg:AOqpTOF9SFOCztnCDMcx3d7OR6wC-co9D3MRz8XbRuijn2T1QA1eRpQ2J0oppaFq45vKUCR9RbnJMTynMppomJQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1255178531846",
+        "starRating": "1",
+        "comment": "Doesnt do anyrthing. Its called voice recognizer... but says voice recognizer not present! What is the point of this app then?",
+        "commentId": "lg:AOqpTOHeVqFeQJxKh3zTqv1cAycPFCKAhvXW7JuLuQIEnBUKcilgREPLRnotYENV67kPrti6CNUvDqXIoNZAPzI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1267057748608",
+        "starRating": "4",
+        "comment": "Does exactly what its claimed to do. Just wish it was a practical app that could be used.",
+        "commentId": "lg:AOqpTOGLxhZb64SOv5SZ6YJvIc2ACJxnT6jITTLDNMXHKiKzTh-1Yc9Ejy0xaqns7xRy8xC3ZEnXwFx5iR4kKPo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1241245670491",
+        "starRating": "5",
+        "comment": "Great concept. *Sits back and patiently waits for voice to SMS app to arrive.",
+        "commentId": "lg:AOqpTOEQmngXJCzJ7ITpzbo3aTUgu3aPAAu3BfwhM9l_vaPEsGaCReWvTELIizXC2VFNHKxXSXlRGtrxaohYl9c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1267503663371",
+        "starRating": "2",
+        "comment": "Does does speech to text well. You just can\\'t do anything with it. Please make it cut & paste-able.",
+        "commentId": "lg:AOqpTOHCqWJFBjZ4FUqAC0N4OV85ueh3d6EAUOHJXYYrc66p85kskSi6ybQd3tUQXe_b9epVZIAQWwxQOt1EneA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1244616523141",
+        "starRating": "1",
+        "comment": "Cool start but We really need Voice Command for G1. It would be a !000Star App that would bring up on Search the complete DeskTop by Voice.",
+        "commentId": "lg:AOqpTOE5Ozp90RjgZuJ6mwRIh9hBjPFZ-l47O7Ur1ZlfsbD50XWXo25svgO2GZjb65DddhSfTNco5tH6N_xQykE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1266158882755",
+        "starRating": "1",
+        "comment": "It says softwhere not present good idea though.",
+        "commentId": "lg:AOqpTOFUvEbgBTRyK1G9S1x2WxnLP8_OitiXvsRZDNS2vk8Bx9VdTwEhyZytbE6UZV9TU-3G4HhboDUZ2hc6oPw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1280462903537",
+        "starRating": "1",
+        "comment": "Doesn\\'t work. Just says \\\"Recognizer not present\\\" I thought this app was the Recognizer.",
+        "commentId": "lg:AOqpTOEyK7J_WJAsObI5GiW5SDbZ6jG3_vF53AktrdxKPELrwUsjp5pyChEgPVI40RxhORs5KqUTVmg8nccFFQc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1254985186854",
+        "starRating": "4",
+        "comment": "Would be cool if it was an actual app, I would get it.",
+        "commentId": "lg:AOqpTOFKInkpUs6tEDWhRRjeQRgPp7E8TUgl3biRcQnxZyM7UaABuAtxExV3qYeMR3TKiT4uUYsOThYY2TApZjo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1256945078881",
+        "starRating": "1",
+        "comment": "Huh? It says that recognizer is not installed. Looks like it\\'s not available in Canada!",
+        "commentId": "lg:AOqpTOG1_UtTHH1euEBv_T5ygOt3oMA7c5bT7_QNkB6DjKL-dLZT_WIoRf9672Fj-MmvdJN1iVMfPFw2X5OPulQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1241270940929",
+        "starRating": "5",
+        "comment": "As expected, the recognition is a bit rough. Not extremely reliable. Almost need to exaggerate enunciation to get good hits in many cases.",
+        "commentId": "lg:AOqpTOEC8XLaWOBvddfpBpUPZwJGn-5CSGx0VTRButXwPkWzgHEwzAchyEeldvKLW1kC26o2jah_sTUpnZq2oUo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1248922039551",
+        "starRating": "5",
+        "comment": "Cool, pointless but cool!",
+        "commentId": "lg:AOqpTOGEWAjYf5sdf_Vct3quZbtdzlfPxqq9vVCzwfXCXSHtAIJG0wX0KKzDTmTXmmVWB1DKcfKfxTE9GT1sCI0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1241204395205",
+        "starRating": "5",
+        "comment": "Some of the haykuro builds are missing the voice app.  This this wont work.  The latest g build should have it.",
+        "commentId": "lg:AOqpTOFaLe27AyaC5_oAUl_gtVgDz5WSNWQt7xJIcOPvycvnACeT7JOSfdi4WBNkd4SvrIOASgdn9xE6sFSCFw8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

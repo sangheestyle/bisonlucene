@@ -1,0 +1,39 @@
+{
+  "title": "Expert Joe",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.expertjoe.expertjoe",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "2.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Expert Joe, LLC.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.expertjoe.expertjoe",
+  "extendedInfo": {
+    "installSize": "6.7M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Give feedback.  Be influential.  Earn rewards.The Free Expert Joe App helps business professionals reward YOU for your feedback on their products and services.  We believe every average Joe has a level of expertise worth sharing with the worldâ¦ Expert Joe just makes it that much easier to do so.   EXPERT JOE FEATURESâ¢ Easily record your opinions and help influence the products you interact with on a daily basisâ¢ Record and deliver audio and video feedback seamlessly within secondsâ¢ Help others see their products and services from your point of view â¢ Earn more rewards by signing up for future studiesâ¢ Notifications tell you when a new study is availableShare Your expertise.  Change Your World.  Expert Joe.Use of this application is governed by the Expert Joe Terms of Use. Collection and use of personal data are subject to Expert Joe's Privacy Policy. Both policies are available in the Application License Agreement below as well as at www.ExpertJoe.com. Social Networking Service terms may also apply.Terms of Use: http://www.ExpertJoe.com/terms-of-use/Already a fan of Expert Joe?Like Expert Joe on Facebook: http://www.facebook.com/expertjoe",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.expertjoe.expertjoe.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

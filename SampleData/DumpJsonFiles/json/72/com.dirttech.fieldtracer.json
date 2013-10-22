@@ -1,0 +1,34 @@
+{
+  "title": "Field Tracer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dirttech.fieldtracer",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "April 26, 2013",
+  "version": "0.3.6",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dirt Tech",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dirttech.fieldtracer",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is a 15 DAY DEMO!Field Tracer is an Android application designed to simplify GPS/GIS (Geographic Information Systems) mapping. Field Tracer delivers efficiency, improvements and cost-savings at every stage of your operation. Android support means readily available and easily affordable hardware in a variety of sizes and specifications to meet your needs. -Works with your smart phones and tablets running Android version 2.3 or greater. -It requires no external hardware for basic operation.-For RTK GPS mapping the program can connect to external GPS antennas using our RS-232 to Bluetooth converter. For example, a John Deere RTK globe could be used for sub-inch accuracy.-Dropbox is used as a platform for storing and accessing data. This means anytime access to your data from smartphones, tablets, PCs and laptops. It also means seamless back-ups and easy     access for employees or customers.Field Tracer was developed for use in:-Soil sampling-Scouting-RTK Data collection-SurveyingFeatures:-Record polygons, lines and points-Measure area and distance-Select layers: SHP, JPEG, BMP and PNG formats (GRD coming soon)-Organize data by clients/farms/fields-Sync data to and from Dropbox",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.MOUNT_FORMAT_FILESYSTEMS",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_MOCK_LOCATION"
+    ]
+  }
+}

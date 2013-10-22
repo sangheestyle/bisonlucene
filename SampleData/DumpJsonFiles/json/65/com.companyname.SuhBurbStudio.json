@@ -1,0 +1,53 @@
+{
+  "title": "Suh Burb: Early Beta Tech Demo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.companyname.SuhBurbStudio",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "January 3, 2013",
+  "version": "1.0.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "12",
+  "rating": "3.9166667",
+  "contentRating": "Everyone",
+  "creator": "Chris Bradel",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.companyname.SuhBurbStudio",
+  "extendedInfo": {
+    "installSize": "22M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Welcome! A few years ago, I set out to create a perfect platforming engine. If you've played a Sonic game, or FancyPants, you'll have an idea of what I mean. I call it 'Momentum Platforming.'This technically is the fourth game in the series, and I'm attempting to bring all three of the previous storylines together in a whole new rewritten engine for GameMaker: Studio.Why should you give this game a try?A mix of a super smooth platforming, parkour experience and a laugh-inducing storyline, will keep you playing for whole minutes! -Until the end of the current demo.This is still a very very early demo, but I wanted to get it out to be able to get some feedback on its roots.General controls are stated in the first room of the demo, and there's a nice selection of places to play around in for now.Give it a try, and let me know what you think of it!Thanks,ChrisExtra Media:These will give you a good idea of what you'll find here.YouTube Playlist of Demo Videos of this:http://www.youtube.com/playlist?list=PLL2H4-Mxh2h_OaOuX-7u32hnCIGwH6dQgDemo Video of \"Suh Burb\":http://www.youtube.com/watch?v=WxX88KJ9exYDemo Video of \"Suh Burb 2\":http://www.youtube.com/watch?v=XVMC0Eebk4E",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1367981141019",
+        "starRating": "5",
+        "title": "This is pretty fun",
+        "comment": "All it needs is a menu system, and better touch controls. Climbing even small slopes is super hard w/o momentum.   Please keep it up, this is a great concept!",
+        "commentId": "gp:AOqpTOGT39IHLHqyMopCg2P1KD6Gtwlf0a5azzF5ennqwAuujInexfryQO9B3_PdjnmvODNCfHRdx_l_X1fylg",
+        "author": "David Hart",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1375113727786",
+        "starRating": "3",
+        "title": "Very goog",
+        "comment": "Its a really fun game good mechanics addictive game but u need to work on the controls when u wall jump u need perfect rhythm but other y s a great game",
+        "commentId": "gp:AOqpTOHCVwovZvel7hfkmijqc-IpcgLxyEWSdGlfUXlx-X64mrlwdUByb9kQfWn00HLQ0cTHDnD06Ou6bula6g",
+        "author": "Nathan Sagrero",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.GET_TASKS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

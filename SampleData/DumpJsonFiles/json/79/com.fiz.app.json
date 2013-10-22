@@ -1,0 +1,58 @@
+{
+  "title": "Fiz, let's go places",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fiz.app",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "March 20, 2013",
+  "version": "1.3.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "3",
+  "rating": "3.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "Fiz Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fiz.app",
+  "extendedInfo": {
+    "installSize": "8.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Fiz is a place location app unlike any other. Bringing you places filtered by leisure interest, you can now find just the kind of place you are looking for, whether nearby, or in a far flung part of the world. Places are brought to life with photography, tips (from Foursquare), tweets, reviews and ratings from the Fiz community. It's a great way to be specific, or simply kick back, browse and discover something new. Fiz is also completely practical. Maps, directions, traffic updates(UK), weather, addresses, phone numbers and websites (where available) make it the everyday companion app you'll be glad to know you've installed on your smart phone. And you can be as social as you like! Share a great place on Facebook, check-in with Foursquare or simply use text and email to invite others to a place you may already be at, or are thinking about visiting. So whether you are at home for the weekend, travelling for work or a short break, or planning to see a new part of the planet, Fiz gives you a unique view of the world's miriad places and may help you discover a hidden gem! Features: + search anywhere in the world - great for researching a trip + find everything nearby or find useful Services + browser leisure categories: Fun & Leisure, Nature & Outdoors, Food & Drink, Faith & Spirit, Health & Wellbeing, Sport & Fitness, Art & Culture + Create your own places privately or to share + Read tips and tweets on a place to get a real feel for what it's like + Thumb up the places you rate to tell others what they are 'Great for' and what they 'Must-take' + Save places to your favourites along with any personal notes + login with Facebook, Foursquare or Fiz + you don't have to neglect those Foursquare check-ins with our integrated check-in! + Share places on Facebook, or via email + View maps and directions with Google maps Please help us to keep Fiz add free and cost free by sharing, rating and reviewing places!",
+    "reviews": [
+      {
+        "documentVersion": "1.3.1",
+        "timestampMsec": "1367601539601",
+        "starRating": "4",
+        "title": "Very handy app",
+        "comment": "Great app , clear and easy to use but why no route planning? The only way I can see to get a route to the destination is by clicking the meet button and opening up maps from there.  Make set route easier to use and 5 stars all the way.",
+        "commentId": "gp:AOqpTOHpLvT5ngrn_gxOUbRucASQFExE0jkgfl5q19xMrbFoOSicZbkNUWegNL25WmUfOR6BGNz5gInNl5u0rQ",
+        "author": "Andrew Knowles",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.1",
+        "timestampMsec": "1366820959788",
+        "starRating": "1",
+        "title": "Five times confusion rolled into one",
+        "comment": "The app is designed around converging location information from various sources at one place with the intention of making the experience better.   Brilliant idea. Poor execution.  Too much clutter on the screen. Inconsistent UI. Jerky transitions. Transitions where not needed and missing where they are necessary. Icons are terrible. The choice of fonts makes it look like a colouring app for kindergartners.  And yes, copying an iOS app as-is into Android doesn\\'t work.",
+        "commentId": "gp:AOqpTOGdTl5IGiVSxQIJI79b0n0ODYA3PGhGnKj4-ZRpakJ8yrngSpOX-IFrgC5la_o4ABveL94MSUO4GJAupg",
+        "author": "Sannidhya Misra",
+        "authorURL": "http://lh3.googleusercontent.com/-E8hAfdSYIi0/AAAAAAAAAAI/AAAAAAAALJo/9jLiRb8VrqE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-E8hAfdSYIi0/AAAAAAAAAAI/AAAAAAAALJo/9jLiRb8VrqE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.SEND_SMS",
+      "com.fiz.app.permission.MAPS_RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

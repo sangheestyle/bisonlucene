@@ -1,0 +1,61 @@
+{
+  "title": "Flint Community Bank Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flintcommunitybank",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "February 3, 2013",
+  "version": "1.5.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "2.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "Flint Community Bank",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flintcommunitybank",
+  "extendedInfo": {
+    "installSize": "844k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Flint Community Bank Mobile Banking by Flint Community Bank allows you to bank on the go. It's free to download and offers quick access for managing your bank accounts. Check your balances, pay bills, transfer money, and locate ATMs and banking centers with just a touch. Our native app is fast, secure and free. Use your current login information to start banking today.Features:â¢Check Account Balancesâ¢Transfer funds between accountsâ¢Pay Bills**â¢Find our ATMs and Banking Center using the GPS system provided by your Android.***â¢Mobile Remote Deposit Capture*Must be an Online Banking Customer**Online customers must first setup transfer and bill pay accounts prior to using these features.***This is limited to locating our banking centers and ATMs. Please refer to your carrier for any fees that may apply.",
+    "reviews": [
+      {
+        "timestampMsec": "1339540924253",
+        "starRating": "5",
+        "title": "Love",
+        "comment": "Great app for a great bank. Glad its on Android now",
+        "commentId": "lg:AOqpTOFfjWOo_OBOr6u65m00eoDslRF1i2KZmJpDYT41diKMK-3r9Htj2OXVFi4RzBT4YBiHPX39gmAfrI0rxL8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338651987608",
+        "starRating": "1",
+        "title": "Rich B",
+        "comment": "Freezes unless i am connected to my home wifi",
+        "commentId": "lg:AOqpTOG_RqJ8uU1-kFYOjFakm8dOc9NcQIFBnej4CS7JS_jcO6jGzEjUoxRStnXvKr6SDuI9aBvmQYdNFO061Lc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334716528073",
+        "starRating": "1",
+        "title": "Won\\'t open",
+        "comment": "Doesn\\'t get past the opening screen. Force close every time. Uninstalled.  HTC Inspire.",
+        "commentId": "lg:AOqpTOHlwOb3iIY0AmUomxf-bz3-aeQsKB1Lf5fyIPdQTCpU7dqPn5T0yIFxQ5sLDdRu94pGuuzF05K2HwxueLw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

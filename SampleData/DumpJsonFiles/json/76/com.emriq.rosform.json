@@ -1,0 +1,30 @@
+{
+  "title": "Review of Systems",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emriq.rosform",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "November 24, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "5",
+  "rating": "3.6",
+  "contentRating": "Not rated",
+  "creator": "Emriq Systems",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emriq.rosform",
+  "extendedInfo": {
+    "installSize": "96k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "App to create Review of Systems (ROS) record during a patient exam. This is intended for healthcare professionals to enter ROS form unobtrusively and handily. The data can then be emailed or saved. The app is password protected and data is encrypted for security",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

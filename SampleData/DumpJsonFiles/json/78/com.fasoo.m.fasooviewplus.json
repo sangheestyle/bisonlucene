@@ -1,0 +1,36 @@
+{
+  "title": "Fasoo View Plus",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fasoo.m.fasooviewplus",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 23, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fasoo.com, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fasoo.m.fasooviewplus",
+  "extendedInfo": {
+    "installSize": "8.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Fasoo View Plus allows users to safely and securely view and edit their documents as they do on their PC through their mobile device.  â» Fasoo View Plus can only be used by Fasoo Mobile Solution users. Fasoo Mobile Solution Fasoo Mobile Solution extends work flow on to the mobile environment to allow people to communicate and collaborate through smartphones and tablets. It enables organizations to persistently secure, control and trace confidential documents on mobile devices. Fasoo View Plus is not intended for personal users. Fasoo View Plus allows you to perform these following functions from your mobile device:  - All previous functions offered by Fasoo View (Fasoo View functions for Android) - Based on your predefined policy, you will be able to copy, paste, decrypt and edit.  - Prevent screen capture - Set the geographic location of where the document viewed based on the userâs predefined policy  - View or transmit the geographic location history of where the document has been accessed OS Requirements - Android 2.1 or laterSupported File Applications View & Edit  - MS Word (*.doc, *.docx) - MS PowerPoint (*.ppt, *.pptx) - MS Excel (*.xls, *.xlsx) View Only - Arae-A Hangul (*.hwp) - Adobe PDF (*.pdf) - Text file (*.txt) - Image file (*.bmp, *.jpg, *.jpeg, *.png, *.gif)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

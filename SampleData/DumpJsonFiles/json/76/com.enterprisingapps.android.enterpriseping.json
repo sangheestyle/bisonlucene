@@ -1,0 +1,79 @@
+{
+  "title": "Enterprise Ping Toolkit",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.enterprisingapps.android.enterpriseping",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "March 3, 2013",
+  "version": "1.1.1",
+  "operatingSystems": "3.2 and up",
+  "ratingsCount": "10",
+  "rating": "4.9",
+  "contentRating": "Everyone",
+  "creator": "Enterprising Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.enterprisingapps.android.enterpriseping",
+  "extendedInfo": {
+    "installSize": "162k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Enterprise Ping is a graphical multi ping IT network utility. Ping is a network utility tool that test connectivity between your device and a remote device and is an essential network tool for any network administrator toolkit that can be used for network monitoring and network management. Enterprise Ping features a graphical output of Ping response times and a full text log file that can be exported. If you are making changes to your network, remote host, internetwork routing, QOS, access list, or any number of items that can disrupt or change connectivity the continuous ping and graph combination is a great way to immediately highlight the results of those changes. It's a great tool for any network administrators toolkit. If you are an IT administrator responsible for a network, LAN or WAN consisting of routers, switches, servers, firewalls, email, web servers or any other device that you need a tool to monitor for management a solid ping tool is essential to your toolkit. Enterprise Ping FeaturesSupports multiple ping destinations. Currently supports up to 4 ping destinations but we are bringing the capabilities for many more simultaneous pings.Graphical response time chartPing across VPN NetworksFull Ping log export that can be shared via any method your device supportsSpecify ping packet sizeSpecify ping interval time in secondsIf you close or minimize the app, pings will stop but once you open the app again you can pick up where you left off.Continuous pingSaves your host history for quick recallAvailable Ping StatisticsResponse time per pingTotal combined response time since you started the pingMinimum ping response timeMaximum ping response timeAverage ping response timeNumber of sent ping packetsNumber of received ping packetsNumber of lost ping packetsPercentage of lost ping packets",
+    "reviews": [
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1375144342291",
+        "starRating": "5",
+        "title": "Nice utility.",
+        "comment": "Well done, look forward to additional utilities of similar quality. Thanks to the devs.",
+        "commentId": "gp:AOqpTOHazy9Xkb8Xqsrwu5sQQ66qj5Z54YOcqGF3v66Zod3ysKuCc91sQoJW9hsy2IsQwtbwsWOD2MqyKpz4tw",
+        "author": "Voytek Eymont",
+        "authorURL": "http://lh3.googleusercontent.com/-N_bhrB4QaSI/AAAAAAAAAAI/AAAAAAAAGzg/fvqBAGS9j0o/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-N_bhrB4QaSI/AAAAAAAAAAI/AAAAAAAAGzg/fvqBAGS9j0o/photo.jpg"
+      },
+      {
+        "timestampMsec": "1345664096975",
+        "starRating": "5",
+        "title": "Great utility",
+        "comment": "Nice utility with great graph. Works great on my nexus 7 with Jellybean.",
+        "commentId": "lg:AOqpTOGK2Yyf9EHWC8dR4WjRMZVD1sNdput2Nv47D26kf0ReeKrrfQIyC1XIbVrCpmRVJcGvpKgy7oDOQLfIEA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343752661394",
+        "starRating": "5",
+        "title": "Excellent Network Tool",
+        "comment": "Great ping utility for network admins. Must have.",
+        "commentId": "lg:AOqpTOFjXut-v1puvqMFFIjGSjdSLEeLaUGPb43rK53xyCfdxbQBTBzuM51S5kFCI_vkO0gjSiftDV6Bc6iFlA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342620320786",
+        "starRating": "5",
+        "title": "Nice graph",
+        "comment": "works great on GNex running Jelly Bean and my S3.",
+        "commentId": "lg:AOqpTOGSMalfecHfcZe65ONtDNq4qCN5uWOG_i11N7S91mhFY2zwupR7LqxIDjFFvbdLzUg_yfjIULzROdYgug",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342619199013",
+        "starRating": "5",
+        "title": "Great Graphical Ping Network Tool",
+        "comment": "Works great on Droid X running 2.3",
+        "commentId": "lg:AOqpTOH_gc7wwXmESmJRuG_BAiTWttzrD_1KB5cmIR2hiysrfRufXch4ISnsKaccKm6ZTvmj9YOZ2UB3L2hseQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

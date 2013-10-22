@@ -1,0 +1,31 @@
+{
+  "title": "Notepad",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.labellotasoft.apps.notepad",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "June 11, 2013",
+  "version": "1.1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "La bellota Soft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.labellotasoft.apps.notepad",
+  "extendedInfo": {
+    "installSize": "281k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This application is the notebook paper but now in your mobile, it is easier to use, and it really makes their function which is write down everything you want to remember. Furthermore, you can activate an alarm at specific time.The note can also save in a category for which is then displayed in a different color and you can differentiate it.Also, don't lose your notes, you can make a backup on your SD card and save it to where you want.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

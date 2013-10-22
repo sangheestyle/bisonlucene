@@ -1,0 +1,73 @@
+{
+  "title": "Feathr - Conference Networking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.feathrapp.feathr",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "July 29, 2013",
+  "version": "1.9.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.25",
+  "contentRating": "Low Maturity",
+  "creator": "Feathr",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.feathrapp.feathr",
+  "extendedInfo": {
+    "installSize": "5.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Born from the idiom: \"Birds of a feather flock together,\" Feathr aims to help you grow your flock of professional contacts by helping you automate your follow-up workflow. When you meet someone, you can connect, follow, email, and save them to your contacts â removing the need for business cards and the hassle for follow-up later. Feathr also lets you keep track of the people you meet, and reminds you when you don't follow up with them.",
+    "reviews": [
+      {
+        "documentVersion": "1.9.1",
+        "timestampMsec": "1377295515112",
+        "starRating": "5",
+        "title": "(Insert title here)",
+        "comment": "I don\\'t know, they just followed me on Twitter so I figured why not give them a shot? To sum everything up... I don\\'t see myself deleting this app anytime soon.",
+        "commentId": "gp:AOqpTOE1YiQJra1anLzqkXQ4YT4Ugf7nkPnjxXUr9SU7UlkSu4O5FcVHNVHaXxLsjU7Hw04B2IA1P_ZP9LQU3g",
+        "author": "Jordon McLeod",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368984851405",
+        "starRating": "3",
+        "title": "Can\\'t see capcha",
+        "comment": "If LinkedIn chooses to display a capcha, it isn\\'t completely visible on HTC Magic.  An old phone, but still.  On a later attempt no capcha was presented, so was finally able to authenticate.",
+        "commentId": "gp:AOqpTOFTjLKek7hAxD9PkmWbN-u1Zlf6tEuQSYoOwfdNNgMleoNKLkTNNVuvZCBj3D0QWU3SZalBo-4mq8a5qg",
+        "author": "Jason Boxman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368691038013",
+        "starRating": "3",
+        "title": "Good Start, but more to be done.",
+        "comment": "Good start guys, but some suggestions:  Is there a way to notify me if there are feathr users nearby? That would be a great way to remind me to use it instead of exchanging business cards.   Also it would be cool if it worked similar to bump, so I could exchange cards without having to search for the other person.",
+        "commentId": "gp:AOqpTOE-oa-USt1pBUwulzUihsbxJLSeaBDiPP5CKw2RRKFjA3q7A9qbQW7F9jNGFP0ur17dHYnMQZhIfOiHVA",
+        "author": "Tony Dieppa",
+        "authorURL": "http://lh5.googleusercontent.com/-lHmwUjIxQY4/AAAAAAAAAAI/AAAAAAAABoQ/65KidojBOEI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-lHmwUjIxQY4/AAAAAAAAAAI/AAAAAAAABoQ/65KidojBOEI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370218173092",
+        "starRating": "5",
+        "title": "Awesome,",
+        "comment": "Needs to use NFC to transmit my businesses contact info and email my daily specials through the WiFi when ever a customer walks by or is inside my cafe. And direct them to my business site when ever they use our WiFi as well. now I can prove that business cards are a thing of the past.",
+        "commentId": "gp:AOqpTOH_Zf7UanlBCihrBor57UdFxtY7P8qKNsk8TYtjAHqkvrVeLIwnv3C9g5LH__NrRWALiFI-W9VwcemzIw",
+        "author": "CHEF Lucas",
+        "authorURL": "http://lh6.googleusercontent.com/-mDI3SJ4ZJ4c/AAAAAAAAAAI/AAAAAAAAAWg/39a-JeYXSPA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-mDI3SJ4ZJ4c/AAAAAAAAAAI/AAAAAAAAAWg/39a-JeYXSPA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

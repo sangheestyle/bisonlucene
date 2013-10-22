@@ -1,0 +1,43 @@
+{
+  "title": "VANCOUVER SUBWAY METRO MAP HD",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.red.vancouver",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 24, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "iMap Place",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.red.vancouver",
+  "extendedInfo": {
+    "installSize": "302k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Vancouver (British Columbia, Canada) is situated on the west coast not too far from the U.S. border. The metropolitan area has about 2 million inhabitants. Vancouver hosted the 1986 World Expo.The Vancouver Metro, called SkyTrain, is an automated metro system, similar to the VAL system of Lille and Toulouse. As of August 2009, it actually comprises two systems, incompatible with each other, the older Expo/Millennium Line and the brand new Canada Line:  \t Expo Line\t                               Millennium Line\t \t The Expo & Millennium Lines start in downtown Vancouver and serve the southeastern neighborhoods of the metropolitan area. Expo & Millennium Lines run mainly on an elevated structure with trains every 2-5 minutes.Station platforms are 80 m long, which allows 6-car-trains; SkyTrain normally operates 4-car mark II trains, and 4 or 6-car mark I trains. The average station distance is 730 m in the city centre area and 1750 m in other areas. All stations now have elevators, after Granville was retrofitted with one in 2006. In the beginning trains got names like Spirit of Victoria, Spirit of Vancouver, etc. For the inauguration of the second line a new type of train (mark II) was ordered with cars 17.3 m long (earlier stock 12.3 m) and three doors per side each 1.6 m wide (compared with two 1.2 m wide doors per side on original cars).Total length of the first line, now referred to as the Expo Line, is 28.6 km (only 1.3 km in a former railway tunnel in downtown Vancouver - Burrard and Granville; and Columbia station is covered), total travelling time is 39 minutes.The second line, the Millennium Line opened in 2002 to connect Broadway to New Westminster. The line is mostly elevated (800 m underground near Columbia station). Both lines operate along a common stretch from downtown Vancouver (Waterfront station) to Columbia station. Construction began in Jan. 2004 of the remaining part of the Millennium Line, from Broadway/Commercial to the line's western terminus at Vancouver Community College (VCC). This section was opened in January 2006.",
+    "reviews": [
+      {
+        "timestampMsec": "1374815536345",
+        "starRating": "1",
+        "title": "Installs adware",
+        "comment": "The app secretly installs ad pusher and you get unwanted ads in your notification",
+        "commentId": "gp:AOqpTOGRw0oWvRgE3scMdn5xEBo7vSa6GDolUQV_FeX4vWX53Ru2io4dSmv883D57AUg78Uw9nme23V5IQianDs",
+        "author": "Samuel Yang",
+        "authorURL": "http://lh4.googleusercontent.com/-mGJuCEeUd9s/AAAAAAAAAAI/AAAAAAAAAAA/HaJig1_Z_ME/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-mGJuCEeUd9s/AAAAAAAAAAI/AAAAAAAAAAA/HaJig1_Z_ME/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Endicott",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.endicott",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "4.5.19",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.endicott",
+  "extendedInfo": {
+    "installSize": "415k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Endicott has launched a mobile application that brings information and services from around the school to your fingertips on any Android device.View the campus map, contact details for faculty and staff, campus events, shuttle schedules, and library resources!",
+    "reviews": [
+      {
+        "documentVersion": "4.5.19",
+        "timestampMsec": "1356096311312",
+        "starRating": "5",
+        "title": "Easy access to directory and maps",
+        "comment": "Useful mobile creation of the website",
+        "commentId": "gp:AOqpTOE3V3_Xbbloh9pYyiy_1LYrosQwu15SwTJeIRQ1Vh81UAxj9LQzCWMz7-5H2fbJo6UQZM1d6u8CxuaGEhg",
+        "author": "Jessica Kaufman",
+        "authorURL": "http://lh4.googleusercontent.com/-VB70ZBkiyTc/AAAAAAAAAAI/AAAAAAAABf8/Zz9w4t7TXmM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-VB70ZBkiyTc/AAAAAAAAAAI/AAAAAAAABf8/Zz9w4t7TXmM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

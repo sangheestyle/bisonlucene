@@ -1,0 +1,33 @@
+{
+  "title": "urtv cam",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.csdtech.urtv",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "August 6, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "High Maturity",
+  "creator": "urtv ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.csdtech.urtv",
+  "extendedInfo": {
+    "installSize": "634k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The URTv camera application enables you to record and upload your movies onto urtv.co.il easily.Taking part in URTV programs means you're taking part in creating the new TV!Features:Choosing participating programs through the application.Filming a movie up to 3 minutes long,Fast upload speed in the background.Saving a movie in the device's library.Uploading existing movies from the camera's gallery.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

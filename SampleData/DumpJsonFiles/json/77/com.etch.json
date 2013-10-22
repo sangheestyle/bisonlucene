@@ -1,0 +1,48 @@
+{
+  "title": "East TN Kids",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.etch",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "September 10, 2012",
+  "version": "2.0",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "Brainflo.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.etch",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "East TN Kids is an application for the Android phone that will allow you as a parent, grandparent or caregiver to keep a record of important medical information on your child, read helpful pediatric health information and easily get in touch with your doctor or East Tennessee Children's Hospital. At East Tennessee Children's Hospital, children are our only concern, and that is what drives our mission: to provide the best possible health care to every child we serve from East Tennessee, southwest Virginia, southeast Kentucky and western North Carolina. It is a mission that centers on a profound and unchanging commitment to the physical, educational and emotional needs of each child. Download and start using this helpful resource provided by your friends at East Tennessee Children's Hospital in Knoxville, Tenn. Features: Parent & Child information sections allow you to enter information you will need when going to the doctor or hospital such as: Medical History Allergy Information Doctor Information Emergency Contacts Medications Immunizations Insurance Information Birthdate Blood Type And much more! Password protect sensitive information Quick access to emergency numbers Hospital information and directions General medical information for quick and easy reference",
+    "reviews": [
+      {
+        "timestampMsec": "1332215705287",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "Awesome app ,",
+        "commentId": "lg:AOqpTOG24b63jYTVg0hSMZsRfZfw4VIekmuGrQcisXm1gAO77DBN8tujFIj3h6SnPOoKq4HHEYs3MfqoOMelpA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1326599649274",
+        "starRating": "2",
+        "title": "It needs help",
+        "comment": "Doesn\\'t keep info",
+        "commentId": "lg:AOqpTOG46yIJlhuZzp8r1NMEPI5nUqGCf69BS3rELmBlZT_Jv2RG3mlo_-NOixM6roLrnkzDXDWuS9dW1v36ew",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Beyond Cocktails",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dkb.beyond",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "September 4, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "High Maturity",
+  "creator": "Beyond Cocktails",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dkb.beyond",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Beyond Cocktails : Reinventing Happy HourPin Point Your Location - Find Happy Hours - Enjoy and RepeatAt Beyond Cocktails, we have strived to come up with a way to reinvent the way people experience happy hour. Beyond Cocktails provides a way to find local happy hours and specials easily, quickly, accurately, and in real time. Instead of searching for static content, information online or in print materials, or just by blindly walking around, why not have an app that provides current local happy hour information posted directly from the restaurant or bar? That way you know what to really expect.Help Beyond Cocktails grow a new community based on a new way of thinking about happy hour and be a part of the first app release. Please do not be shy about voicing your thoughts, recommendations, and suggestions.If you have any questions, concerns, or any awesome ideas, please do not hesitate to contact me at social@beyondcocktails.com.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Baby's Toy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=jp.co.ktlabs.android",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 20, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "KT LABS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=jp.co.ktlabs.android",
+  "extendedInfo": {
+    "installSize": "170k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The baby reproduced the loved rattle by the Android application program. Movement changes if it touches the screen. The baby is fascinated because it gives stimulation with moderate vibration. Let's look for the sound that babies like most because the sound effect can be chosen according to several kinds. Moreover, is mama's voice recorded and what reaction why doesn't the baby test because it can record the sound effect by itself ..whether show..?",
+    "reviews": [
+      {
+        "timestampMsec": "1319578769232",
+        "starRating": "1",
+        "comment": "soooo stupid",
+        "commentId": "lg:AOqpTOGF4fl3dUWJl1RXgNYMCa0vp4iF_tD1VhssBr9wHEqRVPkKwbjFQg7ZcaMCAWk1Ijl4v-HbT5QwhLGzAg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

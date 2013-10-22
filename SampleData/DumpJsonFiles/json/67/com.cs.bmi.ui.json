@@ -1,0 +1,38 @@
+{
+  "title": "BMI",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cs.bmi.ui",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "October 2, 2012",
+  "version": "1.0.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Concoct Services",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cs.bmi.ui",
+  "extendedInfo": {
+    "installSize": "905k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "BMI is a very simple to use application to calculate the Body Mass Index (BMI) of an individual. The body mass index (BMI), or Quetelet index, is a heuristic proxy for human body fat based on an individual's weight and height. BMI does not actually measure the percentage of body fat. Body mass index is defined as the individual's body mass divided by the square of his or her height. This application helps you to keep a track of your BMI using weight and height as two inputs. You can use this value know your health status as per the BMI chart and consult your physician as necessary. keywords: bmi, health, health monitor, body mass index, height, weight",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1349284840659",
+        "starRating": "5",
+        "comment": "Simple & accurate...",
+        "commentId": "lg:AOqpTOHf0fBvtEKcaxuGSRw2pbbZgLnrwjnJbM4wG0sz5yfzLdRj3ZbZyQdaC6DodYnZ7HtrKxgQ30dTIogu9BQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

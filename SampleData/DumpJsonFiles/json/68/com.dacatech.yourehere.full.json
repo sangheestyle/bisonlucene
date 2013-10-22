@@ -1,0 +1,47 @@
+{
+  "title": "You're Here!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dacatech.yourehere.full",
+  "category": "Transportation",
+  "price": "$0.99",
+  "datePublished": "March 15, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "DACA Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dacatech.yourehere.full",
+  "extendedInfo": {
+    "installSize": "203k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "CHECK OUT THE ALL NEW VERSION WITH AN ALL NEW NAME!Now named YouRHereNew Name. New Look. New Features!**Download it today**https://play.google.com/store/apps/details?id=com.dacatech.yourhere.full(Note: YouRHere will not replace the previous application. You will have to manually uninstall Youâre Here!. Sorry for any inconvenience.)This is the (OLD) full version of You're Here! You're Here is a GPS based alarm that will alarm you at your destination. This is great for anyone who has slept through their stop or transfer on the train or bus. Choose from a variety of mass transit locations (ie Amtrak, LIRR, Caltrain etc.) or create your own custom location.This application is the (OLD) full version of You're Here! With added features such as:- Multiple Alarms- A Widget that allows you toggle an alarm on\\off from your home screen- Ability to select music from your phone as the sound to play when an alarm is triggeredIf you enjoy this app and find it useful please rate and comment on the Android Market.Please send your bugs and comments to: support@dacatech.comThe You're Here! Team is working on a major update to support train systems all over the world. We could use your help! If you know any of the languages below and want to help our small team please send us an email at contact@dacatech.comKoreanJapaneseGermanMandarin/TaiwaneseOver 1200 saved Mass Transit Locations from these providers:Amtrak NortheastAmtrak SouthBARTCaltrainCTALIRRMARCMBTA Subway & Commuter RailMetro NorthMetraMTA NYC SubwayNJTransitVRE",
+    "reviews": [
+      {
+        "timestampMsec": "1313954138348",
+        "starRating": "1",
+        "title": "Dont Download",
+        "comment": "It got the 1 star bc of the preloaded locations only none of which is mine. GPS does not pinpoint me on map. It Forcecloses.Wasted time.Just use HopSp",
+        "commentId": "lg:AOqpTOHda_uJ7frjxj2Dw2p7nEILGFu0il-wRXFMdUI9ciQ4VY1iDwCYRt5yV_JndEOxJVsA7LmqQHk77pdxfEw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

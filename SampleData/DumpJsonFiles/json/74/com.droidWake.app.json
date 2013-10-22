@@ -1,0 +1,199 @@
+{
+  "title": "droidWake",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidWake.app",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "November 21, 2008",
+  "version": "1.0.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "162",
+  "rating": "3.9506173",
+  "contentRating": "Not rated",
+  "creator": "Cory G",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidWake.app",
+  "extendedInfo": {
+    "installSize": "11k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "droidWake sends a 'Magic Packet' to the IP/MAC addresses that you specify in order to wake your computer from sleep. This code was written by Paul Mutton of http://www.jibble.org/, and I merely ported it to Android.For more information on 'Wake-On-Lan' technology vist http://en.wikipedia.org/wiki/Wake-on-LAN",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1265509756599",
+        "starRating": "4",
+        "comment": "The only wol that consistently worked with custom ports and non-ip hostname. Just needs profiles to be useful. I have 5 pc\\'s :-/",
+        "commentId": "lg:AOqpTOHRGc2u87h_ONScHHtE8lmSpcdverqEM1-ifGsHulPH_zvDXZT2eVQuXClEARjU879nQQu2Hu2G0yz28A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1282956178508",
+        "starRating": "3",
+        "comment": "Does what it said, but unable to save profiles. Use WOL instead.",
+        "commentId": "lg:AOqpTOFP_zX_fhnd9CGcUq5hjIdjjynFX6S0FAPaFfDLukvn_qyDvuPWfx-CIib7xLz0_AzZiSkzo_jFwmPapg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1235986545787",
+        "starRating": "5",
+        "comment": "Works if your system supports wake on lan with magic paket. Works really well.",
+        "commentId": "lg:AOqpTOEtOm2MiGzHiV_MBh_R1XqNr91DkWw_LOinR312BSkxnfp66-PfwN3f0qKGOX7-629eem3UZNViajXLbA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1280978576657",
+        "starRating": "4",
+        "comment": "Awesome! helped solve my problem with my remote pc.",
+        "commentId": "lg:AOqpTOHZgAJPjCa7_QA1j_-npg7jDvGJPKKo4-cvXgtuPBDdSMZTYsjiB3v7vF2dcLJyZXPHJQupozHVgCC4Ew",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1282679998679",
+        "starRating": "2",
+        "comment": "Doesnt save sent packets or profiles. I use \\'wake on lan\\' instead",
+        "commentId": "lg:AOqpTOEI9WTaKNuF6-cZd7GUTbNjE7oF496AtCPAWLs8oxdGUil84KLXwPwzliaHTg_MnfNol-NGega9BsYDpw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1254460160315",
+        "starRating": "3",
+        "comment": "You can wake more than one PC. Just send the packet to the broadcast address.",
+        "commentId": "lg:AOqpTOHDwsK2nT-xS_mpdtORscdrq44E4QB3sT_e8Vdgf57BI1y8q1HVgDJc_3-DPm8QrKF9_7JdkZCg8SS7xw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1238122999360",
+        "starRating": "5",
+        "comment": "Works, need to use dash instead of semi.  Port specification is extremely handy",
+        "commentId": "lg:AOqpTOFrDRQCUX4qjmdDsB-tnDwdKcfE1m4L6a-G1dEy4zEAmznwYu_BJgVe0_1sQnf3G2vF1uIJQU9JQw5bUw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1278391063251",
+        "starRating": "5",
+        "comment": "Awesome! This and VNC ftw. Please add profiles or a dropdowb for multiple addresses and this would be perfect!",
+        "commentId": "lg:AOqpTOEzsscAXHDZwcNMqyUm_wDCakTZG14ti-Xwmt96EI8R6rFhgZ8OluUuzrcj3M-j5UFvX3s-1XPHwM3iPA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1249367858323",
+        "starRating": "4",
+        "comment": "Nicer if more than one PC were an option",
+        "commentId": "lg:AOqpTOHpbPWFZ71p4NW-2D7JQedN3dys3uOvYzv3t6nrDzKeQvb8822bx_b9kAUFJu09grrvpYClWr-VuKZSaw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1282777985999",
+        "starRating": "3",
+        "comment": "Wol Wake on Lan Wan has profiles, sorry, bye!",
+        "commentId": "lg:AOqpTOHl0vji8-2pnmRDzcjsl07fbbYa073VxJJEbf4HgMdBViyH094SZFh0hDCNHpwRIzzfIyVAdNon6ES4dw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1238318083045",
+        "starRating": "4",
+        "comment": "It works great. Wake on LAN is just a bit picky when it comes to combinations of routers, mobos and ISPs.",
+        "commentId": "lg:AOqpTOH0EZcRV7R6p3nJO4JaghjSHtElTkPceBVw8OCfViujVhYGiqMDlriqYrhzu5FqKaNDG3Npqk7S2unTXw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1261651013032",
+        "starRating": "5",
+        "comment": "Awesome!",
+        "commentId": "lg:AOqpTOGqS8cmPNvFa6lj35r0O0qKvyQWTXIGtwckHdxm9wKWg069b3WtJp0uMajDpGv1ztVlb7izfgIMR6d5EQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1266188783754",
+        "starRating": "5",
+        "comment": "I love it. And yes profiles would be sweet",
+        "commentId": "lg:AOqpTOF9BkNtguWNFRYYm_rA_qSHWcdTgFXXNaA5BvONx1jZuCjB8hXd1J7nl-5OTjAht_xJghy1xQmBa38zRQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1245831303551",
+        "starRating": "5",
+        "comment": "Works great, easy to use.  Hint: Remember to use lower case letters for hex digits in mac address",
+        "commentId": "lg:AOqpTOHUG4FVEKyVJSWMZYJm_WexDXxnTRWLzEHCXuidkw89NHkFQ8R00_L6JVIMo-4wiuSUQHvCRT3yt4rRJg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1282612501017",
+        "starRating": "5",
+        "comment": "First wol app that always works.",
+        "commentId": "lg:AOqpTOH5TiHVZFfhDmTP7ctwo3-8qEDIVtcmnf7YZ0p3QRldZ-qqL-3zAkvEliZih4iUPrlsOhMZOpYqq5lriA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1270243380446",
+        "starRating": "4",
+        "comment": "Does as advertised, would love to save profiles.",
+        "commentId": "lg:AOqpTOGPtq6ilMt5QJOXPImkeYNt0tp8JgPrwZ3483XE3AyYffYOFTpITPDUwPW2GT_GXEFW4966B5FmEDm_gg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1236301842961",
+        "starRating": "5",
+        "comment": "Great idea, cant make it work though.",
+        "commentId": "lg:AOqpTOFv9w1eESK_zsZ1l45lOjpRy8N6XbB2zGdyxyjz1Lab4nkEd1FBAXzGNP-EBYODPldpH9zALqzQnNKdHg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1277700107645",
+        "starRating": "1",
+        "comment": "Peace of crap can\\'t send magic packet",
+        "commentId": "lg:AOqpTOEO7aTHZkD5NBjV2IeqPRe7FQbIu24SRpB_4hJ0LMoGPiEWuKCvZkRQSd4tTxjfgiFO1hW25hSTrg9a6w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1269580868739",
+        "starRating": "5",
+        "comment": "Does exactly what it says.",
+        "commentId": "lg:AOqpTOFTbD_tdd1la0tGztSTrtjJFmxJfnsIdMxfPP_gR_b4e8WLe7hhA34BbMyqKq_d_rCan-8YUQus5tTaKg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

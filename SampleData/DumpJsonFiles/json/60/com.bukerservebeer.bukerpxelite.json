@@ -1,0 +1,128 @@
+{
+  "title": "BukerPXE LITE-PXE Server :ROOT",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bukerservebeer.bukerpxelite",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 28, 2013",
+  "version": "1.3",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "17",
+  "rating": "4.2352943",
+  "contentRating": "Everyone",
+  "creator": "DHJB",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bukerservebeer.bukerpxelite",
+  "extendedInfo": {
+    "installSize": "8.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "ROOT REQUIRED - WILL NOT WORK IF NOT ROOTEDBukerPXE is a lightweight TFTP, FTP, HTTP, and proxyDHCP server suitable for hosting PXE payloads from your Android powered device over your local LAN using its built in WiFi adapter.Originally devised as a portable diagnostic toolkit capable of booting a non-functional workstation into various diagnostic environments, BukerPXE runs on your Android phone to listen for network boot requests from machines configured with PXE network boot capability. (the vast majority of computers have this available in their BIOSoptions).  The client computer then boots to display a simple menu consisting of various PXE payload options which can include diagnostic utilities, bootloaders, installers etc.BukerPXE works with your existing LAN infrastructure, the main requirement being that the client computer and the Android Wifi device be on the same LAN subnet.  The client computer typically plugs into the network via Ethernet cable, and your Android device connects via WiFi.  Using its built in proxyDHCP service, BukerPXE is designed to work  alongside the existing router or other DHCP server without modification.  This makes it easy to deploy and does not interfere with normal network traffic.The Lite version uses the TFTP protocal only to transport the payload to the target machine.  Payloads can easily be added or removed using conventional syslinux based text menus. The default Lite version comes with MemTest86 for RAM testing, NTPSSWD a password reset utility for editing/removing Windows user passwords on target Windows PC's, MHDD a hard drive testing and reporting utility, and HDT a hardware detection tool that enumerates the hardware installed on the target machine. These are included as simple examples of PXE network booting,demonstrates compatibility with your device and existing networks, and provides some usability straight out of the box even if you decide to not define your own payloads or move up to the full version of BukerPXE.The full version of BukerPXE allows many more larger and practical payloads as it leverages the iPXE protocol with the speed of FTP and HTTP transfers.",
+    "reviews": [
+      {
+        "timestampMsec": "1369793901486",
+        "starRating": "5",
+        "title": "Very cool",
+        "comment": "If you\\'re geeky enough to get it working you know how awesome it is. I have it configured to boot Puppy Linux and SpinRite. What a great app idea.",
+        "commentId": "gp:AOqpTOEIxIpcKDUZ8wXpBb2-BSj1d2ZRxYPfth7MVge6jndRxtIssBtKFVwfVtsBve0nMzxa9PtL9BTt3TR3s-Q",
+        "author": "Derek Truesdale",
+        "authorURL": "http://lh5.googleusercontent.com/-sVFuATVHd_Q/AAAAAAAAAAI/AAAAAAAAAf4/58_uiMmNeQE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-sVFuATVHd_Q/AAAAAAAAAAI/AAAAAAAAAf4/58_uiMmNeQE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363398586795",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "It is amazing to see your phone operating as a pxe server. Some documentation or ui to add other iso\\'s would be nice.",
+        "commentId": "gp:AOqpTOFJc598PVkv6B8fhekGS5Ln7sZSA8oI7xDlW14jauFAnu8Yc7FMuMkL3_IjoTj1pPq547dwEU7h2vL_yHM",
+        "author": "Kevin Swanson",
+        "authorURL": "http://lh6.googleusercontent.com/-QjMq4qX8gco/AAAAAAAAAAI/AAAAAAAABVA/uZfm8DFN8jU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-QjMq4qX8gco/AAAAAAAAAAI/AAAAAAAABVA/uZfm8DFN8jU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375368204136",
+        "starRating": "5",
+        "title": "Transfer speed quite slow",
+        "comment": "Easy to use and it works!, need frontend gui for editing the loader list, need faster transfer speed transfer speed capped at 90-100 KBps",
+        "commentId": "gp:AOqpTOGtTbejHS8G4Y4NCWSl4eTDJMuZc3e-JPNmnzYbWN81MHbOLgVQilAtvh7znZHCHR32CkIreedOyU-FtDg",
+        "author": "Michael Stellar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377493373833",
+        "starRating": "4",
+        "title": "Great, but...",
+        "comment": "Where is the full version?",
+        "commentId": "gp:AOqpTOH-kIeyak8mb-bY_Clh64huiIpMI26QiB0mhuXZ6RSbXvHUG2hgiT4hKObRMFkN8O3-ulTIfkKoELoTrv0",
+        "author": "Samuel Archer",
+        "authorURL": "http://lh5.googleusercontent.com/-oxm9Slf2R3U/AAAAAAAAAAI/AAAAAAAAAG0/OrECWSQVwN4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-oxm9Slf2R3U/AAAAAAAAAAI/AAAAAAAAAG0/OrECWSQVwN4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374615417927",
+        "starRating": "4",
+        "title": "Awesome!",
+        "comment": "This works very well on my Samsung Galaxy note 2 is very simple to use. I also added some more boot utilities to the menu. Hope to see an update soon with more features.",
+        "commentId": "gp:AOqpTOGtQ17g3WkxkCDJE9xk9rzKaxj660bWR8AnmNcfYA-7BWCGDFIuAILIH4kMkDMHFD9jxj5oCj8WYdbI-1s",
+        "author": "Eric C",
+        "authorURL": "http://lh6.googleusercontent.com/-4O1g2gndQBQ/AAAAAAAAAAI/AAAAAAAAAAA/9eajq_KrAC4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-4O1g2gndQBQ/AAAAAAAAAAI/AAAAAAAAAAA/9eajq_KrAC4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360813591396",
+        "starRating": "1",
+        "title": "Crashes",
+        "comment": "Never loads",
+        "commentId": "gp:AOqpTOGKog9xseOVwSQ0kRunHUa57DQpHc5vcNLfcBOS9pRySzQDoCPrFb3HkRQVA_qkBNfVmCacAGz7nVZ-S2g",
+        "author": "Morgan Runyon",
+        "authorURL": "http://lh6.googleusercontent.com/--MI7t4qpDYY/AAAAAAAAAAI/AAAAAAAAAFk/IwrljmVrW_U/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/--MI7t4qpDYY/AAAAAAAAAAI/AAAAAAAAAFk/IwrljmVrW_U/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359414920930",
+        "starRating": "5",
+        "title": "Requires Root",
+        "comment": "This application requires root to function. Worked great once was on a rooted phone. Did a windows password reset and a memory test. It worked well out of the box. However it does nothing at all if on a non-rooted device.",
+        "commentId": "gp:AOqpTOHT_Y4GQ_IaHtCTL7zkhGArCpkXpXWhEa8FnYlFk84n17OiNh6n2RcyMSlsVYu_YhmSxhTAV81A7VnABvw",
+        "author": "David Honsvick",
+        "authorURL": "http://lh6.googleusercontent.com/-p-Lje1xa1HA/AAAAAAAAAAI/AAAAAAAACM0/XL9Zc7cDTeE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-p-Lje1xa1HA/AAAAAAAAAAI/AAAAAAAACM0/XL9Zc7cDTeE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365849607845",
+        "starRating": "2",
+        "title": "This doesn\\'t work on Xperia Play R800a",
+        "comment": "This is not a problem with root as I checked if it works with a terminal emulator and within adb shell, the program just stop when I try to run the server. It doesn\\'t even have the full version to give it another try. The idea is behind this is good but the developer doesn\\'t seems to care about documentation. The only way we can do something is searching for the config files from the app itself. Anyway thanks for this approach",
+        "commentId": "gp:AOqpTOGRq6m3NSb7x41Nfb8C45uFJ2HaqORSXeQfjV4I294iaxZdLqRL8wRZNu6banBZ7rFLkeDoCxxtEbq8wdo",
+        "author": "Ismael Josue Segui",
+        "authorURL": "http://lh5.googleusercontent.com/-IIVp8B9Bwu4/AAAAAAAAAAI/AAAAAAAAAC4/ZtKu1SXZPew/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-IIVp8B9Bwu4/AAAAAAAAAAI/AAAAAAAAAC4/ZtKu1SXZPew/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362492913238",
+        "starRating": "5",
+        "title": "Worked great",
+        "comment": "Used it to boot up Tiny Core Linux over my home network.  Dropped an iso image of Linux into tftp boot dir on phone, edited boot menu to use memdisk to boot iso.",
+        "commentId": "gp:AOqpTOEj1qSarmIK6Z10VfJ1GyxVIzVr_k-PHF-bhYUl_yrvnho4v0kmXimjYqfBTx8E-2TNHy5fAwD9C1VVf6c",
+        "author": "Eric Dunaway",
+        "authorURL": "http://lh5.googleusercontent.com/-K3VmZvVqjmA/AAAAAAAAAAI/AAAAAAAAARY/07IHEwDHMa8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-K3VmZvVqjmA/AAAAAAAAAAI/AAAAAAAAARY/07IHEwDHMa8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359394104823",
+        "starRating": "1",
+        "comment": "Useless",
+        "commentId": "gp:AOqpTOHGlkprg0jEn_nKlnM96d02FuTSHTzrX2FUZVB_ts18nLfZq9oYrdVLoSZzuYJbJq8ncvuFrmyka_aiuio",
+        "author": "Jimothy Tubalcain",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

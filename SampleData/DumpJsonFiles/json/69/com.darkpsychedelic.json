@@ -1,0 +1,35 @@
+{
+  "title": "Dark Psychedelic",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.darkpsychedelic",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "March 14, 2013",
+  "version": "0.1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "14",
+  "rating": "4.714286",
+  "contentRating": "Everyone",
+  "creator": "DarkPsychedelic.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.darkpsychedelic",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Darkpsyckedelic.com is a free online radio that streams psychedelic music. With this application you will be able to listen to the radio everywhere!It has has a simple and intuitive interface, works fast and smooth and has NO adds!The current channels available are:*Dark Psychedelic : darkpsy, hightech, psycore, and more. Higher tempo for a non-stop night*Dark Forest : dig into a deep dark forest, and feel the organic psychedelia in your mind*Dark Ambient : solitude, melancholy, confinement, and isolation in a dark remote placeThe application is currently available in English, French, Spanish and Russian (automatically detected and configured).Your comments are always welcome!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

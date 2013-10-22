@@ -1,0 +1,36 @@
+{
+  "title": "XNET Viewer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cnbtec.xnetviewer",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "March 17, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "27",
+  "rating": "3.9629629",
+  "contentRating": "High Maturity",
+  "creator": "CNB Technology Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cnbtec.xnetviewer",
+  "extendedInfo": {
+    "installSize": "208k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "- Supported for M-JPEG CNB IP Cameras and webcams all major venders.- Supported for up to 16 cameras simultaneously- Multiple camera view mode.- Control Pan/Tilt/Zoom/Preset cameras.- Supported image rotation.- Snapshot to SD card.(path : /sdcard/XNet)- kept on-screen of android phone.",
+    "reviews": [
+      {
+        "timestampMsec": "1313798854353",
+        "starRating": "1",
+        "comment": "Does not work on my cnb ip cam, no response from author!!",
+        "commentId": "lg:AOqpTOF3Rv-pgws2BXfvsJvIq9Vr8WQo3Kc5EA_06vCXBaiz1Rd9t1B3EtVQTWaSMwXesTPBc6_IlWv8CNUE4zU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

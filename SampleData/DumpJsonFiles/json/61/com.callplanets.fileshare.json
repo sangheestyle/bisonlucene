@@ -1,0 +1,39 @@
+{
+  "title": "Free File Share",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.callplanets.fileshare",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 23, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Appmedia",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.callplanets.fileshare",
+  "extendedInfo": {
+    "installSize": "361k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "File Share with an intuitive UI, features rich, sophisticated & free.You can transfers files between desktop computer and phone over ip address network.File Share allows you to share files on your Android phone with any device capable of browsing web pages and downloading content.Supporting Features for file share:â¢ SHARE CONTACTS: Share your contact info; connect on Facebook, Twitter, and LinkedIn â¢ SHARE PHOTOS: Share photos and videos with friends and family â¢ SHARE FILES: Share files or documents stored on your device â¢ SYNC DEVICES: Move contacts, photos, and files between your devices â¢ SHARE MP3: Share MP3 files & moreâ¦â¦â¦â¦â¦â¦..You can create a password also for  secret files.File Share is an ultimate app for transfering  your files ,images, vedios & mp3 files.Tags: share image,share file,share vedio,free share files,share MP3 files,share secure files",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

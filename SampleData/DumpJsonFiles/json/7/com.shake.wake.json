@@ -1,0 +1,53 @@
+{
+  "title": "Shake Clock",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.shake.wake",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 20, 2012",
+  "version": "1.1.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "28",
+  "rating": "3.642857",
+  "contentRating": "Everyone",
+  "creator": "Android developer",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.shake.wake",
+  "extendedInfo": {
+    "installSize": "315k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Shake Clock is a very interesting app. When you use it, you absolutely can not rely on  to stop it by the alarm button, you can  stop the alarm only shake it,  when you finishe shake, you're Already wake up.After you have Shake  Clock,  you no longer have to sleep late .Open the application, you can choose to add the voice sounded the alarm, you can also set the intensity and frequency of shaking, if you are a man that  return to sleep, then you'd better tune is the most vigorous and most times.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1344181310327",
+        "starRating": "3",
+        "title": "Nice!",
+        "comment": "Great! Wakes me everytime. Fade in sound would be nice. Can\\'t choose ring tone.",
+        "commentId": "lg:AOqpTOG8d-geaV9M8j2xX3f_jnMAUsKzTC82yMULdol2emYwX9HG51RnWEYbUcgsj_YSsTkD4dPdPQdcpd62sss",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1328157075438",
+        "starRating": "1",
+        "title": "Sucks.",
+        "comment": "Still doesn\\'t work on my nexus s",
+        "commentId": "lg:AOqpTOFNwsMlWs4OPNDvLwMP356I-eJQiNVVjGCCJ8fzeJ7dOf2dyqEuirkX0tlybg5QSk4iEUfNzOm0beQlG8U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.INTERNET",
+      "android.permission.ACESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

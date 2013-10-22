@@ -1,0 +1,46 @@
+{
+  "title": "Eastern Creek Public School",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.easternckps.com",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 4, 2013",
+  "version": "2.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Arinum Solutions Pty. Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.easternckps.com",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Welcome to the Eastern Creek Public School App.This App has 4 core functionalities.1. Active Academic & Activities Calendar. The calendar functionality of the App has all the events of the school broken down by grades and terms. The App allows the user to view and be reminded of any event on the school calendar. It also allows the user to customise the content of the App based on the grade their child is in.2. Instant Push Notifications. This is an amazing feature which will allow the school to push notices or urgent messages to users. These notices can be completely customised, for example, parent-teacher meeting reminders, reminders to a specific class to be somewhere at a certain time, reminder to fill out an authority letter for excursions, a note to advise that the school has sent a donation collection chocolate box, etc.3. Photo Gallery. This is the most fun part of the App where photos from all school events are published instantly and the users can share these photos with family and friends straight from their personal mobile device or just save these memorable photos on their device. This module allows the users to see photos from the grade of their child or all photos of the school. The photos are categorised by date and events into albums.4.News: This is the best way to distribute important newsletter and news items to the community. Accessible almost in every part of the world, it reduces paper usage, carbon footprint and there's nothing extra to carry.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1375492273789",
+        "starRating": "5",
+        "title": "School",
+        "comment": "Hello everyone I am mony from 34L",
+        "commentId": "gp:AOqpTOH-LmlzVCAZJYWTR0fDGpsVbfuSJ5I8OEDLfulOsYd3qypXhef-cFmy-aoO3x2TvsaHipwsdgHcjhKwFQ",
+        "author": "Mony Almosewy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.easternckps.com.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "com.android.email.permission.ACCESS_PROVIDER",
+      "com.android.email.permission.READ_ATTACHMENT",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

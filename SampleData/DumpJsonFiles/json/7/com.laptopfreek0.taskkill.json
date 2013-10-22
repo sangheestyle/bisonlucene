@@ -1,0 +1,226 @@
+{
+  "title": "TaskKill Tasker Plugin [Root]",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.laptopfreek0.taskkill",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 19, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "44",
+  "rating": "4.568182",
+  "contentRating": "Everyone",
+  "creator": "laptopfreek0",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.laptopfreek0.taskkill",
+  "extendedInfo": {
+    "installSize": "41k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Taskkill is a taskkiller plugin for Locale/Tasker that allows you automate killing a specific app. TaskKill does not operate on its own, and requires either Tasker, or LocaleTaskkill does not specifically require root, but it is recommended.The following options are * Simple: (Does not need root) Asks the target app to quit. Does not force the matter at all.* Advanced: (Requires Root) Kills the PID of the target app. Apps with background processes may startup again.* Extreme: (Requires Root And ICS+) Recommended method. This kills the target app using the same method as going to the app under settings and clicking \"Force Close\"* Hardcore: (Requires Root) Only use as a last resort. This kills the target app by disabling its package and re-enabling it.**WARNING Hardcore may remove shortcuts from the homescreen.Thanks to daweefolk & unkmar for testing.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1374299547428",
+        "starRating": "5",
+        "title": "Samsung tab 2",
+        "comment": "Exactly what i needed, app works great and as expected.",
+        "commentId": "gp:AOqpTOE909REk7KVH_IwwdhVhxOn9Yp1VP05v41ndQXLSuIkFRnBC_JA5w_DgFMPmoyJVN1Vbd3XsXkMetk",
+        "author": "Chandrahas Koyari",
+        "authorURL": "http://lh6.googleusercontent.com/-WhSM1chbHA4/AAAAAAAAAAI/AAAAAAAA6yQ/djogvVMHoUI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-WhSM1chbHA4/AAAAAAAAAAI/AAAAAAAA6yQ/djogvVMHoUI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1372283209362",
+        "starRating": "2",
+        "title": "I can\\'t find it in Tasker",
+        "comment": "Probably doing something wrong, but I can\\'t find it in Tasker!",
+        "commentId": "gp:AOqpTOFFg8eqMqYBaT7g122kC2YcnVOuvBij40_qchgXo67kUrJ16zoMeeBSRV7TO37xGj0Ccz4rVBlb38c",
+        "author": "Send Bas",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367631899318",
+        "starRating": "5",
+        "title": "Works well",
+        "comment": "I\\'ve only used it for one process so far, but it worked perfectly and easily.   For anyone that has installed this and wonder where it is, It adds itself to the \\\"Plugin\\\" section of the Action Categories.",
+        "commentId": "gp:AOqpTOFTPRxnbB6q6EHKJuDkYOX_43l81zwUCe_dz95Ht6BM2aTsGBazn-kv4frncAIgPV7B5MgrP_CL22s",
+        "author": "Ashley Waugh",
+        "authorURL": "http://lh5.googleusercontent.com/-b4IN9ta5LDo/AAAAAAAAAAI/AAAAAAAAqXo/_ib4R0F6zmg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-b4IN9ta5LDo/AAAAAAAAAAI/AAAAAAAAqXo/_ib4R0F6zmg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364907226650",
+        "starRating": "4",
+        "title": "Nice app",
+        "comment": "Very nice app indeed, but can\\'t choose \\\"Extreme mode\\\" because the \\\"apply\\\" button gets below the lower border of the screen on my Galaxy Mini. Please fix!!!",
+        "commentId": "gp:AOqpTOFVGJM5jwVrGRyYUbRIsSFJjKwtwJDBrZttcVQ-8QnmTljYmLITJdrX5SoMDE0ESdFue4GD89_Q3Zo",
+        "author": "Anton Borodko",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361264464534",
+        "starRating": "5",
+        "title": "Essential Tasker plugin",
+        "comment": "Spent an inordinate amount of time trying to get Tasker to kill certain apps but to no avail, and just when I was about to give up I stumbled upon this plugin. Kills all apps, no surrender!",
+        "commentId": "gp:AOqpTOFJ6OMhm3tfez4Em_08U3w2-9buayOfZaQ6pVfLvOI92uUJrkjC9UsfOp_5ogcn3DOTFHn-3QJrAdc",
+        "author": "Dan Cross",
+        "authorURL": "http://lh4.googleusercontent.com/-Y-Rby3U38cI/AAAAAAAAAAI/AAAAAAAAEvI/5gYqZ_iyu4s/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Y-Rby3U38cI/AAAAAAAAAAI/AAAAAAAAEvI/5gYqZ_iyu4s/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371486235919",
+        "starRating": "4",
+        "title": "Only the \\\"SIMPLE\\\" option is available",
+        "comment": "Can only use the simple option.. please help!!  no choice for advanced or extreme in the dropdown!!!",
+        "commentId": "gp:AOqpTOFkpE-WbeYZzyKpuifbHMCdAIXuLf0zmKih4TCoUofXFlH8gWLv4a1kyeU8se-tjaVhXgs-uBR_o04",
+        "author": "kendall barwick",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357150201275",
+        "starRating": "5",
+        "title": "Works brilliantly!",
+        "comment": "I have been searching and searching and trying all types of scripting methods to kill Waze via Tasker with no success.  Installed this, and immediately it worked!  I didn\\'t even need to use the most aggressive setting!  Well done, I say!",
+        "commentId": "gp:AOqpTOHqni5IdUl9jW54aKogtgcz1dzgp7z-dWviQs5npeFwzesIwVGb9OXx1QseRdfxHT8ZDCrmCkSv3jQ",
+        "author": "J Womack",
+        "authorURL": "http://lh5.googleusercontent.com/-fOgwNOPHbzw/AAAAAAAAAAI/AAAAAAAADe8/0tkPsfAgPyg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-fOgwNOPHbzw/AAAAAAAAAAI/AAAAAAAADe8/0tkPsfAgPyg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1361445883193",
+        "starRating": "5",
+        "title": "Oh my god!!!",
+        "comment": "I was pushed to write super long codes in order to close certain apps with tasker combining the root option and the regular one with some time the app even restarting after that but this is just IT!! It works so well, 1 line, 1 command and bye bye the app. Simply AWESOME!! Thank you so much for this app!",
+        "commentId": "gp:AOqpTOH6uqEZlEyvh8_v6P2gIKoCINPhBPFlLj3Haasf-IzdSzP04fWjdkaaICQg9eRvCam8XAxT-CZu0TM",
+        "author": "Remi Desroques",
+        "authorURL": "http://lh3.googleusercontent.com/-zY5nVhv2zUE/AAAAAAAAAAI/AAAAAAAAQaQ/kALtfCJGxjQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-zY5nVhv2zUE/AAAAAAAAAAI/AAAAAAAAQaQ/kALtfCJGxjQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360010034672",
+        "starRating": "5",
+        "title": "Works perfect",
+        "comment": "Looking for something like this for ages...now i can kill all those apps that start themselves, like facebook that start even there is no internet connection. Good work :)",
+        "commentId": "gp:AOqpTOFqI0KP2hGCY-uOydLoLXj3GIJk5SBInjjTL8nrLiZmbLx-sDr1WVImzv2Q0jSs_P5xqnn9p2suiBE",
+        "author": "Dragos Bajora",
+        "authorURL": "http://lh6.googleusercontent.com/-1jPWDW6W3X4/AAAAAAAAAAI/AAAAAAAAALM/eYQjzmpdU7c/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-1jPWDW6W3X4/AAAAAAAAAAI/AAAAAAAAALM/eYQjzmpdU7c/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366559268852",
+        "starRating": "5",
+        "title": "Brilliant.",
+        "comment": "So much easier and more effective than using taskers native task killing. Thank you :-)",
+        "commentId": "gp:AOqpTOFYQlqRvfofRfFw91ZtVq5TtbUEK8Gfp9AEVnHaFkwKusloOOyv-RpUhw0DszWjZUwvQAEakQWJvVk",
+        "author": "david hughes",
+        "authorURL": "http://lh5.googleusercontent.com/-f9o2PbqDaBE/AAAAAAAAAAI/AAAAAAAAAfU/J78RwaOqy1g/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-f9o2PbqDaBE/AAAAAAAAAAI/AAAAAAAAAfU/J78RwaOqy1g/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357599323383",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "Was struggling for hours trying to find a plugin that kills an app till I found this. Works as said :)",
+        "commentId": "gp:AOqpTOEGVugTEks4cEz4LjlAPd89rKpiwcToyn-JzMR883puOJTqBc7eD7TIXyl8S38SJ6APR5lMRL1QjRw",
+        "author": "Chun Yang",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371993053664",
+        "starRating": "5",
+        "title": "When you absolutely, positively,",
+        "comment": "Gotta kill an app :-) this does it easily.",
+        "commentId": "gp:AOqpTOFk5gVgjMDRYlSwH98Xbxdt-j6BoAZDQq186GstHJ4bRz2qk87tpvVSNAlQCtkcHxy5lkq0DZ-YPzA",
+        "author": "Walter Francis",
+        "authorURL": "http://lh4.googleusercontent.com/-XBoZWJkPvdk/AAAAAAAAAAI/AAAAAAAAAAA/bCYicN1d6fk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-XBoZWJkPvdk/AAAAAAAAAAI/AAAAAAAAAAA/bCYicN1d6fk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366900092744",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Taskers native kill app wasnt working for me on 4.1.2. Downloaded this and it works like a charm.  Great app and does exactly what it says. 5 stars!",
+        "commentId": "gp:AOqpTOEcxU7V5AgfWQrBYhZE8YZ8H3qnueyTiCFuAyOHdx479Xdt4-bexJCepPcJSKJETY1Bzmqj8b0RgF0",
+        "author": "Tom Kim",
+        "authorURL": "http://lh4.googleusercontent.com/-2XM0NduW8yY/AAAAAAAAAAI/AAAAAAAAD0A/TBpBZms7eDY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-2XM0NduW8yY/AAAAAAAAAAI/AAAAAAAAD0A/TBpBZms7eDY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1361712903057",
+        "starRating": "5",
+        "title": "Works",
+        "comment": "I use it with Tasker to automatically kill background processes after I finished using an app",
+        "commentId": "gp:AOqpTOHFkAKbmVpLKiVwoIexRlpKsVOZwN3G_a1FW2yYCWsVRGeUtveoarPYqiLadCNCYSIDRCGn_EvHvxE",
+        "author": "Jay Kennedy",
+        "authorURL": "http://lh6.googleusercontent.com/-PQ5A-Vit1bM/AAAAAAAAAAI/AAAAAAAABGM/nDiyVLVNGAg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-PQ5A-Vit1bM/AAAAAAAAAAI/AAAAAAAABGM/nDiyVLVNGAg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368870028522",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "A must for Tasker user.",
+        "commentId": "gp:AOqpTOEvxm3JWO91VSGULWvEbAwpGkJOt_LkaprV-FUAL9JUOH9gGgztEMoj-anZ-P7HIrxEUFD99EsyQ_Q",
+        "author": "mailmeup",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362949233798",
+        "starRating": "5",
+        "comment": "Excellent",
+        "commentId": "gp:AOqpTOFkU5zTbqwGTwbqsMR9RETk1OmdcTABF-Gwqt9ZSAt3_uJjJnl27Lgp3iY3cL5w1bjvWHVukSMtiDE",
+        "author": "Andrey Kostov",
+        "authorURL": "http://lh4.googleusercontent.com/--mxOcv8845w/AAAAAAAAAAI/AAAAAAAACCI/MYSizZts5c8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/--mxOcv8845w/AAAAAAAAAAI/AAAAAAAACCI/MYSizZts5c8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370131711026",
+        "starRating": "5",
+        "title": "Yes baby",
+        "comment": "Cool",
+        "commentId": "gp:AOqpTOH9YfxW3HjIt1BPkTrFX0hyNEqWNXR1qN8hFLcDHvPvvv50Hg6GoecVlVLThENnikJyen6CC74Dju8",
+        "author": "Juan Calderon",
+        "authorURL": "http://lh3.googleusercontent.com/-NB9TDUbaBz0/AAAAAAAAAAI/AAAAAAAABA4/7vLP4i9U8Vo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-NB9TDUbaBz0/AAAAAAAAAAI/AAAAAAAABA4/7vLP4i9U8Vo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364940886031",
+        "starRating": "5",
+        "title": "Great idea",
+        "comment": "You deserve half the Tasker cash for giving us back control of our phones from those pesky ram hogs!",
+        "commentId": "gp:AOqpTOHjKEUMsHAypZ1-RPGa7Yt6hzHOYldDkX1vqYwmUPAWlHirrMxjIR9yW7ubSfcwBPC7S2dD6ucvRpg",
+        "author": "Alexis Nealon",
+        "authorURL": "http://lh6.googleusercontent.com/-jcvlYCOdPLg/AAAAAAAAAAI/AAAAAAAADQk/_S6xpkkZfy0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-jcvlYCOdPLg/AAAAAAAAAAI/AAAAAAAADQk/_S6xpkkZfy0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1354818240671",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "It is an amazing app everyone should use",
+        "commentId": "gp:AOqpTOGtpbSFMYnTaLRXCIapbhSHengkMYwIo5gTqQokECI3jJYacrK1hwUp_DDyWznK98sDV6lRdZjl3Xk",
+        "author": "Anthony Hess",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368741252339",
+        "starRating": "5",
+        "title": "Magic",
+        "comment": "This app works perfectly!",
+        "commentId": "gp:AOqpTOH4b4V8SmOjb_BJib_TjQOAXujIk9wgIHp0Z-SRlsvblzDK-R7rXkl07ntntnhBCVwaEn4iwNNHRVg",
+        "author": "Fonte Clanton",
+        "authorURL": "http://lh4.googleusercontent.com/-u-WC65xMinw/AAAAAAAAAAI/AAAAAAAABVo/78BecvaTACM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-u-WC65xMinw/AAAAAAAAAAI/AAAAAAAABVo/78BecvaTACM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.KILL_BACKGROUND_PROCESSES"
+    ]
+  }
+}

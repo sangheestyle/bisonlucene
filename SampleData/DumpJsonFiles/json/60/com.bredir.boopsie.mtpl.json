@@ -1,0 +1,41 @@
+{
+  "title": "MTPL Mobil",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.mtpl",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 17, 2012",
+  "version": "4.5.79",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.mtpl",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Manheim Township Public Library is now available anywhere and anytime you need with MTPL Mobil! Access your library patron account to see items that are checked out, request or hold items, view your fines, search the catalog, discover programs and more directly from your web enabled mobile device.When searching the catalog thereâs no need to type in long words or phrases. The first few letters of a title or author give you results instantly so you can find an item fast.Use your GPS enabled device to find the library location, get directions, email, or call directly from within MTPL Mobil. Have a question about the library or a reference question you canât find an answer to? Use the âContact Usâ feature to get answers quickly!Read the latest MTPL news and see whatâs happening anytime and anywhere. Check out MTPL on facebook and Twitter and be even more connected with library happenings. Everyday MTPL is much more than books!",
+    "reviews": [
+      {
+        "documentVersion": "4.5.79",
+        "timestampMsec": "1339446508489",
+        "starRating": "5",
+        "title": "MTPL Rocks!",
+        "comment": "I love this. My library in my pocket. Five stars!",
+        "commentId": "lg:AOqpTOETJBltRpdlgQsTJbE5MF0_z34hc3f4Ia34yt1xa5DGHhYzUeU8b60KMRHVnAZR9zHi9p-KD06zssLKhQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

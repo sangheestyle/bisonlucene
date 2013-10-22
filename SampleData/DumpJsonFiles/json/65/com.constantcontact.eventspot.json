@@ -1,0 +1,61 @@
+{
+  "title": "EventSpot Check-In",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.constantcontact.eventspot",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "April 3, 2013",
+  "version": "2.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.6",
+  "contentRating": "Everyone",
+  "creator": "Constant Contact, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.constantcontact.eventspot",
+  "extendedInfo": {
+    "installSize": "3.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Super easy and useful attendance tracking for your Constant Contact EventSpot events! Event Check-In for Constant Contact EventSpotâ¢ provides quick access to events and registrants created using Constant Contact's EventSpot tool, as well as the ability to mark each event registrant as \"checked-in\" so you can quickly and easily get people through the door and keep an accurate attendee count. Features: â¢ Track and monitor registrations for your events. â¢ Easily confirm attendance and registration by first name, last name, and email address. â¢ \"Check-in\" your registrants and guests by name, ticket number or QR code scan and mark them as attendees. â¢ Browse the registrant list of future events (check-in available 24 hours from when the event occurs). A Constant Contact account with user name and password is required to use the EventSpot Check-In app. To sign up for a free 60-day trial, go to www.constantcontact.com.Any data collected by Constant Contact, Inc. by means of this mobile application will be used in accordance with the applicable provisions of our privacy statement, located at http://www.constantcontact.com/privacy_guarantee.jsp (the âPrivacy Statementâ). For purposes of the Privacy Statement, the mobile application is considered a Site, as such term is defined therein.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1378328504321",
+        "starRating": "3",
+        "title": "Needs work",
+        "comment": "There are 2 serious problems with the Android version of this app:  1) If you have more than 100 attendees, you won\\'t be able to find or scroll to all of them, 2) You can\\'t check in guests separately from the people who \\\"purchased\\\" the tickets.  For my 800 person conference in July, I had to scrounge up an iPad at the last minute to do check-ins with, and I had to use a paper printout in order to find people in the application.  Between not finding attendees because they were \\\"guests\\\", and not finding people because they weren\\'t giving me the exact name they registered under, it caused a lot of delays and stress.  I am hoping they can fix that Android bug, and give us more ways to look up folks before my conference next year!",
+        "commentId": "gp:AOqpTOFbldvJTez6NTJ1pu4WvWLCuLYXeHGjiuhMaeChtsmKmTKSmMG0fVVfbZ8DDSmiP_giOS5_Ma868NwXsA",
+        "author": "Merryl Gross",
+        "authorURL": "http://lh3.googleusercontent.com/-jZgZiSCdIzs/AAAAAAAAAAI/AAAAAAAAH78/mWsXjoH-t0s/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-jZgZiSCdIzs/AAAAAAAAAAI/AAAAAAAAH78/mWsXjoH-t0s/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1366834252049",
+        "starRating": "5",
+        "title": "Great tool if you use Constant Contact\\'s EventSpot",
+        "comment": "Works great and save a lot of check in time.",
+        "commentId": "gp:AOqpTOGJGpHKwJ2vH6S6Kpjndm5JTMdTjTF2o2mnygHl4JtT5E6J-frzp1i_OQAaBNA4a0iE0KD9PH1uF2TWsw",
+        "author": "Dave Armstrong",
+        "authorURL": "http://lh3.googleusercontent.com/-9MVBnCrSp_8/AAAAAAAAAAI/AAAAAAAAFvc/OCqwueBBD80/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-9MVBnCrSp_8/AAAAAAAAAAI/AAAAAAAAFvc/OCqwueBBD80/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1372133664887",
+        "starRating": "5",
+        "title": "Excellent Features",
+        "comment": "I look forward to seeing what new features they put out moving forward.",
+        "commentId": "gp:AOqpTOHsGFrZXIAWfOuAmSTO27MBUiCKBIsR3p3r037CBw3zeZT2Mpr_bkz2q2gPxRqTvFeJK4W6j1oXHzw-KQ",
+        "author": "Nick Galbraith",
+        "authorURL": "http://lh3.googleusercontent.com/-uRUCkQv7nP0/AAAAAAAAAAI/AAAAAAAAGRg/4EHPdJneL9U/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-uRUCkQv7nP0/AAAAAAAAAAI/AAAAAAAAGRg/4EHPdJneL9U/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

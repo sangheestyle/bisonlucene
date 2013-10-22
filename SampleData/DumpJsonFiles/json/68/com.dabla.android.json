@@ -1,0 +1,37 @@
+{
+  "title": "Dabla, group messaging ! BETA",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dabla.android",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 4, 2011",
+  "version": "1.05",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "7",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Dabla",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dabla.android",
+  "extendedInfo": {
+    "installSize": "1,005k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "/!\\ This is a BETA version of the app. Errors may occur. Please report any bug or suggestion. Do you have a hard time getting your friends together? Sick of the back and forth talk to get everyone agreed for a movie, a bar, a club..?Use Dabla to get your group of friends on a single conversation and going out together will be easier than ever!  Dabla is the group messaging app that will bring you and your friends together. Install the app and create group conversation by selecting your friends in your phone's address book. Participants who join the conversation will be able to send out messages to everyone at the same time! All you need is either their email address or their phone number to invite them. They don't need to be on dabla yet!Go on and create conversations with all your group of friends. You can even share pictures if you like!The application is available on Android or on any web browser (mobile or desktop) so you can chat together no matter where you are, whenever you want.Info ; The application won't send any text messages without asking. No extra charges, normal cost.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.dabla.android.permission.C2D_MESSAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CONTACTS",
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

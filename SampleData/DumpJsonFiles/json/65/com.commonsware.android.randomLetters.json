@@ -1,0 +1,30 @@
+{
+  "title": "Random Letters",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.commonsware.android.randomLetters",
+  "category": "Entertainment",
+  "price": "$0.99",
+  "datePublished": "November 2, 2010",
+  "version": "1.1",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Not rated",
+  "creator": "Cberndt",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.commonsware.android.randomLetters",
+  "extendedInfo": {
+    "installSize": "7.3k",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "Ever gotten so frustrated you ran out of words to say.  Ever hit that point where the only audible thing you can say is gibberish.  Well, how about some help with trying to find the right letters.  Hit the button and get a random stream of letters.  Not satisfied, just hit the button and try again till your satisfied.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

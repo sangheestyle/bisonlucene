@@ -1,0 +1,57 @@
+{
+  "title": "Gordilla Daily Deals",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eliasonmedia.gordilla",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "February 14, 2011",
+  "version": "1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Eliason Media",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eliasonmedia.gordilla",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "All the deals in one place right where you are.Gordy is here to serve you with the nearby daily deals from over 30+ providers. Simply pull up the Gordilla app to see what is nearby, view details and purchase directly from your mobile device",
+    "reviews": [
+      {
+        "timestampMsec": "1321161539272",
+        "starRating": "1",
+        "title": "Lame",
+        "comment": "Wont even open. I tried 6 times a keep getting an error message.",
+        "commentId": "lg:AOqpTOGfpbUJcWKCGfHzKxTJ7_dT_lWkrnGXxwzZre9_6Q93IsVcZ0J4quycazUnts5nGu6PdF2M9bsB5bGy8vM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1297785174311",
+        "starRating": "5",
+        "comment": "I use this app all the time. Very helpful way to sort through all the daily deal sites in one place",
+        "commentId": "lg:AOqpTOEkaA5FgTMrKXaQ1stmzRmlt_2DKZ7Vz_8tIC0PrxAmTjQuHMGz7-rLCTYpTwTKYphjFbnL6_OYJyOe6BQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1297796923958",
+        "starRating": "5",
+        "comment": "This saves me so much time by doing all the work for me.",
+        "commentId": "lg:AOqpTOGbCKxl3ySy_6-7eJq4A7XHsX6ig5tyVyt9xtNPFal1Rm5REeg05ywZldp3a1yq5WkE2OPr49_H9AC9mpQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

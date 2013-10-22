@@ -1,0 +1,45 @@
+{
+  "title": "biggs' proximity detector info",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.sleepfuriously.proximity",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 21, 2013",
+  "version": "0.90",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "scott biggs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.sleepfuriously.proximity",
+  "extendedInfo": {
+    "installSize": "19k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Does your cell phone have a proximity detector? --Wait, what IS a proximity detector? It's a piece of hardware that some phones use to know if it is next to your ear or not.Well this program can find that information for you! And wait, that's not all! You also get some MORE information, just 'cause I like the look of your jib.This app will tell you exactly what the hardware name of your detector is (if it has one, of course). And then...yes, it will tell you the distance(s) it operates.And now here's the best part: it will let you play with the proximity detector, showing exactly how far away your phone thinks it is from you ear (or hand, or whatever is hovering in front of the detector).And now here is *really* the best part: it's FREE!  Yep, totally free free free! And by free, I mean no charge, no advertisements, no nagging, no kidding!Why?  Well, why not?One little thing: this is version 0.90. I would love to hear how it works or doesn't work on all the various phones out there.  Since I make things for free, I can't afford to purchase all the different Android devices, post a review and let me know how it blows.",
+    "reviews": [
+      {
+        "timestampMsec": "1335937561380",
+        "starRating": "4",
+        "title": "Galaxy s2 skyrocket w/GP2A proximity sensor",
+        "comment": "This phone has a 5.0cm thresh hold. Non veritable. This app worked accurately each time I checked the distance. Now I can understand what my proximity talk app is responding to better. Thanks.",
+        "commentId": "lg:AOqpTOHRDPCLRVRUq7ZWni2jDm32rTG6Xeamx5RYwiTImbJV0S7d6C_-PmiVXLAAfhslR0yqIcW5Iszx7CsGL1Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341108792579",
+        "starRating": "5",
+        "title": "Simple works",
+        "comment": "I like no ads!",
+        "commentId": "lg:AOqpTOHnxPW5YpkbzKjFrFyV94SkWW5u3zkKwpvrxLIhLSA_XWfT7Sm2rwn3odju0nD8WfbISXFLg7LZFhKK3f4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

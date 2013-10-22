@@ -1,0 +1,46 @@
+{
+  "title": "Five Guys UK",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fiveguys.fiveguysuk",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "August 5, 2013",
+  "version": "1.1.5",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Five Guys JV Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fiveguys.fiveguysuk",
+  "extendedInfo": {
+    "installSize": "248k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Skip the line! Find the closest Five Guys Burgers & Fries restaurant, place your order, and pick up your food today.1) Launch the app and find your Five Guys.2) The first time you'll sign in or create a new account it links up with our online ordering site at http://www.fiveguys.co.uk3) Order your food - it will save it so you can re-order quickly for next time.4) Go pick it up! Skip the line and head straight to the order pickup counter at the store, tell them your name and get your food.",
+    "reviews": [
+      {
+        "timestampMsec": "1372975525032",
+        "starRating": "5",
+        "comment": "Love it, delighted you\\'re here!",
+        "commentId": "gp:AOqpTOGwHAV4CNPGWy5iD9sOeTfj6hZZlK7KBsShUfiCGucUAN4m0yGtkLSZIM47ziQ5QOipcVTBkDfmaITdoA",
+        "author": "David Poulton",
+        "authorURL": "http://lh6.googleusercontent.com/-ehQlbOfDjA0/AAAAAAAAAAI/AAAAAAAAPn8/ZwtVKdtyOWU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ehQlbOfDjA0/AAAAAAAAAAI/AAAAAAAAPn8/ZwtVKdtyOWU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372896408764",
+        "starRating": "5",
+        "title": "Great Idea",
+        "comment": "Look forward to ordering ahead whilst I work in town!",
+        "commentId": "gp:AOqpTOH5uj5o4WrTNCqjROgCQBr7VYODuDphz4omAIuGxgF5ErHCPZJjWqT6_F-SenwjGkO67yJWMrgcIPE3Iw",
+        "author": "Phil Bowman",
+        "authorURL": "http://lh4.googleusercontent.com/-h4pv3hwmz30/AAAAAAAAAAI/AAAAAAAAAL0/G0EVtRP9lX4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-h4pv3hwmz30/AAAAAAAAAAI/AAAAAAAAAL0/G0EVtRP9lX4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

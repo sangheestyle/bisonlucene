@@ -1,0 +1,44 @@
+{
+  "title": "Push Up Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fitkit.pushUpPro",
+  "category": "Health & Fitness",
+  "price": "$1.99",
+  "datePublished": "May 29, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "FitKit",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fitkit.pushUpPro",
+  "extendedInfo": {
+    "installSize": "22M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "âââââ The OFFICIAL Push Up Workout App. Featured on Appleâs âWhatâs Hotâ, Appleâs âNew & Noteworthyâ, \"BestAppsMarket.com\" and many more! âââââ \"Push up Pro will help you in meeting and exceeding your workout goals with itâs plethora of built in features.\" - Don WIlkins âââââ \"I love this app because it gives me an easy way to workout when I'm on the road. It's easy to use and allows me to have a workout plan despite my hectic work schedule.\" - Adam Easter âââââ \"What impressed me most is the easy and intuitive interface. I really recommend this app as it will keep you in good shape!\" - Betsy Smith Push Up Pro is the easiest upper body workout training app to help get you in better shape today. This program allows users to start building upper body strength and stamina with a variety of push up, pressup, and other exercises to target your upper body muscle groups. Whether you are a beginner or seasoned athlete, this app can help you get fit and stay strong. Follow along with the detailed instructions to learn perfect form and complete the workout challenges. After just 3 weeks of using this app, we guarantee that you will be fitter, stronger and healthier than you have ever been. Listen to your favorite music while you workout and follow the programâs convenient audio alerts. Along with voice/audio alerts and music controls on your headset, just press âstartâ, put your device somewhere nearby, and youâre ready to go. Alerts will tell you when to perform an exercise, rest, and when to give it your all. â Workouts for all fitness levels â Amazing visuals with step by step instructions â Listen to your own favorite music and playlists while you train â Easy and intuitive interface. Nothing to learn! â Convenient audio coach and alerts â Automatically tracks your history and progress Legal Disclaimer This app and any information given by it or by FitKit LLC are for educational purposes only. They are not intended nor implied to be a substitute for professional medical advice. You should always consult your healthcare provider before beginning any fitness program.",
+    "reviews": [
+      {
+        "timestampMsec": "1369280512100",
+        "starRating": "1",
+        "title": "Doesn\\'t open on my note 2 or galaxy s3",
+        "comment": "Force Closes. The app never starts. my screen just goes black for few seconds and then and error message comes up.",
+        "commentId": "gp:AOqpTOH6VeLLnaoagFhv5M6L_0wi6XSmZjd9EkTPCOz-grawVdV57Zbh4mgenH78gkObb6WIqwqyv0zxN4qurwY",
+        "author": "Chris LS Williams",
+        "authorURL": "http://lh5.googleusercontent.com/-KYHeRpXlcPs/AAAAAAAAAAI/AAAAAAAAACo/ihia89BNnGo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-KYHeRpXlcPs/AAAAAAAAAAI/AAAAAAAAACo/ihia89BNnGo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

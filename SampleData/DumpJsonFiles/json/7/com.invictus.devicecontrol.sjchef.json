@@ -1,0 +1,55 @@
+{
+  "title": "South Jersey Hot Chefs",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.invictus.devicecontrol.sjchef",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 30, 2011",
+  "version": "1.0.30",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "2.75",
+  "contentRating": "Low Maturity",
+  "creator": "Invictus Mobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.invictus.devicecontrol.sjchef",
+  "extendedInfo": {
+    "installSize": "730k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "South Jersey Independent Restaurant Association (SJIRA) members have joined forces to promote SJ Hot Chefs and let world know that South Jersey has officially become an outstanding dining destination. We are locally owned, independent restaurants that are chef driven by passionate culinary professionals dedicated to providing great food and great service. In almost all cases, you will find an owner present during your visit. We live here, and we are tied to our communities, and not to the shareholders of distant corporations located thousands of miles away.  Now SJIRA has made this mobile guide available to help dinners learn about our member restaurant and special events. In the near future we will be adding enhancements to make special offers available to you, our loyal customers. If you want help selecting the perfect establishment to celebrate your special occasion, this tool is intended to help you know a little more about each of our member restaurants.Select a South Jersey Independent Restaurant for dinner tonight and enjoy a special experience with us!Keywords: sjira sj hot chefs hotchefs restaurant week",
+    "reviews": [
+      {
+        "timestampMsec": "1371828067215",
+        "starRating": "2",
+        "title": "Very buggy",
+        "comment": "Good idea but needs work",
+        "commentId": "gp:AOqpTOHjyUa_BRtK7FmfqSHWU3pwPwaCnNooWs0ruMEvsSA5KXzyh1n-H0hocsnxWEvC5CeY7PQ8zIEv1iJghi4",
+        "author": "F. J. Borowsky",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361645038405",
+        "starRating": "1",
+        "title": "Buggy",
+        "comment": "Scrolling issues on galaxy note 2",
+        "commentId": "gp:AOqpTOFU0A4Q9lksb0PXvmbBVa8C9hsJ70tY1Bv8km21cBUhpgvS1UCTNonPnhdp-JGCH2PuPNo1AGEanI-Z70A",
+        "author": "Matthew Hibshman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "com.invictus.devicecontrol.sjchef.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

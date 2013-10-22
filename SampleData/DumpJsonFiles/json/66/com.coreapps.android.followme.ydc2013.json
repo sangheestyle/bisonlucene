@@ -1,0 +1,52 @@
+{
+  "title": "Yankee Dental Congress 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ydc2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "January 30, 2013",
+  "version": "4.1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ydc2013",
+  "extendedInfo": {
+    "installSize": "3.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Building Bridges is the theme of the 2013 Yankee Dental CongressÂ® (YDC), New Englandâs largest dental meeting, which will be held January 30 through February 3, 2013, at the Boston Convention and Exhibition Center (BCEC).YDC is the fifth largest dental meeting in the country and is sponsored by the Massachusetts Dental Society, in cooperation with the Connecticut, Maine, New Hampshire, Rhode Island, and Vermont dental associations. The 28,000-plus dental professionals who are expected to attend will discover YDC 2013 is filled with entertaining events, top-notch speakers, and more than 300 educational courses from which to choose.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.ydc2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

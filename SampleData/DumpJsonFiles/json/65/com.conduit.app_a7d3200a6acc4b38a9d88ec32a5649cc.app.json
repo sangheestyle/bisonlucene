@@ -1,0 +1,59 @@
+{
+  "title": "Capital Christian Center App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_a7d3200a6acc4b38a9d88ec32a5649cc.app",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 14, 2013",
+  "version": "1.21.73.1098",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Smooth Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_a7d3200a6acc4b38a9d88ec32a5649cc.app",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official Capital Christian Center application connects you to whatâs going on at CCC. Stay up-to-date on Pastor Dave Minton's recent messages, connect with us via Facebook, Twitter or Email. View creative videos from our media team and get on-the-go access to our latest news. Easily access our social media accounts, and general contact information. At Capital Christian Center, church is like home â filled with laughter, fun, and the family of God. We love meeting new people and in a church like ours, there are many wonderful people to get to know! As a church, we are driven by this vision: âTo Gather in the Unchurched, and Disciple Them Into Devoted Followers of Christ.â We would love to extend an invitation to you to join us at one of our services.Features Include: - Streaming Video - Streaming Audio - Updated Weekly - Push Notifications - Links & Resources - Latest News & Events - Easy access to our Twitter & Facebook pages",
+    "reviews": [
+      {
+        "timestampMsec": "1362882867729",
+        "starRating": "5",
+        "title": "Oh yes!",
+        "comment": "Helpful!!",
+        "commentId": "gp:AOqpTOE704hctvWTxABF0FakR3GAB8rZxuRzcaMJX3IDaaa-0a63PGWK9PZFHvEYM2BXVliThiqjlfloE3A5u8I",
+        "author": "Pat Hernandez",
+        "authorURL": "http://lh6.googleusercontent.com/-60pac98uJ9s/AAAAAAAAAAI/AAAAAAAAAFQ/QhxtO5ymtCQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-60pac98uJ9s/AAAAAAAAAAI/AAAAAAAAAFQ/QhxtO5ymtCQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366582693902",
+        "starRating": "5",
+        "title": "Tara1luv",
+        "comment": "Amazing! Love this app!",
+        "commentId": "gp:AOqpTOElr-OiVjqjSqaRO8DdxRshyXGC_C3noWvSYxRe178_ack1FdY2zPtHBDR6k59PPofhMbk777-ic7weXec",
+        "author": "Tara Nash-Malanitch",
+        "authorURL": "http://lh6.googleusercontent.com/-3gO-6fEc9Xc/AAAAAAAAAAI/AAAAAAAAADA/iNXP7E1AHQU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-3gO-6fEc9Xc/AAAAAAAAAAI/AAAAAAAAADA/iNXP7E1AHQU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_a7d3200a6acc4b38a9d88ec32a5649cc.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.conduit.app_a7d3200a6acc4b38a9d88ec32a5649cc.app.permission.RECEIVE_ADM_MESSAGE",
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

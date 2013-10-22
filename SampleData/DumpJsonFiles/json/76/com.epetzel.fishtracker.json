@@ -1,0 +1,48 @@
+{
+  "title": "Gone Fishing",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.epetzel.fishtracker",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 21, 2012",
+  "version": "2.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "18",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Eric Petzel",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.epetzel.fishtracker",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Gone Fishing is an application created to help fishermen share details about fish they have caught. The application allows you to view catches logged from all around the world. Fields supported: - Name & Description/Notes- Date and Time- Species- Air Temperature (set Celsius or Fahrenheit in preferences)- Water Temperature- Water Clarity (Muddy, Clear, etc.)- Attach a pictureFeel free to email me with any suggestions! Permissions Used: \tInternet - To download Google Map data\tAccess Fine Location - Access to GPS location\tRead-only access to phone state",
+    "reviews": [
+      {
+        "documentVersion": "1.0.02",
+        "timestampMsec": "1327040813595",
+        "starRating": "4",
+        "title": "Good one",
+        "comment": "Nice",
+        "commentId": "lg:AOqpTOFXaReyJUe6gFFAZ9v1gFmkaihIKOmexniGy_U34S6oMmsZ0DcU6L7mFv2Z-a0acV1de7-VWbfT2vST3g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1325207411101",
+        "starRating": "4",
+        "title": "Simple yet effective",
+        "comment": "A great tool. Doesn\\'t require registration. Easy to use.",
+        "commentId": "lg:AOqpTOG_6wRDZKIvQCT5M7jYM8ALtY0WmjgKYkvMv3v7fMrQ3B5EIYSwOmv2OuK0ctY1wWaAfQhVEtqIeIgoaw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "See App Permissions",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dot.tools.SeePermissions",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "October 27, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "9",
+  "rating": "1.3333334",
+  "contentRating": "Not rated",
+  "creator": "dot",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dot.tools.SeePermissions",
+  "extendedInfo": {
+    "installSize": "17k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This application queries and shows the Permissions required by the applications installed on your device.",
+    "reviews": [
+      {
+        "timestampMsec": "1288601474798",
+        "starRating": "1",
+        "comment": "Doesn\\'t work on Droid either.",
+        "commentId": "lg:AOqpTOG0C1R2uJRsoyhiHmPH8oxHFko7rq-7IQJWkMTCiOmFAXm1tRSRKLyjQv3AUj-mfwwF5CX9pXQCSlzBDQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1288216344004",
+        "starRating": "1",
+        "comment": "Doesn\\'t seem to be working on galaxy s",
+        "commentId": "lg:AOqpTOGt4VmiHDCxMMqoBvKpu2Am3jt-8j7kvVsuNw5pphHyeTcB14ztgVaMQ6PzeINsAwM-i3lCoYwrq2zOEQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1290104783021",
+        "starRating": "1",
+        "comment": "Doesn\\'t work on N1",
+        "commentId": "lg:AOqpTOHBE43grtwnE6Ulssc7TsRiu9MDlmA0wEw4tHe-ug-G29bpbI6CGTzkNV0BV1NHfVKMd2Z-x8_jPC4uPw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

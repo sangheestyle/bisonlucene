@@ -1,0 +1,37 @@
+{
+  "title": "Stock Alert Lite (Stock Alarm)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dewgrouplite",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "February 21, 2013",
+  "version": "2.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "3.5555556",
+  "contentRating": "Low Maturity",
+  "creator": "Dew Group Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dewgrouplite",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Recently, Hong Kong stock markets fluctuated considerably. . Price increases or decreases are difficult to predictThat's it. . Missed market opportunities. . Did you regret?This App help you achieve free SMS stock price triggerWhen Stock price reachedit will notify and alert you via text messages (SMS) while you are enjoying a big meal,as long as it connect to the internet!ãAs many as 15 Price Alert OptionsãPrices rosed by / dropped byP/E ratio reachedYield ratio reachedhas reached over / drop below 10 Day SMAhas reached over / drop below 20 Day SMAhas reached over / drop below 50 Day SMAhas reached over / drop below 52 Week High / Lowhas reached over / drop below 1  Month High / LowMy stock has Gain / LossãPro Version can alert 10 stocks in a time!ããPro Version can alert HSI index!ããPro Version can alert via 3G network around the world!ãNoteï¼ This app will take good effect during market opensFeatures:1  \"Three stocks quote in a time\"2. \"Over 20 Hong Kong stock information provided with the Hang Seng China Index, ease of operation!\"3. \"SMS Stock remind, with memo function! '4. \"Including stocks portfolio, profit / loss at a glance! '5. \"Free Unlimited SMS sent! * \"6. \"The App updated frequently!\"* SMS services via their own mobile phone as sender. The sending costs in the same network is not guaranteed to be completely free. Please check out by users.Disclaimer:All calculations and data of the application is not guaranteed to be absolutely correct, may occur in time delay and does not contain any investment advice, all acts by the user decide, the user is responsible for all risk.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.SEND_SMS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

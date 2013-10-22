@@ -1,0 +1,59 @@
+{
+  "title": "Franklin College Switzerland",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evertrue.fc",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 5, 2013",
+  "version": "2.3.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Medium Maturity",
+  "creator": "EverTrue",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evertrue.fc",
+  "extendedInfo": {
+    "installSize": "6.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official Franklin College Switzerland app.  Securely network and connect with the Franklin College Switzerland community around the world.  Includes a directory integrated with LinkedIn, maps, photos and more! Powered by EverTrue.Franklin College Switzerland, FC, evertrue, alumni, alum, community",
+    "reviews": [
+      {
+        "documentVersion": "3.0.1",
+        "timestampMsec": "1371495079676",
+        "starRating": "5",
+        "comment": "Great App!",
+        "commentId": "gp:AOqpTOHe74GEXTZ2h5vGaq2NEmshT1wmwLtyG9ypk1mSPfTukAU0Fa650-BmGuPy9M5uBY1q1EBsFPdXaVNRh6U",
+        "author": "Robb Hawkins",
+        "authorURL": "http://lh5.googleusercontent.com/-W8EW4e_2anc/AAAAAAAAAAI/AAAAAAAABHo/Grk4aw2JGGM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-W8EW4e_2anc/AAAAAAAAAAI/AAAAAAAABHo/Grk4aw2JGGM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371494262679",
+        "starRating": "5",
+        "title": "Great effort",
+        "comment": "Will donate..",
+        "commentId": "gp:AOqpTOEougjPBQ8QdN8Ldolkx4VFGnpraZ-LfMD0WWG3ZYFQAHEd5sLbRX7SWj_tvORcG-xsoWTTElPpWddE30E",
+        "author": "Magid Shembesh",
+        "authorURL": "http://lh4.googleusercontent.com/-yfStFcdSkNw/AAAAAAAAAAI/AAAAAAAACaA/vLrEdt0At7Q/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-yfStFcdSkNw/AAAAAAAAAAI/AAAAAAAACaA/vLrEdt0At7Q/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.evertrue.evertrue.permission.C2D_MESSAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Random Name Generator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.commonsware.android.RNG",
+  "category": "Entertainment",
+  "price": "$0.99",
+  "datePublished": "November 7, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Not rated",
+  "creator": "Cberndt",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.commonsware.android.RNG",
+  "extendedInfo": {
+    "installSize": "10.0k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Have you ever been writing a story or creating a character for a game and been unable to come up with a name?  Well, just push the button and you'll get a randomly generated name to get you started.  Don't like, just press the button again and get a new one.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

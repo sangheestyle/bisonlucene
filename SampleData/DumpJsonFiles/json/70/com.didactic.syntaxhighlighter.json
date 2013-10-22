@@ -1,0 +1,67 @@
+{
+  "title": "DeuterIDE - Compiler and IDE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.didactic.syntaxhighlighter",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 15, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "10",
+  "rating": "3.6",
+  "contentRating": "Everyone",
+  "creator": "Didactic Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.didactic.syntaxhighlighter",
+  "extendedInfo": {
+    "installSize": "200k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Minimal implementation of a syntax highlighting code editor for Android. Developed as the basis of version 2.0 of DeuterIDE, available on Google Play: https://play.google.com/store/apps/details?id=com.didactic.DeuterIDEDeuterium Editor features:- extensible native syntax highlighting for some of the most popular programming languages- smart indentation- bracket/brace/parenthesis matching- gutter and logical line number detectionDeuterIDE features the above, cloud compilation, many more languages, custom theming, virtual keys, social sharing, and more.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1372411833067",
+        "starRating": "3",
+        "title": "very good but...",
+        "comment": "It is the most useful code editor among the free apps but a code editor without a monospace font is just oxymoronic.",
+        "commentId": "gp:AOqpTOHwHjEm62ivpfrvfDZPwnAfQZpDm8UMQnGu1iZHlNucNPdKi-p2HZiinkJIaXH85Uf7wvCEncbGX8wpiw",
+        "author": "Can B\\303\\274lb\\303\\274l",
+        "authorURL": "http://lh4.googleusercontent.com/-FWor6cqid4k/AAAAAAAAAAI/AAAAAAAAAJk/lbQ77qidkYA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-FWor6cqid4k/AAAAAAAAAAI/AAAAAAAAAJk/lbQ77qidkYA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1364431444616",
+        "starRating": "5",
+        "title": "I need to get full version",
+        "comment": "I love the app but I need get full version so I can program instead of just write",
+        "commentId": "gp:AOqpTOFXJQHdyRgyYoYZdCEamkU0w8VGdS0LK_ceild76l6o-B98ku6GhAauZ4HqmQEZAss9N60oaA69aRGQ6Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363371630003",
+        "starRating": "1",
+        "title": "Crazy slow",
+        "comment": "Crazy, unusable slow and can do nothing. If it\\'s a demo of DeuterIDE - it\\'s the bad, ugly demo.",
+        "commentId": "gp:AOqpTOFZGLBJCaLHPdeocLEWOI2SddMu990tGtImjQ_NVJD4kTGlj8vJzrnpg9NwOx6vVzo4QxfgcWoWM9zORA",
+        "author": "Eugene Budnikov",
+        "authorURL": "http://lh6.googleusercontent.com/-2is-7piLQH4/AAAAAAAAAAI/AAAAAAAAAB4/cBArGVP2QlQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-2is-7piLQH4/AAAAAAAAAAI/AAAAAAAAAB4/cBArGVP2QlQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362461609391",
+        "starRating": "5",
+        "title": "Nice editor.",
+        "comment": "Best syntax highlighter on Google Play at the moment. I\\'m excited to see how DeuterIDE 2.0 will be.",
+        "commentId": "gp:AOqpTOFqDV-GMP4UPY6G8_S3vytKX5SuGmOOFiQit6QxM66hNHRpztyMuKWEpZcMuSC8oEk4BWr8P6Swzoevmg",
+        "author": "An dy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

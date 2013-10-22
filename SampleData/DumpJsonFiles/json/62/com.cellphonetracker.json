@@ -1,0 +1,70 @@
+{
+  "title": "Cell Phone Tracker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cellphonetracker",
+  "category": "Entertainment",
+  "price": "$0.99",
+  "datePublished": "March 16, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "17",
+  "rating": "3.1764705",
+  "contentRating": "Low Maturity",
+  "creator": "Behemus LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cellphonetracker",
+  "extendedInfo": {
+    "installSize": "472k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "**NOTE: THIS IS A JOKE APP. PLEASE DON'T TAKE IT SERIOUSLY**Cell Phone Tracker is a gag app that can be used to play a trick on your friends.To use, type in a phone number of the person standing next to you, and the app will \"track\" their location and slowly zoom in onto where you (and your friend) are standing.",
+    "reviews": [
+      {
+        "timestampMsec": "1319934195306",
+        "starRating": "5",
+        "title": "april fools joke at best",
+        "comment": "not bad, got a couple laughs does what it says - make sure you\\'re standing some where your phone can actually find your location",
+        "commentId": "lg:AOqpTOGxJMO4yhWxxlNHRLf83k1Lmjlcr73fr5Fi_tLzXYfIifU-ORQ31Gi9ouXEM8Ze1-pG3vHYS5C0E8qxXQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1309245321845",
+        "starRating": "5",
+        "comment": "This app gets me laid everytime.",
+        "commentId": "lg:AOqpTOFMFp-CEx_h2Lfs6_6zen5qgo4fdMVQt2kokxypyEd3ZpZtHk1jKkLFECF_9oivGlLGI_scqwqArUZqMA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1312977728568",
+        "starRating": "1",
+        "comment": "It\\'s crap, not accurate",
+        "commentId": "lg:AOqpTOFltTeTQq6G5CX1jr21JxgM39e7_Fj2oPOf1mJCgJaowyrRUA0MVmw9PYbRiatyigrVHpAfZ93hQW-HBA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363627545462",
+        "starRating": "2",
+        "title": "Pam",
+        "comment": "I don\\'t like it it keep saying every person am looking for in the same direction not good. .",
+        "commentId": "gp:AOqpTOFVfCo8uMreR3-RT2OPMk68M5uzJaniA5kFzCkqT4hrFB-2loqw6xK3ZAQ6f84C2EqhSzjqcG0PLY_7Vg",
+        "author": "Pamela Morris",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

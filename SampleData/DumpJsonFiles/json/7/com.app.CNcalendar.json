@@ -1,0 +1,39 @@
+{
+  "title": "China Calendar 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.app.CNcalendar",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "February 17, 2013",
+  "version": "1.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "9",
+  "rating": "4.4444447",
+  "contentRating": "Everyone",
+  "creator": "JHAM",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.app.CNcalendar",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Fun and useful voice-event calendar with year and month view, public holidays, widget, voice recording for events (normal and funny voice), event alert, send/receive funny pictures with message, SMS scheduler, Lunar Calendar and a fun game. Support English, Traditional Chinese and Simplified Chinese.We use Airpush Notification Ad. Ad will sometimes appear in the notification bar.TAG: Chinese Calendar, China Calendar, CN Calendar",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.PLAY_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

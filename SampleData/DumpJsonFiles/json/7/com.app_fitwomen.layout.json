@@ -1,0 +1,39 @@
+{
+  "title": "Fat Blasting Fitness",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.app_fitwomen.layout",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "October 31, 2012",
+  "version": "1.399",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Client App Builder",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.app_fitwomen.layout",
+  "extendedInfo": {
+    "installSize": "3.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "We are the only training program in Charleston that caters only to women. That doesnât mean we will never include men, but we focus on women for a reason.Women have a rough history with fitness. Because of social and media pressure, women have been pushed far from the types of training and eating that actually produce results. Itâs unfortunate that these stereotypes regarding fitness, weight loss, and nutrition with women still exist.Thatâs why we FOCUS on women only.With our app, you can...- View all our locations- Read our Blog- See all the events going on- Chat it up on our Fan Wall- Snap a picture working out- And so much more...",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.app_fitwomen.layout.permission.C2D_MESSAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

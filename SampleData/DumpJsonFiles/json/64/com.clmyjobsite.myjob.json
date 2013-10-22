@@ -1,0 +1,56 @@
+{
+  "title": "Malaysia Job Sites",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clmyjobsite.myjob",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "April 2, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Low Maturity",
+  "creator": "Angelina",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clmyjobsite.myjob",
+  "extendedInfo": {
+    "installSize": "4.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "If you are looking for jobs whether part time or full time, this app is for you.Find Job in Malaysia. This app consolidated all employment agencies with daily update of listing for Malaysia job opening.It includes jobs from-www.jobstreet.com.my-www.jobscentral.com.my-www.jobsdb.com.my-www.monster.com.my-www.malaysiajobs.gov.myA must have for every job seeker in Malaysia and Foreigner.You can search for full time, part time, permanent, contract and freelance job in Malaysia through this app.You can search the app through jobs categories.-Accounting / Finance-Admin / HR-Sales / Marketing-Arts / Media / Communication-Services-Science-Computer/IT-Engineering-Manufacturing-Building/construction-Hotel/Restaurant-Education/Training-Healthcare-Many other job categories.Interview tips are available for job seekers eg live video demo on how to answer questions during interview, how to dress for interview success, how to handle phone interview to secure your job easily.Download this app and secure your future.",
+    "reviews": [
+      {
+        "timestampMsec": "1368449122328",
+        "starRating": "1",
+        "title": "Bad",
+        "comment": "It\\'s a link to those sites and then got error website not available",
+        "commentId": "gp:AOqpTOFw4Vodp4XTxi7OH_OQRqmih2mcsVInVduWiY5EJhNnIMx_X47KIT2-0SA-NkwEVZFDHs5ZwTPlw0JgfOE",
+        "author": "Bavani Shanmugam",
+        "authorURL": "http://lh4.googleusercontent.com/-UygQsEy86Cg/AAAAAAAAAAI/AAAAAAAAAJg/1f_wvohTkVs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-UygQsEy86Cg/AAAAAAAAAAI/AAAAAAAAAJg/1f_wvohTkVs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365066190195",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Thanks Angelina",
+        "commentId": "gp:AOqpTOEfGu1lnPstpofuE7lmpLpa2wZ_sgEw73LJwHvYg6SPBmX8jYcCtP905byg_dnQ-gxTlobZpXqB9FhIfV0",
+        "author": "Nodira Noni",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.clmyjobsite.myjob.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

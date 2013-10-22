@@ -1,0 +1,33 @@
+{
+  "title": "Start on Install",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droid.startoninstall",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 8, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Andarina Developers",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droid.startoninstall",
+  "extendedInfo": {
+    "installSize": "60k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Ever wanted to create an application that starts or do certain task just after it is installed.Unfortunately newly installed packages do not receive this kind of broadcasts.\"Start on Install\" is a simple application that enables users (mainly developers) to develop applications with activities or services that they want to start immediately after the application is installed.It also repeats the BOOT_COMPLETED broadcast for applications installed on sd-card as they don't receive the original one because the sd-card will not be mounted and ready by the time of broadcasting.Just install the application and listen for its broadcasted messages then forget about it ...\"StartOnInstall\" will broadcast its custom messages for your applications and they can receive it..Have Fun... Andarina Developers",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

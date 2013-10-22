@@ -1,0 +1,35 @@
+{
+  "title": "Primeros Auxilios de lujo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=pa.de.luxe",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "September 28, 2012",
+  "version": "2.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "81",
+  "rating": "3.654321",
+  "contentRating": "Low Maturity",
+  "creator": "Smart-e",
+  "creatorURL": "https://play.google.com/store/apps/details?id=pa.de.luxe",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "First Aid will help you know how to react to emergency and health care needs, explaining each situation you sharp text, clear, and images, all in a context didactic and easy to understand.First Aid covers topics related to health, encompassing the main categories and levels of emergency, treatment, care and attention to the injured, and all accident prevention and emergency treatment and recovery.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.SEND_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

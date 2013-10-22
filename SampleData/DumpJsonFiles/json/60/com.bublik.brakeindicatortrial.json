@@ -1,0 +1,59 @@
+{
+  "title": "Smart Speedometer FREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bublik.brakeindicatortrial",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "December 28, 2012",
+  "version": "2.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "102",
+  "rating": "3.872549",
+  "contentRating": "Low Maturity",
+  "creator": "Dmitry Yablokov",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bublik.brakeindicatortrial",
+  "extendedInfo": {
+    "installSize": "54k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Monitor your speed, braking/acceleration G-forces in real-time very easily. Control your driving style in fuel-efficient and braking-efficient manner with history graph of average daily acceleration/braking G-forces. Select weather conditions (summer, winter or wet) and watch your driving history for many days. App is 100% FREE and with NO ads! It's not necessary to place your device in the specific position and also no additional calibration required.    Constant accurate GPS signal is not required because the average value of many measurements is used.App usage:1) Measure speed, braking/acceleration G-forces in real-time. 2) Watch the state (G-force) of your brakes relative to the last days. Average braking distance depends on average G-force. So, for example, if average G-force is halved then the average braking distance is doubled. 3) Watch the usage dynamics of your engine (average G-force) for days4) Watch stats for daily brakings and accelerations.(Note, app stores accels when speed is changed by more than 6 mph (10 kmh))5) Compare average G-forces of your summer/winter tires.FEATURES:- Historical graph of average daily G-forcesDisplays a graph of braking/acceleration average daily G-forces for days.You can set preferred number of displayed days (from 10 days up to 1-year monitoring)- Tires types and Weather conditionsSelect summer / winter tires or wet weather. The historical graph will be painted with appropriate colors.- Today graph Displays statistics for the current day.Displays graph of braking G-force per every braking.Displays graph of acceleration G-force per avery acceleration.(Note, app stores accelerations when speed is changed by more than 6 mph (10 kmh))- Braking G-force real-time graphDisplays a graph chart covering the last seconds.\tYou can set 15/30 or 60 seconds.- Acceleration G-force real-time graphDisplays a graph chart covering the last seconds.\tYou can set 15/30 or 60 seconds.- Speed real-time graph Displays a graph chart covering the last seconds.\tYou can set 15/30 or 60 seconds.- Display unitsSupports units such as miles and kilometers.- Automatic scaling of the g-axis on graphs- G-force warningYou can set braking/acceleration G-force limits, so when daily value is less a visual alert will notify you.- Sensetivity level Defines the minimum value of G-force to be recognized by application.You can set LOW/MEDIUM or HIGH.Note:- Please note that the accuracy of speed readings depends on your GPS reception quality.- You must set the correct Time Zone on your device to avoid possible problems with GPS signal",
+    "reviews": [
+      {
+        "timestampMsec": "1376528123012",
+        "starRating": "1",
+        "title": "Poor",
+        "comment": "Does not show history of speed for more than 60 seconds...lame",
+        "commentId": "gp:AOqpTOGa7kAUk_UdS0AquYy7ASPkqAnBLT1T4wnJkLbEd8LSW6JeYg-ZFceXnUM4UY1fEiKlAknAieBNAoyk6g",
+        "author": "Kyle Borchardt",
+        "authorURL": "http://lh5.googleusercontent.com/-aUNoxqo0Iek/AAAAAAAAAAI/AAAAAAAAAgY/5kIpPXdg4hs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-aUNoxqo0Iek/AAAAAAAAAAI/AAAAAAAAAgY/5kIpPXdg4hs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1339599373539",
+        "starRating": "1",
+        "title": "Crashes every time",
+        "comment": "Must be the flakiest app I\\'ve tried. I say tried, but in fact, I haven\\'t actually tried it as such as it crashes straight away every time I\\'ve tried to start it.",
+        "commentId": "lg:AOqpTOEs4ymz3vgIA1z5Hzw4yFMbUSFypw1jkujbJIvQ_EZm2RXB7EqCgMuFVVZP4afBahU5LnsjiH8FfHQl8w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338732500897",
+        "starRating": "1",
+        "title": "Cannot be moved to SD card.",
+        "comment": "I can\\'t test this because I can\\'t move it. App2SD or Link2SD cannot move it, and I am Root.  Uninstall.",
+        "commentId": "lg:AOqpTOEof96vAsvJM88x0nPJP-AMIZsyAf2Jh4WcARtWdPrNxBAFV7d3am29xVxLUFK0ZJicalPgNYRF_dQwiw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

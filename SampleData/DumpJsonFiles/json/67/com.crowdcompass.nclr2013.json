@@ -1,0 +1,38 @@
+{
+  "title": "NCLR Annual Conference 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.nclr2013",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "May 31, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.nclr2013",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "NCLRâs Annual Conference and National Latino Family Expo is the largest and most important gathering of its kind in the Latino community, serving as the meeting ground for those who work on behalf of the nationâs fastest-growing population. Thousands participate each year, including community organization leaders, activists, and volunteers; elected and appointed officials; members of the corporate, philanthropic, and academic communities; senior citizens; college students; families; and youth. This annual event provides a forum for thousands of people representing a variety of sectors to learn about ongoing and emerging issues in the Hispanic community and become familiar with issues, initiatives, programs, and other efforts making a positive impact on the lives of Latino families. The Annual Conference brings together nationally renowned speakers who have included: Eva Longoria, Hon. Hilda Solis, Henry Cisneros, Melinda Gates, Hon. Arne Duncan, Soledad OâBrien and many more.By downloading this application, you will have access to the most up-to-date information about NCLRâs Annual Conference as we travel from city to city each year. You will also receive regular communication about NCLR events, opportunities and developments. This application also provides you direct access to our registration site so that you donât miss out on the exciting line-up waiting for you at NCLRâs next Annual Conference and National Latino Family Expo.App Keywords:NCLR, National Council of La Raza",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.nclr2013.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

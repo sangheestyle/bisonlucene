@@ -1,0 +1,52 @@
+{
+  "title": "Sound Control Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cbiemiller.android.soundcontrolfree",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "November 20, 2012",
+  "version": "3.1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "12",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "cbiemiller",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cbiemiller.android.soundcontrolfree",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Please use the built in contact dev feature or contact me through the market to let me know of any issues or ideas. I can't fix things or add things if no one lets me know.This app has been redesigned from the ground up to provide a cleaner, quicker, and more advanced control of your device. -A part of this redesign is an action bar allowing easier access to main features. This app now simplifies profile control into a simpler list form. This not only cleans up the UI, it also allows for as many profiles as required by the user with no limit of 10 like before. The time control and location control are designed similarly.-Another part of the redesign is the new out of app profile controls. The profile widget has been redesigned to allow for greater customization including transparency and to better support resizing. The widget can be set up to not only have the ability to toggle the volume lock, but also have the ability to launch the app. The notification widget(only supported on some devices) is handled similarly but designed to match other notifications better.-I have added many libraries others have made to allow for a consistent UI across devices. This include ActionBarShelock and HoloEveryWhereLib. Note: I did not create the libraries and am just using the great work of others. On this note, I have changed the app so the only difference between the paid and free version is The ability to turn ads off and on the paid version they always default off.-I have removed the custom images I have used in the past. This means everything that can be colored, is done so via an ARGB system meaning a leaner front end. The app size is larger because of the libraries.-Volume triggers are another important addition. The triggers allow either a specific profile or the lock to go off based on system events like airplane mode being toggled, a charger being plugged/unplugged, and more.-Backup and Restore provides insurance in case you uninstall this app by accident or you switch Custom ROMs frequently(The new Backup and Restore system does not support the old version). -The time control system has been redesigned to be triggered at a specific time of day and can be set on repeating intervals. -The location control is a quick way to control your volume without having to do anything. The accuracy can be controlled making the location control either require a close accuracy or a much broader area for the trigger to happen(the lower the slider, the greater the accuracy required).Permissions: -android.permission.MODIFY_AUDIO_SETTINGS, Used to modify Audio setting as defined by user in app.-android.permission.WRITE_SETTINGS,  Used for Ringtone management and other controls-android.permission.ACCESS_FINE_LOCATION, Used by Location Control-android.permission.INTERNET, Used by ads only.-android.permission.ACCESS_NETWORK_STATE, Used by ads and the airplane mode trigger.-android.permission.WRITE_EXTERNAL_STORAGE, Used for the backup/restore features.-android.permission.RECEIVE_BOOT_COMPLETED, Used to start services that were on prior to shutdown(widget updater, Location Control are examples).-android.permission.READ_PHONE_STATE, used to listen for phone calls to change volume levels when phone is unlinked from notification.Things to note:-App2SD support has been removed due to too many features requiring the app stay on internal storage to function well on external storage.-This app only supports Android 2.1 and up. This was done to provide a newer cleaner interface. The app should now look the same on any device that is Android 2.1 and up.-The notification profile control is different depending on you device. 4.0 and up has a simplified version of the profile widget and works similarly. Every other version of Android puts up a single profile for quick access.If you have questions or comments please email me through the contact dev option built in and I will get back to you as soon as I can.",
+    "reviews": [
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1327816993280",
+        "starRating": "2",
+        "title": "Volume lock DOES NOT WORK",
+        "comment": "Lock has NO effect. UI is very hard to see unless several customizations are made. Uninstalled.",
+        "commentId": "lg:AOqpTOEQADvZCdaowRPKNGQxOWuLflY08gQSFrAQrWWY_B7ZGvR9Hspyv1CThGTiUfJMdcJHpqrVsQOAmHVNSw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341560634988",
+        "starRating": "5",
+        "title": "Broken Volume Button  :(",
+        "comment": "Thanks so much for this app it was exactly wut i was looking for, an app where i could change my volume and then lock it so the buttons wouldnt interfere  TY!!!",
+        "commentId": "lg:AOqpTOHErmdv2hzba4y1rmcL6MxJTFnuvaPaF58KRQSZd7XKtsEWXn9-lt8pBMETmqJS47HaRVlvi7R-jLk9yQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

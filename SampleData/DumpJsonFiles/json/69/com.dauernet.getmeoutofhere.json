@@ -1,0 +1,30 @@
+{
+  "title": "Fake call - GET ME OUT OF HERE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dauernet.getmeoutofhere",
+  "category": "Entertainment",
+  "price": "$0.99",
+  "datePublished": "June 28, 2013",
+  "version": "1.02",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "WILK Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dauernet.getmeoutofhere",
+  "extendedInfo": {
+    "installSize": "295k",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "You have to get out of a nasty situation? A phone call might just do the trick? Then here is the solution: Get me out of here simulates calls to your cellphone!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.CHECK_LICENSE"
+    ]
+  }
+}

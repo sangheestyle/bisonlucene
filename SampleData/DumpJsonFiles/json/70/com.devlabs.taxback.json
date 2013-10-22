@@ -1,0 +1,47 @@
+{
+  "title": "Pocket Tax OZ",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.devlabs.taxback",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "Taxback.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.devlabs.taxback",
+  "extendedInfo": {
+    "installSize": "1,003k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Your phone goes everywhere you do, right? Weâve built a tax return app that will be right up your street if you donât like wasting time or paper. The Oz Tax App provides a smart way to file your Australian tax return when youâre on the move. It also generates instant tax refund estimations so you can see if you have overpaid tax in a matter of seconds.Say goodbye to having to be at the laptop when tax time comes round. All you need to do to file your tax return quickly and hassle-free is to download our app and follow the simple on-screen instructions. The Tax App offers:â¢\tOn-the-go tax return filing â if you have your phone or tablet youâre good to go!â¢\tStep-by-step assistance â clear instructions on every screenâ¢\tOn-screen, concise forms â our forms are short and sweetâ¢\tIn-built tax refund estimator â get a tax refund calculation in secondsâ¢\tElectronic signature facility â forms are signed on-screenâ¢\tJargon-free lingo â plain English all the way!â¢\tA quick way to photograph docs â snap your PAYG and passport on the goâ¢\tHandy browser for uploading extra info â just click, find, upload!â¢\tAbility to apply directly for a refund â click a button and weâll do the rest",
+    "reviews": [
+      {
+        "timestampMsec": "1377572936919",
+        "starRating": "4",
+        "title": "Good and free tool",
+        "comment": "Good tool, made it a bit more easy to get my tax back.",
+        "commentId": "gp:AOqpTOEjuhPyUrkAbNapwQX6Ry3PR1LLKL_BbHf3ALyqrcYdQRLtMBpAAQP8xghrCx4vi23vufuXOaEYJGGt8EA",
+        "author": "Sven Focken-Kremer",
+        "authorURL": "http://lh5.googleusercontent.com/-54JtC-4ulcU/AAAAAAAAAAI/AAAAAAAATn4/x8BusKBKDz4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-54JtC-4ulcU/AAAAAAAAAAI/AAAAAAAATn4/x8BusKBKDz4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCOUNT_MANAGER",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

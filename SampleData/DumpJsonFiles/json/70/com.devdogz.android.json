@@ -1,0 +1,38 @@
+{
+  "title": "Ambianz (Free)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.devdogz.android",
+  "category": "Music & Audio",
+  "price": "$0.99",
+  "datePublished": "December 15, 2012",
+  "version": "1.04",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "devDogz Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.devdogz.android",
+  "extendedInfo": {
+    "installSize": "6.5M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "10 - 50",
+    "description": "Is the world around you too noisy and distracting?  Need something to block out the commotion of everyday life?  Ambianz to the rescue!Ambianz is ambiance with a twist, and a Z!  Choose from 3 different white noises as well as 11 other background sounds to soothe the ears and block out the world around you.  Whether you're reading an ebook or simply checking email, Ambianz provides the audio escape you need to focus on the tasks you want while ignoring all the distractions around you.  Choose from any of the following:White Noise Derivatives- Brown Noise- Pink Noise- White NoiseEveryday Sounds- Water Under The Bridge- Fine Dining- Crackling Fire- Spooky Chains- Lightning Storm- Beach Birds- Lambing It Up- Jungle- Night Life- Day Break- WavesUnlike other white noise apps, Ambianz combines expected sounds such as waves, a lightning storm and the Jungle with other unique compilations such as Fine Dining and Spooky Chains.  Can't find exactly what you're looking for?  Send us your recommendation for a future release!Annoying brother? Ambianz.  Wish you were dining in a fancy restaurant, but trapped in an airplane? Ambianz.  Simply want to pretend you're basking in the sun on a white sand beach?  Ambianz!",
+    "reviews": [
+      {
+        "timestampMsec": "1325162281000",
+        "starRating": "3",
+        "comment": "Ambianz",
+        "commentId": "lg:AOqpTOGtS0nTiDxcmjfUmLyMxZKSIs_yZAZ54nB9Anw3dP-NqIEbN-TORW4iwMBp98aNzioTlf6ogzUuRG85oTw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

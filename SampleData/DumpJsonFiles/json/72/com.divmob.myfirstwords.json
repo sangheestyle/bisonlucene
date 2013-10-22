@@ -1,0 +1,30 @@
+{
+  "title": "My First Words",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.divmob.myfirstwords",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "July 2, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "divmob trainee",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.divmob.myfirstwords",
+  "extendedInfo": {
+    "installSize": "35M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This is an educational and entertaining game for your kids (even for adults) to learn English words. How to play: Drag and drop to arrange the letters in the correct order to make up a word.The game has 3 difficult levels:- The first one: Hint: the right order is in gray. You just drag and drop the right letters here.- The second one: Hint: There is no gray letters in right order, but when you drop a letter in the right place, it will be stick here otherwise it will not.- The third one: There is no hint at all: no gray letters, no stick effect. You have to find right order yourself. - Funny way to learn English words- Letters are pronounced when touched.- When word is completed, it's pronounced (you have to have TTS â text to speech - installed on your phone/table)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

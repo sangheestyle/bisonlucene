@@ -1,0 +1,36 @@
+{
+  "title": "Usher Songs + Lyrics",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dimav.ushersongslyrics",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "May 6, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dimav Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dimav.ushersongslyrics",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app feature songs and lyrics from Usher.  Usher Raymond IV is an American singer, songwriter, dancer and actor. Usher rose to fame in the late 1990s with the release of his second album My Way, which spawned his first Billboard Hot 100 number-one hit, \"Nice & Slow\". The album has been certified 6-times platinum by the RIAA. His follow-up album, 8701, produced the Billboard Hot 100 number one hits \"U Remind Me\" and \"U Got It Bad\". The album has been certified 4-times platinum by the RIAA.At the end of 2009, Usher was named the number one Hot 100 artist of the 2000s decade. Billboard named him the second most successful artist of the 2000s decade, with his 2004 album Confessions being ranked as the top solo album of the 2000s decade. Billboard also placed Usher at number six on their list of Top 50 R&B/Hip-Hop Artists of the Past 25 Years. Usher has attained nine Hot 100 number-one hits (all as a lead artist) and has attained eighteen Hot 100 top-ten hits.Features of this app:- Songs and lyrics from the songs: OMG, Yeah!, More etc...- Bonus Usher Tweets, Facebook page and official webpage from the app.To keep the app free for everyone, the songs are from Youtube.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

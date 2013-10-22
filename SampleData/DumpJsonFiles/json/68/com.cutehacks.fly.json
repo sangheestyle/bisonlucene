@@ -1,0 +1,30 @@
+{
+  "title": "Fly (Norway)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutehacks.fly",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "October 11, 2011",
+  "version": "1.1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "12",
+  "rating": "2.6666667",
+  "contentRating": "Everyone",
+  "creator": "Cutehacks AS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutehacks.fly",
+  "extendedInfo": {
+    "installSize": "128k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Access live flight data for 46 airports in Norway from your mobile phone. All departures and arrivals - anytime, anywhere.Development version: Relies on Ministro / Necessitas / Qt for Android.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

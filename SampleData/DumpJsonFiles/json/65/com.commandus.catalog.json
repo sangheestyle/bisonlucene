@@ -1,0 +1,33 @@
+{
+  "title": "pigls bulletin board",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.commandus.catalog",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "December 13, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "2.0",
+  "contentRating": "High Maturity",
+  "creator": "commandus.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.commandus.catalog",
+  "extendedInfo": {
+    "installSize": "145k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Bulletin board client",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

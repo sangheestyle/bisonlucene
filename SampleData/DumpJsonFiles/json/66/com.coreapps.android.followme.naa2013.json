@@ -1,0 +1,58 @@
+{
+  "title": "2013 NAA Education Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.naa2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "June 12, 2013",
+  "version": "4.2.5.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.naa2013",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The 2013 NAA Education Conference & Exposition, June 19-22, in San Diego is the largest event in the apartment industry. More than 6,200 multifamily housing industry professionals interested in sales, marketing, recruitment and retention, maintenance, career development, leadership, customer service, technology, and moreâwill be inspired by the world-renown keynote speakers and 50 thought-provoking breakout sessions. Attendees will make lasting connections and share insights on relevant hot topics within the industry during the many networking events. The NAA Exposition offers innovative solutions firsthand from more than 350 knowledgeable suppliers displaying products and services that will put you in a position to gain market share and grow your bottom line.",
+    "reviews": [
+      {
+        "timestampMsec": "1368651470621",
+        "starRating": "2",
+        "title": "Schedule feature error",
+        "comment": "I can star sessions but they don\\'t show up in my schedule it just gives an error.",
+        "commentId": "gp:AOqpTOHHQet_Rf8DEbJph2nMJspr7-_ZBpbe5oh1sXrevGF2LmHXZNuqOySRlpaVpN6--Eqd8giiKQsQkfSgyg",
+        "author": "Sarah Lee",
+        "authorURL": "http://lh5.googleusercontent.com/-2NuxOU0NatE/AAAAAAAAAAI/AAAAAAAAB84/wkg62zQ2OVg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-2NuxOU0NatE/AAAAAAAAAAI/AAAAAAAAB84/wkg62zQ2OVg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.naa2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

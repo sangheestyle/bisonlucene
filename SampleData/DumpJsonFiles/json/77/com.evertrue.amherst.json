@@ -1,0 +1,72 @@
+{
+  "title": "Amherst College Alumni Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evertrue.amherst",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "December 23, 2012",
+  "version": "2.1.0.6",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "4.0",
+  "contentRating": "Medium Maturity",
+  "creator": "EverTrue",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evertrue.amherst",
+  "extendedInfo": {
+    "installSize": "6.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The official Amherst College app.  Securely network and connect with the Amherst community around the world.  Includes a directory integrated with LinkedIn, maps, photos and more! Powered by EverTrue.Amherst College, Amherst, evertrue, alumni, community",
+    "reviews": [
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1366060817967",
+        "starRating": "5",
+        "title": "A really great app",
+        "comment": "In terms of being connected to other Amherst alumni,  I think this is the best piece of technology that has been presented thus far.  I like how it shows other local alums through tags,  and it\\'s also nice that it integrates in with the three major social networking sites,  at least the three main ones I use... I only wish it had SMS notifications so that I don\\'t feel like I have to constantly log in.  Also it would be nice if there was a feature for fostering conversation with local but unfamiliar alumni.",
+        "commentId": "gp:AOqpTOH-lW31VQawr5elRyPy2WteJrrw0FV7iweYwhWkLk8KraUVVx7f6IX4XWbALSsmTPdOzoeUNilEnrdoHUQ",
+        "author": "Daniel Kauwe",
+        "authorURL": "http://lh3.googleusercontent.com/-N6IONginpHI/AAAAAAAAAAI/AAAAAAAAAYY/_6IX6M4SzVI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-N6IONginpHI/AAAAAAAAAAI/AAAAAAAAAYY/_6IX6M4SzVI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1356276858096",
+        "starRating": "1",
+        "title": "Doesnt open on Galaxy S3",
+        "comment": "Crashes and force closes",
+        "commentId": "gp:AOqpTOF4SejsyCiKmh00hkhmbjYyBDzyiHvnqypdKirbwFhQOlsE6Z9m6MTdVUHrrlB9nroLcXyEdfpLBxT1Auk",
+        "author": "James MacDonald",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1355357224476",
+        "starRating": "5",
+        "title": "Promising app",
+        "comment": "In its early stages, this app seems promising. Its utility will increase as more people connect.",
+        "commentId": "gp:AOqpTOGH_l87l853N3D0OOW8bz8EAN9gOyIOEMhBVgQXCs-Vm59tVE2fjdYrpC_tXsdwnI622zyw7GWpuwDTVwI",
+        "author": "Alex Southmayd",
+        "authorURL": "http://lh4.googleusercontent.com/-mmO2MCRQPrQ/AAAAAAAAAAI/AAAAAAAAHIo/fdN21zp_EFE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-mmO2MCRQPrQ/AAAAAAAAAAI/AAAAAAAAHIo/fdN21zp_EFE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.evertrue.evertrue.permission.C2D_MESSAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

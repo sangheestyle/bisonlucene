@@ -1,0 +1,44 @@
+{
+  "title": "Mobile SDU",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coden.android.sdu",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 23, 2013",
+  "version": "1.0.7",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "48",
+  "rating": "3.6458333",
+  "contentRating": "Everyone",
+  "creator": "SEOUL DIGITAL UNIV.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coden.android.sdu",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The Seoul Digital University has launched an expanded mobile service for its students, which is now available for iPhone and Galaxy S smartphones, and Galaxy Tab and iPad tablet computers.The Seoul Digital University is a regular four-year university with more than 300 faculty and 25 departments.The largest of cyber university of 13,000 students, 9,000 part-time students, a coalition of more than 19,000 college students with learning and discussion, and with them you can create a social network.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1364620924851",
+        "starRating": "5",
+        "title": "\\354\\242\\213\\354\\212\\265\\353\\213\\210\\353\\213\\244.",
+        "comment": "\\353\\213\\244\\354\\206\\214 \\355\\224\\274\\354\\213\\234\\353\\262\\204\\354\\240\\204\\353\\263\\264\\353\\213\\244\\353\\212\\224 \\353\\266\\210\\355\\216\\270\\355\\225\\230\\354\\247\\200\\353\\247\\214, \\353\\252\\250\\353\\260\\224\\354\\235\\274 \\352\\260\\225\\354\\235\\230\\352\\260\\200 \\353\\220\\234\\353\\213\\244\\353\\212\\224\\352\\262\\203\\354\\234\\274\\353\\241\\234 \\353\\214\\200\\353\\247\\214\\354\\241\\261 ^^",
+        "commentId": "gp:AOqpTOEK0P_vr7nGXOMfuPUXOhsAwMuYlfJXTM3xE8svjNFm1F4kTXebDUb6Wg30w1NMh6dAg22v8_51jBla",
+        "author": "hodge kim",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.RESTART_PACKAGES"
+    ]
+  }
+}

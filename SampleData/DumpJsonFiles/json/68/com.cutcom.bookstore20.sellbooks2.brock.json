@@ -1,0 +1,55 @@
+{
+  "title": "Sell Book Brock",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks2.brock",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 27, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "CutCom Software, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks2.brock",
+  "extendedInfo": {
+    "installSize": "5.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Sell your used textbooks to the Brock University Campus Store using this instant price quote app! It allows you to scan the barcodes of books that you'd like to sell using your phone's camera. You'll find out instantly how much we'll pay you for your used books. Please note: This application is able to use your camera to scan barcodes, however the camera on IPod Touch doesn't have the resolution to capture barcodes reliably. But, you can always type in your ISBN. If you have any trouble, please let us know!",
+    "reviews": [
+      {
+        "timestampMsec": "1347597549574",
+        "starRating": "5",
+        "title": "well",
+        "comment": "very fast and efficient way to find out how little your books are worth and how much the book store rips you off.",
+        "commentId": "lg:AOqpTOGHk9aOkPZjZSvn6Z4By_qxk0Zo-239oNaCogz21yg4ozjkkmdgVJoV49ElVpoTwK3CD_Ck58B1gxaqGQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357605671570",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "Won\\'t even open.",
+        "commentId": "gp:AOqpTOEvCUSs3qLDKKxARhXzd_PrbYEo-cCU52sbVgHdps3Z0ZLjlmrijUtwoH7_LYXoubCFBHQTKIENxweu9Q",
+        "author": "Charnelle Belliveau",
+        "authorURL": "http://lh5.googleusercontent.com/-I-56T5HYFcM/AAAAAAAAAAI/AAAAAAAAAIU/ZCd8UptcarE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-I-56T5HYFcM/AAAAAAAAAAI/AAAAAAAAAIU/ZCd8UptcarE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

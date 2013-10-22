@@ -1,0 +1,60 @@
+{
+  "title": "Blackbox SMB Employee Monitor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eagency.smb.monitor",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "February 25, 2013",
+  "version": "3.2.2.00",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "eAgency Mobile Security, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eagency.smb.monitor",
+  "extendedInfo": {
+    "installSize": "655k",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "Blackbox Mobile SMB Employee Monitor should be downloaded for business use only. It enables employers to monitor all activity on Android phones or tablets used for the business.** This app requires a registration code which should be provided by your Employer or IT Administrator. **Please contact your employer or Blackbox Mobile if you have any questions.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_LOGS",
+      "android.permission.WAKE_LOCK",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.WRITE_SMS",
+      "android.permission.RECEIVE_WAP_PUSH",
+      "android.permission.GET_TASKS",
+      "android.permission.SEND_SMS",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ea.blackbox.permission.C2D_MESSAGE",
+      "android.permission.START_BACKGROUND_SERVICE",
+      "com.verizon.vcast.apps.VCAST_APPS_LICENSE_SERVICE",
+      "com.google.android.gm.permission.READ_GMAIL",
+      "com.google.android.googleapps.permission.GOOGLE_AUTH.OTHER_SERVICES",
+      "com.google.android.googleapps.permission.GOOGLE_AUTH",
+      "com.google.android.providers.gmail.permission.READ_GMAIL",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

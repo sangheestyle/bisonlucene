@@ -1,0 +1,46 @@
+{
+  "title": "Middle East News",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_6820880d72fd42128bd1f9a370741f19.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "January 4, 2012",
+  "version": "1.2.5.509",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Karan Bavandi",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_6820880d72fd42128bd1f9a370741f19.app",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "News form Iran, Israel, Iraq, Afghanistan, Egypt, Syria, Libya, Tunisia, Bahrain, Lebanon, curated from western and eastern news sites.All news is organized by county, with summary and links to the original articles.",
+    "reviews": [
+      {
+        "documentVersion": "2.5.509",
+        "timestampMsec": "1337998729588",
+        "starRating": "1",
+        "title": "Does not update",
+        "comment": "News has not updated in over 2 weeks.  Would give 0 star if could.",
+        "commentId": "lg:AOqpTOGBW2NTv9ndJQJAmL3BJqvini52uF77OJzVYfTgLbgBWHrr-lVCAANv0mP76JlfgDMM2msZYG9oFiEeNLA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_6820880d72fd42128bd1f9a370741f19.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

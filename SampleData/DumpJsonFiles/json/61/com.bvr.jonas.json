@@ -1,0 +1,36 @@
+{
+  "title": "Jonas Brothers Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bvr.jonas",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "June 7, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Superstars Wallpaper",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bvr.jonas",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Please Note : This is a live wallpaper and not a application, so you won't find a logo on the home screen. To activate live wallpaper please follow the steps1. Download live wallpaper and install. (if download from Google, automatically installed)2. Long press home screen3. Select Wallpaper and then select Live Wallpaper4. Select \" Jonas Brothers Live Wallpaper \"5 Press Set As WallpaperThe Jonas Brothers are an American pop rock band. Formed in 2005, they have gained popularity from the Disney Channel children's television network and consists of three brothers from Wyckoff, New Jersey; Paul Kevin Jonas II, Joseph Adam Jonas and Nicholas Jerry Jonas.In the summer of 2008 they starred in the Disney Channel Original Movies Camp Rock and in 2010 it's sequel, Camp Rock 2: The Final Jam. Brothers also starring in TV series Disney Channel JONAS and it's sequel Jonas L.A. The band has released four albums: It's About Time, Jonas Brothers, A Little Bit Longer, and Lines, Vines and Trying Times, with an upcoming fifth studio album due for release in 2013.In 2008, the group was nominated for the Best New Artist award at the 51st Grammy Awards and won the award for Breakthrough Artist at the American Music Awards. As of May 2009, before the release of Lines, Vines and Trying Times, they have sold over eight million albums worldwide.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Statesville Record & Landmark",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_c8487377fb63b90f01be11d6721ff7cd",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "May 17, 2013",
+  "version": "4.5.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "4.285714",
+  "contentRating": "Low Maturity",
+  "creator": "DoApp, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_c8487377fb63b90f01be11d6721ff7cd",
+  "extendedInfo": {
+    "installSize": "5.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Statesville Record & Landmark, located in Statesville, N.C., provides news, sports, features, business, classifieds, and other information for and about the people of Iredell County, North Carolina.",
+    "reviews": [
+      {
+        "documentVersion": "4.5.4",
+        "timestampMsec": "1377831147881",
+        "starRating": "5",
+        "title": "Great app....great writing",
+        "comment": "Fantastic app...great insght",
+        "commentId": "lg:AOqpTOEmf6njTYrQjc-VUKpqKGHxf50u9iST_vl9Eik22DA-EiPc84xlIFu5_UZOblKzbhPOXOXUvX9cKMH-OQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1350281949608",
+        "starRating": "5",
+        "comment": "Great",
+        "commentId": "lg:AOqpTOF2jBsxB9BFo6FXioXcDHdoaT0kMfmjK9M3lieJHbDMXRRNiBQskFHyDRKAYq82d851FkxYkhWRa7_mHw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Light Sensor Smart Cover",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.danielling.lightsmartcover",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 11, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "1.75",
+  "contentRating": "Everyone",
+  "creator": "Daniel Ling",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.danielling.lightsmartcover",
+  "extendedInfo": {
+    "installSize": "317k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "** Please contact me if you encounter any issues with this app. Please. Because we developers are unable to get ** back to the users directly which is very sad so let me help you if my app gave you a problem. You can still leave a ** negative feedback but still, please let me help. You can email me through this page or through the app. Thanks!**** This application is done upon request by an user whose device does not have Proximity Sensor. If any user have ** any feedback, suggestions or request for features, feel free to contact me!Ever considering having a Smart Cover feature for your Android Device? Now you can!!This application allows you to Turn On your screen after removing it from cover. Gentlemen, do you keep your device in your pockets? Check your device status immediately after taking it out without pressing any buttons!!Ladies, do you keep your device in your bag? This application will turn on your screen for you without you having to reach for the buttons!Might you be using a Device Wallet which also acts as a Cover?Additional Features** Turn on your Screen and automatically unlock!!** Turn on/off your screen without using Power or Home buttons.** Perform magic tricks. ^_^Note:** Due to the sensitivity of the Light Sensor, I strongly suggest not to use the function turn off screen by this application. To turn off the feature, just set the duration to -1 seconds.Instead, I suggest that you use another application to lock your screen. Here, I suggest using \"Lock Screen Now\" which is also developed by me. There are also many other Lock Screen applications which you can find on Google Play.** Do note that this application requires lightsensor to work.** Requires Device Administrator for the Turn Off screen feature.** To UNINSTALL this application, you have to first remove the Device Administrator rights for this application. When you choose to uninstall this application, it will prompt you to remove the Device Administrator Rights. If not, please go to Settings > Security > Device Administrator > Uncheck this application.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1363848400759",
+        "starRating": "1",
+        "title": "samsung galaxy tab 2 10.1",
+        "comment": "it doesnt work, please fix",
+        "commentId": "gp:AOqpTOHNzyqEYDIDIYQq43oQMuW4SYHqURye6n_zp47i0jjKwiyknoguUFg7gs9WjhyY8LI2nRNeRdkpa5dPNVc",
+        "author": "Imran Saputra",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1369518785711",
+        "starRating": "1",
+        "title": "very poor",
+        "comment": "No use",
+        "commentId": "gp:AOqpTOHn9-VKsyssBaFypnCF6PXJB6L2PwTZ9uGhJQyW-QBKnCC9-AwCMVXAQJpuX7uizxQy1Gp8FnQXJBdH4Ck",
+        "author": "Angus Lam",
+        "authorURL": "http://lh4.googleusercontent.com/-mER84HJDmA4/AAAAAAAAAAI/AAAAAAAAALE/gmCv-iZP8I0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-mER84HJDmA4/AAAAAAAAAAI/AAAAAAAAALE/gmCv-iZP8I0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1364977204604",
+        "starRating": "1",
+        "title": "Not Working",
+        "comment": "Note 10.1",
+        "commentId": "gp:AOqpTOHl8C510sDhSCbvKBpOCgq8nOP7RWJxE4SzhBn9J0qOY5T2eNOQq5Z5lWcAuyPZikVmvYrQ8jdQfy4Wx-E",
+        "author": "Dave Mutogi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

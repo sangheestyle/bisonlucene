@@ -1,0 +1,73 @@
+{
+  "title": "GPS Tether Server (Free)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bricatta.GPSTetherServer_FE",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "March 12, 2013",
+  "version": "1.2.3",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "6",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "Bricatta",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bricatta.GPSTetherServer_FE",
+  "extendedInfo": {
+    "installSize": "786k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "To share and tether GPS using WiFi between 2 devices. Best example would be your phone and tablet. With this app, your phone with GPS functionality feature (server), will send GPS data to your tablet (client) using WiFi. With this, you are no longer constraint to your phone, but can utilize your big tablet for apps which requires location (e.g. Maps, fourSquare). There are many advance features built-in, such as encryption, automatic server search, and much more. This app must work in a pair; server and client. Please ensure you download the correct app.A common example will be using your Android phone's and share tether GPS with a tablet (can easily buy it nowadays for <$100). With this, you can easily perform and use Google Maps location and other location applications on your tablet, even though the tablet does not have GPS functionality feature! This is a great way to escape the phone's small screen, and enjoy the tablet's big screen. On top of this, one can be creative as it can also be used to share tether GPS to a device located indoor, using WiFi network (server will be outdoor, client will be indoor). It has limitless possibilities...If client app does not show up in the market, download it from www.bricatta.comHow it works :It is very plain and straight-forward. This application solution will tether the GPS data (using WiFi) from a device with GPS feature, to another device. Both devices must be on the same WiFi network (Android device can be a WiFi hotspot). No internet connection is required for it to work (free trial uses it for advertisements). For efficiency purposes, this solution comprises of 2 small applications :- Server (usually installed on phone, device which sends GPS data)- Client (usually installed on tablet, device which receives GPS data)Features :- Smartly establish and send GPS info over WiFi- Encrypt the GPS data before sending For security. This will avoid eaves-dropping and ensure only your devices will be able to receive the GPS data.- Save and conserve battery by setting application's run time to your preference, so it does not need to run longer than needed.- App can run in background without interference, and notifiy if there are errors.- Remembers previous server settings and automatically connect when started- Ability to disconnect clients on the server application.- User can specify server port to use- Scan server automatically- Manually add server for faster access- Touch text to copy GPS coordinatesHow to use it in brief :- After installing the app, you will need to ensure your device settings are correct.- For client, ensure the 'mock locations' is enabled. It is under Settings (see screen shot)- For server, ensure the GPS is enabled. It is under Settings (see screen shot)- Ensure both server and client are on the same WiFi network. You can use your Android device to become a WiFi hotspot.- Start the server and client.- On the client, select ScanServer. To be faster, manually add-in the server IP.- Both server and client should be in \"On\" status- Wait for server's GPS to \"Lock-On\", and the client will automatically get the GPS data.Free Trial Edition :- Limit of 5 minutes per session- Use for a total of 200 minutes- Ads will appear in the appFor more info :Details on how to use this app : www.bricatta.comMore screen shots and examples : www.bricatta.comFAQ : www.bricatta.comKeywords : share GPS, tether GPS, share GPS from phone to tablet, tether GPS from phone to tablet, share GPS to tablet, tether GPS to tablet, free edition, trial edition,",
+    "reviews": [
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1375214556411",
+        "starRating": "4",
+        "title": "Funciona",
+        "comment": "Permite compartir la se\\303\\261al del gps, por ejemplo con una tablet. Configuraci\\303\\263n sencilla.",
+        "commentId": "gp:AOqpTOGG5-k1RnslEQzNZz5gYN4bSwv9ztW60jPumV9Xkwh4LkLaenGD5rcM56aTFAUPI5gx0r6kMyl0zDh47Sc",
+        "author": "Luis Fern\\303\\241ndez",
+        "authorURL": "http://lh5.googleusercontent.com/-2p7q6jSHNKc/AAAAAAAAAAI/AAAAAAAAG5E/Bismifh8094/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-2p7q6jSHNKc/AAAAAAAAAAI/AAAAAAAAG5E/Bismifh8094/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1367837852314",
+        "starRating": "1",
+        "title": "Wont switch from red off to on",
+        "comment": "Wont switch from red off to on keeps bringing me to the settings page which everything is set right on. Tablet is getting its internet connection from phone, keeps force closing on table and red light wont go green on note 2 just keeps going to settings page.",
+        "commentId": "gp:AOqpTOEJXBbsPW3O5RSTWMJuwSwKTR2-ZEOxU0rn2Hlsox5KX8Af4dXnRT6fCiDG2ChQ5BX-S6BEtE4tE-MhGek",
+        "author": "Joey Miranda",
+        "authorURL": "http://lh3.googleusercontent.com/-hbvGpfONrbA/AAAAAAAAAAI/AAAAAAAAKM4/DnF9nTf6Ucw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-hbvGpfONrbA/AAAAAAAAAAI/AAAAAAAAKM4/DnF9nTf6Ucw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1368618954824",
+        "starRating": "1",
+        "title": "Does not work with Trevs Wi-Fi tether on s3 cyanogen",
+        "comment": "Tried multiple restarts etc it simply does not work",
+        "commentId": "gp:AOqpTOG0Pvub0YrgGtZrPC7kJr8J4Gvp2lVQJlwJ_LvTAfEGuXEy_ECjPbOMg9hD1iFUiovV9A7K4mtBxZN6GxM",
+        "author": "A Feldman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361999883044",
+        "starRating": "5",
+        "title": "First ever app",
+        "comment": "Have been looking forward to get an app that lets me share my mobile\\'s GPS to my tablet. Haven\\'t found anything better than this. Waiting for the full version without limitations :).TetherGPS by COMPTON SOFTWARE does get installed in my phone, but my tablet never gets connected to the server",
+        "commentId": "gp:AOqpTOGp8K1b4ja7RpBk_3g1INM5_kr7k9Lw0h7oBv6S5TT3LTY3AIEvq8dhkFWR_UHNLmIYge6woKgocWmryoM",
+        "author": "Robinson M.C.M.",
+        "authorURL": "http://lh5.googleusercontent.com/-8Z8Pix-pZPw/AAAAAAAAAAI/AAAAAAAAAts/uWI4U-pdBaI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-8Z8Pix-pZPw/AAAAAAAAAAI/AAAAAAAAAts/uWI4U-pdBaI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

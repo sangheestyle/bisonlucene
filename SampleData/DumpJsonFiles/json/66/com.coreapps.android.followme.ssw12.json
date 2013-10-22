@@ -1,0 +1,60 @@
+{
+  "title": "SupplySide West 2012 Expo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ssw12",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 29, 2012",
+  "version": "3.6.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ssw12",
+  "extendedInfo": {
+    "installSize": "6.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "With over 12,000 attendees and 1,500+ booths, SupplySide West 2012 brings together the suppliers and buyers that drive the dietary supplement, food, beverage, personal care and cosmetic marketplace. Leaders from the executive management, R&D, QA/QC and marketing teams will converge on Las Vegas November 5-9, 2012. Their goal? To explore and discover innovation from around the globe to collaboratively develop the next product that will drive revenue, market share and consumer loyalty.",
+    "reviews": [
+      {
+        "documentVersion": "3.6.9",
+        "timestampMsec": "1352655756855",
+        "starRating": "5",
+        "title": "Convenient, user-friendly and helpful",
+        "comment": "Provides an array of useful features like the floor map, education session info, and customizable schedule.",
+        "commentId": "lg:AOqpTOEwO_b0IFgtEne9c-CjYvSsvZ35Ocu9idRhnh-9dtMTHAISQV2MVr2MAJ6DcOerCI7G2uI2UcjGH53y6rI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.ssw12.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

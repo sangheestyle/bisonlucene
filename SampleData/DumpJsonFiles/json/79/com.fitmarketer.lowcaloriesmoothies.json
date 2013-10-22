@@ -1,0 +1,39 @@
+{
+  "title": "Low Calorie Smoothies",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fitmarketer.lowcaloriesmoothies",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "July 29, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "BzZ Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fitmarketer.lowcaloriesmoothies",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "A smoothie (alternatively spelled smoothy , the name comes from the smooth property of the emulsion) is a blended and sometimes sweetened beverage made from fresh fruit (fruit smoothie) and in special cases can contain chocolate or peanut butter. In addition to fruit, many smoothies include crushed ice, frozen fruit, honey or contain syrup and ice ingredients. They have a milkshake-like consistency that is thicker than slush drinks. They can also contain milk, yogurt or ice cream. Smoothies are often marketed to health-conscious people, and some restaurants offer add-ins such as soy milk, whey powder, green tea, herbal supplements, or nutritional supplement mixes. Smoothies became widely available in the United States in the late 1960s when ice cream vendors and health food stores began selling them. By the 1990s and 2000s, smoothies became available at mainstream cafÃ©s and coffee shops and in pre-bottled versions at supermarkets all over the world.",
+    "reviews": [
+      {
+        "timestampMsec": "1375765659377",
+        "starRating": "1",
+        "title": "Writing too small to read",
+        "comment": "Looks a good app but cant enlarge the page too small to read.",
+        "commentId": "gp:AOqpTOH1wj6aFErl0c7XpA6EmlLx8mesdE7JcWqhOfAvh-9mUgkS435xlqmMnug5OH-NLZE8FgRddsOzj4pwcg",
+        "author": "Julie Taylor",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.fitmarketer.lowcaloriesmoothies.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

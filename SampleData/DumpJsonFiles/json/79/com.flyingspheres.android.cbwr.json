@@ -1,0 +1,87 @@
+{
+  "title": "Comic Book Pick List",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flyingspheres.android.cbwr",
+  "category": "Entertainment",
+  "price": "$0.99",
+  "datePublished": "February 10, 2011",
+  "version": "1.0.9",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "8",
+  "rating": "4.125",
+  "contentRating": "Everyone",
+  "creator": "Aaron OBrien",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flyingspheres.android.cbwr",
+  "extendedInfo": {
+    "installSize": "298k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Comic Book Pick List keeps you up to date on the new comic books released every week.  You can also create a subscription which will automatically move your favorites into your pick list.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.9",
+        "timestampMsec": "1320972879212",
+        "starRating": "4",
+        "title": "Great app",
+        "comment": "Awesome app, use it every week! Needs update for larger screen on Amaze",
+        "commentId": "lg:AOqpTOGHz5E2IJNAkBxB_LUeDbItH7y6X2KziWwsnGy4KIUwZAJQsT-DNEg72M1Hy7rNL7rO92PJ0f8gGoamQQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.9",
+        "timestampMsec": "1343071693771",
+        "starRating": "5",
+        "title": "Great App!",
+        "comment": "For the future, is there any chance of disabling publishers that I don\\'t care about?",
+        "commentId": "lg:AOqpTOE0o4YATQfk-aa_hFj9CVnnW3jMi2Csg0vkjg5rgMjmSk0jam8u3awEFSmVS8e91Uo04YrhD6EGb-uhQw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1282528304421",
+        "starRating": "5",
+        "comment": "Excellent app that does what it claims. Also great support from the creator!",
+        "commentId": "lg:AOqpTOGyVnJorNi82aAhUyNySfFxxPWetR8QSykbQ15nM3s7t-YLII8q580-TYjmneIzRiv_WdVbjMMSak9fog",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1280381403941",
+        "starRating": "5",
+        "comment": "Bens whining . Amazing app.. just what i need. Thankss",
+        "commentId": "lg:AOqpTOFZzRQg04WDA9SozUJ_5jrahGHzKlfuR_0-Twa8d4BZFWORNLT6ZIJGZ6zgq8ZLGbC1S9tQnPF_63-Acg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1279775033017",
+        "starRating": "1",
+        "comment": "No covers, bad ui, annoying to browse, slow",
+        "commentId": "lg:AOqpTOFHkehZBLs6Z2nLP8w_XtzQ2ZMkcMFilqLQvSJlLO9RqoYkYBz2iUFlpXRtsU2pUSlsPtP3IjtEm7NluQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1278704459266",
+        "starRating": "5",
+        "comment": "Cool interface. My local shop sometimes misses titles for my subscription box. This is great for me. +It can be automated to add titles to your list.",
+        "commentId": "lg:AOqpTOF4X_jtig7VAkR0VF3xBhjKQKxHiI1Cgcj5sNAZRfZhL7L4nKRHOON9k7l1QMk-MQpa7qEBQJDjknRn4Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

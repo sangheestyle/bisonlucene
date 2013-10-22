@@ -1,0 +1,31 @@
+{
+  "title": "Medical Codes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bim.medlinecode",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "March 21, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "CRinUS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bim.medlinecode",
+  "extendedInfo": {
+    "installSize": "48k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Search MedlinePlus coding information.Problem Codes  SNOMED CT  ICD-9-CMMedication Codes  RXCUI  NDCLab Test Codes  LOINC",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

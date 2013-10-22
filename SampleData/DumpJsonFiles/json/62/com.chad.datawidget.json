@@ -1,0 +1,35 @@
+{
+  "title": "Mobile Data Widget",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chad.datawidget",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "December 3, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Chad's Creative Creations",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chad.datawidget",
+  "extendedInfo": {
+    "installSize": "22k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "I created this widget as I couldn't find a trustworthy widget that worked on gingerbread.  This is a data switch widget that will bring up your accounts and sync if you mobile data is on.  This way you can disable the background data while before the mobile data is turned on (convenient for metered plans).  This should work with all versions of android, but if you have issues please let me know.  If you like my work please consider buying the donate version, but only after you make sure the it works.  The donate version is exactly the same as this free version.Only 2 permissions are required and that is for checking the background data is on or not, and enabling the mobile data (cannot enable or disable background data automatically).  I made sure to keep the permissions down as I know I don't trust a data widget that can read my sd card, contacts, phone info, and/or connect to the internet.  If anyone has more permissions than this requires on a data widget they don't need it and you should question them.Tags/Keywords: widget 4G 3G mobile data free enable disable switch",
+    "reviews": [
+      {
+        "timestampMsec": "1354142910515",
+        "starRating": "4",
+        "title": "Cool it works",
+        "comment": "It actually works on my phone, even though other ones didn\\'t.  I didn\\'t expect it to work without internet permissions like the other widgets I\\'ve tried.  Good job, if it had a green light for data on indicator I would give 5 stars.",
+        "commentId": "gp:AOqpTOEqUOLNRcJhOeqGKNn0HbrQ0jM0ftDFVWc1doaZO_FkyV21nZdUnTRZcKwI0ruH9AOArkxYCa4tpGH31Zc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

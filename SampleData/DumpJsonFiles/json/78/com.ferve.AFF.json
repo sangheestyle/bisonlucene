@@ -1,0 +1,50 @@
+{
+  "title": "Adelaide Film Festival 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ferve.AFF",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "September 4, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "FERVE TICKETS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ferve.AFF",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The Adelaide Film festival celebrates the moving image â the ideas and artists that animate the multiple screens in our lives. Every 2 years, over 11 days, you can immerse yourself in feature films, documentaries, shorts, animations and new media works â in cinemas, galleries and on the city streets. Take a risk â get out of your comfort zone â and travel the globe from your cinema seat. The Adelaide Film Festival app lets you: Explore the program: - Browse the program by name, date, venue, section and strang - Browse âWhatâs Onâ at the festival daily - Find out whether sessions are Selling Fast or Sold Out â try not to miss out! - Read event information and watch film trailers - Find your way around Adelaide with maps for Venues and Partners Buy and download tickets: - Buy tickets securely with your credit card anywhere, anytime - Buy passes and redeem films immediately - Go paperless: download tickets to be scanned at the cinema door - Add your films to iCal Schedule your attendance and share with friends: - Create a shortlist of events through Wishlist - Share events through email, Twitter and Facebook - Share your ticketed sessions with friends through email or add them to iCal - Get the latest festival news straight to your phone - Follow the festival through Facebook, Twitter, Instagram, YouTube and Vimeo feeds - Want to be part of the conversation? Include #AdlFF in your tweets. Left your printed tickets at home? If you buy tickets using the same AFF account details, you can retrieve all the barcodes on your device regardless of how you purchased (counter, web or phone). These barcodes can be scanned on your device for entry at the cinema door. About the developers: Ferve Tickets has been working with festivals in Australia for the last decade, setting up customized ticketing systems to deliver a smooth, stress-free festival experience â for both staff and customers.",
+    "reviews": [
+      {
+        "timestampMsec": "1377832628960",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Work well! The app just does everything i need!!!",
+        "commentId": "gp:AOqpTOHTDujqrUhV4p82NVcHvCMbQYd0aqcrUgPN1DFei7HibCjR8JaPisZHCOC1FPdPr9qnqsb1Ps61-hHQ6A",
+        "author": "Hanh Nguyen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.ferve.AFF.permission.C2D_MESSAGE",
+      "com.ferve.AFF.permission.MAPS_RECEIVE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

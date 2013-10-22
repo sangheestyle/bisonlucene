@@ -1,0 +1,39 @@
+{
+  "title": "The Double Standard",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_5a7933b9e8ed427bae87a198164b01af.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "December 13, 2011",
+  "version": "1.2.5.2111",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Amped Up Entertainment",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_5a7933b9e8ed427bae87a198164b01af.app",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The Double Standard is a chi-chi he/she magazine. Columns ranging from love to food, all written from both the male and female perspective. TDS prints monthly.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_5a7933b9e8ed427bae87a198164b01af.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

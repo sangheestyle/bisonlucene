@@ -1,0 +1,39 @@
+{
+  "title": "Position Tools Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fanfa.mappatrackingpro",
+  "category": "Tools",
+  "price": "$1.30",
+  "datePublished": "September 6, 2013",
+  "version": "1.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Guido Fanfani",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fanfa.mappatrackingpro",
+  "extendedInfo": {
+    "installSize": "262k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Position is a localization tool.It give you your position's information and not only.It allows:-Visualization and zoom your position on map.-Search,Mark,navigation and view latitude and longitude of locality of your choice.-See your GPS's information: availability, latitude, longitude, altitude, speed...-Follow your positionThere is also a Widget to visualization your:- Latitude- Longitude- Altitude- SpeedNo advertising.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

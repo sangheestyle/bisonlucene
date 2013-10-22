@@ -1,0 +1,39 @@
+{
+  "title": "Charming Hotels App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cuatroochenta.hotelesconencanto",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "September 6, 2013",
+  "version": "1.0.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "4.7777777",
+  "contentRating": "Low Maturity",
+  "creator": "cuatroochenta.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cuatroochenta.hotelesconencanto",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "APP \"HOTELES CON ENCANTO\" ofrece una forma sencilla y agradable de consultar los hoteles mÃ¡s singulares de EspaÃ±a, convirtiendo tu viaje en una experiencia Ãºnica. Hemos hecho una selecciÃ³n bajo los criterios de calidad, originalidad y personalidad, con lo que sÃ³lo lo tendrÃ¡s que elegir el tipo de experiencia que quieres vivir y encontrarÃ¡s exactamente los hoteles que se adaptan a ti, sin intermediarios. App Hoteles con Encanto fomenta el turismo con personalidad.Â¿QuÃ© encontrarÃ¡s en la app?- AparecerÃ¡ el listado de hoteles con fotografÃ­as, ordenados en funciÃ³n de la proximidad a tu localizaciÃ³n y con los precios que ofrecen. Puedes activar la vista en mapa, para ver todos los puntos de EspaÃ±a donde tenemos hoteles seleccionados.- En el cuadro âbuscarâ puedes indicar una localizaciÃ³n, nombre de hotel, etc. para encontrar exactamente aquello que buscas.- Si quieres una bÃºsqueda mÃ¡s personalizada utiliza los filtros: precio, localizaciÃ³n (por provincia y poblaciÃ³n) y tipo de experiencia que buscas.- Cuando entres en un hotel en concreto podrÃ¡s ver:- Su descripciÃ³n: direcciÃ³n, localizaciÃ³n en el mapa, las habitaciones, ofertas especiales, servicios y condiciones del hotel. TambiÃ©n podrÃ¡s compartirlo a travÃ©s de las redes sociales y/o mail.- Los lugares de interÃ©s cercanos al hotel para que puedas planificar tu viaje.- Los eventos que se celebran en el hotel o sus proximidades.- El tiempo que hace en tu destino.- PodrÃ¡s comenzar tu reserva desde la aplicaciÃ³n, pero directamente con el hotel, no somos intermediarios, no cobramos comisiones.- PodrÃ¡s guardar tus hoteles favoritos para facilitar tu elecciÃ³n.- PodrÃ¡s ponerte en contacto con el hotel a travÃ©s de mail.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.cuatroochenta.hotelesconencanto.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.cuatroochenta.hotelesconencanto.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

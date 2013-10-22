@@ -1,0 +1,57 @@
+{
+  "title": "Kill It - A Task Killer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ds.killit",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 8, 2013",
+  "version": "4.0",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "DEEPSA Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ds.killit",
+  "extendedInfo": {
+    "installSize": "497k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Kill It - A Task KillerMemory management utility for Your Android smartphone1. Your smartphone's battery is getting low very soon?2. Your smartphone performing any task very slow?You are facing these problems because your smartphone is running many unwanted application in background and those running applications consuming your battery and memory.Kill it is the solution for these problems.Kill It has following features which makes your smartphone faster, and saves battery. 1.. Kill all background running task (User performed action)2.. Kill all background running task (Auto killing on a frequent time)3.. Touch and swipe any process to kill it.4.. Auto RAM refresh.5.. Save your Android smartphone battery by killing unwanted background processes.6.. Ignore list to protect apps from manual and auto killing7.. It freed more RAM hence your Android smartphone works faster8.. Clear cache memory consumed by other apps to give you more space.NOTE: If you have any suggestion or found any bug in the application, please drop me a mail at deepsa.apps@gmail.com. Thanks for your support. Have a nice day.Keywords: \"kill it\", \"task killer\", \"battery saver\", Kill, Task killer, battery saver, optimization, optimizer, memory.",
+    "reviews": [
+      {
+        "timestampMsec": "1376829419902",
+        "starRating": "1",
+        "title": "Ad ware!!!",
+        "comment": "Don\\'t download!!",
+        "commentId": "gp:AOqpTOEwoYeFKWICVzsOYE10QtQ2MllR1Bcvh5Isj_WauvfctV4XsCU2Fa41uGoSlrJ9I_miCigDHJWjDQBFbQ",
+        "author": "Steven Vazquez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CLEAR_APP_CACHE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_CONTACTS",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_SMS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS"
+    ]
+  }
+}

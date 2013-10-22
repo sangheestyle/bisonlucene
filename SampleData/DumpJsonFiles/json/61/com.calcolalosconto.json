@@ -1,0 +1,45 @@
+{
+  "title": "Easy discount calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.calcolalosconto",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "August 6, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "35",
+  "rating": "4.885714",
+  "contentRating": "Low Maturity",
+  "creator": "Naftaweb",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.calcolalosconto",
+  "extendedInfo": {
+    "installSize": "843k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Sei stufo di dover effettuare calcoli a mente o con la calcolatrice quando stai facendo shopping? Niente paura!Inserisci il prezzo e lo sconto e otterrai subito il prezzo scontato!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

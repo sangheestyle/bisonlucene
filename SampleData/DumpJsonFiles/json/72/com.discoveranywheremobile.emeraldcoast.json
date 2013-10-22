@@ -1,0 +1,69 @@
+{
+  "title": "Emerald Coast Trip Planner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.discoveranywheremobile.emeraldcoast",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 31, 2011",
+  "version": "2.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "15",
+  "rating": "4.4",
+  "contentRating": "Low Maturity",
+  "creator": "Discover Anywhere Mobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.discoveranywheremobile.emeraldcoast",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Floridaâs Emerald Coast includes Destin, Fort Walton Beach and Okaloosa Island, which are home to some of the most beautiful beaches in the world. The Emerald Coast Travel Planner is your source for information on accommodations, attractions, dining and events in these beautiful locations.Â· Explore accommodations, dining and things to doÂ· View an extensive calendar of eventsÂ· Find things to do nearby through your phoneâs GPSÂ· View Floridaâs Emerald Coastâs social media profilesÂ· Add favoritesÂ· and more!",
+    "reviews": [
+      {
+        "timestampMsec": "1341372674308",
+        "starRating": "3",
+        "title": "Needs more",
+        "comment": "Restaurant listing thorough but only basic info offered. Weak listing of attractions",
+        "commentId": "lg:AOqpTOGvcP1UV2E3xdtaX-LTiPtRNrlAHTo8ssXB0wJhnLnGc-FZPZJkfJ9ahWuIGqOksoFgUf9i0P6mQutSEA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345238854695",
+        "starRating": "3",
+        "title": "Version 2.4 available?",
+        "comment": "When I launch version 2.3, it says press okay to go to the Market to get version 2.4.  However, in the Market, I see only version 2.3.  Oh, well.",
+        "commentId": "lg:AOqpTOH0r9ZQWMrnsmM8VH8Fm6O7-wVwjIKdF89d_48oyP_uS0JQzZ-uHYjcwfnLVfXQDhYf1e5M7XN4IM5lMw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336243935336",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Best app for destination/FWB Vacationers.",
+        "commentId": "lg:AOqpTOFaNzete-eLXLV4D4PV8l3pjUuxG2EPYmEhYX12YGhlfk3syqmYvM6tEaQ0Dz-gh0yhVWM_VwkyqBaGBA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331321879257",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "Very useful for my destin trip.",
+        "commentId": "lg:AOqpTOHKXhZybhmGG1VgsjucYAJaVp19qNcg0ZhWh4uU-70J5aYXypcxXhY1VGHRhAG36T8hTFp3fQAHz5GKzQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Ryerson Commerce Society",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.campuscurrent.rcs",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "CampusCurrent MOBILE",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.campuscurrent.rcs",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Instant access to campus events, important dates, phone numbers and news on your Android provided by the Ted Rogers School of Management at Ryerson University and the Ryerson Commerce Society, and sponsored by CGA Ontario.Is today the last day to drop a course? Never miss a date like this; simply click to add it to iCal.Need to call the registrars office? Features:* Real-time access to campus events, dates, phone numbers, news and more!* Personalize content just for youâ¦.and much more added all the timeâ¦In the Press:âThis mobile application will inform students about the RCS and the many services it offers to TRSM students. Please check this application frequently for upcoming events and initiatives!âSamantha Almeida, Vice President of Administration and Operations âOur new campus app provides opportunities to interact and inform students better than ever before.âNatasha Campagna, Vice President Events and MarketingSponsored by CGA OntarioDriven by CampusCurrent",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Weather Maps Beta",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fingrtips.beta.weathermaps",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "March 10, 2013",
+  "version": "0.6.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "79",
+  "rating": "4.101266",
+  "contentRating": "Low Maturity",
+  "creator": "Fingrtips",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fingrtips.beta.weathermaps",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "--- THIS IS A BETA VERSION: If you experience some error or if you want suggest a new feature, feel free to write to fingrtips@gmail.com * I need help in proofreading translations...--- Weather Maps shows you the weather directly on Google Mapsâ¢.You can use it to see the current conditions and the forecast for today and tomorrow. You can customize your maps by choosing from nine sets of icons and by defining the list of your favourite cities.Weather Maps includes five kinds of maps:- the classical weather map- a simulation of satellite view- a map of cities temperature- the current cities humidity- a direct view of current windsThis app is intended as a tool for graphical visualization of free third-parts data, all responsibility for data incompleteness or accuracy are declined.- cities list is derived by the database of GeoNamesâ¢- weather data are retrieved by web services of Yahoo! Weatherâ¢* Translation by Roberto CraveroKeywords: weather, maps, forecast, satellite view, temperature, humidity, wind, barometric pressure, wind map",
+    "reviews": [
+      {
+        "timestampMsec": "1353794339351",
+        "starRating": "4",
+        "title": "Thank you for disabling GPS",
+        "comment": "Please create a button to grab my location and home in on it.",
+        "commentId": "lg:AOqpTOHtqHpEaoDGfAKcccIiQNbKm_qmRrMAt1_cXBiJ42mmY9VIGioxLP499TcEROCBOQo8QOmSdCIavTgaMXI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353043278542",
+        "starRating": "5",
+        "title": "Ali",
+        "comment": "Great app thanks .",
+        "commentId": "lg:AOqpTOGyGEvEq1Fy4cArLFNeAgk7FVNpO8pW900PfMDqo9uAAdRjs8nV6y2oJfPohyajX6c839XGCHoiUS3VAP4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353069657373",
+        "starRating": "5",
+        "title": "3\\320\\262o\\314\\262o\\314\\262\\304\\217",
+        "comment": "Very good -- quick and easy",
+        "commentId": "lg:AOqpTOGyegiXuE-ViQ0jcv1mAEFZ4FNvD_Fyl5hqBlF1a9obk0gZcXElJzxBusTSxn9wRXk8vV-G-yuY-FEqQEA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.1.6",
+        "timestampMsec": "1340020084874",
+        "starRating": "5",
+        "title": "I like it.",
+        "comment": "Good attempt to show global weather on the world map. There is a lot to add and improve - will wait for future releases.",
+        "commentId": "lg:AOqpTOFKDBwMQgeluitm563HhkjiI7xHhh3rrgh4vYNSXjhnEjVEKOs5EbF3N-D7WHhhNn7B_pIxU0hOTdCQBcc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349321605320",
+        "starRating": "5",
+        "title": "Smooth and easy.",
+        "comment": "Been waiting for this since Google changed their API and you had to change weather data providers. This is smooth on my Galaxy Nexus. Love the.wind option.",
+        "commentId": "lg:AOqpTOGXrRcgdQOOxLsg5o5r9qw9VIebVeC7dcUzhrZfLCtD-Pcn0_s6n6QVsliKtlrIK2f2bON8regb_2QxlR4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

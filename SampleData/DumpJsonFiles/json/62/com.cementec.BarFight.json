@@ -1,0 +1,31 @@
+{
+  "title": "Bar Fight",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cementec.BarFight",
+  "category": "Arcade & Action",
+  "price": "$1.69",
+  "datePublished": "August 17, 2010",
+  "version": "1.0.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "2.6",
+  "contentRating": "Not rated",
+  "creator": "vibroid",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cementec.BarFight",
+  "extendedInfo": {
+    "installSize": "211k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Arm & thumb wrestling are low-tech, old-tech. The game measures speed & acceleration of a participant's punch, or other boxing & karate moves - using phone's built-in accelerometer. Max score is tracked. Audio prompts & scoring make it fun & easy. Compare scores or play against yourself.Please email suggestions/comments.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

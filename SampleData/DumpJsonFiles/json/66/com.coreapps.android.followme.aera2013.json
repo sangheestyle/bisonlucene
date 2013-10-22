@@ -1,0 +1,51 @@
+{
+  "title": "2013 AERA Annual Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aera2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 19, 2013",
+  "version": "4.2.4.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aera2013",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Education and Poverty: Theory, Research, Policy and Praxis -- Education has long been seen as a way out of poverty. Educational systems also perpetuate cycles of poverty and wealth. Poverty interacts with education through local, national, and international systems of financial markets and the global knowledge economy. The goal is to consider the relationships of education and poverty.  The theme is conceived broadly to include the ways that education theory, research, policy, and praxis contribute to alleviating economic, intellectual and moral poverty.The AERA Annual Meeting 2013 sessions will be held Saturday, April 27 â Wednesday, May 1 in the Grand Hyatt, Hilton Union Square, Hotel Nikko, Park 55, Sir Francis Drake, and Westin St. Francis. Registration will take place in the Hilton Union Square. The exhibit hall will also be located in the Hilton Union Square, Grand Ballroom Level, Tower 2, Grand Ballroom, and will be open Sunday, April 28 â Tuesday, April 30.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.aera2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

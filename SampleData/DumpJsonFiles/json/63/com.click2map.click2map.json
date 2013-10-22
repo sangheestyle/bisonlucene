@@ -1,0 +1,41 @@
+{
+  "title": "Click2Map",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.click2map.click2map",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 16, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "3.8333333",
+  "contentRating": "Low Maturity",
+  "creator": "Click2Map",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.click2map.click2map",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Click2Map Mobile helps you create and manage advanced online maps from your smartphone and tablet. It's never been easier to create personalized maps with your own points of interest and organize them into customizable groups with the visual representation of your choosing: Click2Map Mobile was designed just for that purpose! Click2Map Mobile is a free mobile application for smartphones and tablets developed by the creators of the Click2Map online mapping service: all the maps, groups, points of interest and photos created with the mobile application are accessible with the browser based application and vice-versa. Main features * Create and manage mobile maps from your smartphone and tablet * Organize your personal or professional points of interest into groups * Seamlessly edit your maps and markers from the mobile app and the online Click2Map service * Customize your points of interest by taking advantage of the included icon libraries * Use the timer to automatically create markers at specific time intervals * Create a POI at your present GPS location and manually fine-tune its position if needed * Create POIs at any location on the map by manually positioning them * Create POIs by geolocating any street address * Create POIs directly from their coordinates (decimal and/or degrees) * Easily create rich POIs including photos - each POI has it own photo gallery ...",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1378449995484",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "So Nice Application",
+        "commentId": "gp:AOqpTOE2FnhiRSSmF7j_e47jN94Ag8ucyGW72YPU0xA4qpTgzcdtatueP3Ayo9e9hCyCRALF_P6TloxMuCTnPg",
+        "author": "ATISH TIWARI",
+        "authorURL": "http://lh4.googleusercontent.com/-qkEMgWvI4UQ/AAAAAAAAAAI/AAAAAAAAALo/m7_njaMMAtU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-qkEMgWvI4UQ/AAAAAAAAAAI/AAAAAAAAALo/m7_njaMMAtU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

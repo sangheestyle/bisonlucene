@@ -1,0 +1,67 @@
+{
+  "title": "Barometer Widget",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cwesoftware.barometer",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "January 2, 2012",
+  "version": "1.0.2",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "10",
+  "rating": "3.3",
+  "contentRating": "Everyone",
+  "creator": "CWE Software LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cwesoftware.barometer",
+  "extendedInfo": {
+    "installSize": "38k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Barometer Widget uses your phone's Pressure Sensor to keep you updated on the current atmospheric pressure at your location! Tracks the current pressure, the pressure trend(if it's moving up or down), and displays whether the pressure is high or low with the color of the text! Widget is updated every 30 minutes.Capable of displaying the pressure in InHg, mmHg, PSI, Milli Bars, and Bars. Great for fishing!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1364539022451",
+        "starRating": "4",
+        "title": "Good app does what it should",
+        "comment": "But add options to change update rate I don\\'t know how often it updates pressure",
+        "commentId": "gp:AOqpTOE_F9p8-wFBTkNWOI3wuiH022yRkumORtvl3whUqHjyWBHD2JMCkl2HDVkHN5--4YaIKDMF8OuBOTEdKW4",
+        "author": "Igor K",
+        "authorURL": "http://lh3.googleusercontent.com/-6hdIpKXdSlE/AAAAAAAAAAI/AAAAAAAAAjE/szzQJOPQItA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-6hdIpKXdSlE/AAAAAAAAAAI/AAAAAAAAAjE/szzQJOPQItA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1370542246445",
+        "starRating": "1",
+        "title": "Not opening",
+        "comment": "Will not open on my android Razer 2. Just goes to measurement reading settings.",
+        "commentId": "gp:AOqpTOFA9F40r3gpHYOPQBTbH0CZKZMwzVPuUWVypspYRQviv8Ris1eIsvEh4QFIpCNKV7gJBbKBDg2BeZqoTmI",
+        "author": "Justin Dunning",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339633847435",
+        "starRating": "1",
+        "title": "Doesn\\'t create an entry in the widgets list",
+        "comment": "...kind of useless if I can\\'t place the widget.",
+        "commentId": "lg:AOqpTOFRrzIxhAnqCCEGK3agCHdMoKTuNJ9vef0OujSjh9PWoBOIDWzPbe4gRnW-v-wdfy6IFNNWlmYWlTAp1dI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356456137577",
+        "starRating": "1",
+        "title": "Not work on my lg motion dual core 1.5Ghz",
+        "comment": "Some another time",
+        "commentId": "gp:AOqpTOGBNccz0zGsrP5dPcom6eopbm5tFfSWs9KucpPJxJalEzGL9DXYs3Ejm-zJSonHosLFmsT90_ylQpqD_Es",
+        "author": "Jonk Dawg",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

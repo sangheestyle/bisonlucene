@@ -1,0 +1,51 @@
+{
+  "title": "Central Area Conf of the Links",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.calinks2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "June 4, 2013",
+  "version": "4.2.5.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.calinks2013",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Links, Incorporated, founded in 1946 in Philadelphia, PA, is a premier women's volunteer service organization dedicated to friendship and service with more than 12,000 members in 276 chapters located in 42 states, the District of Columbia, and the Commonwealth of the Bahamas.The Central Area of The Links, Incorporated, comprised of 17 states throughout the Midwest with 69 chapters and over 2200, members meet in Little Rock, AR for the 38th Central Area Conference providing workshops, training and activities leading to transformational, sustainable and replicable programs to improve the quality of life for individuals, families and communities.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.calinks2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

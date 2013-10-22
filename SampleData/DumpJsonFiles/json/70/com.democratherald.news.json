@@ -1,0 +1,70 @@
+{
+  "title": "Democrat Herald",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.democratherald.news",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "March 1, 2013",
+  "version": "1.9.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "10",
+  "rating": "3.7",
+  "contentRating": "Low Maturity",
+  "creator": "Lee Enterprises",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.democratherald.news",
+  "extendedInfo": {
+    "installSize": "541k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Get local news in and around S.W. Albany, OR.Stay in touch with S.W. Albany, OR wherever you are with the Android edition of the Democrat Herald.Youâll get all the in-depth reporting, analysis and commentary from the Democrat Herald, along with interactive photo galleries, videos and more. Enable push notifications and be alerted the minute breaking news is posted.Save your favorite stories for offline browsing. Share stories, photos and videos with friends by e-mail or connect via e-mail, Facebook or Twitter.In latest news, youâll get instant updates on breaking stories. Youâll discover our in-depth political coverage, commentary and our watchdog journalism. Plus youâll be able to browse and save your works from your favorite columnists.Weâve added classified ads and a Deals tab where you can quickly access limited time offers with incredible savings.Our sports section will provide you with the scoops, insights and best coverage around for your favorite local teams.And, you can get your current weather conditions, hourly and a 7-Day forecast to plan your week.Have something to say? Share your thoughts by commenting on stories.",
+    "reviews": [
+      {
+        "timestampMsec": "1363782811584",
+        "starRating": "5",
+        "title": "Motorola Razor maxx",
+        "comment": "Great news source  Thanks",
+        "commentId": "lg:AOqpTOFfPEpShdTOPbHFKNPmCJepU7703qC0wA0wV8zwFYDlo0eihCgToBoUII-FDg3TBgCP3hBkBfhn5MSM30o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1304251070523",
+        "starRating": "3",
+        "comment": "Works fine, would be nice if you could view other news items other than most recent and most viewed. Other than that, decent app",
+        "commentId": "lg:AOqpTOHNqXHtfpqzlPl4U3DCnrKZdqkcbmP9w11FR-1zyFa5GWXrDwVDMU-FJqmCWKnoe6eVSOXzST-ufG1-SNE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1301412195804",
+        "starRating": "1",
+        "comment": "Doesnt work. Uninstall",
+        "commentId": "lg:AOqpTOGChmBaissV7a2hJ3-ABZHM9mQMc3snStawFJrdIiBlibxBTwmHZXivSG47vgjgH6qH3lYor-RMfbP-TIQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333816473442",
+        "starRating": "5",
+        "title": "Very good.",
+        "comment": "Updates regularly and keeps me up to date with my local news.",
+        "commentId": "lg:AOqpTOGXQxqWnHV3ebh-w6rLAEMul2QoX47x-ndx_AT6ccVfq0b33GWHZCENQTBBuhQU9HV__5v33oa03oT9CYs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "com.democratherald.news.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

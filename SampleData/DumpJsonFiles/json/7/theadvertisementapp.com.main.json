@@ -1,0 +1,32 @@
+{
+  "title": "Advertisements AdList",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=theadvertisementapp.com.main",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "August 5, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Wilsonfied Engineering",
+  "creatorURL": "https://play.google.com/store/apps/details?id=theadvertisementapp.com.main",
+  "extendedInfo": {
+    "installSize": "50k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This application was created to make a simple short list of advertisements.  If you want to open an app that will give you some quick ideas for your next purchases or apps to download then give this a try!There is a refresh button for the list so, if you aren't interested in the first set of ads, then simply refresh to get some more!keywords:Advertise , Ad , advertise , ad , Ads , ads , Google Ads , google ads , google ad , Google Ad , Ad Mob , push ads , advertisement",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

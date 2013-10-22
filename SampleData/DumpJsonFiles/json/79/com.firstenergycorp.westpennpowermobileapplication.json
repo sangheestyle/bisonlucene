@@ -1,0 +1,51 @@
+{
+  "title": "West Penn Power",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.firstenergycorp.westpennpowermobileapplication",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "January 25, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "FirstEnergy Service Company",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.firstenergycorp.westpennpowermobileapplication",
+  "extendedInfo": {
+    "installSize": "355k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "With our secure and convenient mobile application, you can view and pay your West Penn Power utility bill, review your electric usage, see your payment history and sign up for paperless, electronic billing through our eBill service. The app also features a quick and easy process to report power outages, and provides a snapshot of current outages on the FirstEnergy 24/7 Power Center map. Plus, you can stay connected with us through one-touch phone access to our call center and links to our social media accounts. You will need to register your electric account online to take advantage of the billing features, and enroll in eBill to view your entire bill statement. West Penn Power, formerly known as Allegheny Power, serves electric customers in central and western Pennsylvania.",
+    "reviews": [
+      {
+        "timestampMsec": "1364225669418",
+        "starRating": "2",
+        "title": "Shutdown",
+        "comment": "There is no exit button. Back arrow does mot exit app. Have to restart phone to exit app.",
+        "commentId": "gp:AOqpTOH_LBEGhvVG3lskLHGD_kJifZE0xUehwn9muiWuVvKM8S68tPR2ciRLnatI3-kC8l9C5EqdKyzBuYojdGo",
+        "author": "Gilbert McCabe",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371148748088",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "Simple and easy on-the-go account updates.  Good enough for me!",
+        "commentId": "gp:AOqpTOGQldUHIPD-b_DRikVeu0Qq-ZVoQH4fkZgCp1hH2fADvsnkWwRbCa9VIjcXm_7RMu7fo9yT1kRmGWVw2j0",
+        "author": "Travis Brant",
+        "authorURL": "http://lh4.googleusercontent.com/-TqU_7ykDj3I/AAAAAAAAAAI/AAAAAAAAA8I/e4_HyOYOw2g/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-TqU_7ykDj3I/AAAAAAAAAAI/AAAAAAAAA8I/e4_HyOYOw2g/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

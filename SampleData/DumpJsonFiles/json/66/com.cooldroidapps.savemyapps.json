@@ -1,0 +1,48 @@
+{
+  "title": "Save My Apps (Apps Manager)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cooldroidapps.savemyapps",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 5, 2013",
+  "version": "1.9.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.625",
+  "contentRating": "Everyone",
+  "creator": "Geek Droid",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cooldroidapps.savemyapps",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "IF YOU LIKE THIS APP YOU CAN DONATE BY DOWNLOADING THE PRO VERSION FOR ONLY U$S 0.99: Save My Apps Pro (https://market.android.com/details?id=com.cooldroidapps.savemyappspro)THIS VERSION HAS THE SAME FEATURES BUT NO ADS :-)-----------------------------------------------------------Save My Apps is an applications manager.* What this app does:- Displays a list of all the apps you have installed in your device (only the ones you installed, not the ones that came pre-installed).- Allows you to order the list mentioned before on different ways.- Allows you to save information about the apps (name, package name and installation link) you choose in a \"task list\" called \"SaveMyAppsDefaultList\" inside your GMail account (you can check this information later by accessing your account in the browser, pressing \"Mail\" in the left up corner and choosing \"Tasks\").- Allows you to remove apps information from the list mentioned before.- Allows you to share your apps information (for now app name, package name and installation link) with your friends through SMS, GMail, etc.- Allows you to install several apps (if you saved its information before) from the Android Market with one clic, no need to look for them by opening the Android Market, typing their names and searching through the results list.- I have several new features in mind that I'll develop and share when I find the time.* What this up doesn't do:- It doesn't save the actual application installer.- It doesn't save your app configuration (although I'll try to add this in future releases).* Why download this app?- Have you ever changed your phone and forgot what applications you had in the old one?- Have you ever wanted to install in your tablet an app that you have in your phone but you felt too lazy to get off the couch and get your phone from the table? (Ok maybe this is kind of an exaggeration :P)- Have you ever wanted to share some cool app that you found with your friends so they can install it too?Well, if you answered yes to any of those questions (or any related and similar question that I didn't think of) you must have this app...or you can write your app names in a notebook and carry it around everywhere...your choice.  * Feedback:  If you have any suggestions, complaints or whatever about the app you can contact me by email at cool.apps.android@gmail.com",
+    "reviews": [
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1360613968805",
+        "starRating": "5",
+        "title": "Thankz for the new update!!",
+        "comment": "Thankz!",
+        "commentId": "gp:AOqpTOHvixNi6AdKI7C4jaS8hjzJUJwtS5wPvlCrmnh4B_aazhvwXWPrRCtkmQxLvRV9lwDsmpXHTLcaxMlMfQ",
+        "author": "Marchia Dolbow",
+        "authorURL": "http://lh4.googleusercontent.com/-CnBZqBiYN4Q/AAAAAAAAAAI/AAAAAAAAALQ/6X9Ch7nmOGY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-CnBZqBiYN4Q/AAAAAAAAAAI/AAAAAAAAALQ/6X9Ch7nmOGY/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1327415628522",
+        "starRating": "5",
+        "comment": "Great app",
+        "commentId": "lg:AOqpTOF-ExQ4jr1uJvrqZf1RzCBMt7BaKvfqqzsTjufGGguCpd4ELYez-i1Q3jg4MJHyADZbzW7_LbU2MPrLuQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

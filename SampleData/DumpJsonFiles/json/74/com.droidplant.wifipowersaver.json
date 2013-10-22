@@ -1,0 +1,236 @@
+{
+  "title": "WIFI Power Saver",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidplant.wifipowersaver",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.0.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "918",
+  "rating": "4.5446625",
+  "contentRating": "Everyone",
+  "creator": "droidplant",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidplant.wifipowersaver",
+  "extendedInfo": {
+    "installSize": "50k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Save battery by having this minimal application automatically turn off your wifi/wlan when there is no network available. Wifi Power Saver itself only runs when your wifi/wlan state changes so it does hardly use any battery at all.Example 1: You are at home where you have a wifi/wlan connection. You turn on wifi/wlan and use your device. When leaving home you loose your connection to your home network, but wifi/wlan is still enabled on your device using battery. Using WIFI Power Saver it will automatically detect that you lost your connection to your home network and disable wifi/wlan on your device, saving battery.Example 2: You want to check if there are any wifi/wlan networks at your current location. You enable wifi/wlan on your device. If no networks are found WIFI Power Saver will disable wifi/wlan on your device automatically.Use this application if:* You want to save battery by not having wifi/wlan enabled  when there is no network available* Want to manually enable wifi/wlan when you want to use it, but not have to remember to turn it off. If you enable notification you can choose to re enable wifi/wlan when you click the notification.Do NOT use this application if:* You always want your wifi/wlan enabled searching for networks (uses battery)* Want your wifi/wlan automatically to connect when networks are availableNOTE: In android 4.1.2 there is a setting under Settings->Wifi->Menu button->Advanced called \"Keep Wi-Fi on during sleep\". The default value has been changed in android 4.1.2 on some devices. If this is not set to always then Wi-Fi will be disabled when your device goes into sleep mode and switch over to mobile data traffic if available. When this setting is not set to always WIFI Pover saver will not work properly. Tested on HTC Desire. If you have any trouble on other devices please send an email to droidplant@gmail.com",
+    "reviews": [
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1364338474766",
+        "starRating": "5",
+        "title": "Galaxy s3",
+        "comment": "Great app so far. I find it funny that the only person with a bad rating is complaining cause it disconnects his WiFi. Read the description of what the app dose",
+        "commentId": "gp:AOqpTOH1LQ8wESH-ZOm68aVBnpQCQC4l5zNjPlq7GXWckseiQ9C4MmoLNRYZqSdsVVKt2TnPzJTwhBXwQfm6Eg",
+        "author": "Will Collins",
+        "authorURL": "http://lh4.googleusercontent.com/-YIn3moxoU_A/AAAAAAAAAAI/AAAAAAAAlUQ/Ux4BHJJH1Gc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-YIn3moxoU_A/AAAAAAAAAAI/AAAAAAAAlUQ/Ux4BHJJH1Gc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1349426544414",
+        "starRating": "1",
+        "title": "Keep disconnecting my WiFi",
+        "comment": "Since I installed this app, it disconnect my WiFi every 3 hours & I have to reconnect. This is despite I am within a few feet of my router. When I leave home, it disconnects, but does not reconnect when WiFi becomes available. Very unpredictable application. Uninstalling.",
+        "commentId": "lg:AOqpTOEUoZusZ1gog29Mov7GmOBGgWxVW67Rp90iVSa7tr47XWL8J54ReaWkd93xTOaFo1KrwuoNs9_rv0xtVg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1341784320654",
+        "starRating": "5",
+        "title": "Great tool",
+        "comment": "This is the perfect app for what I needed. When I leave my house I don\\'t have to worry about turning off the wifi",
+        "commentId": "lg:AOqpTOG0tKBLy9E7XCoxIRBzE9yfaSn2ZF9ejoRe1QN7M9W5T0XC6LQlijiVS_2HQCoScScp4tQ5z_9yyNlDvg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1352502240448",
+        "starRating": "2",
+        "title": "Dissatisfied",
+        "comment": "Worked for the first day, then locked may wifi from being able to scan at all. Rebooted my phone and was able to get wifi to work again, but only for 37 minutes. Rebooting again didn\\'t get my wifi up again. Had to uninstall to get my wifi up and running again. It\\'s to bad I had high hope for this app.",
+        "commentId": "lg:AOqpTOFS50Q2EOndTdVzyvBSt_g_0MknNm652_1HeKUePK-P8pbe9c_3OvmPCCDypuUu4WW5OWZmu7cK-iM5CQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1357451135325",
+        "starRating": "3",
+        "title": "Good but issues in 4.1.2",
+        "comment": "Great app used to work flawlessly on all devices till the 4.1.2 upgrade on note 2. Disabled wifi repeatedly on it own.",
+        "commentId": "gp:AOqpTOHja8yHxHqmZ48X5gHmDCip0qjG22BPDuGthO7S0TjKcxSitrxO6N--ULLsiQ-xggXo3EwCqA1t2FQSKQ",
+        "author": "Utkarsh Verma",
+        "authorURL": "http://lh6.googleusercontent.com/-0_u8uEzNwFk/AAAAAAAAAAI/AAAAAAAAJkI/lJrJPKmjww0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-0_u8uEzNwFk/AAAAAAAAAAI/AAAAAAAAJkI/lJrJPKmjww0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1349398867126",
+        "starRating": "5",
+        "title": "EVO 3d",
+        "comment": "Works really nice have it set to disconnect my wifi after 1 minute canal leave the house without worring about leaving on my wifi or if I leave a Starbucks or McDonalds",
+        "commentId": "lg:AOqpTOFluRxxIWwJvBAv10jap34-6QYF_MYawAG4sAb9nSum2fIrwe6euxPNUMDqynOk6vmAD9aYGiqIcY9UQg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1369699827136",
+        "starRating": "3",
+        "title": "Hmmmm",
+        "comment": "So far so good.  The app shuts down my Wi-Fi when I leave my Wi-Fi connection at home leaving me to manually enable it later when I come back. Awesome.  Exactly what I was looking for. I have a tendency to forget to shut it off.  5 stars later if it keeps up the good work.",
+        "commentId": "gp:AOqpTOEi2uuHZglaIdsoLZKAnAvPl984OBdV0jmNOO5jz44SLuYgSBuvIGNiR62Vuwm2wDnzKoOynb9U2o9aCQ",
+        "author": "Steph Horvath",
+        "authorURL": "http://lh3.googleusercontent.com/-DHCaXRC_emY/AAAAAAAAAAI/AAAAAAAAAiw/Pjq8jFGkYIw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-DHCaXRC_emY/AAAAAAAAAAI/AAAAAAAAAiw/Pjq8jFGkYIw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1360375569826",
+        "starRating": "5",
+        "title": "Lightweight and works perfectly.",
+        "comment": "Tiny application that does what it says - it powers off WiFi when you are not in a WiFi area and saves power. My phone was not making it through the day and this app pushes it overnight now. Easy to reset WiFi with the notification icon. Great app!",
+        "commentId": "gp:AOqpTOFBuo84Ex33aOmRnQS4SlDgI19U6Q6l11LnTRbDunZlMa1JScgB5Qxo9hvPlinM1wMm0DHdJlZTcUvlDg",
+        "author": "Chris Olsen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1375215467452",
+        "starRating": "5",
+        "title": "Finally",
+        "comment": "Finally i found an app which helps with todays biggest annoyance: my smartphones ever draining battery. This one helps reducing its drain, all other stuff i tried did not give a noticeable effect until i found out wifi is the biggest issue and this app helps managing your battery drain while looking for wifi! Great app, could be improved by automatically attempting to find and connect to wifi every 30 to 60 min or so.",
+        "commentId": "gp:AOqpTOFJ5yI3iu82tLJFkzz6U9olKSaU3ABRBA0ng93Ki0RwN2srNO38at1QzOYwaof2hYuI9wJdxi4E4GMSBw",
+        "author": "Andre van den Berg",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1353285891594",
+        "starRating": "5",
+        "title": "Awsome!",
+        "comment": "I love this program,I kept having problems with my wifi automatically trying to turn itself on even after I turned it off. Now with this little handy program all my troubles have stopped.I can turn my wifi back on at anytime when I need to use it and this little program never causes me any problems.thanks for the perfect app.",
+        "commentId": "lg:AOqpTOH7zOqClzTrN7Z9D-hOKQnOUUb_7MCJtdVwRef7J6WoJVl2n7O_sd7dsjjUSUHPAr8ngVtU-uZGaUYAbw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1376941826296",
+        "starRating": "4",
+        "title": "Simple, but gets the job done",
+        "comment": "Other similar apps try to be too smart, but end up making too many annoying mistakes, falling short of their promises.  Not this app, which promises a simple functionality and does it well.  Thanks to it, the battery life of my phone has been extended by several hours without requiring manual intervention.  And enabling WiFi again when getting home is easy to remember, as the first thing I do then is to plug the charger in.  The app did disable WiFi in my tablet, which seldom leaves home, for no apparent reason, but extending the time out addressed the issue.",
+        "commentId": "gp:AOqpTOFM70Defdm4dLFWZV7mOnaB7PW9-M95msF5gmMWcYBc5T9oCwNvraf3ElRjLeW37Na97-0p_4crvZf3bQ",
+        "author": "Evandro Menezes",
+        "authorURL": "http://lh3.googleusercontent.com/-8EuPO_CE4T8/AAAAAAAAAAI/AAAAAAAAALI/ruSwztPppxA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-8EuPO_CE4T8/AAAAAAAAAAI/AAAAAAAAALI/ruSwztPppxA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1334248769096",
+        "starRating": "5",
+        "title": "It works!",
+        "comment": "and with Y5 you get on/off switching automatically.  Thanks for this worry free technology.",
+        "commentId": "lg:AOqpTOES0dOzf7FH-wgFCtb6mSDUu5LNmamC8e2AJkfv5h6OmiAlQ4sKG06KM6PXC5fxEy9MwTnA8awormIVkg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1357688216952",
+        "starRating": "5",
+        "title": "Works great!",
+        "comment": "Certain apps have the annoying habit of automatically turning on WiFi whenever they start. Thankfully, WiFi Power Saver comes to the rescue, turning off the WiFi after another app has turned it on. My only recommendation would be that the minimum intervention time be reduced from one minute to ten seconds. Other than that, keep up the good work.",
+        "commentId": "gp:AOqpTOEh_oJkzD8GvIB5enb_s5Ly7IRsu-ZYMjhXAyWBGStRTI7RsDL3cVAlitVh2rL3SILQbYW9yiB5p1WbQg",
+        "author": "Tom Shire",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1335153029429",
+        "starRating": "5",
+        "title": "Galaxy note",
+        "comment": "Awsome work just say 5 star",
+        "commentId": "lg:AOqpTOFoB77v3HdwcpJDZ2-rOmuGOZmU4smJYyUz5Q2tQjfUvY2NoMf-0bNdTcyRb_qnAqsoYbeVPH-lbS4OvA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1343440791715",
+        "starRating": "3",
+        "title": "giving me probs",
+        "comment": "messes with my dimmer everyrime it kills my wifi for me...? wth?",
+        "commentId": "lg:AOqpTOFZZuq9SJrtWsNiEFLzHlKQqKTHU40zHlWb5MgTDK5DYsEOIIztJVdkFHoLVJHn6JYAE5PB6lSmi93u3Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1332097105131",
+        "starRating": "3",
+        "title": "Lg marquee for boost",
+        "comment": "It cuts off my wifi while I am using it. Why cant it detect that my wifi is in use?  Needless to say I\\'d rather manually turn it off. Uninstalling",
+        "commentId": "lg:AOqpTOH3CyP6xvSA68KEicuTMzXq4tYNjYQ1W4j-T84XGQhCJCV12B2jfrqgFzolXaLk44mNlsOzjY0I1DNnDA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1348761759815",
+        "starRating": "1",
+        "title": "make an ad free version il pay",
+        "comment": "power saving apps that have power sucking adverts constantly refreshing... contradictory",
+        "commentId": "lg:AOqpTOEg0otT3Lm0wakvrilrkZtlNTqKZMD3L9H8Ci0k3b81K8Duh5ju0Rss3486k5O8bbGlLesFs0JQkvh73A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1353363105174",
+        "starRating": "5",
+        "title": "Ace",
+        "comment": "Gona check first then think about rate this ...lol  5 stars",
+        "commentId": "lg:AOqpTOFx6ZtWTp565BXmAg0w8lR_OVrDoKheeX_kRHYvaEktuH0leUCqolLA-PJolmLWjGM8dFbfbVF7ODuDSA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1374581859626",
+        "starRating": "5",
+        "comment": "Cool.",
+        "commentId": "gp:AOqpTOGjxp0KJrZQzrbSgY_uS4uTjPoB6dyFBKnpO5wSmsOGkJe4qNSix4fH3O45JNSMs6y-WU-63s1VBomJmw",
+        "author": "Checkina Coulibaly",
+        "authorURL": "http://lh4.googleusercontent.com/-RjX-bJCkif8/AAAAAAAAAAI/AAAAAAAAFNw/2pU39dDMESE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-RjX-bJCkif8/AAAAAAAAAAI/AAAAAAAAFNw/2pU39dDMESE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1377276839457",
+        "starRating": "4",
+        "title": "Awesome",
+        "comment": "Super Awesome",
+        "commentId": "gp:AOqpTOHzXEPwKLLC0U6w-XQIwywcAStmXkUaYaka9ZkK9fDnY0SWWNIkhj30XzJqAodkuSlsKBM84zO__4ngwg",
+        "author": "Joe Cherry",
+        "authorURL": "http://lh5.googleusercontent.com/-5TY5EBrmDfQ/AAAAAAAAAAI/AAAAAAAAA2Y/gmFMsKfVkJY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-5TY5EBrmDfQ/AAAAAAAAAAI/AAAAAAAAA2Y/gmFMsKfVkJY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

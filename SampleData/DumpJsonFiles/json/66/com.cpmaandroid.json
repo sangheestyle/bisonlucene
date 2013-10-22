@@ -1,0 +1,52 @@
+{
+  "title": "CPMA Middle School",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cpmaandroid",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Jared Brzenski LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cpmaandroid",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "CPMA Middle School (CPMA MS) gives quick access to key information for Creative, Performing, Media Arts Magnet Middle School. It features user-friendly, bright buttons to give instant access to the most useful information to keep users up-to-date about school AND class happenings.It is also a benchmark for how a school can use an app to reach a broader range of people, and can guarantee contact with members of a schools population through push-notifications and app-tracking.  The source code is available as an open source project on GitHub.  You may view the files see how you or your students can set up a similar app for your school**Access teacher information such as class websites, email addresses and important policies for the school**Teachers grouped by department, last name and key words**Office staff grouped by department, along with description of job duties**Virtual planner pages with school policies explained**Access ParentConnect, StudentConnect, or the main website directly through the app**Map gives you directions to school campus from any location",
+    "reviews": [
+      {
+        "timestampMsec": "1377785413407",
+        "starRating": "5",
+        "comment": "Great app. Can\\'t wait to see it evolve.",
+        "commentId": "gp:AOqpTOFJUf6K0g1mOhoXJOkQkidtIikr_RwV-8PtLtsJIh317J6o1TAo9xZAgxj_Ftkz5EtgfQIqnNyaSDWxXA",
+        "author": "Aaron Rubin",
+        "authorURL": "http://lh5.googleusercontent.com/-p4HAF2N1aHw/AAAAAAAAAAI/AAAAAAAAAR4/KXG_64UECRw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-p4HAF2N1aHw/AAAAAAAAAAI/AAAAAAAAAR4/KXG_64UECRw/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "com.cpmaandroid.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Handy Lyrics - Example",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bswhaney.Example",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "April 30, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Kultida Anekboon",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bswhaney.Example",
+  "extendedInfo": {
+    "installSize": "693k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "If you are Example's fan, this app is right for you. Whenever you want to check Example's lyrics, just open this app and choose the lyrics that you want. You don't have to access the internet to get the lyrics. We provide all Example's lyrics here. In the Album tab, you can choose lyrics based on the album. In All lyrics tab, all of Example's lyrics are here. You can quickly search the lyrics by using the search bar at the top of the page.Hope you guy enjoy using this app as much as I enjoy developing it. :)************************Main Features ************************- Lyrics categorized by album - Show all lyrics - Search lyrics************************List of albums ************************- What We Made- Won't Go Quietly- Playing in the Shadows- The Evolution of Man************************List of lyrics ************************- All My Lows- Already Told You- Anything- Are You Sitting Comfortably?- Birthday Card- Blood From A Stone- Care 4 U- Changed The Way You Kiss Me- Close Enemies- Come Taste The Rainbow- Crying Out For Help- Daydreamer- Dirty Face- Eutopia (Fade Away)- From Space- Girl Can't Dance- Hooligans- I Don't Want To- Kickstarts- Last Ones Standing- Let's Be Fucking Stupid- Lying To Yourself- Me & Mandy- Microphone- Midnight Run- Milk Your Goat- Millionaires- Natural Disaster- Never Had A Day- No Sleep For The Wicked- One Way Mirror- Perfect Replacement- Plastic Smile- Playing In The Shadows- Posh Birds- Queen Of Your Dreams- Really Sorry- Say Nothing- Say Nothing (Hardwell & Dannic Remix)- Shot Yourself In The Foot Again- Sick Note- Skies Don't Lie- Snakeskin- So Many Roads- Someone To Die For- Something In The Water- Stay Awake- The Evolution Of Man- The Way- Time Machine- Today I Met Myself- Two Lives- Under The Influence- Watch The Sun Come Up- We'll Be Coming Back- What We Made- Whisper- Won't Believe The Fools- Won't Go Quietly- Wrong In The Head- You Can't Rap",
+    "reviews": [
+      {
+        "timestampMsec": "1375300820712",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "This app is awesome",
+        "commentId": "gp:AOqpTOHo8clapCfflzALvXbEaC-1og4NFSs-gqmP7wDOmwbEmdBtwIKb2CRplTYqRT7_wxrV3QzrhQhcYvmAfg",
+        "author": "Josh Gamble",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

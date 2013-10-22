@@ -1,0 +1,45 @@
+{
+  "title": "NIRSA 2012 Conference and Expo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dub.poweredbydub.assoc.nirsa",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 27, 2012",
+  "version": "1.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Dub Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dub.poweredbydub.assoc.nirsa",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "NIRSA is excited to offer our members this valuable tool. Use this app to help maximize your time in Tampa! The power to make the most out of the 140+ quality educational sessions or the nearly 40 poster presentations developed by established leaders in the field; the nationâs best career center for recreational sports professionals, the Career Opportunities Center, sponsored by Star Trac; opportunities to connect with the nationâs preeminent vendors for the latest in fitness equipment, architectural services, technology, and more at the Recreational Sports Exposition; or the countless opportunities to network with dedicated collegiate recreation students and professionals is now at your fingertips.You can search the exhibitor directory, navigate the Expo Hall and Convention Center with ease, or create a personalized itinerary by adding the sessions you would like to attend to your schedule. The updates will let you follow what attendees are saying about the 2012 NIRSA Annual Conference & Recreational Sports Expo on Twitter to make sure you donât miss any of the great action!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1332556024310",
+        "starRating": "5",
+        "comment": "Great App.!",
+        "commentId": "lg:AOqpTOHq_S1K4fQTW24v01bHDJUnDbN315QY02RTVyIZ95UmEU-T9mYXdrlamG2TCRblAn4-WDe0dXZNDaYQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

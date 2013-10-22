@@ -1,0 +1,40 @@
+{
+  "title": "Cadrage Director's Viewfinder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.distantblue.cadrage",
+  "category": "Photography",
+  "price": "$10.99",
+  "datePublished": "April 24, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "16",
+  "rating": "3.75",
+  "contentRating": "Low Maturity",
+  "creator": "distant blue - mobile solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.distantblue.cadrage",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Cadrage is a directorâs viewfinder for your Android smartphone. This app enables you to accurately preview the framing of any professional camera. Itâs an indispensable tool for directors, cinematographers, location scouts and all other filmmaking and photography professionals. Blocking out a scene or location scouting? Now you have hundreds of cameras right in your pocket! Select your camera and aspect ratio, then choose between zoom and prime lenses and Cadrage will show you whatâs in your frame. Save geotagged snapshots of your framings to the gallery and share them with other departments. In case you donât find your camera in the database, you can easily create custom formats.Cadrage has a build-in calibration tool for your phone's camera. This is essential for accurate previews and also allows the use of any wide-angle or telephoto adapters on your phone.FEATURES:- Extensive format database for film and still cameras (Arri, RED, Canon, Sony and many more)- Geotagged snapshots with format, focal length, title, date and time- High accuracy through calibration tool- Intuitive and fast user interfaceWhen you purchase Cadrage your viewfinder will always be up-to-date. We regularly add new cameras to the database and work on new features that make using Cadrage even more convenient. If youâre experiencing any problems with the app or if youâre missing a certain feature please get in touch with us! We're happy to help you!",
+    "reviews": [
+      {
+        "timestampMsec": "1358716119867",
+        "starRating": "1",
+        "title": "Doesn\\'t work!",
+        "comment": "Wanted to take pictures of my location during the scout and couldn\\'t!?? Couldn\\'t even change cameras!? Waste of 10 dollars. Thanks for making me re-scout.",
+        "commentId": "lg:AOqpTOHJpj-ycwBOHdOHrAFJPyWgkq8GHkGIy6x_aRbee_xLhtv4Vs3i1BiTenDsyekAwDjRQrg8fUJQJtlgOyk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

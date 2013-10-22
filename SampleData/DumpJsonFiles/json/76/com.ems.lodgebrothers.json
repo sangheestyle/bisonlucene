@@ -1,0 +1,43 @@
+{
+  "title": "Lodge Brothers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ems.lodgebrothers",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 12, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Appitized",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ems.lodgebrothers",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The Lodge Brothers App allows users to access key information about the funeral services provided and aims to lessen the burden of arranging a funeral. The family run business has been undertaking funeral arrangements for over 200 years and have filtered their service down into this easy to navigate App.With a well established reputation for quality based on compassion and professionalism, the Lodge Brothers App helps users to plan and organise the necessary arrangements, offering counselling and support where needed.For simple, traditional or even elaborate funerals, the Lodge Brothers App can help.Features:To-do List: prioritise your activities and simplify the planning process.Advice: gain helpful counselling and support for your grief.Contact: enquire about the funeral services available.GPS navigation: find the precise location and receive directions.Social media: share the App with friends or relatives via social media.What's New in this VersionThe App's performance has been imporved by fixing a few minor bugs.KeywordsLodge, Lodge Bros, Brothers, Lodge Brothers,Support URLhttp://www.appitized.com/contact-us",
+    "reviews": [
+      {
+        "timestampMsec": "1369063817881",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "A very useful app that helped  me during a dificult time",
+        "commentId": "gp:AOqpTOGhK_hi-GiYDaLGDsj8KABSxFTzvQSRDtei1vK_MueXWeOpJ50Yg474jUl7f81xRc2LQG-i2le8EnKfpSg",
+        "author": "Andy Meadwell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ems.lodgebrothers.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

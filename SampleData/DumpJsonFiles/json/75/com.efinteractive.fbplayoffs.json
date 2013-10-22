@@ -1,0 +1,31 @@
+{
+  "title": "Football Playoff Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.efinteractive.fbplayoffs",
+  "category": "Sports",
+  "price": "$0.99",
+  "datePublished": "October 14, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Extended Family Interactive",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.efinteractive.fbplayoffs",
+  "extendedInfo": {
+    "installSize": "28k",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "What if the 2011 season ended today?From one of the programmers of the original Front Page Sports: Football product.This application reads the latest game outcomes from the pro-football-reference.com website.It then applies the official tie-breaking procedures to determine division winners and wildcards.Have fun arguing with your friendsTo reload the latest game outcomes, tap the \"If The Playoffs Started Today\" button",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

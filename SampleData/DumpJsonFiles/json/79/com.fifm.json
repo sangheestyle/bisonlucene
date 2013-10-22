@@ -1,0 +1,44 @@
+{
+  "title": "FIFM Marrakesh Film F",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fifm",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "December 2, 2011",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "devocean S.A",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fifm",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Ceci est une application officielle du Festival International du Film de Marrakech (FIFM), Ã©vÃ©nement cinÃ©matographique et culturel phare ce dÃ©roulant Ã  Marrakech, au Maroc.L'Ã©dition de cette annÃ©e durera du 2 au 10 dÃ©cembre 2011.FonctionnalitÃ©s* Consulter la liste des films programmÃ©s.* Ajouter des Ã©vÃ©nements et des horraires de projections Ã  votre liste de favoris.* Regarder les bandes-annonces des films programmÃ©s.* Suivre l'actualitÃ© du festival, incluant les interviews exclusives des rÃ©alisateurs, acteurs et organisateurs.* Visionner les albums photo du festival.* Retrouver les adresses du festival sur une carte interactive.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

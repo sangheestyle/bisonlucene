@@ -1,0 +1,38 @@
+{
+  "title": "Event Scheduler",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evsced",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "June 29, 2013",
+  "version": "2.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "7",
+  "rating": "4.428571",
+  "contentRating": "Everyone",
+  "creator": "Globalapps R",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evsced",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The interface is available in 25 languagesââ.Â This application is part of the SMS Manager 2.0.Â Do not forget to click on the activation button in the upper right-hand corner.Â Why do you need an event planner.Event planner is also SMS scheduler. In which you are programming greetings or messages about seminars, meetings with friends, and so on.In the event planner conveniently displays the date (in chronological order). As well as the events are named (a friend's birthday, a weekly meeting on Friday, \"do not forget about the report,\" and so on). The names appear in the list of events.Setting dispatch messages every hour, every 3 hours, every 8 hours, and so on to once a year.You can set the number of copies of a single shipment. For example, each year, only two years (i.e., two copies). Every hour, a total of three times (three copies).Thus, you set the limit of messages about the event or the limit for congratulations. For example, you meet every Friday in the summer with friends. Adjust send to: every Friday, once a week, 10 copies. Message will be sent to 2.5 months, and then stop sending.If the activation button in the upper right corner is not pressed. A check mark next to the event is active, the message will not be sent, but a two-day reminder will inform you about the event. Thus, you will have the reminder of events without sending messages.Â All the options and opportunities.- The two-day reminder of the event.- Set the background color and font for the interface.- The choice of contacts or groups.- Notification of the success or failure of sending messages (audio or text).- Select the time format: 24 or 12 am / pm.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.BROADCAST_SMS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

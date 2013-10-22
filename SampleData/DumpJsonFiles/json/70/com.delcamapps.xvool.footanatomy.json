@@ -1,0 +1,44 @@
+{
+  "title": "Foot Anatomy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.delcamapps.xvool.footanatomy",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "July 26, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Delcam Healthcare",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.delcamapps.xvool.footanatomy",
+  "extendedInfo": {
+    "installSize": "28M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Ever wondered how your feet work and the mechanisms behind them? Do you want to learn more about the bones, joints, tendons and muscles that make up the human foot? This FREE Interactive app will help you lean just that! Topics Covered: - Orientations: Plantar, Dorsal, Medial, Lateral, Posterior, and Anterior. - Sections of the foot: Lower Leg (Tibia and Fibula), Hindfoot, Midfoot, and Forefoot. - Edges of the foot: Medial, Lateral, Distal, and Proximal. - Bones: Tibia, Fibula, Talus, Calcaneus, Navicular, Cuneiforms (Medial, Lateral, and Intermediate), Cuboid, 5 Metatarsals, 2 Sesamoids and the different Phalanges (Proximal, Intermediate, and Distal). - Joints: Ankle, Subtalar, Midtarsal, Navicular-Cuneiform, Tarsometatarsal, Metatarsophalangeal, and Interphalangeal joints. - Muscles: The 5 Retinaculum, the Peroneal Muscles (Brevis, Longus and Tertius), the Extensor Digitorum Longus and Brevis, the Extensor Hallucis Longus, the Flexor Digitorum Longus, the Flexor Hallucis Longus, the Tibialis Anterior and Posterior, and the Triceps Surae. Do you want to learn about how new digital technologies are being used to capture 3D images of the foot to create completely unique custom orthotic insoles using CAD CAM? This App includes a link to Delcamâs Learning Zone for more information on the digital Custom Orthotic. The Learning Zone takes you through each stage in the process, using the Delcam Orthotic Solution. Start by scanning the patientâs foot with an iQube scanner. Design the insole with OrthoMODEL (CAD). Mill the insole with OrthoMILL (CAM). And manage the whole process with OrderManager.",
+    "reviews": [
+      {
+        "timestampMsec": "1374680119853",
+        "starRating": "5",
+        "title": "Great guid to the human foot",
+        "comment": "Informative and easy to use!",
+        "commentId": "gp:AOqpTOFDCrp52SuqibppECWGkiFTICp-DQho_SGtdD25j404hvRn8IxfI9ySewTH1IHF4Fh4Kcg-Q98T4iL-pGk",
+        "author": "Samwell Norton",
+        "authorURL": "http://lh6.googleusercontent.com/-Gx926bG2bwo/AAAAAAAAAAI/AAAAAAAAACY/_4tPx_SZcUU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Gx926bG2bwo/AAAAAAAAAAI/AAAAAAAAACY/_4tPx_SZcUU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CLEAR_APP_CACHE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "com.delcamapps.xvool.footanatomy.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

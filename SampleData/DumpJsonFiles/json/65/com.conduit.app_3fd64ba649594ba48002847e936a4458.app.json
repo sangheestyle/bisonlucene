@@ -1,0 +1,55 @@
+{
+  "title": "Just Sachin",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_3fd64ba649594ba48002847e936a4458.app",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "December 10, 2011",
+  "version": "1.5.5.858",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Rahil Sharma",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_3fd64ba649594ba48002847e936a4458.app",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Everything about Sachin. You can watch his videos,you can view his pics,you can read his records,you can see his tweets and news about Sachin Tendulkar with his Facebook FAN Page!A great&a perfect app for all the Sachin Tendulkar's FANS.",
+    "reviews": [
+      {
+        "documentVersion": "4.5.858",
+        "timestampMsec": "1318355017751",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "A very good app. I was searching this type of app for a long time and finally got it. Thanks",
+        "commentId": "lg:AOqpTOE-GGOpATzP8YzLCzDtO11rGZUkEcm1uDuN4YgF-Acxxn9kFiOCwKASW5D87bfFHn95r7kLNdFwa_U-_A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.858",
+        "timestampMsec": "1319789503750",
+        "starRating": "5",
+        "comment": "Very gud app",
+        "commentId": "lg:AOqpTOFJbK7oJlSPq9geCY-AsX-hrAGkFs3t6NzVqqNaJbdvalVvIi3oOfHc9AGA9da8uMgzsceG_-dPHCrCiQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_3fd64ba649594ba48002847e936a4458.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

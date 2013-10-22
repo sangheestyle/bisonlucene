@@ -1,0 +1,43 @@
+{
+  "title": "Accident App by Gerald Marcus",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.GERALDLAW",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "March 29, 2012",
+  "version": "2.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Legal Apps Production",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.GERALDLAW",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Why download the Accident App? The Accident Application is one of those things you donât think you will ever need, until you do. And when you do, youâll be glad you took a few seconds to download it. Auto Accident App provides straightforward to-doâs, fact and evidence gathering tools to ensure you or your loved one are informed and protected when moving vehicle accidents happen. None of us like to think about it, but auto accidents do happen. Auto Accident App features: - Camera, voice recorder, text notepad and drawing pad provide all you will need to record all of the pertinent data about any moving vehicle accident. - Invaluable FAQ section containing important information about the appropriate procedures to prepare for and handle any moving vehicle accident. - Time saving forms to clearly collect accident information from the other parties (drivers, witnesses, passengers etc.) - Automatic GPS locator which aides in recording critical accident facts like traffic patterns and driving conditions. - Call emergency number 911 or instantly contact our law firm.About The Law Offices of Gerald L. MarcusSince its founding in 1987, The Law Offices of Gerald L. Marcus has been dedicated to fighting for the rights of innocent victims, and obtaining maximum results for clients by practicing aggressive representation. Our Los Angeles firm is built upon the philosophy that every injured victim is entitled to the best possible representation without regard to the severity of the injury. Whether you need assistance filing a personal injury claim from a car accident, dog bite, construction accident, or dangerous product, our lawyers have the legal expertise necessary to help you.Attorney Gerald L. Marcus has built upon his philosophies and has assembled a team of highly specialized professionals to augment his practice. Grounded by his foundational philosophies, these professionals are dedicated members of the team that comprise the Professional Accident Injury Network (P.A.I.N.). From the initial investigation to the development and prosecution of a case, our clients can always count on our firm to handle each phase of their case in a sound and professional manner.When handling cases involving personal injury and accidents, it becomes apparent that the insurance industry has a distinct advantage over injured victims. We often get calls from individuals who tried to represent themselves against an insurance company for their injuries. After enduring a long, drawn out claims process, these individuals are typically offered inadequate compensation for their injuries. Without the proper legal representation, it is difficult for people to have a chance at getting what they deserve in an injury or accident claim.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.CALL_PHONE",
+      "android.permission.CONTROL_LOCATION_UPDATES",
+      "android.permission.INSTALL_LOCATION_PROVIDER",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

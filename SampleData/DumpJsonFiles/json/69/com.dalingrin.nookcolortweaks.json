@@ -1,0 +1,226 @@
+{
+  "title": "Nook Color Tweaks",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dalingrin.nookcolortweaks",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "December 10, 2012",
+  "version": "1.4.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "302",
+  "rating": "4.7582784",
+  "contentRating": "Everyone",
+  "creator": "dalingrin",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dalingrin.nookcolortweaks",
+  "extendedInfo": {
+    "installSize": "67k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Note: This supports the Nook Color only. It will not work with the Nook Tablet*This app is not compatible with CM9 or CM10. I have no plans to release an app that is compatible with CM9/CM10 but other developers are trying to bring similar functionality in the future.A small simple app to tweak a rooted Nook Color running the CM7 kernel(nightly 88+) or Dalingrin's OC kernel. This app allows control for:-CPU clock rate per stepping-Voltage control-USB Host mode control-U-Boot settings-External speaker volume-Heaphones volume-DAC gain-Display bit depthMore features to come...*Only for Nook Color. Need kernel support for volume and CPU clock rate adjustments. *For audio adjustments you must have a recent 2.6.32 kernel on CM7 or Dalingrin's OC kernel for CM7 or rooted B&N Froyo 1.2*For CPU adjustments you must have Dalingrin's overclock kernel from 06/09/11 or later.*Voltage control requires Dalingrin's overclock kernel from 06/30/11 or later.",
+    "reviews": [
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1307685652073",
+        "starRating": "5",
+        "title": "Perfect Volume for cases, and Adjustable OC",
+        "comment": "I love it, Excellent work!, This Nook Color Becomes more and more awesome every day :)",
+        "commentId": "lg:AOqpTOFs_GiZ4GJB_iDpOGLGhDMV08zkUMWdF4W5qJ9pUvAf6GtPvtm2Uh3DZFL_7TiZ43dShY52ZqDRcLfbgQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1310798595974",
+        "starRating": "5",
+        "title": "Offers help to more advanced users",
+        "comment": "By giving you the power to bring Nook to your way. USB HOST, Voltage regulator, more powerful sound , what more to ask!!!",
+        "commentId": "lg:AOqpTOHJC3WhZ9lHeMKpswkopsuAht3NgrZbQR955hriXvFsa1pmPL1VvOhxRowqXkWpRXEO_maQIlhyivEUhw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1327002133430",
+        "starRating": "5",
+        "title": "Geat app (after I set it up correctly)",
+        "comment": "I had nc running on cm7 stable off of a sd card for several weeks now. Loaded this and now nook boots into cm7 for a couple of seconds and then straight into nook os.  What is up with this?  Thought sd card boot was fixed for this.  Update. 1/19/12  This app does work great it was my mistake.  I had checked the box to have it always boot to the eMMC so it always booted to nook color.  After I went in and unchecked this box it works great!",
+        "commentId": "lg:AOqpTOFjTnm82V0ZH_zekUuJjPVyNgs-smzIzeYqyQ5X1Nf8IfAPCwV6Y28U7MyJiunWTbcuVSubpBPDumoJyg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1315428558964",
+        "starRating": "5",
+        "comment": "Awesome! Thank you. Got my Nook up to 1300 MHz and it\\'s stable.",
+        "commentId": "lg:AOqpTOETKecmSUECV90yD81kI1ZcPw26oWgvZ7jgtP4BRkfHDn3-NdL8ssQsPNm2C4j1uKfczqTQr3AXtcxJng",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1326771492648",
+        "starRating": "4",
+        "title": "Great functionality with CM7",
+        "comment": "Needs support for Ice Cream Sandwich 4.0.",
+        "commentId": "lg:AOqpTOEz1GUKR61OmqegQYr7PcOirxAdTFpvYmUAguhyrjuPswQJqyTtABtbtKVGE6MFgKIiyV_mN3o0Faj8qQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1323809997737",
+        "starRating": "1",
+        "title": "Not happy",
+        "comment": "I installed this app, and it worked fine for a while.  Headphone jack sounded louder & clearer.  Tried overclocking, though, and now my NC will not stay in Android for longer than 20-30 secs after booting. It reboots to standard Nook s/w on it\\'s own.  I downloaded the latest Nook Color Update yesterday, perhaps that is the problem.  Either way it has \\\"neutered\\"
+      },
+      {
+        "commentId": "lg:AOqpTOE0eprtsBAA-jcwl7FpaeLPXVdy2kNTb9Zre3s0VU63XF7P_SVQytu3302vQfQhKmGCbWfdH8dr3T3Uug",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1310772521782",
+        "starRating": "5",
+        "title": "1.4.1 doesn\\'t work! It just black screen",
+        "comment": "1.4.0 works fine, but 1.4.1 just seem to crash.... its asks for root and just sits there with a dark screen... tried rebooting and everything...",
+        "commentId": "lg:AOqpTOFUMm4t2vlZMoLgE5OVT31iwa5VLrUQgFs_83bZsbpz-00UdxqOHsw9UC-GWVmQV4okokmNHVw0n2KgXA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1336353142590",
+        "starRating": "5",
+        "title": "Bestbapp ever",
+        "comment": "This app is the best app ever. You can charge your nook on a non nook liscensed charger and you can overclock it too!!",
+        "commentId": "lg:AOqpTOHZhufTfmGl7LyLaEhqF41hhLgdMXGIyjZIIAzwURL1-FsOsQvg698yBeuvVuZfztUrjw3-EpQh86GbRw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1323557923952",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Does a great job boosting the volume",
+        "commentId": "lg:AOqpTOGrkQMbW9e2yxtZBvl4_dqH5tNUIKDPf6ACMg3ZKlaPWeVC9SsQYarhg31XaZRDaALB-jsq-B6wQY33uQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1329614886568",
+        "starRating": "5",
+        "title": "A must have app for NC CM7",
+        "comment": "Excellent app to improve sound and overclock my Nook Color to 1350mhz stable.",
+        "commentId": "lg:AOqpTOHxMdsuqZYZzax2uAW_uM3YU3zm8-wS-TcBTw-X-g4korhW4MHH8AM_7qbfw9htAk_aFlDMJDwy1gZ6zQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1330377867564",
+        "starRating": "5",
+        "title": "Missing guide",
+        "comment": "The app is great but I\\'m missing some guide oj how to properly set the voltage and frequency.I\\'m afraid to change anything,especially the voltage,a short tutorial in the the market specificstion would be fine",
+        "commentId": "lg:AOqpTOEZ1IFXtZTsvCRm6S4dR09RdWYBiF7Eqwidj5rRb9hSIsIhiFLpYDss9hilU7TMDxP25XnBR9iYhI_uGA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1310765317721",
+        "starRating": "4",
+        "title": "Fixed",
+        "comment": "Was broken for SD install. As of the most recent update this application works again on SD CM7 installs. Thanks.",
+        "commentId": "lg:AOqpTOGdOL_VneB9r5kTrX_lapNcEIFZZ5wupZBhODcFqVy6RvCwdzWyO7pAFUox2JNQlIgeDznWgfGezpZtBQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1313037699756",
+        "starRating": "5",
+        "title": "Fantastic App!",
+        "comment": "Perfect for any nook cm7 user. Stable up to about 1.3 Ghz",
+        "commentId": "lg:AOqpTOHyQunh02yA69YNRb_dmRx1suIg1muHddaihco-YWzP0AKEaoau3mdR3BNOTaNl-0Fm6qJ79SH5Ff9RDg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1325450557962",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "Love",
+        "commentId": "lg:AOqpTOGK6_g1V2UZwSvxfWXGSlCllj4XVVeLBh5jJ5fEulkkuBZfUyVwatUdxO1013P5j-i7gAYiNk3vq8hYdw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1342894436728",
+        "starRating": "5",
+        "title": "Fixed volume Netflix now great",
+        "comment": "Do not raise volume much maybe at 25%",
+        "commentId": "lg:AOqpTOHRX5JlUTlEDW6JGOB4d3UlAEPoxHh1pxDjMmG33Qb9ifP5fiBHLahBCJ9eyhUUPiLEykYqMFNESz7kGQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1339994400330",
+        "starRating": "5",
+        "title": "What I was looking for :)",
+        "comment": "Wanted to raise my headphone volume with any app I use and this is perfect",
+        "commentId": "lg:AOqpTOGWR_eGxrLCHFMzzQFJ0qQ9FSPUd99kY83SGjPfpLa0HKODdrslNtg2emQ4s0OAIEkP3jV-abwSjO2epA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1353669339984",
+        "starRating": "1",
+        "title": "Needs reworked",
+        "comment": "I have a rooted nook color using CM 10 Jellybean. Please update this app. Thanks",
+        "commentId": "lg:AOqpTOFfQuKOkZ2sCxb1mVQ1ihUbmdsiARF8ZvxQqwxppNBVdr0H1qc-TGeUBA8iLOxF8Sv5vw3qZQwK-m_FGQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1307996776102",
+        "starRating": "5",
+        "title": "Holy crap, awesome!!",
+        "comment": "Running CM7 on a nook color - volume output DRAMATICALLY improved on headphones and on the wimpy little internal speaker, both movies (brought over as Handbrake-created MP4s using the iPod Touch preset) and music (MP3s ripped from CDs, downloaded from iTunes, ripped from vinyl). Unbelievable. Magic.",
+        "commentId": "lg:AOqpTOFE1Ytj-_IHsOQpBIDvT7j2u6-ymgyEmO_qb8TtUswZ3R6MB9hyZTmKoG-AA41K7F29xtFLK2S8hcFzGw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1336099543702",
+        "starRating": "5",
+        "title": "Love the volume boost!",
+        "comment": "Well worth the price of admission.",
+        "commentId": "lg:AOqpTOFeLhppCLJy9Uh-HjWsK9Oq7Ww1pZtHa_4wutHD2LX4fCS7P7SD_tjKX4joDJbxr_rGCSQjrIS1Ztlgyw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1337341085395",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "I definitely saw a marked improvement on performance once i set up this app. Awesome!",
+        "commentId": "lg:AOqpTOGvg0xnHn6NwN_kfxtQDcV6DP8Q5T1wTk56UNwTZb9i5m2eDbkz3eQQ57skQricRn8fjuqgrUoxE6_zeA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

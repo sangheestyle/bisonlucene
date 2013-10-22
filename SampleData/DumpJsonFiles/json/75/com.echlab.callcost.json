@@ -1,0 +1,67 @@
+{
+  "title": "Call Cost 2",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.echlab.callcost",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 12, 2011",
+  "version": "1.9.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "34",
+  "rating": "4.029412",
+  "contentRating": "Everyone",
+  "creator": "echlab software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.echlab.callcost",
+  "extendedInfo": {
+    "installSize": "210k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Call Cost 2 for Android is a utility to control the cost of the last call made, calculated according to the telephone charge. And 'Just enter a few parameters for tariff and it will inform you of the cost of the call at the end of it.Main features- Incoming call duration- Show only duration without call cost- Service start at boot- Notify with a Toast- Notify in status bar- Mobile plan configurable- List of numbers not chargeable (numbers to ignore)- You can ask for any additional functionality for free!",
+    "reviews": [
+      {
+        "documentVersion": "1.9.2",
+        "timestampMsec": "1370926323641",
+        "starRating": "5",
+        "title": "Usefull...",
+        "comment": "Its good and usefull app... if it can calculate all call for a month sure it will be more great!!",
+        "commentId": "gp:AOqpTOEQ4hWDZDyyfbwiQn4ZMb0-znVP1PkFD4p7nBBMFbKIyLh1zsPr3MUHciP1GOLZWl7W9WG_L0I7NmiQ",
+        "author": "Zulkifli Zain",
+        "authorURL": "http://lh6.googleusercontent.com/-BRnEHaQT78c/AAAAAAAAAAI/AAAAAAAAANI/fkJD0oB8xl0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-BRnEHaQT78c/AAAAAAAAAAI/AAAAAAAAANI/fkJD0oB8xl0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.2",
+        "timestampMsec": "1354123985866",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "I use it only to display last call duration and it is great doing that!!",
+        "commentId": "lg:AOqpTOGGALQsdkViEr6_pHWdq4ssxjRd93Dr_7D6Ou5d2Y-ChLUDUgDzzOFrYdV1iyDqUnFNtgyRTgjIkZWU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.9.1",
+        "timestampMsec": "1293980903134",
+        "starRating": "1",
+        "comment": "Needs diffrent currencys",
+        "commentId": "lg:AOqpTOFMQdPkqInvVrRKzkW5dQInofTb5FoeyIrJnlKljhIjs9jJI1DhW7rLDbcLBtSGYHwhFm76veA5Rr86",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1290377070176",
+        "starRating": "1",
+        "comment": "Plan settings are... There are indeed NO plan settins. Useless app.",
+        "commentId": "lg:AOqpTOE3h1dSLeabZl4oj_a0VjY3rbxaW4jMUXd5ttT3TVageM_i7kZWoWriamkwMluDF-_Ca0YxWUE699SB",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

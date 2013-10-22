@@ -1,0 +1,55 @@
+{
+  "title": "Mint Magazine: Coupons + Deals",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.couponclipper.MintSavings",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 1, 2013",
+  "version": "3.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Clipper Magazine",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.couponclipper.MintSavings",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Take, Shop + Share and REDEEM directly from your device thousands of 50% OFF DEALS + FREE LOCAL COUPONS from your favorite businesses advertising in MINT MAGAZINE! MINT MAGAZINE is created and published for Jacksonville, St. Augustine, Palm Coast, and Fernandina Beach/Yulee, FL, Chatanooga and Knoxville, TN, Columbia, SC, and Long Island, NY- mailing to homes and trusted to deliver the best LOCAL deals and coupons for the best restaurant, family activities, health & beauty, services (lawn care to car care), and more. We know the great places, because we live here too! You want the local pizza shop, sushi bar, ice cream treatery, dry cleaner, spa, or family fun place in your town? THAT'S MINT MAGAZINE! Our mission is to put instant savings in your pocket. Need an idea where to eat, play, or shop? Wonder if there's a deal or coupon? Check your DOUBLETAKE OFFERS APP and stretch your dollars nearly every time you go out. Traveling or work out of town? This app is perfect since we offer savings in 29 states and over 750 cities with over 50,000 FREE COUPONS + 1000's of 50% OFF DEALS! You trust the restaurants and merchants we feature where you live, shop and play so you can trust the DOUBLETAKE OFFERS APP to recommend great places (with great deals + coupons) as you take a trip or travel to work. Here are a few great features: - SHOP AND BROWSE for deals + coupons with EZ category options - REDEEM with a quick tap + send to iPhone Passbook - VIEW details, directions + business hours - SHARE your favorites with Social Networking option - FOLLOW your favorite businesses by setting mobile alerts - ACCESS your account and login to connect to your deals + coupons - MANAGE your saved certificates - EXTEND your savings online with DoubleTakeOffers.com Note: PLEASE REMEMBER TO ENABLE YOUR GPS",
+    "reviews": [
+      {
+        "timestampMsec": "1374344544471",
+        "starRating": "1",
+        "title": "Useless",
+        "comment": "Whenever I tried to use the coupon, restaurants said they only accept printed paper coupon. Useless app.",
+        "commentId": "gp:AOqpTOH7no4avyS3WFYy2sqdjxkVK1yN-qaHaK1miWPU2HOVyn6UmuxhFULO_8OVBXHyxDGzZSFgfakWWT7rotM",
+        "author": "SK C",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339851549283",
+        "starRating": "1",
+        "title": "Aggravating",
+        "comment": "Wouldnt load at all. I even set my location versus having the gps do it and still didnt load. Please fix I was very interested in your app",
+        "commentId": "lg:AOqpTOE6YwChO4oVu1yrgubIVhfRAyeA_567AVM8xR_2Nk5GY4LZ5eKtUms8RzlGzfZrww3Wvlt7_bsGjNws6Tc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.couponclipper.MintSavings.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_ASSISTED_GPS",
+      "android.permission.ACCESS_LOCATION"
+    ]
+  }
+}

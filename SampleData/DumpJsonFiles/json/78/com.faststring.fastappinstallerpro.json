@@ -1,0 +1,34 @@
+{
+  "title": "Fast App Installer Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.faststring.fastappinstallerpro",
+  "category": "Tools",
+  "price": "$1.13",
+  "datePublished": "August 6, 2011",
+  "version": "1.0.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Rawgear",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.faststring.fastappinstallerpro",
+  "extendedInfo": {
+    "installSize": "63k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "FAST APP INSTALLER PROSimple and easy to useNo Background ProcessSearch And locate in  sdcard or any other phones's folderFind and install .APK (ANDROID PACKAGE FILES)Install external apps easily and quicklyCheck memory info (DISK,SDCARD,PHONE MEMORY)Large Screen Support (tested on Samsung Galaxy Tab )/sdcard will just check the sdcard's root folder if you want to search different folder please type /sdcard/yourfolder to find the apps in  specific folderThanksRawgear Dev",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.ACTIVITY_SERVICE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

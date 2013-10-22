@@ -1,0 +1,40 @@
+{
+  "title": "East Oregonian e-Edition",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eastoregonian.android.prod",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "July 30, 2013",
+  "version": "7.1",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Tecnavia Press Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eastoregonian.android.prod",
+  "extendedInfo": {
+    "installSize": "3.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The East Oregonian e-Edition is now available 24/7 everywhere you are. The Android app is an exact replica of the printed newspaper with customizable features to fit your needs. You can flip through pages and skim headlines as you would the printed edition. But better than that, The East Oregonian e-Edition allows you to enlarge type with the tap of a finger, or jump instantly to the conclusion of a story on another page. You can link to websites mentioned in stories with a single touch, or fire off an e-mail to an address linked from the newspaper. Even better, the e-Edition includes videos and photo galleries with many stories. And if you missed the paper one day, don't worry. The East Oregonian e-Edition lets you download past e-Editions, too.While the app is free, a subscription to will be required to access content. The app allows you to download and access the paper when youâre offline, on the road or in flight. It's easy to save the information you want for later. Stay connected to the events in your world with the East Oregonian e-Edition Android app! - Local & regional news - Local sports coverage - Community News- Local opinions- Agriculture and Business- Rodeo and Round-Up- and more!",
+    "reviews": [
+      {
+        "timestampMsec": "1363996086598",
+        "starRating": "1",
+        "title": "It\\'s BS",
+        "comment": "We\\'re not going to pay for a subscription again, when we already are subscribed to the newspaper. This app is getting deleted now.",
+        "commentId": "gp:AOqpTOG58utHOQkYXG6AxtsVPZYG6KB43ldtDuaIXsCXQmAm0Hs6E7dTbEK_ugkf6ZoXgi7mmrDuLUAnrzUOTg",
+        "author": "Bill Ellis",
+        "authorURL": "http://lh4.googleusercontent.com/-w-gxlgkpL2o/AAAAAAAAAAI/AAAAAAAAACY/5dJy64-iAHE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-w-gxlgkpL2o/AAAAAAAAAAI/AAAAAAAAACY/5dJy64-iAHE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_OWNER_DATA",
+      "com.android.vending.BILLING",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

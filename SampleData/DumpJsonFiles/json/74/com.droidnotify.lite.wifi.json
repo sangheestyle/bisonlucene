@@ -1,0 +1,63 @@
+{
+  "title": "Notify Lite (WiFi Only)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidnotify.lite.wifi",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 4, 2013",
+  "version": "4.0.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "10",
+  "rating": "4.1",
+  "contentRating": "Everyone",
+  "creator": "Camille Sévigny",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidnotify.lite.wifi",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is the WiFi Only version of the Notify Lite application.Don't miss what matters most, get notified!This application will display a popup notification window when certain phone/app events occur.This app is extremely customizable with many options. Updates and new features are frequently added.Features including:Popup Window Notifications for:â¢ Calendar Events/Remindersâ¢ K-9 Mail Clients (Kaiten Mail, K-9 Mail, K-9 Mail For Pure)â¢ Gmail (Pro version only)â¢ AquaMail (Pro version only)â¢ Twitter Notifications (Pro version only)â¢ Facebook Notifications (Pro version only)â¢ Google Voice Notifications (Pro version only)â¢ More full featured notification options are in the works as well!Customizable features:â¢ Themesâ¢ Customize Contacts (Pro version only)â¢ Quiet Time Feature (Pro version only)â¢ Blacklist Feature (Pro version only)â¢ and many more...Region features:â¢ Supported in multiple languages (Chinese, English, French, German, Hebrew, Hungarian, Irish, Italian, Japanese, Polish, Portuguese, Russian, Spanish, Swedish, Ukrainian)â¢ Region Specific Display OptionsVisit MeGoogle+: https://plus.google.com/106330578986972156117Facebook: http://www.facebook.com/DroidNotifyTwitter: https://twitter.com/DroidNotifyAppApp Online ResourcesAn outline of the application preferences can be found here: http://code.google.com/p/droid-notify/wiki/ApplicationPreferencesDevelopment Website: http://code.google.com/p/droid-notify/Note: If you run into any problems with this app, please visit the FAQ pages at http://code.google.com/p/droid-notify/wiki/FAQ, or email me at droidnotify@gmail.com.Keywords: talk google voice whatsapp twitter facebook k-9 email gmail missed call calendar messages mms sms popup pop up pop-up toast toaster alert banner notification notify notifier display dialog status feedback screen metro windows phone wp7 iphone ios htc sony xperia froyo gingerbread honeycomb holo ics ice cream sandwich",
+    "reviews": [
+      {
+        "documentVersion": "4.0.6",
+        "timestampMsec": "1377626965823",
+        "starRating": "1",
+        "title": "No Thanks!!",
+        "comment": "Let me get this straight!  So If i want all the available features on both my phone and tablet, I need to purchase 4 separate apps totalling \\302\\2438? I thought notify+ would have unlocked all features for both phone and tablet,  but obviously that\\'s not the case. So therefore in that case, No thanks!",
+        "commentId": "gp:AOqpTOHxNj2gA_ww9zK6lbteRhILYhTNmNW2WabsA3ud7QitueeiM-BJOOt0Oap6lqBEAvFhK4Zk0M9PJf32lQ",
+        "author": "Dillon Pike",
+        "authorURL": "http://lh5.googleusercontent.com/-W_60vbQiTPw/AAAAAAAAAAI/AAAAAAAAACw/c29zPjg2LfQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-W_60vbQiTPw/AAAAAAAAAAI/AAAAAAAAACw/c29zPjg2LfQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1350102026015",
+        "starRating": "5",
+        "comment": "Awesome!",
+        "commentId": "lg:AOqpTOH-mlizy6s8Rl2c8Dn7HOjYGw7wLFhtacyNen0lWvEs50T9RUkAje9HFS6yx8arJ2QlR24PaFt56e6E0g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.fsck.k9.permission.READ_MESSAGES",
+      "com.fsck.k9.permission.DELETE_MESSAGES",
+      "com.kaitenmail.permission.READ_MESSAGES",
+      "com.kaitenmail.permission.DELETE_MESSAGES",
+      "com.kaitenmail.adsupported.permission.READ_MESSAGES",
+      "com.kaitenmail.adsupported.permission.DELETE_MESSAGES",
+      "org.koxx.k9ForPureWidget.permission.READ_MESSAGES",
+      "org.koxx.k9ForPureWidget.permission.DELETE_MESSAGES"
+    ]
+  }
+}

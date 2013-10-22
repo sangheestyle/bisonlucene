@@ -1,0 +1,51 @@
+{
+  "title": "Talking Reminders BETA",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.customs.dbc.talkingreminders",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "November 13, 2012",
+  "version": "BETA-2.3.13",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "3.3333333",
+  "contentRating": "Everyone",
+  "creator": "DBC Customs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.customs.dbc.talkingreminders",
+  "extendedInfo": {
+    "installSize": "697k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This is in BETA testing. If you find any problems with the app, please email me. Please keep in mind that this app is still being tested, and will be updated as soon as a fix is found for new issue, so please check back for updates often.Talking Reminders allows you to set recurring reminders based on Day of Month, or Day of Week.  Each reminder can be set to repeat itself in case you missed it the first time. The first options include Day Of Month, and Day Of Week.  By choosing Day Of Month, you will be given a choice for the day.  So if you wanted a reminder on every 5th of the month, choose 5.  The next choice will be the hour at which to set the reminder, and 3rd the minutes. The minutes run in 5 min increments. Once you have selected the minutes, you will have the reminder screen.  At the bottom of this screen you have a large text box to enter the text for the reminder to speak.  Once you have the reminder text inputted, you can then hit the \"Save reminder\" button.When setting a reminder to repeat itself, every 5 minutes the program will check if there are any outstanding reminders and speak them out loud. It will then check for any new reminders, and say them as well.  In order to disable to repeating reminders, you will need to click on the notification.",
+    "reviews": [
+      {
+        "documentVersion": "2.3.13",
+        "timestampMsec": "1374691579014",
+        "starRating": "1",
+        "title": "Very bad",
+        "comment": "Very bad",
+        "commentId": "gp:AOqpTOFe0EPaNYUhYp3xtgkPu0DLM7LxjHLk_FFp-RuH0glKoYFh66Mf4PA8UOnk3NpL_XmlILeQ2HnFfcSJnQ",
+        "author": "Intisar Ahmed",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.3.4",
+        "timestampMsec": "1351048683976",
+        "starRating": "5",
+        "title": "Nice!",
+        "comment": "This is so much better than a ringtone from my stock calendar. I don\\'t need to look at my phone to see what reminder I have, now my phones tells me out loud.",
+        "commentId": "lg:AOqpTOGugWlWLerXSWPWaEcUkclmbzHYLe6JcVQhVd0aFJc_lCyj9zgqva7VI7I6WlBgpWZJAgVrAjj36kz7Gw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

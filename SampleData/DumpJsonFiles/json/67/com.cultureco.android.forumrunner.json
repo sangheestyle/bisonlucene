@@ -1,0 +1,43 @@
+{
+  "title": "CultureCo.com",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cultureco.android.forumrunner",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "December 6, 2012",
+  "version": "1.3.18",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "28",
+  "rating": "2.392857",
+  "contentRating": "Everyone",
+  "creator": "vizapp",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cultureco.android.forumrunner",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The official Cultureco.com App ! The famous student site is now on your cell. With this easy-to-use App you can keep in touch with other members, check your messages, start a forum discussion, view the latest courses, archives and revisions and more. Everything you need is just a few clicks away. Browse thousands of discussions, courses, tips and corrections... - The Cultureco.com App contains:: -Forums : Read and participate in discussions. View in landscape or portrait mode. -Messaging: Check your messages and respond wherever and whenever you want. - BTS Student: Whether you are a BTS MUC, NRC, Communication, Banque, CGO, Commerce international, VPT, AGTL, Assurance, IG, Transport, Assistant Manager, ESF student, youâll find everything you need to succeed in your education: Tips, courses, archives, orientations, etc. - General Studies BTS Pass your economy, French, management, math and language exams with our suggestions. - Post-Bac Orientation Are you in your final year (Terminale) and need BTS and DUT information? Need help understanding the various courses available to you in University or Business School? This section will give you the answers to need to make informed decisions. - BAC Do you have questions about the BAC? Need the advice of other students who have gone through the same process as you? Visit this section and you will definitely find your answers. - IUT Student Resources and discussions for students enrolled in IUT â tertiary sector. Tutored projects, internships and courses for students enrolled in University: Licence, Licence Pro, Master and for students enrolled in DEES - European Diploma of Higher Education (DiplÃ´me EuropÃ©en d'Etudes SupÃ©rieures). - Cooperative Education and Distance Learning Resources and discussions for students registered with CNED (Centre national d'enseignement Ã  distance) or in other distance learning programmes, but also for Cooperative Education students or those preparing for a VAE (Validation des Acquis de l'ExpÃ©rience). - Employment Above all, studies lead to employment. Naturally, our Employment section will help you enter your professional life with enthusiasm. - Downloads Download archived exams, corrections or subject matter. Join over than 100,000 members and participate in any of more than 135,000 discussions related to studies and student life.",
+    "reviews": [
+      {
+        "documentVersion": "1.3.13",
+        "timestampMsec": "1342448887227",
+        "starRating": "1",
+        "title": "Kaushal galaxy y",
+        "comment": "I m,wasting time in downloading",
+        "commentId": "lg:AOqpTOHRKCB_SRWzCCPnsO5wbLx0KfZvnVVNCeYc1vk_vk9YP_1q5yKf4F7v_dB6NSWKOuO43-v4bBt7gnKSxw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.cultureco.android.forumrunner.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

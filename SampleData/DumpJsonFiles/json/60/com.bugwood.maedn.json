@@ -1,0 +1,40 @@
+{
+  "title": "MAEDN",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bugwood.maedn",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "3.0.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Bugwood",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bugwood.maedn",
+  "extendedInfo": {
+    "installSize": "248M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mid-Atlantic Early Detection NetworkIdentify and Report Invasive Plants, Insects and Plant Pathogens in the Mid-Atlantic States The Mid-Atlantic Early Detection Network (MAEDN) App brings the power of EDDMapS to your smartphone. Now you can submit invasive species observations directly with your smartphone from the field. These reports are uploaded to EDDMapS and e-mailed directly to local and state verifiers for review. MAEDN was developed by the University of Georgiaâs Center for Invasive Species and Ecosystem Health. MAEDN is more than just a smartphone app; MAEDN is a vast network of land managers, field experts, citizen scientists, naturalists, gardeners and others interested in documenting invasive plant occurrences in the Mid-Atlantic region for the purposes of early detection, improved management and better coordination. The region includes Delaware, Maryland, New Jersey, New York, Pennsylvania, Virginia, West Virginia and the District of Columbia.Every year new invasive plants, insects and plant pathogens are found in the Mid-Atlantic region. These non-native invasive species threaten to undermine the health of our environment. More than an inconvenience, invasive plants and animals can greatly alter our native landscape, adversely impact native wildlife, destroy agricultural crops and threaten our health. Invasions of exotic species cost the United States over $120 billion each year. The economic costs are small compared to the ecological ones. Our natural areas furnish us the water we drink, the air we breathe and countless recreational opportunities. These lands are vulnerable to invasion by exotic plant and animal species and these infestations continue to increase every year. By reporting sightings of invasive plants and other invasive pests, we can better assess the extent of the infestations and hopefully eradicate new infestations before they become huge problems such as Japanese stiltgrass, tree-of-heaven or purple loosestrife. The goal of MAEDN is to make identification and reporting as easy and efficient as possible.Just a few minutes of your time can help provide vital information needed to protect vital wildlife habitat, agriculture, forestry and your favorite recreational areas from the damage caused by invasive species. This app is so easy to use, you can collect data while out fishing, hiking, kayaking or walking around your neighborhood. Features: â¢GPS automatically captures your current location â¢Submit an image of your sighting to add validity to your report â¢Online reporting â¢Offline reporting: reports saved on your phone to upload when you have network connectivity â¢Species ID Guides include images and information on the worst non-native invasive plants and other invasive pest species of the Mid-Atlantic region of the United States â¢Provides real-time point distribution maps centered on your current location â¢Invasive species resources Powered by EDDMapS - The University of Georgia Center for Invasive Species and Ecosystem Health's Early Detection and Distribution Mapping System. EDDMapS allows for real time tracking of invasive species occurrences using local and national distribution maps and electronic early detection reporting tools. Thanks to support from Invasive Plant Control, Inc., National Park Service, University of Maryland, USDA NIFA and USDA Forest Service, EDDMapS, MAEDN and the MAEDN app is available to users at no cost.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

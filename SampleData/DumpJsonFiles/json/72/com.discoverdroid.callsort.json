@@ -1,0 +1,63 @@
+{
+  "title": "Call Log Sort",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.discoverdroid.callsort",
+  "category": "Communication",
+  "price": "$0.99",
+  "datePublished": "January 3, 2010",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "12",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "Discoversites",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.discoverdroid.callsort",
+  "extendedInfo": {
+    "installSize": "227k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Lists your call log with the option to sort by Contact Name, Call Date, Call Duration and Call Type (incoming, outgoing or missed).Sort by Call Type to see who you're making the most calls to, or who calls you the most.  Sort by Duration to see who you spend the most time talking to.Also displays total call stats.",
+    "reviews": [
+      {
+        "timestampMsec": "1263410728314",
+        "starRating": "4",
+        "comment": "Its good the layout might take a lil while to get use to",
+        "commentId": "lg:AOqpTOGRpX4izaLRIAbWlxk-5WQhaS9nVWtjFgTQMeY-CnYF7s2M0kIZ770p-jMIeWiZgvrHuyYA-r_qZv3gLSY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1264531110213",
+        "starRating": "3",
+        "comment": "Touch seems to have some bugs.",
+        "commentId": "lg:AOqpTOH-uNdKYw6JXnPlB95T11x63A3330QAp3_3nRweryJshWvjV9gnJK0zJr70uzfBeOuUBqES0Ag7dubuEWk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1293126375579",
+        "starRating": "3",
+        "comment": "Apps does the job but is way too basic to ask money for it, really",
+        "commentId": "lg:AOqpTOG0HkCsGOfPjHIrXnh1nsOE_6z1jWc_JGDLVYsre_V6kfb4FwHfz2ry-j6-L9foAkOsgcgDXc2-WKBN9Vk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1262868413156",
+        "starRating": "4",
+        "comment": "Great little app that did exactly what I wanted I wish it would save preference settings better though.",
+        "commentId": "lg:AOqpTOFnfvwUGxBMVvDIXgTc70ZIr0MC5ThxI8Cbtqb1IjSShAa31pMr6VN0n_rzIbW9BVtyiC_q-V4nuEmOjq8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

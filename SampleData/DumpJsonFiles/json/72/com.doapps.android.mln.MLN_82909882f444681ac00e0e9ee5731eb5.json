@@ -1,0 +1,44 @@
+{
+  "title": "China Today",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_82909882f444681ac00e0e9ee5731eb5",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "May 13, 2013",
+  "version": "4.5.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "DoApp, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_82909882f444681ac00e0e9ee5731eb5",
+  "extendedInfo": {
+    "installSize": "5.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Your mobile source for news in China.",
+    "reviews": [
+      {
+        "documentVersion": "0.5.9",
+        "timestampMsec": "1325339411268",
+        "starRating": "4",
+        "title": "Highly recommended",
+        "comment": "Some loose ends but apart from that a very good aggregator of english language papers. Pls consider adding a Beijing daily",
+        "commentId": "lg:AOqpTOErWCeJzIGaDD2loARMlw7AIf2tRyU25v_uFuRXYtGY9UKFEq5kJojzoYlIvRm5rEl0-pYMIVDbNCiylA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

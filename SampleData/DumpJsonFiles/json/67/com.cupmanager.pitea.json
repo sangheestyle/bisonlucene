@@ -1,0 +1,34 @@
+{
+  "title": "Piteå Summer Games",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cupmanager.pitea",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "June 16, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "7",
+  "rating": "4.857143",
+  "contentRating": "Everyone",
+  "creator": "CupManager",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cupmanager.pitea",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is the official Android app for PiteÃ¥ Summergames, the international midnight-sun tournament.Here you can find the game schedule, the latest results and news provided by PiteÃ¥-Tidningen.Don't miss out on all the special offers provided by shops and restaurants all over PiteÃ¥!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.cupmanager.pitea.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Fas-Trip Store Finder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fastrip.finder",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "June 11, 2013",
+  "version": "3.1.1791",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "3.0",
+  "contentRating": "Medium Maturity",
+  "creator": "GasBuddy OpenStore Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fastrip.finder",
+  "extendedInfo": {
+    "installSize": "5.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Because itâs more than just a fast trip!  Fas-Trip Convenience Stores are dedicated to customer service and to putting the âfamilyâ into âfamily businessâ.  Weâre proud to offer mobile applications as the next step in our customer service journey â stop in today!FIND A STORE AND GET DIRECTIONSFind the closestÂ Fas-Trip store and get directions from your current location. Find nearby stores based-on city and state, or zip code.CURRENT GAS PRICESGet up-to-date gas price information forÂ Fas-Trip stores.STORE FEATURES AND SERVICESFind a station with a particular fuel type (e.g. diesel or kerosene), or locate the nearestÂ Fas-Trip that has what you need!DEAL ALERTSSign up to receive alerts about exclusive promotions and deals available atÂ Fas-Trip stores.Fas-Trip offers family values and superior customer service.  We invite you to stop by to quench your thirst, wash your car, or browse our extensive selection of alcoholic offerings!  Whatever you need, weâve got it!",
+    "reviews": [
+      {
+        "documentVersion": "2.5.15",
+        "timestampMsec": "1318992294188",
+        "starRating": "5",
+        "title": "Works as described",
+        "comment": "Gives gas prices and coupons.",
+        "commentId": "lg:AOqpTOElPDchRmPvn9xNaSfHhzYdfwmQlSvVZQP-0Kh1IOJHXXjRe2N4XYDq3R7marnfhLz4gEsAbwmbasla2t0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337460951149",
+        "starRating": "1",
+        "comment": "Doesnt work..",
+        "commentId": "lg:AOqpTOHSEhoBzQ5_9uPkl-QKj8GkZL4Rs7-rJ90u7qRU-ovnvfEou9_8kGd8KUNP1prRqd1ZDPbHuG2GkmJTNqo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

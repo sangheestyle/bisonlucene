@@ -1,0 +1,41 @@
+{
+  "title": "fixxbook - Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fixxbook.features",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 19, 2012",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Fixxbook",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fixxbook.features",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "fixxbook makes it easy to find the perfect contractor to meet your needs.Features- Search for contractors performing a particular trade in your desired location.- Search for contractors by a Business Name.- View contractor contact information",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.CONTROL_LOCATION_UPDATES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

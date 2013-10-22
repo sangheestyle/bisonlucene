@@ -1,0 +1,30 @@
+{
+  "title": "Small Memo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cbsb.smallmemo",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 23, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "ProaLab",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cbsb.smallmemo",
+  "extendedInfo": {
+    "installSize": "305k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "A simple application to create small notes and reminders. The program can display a reminder of your affairs, and notes in the upper tray.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

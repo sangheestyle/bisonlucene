@@ -1,0 +1,56 @@
+{
+  "title": "WAY - Where are you?",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.est.dase",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "June 6, 2011",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.5",
+  "contentRating": "Medium Maturity",
+  "creator": "Jorge Silva",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.est.dase",
+  "extendedInfo": {
+    "installSize": "206k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "WAY - Where are you? is a free application to share your position and status in a easy and safe way.*** FeaturesCommands currently permitted:-WAY: Receive location;-WYS: Receive the status;*** TipsJust send an SMS with one of the allowed commands a friend that has Where are you? Application and if he accepts you receive his informationâs by SMS. Example: Send SMS with text WYS and receives the status it has set.  Or send SMS with text WAY and receives your friendâs locationYou can define your white and black lists to automatically accept or reject requests.This application also has a widget to help you to change your status.*** CreditsDeveloped by: Fernando Geraldes, Jaime Santos and Jorge SilvaNote: All WAY/WYS SMS sent will only cost the operator fee. So if you have a tariff that does not pay SMS this service is free.*** Coming soon- The command WAY beyond to return the location, will also allow calculate the distance between your position and the position of your friend.",
+    "reviews": [
+      {
+        "timestampMsec": "1307440393632",
+        "starRating": "4",
+        "title": "Like the simpleness and directness",
+        "comment": "but it always seems to ask for permission to send back your location, whether or not the sender is in your whitelist. In case of emergency, it\\'s important to have the phone respond without user intervention.",
+        "commentId": "lg:AOqpTOFIe7c-Z55zqefPTXtjI4f9xTWVwa3OcrClJ-rwbObOefpyPOdQVGLnxwUvnxRWDcE2Irt06VKpsp9ebTg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1312808364085",
+        "starRating": "5",
+        "title": "It\\'s a great app!",
+        "comment": "Just love it!",
+        "commentId": "lg:AOqpTOHsHUXqL4OOYDdOi4_eOSc6GGQ29Wv_chbdvhlSV2qD1x4Z2xNmECMlozxtsajTGpK5BbRIpnTUDp0OCaI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_SECURE_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.CHANGE_CONFIGURATION",
+      "android.permission.CHANGE_COMPONENT_ENABLED_STATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

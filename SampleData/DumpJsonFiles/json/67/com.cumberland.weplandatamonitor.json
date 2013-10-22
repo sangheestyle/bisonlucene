@@ -1,0 +1,32 @@
+{
+  "title": "Weplan Data Monitor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cumberland.weplandatamonitor",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 10, 2013",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "16",
+  "rating": "4.625",
+  "contentRating": "Everyone",
+  "creator": "Cumberland Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cumberland.weplandatamonitor",
+  "extendedInfo": {
+    "installSize": "809k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Weplan Data Monitor shows your data usage in detail, letting you know how much each app is spending and whether itâs from wifi or your data plan connection.Features:â Wifi and mobile traffic (2G, 3G, 4G) per billing period or specific dayâ Consumption detail per appâ User friendly and easy to configureâ Low battery requirements",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

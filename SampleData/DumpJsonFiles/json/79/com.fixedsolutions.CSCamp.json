@@ -1,0 +1,51 @@
+{
+  "title": "Cairo Security Camp 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fixedsolutions.CSCamp",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "November 24, 2012",
+  "version": "2.0.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "9",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fixed Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fixedsolutions.CSCamp",
+  "extendedInfo": {
+    "installSize": "8.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Cairo Security Camp is an annual event targeting the Information Security Community of the Middle East and North Africa (MENA Region). IT Professionals and security practitioners from throughout the region are invited to attend. The Conference purpose is to gather, in one place, everyone interested in helping to improve and enrich the Information Security field in the MENA region. Our Goal is to raise the level of information security field in the MENA region, hoping that one day we live up to international standards.CSCamp 2012 mobile application allows you to get latest updates about the event agenda, speakers,training, sponsors, exhibitors , news ,map and other stuff from your mobile device.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.0",
+        "timestampMsec": "1353762159872",
+        "starRating": "5",
+        "title": "cool",
+        "comment": "easy to use and be able to run on not powerful devices",
+        "commentId": "lg:AOqpTOEDkiwLsDclmCrqZj7An-WhbM7_cd2ZSE5fk2k3AtzTKO-sGah8kguTJg_wFglt8oeyt6ZIjbCef7ma",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1352769550941",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Nice",
+        "commentId": "lg:AOqpTOFueSMiFGQMSf4mk6Y2j8bwIWmuDbOuDG3QZYCDs0z65px7QIF9scKe7hpkkKu87_Jc1yZVN6FRKnVi",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

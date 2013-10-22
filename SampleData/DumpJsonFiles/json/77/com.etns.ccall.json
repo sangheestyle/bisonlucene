@@ -1,0 +1,42 @@
+{
+  "title": "ccall",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.etns.ccall",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "July 24, 2013",
+  "version": "1.0.14",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "ETN Singapore Pte Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.etns.ccall",
+  "extendedInfo": {
+    "installSize": "364k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "cCall is a smart and powerful mobile phone application that will help you save on your IDD calls. It will reduce your phone bills significantly whether you are in your home country or you are travelling overseas. Besides the benefits of major cost savings, calls you made from cCall are connected with premium voice quality. With its unique design and ease of use, frequent travellers do not have to worry about IDD call and International SMS roaming charges. The cCall system stores all your predefined overseas prepaid SIM card numbers for easy reference. Other features include:â¢Super low IDD rates to countries worldwideâ¢Convenient Topup directly from your credit card or Paypalâ¢â¢Prepaid PIN topup card sold at authorized retail outlets.â¢Call direct from your phone contact list.â¢Connect calls using WiFi or 3G (operator data charges will apply)â¢Once call is connected, no need for Wifi or 3G to enjoy your call. â¢Recent Call History â¢E-Load credit directly into user accountâ¢Transfer available credit among cCall usersâ¢Easy management for regular travellers with multiple country SIM cards.â¢Website access for Authorized Sales Agentâ¢International SMS to any mobile phone number at superb low rateRegister your mobile number and get free credits to call overseas now.tags:cCall, ccall, c-Call, c-call, overseas calls, international calls, DID number",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1333976067021",
+        "starRating": "5",
+        "comment": "Save $$$$$$",
+        "commentId": "lg:AOqpTOEqATTTO2peP5fQKPC_IWOdhpT6szlynMvGScQ2ybQshEVOfq5IZAxTJQLMYhyJj1t0pUQXZXHTWrjAW-Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

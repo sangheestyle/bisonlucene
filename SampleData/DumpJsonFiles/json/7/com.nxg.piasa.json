@@ -1,0 +1,53 @@
+{
+  "title": "Paradigm IAS Academy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.nxg.piasa",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 1, 2013",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "NXG Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.nxg.piasa",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Hello IAS Aspirants,Our Academy is a centre of excellence for the Civil services Examination, was a set up with the avowed aim of giving a new orientation to the studies and preparation for the Civil services Examination to teach and provide Delhi base coaching in Mumbai & Pune, Civil service, the backbone of the Indian government machinery constitutes all the departments which runs the Central and State administration. Union Public Service Commission (UPSC) conducts the most prestigious exam in India.",
+    "reviews": [
+      {
+        "timestampMsec": "1373176463878",
+        "starRating": "5",
+        "title": "Very helpfull for mpsc upsc students",
+        "comment": "Wow app",
+        "commentId": "gp:AOqpTOHqG9VEyIBXBqbx2yb9JEABS9UXzchXBOJB8qf3Ce_0Iw6EkqaaPW4oCInrSlLhI1aR9LPikm-q9bhYRl0",
+        "author": "Sunil Trivedi",
+        "authorURL": "http://lh3.googleusercontent.com/-ouvwPAa0LIM/AAAAAAAAAAI/AAAAAAAAABQ/Dmlwo5BMUZo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ouvwPAa0LIM/AAAAAAAAAAI/AAAAAAAAABQ/Dmlwo5BMUZo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374915469904",
+        "starRating": "1",
+        "comment": "Not working in sony xperia x 10... Dnt install..:-(",
+        "commentId": "lg:AOqpTOEEAIWX8gR2-eJCdG_HAoJsLiapJA1CiANzUZY11ErmI6ysjJB_xHRYfCvUyvBUS4C9xcxGGC25lyrfcYE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.nxg.piasa.permission.C2D_MESSAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

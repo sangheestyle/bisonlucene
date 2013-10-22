@@ -1,0 +1,39 @@
+{
+  "title": "Subway Beijing Surfing",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clgametrain.cltrain",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "August 13, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Angelina",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clgametrain.cltrain",
+  "extendedInfo": {
+    "installSize": "6.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Missed the Flight? Take the racing subway train to reach your destination!It is a 100 levels of block game._______________________________________How to Play:- Change the block so that it can fit each other..Â - There is no time limit, but each stage has target points to proceed to next stage._______________________________________Tips on Scoring:The more blocks you clear, the more score you will get.Features:- You can pause the game and resume later.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.clgametrain.cltrain.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

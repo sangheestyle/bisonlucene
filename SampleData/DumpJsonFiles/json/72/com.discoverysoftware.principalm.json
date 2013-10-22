@@ -1,0 +1,61 @@
+{
+  "title": "Principalm",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.discoverysoftware.principalm",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.6.2",
+  "operatingSystems": "2.0.1 and up",
+  "ratingsCount": "11",
+  "rating": "3.909091",
+  "contentRating": "Everyone",
+  "creator": "Discovery Software Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.discoverysoftware.principalm",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Principalm provides student, staff, contact, classes, grades, attendance and conduct information on your Android device.  The information is stored locally, so it is available even if you do not have Wi-Fi or cellular networks available.Student and Staff information is exported directly from your schoolâs Student Information System, so you will have access to all your schools vital information.  The data is secured using 128-bit AES encryption (Bank Strength Encryption) ensuring that it cannot be retrieved without the password.  Student data is NEVER sent to Discovery Software.  Principalm is used by thousands of schools across North America every day.You'll need Principalm Connect 7.5 or later and an active Principalm+ license for your school to transfer your own data to Principalm for Android.  A demo dataset is downloadable so you can preview the available features without needing a valid license.PLEASE contact Principalm Support if you encounter any issues configuring your school.  We really want to help you use Principalm in your school.  Email support@discoverysoftware.com or call us directly at 888-569-7711 Opt 2.  Trial licenses are available from our sales department at no charge so you can use your own school data with Principalm.  Simply contact sales@discoverysoftware.com.Instructions on how to use the downloadable demo dataset are available from at  http://www.discoverysoftware.com/support/principalm/help/principalm/demo-data/",
+    "reviews": [
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1354240804957",
+        "starRating": "1",
+        "title": "Sales Lifetouch",
+        "comment": "Doesn\\'t open student data base. Error message",
+        "commentId": "lg:AOqpTOF5dPf2N3PWI9jX_3sZSW98vD-D4jNgrPm_llmgBrRWLg8CnbsnVeecXAaIm7mV90w6toJ6tL6a4lyxLdE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1322928128460",
+        "starRating": "4",
+        "title": "Excellent!",
+        "comment": "Face game asap please!",
+        "commentId": "lg:AOqpTOHpbtUMuEdDocGLkdk5NMWlbTyuUXCxRCTeuK3zk5wh-QnDupHg4W1hQALDVLYJSnvhXexFJARx-tM_THw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1318206451721",
+        "starRating": "3",
+        "title": "Face game asap please",
+        "comment": "I need this game which is on the palm old version.",
+        "commentId": "lg:AOqpTOEYrTBlXYED-9rpRQ9_sy0wizNVOt__wOHBCGPrZoMRE84W_y1mP4q2bBsgvSvCTrdQTdlruDKwwLH9E7k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "RSI Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dtsemtrsicalc",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "August 28, 2012",
+  "version": "2.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "12",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "DTsEMT",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dtsemtrsicalc",
+  "extendedInfo": {
+    "installSize": "453k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "For RN, EMTs, and Paramedics... not so much Anesthesiologists, but we can fix that...This program is intended to provide a quick reference to the drugs and dosages required to perform a Rapid Sequence Intubation (RSI). It does NOT take the place of formal classes which teach this skill - you won't learn RSI from scratch by using this app.This app is designed to be stepped through rapidly - patient class (Adult, Pediatric, or Geriatric); patient weight in pounds or kgs, or Broselow tape if pediatric; finally, patient health considerations - does this patient have an intracranial bleed?  Is this patient hypotensive? Should hyperkalemia be suspected? - finally, here are your drugs and dosages.Any preassessment should be performed prior to attempting an intubation (LEMONS, BONES, Mallampati scoring, etc.)Tap Menu -> Help for further information, and remember always to stick to your protocols.This is Betterware; if you can think of any way to make it better, please drop me a suggestion at DTsEMT@gmail.com, and Thanks!",
+    "reviews": [
+      {
+        "timestampMsec": "1333556556323",
+        "starRating": "3",
+        "comment": "Good but needs tweaking. It would be 5 stars if you could set a default dosage for each drug in my rsi protocol.",
+        "commentId": "lg:AOqpTOH_o-vVIomHh_5yTEXgnCXSHOURiCqC8OMnIU8fQZNZXHjq7zVLNZbuRLztjJfAS3IjJjT4p8dHIst0gVU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340892682253",
+        "starRating": "1",
+        "title": "Poor",
+        "comment": "Many doses are incorrect. Removing app.",
+        "commentId": "lg:AOqpTOHcKV6WPraApI6DKEVaOqEXpkdZl4Sgjz6_D8r11n43C7TnC0dIygw8ZFBhdken4mV6diDIlJ4A76yrCjM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362680512177",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Ability to enter local protocols makes this app excellent",
+        "commentId": "gp:AOqpTOFG1OJJk84ZJYMIdVOnKEF3aXWniK-eo4xIltqnaW0ktrRL1QzS-33emzloStivN3S6u-L3LB59MhRgsC4",
+        "author": "Ryan Sand",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

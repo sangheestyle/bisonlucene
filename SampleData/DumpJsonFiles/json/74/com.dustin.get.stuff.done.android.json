@@ -1,0 +1,46 @@
+{
+  "title": "Get Stuff Done",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dustin.get.stuff.done.android",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "June 16, 2013",
+  "version": "0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "Just Do One More",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dustin.get.stuff.done.android",
+  "extendedInfo": {
+    "installSize": "448k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Get stuff done by organizing your tasks!  Tasks and lists will be remotely synced with your Google Tasks account if available and enabled, otherwise operates standalone.  Multiple tags and due dates can also be assigned to tasks and used as filters.",
+    "reviews": [
+      {
+        "timestampMsec": "1337218636627",
+        "starRating": "5",
+        "title": "I got everything done!",
+        "comment": "Really cool!",
+        "commentId": "lg:AOqpTOFsjuNZfab9hSn-FAaoWA-lpnQ7iqujPp3ME3NOMHyfhiu_FqoDPHI6bEHplDhrwMfyNN88UnkLjXGY_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367821814521",
+        "starRating": "1",
+        "comment": "I\\'m sure U could do better. Keep working. Regards.",
+        "commentId": "gp:AOqpTOH-_LxZR5t5oR9gnzGHH9KDVhusTLi03_UXh5h4L1rfwdfdQxmmUEoIt8Nxm3f2ye9t1GCJwy030vzzDA",
+        "author": "Alexander Thomas",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

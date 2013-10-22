@@ -1,0 +1,36 @@
+{
+  "title": "New Hope Pride",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edgepublications.newhopepride",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "June 26, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "EDGE Publications Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edgepublications.newhopepride",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome to the official mobile app for New Hope Pride! This app is a joint development of EDGE Media Network and New Hope Celebrates; it's designed to be a comprehensive guide to our annual Pride celebration, including events, photos and interactive features.News :: Stay in the know regarding all the latest news from New Hope Pride right on your mobile device! Including announcements, hot event notifications and hotel specials.Photos :: View official photos from EDGE and New Hope Pride's official photographers.Events :: The New Hope Pride events calendar is a comprehensive list of what's going on during the year.Sponsors :: We love our sponsors - so should you! Get information on the organizations that make New Hope Pride possible.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.edgepublications.newhopepride.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

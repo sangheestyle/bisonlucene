@@ -1,0 +1,68 @@
+{
+  "title": "Calhoun Community College",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dub.app.Calhoun",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 31, 2013",
+  "version": "1.3.52",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "3.6",
+  "contentRating": "Low Maturity",
+  "creator": "Dub Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dub.app.Calhoun",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Stay informed and connected about Calhoun Community College from anywhere on your mobile device! Have information at your fingertips about courses, campus directories, events, news, maps and more. Get the latest updates by downloading the Collegeâs newest app for free today!",
+    "reviews": [
+      {
+        "documentVersion": "1.3.22",
+        "timestampMsec": "1375016775330",
+        "starRating": "1",
+        "title": "Horrible",
+        "comment": "This app has potential to be soooo useful for for me. But the quality of mycalhoun part sucks. I don\\'t know if it\\'s just my phone or not,  but it only shows on like 1/4 of my screen.the rest of my screen is white.  Smh just waiting for the update.",
+        "commentId": "gp:AOqpTOGBUrx9NVyYNZH76RWAJL9Nseff_6bTOX0QXbEqAExBl1enxlFMEZ4ezolwgBupCp5UbidjGCQc6ROyI20",
+        "author": "Kenya Mims",
+        "authorURL": "http://lh3.googleusercontent.com/-mG7ZbAk8xUc/AAAAAAAAAAI/AAAAAAAAAJQ/cO-lEviY6aU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-mG7ZbAk8xUc/AAAAAAAAAAI/AAAAAAAAAJQ/cO-lEviY6aU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359069002219",
+        "starRating": "4",
+        "title": "Solid",
+        "comment": "Other than the mycalhoun part being a little flaky it is nice. Having important numbers I can dial at one touch is my favorite feature. Keep up the good work!",
+        "commentId": "gp:AOqpTOHL-Lw_aB2836Tb6D06q-EC8TAOE8SFbluVYhsR0ARfaFE3DtpOuG-MdlQwER_srIPAFarHVPDjM7m8F1k",
+        "author": "Kellis Anthony",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359077024585",
+        "starRating": "4",
+        "title": "Great",
+        "comment": "Love having access to everything in my mobile!",
+        "commentId": "gp:AOqpTOH7BZx9lsK8d8965zz-1evhVehmqt62vr1j8B6c3UDaDCdVLVagYfpldfdbKRjShQqoSSRvPkayaiNnAC8",
+        "author": "Brandy Hicks",
+        "authorURL": "http://lh4.googleusercontent.com/-h26_LF3oNyw/AAAAAAAAAAI/AAAAAAAADi0/WAeYpzRvHfo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-h26_LF3oNyw/AAAAAAAAAAI/AAAAAAAADi0/WAeYpzRvHfo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Gearbox Calc",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.distudio.gearboxcalc",
+  "category": "Sports",
+  "price": "$2.19",
+  "datePublished": "November 7, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Bacci Romano Trasmissioni Meccaniche",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.distudio.gearboxcalc",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Gearbox Calculator allows you to compute, graph and save the speed in each gear, the speed drop and the RPM drop between two gears.This application is the ideal tool for competitive cars preparers, pilots, cars tech lovers and for everyone who live shoulder by shoulder with this wonderful sport.Functions: Gearbox Calculator computes and graphs speed tables for every vehicle. As inputs you will only need to know the engine's maximum rpm, the tyre's circumference, the transmission and ratios for every gear.- Two different types of tyre inputs: you can directly insertt the right measures of your tyre, but if you do not know them, a dedicated session of the application will do the computations for you.- Great versatility You can insert all inputs both as simple ratios or by entering the number of teeth of the coupled gears. Or a mix of both!- Select your gearbox.The app supports both standard and constant mesh gearboxes.- Realistic user interface, detailed and designed to be easy to use. The app is made of multiple pages, to ease up the insertion of inputs. Multiple pages guide through the user in an intuitive manner.- Variable gears it's possible to insert up to 6 different gears, both as ratios or teeth.- Easy to read graph to quickly review the output values for every single vehicle. The graph supports both miles and kilometers.- Store up to 10 different projects.The advantage of immediatly retrieving computations and output pertaining to a particula gearbox, and to associate it to your own vehicles so to quickly compare your projects!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "RMA",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dub.app.assoc.rma",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "September 11, 2012",
+  "version": "1.4.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "The Risk Management Association",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dub.app.assoc.rma",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "RMA is a universal, cross-platform app that runs on iPhone, iPad, iPod Touch, Android, and Blackberry devices.Connect with the Risk Management Association. Our RMA app gives you instant access to RMA news and you can search for RMA events, chat with your peers, find other RMA members, and view and update your RMA profile. You also will have important RMA contact information right at your fingertips.Just login using your RMA ID (your email address) and RMA password and access all of these FEATURES: EVENT SEARCH: Find enterprise, credit, market, and operational risks events, such as the RMA Annual Risk Management Conference, and receive notifications. See event schedules and conference site floor plans to help you plan your agenda.RMA XCHANGE: Lets you join the conversation! Automatically access the RMA Xchange and stay up to date on the latest discussions and member activities. DIRECTORY: Access contact information for other RMA members through the Directory. Search by keyword (last name, city, or bank).RMA NEWS: Stay apprised of the latest RMA news.MY PROFILE: At the touch of a button, you can view and update your RMA profile, add a photo, and store your contact information.ABOUT RMA: Find out who RMA is and what we do, access our website (www.rmahq.org), or send us an email. Also, see what RMA is talking about on Twitter, LinkedIn, Facebook, and YouTube.CONTACT RMA: Fast and easy access to important RMA phone numbers.  At the touch of a button you can call RMA regional managers, customer care, or other people and departments within RMA.  More to come!The Risk Management Association (RMA), a member-driven professional association, promotes sound risk principles in the financial services industry through conferences, education and training, tools and publications, peer-sharing round tables, and over 100 active chapters located around the world.Need an RMA login and password? Visit www.rmah.org to create an account.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

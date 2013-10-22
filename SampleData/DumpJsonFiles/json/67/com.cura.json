@@ -1,0 +1,137 @@
+{
+  "title": "Cura - SysAdmin",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cura",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 8, 2013",
+  "version": "2.6",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "20",
+  "rating": "4.7",
+  "contentRating": "Low Maturity",
+  "creator": "TTCO - Oday Maleh and Ahmad Balaa",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cura",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Cura is a bundle of remote servers-administration tools that facilitate the easy maintenance, configuration and all-around administration of UNIX/Linux servers.NOTE: (Password for Settings screen is \"default\", change upon entry).When in the hands of a sysadmin, Cura will provide:**A personalized Terminal emulator for direct interaction with said server.**Syslog module that allows for reading logs directly from the server.**SysMonitor module that visually graphs CPU and RAM usage percentages.**Access to the port-scanning utility âNmapâ.**Server Stats are general server information like its Vitals, Mounted Filesystems, Memory information, processes and so on.**Login monitoring with notifications. While you are logged in, you can get notifications about anyone else that also logged in to said server.**A security feature is implemented that allows you to have Cura's database wiped when you send the compromised phone a secret pattern of your choosing.(ex: send an SMS message containing \"phone has been stolen!\" to your Android phone to wipe Cura's database and receive the location of the compromised phone as an SMS to your emergency phone number or as an e-mail to your emergency e-mail address).All of the above modules include sharing and screenshots capability for logging and evidence.",
+    "reviews": [
+      {
+        "timestampMsec": "1377863681600",
+        "starRating": "5",
+        "title": "Great SysAd App",
+        "comment": "Got the power back to any Linux System Administrators...  Love personally the NMAP and NCAT tools...  Please, keep this updated with new tools...",
+        "commentId": "gp:AOqpTOHirCoALPPjDMEKyTenZuAjMMku3rBKnRxHQmSIHhNdscDqiXsPWk1zjSDkYIyJS-1iV3313yneVfsDkw",
+        "author": "Raleigh Guevarra",
+        "authorURL": "http://lh4.googleusercontent.com/-gbfa5UTsNgk/AAAAAAAAAAI/AAAAAAAAASI/qs2uPZOnKVE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-gbfa5UTsNgk/AAAAAAAAAAI/AAAAAAAAASI/qs2uPZOnKVE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378488019365",
+        "starRating": "5",
+        "title": "Good.",
+        "comment": "Good.",
+        "commentId": "gp:AOqpTOE5-3Ng8cVDj0nn0YO2YrLk18tKbEbsRremkvmJRZptf8XwlfVi8GqX7BhwBITej1oUZ0jiO6ngJBm0eg",
+        "author": "wilson libraboy",
+        "authorURL": "http://lh4.googleusercontent.com/-S9Ge2Sfb4eM/AAAAAAAAAAI/AAAAAAAAAUA/v2LJ_V05neM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-S9Ge2Sfb4eM/AAAAAAAAAAI/AAAAAAAAAUA/v2LJ_V05neM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376108816017",
+        "starRating": "4",
+        "title": "Nice",
+        "comment": "I hope to see this product mature. It\\'s already very useful.",
+        "commentId": "gp:AOqpTOE1E_9Bc-lO-kA_G_gWyuMiZ_xykU9ZPlrgUkOiGGVtZR3xe_hAmN-bOk7ui5361JIvUZiWCg1_73C97w",
+        "author": "Frank Barcenas",
+        "authorURL": "http://lh6.googleusercontent.com/-dEXzjGnkKF8/AAAAAAAAAAI/AAAAAAAASo0/TNIt4Nb1D-8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-dEXzjGnkKF8/AAAAAAAAAAI/AAAAAAAASo0/TNIt4Nb1D-8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374065649975",
+        "starRating": "4",
+        "title": "Useful",
+        "comment": "Quick info on server status and health.",
+        "commentId": "gp:AOqpTOFYBzMKTTWSGkxQnCA3TZo3_C_lADBQBxk3E05pgyVhpHL-4htUd2mSNAhyneWzPxpAVA6V0kvkh1q93g",
+        "author": "Jakim Friant",
+        "authorURL": "http://lh3.googleusercontent.com/-D0YFjPAYoKQ/AAAAAAAAAAI/AAAAAAAAACA/MTf33KhOHhg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-D0YFjPAYoKQ/AAAAAAAAAAI/AAAAAAAAACA/MTf33KhOHhg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359527335576",
+        "starRating": "5",
+        "comment": "Very useful! All done via SSH, no additional software needed on server, brilliant!",
+        "commentId": "gp:AOqpTOFZu53jON0X46hLc3eopm1GXddJlvu3SdVr1zAblY6PdBx-vV5busnT9ruK3nu7z3S2WA6X31UUDH6vMQ",
+        "author": "Lionel Wong",
+        "authorURL": "http://lh6.googleusercontent.com/-FsVI7n807HA/AAAAAAAAAAI/AAAAAAAAD7c/csIXfTX7xXY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-FsVI7n807HA/AAAAAAAAAAI/AAAAAAAAD7c/csIXfTX7xXY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1352496492945",
+        "starRating": "3",
+        "title": "Force close sometimes",
+        "comment": "Segfaults while entering settings in CM10 nightlies.",
+        "commentId": "lg:AOqpTOFSnWK-eVEIVWycg-oGK33Np-b3b8ehSZRLwLX4_iZxFLYETw_6W387HzSHCcZwiPwrI2U-sd3dNEH9ig",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346084776012",
+        "starRating": "5",
+        "title": "Review",
+        "comment": "Quite useful",
+        "commentId": "lg:AOqpTOH8Zkcj9baHFzRwFCcNVzRmXTHHqgDE9UCVobRXdics0U_FFbJdOHcTei-pSET9EsMq12qEzXM6gCy3jw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373072468911",
+        "starRating": "5",
+        "title": "This is awesome!",
+        "comment": "This needs more users. I have been looking of an app like thus for a while. Thanks for the work. Looking forward to future releases!",
+        "commentId": "gp:AOqpTOFBSJ21KXBlPKlCuVMY5AO0KFuHh1PwbbBRCOHhMbPiKpBGfJIxkYZq7IUeW5GjBIg_zHecTcbGF-RQtQ",
+        "author": "Reid Lindsey",
+        "authorURL": "http://lh5.googleusercontent.com/-U1nQx2K9QQI/AAAAAAAAAAI/AAAAAAAABqY/dXcduRdBhG4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-U1nQx2K9QQI/AAAAAAAAAAI/AAAAAAAABqY/dXcduRdBhG4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1349383916546",
+        "starRating": "4",
+        "title": "Manoj",
+        "comment": "Looks good....",
+        "commentId": "lg:AOqpTOGbw3_c92EobOcBSlpbwwgRet-6yhIo2cCabiPeGNXs7yAqaX23qro-TD8G2nfDd4tUnIDLU4His6EVOA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353769583724",
+        "starRating": "5",
+        "title": ":)",
+        "comment": "Great tool",
+        "commentId": "lg:AOqpTOEk7XocdWk3RS-Io8Jm7T3Z_jEW_y2pZjrqwwZWGUqD-b5pKSa3TEkhRrJ70zagDHC8IcYWJtjD7pfGBw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_OWNER_DATA",
+      "android.permission.READ_OWNER_DATA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.BROADCAST_SMS",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

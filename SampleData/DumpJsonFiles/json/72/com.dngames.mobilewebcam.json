@@ -1,0 +1,232 @@
+{
+  "title": "MobileWebCam",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dngames.mobilewebcam",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "May 15, 2013",
+  "version": "2.990",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "705",
+  "rating": "4.133333",
+  "contentRating": "Low Maturity",
+  "creator": "Michael Haar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dngames.mobilewebcam",
+  "extendedInfo": {
+    "installSize": "626k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Use your Android as a simple mobile webcam, gsm camera or cloudcam via WIFI or Mobile Network!The picture stored in the cloud can be watched from everywhere with a browser or for example my App WebLiveWallpaper. Upload picture with various methods like http, ftp or Dropbox, send it with email or store on your sdcard for example to create a timelapse video.Use as simple but mobile timed webcam with refresh rates from seconds to hours, with motion detection or your defined daily activity times. High resolution pictures are also possible. Mark the pictures with text or image to advertise for your place or business.Very easy to use with opensmartcam.com or SENSR.NET.This app provides me with a simple possibility to mail someone (my wife) and start refreshing a webcam view of what I see with one buttontap. Also it can work as a more static webcam with set activity times and picture imprint if you got a spare or partially broken phone you want to place somewhere connected to power running all the time ...I will develop this further later after I fixed more bugs on my WebLiveWallpaper App.Easiest usage without much setup hassle is with sensr. Then you do not even need your own homepage/server!In the app press the MENU phone button for settings!Http setup for your own server:To enable your personal webcam put the included (see http settings in app or support forum thread) two files on your server.Your personal webcam is then viewable athttp://www.YOURSERVER.COM/WHEREEVERYOUPUTYOURFILES/Server address to be entered in Settings of App ishttp://www.YOURSERVER.COM/WHEREEVERYOUPUTYOURFILES/mobilewebcam.phpYou also have to enable the server to write to this directory - chmod!And you should really enable password protection for your website if you do not enhance the php page with some security measures (filesize limit, only jpg allowed, ...). Otherwise everyone can access your camera pictures and possibly even your server!Again:This webcam app is a bit different. It does not stream video. It is not meant to be placed next to or connected to your Computer. It will not have nice camera preview, fx or settings because old/broken androids can be used. This camera is intended to run without user (interaction) after initial setup possibly with a cheap 2G mobile data plan (in some countries/carriers for example 30 MB of data are free and that is enough to upload several pictures a day!).For unstable devices autostart and reboot after a number of taken pictures (my cheap jpad tablet for example crashes after about 70 pictures in a row) can be enabled in the settings.Go here to find some support:http://forum.xda-developers.com/showthread.php?t=950933Android 1.5 up for old cheap hardware usage.Open Source: http://code.google.com/p/mobilewebcam-android/---Update history (important updates):+ gps location info for moving cams possible now+ integrated webserver (simple, first version, WIFI only)+ hex color input+ control Intents (com.dngames.mobilewebcam.START, STOP)+ night image detect, quality setting+ white balance+ timelapse video+ zoom, frontcam+ Background mode, Battery/Temp info+ SMS remote control+ experimental shutter sound mute+ autostart and reboot settings+ email pictures (no user interaction!)+ store pictures on sd+ motion detection fix+ print PNG from sdcard over picture for nice effect, advertisement or marking+ refresh rates throttle down until uploads finished",
+    "reviews": [
+      {
+        "timestampMsec": "1371771588887",
+        "starRating": "4",
+        "title": "T",
+        "comment": "This is good start i wanted night mode. But then during day i wanted Video mode which this app doesnt have. After 30 minutes or so the cam stops working and the phone just shows black screen with no response other than charger beep",
+        "commentId": "gp:AOqpTOGKFgI0fPXLm_hsJBjsVqWo7iiGxOQ7Z_BosBL-hPv38yNkvi7uhAA8RLOncQL9E4Lvgt8CkOo-WETrYA",
+        "author": "Tyee Cambr\\303\\263n",
+        "authorURL": "http://lh4.googleusercontent.com/-ulQZ8FDcNgs/AAAAAAAAAAI/AAAAAAAAQ-k/n62jghtir00/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ulQZ8FDcNgs/AAAAAAAAAAI/AAAAAAAAQ-k/n62jghtir00/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378774981421",
+        "starRating": "4",
+        "title": "I like it i can capture live footage for my travels",
+        "comment": "Cool",
+        "commentId": "gp:AOqpTOGYURwZBlV6txDMa1AIk6tP2mXapQ9wBPhru4GFra0jclWX_IE6cOL6-jjHS2YXHdpYos32o40Bu3UWew",
+        "author": "Noella Gingras",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378438466183",
+        "starRating": "5",
+        "title": "Fantastic app",
+        "comment": "Fantastic app. Will be perfect if it would run properly in background modes as well.",
+        "commentId": "gp:AOqpTOHeJJun6sEikpIQk6mdFtrTizkazyP1J5p6FUixAP29H3486vnhmwiLBHEEGxq1Cp1u0SDySVCMLwbfPw",
+        "author": "Stephen Michaels",
+        "authorURL": "http://lh3.googleusercontent.com/-B33kJSospwA/AAAAAAAAAAI/AAAAAAAAETw/UtgFn4JiLhY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-B33kJSospwA/AAAAAAAAAAI/AAAAAAAAETw/UtgFn4JiLhY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371915184591",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "VERY GOUT PROGRA.  FIVE STARS.",
+        "commentId": "gp:AOqpTOFqJyZC6xvReiPZ9oZtZuGLPYk7hZwaYi5MYFY8yFpu8_CyYJYND0L-6k3lZSolx4rkoodv7P2WendraA",
+        "author": "Veselin Krivoshiev",
+        "authorURL": "http://lh3.googleusercontent.com/-6t5214XyVXY/AAAAAAAAAAI/AAAAAAAAQ8E/QRTyPa9rFuc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-6t5214XyVXY/AAAAAAAAAAI/AAAAAAAAQ8E/QRTyPa9rFuc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377569994075",
+        "starRating": "5",
+        "title": "Great, awsome",
+        "comment": "Execellent app , superb job. No one can beat this",
+        "commentId": "gp:AOqpTOFX4fqxS3SccqIbic6UGyCQFgYXjLNumy6T7tn96CvMJbleAL0VUp1Zw3W31xW6PEXnTUOrQ0mb2rBDmA",
+        "author": "Anuj Gupta",
+        "authorURL": "http://lh6.googleusercontent.com/-wsv8vxCQfZA/AAAAAAAAAAI/AAAAAAAAEIw/xg6Q8AgzJoY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-wsv8vxCQfZA/AAAAAAAAAAI/AAAAAAAAEIw/xg6Q8AgzJoY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372132955973",
+        "starRating": "3",
+        "title": "I do not need to buy webcam",
+        "comment": "This makes my internet experience be fun. Thanks.",
+        "commentId": "gp:AOqpTOGaa59NFKj83vK4cbS0WWtBYojolHfG7zYVFUl2fH8bXVcaUQeUSFZ3A1v7IMAHmoYVCdhPCy5hXCJPqQ",
+        "author": "nise lani",
+        "authorURL": "http://lh5.googleusercontent.com/-8BgSk7GaXZQ/AAAAAAAAAAI/AAAAAAAAJmc/bafOTprWP2U/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-8BgSk7GaXZQ/AAAAAAAAAAI/AAAAAAAAJmc/bafOTprWP2U/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377459226594",
+        "starRating": "5",
+        "title": "Great stuff",
+        "comment": "It works great",
+        "commentId": "gp:AOqpTOFkRgfe0niZjTV88dfftf0Sqqekf1Udv_SFxbh806WOB5mtLrf4lsgaJdlKNrMjpgV02hDypJrcQlNs_A",
+        "author": "Diego Caielli",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378133763899",
+        "starRating": "5",
+        "title": "Good application, I used it as cctv for each my shop",
+        "comment": "Thx",
+        "commentId": "gp:AOqpTOHMITUFuXutH2wiVtxggmPp5Rq-kBUaDkhZNoSifIM9d6COM-XdQB-HDpo3fKNfoimUFxLA-ZyIMPEV9Q",
+        "author": "Yunior Bonang",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366556942755",
+        "starRating": "5",
+        "comment": "Applicazione fantastica, ottima per le webcam meteo",
+        "commentId": "lg:AOqpTOGQzC18cNwvGsK_w0TchSg_gWJjih4aZ6HPYyY4AcRQ0I16tI3d2c0uIShewdWOXoGO5E1hXcnqiioJbg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369709580164",
+        "starRating": "5",
+        "title": "great software!",
+        "comment": "nice work bro.",
+        "commentId": "gp:AOqpTOEDn_kwWsNibR-kQuLgjd88sCrjaYUi0KhVWqBXLOx2CRLQiTcGN30ra7IzhAO6FlJADcp5iMI0aO-y3Q",
+        "author": "Jerry Capoy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374738745844",
+        "starRating": "5",
+        "comment": "Up.",
+        "commentId": "lg:AOqpTOEV3A0acdqm1n90kYgunST-Y7ULiMBUl1SggCdQmdXit383FmbBl3G-OLckPdnfoLYUN42rMybRwpo6UA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369509170351",
+        "starRating": "5",
+        "title": "Amazing Software Ever!",
+        "comment": "This guy is working hard on this MobileWebCam. It is getting better and better! I don\\'t know other software so best in this category. It is simply amazing! Awesome! No other has so many configurable options! This is perfect if you want to explore your smartphone features as a webcam! Congratulations to developer!",
+        "commentId": "gp:AOqpTOE1e1RHMJbw7FneahW4RWqPdGh4sbZ9Hps8iCkdnQ3hPxUP4dPKt9_7175NPw-qP1AftP8jh1VNeDZMKA",
+        "author": "Andr\\303\\251 Lu\\303\\255s Michels Alc\\303\\242ntara",
+        "authorURL": "http://lh5.googleusercontent.com/-1UAK5tlEleQ/AAAAAAAAAAI/AAAAAAAALhI/kQZtQqq4HuU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-1UAK5tlEleQ/AAAAAAAAAAI/AAAAAAAALhI/kQZtQqq4HuU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365419321579",
+        "starRating": "5",
+        "title": "best webcam-app ever!",
+        "comment": "Amazing, how many functions you put into this outstanding app. Works absolutely fine with HTC desire, Sony experia go an Sony experia active!",
+        "commentId": "gp:AOqpTOGfnxIfFrQ5rjNwIsxCOKiqMGuVqPa7ntIs1Dntw_KeDhFBsMUy165uDzcBkDAqHnCCQgkHP96V1ugjZQ",
+        "author": "Christian W Hartmann",
+        "authorURL": "http://lh5.googleusercontent.com/-SiARNvGnkrQ/AAAAAAAAAAI/AAAAAAAAGdA/H73a9ZlaA8k/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-SiARNvGnkrQ/AAAAAAAAAAI/AAAAAAAAGdA/H73a9ZlaA8k/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365196929808",
+        "starRating": "3",
+        "title": "What",
+        "comment": "I can\\'t register fix NOW plz",
+        "commentId": "gp:AOqpTOG1Dt1PBcNZEDCwzqFuKWZcr17lS37vyIj3pwvSO-ibtI-RKPMyFKU9egEiMGxbCWiybK2nQQ2IYGMZbQ",
+        "author": "Abby Duncan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364988782875",
+        "starRating": "2",
+        "title": "Good app",
+        "comment": "Cool app",
+        "commentId": "gp:AOqpTOGMceQTY6-LTwT_HyVJX1E4IaYdJlGHDtek4CYWfl66_M0GJyhISqRnsXs9cd3-4ku5w-k_GasnBdjyyw",
+        "author": "asep Hermansyah",
+        "authorURL": "http://lh3.googleusercontent.com/-DMpf7FbaNPk/AAAAAAAAAAI/AAAAAAAABP4/SHHfCFljp1A/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-DMpf7FbaNPk/AAAAAAAAAAI/AAAAAAAABP4/SHHfCFljp1A/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363624118210",
+        "starRating": "5",
+        "title": "Excellent! Deserve Donations!!!!",
+        "comment": "I used it as motion detector in my old Droid phone in my car! Best Cam app so far and free!!!! Tried so many motion detection app but all FAILED! Reason why this one win all is because it work at night, Low light! Super excellent app, all in one with motion detector!!",
+        "commentId": "gp:AOqpTOGROmuOH5HSaaXwekzX3XFjGlPrdqsboTdSgt3JrL8UOEGYjqqxvzpPS7PInjEvuIdr8--rieMLz8201A",
+        "author": "Zha KG",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363428179037",
+        "starRating": "5",
+        "title": "Feature rich, can fit many different needs",
+        "comment": "My first impression of the app was very positive, having many options to meet different use cases. Then, after testing long time-lapse recordings, I found out it would sometimes crash, but that is potentially due to the old device I am using. After some tweaking with the settings, updating the Android version and an app bug fixing release, it now seems to be working well. The developer is dedicated to the project and making sure it works for as many devices as possible.  An idea for improvement would be to have combination of setups: being able to define different picture (tab) settings and different activity (tab) settings for different upload (tab) settings, so that for example you could define http/ftp uploads at low resolution every few seconds, high-res imaging to ftp less often and motion detection/intent events to e-mail, all running at once.  In any case, great work!",
+        "commentId": "gp:AOqpTOFzPuqTleRzBeElBLLvHrJ0sh-HnttE0nai7tZjhsiwsO1ULNWhMiecdZid5aMtrdw25cUg-qrZxe7Szw",
+        "author": "Xavier Selva",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363864135702",
+        "starRating": "5",
+        "title": "Webcam App",
+        "comment": "Excellent application. Works very well. Does exactly what it says on the tin. Easy to set up and configure with lots of options.",
+        "commentId": "gp:AOqpTOGdBCUet9LC-N607iSYrJWK0CwXxqmWS4lF9B2tvXsOZjVzhu2cXDHCqrVBsJFOPp-xBOBjhlUFql4GXw",
+        "author": "Jonathan Clark",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372615199599",
+        "starRating": "4",
+        "title": "Brilliant",
+        "comment": "Works well on Asus tablet",
+        "commentId": "gp:AOqpTOFkN7STo0DTXQBbNgsHkpxRKAYJ9pes-s5dV1AdXgv0ZsnWPisG9LidkZfD90h9xrra5ZiH8eBmLyETCw",
+        "author": "Martin Gillard",
+        "authorURL": "http://lh3.googleusercontent.com/-hou3Fwl78tc/AAAAAAAAAAI/AAAAAAAAAQY/oDvI16mGiGQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-hou3Fwl78tc/AAAAAAAAAAI/AAAAAAAAAQY/oDvI16mGiGQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359584520039",
+        "starRating": "5",
+        "title": "Webcam.",
+        "comment": "I JUST DOWNLOADED IT NOT SURE IF IT WILL WORK YET!I didn\\'t know you could use a Web-Cam on mobile phone thank y ou!!!!",
+        "commentId": "gp:AOqpTOG7QoKQegfajf8Hq92i0DwqUNqMTWzwQo3Osb1otOHrxtuQyLJ07GCapI4em3K3iTRc5jNqWlmf3_UgWw",
+        "author": "Sheila Carter",
+        "authorURL": "http://lh4.googleusercontent.com/-sBj8OgVZzYQ/AAAAAAAAAAI/AAAAAAAAACQ/F3yYeI7SlqY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-sBj8OgVZzYQ/AAAAAAAAAAI/AAAAAAAAACQ/F3yYeI7SlqY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

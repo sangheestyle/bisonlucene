@@ -1,0 +1,49 @@
+{
+  "title": "Rock Paper Scissors",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cwb.rps",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "February 17, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "3.4",
+  "contentRating": "Everyone",
+  "creator": "Appy Hobo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cwb.rps",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Rock Paper Scissors! Whose turn is it? Who is going next? When a decision needs to be made fast, make it now with ROCK PAPER SCISSORS! All new from The Screaming App Guy!Have two people each place a finger on the scanner at the same time and let the machine decide! For the sake of arguments, the paper DOES wrap the rock! Be the coolest kid on the block when you pull up this app. No more arguing over it, decide fairly with ROCK PAPER SCISSORS!For entertainment purposes only.",
+    "reviews": [
+      {
+        "timestampMsec": "1349922113966",
+        "starRating": "5",
+        "comment": "Fun app. Rock paper scissors to decide who gets the front seat. No argument about cheating. Thanks!",
+        "commentId": "lg:AOqpTOFjp9cZzU_9WNFVOujTgShw26R11smWLfwnKMpO7rHILXEidcSSzU-mX2ySoALqQ6vorD4Y39rrV9nkAbA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357860724673",
+        "starRating": "1",
+        "title": ".",
+        "comment": "Has nothing wrong with the game but it diddnt have 1star",
+        "commentId": "gp:AOqpTOGZ1x_fBLbpA8s6MZMCae-_HB4WySWKv4HBdtXxM2z4SPIfXAUwDpAH07ytR8aIQ50RdzjYy9ICWj_SwlI",
+        "author": "Santiago Flores",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

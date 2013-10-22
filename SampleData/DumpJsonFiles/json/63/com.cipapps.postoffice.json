@@ -1,0 +1,50 @@
+{
+  "title": "Post Office",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cipapps.postoffice",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "May 3, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "CIP Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cipapps.postoffice",
+  "extendedInfo": {
+    "installSize": "4.1M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Post office is a place where a lot of information is communicated. A post office is place where letters are transferred from one place to another money is transferred one hand to another, stamps are collected. It is one of the busiest governmental places of any state. If you are not confirmed about where in your city post office is located, or want some updated information regarding post office, then click on download button in Google play against the android app âpost officeâHere you will get:â¢\tNews on post office updates â¢\tArticles and blogs on post office and its importance â¢\tImages of post office of various corners in the city.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.cipapps.postoffice.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

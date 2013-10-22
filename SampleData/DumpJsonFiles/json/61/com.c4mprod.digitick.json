@@ -1,0 +1,49 @@
+{
+  "title": "Digitick",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.c4mprod.digitick",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "October 18, 2011",
+  "version": "2.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "94",
+  "rating": "4.0319147",
+  "contentRating": "Low Maturity",
+  "creator": "digitick",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.c4mprod.digitick",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Concerts, festivals, matchs, musÃ©esâ¦ Consultez lâactualitÃ© de vos Ã©vÃ©nements prÃ©fÃ©rÃ©s etrÃ©servez vos places en live depuis votre smartphone !GrÃ¢ce Ã  lâapplication digitick :1. RepÃ©rez les Ã©vÃ©nements qui ont lieu prÃ¨s de chez vous parmi les 20 000 manifestations disponibles2. Achetez vos billets par paiement sÃ©curisÃ© en quelques secondes3. PrÃ©sentez le billet sur votre mobile directement Ã  lâentrÃ©e de lâÃ©vÃ¨nementEt en bonusâ¦â¢ AccÃ©dez aux bons plans exclusifs digitick et soyez parmi les premiers Ã  en profiterâ¢ Synchronisez lâapplication avec le rÃ©pertoire de votre librairie de musique pour retrouver lâactualitÃ© de vos artistes prÃ©fÃ©rÃ©sâ¢ Personnalisez vos favoris et suivez lâactualitÃ© des salles de votre choixâ¢ â¦DÃ©couvrez une surprise, rÃ©servÃ©e exclusivement aux fans de concert !",
+    "reviews": [
+      {
+        "timestampMsec": "1319552158245",
+        "starRating": "5",
+        "title": "Enfin pas que sur iOS",
+        "comment": "L\\'Appli tourne bien, plen de fonctions tr\\303\\250s utile - achats, autour de moi, favoris etc. Je l\\'utiliseplusieurs fois par semaine.",
+        "commentId": "lg:AOqpTOFpEZ7xtj_9xoR-B9UHwMDympePe3B6BKvJSsQGyaT8dmyeMq56MHKurSTCisxhB_Kc6OtIY6bl0yW91KU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337189855453",
+        "starRating": "5",
+        "title": "Eccentric!",
+        "comment": "Merci pour est il.",
+        "commentId": "lg:AOqpTOGcsVbA7jn5uisLwgUIbHhuSULt6VxyHZmxPKeRylb3v_79W0ikOZmJN6SdMmbd9eFOoyM7m39rXDvozXg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

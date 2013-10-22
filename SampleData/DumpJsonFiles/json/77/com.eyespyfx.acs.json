@@ -1,0 +1,56 @@
+{
+  "title": "Viewer for Axis Camera Station",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eyespyfx.acs",
+  "category": "Tools",
+  "price": "$10.30",
+  "datePublished": "August 8, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "9",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "EyeSpyFX",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eyespyfx.acs",
+  "extendedInfo": {
+    "installSize": "566k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Viewer for AXIS Camera Station enables you to connect to an AXIS Camera Station server:- List available cameras- View LIVE cameras- Pan, Tilt, Zoom compatible camerasIt is the ideal mobile app to use to remotely view your Camera Station system live cameras when you are out and about adding to your peace of mind and security. Recorded Video cannot be viewed using this app.Viewer for AXIS Camera Station is compatible with AXIS Camera Station v3.42Please note:This app is specifically designed to work with AXIS Camera Station v3.42 and above.AXIS Camera Station web services must be enabled.(This is done through AXIS Camera Station Service Control)1 - Open the Service Control by selecting the Camera Station icon in the tray bar.2 - Select the Developer API page.3 - Enable web services by first enabling the \"Modify server settings\" check-box and then enable the \"Enable developer API\" check-box.4 - If other than the default ports should be used for web services change them here.5 - Select the \"Save\" button to set the values.6 - Restart the ACS server.For 3G access from outside the network, port forwarding will need to be setup from the Router/Modem opening the Developer API port (Default 50333) and Video port (Default 50334).",
+    "reviews": [
+      {
+        "timestampMsec": "1354544182607",
+        "starRating": "1",
+        "title": "Not worth the money",
+        "comment": "The frame rate is so low on my galaxy S2 that it is almost functioning as a snapshot software. My company is running a 6 mbps link and my home wireless is on a 60 mbps rate. Even at such high speed connection, its running at best 1 frame per minute.",
+        "commentId": "gp:AOqpTOFyE8c_iavHFY1Ti5JmCPsxoS2POl_ruq4asIlxxw2xcq8CcVPSAAFVTI48O2Q17cJIG_t8Hf7gXq3PUQ",
+        "author": "KS Chee",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343838714099",
+        "starRating": "1",
+        "comment": "Does not work on my Rezound.  Null exception in log file.  Unless there is a fix, I just wasted 10 USD.\\tLooked in log file to check failed login attempts.  Only says \\\"null exception\\\"",
+        "commentId": "lg:AOqpTOEIT-h87LjhXcb_L-yJqfBcx5k_TGjo3d_hQt9N3uOQZM6i1xi12D3AFMygXS5rYK0jyS-nGefwTuOMIA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1328745650910",
+        "starRating": "1",
+        "title": "not worth $10",
+        "comment": "gives you no more functionality than the basic app",
+        "commentId": "lg:AOqpTOGv6SKwH_Q8nJV28PEO9XVP9y-vkLYcQBvDc8iXLVU64a9yBHQrOb7Sk7_Fkdm14DBhk7YJWRE_lXfNmA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

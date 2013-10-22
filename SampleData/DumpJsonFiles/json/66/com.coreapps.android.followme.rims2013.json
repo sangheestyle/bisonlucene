@@ -1,0 +1,58 @@
+{
+  "title": "RIMS 2013 Annual Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.rims2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 15, 2013",
+  "version": "4.2.4.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.rims2013",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "RIMS 2013 Annual Conference & Exhibition, produced by the Risk and Insurance Management Society, is the risk management industryâs largest, most comprehensive event.  Delivering vital knowledge to attendees from around the globe with 100+ educational sessions, an exhibit hall packed with 400+ exhibitors, and unmatched networking opportunities, RIMS â13 is the worldâs leading event for risk professionals.",
+    "reviews": [
+      {
+        "timestampMsec": "1365018174171",
+        "starRating": "1",
+        "title": "Doesn\\'t Link",
+        "comment": "Pretty useless app as the system cannot link to the badge number sent by RIMS in the announcement email. If I can\\'t download my schedule it will be easier to just use my calendar where I already have all my session s and appointments loaded. I\\'ll be uninstalling this worthless app.",
+        "commentId": "gp:AOqpTOE0yLUAx6K9fgLiaVuaSchc7mQCsd-JGZBZMZO9cLNWGsoXHcNntXec4_dfZEAkz5r7gqCub0NxULTXznA",
+        "author": "Dana Kamp",
+        "authorURL": "http://lh3.googleusercontent.com/-Xl-8t_XDTYI/AAAAAAAAAAI/AAAAAAAAB08/VaOoK5yo-hM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Xl-8t_XDTYI/AAAAAAAAAAI/AAAAAAAAB08/VaOoK5yo-hM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.rims2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

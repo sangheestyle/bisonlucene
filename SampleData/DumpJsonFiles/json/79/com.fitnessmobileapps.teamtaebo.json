@@ -1,0 +1,35 @@
+{
+  "title": "Team Tae Bo® Fitness Franklin",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fitnessmobileapps.teamtaebo",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "July 9, 2013",
+  "version": "2.1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "Fitness Mobile Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fitnessmobileapps.teamtaebo",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Want to see the class schedule? How about signing up for a class (Tae BoÂ®, TRX, Boot Camp, etc.) or book personal training while your children have fun in our Kidz Zone? Want to make a purchase too? Yep! This handy App will keep you streamlined and rolling right along.  Use this App to plan your weekly schedule and keep your fitness goals on track (it also can put your appointment into your phoneâs calendar). It has our location information, links to our website and social media. Download today to get all of this and much more at your fingertips.Also be sure to check out our website at: http://teamtaebofranklin.com/",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      ".permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR"
+    ]
+  }
+}

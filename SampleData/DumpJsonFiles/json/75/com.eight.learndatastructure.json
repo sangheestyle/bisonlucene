@@ -1,0 +1,39 @@
+{
+  "title": "Learn Data Structure",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eight.learndatastructure",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "August 7, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.1 - 4.2",
+  "ratingsCount": "1",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Bandu Darokar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eight.learndatastructure",
+  "extendedInfo": {
+    "installSize": "151k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Learn Data Structure is learning tutorial. This apps cover all topics of data structure.Data in a particular problem consists of a set of elementary items or atoms. An atom usually consists of single elements such as integers, bits, characters, or a set of such items. A person solving a particular problem is concerned with establishing paths of accessibility between atoms of data. The choice of atoms of data is a necessary and key step in defining and then solving a problem.  The possible ways in which the data items or atoms are logically related define different data structure. It is important to point out that the class  (i.e. c++ class) of concepts dealing with data structures has become increasingly important in recent years.",
+    "reviews": [
+      {
+        "timestampMsec": "1376969625411",
+        "starRating": "3",
+        "title": "Gd...",
+        "comment": "Nice one....but need some example ...",
+        "commentId": "gp:AOqpTOETD2jmH2o-J2uyhUw95FA0Vm0kiUKyzUTglxeqesjq6VTPa13PRCLgqoh-VG07T-gtxVoT2AFbTNej6w",
+        "author": "pallab pial",
+        "authorURL": "http://lh4.googleusercontent.com/-l7gCEg-4740/AAAAAAAAAAI/AAAAAAAAAB8/Sk2v0goHwMg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-l7gCEg-4740/AAAAAAAAAAI/AAAAAAAAAB8/Sk2v0goHwMg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

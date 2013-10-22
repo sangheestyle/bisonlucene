@@ -1,0 +1,55 @@
+{
+  "title": "MedCam",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cupel.MedCam",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "March 11, 2012",
+  "version": "1.10",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "15",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Cupel",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cupel.MedCam",
+  "extendedInfo": {
+    "installSize": "151k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Measure the pulse and respiration rate of yourself and others using your camera.To use: - Steady the camera by resting it on a table (for example). - Position your face in the top box and shoulders in the bottom box. - Push 'Start' and keep still while the measurement is in progress. - Your pulse and respiration rate will be displayed. - Select \"Switch camera\" from the menu to change the camera (on supported phone).How it works: - Movement of your chest is used to measure respiration rate. - Small changes in reflectivity from your face are used to measure pulse.  Each heart beat our faces pulsate - changing in reflectivity by about 1%, if these changes were 2% then we would be able to see them with our eyes, at 1% they are just detectable with a smartphone camera (after a few seconds of measurement).Disclaimer: This remote sensing software is fallible and so it is not recommended for important measurements.Requires a phone with a front-facing camera and Android 2.3 or higher.",
+    "reviews": [
+      {
+        "timestampMsec": "1363654450174",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "Incredible App.  Had My Pulse manually Checked At The Same Time And The Readings From This App Are Spot On!  Top Marks To The Developer.  Would Like To See A log/History Function.",
+        "commentId": "gp:AOqpTOHXEqjPPcQvfN8T3MwtLbXU6Meakgg5ZWFRqPa8pQWXKR2hw0y5cxSww3dsdnfEuMo9sjwC1jkEi71tQxs",
+        "author": "Steve McGrath",
+        "authorURL": "http://lh3.googleusercontent.com/-gIQoQLHQmUg/AAAAAAAAAAI/AAAAAAAAA94/8-QBmOcTPwE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-gIQoQLHQmUg/AAAAAAAAAAI/AAAAAAAAA94/8-QBmOcTPwE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1323606680051",
+        "starRating": "5",
+        "title": "Fun and cool new app!!",
+        "comment": "Cool!! I had to set it down or hold it extremely steady though but still really cool!!!",
+        "commentId": "lg:AOqpTOE7Ldq93_fKBMWP57aF3Yt9oQj2r_lSkP7LYMGlkQ2Ukf8cdg14jeVr8FyrxiV297rIGK-5rObhAlE3zO4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346055761067",
+        "starRating": "5",
+        "title": "Very cool",
+        "comment": "Verified pulse with another app and counted breaths.",
+        "commentId": "lg:AOqpTOGoN-DGQ8EI06FsY5We950COCvr3TqH92U6JmYH8Vwo723IIG08ZWiRBUhcTQo-TvWaTBlasO-94rTBRvA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

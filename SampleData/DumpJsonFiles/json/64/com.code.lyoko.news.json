@@ -1,0 +1,53 @@
+{
+  "title": "Code Lyoko Mobile App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.code.lyoko.news",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "May 24, 2013",
+  "version": "0.3.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.375",
+  "contentRating": "Everyone",
+  "creator": "Alexander Thurman",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.code.lyoko.news",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Fans of Code Lyoko, smartphone and tablet users, today I offer you a rather special news. After a long period of reflection and work, I present an application Android free and non-official on ... Code Lyoko! What's the point, you ask? Well it's very simple! With various sites listed, you will not miss anything of the news about Code Lyoko and Code Lyoko Evolution CL Share the news on various social networks Add items to your favorites An offline is available to read and reread your articles Read the latest posts on your favorite forum, Yumi2004 Watch the latest videos posted on YouTube Code Lyoko Follow the news via social networks CL This application is compatible with tablets and smartphones running Android , which remains to this day the most widely used mobile operating system. The users of iOS (Apple) will have to wait a little longer before a similar application is born. Developing this application, we wanted to stay true to the prevailing policy on codelyoko.net forever. Thus, rather than keeping only our site and some partners in our app, we have the challenge of openness and diversity in deciding to integrate all sites dealing with Code Lyoko, whether partners or independent. This is to allow you to follow a glance everything that's said about your favorite series in a near-exhaustive application!",
+    "reviews": [
+      {
+        "documentVersion": "0.3.1",
+        "timestampMsec": "1377776048097",
+        "starRating": "5",
+        "comment": "I love it code lyoko only the show was still on",
+        "commentId": "gp:AOqpTOHwdpmYdJ4F8-WPdS6tvqC3z29DSQHGxsDumN2R2I-BzSMiWqkMIlYKhbdfUuEl5Syq4U33jMJ-WRD06cE",
+        "author": "Quityne Paulson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.1",
+        "timestampMsec": "1375271464711",
+        "starRating": "1",
+        "title": "No!",
+        "comment": "No0",
+        "commentId": "gp:AOqpTOFM3UN8TmdRoSTykwaJ3-jdFIcNzfkhtsDVgtfQXtz_PRIu11w_37cCEwwLbGgwLq9z6w3uwjPmTbb9zLc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

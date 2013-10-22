@@ -1,0 +1,72 @@
+{
+  "title": "Open Aviation Map",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.euedge.openaviationmap.android",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "April 29, 2013",
+  "version": "1.0.16",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "10",
+  "rating": "4.2",
+  "contentRating": "Low Maturity",
+  "creator": "EU Edge LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.euedge.openaviationmap.android",
+  "extendedInfo": {
+    "installSize": "972k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "An application to display aviation maps as you fly.Current coverage: Hungary, Europe. (But more to come later.)Applicaiton features: * automatic map downloads * base and detailed map packages for download * pausable and resumable map downloads * show & follow aircraft location * lock screen orientation * keep screen awake without user interaction * donate to the Open Aviation Map projectIf you like this project, don't forget to donate from within the application!The Open Aviation Map project aims to create maps to be used by general aviation enthusiasts - similarly to the Open Street Maps project.Open Aviation Map is an open source project, follow the development at http://code.google.com/p/openaviationmap/Like us on FaceBook here: https://www.facebook.com/OpenAviationMap",
+    "reviews": [
+      {
+        "timestampMsec": "1364637129583",
+        "starRating": "5",
+        "comment": "long awaited app",
+        "commentId": "gp:AOqpTOET-XAbwL9Emf4OZw40_b_Cms2ftmFqR0T-xL4VnLWB86Wk4f9rtQ_C9RPLoxIpz9ATFDc6p2NhzZrwjg",
+        "author": "Gabor Grosschmid",
+        "authorURL": "http://lh5.googleusercontent.com/-bYLMAvJ3GWA/AAAAAAAAAAI/AAAAAAAAALE/PXzQKS2GkSo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-bYLMAvJ3GWA/AAAAAAAAAAI/AAAAAAAAALE/PXzQKS2GkSo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362310531603",
+        "starRating": "5",
+        "title": "Great free VFR maps!",
+        "comment": "This app is great. It let\\'s you download maps for flying VFR and displays them in a clean easy to use interface. It follows you as you fly. It can resume broken downloads and update your maps as you go. Best of all it\\'s 100% FREE! It\\'s still in beta but I haven\\'t found any bugs or failures yet.",
+        "commentId": "gp:AOqpTOG-c15eBwpZoRkdnPWvjqplY86p6cKHkvwzcI-LMGCvPFaV7Ibyue2HAKTli2eO2V1YIhdBQaLOSlEOVw",
+        "author": "Morten Olsen Lysgaard",
+        "authorURL": "http://lh4.googleusercontent.com/-OBU_3CfSxMM/AAAAAAAAAAI/AAAAAAAACrg/NBe1BQo9nOU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-OBU_3CfSxMM/AAAAAAAAAAI/AAAAAAAACrg/NBe1BQo9nOU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362297905472",
+        "starRating": "5",
+        "title": "B\\303\\251ta \\303\\241llapotban is haszn\\303\\241lhat\\303\\263 alkalmaz\\303\\241s",
+        "comment": "Jelenleg b\\303\\251ta f\\303\\241zisban van a projekt, de FC, vagy m\\305\\261k\\303\\266d\\303\\251si hiba eddig nem volt n\\303\\241lam tapasztalhat\\303\\263. Minden akt\\303\\255van rep\\303\\274l\\305\\221, vagy a rep\\303\\274l\\303\\251st kedvel\\305\\221 sz\\303\\241m\\303\\241ra hasznos eszk\\303\\266z! Tartalmazza a magyarorsz\\303\\241gi l\\303\\251gtereket, amelyek megs\\303\\251rt\\303\\251se egyre komolyabb k\\303\\266vetkezm\\303\\251nyekkel j\\303\\241r..",
+        "commentId": "gp:AOqpTOFRODeiT8OoQ3i1I9Ch1iCHIrIo4xY3ahY20PMMuSibxMp1UPHSlpuylSTqTKtmaRESQ06M3PzEbyFYjw",
+        "author": "P\\303\\251ter Vojnisek",
+        "authorURL": "http://lh6.googleusercontent.com/-Kkcfqtz9_3Y/AAAAAAAAAAI/AAAAAAAAAAA/hHfvPR-NX50/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Kkcfqtz9_3Y/AAAAAAAAAAI/AAAAAAAAAAA/hHfvPR-NX50/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377205025041",
+        "starRating": "1",
+        "title": "Disappointed",
+        "comment": "Don\\'t waist your time on this.",
+        "commentId": "gp:AOqpTOGcFE__JOB9pEPeKkS1T1wPSEqJuEEZwIQ9NHXhxKkQ-GFbhAEYVoFwcyYZq5IZ4neDx2OEHY9c0Hso4w",
+        "author": "Ramin Shariati",
+        "authorURL": "http://lh5.googleusercontent.com/-_XKHyfg-KTQ/AAAAAAAAAAI/AAAAAAAAAh0/jX8yUZ2pkyI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-_XKHyfg-KTQ/AAAAAAAAAAI/AAAAAAAAAh0/jX8yUZ2pkyI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

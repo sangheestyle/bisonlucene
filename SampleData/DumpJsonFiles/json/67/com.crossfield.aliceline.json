@@ -1,0 +1,45 @@
+{
+  "title": "Alice Line Puzzle",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crossfield.aliceline",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "August 7, 2013",
+  "version": "1.0.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Cross Field Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crossfield.aliceline",
+  "extendedInfo": {
+    "installSize": "24M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "New interesting puzzle game with Alice world!Rule:Draw line with finger by connecting same color dots horizontally or vertically!The dots will be erased and you will get point. If you can make circular line, all same color dots on board will be removed!So try to draw longer lines to get more points!Stage Mode:The Cheshire cat is hiding in the place where the number is written! Make a number into zero and drive it out!! It will drop Alice, and the rabbit and a pocket watch to the bottom!! Score and the erased number blocks will be used in missions!!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1376052179313",
+        "starRating": "5",
+        "comment": "Alice line puzzle",
+        "commentId": "gp:AOqpTOFB4p8FWfmzDBtTEA0l7yWxbdsyqEySmD8oNz_A_cpcV341JyT0FDEzar5bDnD9s9S5mAjK9RduyplW_3I",
+        "author": "Daisy Mahawan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.crossfield.aliceline.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

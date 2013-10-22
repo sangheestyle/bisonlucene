@@ -1,0 +1,61 @@
+{
+  "title": "Pressure Altimeter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chamberdyne.PressureAltimeter",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 24, 2012",
+  "version": "0.92",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "8",
+  "rating": "2.75",
+  "contentRating": "Everyone",
+  "creator": "Tom Stepleton",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chamberdyne.PressureAltimeter",
+  "extendedInfo": {
+    "installSize": "122k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "NOT A FLIGHT INSTRUMENTNOT FOR NAVIGATIONA bare bones pressure altimeter just like the one in an airplane (except red, for some reason). There are no additional features: if an airplane altimeter doesn't do it, this app won't do it. Unless you count \"being red\" as a feature.Uses the pressure sensor in your Android device and the altimeter setting you provide to estimate your altitude. Don't have a pressure sensor? In that case, it pretends you're at sea level. Just to make it clear: this app won't show your altitude unless your device has a pressure sensor inside.New to altimetry? Check Wikipedia to learn more about altimeter settings (http://en.wikipedia.org/wiki/Altimeter). Then check your nearest, most recent METAR (http://en.wikipedia.org/wiki/METAR) to learn the correct altimeter setting for your area.Instructions:Use the volume buttons to change your altimeter setting.Long-press anywhere to toggle debug information.Features:Kalman filter smooths out sensor noiseRequires no special permissions at allFree, no ads, code is public domain!RedLimitations:Imperial units only (feet, inches of mercury)Pressure altitude only: does not integrate GPS altitudeREDVisit the website to get the code for yourself!",
+    "reviews": [
+      {
+        "timestampMsec": "1352407903587",
+        "starRating": "1",
+        "title": "Hmm",
+        "comment": "That was a waste of space. Doesn\\'t move. Don\\'t even know what it shows. No options. Why feets? Feets always stinks, go metric! Minimum 1 star, no minus score?",
+        "commentId": "lg:AOqpTOGXmQarzQ8lHyQxFJWtGwcu2omJYL9GsBhTtfwSzHwl4DTlHGgazghYGQK16vERlfOwGc4UtZ72lknHQg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342526646711",
+        "starRating": "5",
+        "comment": "Plain and simple! I love it!",
+        "commentId": "lg:AOqpTOFmAG6ZDvvklAtdzIR2zEbm_-Dl9hvrgQU-DFsHIEUMMzJJ6oj5CBz6Zfk51CNmTjozwpxgVDTk3tYlWw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377689302685",
+        "starRating": "4",
+        "title": "Great UI. Compatibility lacks",
+        "comment": "Does not work on Sony Xperia Tablet Z. Shows me at MSL",
+        "commentId": "gp:AOqpTOFRlxwLiqpdv9liaFqFkXyTrCNGvXQhJfi6qT1pZgm-9ekulZqvxVltrsBBxWJSJZOCQvAg0TlgHTpWRg",
+        "author": "Rojer Dodger",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346967451188",
+        "starRating": "1",
+        "title": "Not good",
+        "comment": "Drive and didn\\'t budge after starting.",
+        "commentId": "lg:AOqpTOHKhQRGgm0DKVn3bJSM91oaK354d43cHQY7GLoP0FuJGqWmwwA9g_QQtbMAxC4j2j9CbAIV7drrNsR0Zw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

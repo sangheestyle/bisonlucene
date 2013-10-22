@@ -1,0 +1,44 @@
+{
+  "title": "Card Board",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidisland.cardboard",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 13, 2010",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "8",
+  "rating": "3.625",
+  "contentRating": "Not rated",
+  "creator": "droidisland.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidisland.cardboard",
+  "extendedInfo": {
+    "installSize": "216k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This app use simple chart display SD card usage. It can submit your free SD card space to Internet ranking list, so you can know how much free space of others, and what is your ranking.This is the first version, waiting your advice.",
+    "reviews": [
+      {
+        "timestampMsec": "1280274652273",
+        "starRating": "1",
+        "comment": "Only reports relative sizes, and not accurately. My music folder is larger than anything else. This app said it was the same as android.apps. Useless.",
+        "commentId": "lg:AOqpTOHrOkOj1LJkP2xB6If_Y67tAeSaD2oUIj_QGVw83y7ow-VNFLK8NyEx0YRPcqsPeXTPcyNRZdqNudHztg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1279600339946",
+        "starRating": "3",
+        "comment": "I dont get the point of this app it kind of sucks",
+        "commentId": "lg:AOqpTOE_N4Z8GfG-r0vSTlkvo6fagB7dmsKcWkPv8pP8G72g6aFLonDfHtjYPLtg7_kzsGi1edq7uafAi0qbGg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

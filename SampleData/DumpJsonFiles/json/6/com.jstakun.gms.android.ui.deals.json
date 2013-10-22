@@ -1,0 +1,38 @@
+{
+  "title": "Deals Anywhere",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jstakun.gms.android.ui.deals",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "August 13, 2013",
+  "version": "0.7",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "GMS World",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jstakun.gms.android.ui.deals",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "With Deals Anywhere you could find daily deals offered at your current location or at any other location of your choice. We aggregate daily deals from multiple providers including Groupon, Foursquare, Expedia, 8Coupons, Yelp and Hotels Combined. Click on deal icons on the map or browse deals by categories.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "com.jstakun.gms.android.permission.ACTIVITY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

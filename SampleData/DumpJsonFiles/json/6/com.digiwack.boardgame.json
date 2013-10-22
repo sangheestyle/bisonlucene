@@ -1,0 +1,44 @@
+{
+  "title": "Digiwack Board Games",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.digiwack.boardgame",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "June 21, 2013",
+  "version": "1.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Digiwack Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.digiwack.boardgame",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "A collection of mini-games based on a universal Board Game system I've developed over the years.Includes:MineSweeper... with optional Hexagon modeBegemed... (Bejeweled) lots easier with optional Hexagon modeColorGroup... eliminate all the adjacent colorsYatc (Yet Another Tetris Clone) with optional Pyatrads!)Checkers... your standard 2 player game of checkers, on an extra large boardChess... your average 2 player game of chess.Kerplop... land pieces next to your opponent's to capture their pieces.Reversi... your average game of reversi, with an optional extra large board and 4 possible players.Graph... displays F(x) based functions, create a sine wave, 5th degree polynomial, similar to a Graphing calculator.Klondike... Same logic as my other Klondike game.And a few others...After initial installation, the configuration tables have to be loaded before any games can be played, please be patient at this point.Scroll Drag Threshold is for movement needed before the screen gets scrolled.Rotation Lock will lock a running game in place to prevent rotation during play.OpenGL Graphix for normal Android Devices.SurfaceView Graphix if your device lacks graphics-accelerationDB Text View: you'll want to leave this one alone unless you're aware of what you could be changing.Rated \"Low Maturity\" just in case the Snake eating rodents is considered \"too graphic\".The Read/Write External Storage and Read Phone State permissions are carry-overs due to my decision to not abandon Android 1.5 users, on second thought, there are still 7 users out there that still use Android 1.5.  I'd appreciate it if they could explain why they're still using 1.5. (the link on the splash-screen will send me a direct email)This app doesn't deliberately store anything specific on your SD card.  However, this app does use SQL-Lite to store the game configuration, so if your device is configured to store the database tables for an app on your SD Card, than this could be what is happening.If you found this app at a site other than the Android Marketplace, Digiwack Software does not support any \"features\" that may have been added after it was scrapped from the Android Marketplace site. You can find the original source of this App here: https://play.google.com/store/apps/developer?id=Digiwack+Software",
+    "reviews": [
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1353441360561",
+        "starRating": "5",
+        "title": "Lots of games",
+        "comment": "Config options help u see how games work",
+        "commentId": "lg:AOqpTOFmIgEFxWx3ueu8W0L_p9MwYnDYdTEEpt7ukOztJ77ao-3QN4z7BhD32N0E-C0GGfGnthgeD-WdmajGjw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345678487780",
+        "starRating": "5",
+        "title": "Plain simple fun",
+        "comment": "Would you believe that only 1 person made all of this?",
+        "commentId": "lg:AOqpTOG8VRyq5CfmWJ4ANveLH5TQUq2qYOm2EPu0owkj2UFw6wNcJXwQYrkoiYYVd15iow2rg7tT25pMVu6kzg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

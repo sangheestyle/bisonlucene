@@ -1,0 +1,48 @@
+{
+  "title": "Video Portal",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evenwell.videoportal",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "September 4, 2013",
+  "version": "2.0090.01",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "83",
+  "rating": "3.879518",
+  "contentRating": "Low Maturity",
+  "creator": "Evenwell Digitech Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evenwell.videoportal",
+  "extendedInfo": {
+    "installSize": "712k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Want to watch the most popular movies on YouTube? Want to enjoy the recent taken videos? With Video Portal, all media contents from YouTube and your phone memory are waiting to be enjoyed.2 main video pages are supported -(1) Device page:     List the videos on device as following categories: - Recent Opened - Recent Added - All Videos(2) YouTube page:     List the videos according to Youtobe website as follows: - Most Viewed - Most Discussed - Most Recent - Top Rated",
+    "reviews": [
+      {
+        "documentVersion": "2.0090.01",
+        "timestampMsec": "1344020925475",
+        "starRating": "1",
+        "title": "Tomobaby\\342\\231\\245",
+        "comment": "Wtf! I install, test it out, and out of nowhere it makes my phone turn off! No way!",
+        "commentId": "lg:AOqpTOHDRcQmMKloj2vf0vpD3hJPg0RadgkFMxOFF2s-u1HPeyH8KdnJv32PaGwHDWwLZv0JNftgPCPTqGGiJQo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_WALLPAPER",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

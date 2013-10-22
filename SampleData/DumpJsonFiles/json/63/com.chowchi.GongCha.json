@@ -1,0 +1,40 @@
+{
+  "title": "Where is GongCha?",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chowchi.GongCha",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "April 21, 2012",
+  "version": "0.2.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "Don Chow",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chowchi.GongCha",
+  "extendedInfo": {
+    "installSize": "193k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Find the nearby Gong Cha shop in Hong Kong. The shop will be shown in list sorted by distance as well as in map.(Unofficial apps by Hong Kong Gong Cha Fans)Keyword: Hong Kong, Gong Cha, Gong-Cha, GongCha, Beverage, Drink, Milk Tea, Wulong, Taiwan style drink",
+    "reviews": [
+      {
+        "timestampMsec": "1334534807230",
+        "starRating": "3",
+        "title": "Lo Vic",
+        "comment": "Nice! Keep it up!!",
+        "commentId": "lg:AOqpTOGXJzykkwmLFsOx2ZWp565XZXJO2YvJqZH3d1VBhdh0jUqgMP7WY0lJ0POlr2miCB5aSONPYyki0Qe_Nng",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Taxibase Office software",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=tbms.demo1",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "January 20, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Rana Omer",
+  "creatorURL": "https://play.google.com/store/apps/details?id=tbms.demo1",
+  "extendedInfo": {
+    "installSize": "148k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Taxibase Office software for drivers",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

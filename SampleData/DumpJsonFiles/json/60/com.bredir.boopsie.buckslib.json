@@ -1,0 +1,80 @@
+{
+  "title": "buckslib.org Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.buckslib",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 25, 2012",
+  "version": "4.5.76",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "3.857143",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.buckslib",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Visit the Bucks County public library mobile website. Search for books, DVDs, audios, videogames, and more. Find an interesting program at the library, place holds, renew items, follow our blog, download directly to your mobile device, or contact us. Use our new easy and quick search - just type in the first couple of letters of words and see the search in action while you type.",
+    "reviews": [
+      {
+        "documentVersion": "4.5.76",
+        "timestampMsec": "1343272068148",
+        "starRating": "2",
+        "title": "Can\\'t trust it",
+        "comment": "It\\'s not a reliable app. I logged in and the app was able to show that I had one book on hold. However it also indicated that I had no books checked out when I actually had nine books out. I\\'ll stick with the website for now.",
+        "commentId": "lg:AOqpTOE3SGLhkSYeLYbRBFTO26xouCLpeUMDajtmTnRE0mfa3jQZDn2rvIwVsLbVBAPtYJeESTxVA1PVCediO3k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.76",
+        "timestampMsec": "1343940849225",
+        "starRating": "4",
+        "title": "Pretty good",
+        "comment": "Some things would be nice. Like filter options in the calendar and advanced search. Besides that, it\\'s pretty good.",
+        "commentId": "lg:AOqpTOFD7BZoMHKuoR9j0qUjR4Ctm0OlFfqavN6vspWPTenLgDCyaheuze08rv8eMnHID_MuuC6mlOHhBpN2qZc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.76",
+        "timestampMsec": "1360609969667",
+        "starRating": "4",
+        "title": "Looks promising!",
+        "comment": "App now shows correct current account information (vs an earlier version).  Looking forward to seeing how it works.",
+        "commentId": "lg:AOqpTOGERkZCTlW3JTl5wViPwSa7TMfJzJXDYCp4OWBZVxSc0pBRoN5Bmm_5H_FnpyKZVaIVo3q2PpoFypLZ9LY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.5.76",
+        "timestampMsec": "1348841385309",
+        "starRating": "2",
+        "title": "Wrong account info",
+        "comment": "The amount of items checked out is completly inaccurate; it tells me I have nothing checked out. The amount of holds is somehow correct, though.",
+        "commentId": "lg:AOqpTOFNd8-p7D4FzSJoJ5w9QvlotCP1bFaQdgTX3C4ggslcOKicH1rl2oEWOxb4zzSgXR0TkzUlBz2PwVU-ofU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343497402410",
+        "starRating": "5",
+        "title": "I like it so far",
+        "comment": "Thumbs up!",
+        "commentId": "lg:AOqpTOFVJEA17daRU65BlOjYj9wkgXvpyriolt8irO4jwC-JTmbNlpHeCkSDhnBes9HN7o8GHQKWUd0IAaGvAos",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

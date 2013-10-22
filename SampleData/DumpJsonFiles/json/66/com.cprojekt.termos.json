@@ -1,0 +1,34 @@
+{
+  "title": "Tetric Phone",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cprojekt.termos",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "March 28, 2013",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "51",
+  "rating": "3.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "Cprojekt",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cprojekt.termos",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "An example of the classic game Tetris Phone. Made in PhoneGap and HTML5 technologies.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

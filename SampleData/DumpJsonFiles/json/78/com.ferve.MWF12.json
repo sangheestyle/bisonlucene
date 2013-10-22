@@ -1,0 +1,43 @@
+{
+  "title": "Melbourne Writers Festival",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ferve.MWF12",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 29, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "FERVE TICKETS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ferve.MWF12",
+  "extendedInfo": {
+    "installSize": "3.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official app for the 2013 Melbourne Writers Festival allows you to explore, connect and streamline your festival experience. The MWF 2013 app lets you: Explore the program: - Browse the program by name, date, venue, category and writer - Browse âWhatâs On Nextâ at the festival - Shake the app on any program screen to take a chance - Attend a few Free Events to enhance your experience Buy and download tickets: - Buy tickets securely with your credit card anywhere, anytime - Buy passes and redeem sessions immediately - Go paperless: download tickets to be scanned at the venue door - Add your tickets to Passbook - Add your sessions to iCal Schedule your attendance and share with friends: - Create a shortlist of events through Wishlist - Share events through email, Twitter and Facebook - Share your ticketed sessions with friends through email or add them to iCal - Get the latest festival news straight to your phone - Follow the festival through Facebook, Twitter and Instagram - Want to be part of the conversation? Include #mwf2013 in your tweets. Left your printed tickets at home? If you buy tickets using the same MWF account details, you can retrieve all the barcodes on your device regardless of how you purchased (counter, web or phone). These barcodes can be scanned on your device for entry at the cinema door. About the festival: Established in 1986, Melbourne Writers Festival is the City of Literatureâs annual, two-week celebration for writers, readers and thinkers. Our festival celebrates literature and the work of writers. We reflect Melbourneâs cultural diversity and promote creativity, knowledge, reflection and inclusion. In the coming years, Melbourne Writers Festival will focus on the areas of innovation, diversity and connection to build on past programming successes and consolidate our position as a literary festival of local importance and international stature. About the developers: Ferve Tickets are your key to the excitement and possibilities of this yearâs Melbourne Writers Festival program. Whether youâre buying tickets online or at the box office, knowing where to be for the next show, or having your tickets and passes when you need them, weâre with youâre the whole way.",
+    "reviews": [
+      {
+        "timestampMsec": "1342762343122",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "The app is very easy to use, like the feature paperless, wishlist and scan at the door ticket",
+        "commentId": "lg:AOqpTOHjSsX4XxXI5c2ve3xknFmltTNHtB6gDgygEGFZjMqLsBwolZhI4MpuwOZ6oJ9AR6Ub_FLnSBXOeIk61Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

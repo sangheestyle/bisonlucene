@@ -1,0 +1,32 @@
+{
+  "title": "Choice Taxis",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cordic.theunitedhemelcabs",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 13, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cordic Android",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cordic.theunitedhemelcabs",
+  "extendedInfo": {
+    "installSize": "551k",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "Thank you for your interest in the Choice Taxis of Hemel Hempstead, Berkhamsted Android App.This App allows you to book a Private Hire vehicle from Choice TaxisYou can:* Make a booking* Check it's status* Cancel a booking* Track the vehicle on a map* Manage your previous bookings* Manage your favourite addressesYou can book taxis from Hemel Hempstead, Berkhamsted, Tring and the surrounding towns and villages. We also have executive cars and minibuses and regularly transfer customers to and from airports and London  Choice Taxis have over 100 drivers and are Hemel Hempstead's and Berkhamsted's largest taxi company.This App allows you to book a cab in a public place without everybody knowing your business.Your booking goes directly onto our computerised taxi dispatch system.The App is intended for U.K. use only, and therefore all addresses are restricted to within the U.K.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Flying Farm World",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crown.nouen",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "September 9, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "27",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Bitport Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crown.nouen",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Grow your own wonderful vegetables on a farm! A game with a new feel for growing \"vegetables\"! ****************************** Oh no! This evil, evil witch turned my veggie friends back into seeds! Now they're all in trouble... Help them by caring for them on your farm! ****************************** * Complete the picture booklet Currently there are 100 total types of vegetables that have been turned back to seeds! You must figure out how to get them to grow and also help their rare friends! Good luck! Try to complete the entire picture booklet while using your items and equipment! * Harvest healthy crops Harvest all the vegetables on your farm and then make one full swipe!! You won't be able to get enough of the feeling of harvesting all the ripe veggies! * Play with your friends Invite your friends and then you can be ranked by the number of friends you've helped. You can also visit your friends' farms and send them messages! Help out your friends and grow all the veggies faster than anyone else! * Beware of burglars There are also bad guys who will come onto strangers' farms and harvest their vegetables. You gotta be careful because you have to help all of these vegetables grow up! * Do daily maintenance Your vegetables will wither away if you neglect them for too long! Be sure to water them and harvest them once they're ripe! You must also maintain your farm every day so you can protect your vegetables from burglars!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1377206393591",
+        "starRating": "5",
+        "title": "Wow awesome game",
+        "comment": "Great game",
+        "commentId": "gp:AOqpTOGvMkrkmY-ic5IdjyO8bAL2WXcXkw7_1I_zxwdxxzkXDmLDkyX1WN-iILF_d33B0kpiSlxWg8lVYugG6Ao",
+        "author": "Stacey Davis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.crown.nouen.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

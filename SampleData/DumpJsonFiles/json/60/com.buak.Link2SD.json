@@ -1,0 +1,251 @@
+{
+  "title": "Link2SD",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buak.Link2SD",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 25, 2013",
+  "version": "2.4.6",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "43686",
+  "rating": "4.646958",
+  "contentRating": "Everyone",
+  "creator": "Bulent Akpinar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buak.Link2SD",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "5,000,000+",
+    "downloadsCountText": "5,000,000 - 10,000,000",
+    "description": "Link2SD is an application that makes it easy for Android 1.6+ users with root privileges on their phone to move applications to the SD card. The idea behind is same with apps2sd scripts, linking applications to SD card's second partition but differs in two ways.One, instead of linking /data/app folder (that means moving all applications), you can select applications that you want to move. Two, it's an application which means has a user interface. You can manage your applications with few clicks. It also provides native apps2sd features on Android 2.2 and higher. It can move any non-protected user apps to SD card (force move), with batch moving capability.That feature uses Android's standard SD-card installation feature and does not require a second partition. It can break some apps if they are not meant to be moved to the SD card (Such as Widgets).Features:- Create and remove link for apk, dex and lib files of the applications you select- Automatically link newly installed apps (optional)- Move any user apps to SD even though the app does not support moving to SD (a.k.a. \"force move\", for Android 2.2 and higher)- Shows the apps that support moving to SD with native apps2sd - Set the default install location of the apps; auto, internal, or external - Batch link, unlink, reinstall, uninstall, \"move to SD\", \"move to phone\" functions - Notify when movable apps installed - Uninstall system applications (bloatware removal) - Freeze and un-freeze system and users applications - Convert system apps into user apps - Convert user apps into system apps - Integrate \"Updated\" system apps into system (ROM) - Clear data and cache of the application - Clear all apps cache at once (1-tap cache cleaner without being root) - Notify if total cache size exceeds specified size - List applications, show detailed size information and link status - Wide variety of options to sort and filter apps - Search applications by name - Display available space information of internal storage, SD card and SD card 2nd partition What you need:- root permission. - a second partition on your SD card. You should have two partitions on SD card and both should be primary.The first FAT partition is your standard SD card storage. The second partition is used for application files and can be ext2, ext3, ext4 or FAT32.Some phones lack the ext2, ext3 or ext4 file system support and you may get mount errors like \"no such device\", \"invalid argument\". These phones need ext2.ko or ext3.ko modules and even some additional modules to be able to mount. Using FAT32 on the second partition will eleminate such problems, because FAT32 is supported on all phones.Link2SD does not create the second partition, you need to create it yourself. You can use any partition manager such as Minitool, Paragon, Easeus etc. for this. How it works:Link2SD mounts the second partition of your SD card and makes OS mounts it at boot time.When you press \"Create Link\" button Link2SD moves apk file, dalvik-cache (.dex) file and lib files (.so) to SD card's 2nd partition and creates symbolic links in original directories.Note: On Android 1.6 and 2.1, shortcut and the widget of the app should be re-added to homescreen if you move the apk file.You can remove the links and put application files back to phone. Just click on \"Remove Link\" button.Some points- System applications should not be linked to SD card. Link2SD does not allow these applications to be linked.- When you connect your phone to PC as mass storage, Android unmounts the first FAT partition but the second partition remains mounted. Therefore linked applications are not affected and can be run without problems.- Link2SD does not move application's private data files; it moves apk, dex (dalvik-cache) and lib files.Link2SD is free (ad supported) application.DISCLAIMER: It is made available for use at your own risk with no warranty of any kind.",
+    "reviews": [
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1377453284082",
+        "starRating": "3",
+        "title": "ADS!!!!!!!",
+        "comment": "Come on, you took a great app and made it suck! Make a \\\" Pro Version\\\" if you you need money. I am sure there are many of us that would gladly pay for your app. Additionally, you would likely make more money to cover your costs, meaning you could keep the \\\"free\\\" (ad support) one plus the \\\"pro\\\" (paid) version. Please fix, and then I will give you 5 stars!!!",
+        "commentId": "gp:AOqpTOHbrbwJB4nQ0Ohbo1gdF3q5S3bmIlNSBv45Bnil1doS3waCsOHhYOjSpt6lJa5PreXxZ_ASy-I7LU20QOs",
+        "author": "Porky Hontas",
+        "authorURL": "http://lh3.googleusercontent.com/-ZmMh4VmHVug/AAAAAAAAAAI/AAAAAAAADtI/Bu2H6N5qRQg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ZmMh4VmHVug/AAAAAAAAAAI/AAAAAAAADtI/Bu2H6N5qRQg/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1377679441372",
+        "starRating": "3",
+        "title": "Ads!",
+        "comment": "Ditto previous comment, I too would pay not to have ads; do they affect battery life? Already bad enough on the Nexus One.",
+        "commentId": "gp:AOqpTOGYnRMGPMipeP7p5GPKQk-VZK3BgMQLmGhAK3pKIuq4twcqhPphcdUBRHTdlAnKhZKTdv4cPci8dt7T9UY",
+        "author": "Ian Tompsett",
+        "authorURL": "http://lh3.googleusercontent.com/-vpacQNZBNkE/AAAAAAAAAAI/AAAAAAAAeQM/w7ZYdVYT9_o/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-vpacQNZBNkE/AAAAAAAAAAI/AAAAAAAAeQM/w7ZYdVYT9_o/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1377405827337",
+        "starRating": "4",
+        "title": "Please fix",
+        "comment": "From update 2.1 up, I randomly lose links, get r/o errors, no auto link, force close on some apps and can\\'t detect new apps. :(",
+        "commentId": "lg:AOqpTOEGuDpeSXu9VE09qHgJG0XqjCDSTEBH44TpjGIkRI45k26Fz9CPwZ4epMk5Gk8MTUBMwsQP5HHJ2XBixME",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1377475176147",
+        "starRating": "2",
+        "title": "2nd partition always unmounted",
+        "comment": "bro, after last update, 2nd partition is never detected as mounted after do some normal reboot it always ask to quick reboot... i dont think it came from my SD card, please fix it...glad to be user of this app but you might to fix it up",
+        "commentId": "gp:AOqpTOH_m0oOtNW0UjDGlh5lzvr2f2OOTnlOhJI_URbbWEB9rMWLRuYREvT3ucX7KcqJKOwxU1_H2x9ZPGG1mTA",
+        "author": "Ardi Wahyudi",
+        "authorURL": "http://lh4.googleusercontent.com/-vXfU3ziYdNE/AAAAAAAAAAI/AAAAAAAAADI/GmfyPU8-zGc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-vXfU3ziYdNE/AAAAAAAAAAI/AAAAAAAAADI/GmfyPU8-zGc/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1377477872566",
+        "starRating": "4",
+        "title": "Nice Apps",
+        "comment": "This app helping me to free up my internal memory after I\\'m formatting my memory to ext2. Thank you",
+        "commentId": "gp:AOqpTOFh9sY41jEFDOzsxFp-JdN_W-sgYrwl6MIXwIuocV3hbF6qkI3CPzZv-MGX0Pf3OB_p6h_m_kLVCJeUuJY",
+        "author": "Fery Charz",
+        "authorURL": "http://lh3.googleusercontent.com/-4uYrZ2o7lLs/AAAAAAAAAAI/AAAAAAAAAB4/WAEALTvFhh4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-4uYrZ2o7lLs/AAAAAAAAAAI/AAAAAAAAAB4/WAEALTvFhh4/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1378726618809",
+        "starRating": "4",
+        "title": "Won\\'t work on Galaxy fit.",
+        "comment": "Please help me it won\\'t move a single app from my phone\\'s internal to my sd card but since it used to work perfect on my galaxy fit before so I\\'m rating it 4 stars so please help me out.",
+        "commentId": "gp:AOqpTOF_s94A4efkGgQa5SXcyCtEgtVMYXX2GfM9nG7nPEbJs1ruQz9BgKD_SRWrsX3OfQ9cZqv8AzIAShD9qWM",
+        "author": "Arsalan Tayyeb",
+        "authorURL": "http://lh4.googleusercontent.com/-75A4PzIVz7k/AAAAAAAAAAI/AAAAAAAAAB8/oQog91nL6Kg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-75A4PzIVz7k/AAAAAAAAAAI/AAAAAAAAAB8/oQog91nL6Kg/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1377772365673",
+        "starRating": "2",
+        "title": "Last update problem",
+        "comment": "After last update, random r/w errors on sd card. Please fix.",
+        "commentId": "gp:AOqpTOGyrwNy16hkUfMGHVwtnelTMsn6u-vV3CzWyWKwI6IzyLB7EOKm-5580ZbDjg2yHYg-4BPQbBBtQX9miIM",
+        "author": "Stefano Di Tommaso",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1378725524642",
+        "starRating": "4",
+        "title": "Remove ads!",
+        "comment": "Please make it no advertisment. What a shame.If you need any help I can help. Or make a paid version with no ads.",
+        "commentId": "gp:AOqpTOFmB4s4gcDAxSkuO2ag-MeGELLAVI9Rn2Wexxq07ICm9huXYgwpt8eHT7YIggXmbK1-_xcsRbRZxO4O60I",
+        "author": "Alan Lam",
+        "authorURL": "http://lh4.googleusercontent.com/-ubiA37e3m74/AAAAAAAAAAI/AAAAAAAAABw/95ZTVlczDBk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ubiA37e3m74/AAAAAAAAAAI/AAAAAAAAABw/95ZTVlczDBk/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1378072431569",
+        "starRating": "4",
+        "title": "Awesome app...",
+        "comment": "but it\\'s been giving me a scare recently. A couple of times now all my apps are gone and horror of horrors I thought all my precious data was gone. Luckily it has come back both times with a reboot but... Also, +1 to a Pro version. Would gladly pay.",
+        "commentId": "gp:AOqpTOFAe98kdoVwSasHMI00vTVDemA4pL-Xvkzi47m6nfXDGIuqRi1zty4tYXYX5RZ9MYBVUDCQlAJIreE1ISo",
+        "author": "Terry Vaughn",
+        "authorURL": "http://lh6.googleusercontent.com/-nl5d84Zg4RY/AAAAAAAAAAI/AAAAAAAAAdE/oA8UdpjEKnM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-nl5d84Zg4RY/AAAAAAAAAAI/AAAAAAAAAdE/oA8UdpjEKnM/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1378544158496",
+        "starRating": "3",
+        "title": "Was great...",
+        "comment": "But hating the adverts, sorry. Will revert back to an older version I think.  For previous version without adverts: fantastic app, 5 stars.",
+        "commentId": "gp:AOqpTOFAfDo9FPOT9qZzkuE98RFFcIZznnX_shP7Wypd-2gGTeGaHybG7CCyXZRsWc8ns-fLX_eTmCey8aEsAtA",
+        "author": "Grey Fox",
+        "authorURL": "http://lh5.googleusercontent.com/-Vg46xPd-xR4/AAAAAAAAAAI/AAAAAAAAAEE/rElQnpZsQvs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Vg46xPd-xR4/AAAAAAAAAAI/AAAAAAAAAEE/rElQnpZsQvs/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1377404181142",
+        "starRating": "5",
+        "title": "Great app..",
+        "comment": "...but when linking an app to sd card. The phone automatically become slower. Need to optimize the io process.",
+        "commentId": "gp:AOqpTOHFsLQkZQN2gHVi9NOwAPctFD37NaNZp1CV7RGuDvZvS2J0KlPLBodwpSFSVUuvneyy9vq6BdfV700UUtI",
+        "author": "Jeff Ciel\\'z",
+        "authorURL": "http://lh5.googleusercontent.com/-qvzUk7B2pDw/AAAAAAAAAAI/AAAAAAAAAP0/afwhkTZjClY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-qvzUk7B2pDw/AAAAAAAAAAI/AAAAAAAAAP0/afwhkTZjClY/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1377595934965",
+        "starRating": "3",
+        "title": "Needs more options",
+        "comment": "This is a great app for low memory devices but please add an option to move /data/data to sd-ext",
+        "commentId": "gp:AOqpTOHDVH8awnG_ujtufAolh77_pKm2njO_Qu5HZnQ6O6f2pcdB_77uMGBbU4YJi7NyCoK3ix5ewayoYlerGuU",
+        "author": "Sheikh Araf",
+        "authorURL": "http://lh5.googleusercontent.com/-FmN_H03NaDQ/AAAAAAAAAAI/AAAAAAAAAkY/-34HTALOWQc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-FmN_H03NaDQ/AAAAAAAAAAI/AAAAAAAAAkY/-34HTALOWQc/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1377614934420",
+        "starRating": "5",
+        "title": "I like this app very very much",
+        "comment": "My phone internal memory is only 100MB this app fully link application to sd 2nd partition (could be ext2 ext3 fat32 etc.)i can install many apps that i want!",
+        "commentId": "gp:AOqpTOHFrAizXh5TkVQvO-MvHDxh3zqxwLutkSRDXu1-zEphrm5JEXaISBZKLVhgxruX01I9XhKQ4HzUNDrhulA",
+        "author": "Edward Ng",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1377600674026",
+        "starRating": "5",
+        "title": "Note 2 small bug great app",
+        "comment": "one small problem I would love for you to look into I made a ext4 partition everything works great but when I restart my phone link2sd doesn\\'t mount and I have to do a quick restart. Then everything works fine from then on but I have to restore my widgets to nova every time which is a bit of a bummer. I assume the problem is the mount script Isn\\'t booted with the phone and only mounts during the hot reboot. So anything you can think of that might help I would greatly appreciate it",
+        "commentId": "gp:AOqpTOHimWUlocDLIVoEvz0JYvgHwlNEE2bj2FWC8p3vTZDp_lxsXg0I9FNhxtaWjsXTa8zsa3asTElvaL7oVfY",
+        "author": "Joe Mannix",
+        "authorURL": "http://lh3.googleusercontent.com/-bFl4L1WHXLE/AAAAAAAAAAI/AAAAAAAAAF0/LCFJmGtiT44/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-bFl4L1WHXLE/AAAAAAAAAAI/AAAAAAAAAF0/LCFJmGtiT44/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1377816604977",
+        "starRating": "5",
+        "title": "Good job works great!",
+        "comment": "Thnx so much! :)",
+        "commentId": "gp:AOqpTOFl8r4bGQ3D6Wdb9M2nt2ACOmCzkZcWAiduXkJhZFbB2UeQhe8Ahq6IkziCPmHSgdlfQLrm1jubls4SV4M",
+        "author": "Kate Galela",
+        "authorURL": "http://lh5.googleusercontent.com/-IJf-pnAOlRk/AAAAAAAAAAI/AAAAAAAAANQ/4nilFW1FrRs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-IJf-pnAOlRk/AAAAAAAAAAI/AAAAAAAAANQ/4nilFW1FrRs/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1378255272076",
+        "starRating": "3",
+        "title": "Used to be good",
+        "comment": "This used to be a really great app, that I could advise to anyone. Unfortunately however, ads now claim a valuable part of the limited screen space, while there is no paid ad-free version. Anyone who would go over some trouble could revert back to an earlier version without ads, so this is mainly a huge annoyance and really a shame of what used to be a great app.",
+        "commentId": "gp:AOqpTOGCJCvv6tYWmUQgcjQpUkOl5_QpLZNm7B5SMLJCZxTZHhfhWOmhLUFtTotrr2H4vNtXsY-xQFnx3lEIn94",
+        "author": "Hans Cronau",
+        "authorURL": "http://lh4.googleusercontent.com/-CMqdu-PgF0w/AAAAAAAAAAI/AAAAAAAAB58/aztGZwcM1s0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-CMqdu-PgF0w/AAAAAAAAAAI/AAAAAAAAB58/aztGZwcM1s0/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1378387774860",
+        "starRating": "5",
+        "title": "Fantastic",
+        "comment": "Wonderful app that helps to uninstall useless bloatware from my rooted phone.",
+        "commentId": "gp:AOqpTOEcM58ofBLlknF9kbGmpCsDjVihv8NS8BHNhc7XLoKVKkbkXADhFi-MTqkUEF8AlzoT-N_7Sot5eaFVt7k",
+        "author": "Obinna Ezeuduji",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1377910397782",
+        "starRating": "5",
+        "title": "The best",
+        "comment": "Between this app and a app called aparted,I got my phone set up, partitioned and link ready using this app thank you link 2sd",
+        "commentId": "gp:AOqpTOEX3gsGjj5poZUAAUwFKGMGdhU0GjJR1kTiO51wZLCp6Y0agdXsp9WYqxUq63RytO9fMzqXpW9v3phQrO4",
+        "author": "Samuel Holland",
+        "authorURL": "http://lh6.googleusercontent.com/-RFYvAMyYBro/AAAAAAAAAAI/AAAAAAAAAEk/TXJ_YWDrsrk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-RFYvAMyYBro/AAAAAAAAAAI/AAAAAAAAAEk/TXJ_YWDrsrk/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1378262985923",
+        "starRating": "3",
+        "title": "At first it did what it was tasked",
+        "comment": "At first when i got it to work I linked almost all of my playstore apps to sd. It worked perfectly nd my internal memory was loosening up. But then my phone hanged. All of my linked apps had their icons disappear. I couldnt open them either. I decided to download them again one by one and linked other apps but... sometimes one or two apps suddenly dont work anymore and i need to reinstall... Not only that but even tho iv linked the same apps, my internal memory seemed to hav doubled from before i reinstalld",
+        "commentId": "gp:AOqpTOFMGQkpe5G6YJXC05H-zYGGBT9KguNH-ZAaF_n4YyiPYxWqEn8JsKbb0U6hnQUfVr7O-NJUcX6lf5avGiI",
+        "author": "Cristina Z",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1378705462518",
+        "starRating": "5",
+        "title": "Made my HTC desire usable again",
+        "comment": "With the trend of 10+ MB apps, my older htc desire with 512 MB storage had become incredibly annoying to use. Now I can install everything I need, and stuff like facebook that before took too much space. Great app!",
+        "commentId": "gp:AOqpTOGPA39O0LkRN2wkSGje5OI40PlL-Sn6HBdAVmsXax8xWQ16wizp4uR1pdVQZ1lx9jroIjtWpAXdm_bb220",
+        "author": "Sergio Losilla",
+        "authorURL": "http://lh6.googleusercontent.com/-0s0anQXozPA/AAAAAAAAAAI/AAAAAAAAALE/D5m634ZcP7c/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-0s0anQXozPA/AAAAAAAAAAI/AAAAAAAAALE/D5m634ZcP7c/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_PACKAGE_SIZE",
+      "android.permission.CLEAR_APP_CACHE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_SUPERUSER",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

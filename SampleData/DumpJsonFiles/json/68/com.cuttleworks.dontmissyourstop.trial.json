@@ -1,0 +1,48 @@
+{
+  "title": "Don't miss your stop! FREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cuttleworks.dontmissyourstop.trial",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "June 21, 2011",
+  "version": "1.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "11",
+  "rating": "3.7272727",
+  "contentRating": "Low Maturity",
+  "creator": "Cuttleworks",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cuttleworks.dontmissyourstop.trial",
+  "extendedInfo": {
+    "installSize": "873k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Sometimes you hop on the bus not knowing exactly where your stop is. Instead of looking out the window for clues, tell your app where you're heading, and your phone will ring when you get close to your destination. And why not save your favourite destinations and enjoy a nap during your daily commute?Main features:- User friendly UI- Save your common locations- Ring or vibrate when you reach your stop- Intelligent algorithms that save your batteryThis free version is fully functional! The only limitation compared to the full version is a limited choice of radius for the alarm. Give it a go, it's still worth it!If you encounter any bugs or want to suggest features, please use the contact button within the app. Unfortunately we can't reply to comments here.Note: to save battery, the GPS update interval depends on your distance to the destinationKeywords:bus stop gps location alarm reminder",
+    "reviews": [
+      {
+        "timestampMsec": "1367463392971",
+        "starRating": "4",
+        "title": "Whould give it a five if it could limit the alert radius",
+        "comment": "Its limited to 1 mile. I want to set it to less since it alerts me way to far in advance.",
+        "commentId": "gp:AOqpTOFxS04qTKsUk18T1BiRE1lGu5n4Nm6SLDOu-Mcev06JuT8Pj4jQ7JCvB2HuJ1hMdLWPOqUQyFyosWzCUw",
+        "author": "Stopdatamining Redacted",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1300068436570",
+        "starRating": "5",
+        "comment": "Does what it says...let\\'s me nap during my one hour commute.",
+        "commentId": "lg:AOqpTOG7q-OGCfSFTd-CxFYDpGfJiOFfFViHKd62ozmWKpcVRvLQX3m-a1zKs3-BIqmLt0sOjOWKJkhwwX3_WQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Spy Motion DetectorLite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.androuniversein.vmdspylite",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "March 4, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Androuniverse In",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.androuniversein.vmdspylite",
+  "extendedInfo": {
+    "installSize": "199k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Turn your android device into an efficient spy camera or surveillance camera. This app uses the built-in camera and monitors the video continuously. When it detects any movement in the scene, it starts recording the video.Please purchace the full version \"Spy Motion Detector\" for unlimited video recording.\"Spy Motion Detector (Auto Upload)\" supports automatic video upload to YouTube or transfer via email.How it works:Motion detection can be started by pressing the \"Start Motion Detection\" button on the main page. After starting the motion detection, app goes into video monitor mode. In the video monitor mode, it continuously analyses the captured video and checks for any movement or change in the scene. Upon detecting a movement it goes into video record mode. In the video record mode it just records the video and does not analyse the scene. After recording the video for the specified duration the app transitions back to the video monitor mode. This free version will record the video only for 10 seconds. This loop continues till you stop the motion detection. However this free version will detect the motion only 6 times. Motion detection can be stopped by pressing the \"Stop Motion Detection\" button on the main page.Instructions:1. Choose the desired \"Motion Detector Sensitivity\" option.2. Press \"Start Motion Detection\" button. This would show the camera preview on the screen. Place the phone in a stationary place. Optionally press the power button so that screen turns off immediately.3. Now the app is doing the motion detection or video recording.4. You may want to put the phone in silent mode so that it does not make any sound while recording the video.5. Captured videos are stored in \"VMDSpy\" folder in the SD card.6. To stop the motion detection: Unlock the phone. You may see the camera preview. Press the \"Back\" button on the phone to see the app's main page. Press \"Stop Motion Detection\" button and the \"Exit\" button.If you have any suggestions or any specific needs please write to us. We would like to hear from you.Try \"easy spy video\" or \"M-Surveillance\" or \"Spy Motion Detector\" or \"Spy Motion Detector (Auto Upload)\" apps for recording video secretly.\"M-Surveillance\" now supports automatic YouTube upload.\"Spy Motion Detector\" app starts the video capture when it detects any movement.\"Spy Motion Detector (Auto Upload)\" supports automatic video upload to YouTube or transfer via email.",
+    "reviews": [
+      {
+        "timestampMsec": "1364488742968",
+        "starRating": "5",
+        "comment": "gud",
+        "commentId": "gp:AOqpTOFtWPaU4yfFUAVgmmnaosRcsGXj7SJeIqNOGc0Ap2axMkb4Y5UL_MEXeD8E3tpb0jWxiQUKpCbuoqVfjA",
+        "author": "Clint Teope",
+        "authorURL": "http://lh4.googleusercontent.com/-2MtuoD1yJMI/AAAAAAAAAAI/AAAAAAAAAHs/ZYqmSbacjBY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-2MtuoD1yJMI/AAAAAAAAAAI/AAAAAAAAAHs/ZYqmSbacjBY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

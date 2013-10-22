@@ -1,0 +1,45 @@
+{
+  "title": "Option Suite - Professional",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.optionprofessional",
+  "category": "Finance",
+  "price": "$10.99",
+  "datePublished": "July 10, 2012",
+  "version": "5.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Everyone",
+  "creator": "Business Compass LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.optionprofessional",
+  "extendedInfo": {
+    "installSize": "261k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Key Features:1. Computes American and European option price for equity (including equity index), foreign currency option and option on futures2. Computes Option Greeks - Delta, Vega, Theta, Gamma and Rho. In case of currency option, Rho 2 (sensitivity to foreign interest rate) is calculated.3. Implied volatility - Both from American and European Call/Put option prices, implied volatility is derived.Call, put, covered call and protective put option strategy payoff is provided.Input:1. Stock Price/Future Price/Foreign Currency Spot PriceStrike/Exercise Price2. Expiration time in day, month, year or select expiration date3. Risk free interest rate or domestic interest rate4. Optional Dividend yield for equity/index options5. Foreign interest rate for foreign currency options6. Historic volatility of the securityOutput:1. Summary - American/European Call/Put Price, Intrinsic Value and Time Value2. Greeks - Delta, Gamma, Theta, Vega, Rho and Rho 2 (foreign currency) for call/put3. Payoff- payoff of call, put, covered call and protective put4. Implied Volatility - From European/American Call/Put price, implied volatility is calculated.5. Graphs/Charts of Profitability6. Save and e-mail result",
+    "reviews": [
+      {
+        "timestampMsec": "1333159655716",
+        "starRating": "1",
+        "title": "Not working on ICS",
+        "comment": "Not only does this app not work on ICS, it needs a UI refresh. The graphics are at least two iterations of Android behind. Please update dev, it\\'s been almost a year since you updated this app.",
+        "commentId": "lg:AOqpTOFupuft3a2fZYoxMvIuMs4RHIU0_yGe-qJTEDQJgzkBvOUiVwYrjc7tIYaL8dV2cyRlzc-9VB3ofVpFB4Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1262143467756",
+        "starRating": "5",
+        "comment": "Fabulously flawless! Everything intuitively easy. Charts and graphs are very pleasant. Perfect on MoDroid.",
+        "commentId": "lg:AOqpTOE-yXYsiC5KH9V_DJv1pDKMD55Fx39RpVPpn0Dgt2ekw39ez4QN-sbpmS6NadTDwvKHqDCsmAAj5IjTf3c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

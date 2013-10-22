@@ -1,0 +1,43 @@
+{
+  "title": "Conference Suite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.confsuite",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "November 15, 2012",
+  "version": "1.10",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "SYNAPSY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.confsuite",
+  "extendedInfo": {
+    "installSize": "288k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mit ConfSuite erhalten Sie eine einfach anzuwendende aber gleichermaÃen vollstÃ¤ndige Conference Call Anwendung fÃ¼r Ihr Android GerÃ¤t.Sie kÃ¶nnen einfach und schnell beliebig viele Personen zu einer Sofort-Conference einladen oder Sie setzen komfortabel einen Termin, der von ConfSuite automatisch per SMS oder Email an die eingeladenen Personen versendet wird.Es gibt keinerlei Fixkosten! Sie und Ihre Conference Call Teilnehmer zahlen lediglich Festnetz-GebÃ¼hren zu einer international erreichbaren Einwahlnummer (Liechtenstein). Conference Calls kÃ¶nnen nicht einfacher und komfortabler sein - Probieren Sie's gleich aus!Rechtliche Hinweise: Sie verwenden Conference Suite auf eigenes Risiko. Der Hersteller dieser App kann nicht fÃ¼r SchÃ¤den oder Kosten verwantwortlich gemacht werden, die durch die Nutzung dieser App oder durch eine Fehlfunktion des Konferenzdienstes entstehen.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CALL_PHONE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INJECT_EVENTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

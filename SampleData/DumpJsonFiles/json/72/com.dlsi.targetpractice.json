@@ -1,0 +1,38 @@
+{
+  "title": "Real View Target Practice FREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dlsi.targetpractice",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "June 13, 2013",
+  "version": "1.06",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "High Maturity",
+  "creator": "Direct Logic Systems",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dlsi.targetpractice",
+  "extendedInfo": {
+    "installSize": "1,021k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Shoot at real objects through the camera in your phone. 1. Steady your phone.2. Look through the scope.3. Place the target between the cross hairs. 4. Touch the screen and fire a shot.Choose from 5 different types of guns: rifle, silencer pistol, AK 47 semi-automatic, revolver, and laser blaster.If you run out of ammo click the 'Reload' button.This app is just a simulation. When using a real gun, always practice gun safety rules. The fundamental NRA rules for safe gun handling are:1. ALWAYS keep the gun pointed in a safe direction.This is the primary rule of gun safety. A safe direction means that the gun is pointed so that even if it were to go off it would not cause injury or damage. The key to this rule is to control where the muzzle or front end of the barrel is pointed at all times. Common sense dictates the safest direction, depending on different circumstances.2. ALWAYS keep your finger off the trigger until ready to shoot.When holding a gun, rest your finger on the trigger guard or along the side of the gun. Until you are actually ready to fire, do not touch the trigger.3. ALWAYS keep the gun unloaded until ready to use.Whenever you pick up a gun, immediately engage the safety device if possible, and, if the gun has a magazine, remove it before opening the action and looking into the chamber(s) which should be clear of ammunition. If you do not know how to open the action or inspect the chamber(s), leave the gun alone and get help from someone who does.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.FLASHLIGHT",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.WRITE_SECURE_SETTINGS",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

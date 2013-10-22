@@ -1,0 +1,60 @@
+{
+  "title": "Meterbox iMM",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cem.iDMM",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "2.6666667",
+  "contentRating": "Medium Maturity",
+  "creator": "Meterbox",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cem.iDMM",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Meterbox iMM is the professional software for smart mobile which is for realtime & historical voltage, current, resistance and capacitance electric parameters measurement, for enhancement digital multimeter user experience about visualization, data log & sharing, and data management. it needs to combine with Digital Multimeter for proceeding to the measurement.(The Digital Multimeter Model: DT-9969)1. Wirelessly remote measure voltage, current, resistance and capacitance electric parameters.2. The measured data from Digital Multimeter can transfer to smart mobile via bluetooth and visualize, store and log.3. User can memo measuring results.4. The measuring data can be shared with others by Mail/Facebook/Tweet.With Meterbox iMM, user can complete the electrical measuring via smart mobile, enhance measuring visualization, data log & sharing, management. It promotes the efficiency and quality of electric measurement.For more information about the Meterbox iMM and Digital Multimeter, please visit our website: http://www.cem-instruments.com",
+    "reviews": [
+      {
+        "timestampMsec": "1365772232632",
+        "starRating": "1",
+        "title": "Sucks",
+        "comment": "Doesn\\'t work.",
+        "commentId": "gp:AOqpTOEzqnbHawbhEYld1yiAxsUNnaiACTrOST44Lvs14W9CLDN_mZk-_P9veyRwLE8ef-z3bbyYQ5yi8ItEcng",
+        "author": "Michael Smart",
+        "authorURL": "http://lh4.googleusercontent.com/-ardTTywD6Sk/AAAAAAAAAAI/AAAAAAAAACA/xrolsSltRyI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ardTTywD6Sk/AAAAAAAAAAI/AAAAAAAAACA/xrolsSltRyI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_LOG",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

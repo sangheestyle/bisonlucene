@@ -1,0 +1,32 @@
+{
+  "title": "Immunizations",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bawidgets.immunizations",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "February 20, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "BAWidgets.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bawidgets.immunizations",
+  "extendedInfo": {
+    "installSize": "9.8k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Immunization is the process by which an individual's immune system becomes fortified against an agent (known as the immunogen).When this system is exposed to molecules that are foreign to the body (non-self), it will orchestrate an immune response, but it can also develop the ability to quickly respond to a subsequent encounter (through immunological memory). This is a function of the adaptive immune system. Therefore, by exposing an animal to an immunogen in a controlled way, its body can learn to protect itself: this is called active immunization.The most important elements of the immune system that are improved by immunization are the B cells (and the antibodies they produce) and T cells. Memory B cell and memory T cells are responsible for a swift response to a second encounter with a foreign molecule. Passive immunization is when these elements are introduced directly into the body, instead of when the body itself has to make these elements.Immunization be done through various techniques, most commonly vaccination. Vaccines against microorganisms that cause diseases can prepare the body's immune system, thus helping to fight or prevent an infection. The fact that mutations can cause cancer cells to produce proteins or other molecules that are unknown to the body forms the theoretical basis for therapeutic cancer vaccines. Other molecules can be used for immunization as well, for example in experimental vaccines against nicotine (NicVAX) or the hormone ghrelin (in experiments to create an obesity vaccine).",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

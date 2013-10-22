@@ -1,0 +1,32 @@
+{
+  "title": "Overstock.com Shopping App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.Shopping",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "June 30, 2012",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "36",
+  "rating": "4.25",
+  "contentRating": "Everyone",
+  "creator": "Overstock.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.Shopping",
+  "extendedInfo": {
+    "installSize": "249k",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Collection of links to the major shopping siteOpen the program soon will be able to link directly to the major shopping site",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Photo-Key-Reader Light",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.creaart.photokeylight",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "March 24, 2013",
+  "version": "1.02",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "4.888889",
+  "contentRating": "Everyone",
+  "creator": "CreaArt",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.creaart.photokeylight",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "If you are a locksmith this app will quickly become your best tool for reading vehicle keys.Select the key type, take a photo and you will easily read the cut code of the key.<< Features >>1.\tVariety of search methodsYou can find your key with combination of variety of search criteria ( Instacode, Silca-code, maker, type of key, number of cut and alignment ) out of 103 makerâs 719 mobile keys.2.\tEasy-to-understand key namingWith Photo-Key-Readerâs original key name, which is a combination of Silca-code, number of cut and Instacode, you can easily distinguish your key.For example, âHYN14 10Cuts No.1098â means a key using Silca code HYN14 key blank, key format of Instacode 1098 and has 10 cuts.3. Simple usageEven a beginner can read a key without difficulty, only if he align vertically, fit depth line and pin line as the App guides.",
+    "reviews": [
+      {
+        "timestampMsec": "1367429550073",
+        "starRating": "5",
+        "title": "Good thinking!",
+        "comment": "Nice, thinking out the box.",
+        "commentId": "gp:AOqpTOEVdL5WRnGw92cN9rxmuTM7PcJ5zjdxNBG-gaT5lmVeomGMZmEqwZn-gZ8bqQQXUSZVdL7Eh2To4vXg6g",
+        "author": "Chic Hopson",
+        "authorURL": "http://lh5.googleusercontent.com/-T3-18MgqkaY/AAAAAAAAAAI/AAAAAAAAE_s/Ja-i1IQfb9A/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-T3-18MgqkaY/AAAAAAAAAAI/AAAAAAAAE_s/Ja-i1IQfb9A/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369346170298",
+        "starRating": "5",
+        "title": "Update"
+      },
+      {
+        "commentId": "gp:AOqpTOHsmdO5VUWsKniTY9fvn1mMuBHQwYf8BuJc7Tbhn0cSIq1eAgm4nmGJhXGgPm7Pm58BVHPTTYEV13DFYg",
+        "author": "Michael Meyer",
+        "authorURL": "http://lh5.googleusercontent.com/-rb9Uw3OP4sE/AAAAAAAAAAI/AAAAAAAAAIM/enFDnuWKSew/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-rb9Uw3OP4sE/AAAAAAAAAAI/AAAAAAAAAIM/enFDnuWKSew/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363102317434",
+        "starRating": "5",
+        "title": "New ussge of my phone",
+        "comment": "It is a great idea to turn the phone into a key reading tool!  It works beautiful and I wish this app could read high security keys too.",
+        "commentId": "gp:AOqpTOGO3AIjsVW9eUCNEa2d4RS7arGhcgZ4O0DY05AyFKY0jPiwQKM2Qd2qfNuM8lBTvzmxuXTVe1acTHTnYA",
+        "author": "Myungil Choi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

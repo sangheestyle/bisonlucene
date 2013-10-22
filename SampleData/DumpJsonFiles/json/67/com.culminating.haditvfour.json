@@ -1,0 +1,42 @@
+{
+  "title": "HADI TV FOUR",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.culminating.haditvfour",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "September 7, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "The Zahra Trust",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.culminating.haditvfour",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Hadi TV is proud to present their individual app for each of their channels. Now you can watch Hadi TV 4 on its own unique app for your iPhone. Hadi TV is the first-ever multilingual Islamic channel to broadcast the message of the Ahlulbayt in the English, French, Arabic, Urdu, Turkish, Thai and Malay languages.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

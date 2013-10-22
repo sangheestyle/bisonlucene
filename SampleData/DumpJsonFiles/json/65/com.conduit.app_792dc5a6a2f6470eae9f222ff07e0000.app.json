@@ -1,0 +1,42 @@
+{
+  "title": "Re-Elect David Meeks",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_792dc5a6a2f6470eae9f222ff07e0000.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "July 22, 2013",
+  "version": "1.6.9.367",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "David Meeks",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_792dc5a6a2f6470eae9f222ff07e0000.app",
+  "extendedInfo": {
+    "installSize": "7.3M",
+    "downloadsCount": null,
+    "downloadsCountText": "",
+    "description": "State Representative David Meeks (R) represents District 70, which covers part of Perry and Faulkner Counties. He was first elected in 2010 and currently serves as Chairman of the Aging, Youth, Children and Military Committee. He also serves on the Public Health Committee and the Arkansas Legislative Council.Rep David Meeks has a record of voting for lower taxes, less government and is committed to fighting for hard-working Arkansas taxpayers.This app features his stance on issues, his legislative record and offers simple ways his constituents can interact with him via email, twitter, and facebook.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_792dc5a6a2f6470eae9f222ff07e0000.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.conduit.app_792dc5a6a2f6470eae9f222ff07e0000.app.permission.RECEIVE_ADM_MESSAGE",
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

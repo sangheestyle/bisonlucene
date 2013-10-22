@@ -1,0 +1,51 @@
+{
+  "title": "RSA Conference Asia Pacific",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.rsac_apac2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 31, 2013",
+  "version": "4.2.5.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "RSA, The Security Division of EMC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.rsac_apac2013",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Join your fellow information security professionals at the inaugural RSA Conference Asia Pacific, June 5-6, 2013 in Singapore at the Marina Bay Sands.  We'll be discussing security issues from both a global and Asia Pacific perspective. Delegates will be able to attend keynote sessions presented by leading information security industry experts and guest speakers, and choose from approximately 50 sessions spanning the following 5 tracks: Cybercrime and Law Enforcement, Mobile Security, Security Infrastructure, Cloud Security, Data and Application Security.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.rsac_apac2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

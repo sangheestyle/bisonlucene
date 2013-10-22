@@ -1,0 +1,53 @@
+{
+  "title": "HVAC Refrigerant Charge",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.carmelsoft.HVAC_RefCharge",
+  "category": "Productivity",
+  "price": "$4.50",
+  "datePublished": "January 26, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.8",
+  "contentRating": "Everyone",
+  "creator": "Carmel Software Corporation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.carmelsoft.HVAC_RefCharge",
+  "extendedInfo": {
+    "installSize": "5.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The HVAC Refrigerant Charge app is a refrigerant charging calculator that allows HVAC technicians to perform superheat and subcool refrigerant charge calculations on-the-fly. This app includes pressure/temperature data for over 75 refrigerants. The following is a list of features:1. Perform superheat refrigerant charge calculations for 75 different refrigerants. Input the indoor wet-bulb and outdoor dry-bulb temps. to get the target superheat temperature. Then, specify the suction line temperature and pressure to get the actual superheat temperature. The difference tells you whether to charge or not.2. Perform subcool refrigerant charge calculations for 75 different refrigerants. Input the indoor wet-bulb and outdoor dry-bulb temps. to get the target subcool temperature. Then, specify the liquid line temperature and pressure to get the actual subcool temperature. The difference tells you whether to charge or not.3. Use an interactive slider control to increase or decrease all values and immediately observe calculated results. Also, the slider control allows for \"incremental\" changes so you can ever-so-slightly change values to observe newly calculated results.4. Specify atmospheric pressure (other than standard 14.7 psi) so that calculated pressures are adjusted for high elevations like those in Denver and elsewhere.5. Customize input types so that you can specify manufacturer-specified target superheat/subcool or input indoor dry-bulb/indoor relative humidity in place of indoor wet-bulb temperature.6. Send an email of all inputs and results with custom message7. Display input and result values in either English or Metric units8. Change the color scheme of the app so that it can easily be viewed outdoors in direct sunlight9. It is \"Bluetooth aware\", meaning that it will connect via Bluetooth to those PT gauges that are also Bluetooth enabled. This will allow the automatic transfer of temperature/pressure information from those gauges to the HVAC Refrigerant Charge app.",
+    "reviews": [
+      {
+        "timestampMsec": "1331752186930",
+        "starRating": "5",
+        "title": "Bout time",
+        "comment": "Awesome.  Now ill never have to keep track of thoes slide calculators.",
+        "commentId": "lg:AOqpTOE3bjRLGbCT44filwARt45TBc-wM1KTAckoYoLn7gFaLlHKigL0Npm8FevSIQOMsLXQTdbGKBcbW8Zhow",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346042802493",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "Much of my work requires performing refrigerant charge calcs in the field. This app is perfect for doing it automatically. It has every refrigerant under the sun, and it allows me to email results back to the office.",
+        "commentId": "lg:AOqpTOGRTZ72vf2W-7LOTjJkb3A1WvCkF1KgKfcw1JDZzo7L87lvxHAbTJAgYZDNTdXvOa_A32_I7O9y9KnXvA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344369187993",
+        "starRating": "5",
+        "title": "Hvac tech",
+        "comment": "This item is awesome!!!  I love it!",
+        "commentId": "lg:AOqpTOH30Y6nSKjasNQYeQW9kOIB67TLSvDnMOppEtesUcZEiAm0p1kc7OSNA6lvdZZvaG8hT8RngwCKfickyQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.BLUETOOTH"
+    ]
+  }
+}

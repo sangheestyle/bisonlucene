@@ -1,0 +1,32 @@
+{
+  "title": "Severe Thunderstorms Warning",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wSevereThunderstormsWarning",
+  "category": "Weather",
+  "price": "$0.99",
+  "datePublished": "June 18, 2011",
+  "version": "0.12.13084.62390",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Swello",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wSevereThunderstormsWarning",
+  "extendedInfo": {
+    "installSize": "180k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Severe Weather App by Swello Reports Severe Thunderstorm Warnings and Thunderstorm Warnings. View National Weather Service information provided by the Weather Information Network updated every minute.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wSevereThunderstormsWarning.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

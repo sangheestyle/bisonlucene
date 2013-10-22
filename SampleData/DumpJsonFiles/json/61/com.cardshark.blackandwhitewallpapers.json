@@ -1,0 +1,61 @@
+{
+  "title": "Black and White Wallpapers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cardshark.blackandwhitewallpapers",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "October 21, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "18",
+  "rating": "3.7777777",
+  "contentRating": "Everyone",
+  "creator": "Cardshark",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cardshark.blackandwhitewallpapers",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Black and White wallpapers offers you the best hand-picked photography for your Android device.âââHighlights:â Optimized for high res phonesâ Legally uses images via Creative Commons licensingâ Unique images you won't find anywhere elseâ Hand-picked and cropped to precise dimensionsFeatures:â Works offlineâ Contains 31 high definition imagesâ Offline optimized for speedâ Install to SD card (requires Froyo+)Legal / Credits:Application by Cardshark. Based in Seattle, WA.  www.cardsharkapps.comApplication icon and image source material licensed through Creative Commons Attrib-Sharealike.Image source material: Dave Morrow's Custom Creations, Bert Kaufmann, linh.ngÃ¢n, peasap, Chi King, Hamed Saber, trialsanderrors, striatic, nolifebeforecoffee, gualtiero, mugley, R'eyes, Alex E. Proimos, Pink Sherbet Photography, Marcus Vegas, conorwithonen, grulla, flatworldsedgeGot your own pics you'd like us to feature in this app? Email us at contact@cardsharkapps.com. Your images must be licensed under Creative Commons or otherwise grant us permission to use them.Note on Permissions:android.permission.INTERNET is used to connect to the advertising mediation servers and our partner advertising network servers for the purpose of retrieving advertisements. android.permission.ACCESS_NETWORK_STATE is used to determine the existence and quality of a phone's network connection for retrieving advertisements. android.permission.GET_TASKS is used to prevent advertisements from being retrieved when an application is in the background by checking to see if the application's task is active when an advertisement is requested. This is a workaround for the lack of global notifications about the active state of Android applications.android.permission.READ_PHONE_STATE is used for accounting and auditing purposes by advertising networks. Advertising networks use anonymous unique identifiers to limit the number of impressions and clicks attributed to individual users. android.permission.SET_WALLPAPER is used to set the home screen background wallpaper.android.permission.VIBRATE is used to vibrate the phone on successful completion of setting the wallpaper.android.permission.WRITE_EXTERNAL_STORAGE is used to save images to the SD card. Images are automatically saved in a sub-folder of /wallpapers/ on your SD card named based on this app. They are only saved to the SD card when you set them as a wallpaper. This way, if you remove the app, you will retain the wallpapers on the SD card. You may delete the wallpapers from your SD card if you wish without affecting the functionality of the app.",
+    "reviews": [
+      {
+        "timestampMsec": "1365558513686",
+        "starRating": "5",
+        "title": "very good",
+        "comment": "works good on Nexus 4...",
+        "commentId": "gp:AOqpTOFrqLQ5dKSGoR8e24VPASVOncIWj1o5dOzGRdGVuOLOQPIE9v73q6kwfCnTPD6Tm5fWCB_QDfjKDgNW92Q",
+        "author": "Kiembo N",
+        "authorURL": "http://lh3.googleusercontent.com/-lx2fvg5VWXM/AAAAAAAAAAI/AAAAAAAAAt4/M0mo7GZSZns/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-lx2fvg5VWXM/AAAAAAAAAAI/AAAAAAAAAt4/M0mo7GZSZns/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372620088765",
+        "starRating": "3",
+        "title": ".",
+        "comment": "Took forever to download.",
+        "commentId": "gp:AOqpTOHFSJsFQOicW0q1c3uN8YFKvrihMpW4oB0kTDgmz0qJcpDt7hMMuImz3Tkxtrm9hlh7X6zXB61HRqU6qwY",
+        "author": "Sammie Mills",
+        "authorURL": "http://lh5.googleusercontent.com/-V6KlSbnxZzo/AAAAAAAAAAI/AAAAAAAAAOM/cFFTv-dn88o/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-V6KlSbnxZzo/AAAAAAAAAAI/AAAAAAAAAOM/cFFTv-dn88o/photo.jpg"
+      },
+      {
+        "timestampMsec": "1350976555845",
+        "starRating": "3",
+        "title": "Okay start",
+        "comment": "Nice wallpapers but I would like the option to save to my gallery instead of just set as wallpaper. Needs more wallpapers",
+        "commentId": "lg:AOqpTOHQCziOuRRFcoXsUvyjryveQZWFDVxPSKa9PjLBNZzIKY4CYkugY0wlfRbI3N4M_E7UaTOT5iEQyWPjuy4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_WALLPAPER",
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

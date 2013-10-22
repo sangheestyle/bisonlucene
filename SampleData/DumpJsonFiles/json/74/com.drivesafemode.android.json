@@ -1,0 +1,66 @@
+{
+  "title": "Drive Safe Mode",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drivesafemode.android",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Drive Safe Mode",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drivesafemode.android",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The appâs features include:â¢Disables phone while vehicle is in motionâ¢Prevents use of keyboard which disallows texting, email, social media, internetâ¢Full parental control of all phones under the accountâ¢Ability to set emergency numbers such as \"Mom, \"Dad\" etc.; 911 will be a standardâ¢Create an account online or via your phone in minutesâ¢Parent will be notified via text if vehicle operator attempts to deactivate or bypass the appTexting and driving is illegal in many states and for millions of us the temptation to ignore the texting and driving laws is too great. The Drive Safe Mode text prevention application removes this option from your smartphone. By locking out the screen to prevent texting and driving, calling and driving and access to your social media while driving the Drive Safe Mode prevents your desire to break cell phone laws and keeps you and your family safe behind the wheel.This public safety application was invented by a parent of teen drivers and is designed to keep them safe, keep them legal and keep them alive! Drive safe mode anti-text & driving, anti-call & driving and anti-social media & driving simply locks out your mobile phone from use (other than emergency calls) while your vehicle is moving more than 5 miles per hour. Once you stop the phone unlocks automatically and you have normal use while not driving.Finally, the safe driving application weâve all been waiting for is available. Download Drive Safe mode today and see for yourself.So ask yourself how do I text while driving? You Donât! Thanks to Drive Safe mode.",
+    "reviews": [
+      {
+        "timestampMsec": "1374722453243",
+        "starRating": "1",
+        "title": "Will not let me sync when I paid for it, CRAP, DONT WASTE UR MONEY",
+        "comment": "Dont buy RIP off",
+        "commentId": "gp:AOqpTOGFfp-ZiV3P39n4XMFFxFvcLuHnpmZkC0oXv8kM2vrGaXVAeobd_81wsSIT7UbkYShfzQyHCLlhMIWXGA",
+        "author": "Louann Mckethan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330979830853",
+        "starRating": "5",
+        "title": "Drive safe mode",
+        "comment": "Loving it!",
+        "commentId": "lg:AOqpTOEVa-pKGb5KIK6lWuqH3m1yAdxzqaxB4e1OTmoCKKiWotXoLrqTxINpQ9qZUBl3hwFqyoDdIr8OuvVhsA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344782541307",
+        "starRating": "1",
+        "title": "Pointless",
+        "comment": "This app doesn\\'t work. Don\\'t waste your time. You can register but it won\\'t let you add #s or send you your access token. Uninstall.",
+        "commentId": "lg:AOqpTOEp2G3TawolNcRFIHrxnAJGFypXwycNzrybBciVo0MKeJQPx0wCmaXo0Pp-9yP7-u-x9eSvwIBRLX39rQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_MMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

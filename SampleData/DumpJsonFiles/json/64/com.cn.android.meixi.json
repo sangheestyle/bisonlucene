@@ -1,0 +1,41 @@
+{
+  "title": "MEICI Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cn.android.meixi",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "July 16, 2013",
+  "version": "3.00",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "美西时尚",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cn.android.meixi",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "ç¾è¥¿æ¶å°æ¯å½åææ©çå¥¢ä¾åçµå­åå¡å¹³å°ï¼ååå«çææå½éä¸çº¿å¥¢ä¾åå¤§çï¼100%æ­£åä¿è¯ï¼2æ¥éæµï¼7æ¥éæ¢è´§æå¡ï¼æ¯å¥¢ä¾åç½è´­çé¦éå¹³å°ã æä¸ç¾è¥¿æ¯ä¸æ¬¾éå¸¸æ¹ä¾¿å¿«æ·çåºç¨ï¼å¸®å©æ¨è½éæ¶éå°è®¿é®ç¾è¥¿æ¶å°ç½ï¼æµè§ãè´­ä¹°ç¾è¥¿æ¶å°çåç±»ååã å¥¹ç»§æ¿äºç¾è¥¿æ¶å°WEBçä¼ç§çç¨æ·ä½éªï¼æ´èå¥äºææºççç¹æåè½ï¼è®©æ¨è½éæ¶éå°è®¿é®ç¾è¥¿æ¶å°ç½ï¼æµè§ãè´­ä¹°ç¾è¥¿æ¶å°çææå½éä¸çº¿å¥¢ä¾åã ä¸»è¦åè½ç®ä»ï¼1ãååæµè§ï¼æ¨å¯ä»¥éè¿æç´¢ææç§åååç±»æ¾å°ç¸åºçååä¿¡æ¯ã2ãååæ¶èï¼æ¨å¯ä»¥ææ¨åæ¬¢çååè¿è¡æ¶èï¼ä»¥ä¾¿å¯ä»¥éæ¶éå°æ¥çã3ãæ´» å¨ï¼æ¨å¯ä»¥å¨æ´»å¨èååæ¾å°åç§æ´»å¨ååï¼äº«å°½åç§è´­ç©å®æ ã4ãæç´¢ç­éï¼æ¨å¯ä»¥éè¿æç´¢åè½å¿«éæ¾å°ç¹å®ååï¼ä¹å¯ä»¥éè¿åçãä»·æ ¼ç­æ¹å¼å¯¹ååè¿è¡ç­éåæåºã5ãä¸åè´­ä¹°ï¼æ¨å¯ä»¥éè¿ææºå®¢æ·ç«¯ä¸åå¹¶æ¥è¯¢æ¨çè®¢åä¿¡æ¯ï¼åæ¶çäºè§£æè´­ä¹°ååçä¿¡æ¯ãåç»­åçº§åè½ï¼ä¸ºäºè®©âæä¸ç¾è¥¿âå¾å°æ´å¥½åå±ï¼æä»¬ä¼æ ¹æ®ç¨æ·åé¦ï¼å®æå¯¹âæä¸ç¾è¥¿âçåè½åæ¹è¿åæ´æ°ï¼æ¬è¯·æå¾ï¼å¸ææä»¬çææºå®¢æ·ç«¯ï¼è½è®©æ¨å¿«éä¾¿æ·çæ¾å°æéååä¿¡æ¯ãè°¢è°¢æ¨çæ¯æï¼",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

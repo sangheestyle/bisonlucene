@@ -1,0 +1,46 @@
+{
+  "title": "myFinPort Personal Finance",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.finport",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "May 10, 2013",
+  "version": "2",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Avinash Chaudhari",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.finport",
+  "extendedInfo": {
+    "installSize": "646k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Manage your investments & portfolios with myFinPort. Calculate the rate of return (ROR) on any complex financial instrument in just three easy steps â define cash inflows/outflows, validate graphically and press button to calculate ROR. If you are buying an insurance policy which has initial down payment, regular monthly payments, receipt of payments every month after 10 years and finally receipt of maturity amount. It is cumbersome to calculate rate of return on such financial instrument. myFinPort helps you to calculate rate of return in just few clicks so that you can take faster and better investment decision. InvestmentsCreate investments under various categories like Shares, Mutual Fund, Gold, Insurance, Property and GeneralDefine cash inflows and outflows on yearly, monthly, weekly and up to daily basis using either relative or absolute dates Update cash flows to check impact on rate of returnView Chart depicting cash inflows and outflows on time scaleCompute the rate of return (ROR) of the investment/financial instrumentPortfolioCreate Portfolio which is collection of various investments. Compute the rate of return for the portfolio of investments in one clickTime Value of Money (TVM)With TVM calculator you can calculate,  - Present or future value of a single cash flow or annuity  - Annuity payments given the present or future value of the annuity - Rate at which an investment must earn to grow to a future value in a specified number of periodsLoan repayment - Calculate the monthly payment to repay the loan amount - Calculate how early one can repay the loan amount if extra payment is done every month",
+    "reviews": [
+      {
+        "timestampMsec": "1362812242761",
+        "starRating": "5",
+        "title": "Personal Portfolio management",
+        "comment": "One of best Android application I ever come across...It not only gives me accurate rate of return on my scattered investments in different investment plans but also enable me compare various investment options based on return. Highly recommended.....",
+        "commentId": "gp:AOqpTOEPNU1eNHG00iMtxy1OAlp21g4-CmIfCuO6kxTR4O7MO6avE15rwSMfesXdK76VNF9Q7X28EjfFTjsnyDg",
+        "author": "Abhay Bhoir",
+        "authorURL": "http://lh6.googleusercontent.com/-fiu6YKTAt48/AAAAAAAAAAI/AAAAAAAAAAA/As5V304mUos/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-fiu6YKTAt48/AAAAAAAAAAI/AAAAAAAAAAA/As5V304mUos/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365927778399",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "Very good to calculate ror on any instrument. It is simple to understand.",
+        "commentId": "gp:AOqpTOGz2uHLo99XiOIGUVZs6jy2s6osZSzfKeBHqnKagnKkshZOQOFrnDA7ZW93s8zgfZIJhOcrn8Ab4P1qCZs",
+        "author": "Netra Chaudhari",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

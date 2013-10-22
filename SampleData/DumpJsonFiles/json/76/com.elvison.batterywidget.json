@@ -1,0 +1,240 @@
+{
+  "title": "Battery Widget",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elvison.batterywidget",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 20, 2012",
+  "version": "3.2.1a",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "35067",
+  "rating": "4.6822653",
+  "contentRating": "Everyone",
+  "creator": "Elvison",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elvison.batterywidget",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "5,000,000+",
+    "downloadsCountText": "5,000,000 - 10,000,000",
+    "description": "Battery Widget is an elegant 1x1 widget which shows you the battery level on your home screen, with some nice animation when charging. Tapping on it will show more battery information with a shortcut to view battery use.In case you don't have enough space in your home screen, a clear battery level indicator is available on status bar so that you can see it even when you are browsing the web or sending text messages. It can be configured to show in 3 different colors to reflect high/medium/low battery levels. You can also define your own alerts, so that Battery Widget will automatically notify you about battery status changes.Battery Widget will not drain your battery, as it does only what it needs to do. When the device is idle, it is not listening to any battery information updates from the system if there are no active alerts. If there are active alerts, it just does minimal job to check if it needs to notify you and nothing more - it does not update any visible components when the handset is not in use. With this mechanism, Battery Widget consumes only little computation power and battery.Available in multiple languages: English, Chinese (Traditional), Chinese (Simplified), Japanese, Korean, Spanish, Russian, Greek, Italian, Hungarian, Estonian, Turkish, French, German, Brazilian Portuguese, Polish, Catalan, Dutch, Ukrainian and Romanian.Please email me if you could help me with localizing Battery Widget.========================Feature Overview========================- Battery level indicator on status bar, showing in different colors in 3 configurable level ranges- Alerts for various battery statuses- Time information when device is plugged/unplugged- Option to disable charging animation- Option to show temperature in Fahrenheit- Various indicator icon styles========================Important Notes========================- Make sure that Battery Widget is excluded in any task killer programs; it might fail to work properly otherwise.- Due to the limitation of the Android platform, homescreen widgets will NOT be available if Battery Widget is moved to SD card.- Some devices indicate battery level every 10% due to their kernel design (known ones are: most Motorola devices including Droid and Atrix series, Samsung Moment series).- In Android 4.0, the system may shrink and dim level indicator icons in status bar.========================Instructions========================Please add Battery Widget to your home screen with the general methods below:Method 1: Press Home button followed by Menu button. Select Add -> Widgets -> Battery Widget.Method 2:Press Home button to show the home screen. Tap and hold your finger on any available space, select Widgets -> Battery Widget.Procedures to add widgets on home screen might be different in devices from various manufacturers with their custom user interfaces.===========================Special Thanks (Localization)===========================Edith Lam - JapaneseJintae Kim / YoungChul Chung - KoreanFernando - SpanishRoman Rublevskiy - RussianMiltos - GreekMarco Giorgi - Italianbencebacsi - HungarianMargus P - EstonianMehmet ÃZCAN - TurkishBilloux - FrenchLuis & Anjali / Sbeyderman - GermanRodrigo de Avila - Brazilian PortugueseAlbert CzyÅ¼ewski - PolishJosep Caritg - CatalanTwan Veugelers - DutchÐÐ¸ÑÐ¾Ð½ÑÑÐº ÐÐ¸ÐºÐ¾Ð»Ð°Ð¹ - UkrainianVlad Andrei - Romanian",
+    "reviews": [
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1369781760422",
+        "starRating": "4",
+        "title": "Clean interface.",
+        "comment": "This is a nice detailed app with a smooth interface. It does have one thing going against it : No estimated time of full battery depletion.   Other than that is great!",
+        "commentId": "gp:AOqpTOHOmmpwNS_dZufQFsO9lI_yNvnht01t8rEHefHjj6_EXftpnhNgolqBeQWeS_s_gEi5n0FvDYWP2CKtww",
+        "author": "Zack Notleh",
+        "authorURL": "http://lh5.googleusercontent.com/-_juEMMcFkyY/AAAAAAAAAAI/AAAAAAAAA98/nlsA6ly-I9A/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-_juEMMcFkyY/AAAAAAAAAAI/AAAAAAAAA98/nlsA6ly-I9A/photo.jpg"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1368291542449",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "Battery Widget is awesome. The battery logo can be viewed in notifications. The colors can be changed. Example - From 100% to 70% the colour is green & below 30% it is red. You can also change it!!!!!!",
+        "commentId": "gp:AOqpTOG4DQUbCw237y8GJHtQ9g8QuEe-NKYLtIG0p5tWadc8aQYMKnb29SOQgk9717e_dyNJyHNXDAcKv6bJ5A",
+        "author": "Gautam Yadav",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1370589529948",
+        "starRating": "4",
+        "title": "LG - os 4.0.2",
+        "comment": "Great little app, accurate battery levels and usage percentages. Cool adjustable warning alerts n more - fully recommend to others.... Would be 5* if u cld set the app to change settings at certain battery levels e.g. turn down screen brightness, turn off wi-fi etc at low battery level selected by user.",
+        "commentId": "gp:AOqpTOGashWwZRd6C26A_Xo6d-A9pUrQ-u5frLlvJokTXLoVIp6jsTKS3c8FWyMmGWGGV02IH1pITPlz5DlCJA",
+        "author": "Jay Watson",
+        "authorURL": "http://lh3.googleusercontent.com/-SC-Gb6j13sI/AAAAAAAAAAI/AAAAAAAAAA4/k2rO3F2JDe4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-SC-Gb6j13sI/AAAAAAAAAAI/AAAAAAAAAA4/k2rO3F2JDe4/photo.jpg"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1366631767998",
+        "starRating": "5",
+        "title": "FABULOUS!!!!",
+        "comment": "The amount of detail this app gives is amazing. Everything from the percentage, to the temperature of the battery, to how long its been charging & how much it has charged in that time. Impressive! You can even set alerts yourself for when the battery needs charging & when it rises or falls pass a certain point. I love this widget!",
+        "commentId": "lg:AOqpTOFJKsGPlV8vHgdz-VDvPF4-mRl4LpQ3iYwSB8XaOuCR11SwGuJiPR6bDmWLGIK-xprgYtYnJNiMk8r3sw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1371580297180",
+        "starRating": "5",
+        "title": "Exceptional",
+        "comment": "This is a really great battery app, the best one that ive tried I definitely would recommend it.",
+        "commentId": "gp:AOqpTOFxAyolzGBHc56KXXp1azPES5MdHH0lsa4gCHoNvb9YWE6U7xuMgxr-g0TLFO0BfeaDVuRgR0tKQqX15Q",
+        "author": "Richard Flack",
+        "authorURL": "http://lh4.googleusercontent.com/-IUlDPiyszm4/AAAAAAAAAAI/AAAAAAAAABQ/v7Mr-WK_oWs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-IUlDPiyszm4/AAAAAAAAAAI/AAAAAAAAABQ/v7Mr-WK_oWs/photo.jpg"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1365294650507",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Epic, set up crysis sounds as low and max battery notifications, works flawlessly",
+        "commentId": "gp:AOqpTOEBhIQMdyo3NOx4Apfu1IY4jVPXO3or5zcjKJyqACWS6oUjvjJjIC5h0FhkMNeLDUzA3MJwzCVnGC4RBA",
+        "author": "Le Pawel",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1349632607964",
+        "starRating": "5",
+        "title": "Great widget",
+        "comment": "Quite attractive. I love that it displays the charging source (a/c or usb) it gives a quick indication of the charge rate which is always handy :)",
+        "commentId": "lg:AOqpTOF49omh3OrseLOe6U4H8JZIBiPKSWQF7kNNmdxlZMTT_WtsmNbZGJ2EypNOsQTVvGR_Izjpqd1b27Dh2g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1370888649572",
+        "starRating": "5",
+        "title": "Simple Yet Effective",
+        "comment": "This app is a good way of keeping track of your battery life accurately, and it\\'s simple to use.",
+        "commentId": "gp:AOqpTOHjC64-ev-6efnOi6ZUu6FUjne5yQc078mrYDpcTs1RDzHjCUAdsKSsCp_zGDTLBzqo_EtS_7qCkxtuBQ",
+        "author": "Alex Winter",
+        "authorURL": "http://lh5.googleusercontent.com/-B-TExPrFXNI/AAAAAAAAAAI/AAAAAAAAACw/BMvVIyuu5q8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-B-TExPrFXNI/AAAAAAAAAAI/AAAAAAAAACw/BMvVIyuu5q8/photo.jpg"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1349213433150",
+        "starRating": "5",
+        "title": "Extremely useful!",
+        "comment": "I love this app & have been using it several months. Animated when charging, lets me choose what I want. Even color levels.. I want to get the donation version because I feel dev deserves it after giving me such a great widget! Well done!!",
+        "commentId": "lg:AOqpTOEJWFsjNK5Gtt0u2hM-IWlKKSEMjy9hIug0prgre46utMcG-RT_crI_N80HIlu9Alw7Q1FJ93ISPIIivw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1369222605455",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Well, everything I wanted when searching for a battery indicator. Easy to use, not filled with unneded features, good customization. It fills it\\'s role perfectly.",
+        "commentId": "gp:AOqpTOFgUt2vryTF3FLkcrGB4ZVyaaVHhzPMtbnLB4vS3CimZX-n73NK83R_L5bkfoK-7wpyax6rLOwuYCcVsQ",
+        "author": "Aleksandrs Kirillovs",
+        "authorURL": "http://lh4.googleusercontent.com/-RkpSLAidQgk/AAAAAAAAAAI/AAAAAAAAAhQ/GCfnGnEeylA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-RkpSLAidQgk/AAAAAAAAAAI/AAAAAAAAAhQ/GCfnGnEeylA/photo.jpg"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1359633373896",
+        "starRating": "5",
+        "title": "OngeSZ",
+        "comment": "Simply, this is great app. Easy to use and user friendly",
+        "commentId": "gp:AOqpTOGSeTGdrsuC98JkzYaQdCRxJpFoagC3m8lzUti-fhgkMqHTCaDwpGjW5JjjOTKkwybz-yzlKav-qH9t6A",
+        "author": "OngeSZ Sparrow",
+        "authorURL": "http://lh5.googleusercontent.com/-y4i_esHT8io/AAAAAAAAAAI/AAAAAAAAAAA/Ka4qzw_y0LQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-y4i_esHT8io/AAAAAAAAAAI/AAAAAAAAAAA/Ka4qzw_y0LQ/photo.jpg"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1354097609657",
+        "starRating": "5",
+        "title": "Useful and looks good too!",
+        "comment": "Very useful for seeing an exact number for your remaining battery. The icon in the notification bar is good as well - you can still see the battery level whilst using certain apps. Also it looks nice on my homescreen. :)",
+        "commentId": "lg:AOqpTOH6_WZhf2K0Jab4yPLm732QVSRb1P106BmS657kLcUkmfy_zcZShNs7M7HLe67C9vzSWhQrXpxNsYq1mw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1364996642325",
+        "starRating": "4",
+        "title": "Good, simple, & reliable",
+        "comment": "App is easy to use, has enough options to customize it for my preferences, and is easy to read while driving. All I need is something to tell me when to plug in to charge and this app fills the bill.",
+        "commentId": "gp:AOqpTOEij0I3aoISJWXvzmte5D1-LXcSjCNY-dfPgRcuZQRtxf5beLETUS-kfdo-iPztnA4KBjEBgeEh83wgXA",
+        "author": "Clifford Sennello",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1378184467657",
+        "starRating": "5",
+        "title": "The best",
+        "comment": "After uninstalling and trying others, this app is hands down the best.  Simple, accurate and no frills. Does the job and is light on resources.",
+        "commentId": "gp:AOqpTOHdOi6tMftRrRF3lB0fWSv-v7lQdjbEXw3T_XhOR1buh5lDVeZu06sfYjmqMzh6flO0nCj25HPHk-rlDQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1378260711592",
+        "starRating": "4",
+        "title": "Battery widget",
+        "comment": "This widget is really awesome... The persons are very busy in their life sometimes they really dont knw when their mobile battery needs some charging... But because of this widget they actually knw that their baatery power is low and some power and because of this u will always touch with ur family friends and the whole world... Thanks",
+        "commentId": "gp:AOqpTOFoCWfndfX9hRLV9Ysf7q5QCk3iD0fG9hcKe7_xye-k7au54JNqiiQAQ4reIM9FIolNYIfLfaWy47wvuA",
+        "author": "Gaurav Gupta",
+        "authorURL": "http://lh5.googleusercontent.com/-zdSyfP9OpRk/AAAAAAAAAAI/AAAAAAAAAAA/UPFPZksVXyU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-zdSyfP9OpRk/AAAAAAAAAAI/AAAAAAAAAAA/UPFPZksVXyU/photo.jpg"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1349891055801",
+        "starRating": "5",
+        "title": "Ralph-San Antonio,TX",
+        "comment": "I just want to say thanks to the designers of this Battery Wiget. It is truly the best one available for the android platform. After installing/ uninstalling several contenders, I\\'ve concluded this one to be the only choice. It is a very useful tool for anyone who wants to protect their smartphone investment.",
+        "commentId": "lg:AOqpTOEs02bKMDORsl65pnXMAmD-jyR7n_JscKrr8KF-htVwbBkngT66MQ-IdqmhAwiev_9oQ9Ls1QZcqJLDHg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1369777870518",
+        "starRating": "5",
+        "title": "Very good app. Me like a lot.",
+        "comment": "I really like this app. It is very accurate and doesn\\'t cause any problems like the others I have used. My rating is excellent.",
+        "commentId": "gp:AOqpTOEZCx9oAwcrav3K0iGOF3QxZGEtuy8rdSjFkFWiSn_zYNNJp_rCnGvBWvE0qTDNgu4IjnRe8zggDZa_8A",
+        "author": "Mike Maltby Jr",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1362925037101",
+        "starRating": "5",
+        "title": "Extremely Handy and Useful",
+        "comment": "I love this app. It\\'s very helpful to see just exactly where the battery level lies so you can gage just how much power and time you have left. I had two battery apps when I first started....the other got uninstalled. Thank you for creating this app.",
+        "commentId": "gp:AOqpTOH75d27ch0K287ANF61DMSo4KXGdaqLm-2aJOQegmT7yWfF9H1EzBOsUXHp8OKGCwYgQq5PmcytIufiZw",
+        "author": "Adrian Davis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1371178353380",
+        "starRating": "5",
+        "title": "Convenient & effective",
+        "comment": "Works great never had a problem or had a force stop highly recommended.",
+        "commentId": "gp:AOqpTOFzHM4c9GEe7I8R-fhoBxcl6Ib9KO-_QTpLwnwEtOJz4WeHbgLvWm3yJLIAcHyL4VTF2fYMPsYcLYxq3w",
+        "author": "Brandon Skels",
+        "authorURL": "http://lh6.googleusercontent.com/-9_gqVDaXJSQ/AAAAAAAAAAI/AAAAAAAAABU/OOIvlwXTkKI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-9_gqVDaXJSQ/AAAAAAAAAAI/AAAAAAAAABU/OOIvlwXTkKI/photo.jpg"
+      },
+      {
+        "documentVersion": "3.2.1",
+        "timestampMsec": "1364487401361",
+        "starRating": "5",
+        "title": "Nice n user friendly",
+        "comment": "Good app  Very useful",
+        "commentId": "gp:AOqpTOEql9vPSjL09BHtC6Puz_bkG6fbog_JXyo36q-Z-EjhHAFvLwAYnavruEm7xtgm3yGbniMddBNH8qI_2w",
+        "author": "Hasan Haider",
+        "authorURL": "http://lh3.googleusercontent.com/-wfh2BSx4dS8/AAAAAAAAAAI/AAAAAAAACd4/EtEsD7OY_6c/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-wfh2BSx4dS8/AAAAAAAAAAI/AAAAAAAACd4/EtEsD7OY_6c/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

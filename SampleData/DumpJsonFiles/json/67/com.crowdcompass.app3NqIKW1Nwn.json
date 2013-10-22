@@ -1,0 +1,38 @@
+{
+  "title": "HDS Company Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.app3NqIKW1Nwn",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 18, 2013",
+  "version": "1.6",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.app3NqIKW1Nwn",
+  "extendedInfo": {
+    "installSize": "10M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Annual HDS Company MeetingApp Key words:- HDS,Company,Meeting",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.app3NqIKW1Nwn.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Do I Need My Coat?",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conorstarrs.doineedmycoat",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "May 19, 2013",
+  "version": "1.9.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Conor Starrs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conorstarrs.doineedmycoat",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Nobody wants to get caught out in the rain, and it isn't nice to be cold.This speedy app grabs weather information for your current location, and figures out if you're going to need your coat!It's quick, it's free, it's fun, and there is some quality weather information there too.Icon set by MerlinTheRed at DeviantArt: http://browse.deviantart.com/art/plain-weather-icons-157162192",
+    "reviews": [
+      {
+        "documentVersion": "1.9.2",
+        "timestampMsec": "1369294573284",
+        "starRating": "5",
+        "title": "Fantastic app",
+        "comment": "Really helpful when I want to know if it is cold outside or raining before I leave the house.    Great dev support, regular updates to add more features... Its great!",
+        "commentId": "gp:AOqpTOEpZyqBkxff1AJ9olw-DN9jY7kz0zis2fBRdGUln7kgCEIYUcfpsCr9w5V32672ByOYlGp3gxB7YDkM",
+        "author": "Paul Madden",
+        "authorURL": "http://lh6.googleusercontent.com/-AScJRca6Qh0/AAAAAAAAAAI/AAAAAAAAAI4/lLTkuxwwIB0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-AScJRca6Qh0/AAAAAAAAAAI/AAAAAAAAAI4/lLTkuxwwIB0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

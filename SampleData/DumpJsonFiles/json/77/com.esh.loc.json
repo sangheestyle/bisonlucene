@@ -1,0 +1,31 @@
+{
+  "title": "Location, where you are ?",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.esh.loc",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "June 3, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "Naresh Kavali",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.esh.loc",
+  "extendedInfo": {
+    "installSize": "31k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Location widget let you know where you are and when. Also helps you to see the near by places using Google maps when clicked on location shown.Note: Only mobile network will be used to resolve location and intention is not to drain battery using GPS.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

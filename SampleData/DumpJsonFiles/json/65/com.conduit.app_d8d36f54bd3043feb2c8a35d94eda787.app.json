@@ -1,0 +1,47 @@
+{
+  "title": "Fort Myers Police News",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_d8d36f54bd3043feb2c8a35d94eda787.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "March 27, 2013",
+  "version": "1.49.51.831",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "City of Fort Myers",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_d8d36f54bd3043feb2c8a35d94eda787.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "City of Fort Myers Police Department: News, Videos, Facebook, Twitter, Most Wanted, Contact",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_d8d36f54bd3043feb2c8a35d94eda787.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

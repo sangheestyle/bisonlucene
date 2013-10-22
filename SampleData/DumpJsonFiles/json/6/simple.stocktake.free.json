@@ -1,0 +1,31 @@
+{
+  "title": "Simple Stock Take Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=simple.stocktake.free",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 5, 2012",
+  "version": "2.7",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Devel-Appers",
+  "creatorURL": "https://play.google.com/store/apps/details?id=simple.stocktake.free",
+  "extendedInfo": {
+    "installSize": "149k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Simple Stock Take is designed for busy managers like yourself to make stocktaking simpler. This application is particularly suited to small business owners like restaurants or cafes.Instead of handwritten inventory lists that you then have to manually enter into your computer taking valuable time and leaving room for error, this Application lets you enter the data into your Smartphone as you go. The data is saved onto your SD Card in a CSV File format. You can then upload this file onto your computer and stock take is done. Simple!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

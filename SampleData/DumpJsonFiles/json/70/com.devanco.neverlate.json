@@ -1,0 +1,32 @@
+{
+  "title": "Never Late",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.devanco.neverlate",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "March 16, 2013",
+  "version": "Never",
+  "operatingSystems": "4.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "David Brown [Devanco]",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.devanco.neverlate",
+  "extendedInfo": {
+    "installSize": "187k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Running late for your next appointment?No time to open Google Maps, find the address, check that it's the right location, and finally start your car?\"Never Late\" is a really simple application that checks your calendar events, take the next one and say how long you have before leaving. It also includes a quick \"start navigation\" button starting Google Maps with the right address and transport mode.The time to go to your next appointment is calculated with Google Maps, so it tries to include the traffic (still, take a margin not to be late).Get ahead of all your appointments!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET"
+    ]
+  }
+}

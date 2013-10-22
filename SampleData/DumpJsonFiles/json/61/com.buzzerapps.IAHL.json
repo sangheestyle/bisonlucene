@@ -1,0 +1,45 @@
+{
+  "title": "Iceplex Adult Hockey League",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.IAHL",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "August 19, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Buzzer Apps Mobile Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.IAHL",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "One tap access to all the information a fan could want.Gives you mobile access to everything you need to follow the Iceplex Adult Hockey League no matter where you are.  Select your team and see their scores, schedule, stats and roster.  The league's latest news, social media, and push notification features will keep you up to date with the important information about the league.We hope you enjoy using this app to enhance your IAHL experience!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1377110411229",
+        "starRating": "5",
+        "title": "Solid App",
+        "comment": "It only has information about the summer leagues.  I am assuming this will be updated once the season starts.",
+        "commentId": "gp:AOqpTOGjvMy2PQ0r9HJZlO72CSJL-3y0nDe7xgJD1uRJnEJMpAzxGy6xdkCbYRtQV5-WwpeZFk__zOxSLX9UCg",
+        "author": "Joel Johnson",
+        "authorURL": "http://lh3.googleusercontent.com/-h0k-Gs4-v8k/AAAAAAAAAAI/AAAAAAAAEmk/XekpsxN7s3c/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-h0k-Gs4-v8k/AAAAAAAAAAI/AAAAAAAAEmk/XekpsxN7s3c/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.buzzerapps.IAHL.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "AlphaBlue 3.3.0",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.alphablueparent",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 3, 2013",
+  "version": "3.75",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "AlphaBlue",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.alphablueparent",
+  "extendedInfo": {
+    "installSize": "151k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "To use this app we first strongly recommend that you visit our web site at www.alphablue.net, as the AlphaBlue app requires you to register for an online parental account, before downloading this app onto your child's phone.AlphaBlue enables parents to control and schedule their child's access to their mobile phone through any PC.It has been designed for parents by parents who were having issues with their own children, who were using their mobile phones at inappropriate times of the day, effecting school work, sleeping patterns, homework and family cohesion.Working with you, for your âPeace of MindâMany parents are concerned what their child is looking at or who they are communicating with via their mobile phone, especially when away from the house. Our goal is to give parents peace of mind and to help keep children safe from exposure to grooming, the internet, cyber bullying, high phone bills, not going to sleep at night, distraction from classwork or homework.AlphaBlue is a ground breaking online solution that enables parents to remotely restrict access to features on their childâs phone to set times, such as incoming and outgoing calls, Texts, BBM, Internet, Facebook and Twitter etc... The only functions that children can access when in restrictive mode are calendar and calculator for educational purposes.Restrictions can be set down to five minute increments during school hours, while doing homework or after a certain time at night. It also has the flexibility of allowing parents to add âTrusted Onlyâ telephone numbers so a child can call or be called by a parent even when restrictions are in place. UK emergency services numbers such as 999 are default.AlphaBlue is available for a 14 day free trial on BlackBerry (Excluding BB10) and Android devices, such as Samsung, HTC, Motorola, ZTE, Huawei and Sony. We are at presently developing AlphaBlue for BB10 and researching an iPhone offering.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.BOOT_COMPLETED",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_COARSE_UPDATES",
+      "android.permission.ACCESS_GPS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.GET_TASKS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

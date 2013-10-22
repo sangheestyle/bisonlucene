@@ -1,0 +1,48 @@
+{
+  "title": "HADI TV THREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.culminating.haditvthree",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "September 7, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.8333335",
+  "contentRating": "Low Maturity",
+  "creator": "The Zahra Trust",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.culminating.haditvthree",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Hadi TV is proud to present their individual app for each of their channels. Now you can watch Hadi TV 3 on its own unique app for your iPhone. Hadi TV is the first-ever multilingual Islamic channel to broadcast the message of the Ahlulbayt in the English, French, Arabic, Urdu, Turkish, Thai and Malay languages.",
+    "reviews": [
+      {
+        "timestampMsec": "1353596363911",
+        "starRating": "5",
+        "title": "Amar Essa",
+        "comment": "Mashallah it\\'s great app ya Ali madad",
+        "commentId": "lg:AOqpTOHvVh9oGVrHu9D6SiibUQuSNWERjj3FPGrv7GGTcJ0y1K7f1SHoP5aZHBg0FZQzXPNjCjvIJSEZ6e04OA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

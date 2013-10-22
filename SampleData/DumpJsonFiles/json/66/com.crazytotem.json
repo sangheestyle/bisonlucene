@@ -1,0 +1,65 @@
+{
+  "title": "Life Points Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crazytotem",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "August 18, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "39",
+  "rating": "4.4615383",
+  "contentRating": "Everyone",
+  "creator": "CrazyTotem Studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crazytotem",
+  "extendedInfo": {
+    "installSize": "130k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "This is the first version of a very simple, but useful, life points counter with other small functions for many card games.In this version I have try to support the games that I know (Magic the Gatheringâ¢ and Yu-gi-ohâ¢) but I try to make this program useful for other many games that exist.Some functions:1. count the life points and check when become zero (for mtg, yugioh and other games)2. current battle history3. undo damage button for return to previous life4. inline editable player's name 4. poison counter (for mtg) with editable label5. three optional and cutomizable counters5. List of all mtg commons ability (like trample, lifelink and more)6. mtg cards finder by name7. six face dice roller simulator8. coin simulator 9. trhee and four players game!This is a WIP version, in next update I add:1. better dice simulator2. utility menÃ¹ for Yu-gi-oh3. add more languages4. match history and statisticsand other little bugs, comment and suggestions are welcome for improve my application.stay tuned for future update!",
+    "reviews": [
+      {
+        "timestampMsec": "1356766003439",
+        "starRating": "3",
+        "title": "Common, LAYOYT!",
+        "comment": "I\\'ve finally found an app that at least SUPPORTS three and four players as well. However, it\\'s really poorly done... Why oh why can\\'t you just let the screen scroll down to the other players instead of how awkwardly it works now? Not that there isn\\'t A LOT of more room on the screen, so they would even fit without scrolling... I would also like to see an option to hide the timer and to hide the poison counter, not just renaming it.",
+        "commentId": "gp:AOqpTOFMrgkPwS7u0LfJrVV7mv7qmvaeMq3qGKrocWMMlv9gDRCLbFzJbxAbaN5F7bV8lCU6wSppxe-YkxqkFZI",
+        "author": "Robin Gerndt",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358559810660",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Good app",
+        "commentId": "gp:AOqpTOGCXE5SZqr6nVrZdLucn0Ia2Lk2Md5jFuIKcsVziEuD2eIYhzIJMv2mGv4Em3QHytxtL0xTFdIK2LXBHmk",
+        "author": "Matt Custov",
+        "authorURL": "http://lh3.googleusercontent.com/-VV5UtLXLSlM/AAAAAAAAAAI/AAAAAAAAAB4/0Hy2QtEU71Y/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-VV5UtLXLSlM/AAAAAAAAAAI/AAAAAAAAAB4/0Hy2QtEU71Y/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1341356747463",
+        "starRating": "5",
+        "title": "Very useful.",
+        "comment": "This is very clean looking and easy to use for both MtG and YuGiOh. Makes keeping track of LP super easy and there are no arguments like when you keep track in your head.",
+        "commentId": "lg:AOqpTOEYf9OwNAly0LFx7rs2YZ9cirwv-JtEGveOWRZEIEHFEA2YbskJLZHicBLI5mobVWvemHx12zbJqHVbuTY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1346965435017",
+        "starRating": "5",
+        "title": "Chris",
+        "comment": "Love it  So easy to use",
+        "commentId": "lg:AOqpTOFcytJTeQs5vuE1Dbxmmt0PYyci8PSF2EaErW65xMglXUnTBlMRUXXqtXw72Q6jNC7SSqvChD4sWH3BAYM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

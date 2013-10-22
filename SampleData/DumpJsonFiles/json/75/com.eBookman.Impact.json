@@ -1,0 +1,44 @@
+{
+  "title": "Impact Yellow Pages",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eBookman.Impact",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 24, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Sonic Search",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eBookman.Impact",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Impact Directories Yellow Pages provides accurate business and white pages listings for the Yakima and Boise Areas. With this app you may look up businesses, get directions, view ads, and so much more. It is the perfect mobile alternative to your phone book. Impact Directories covers the following areas: Idaho- Boise, Meridian, Nampa, Caldwell, Kuna and surrounding areas. Washington-Yakima, Wenatchee, Ellensburg, Lake Chelan and surrounding areas. Our yellow pages app has hundreds of business categories which include but are not limited to restaurants, dentists, lawyers, plumbers, car repair, gas stations, pizza, and doctors. More can be learned about Impact Directories by going to www.impactyp.com.",
+    "reviews": [
+      {
+        "timestampMsec": "1362602961873",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "Great app!",
+        "commentId": "gp:AOqpTOHjLz7E8Lk8AXTOSHorJpRILIeFxIUPS8cLfT8dEj92vkFGa6I0NTQ--dfLca5YyAxKa781Sz5qnyGWh10",
+        "author": "sasha Walter",
+        "authorURL": "http://lh3.googleusercontent.com/-BmA7aSg22Zk/AAAAAAAAAAI/AAAAAAAAAEM/hE34xSCoB9o/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-BmA7aSg22Zk/AAAAAAAAAAI/AAAAAAAAAEM/hE34xSCoB9o/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

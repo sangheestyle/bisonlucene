@@ -1,0 +1,40 @@
+{
+  "title": "Case University",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dub.app.vanilla",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 27, 2013",
+  "version": "1.3.38",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dub Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dub.app.vanilla",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Case University is powered by Campus Guide. Campus Guide is an out-of-the-box solution that will transform any school into a leading edge âmobile campusâ with little to no effort. It gives schools the power to communicate better with all of their constituents (students, prospective students, alumni and more) faster, easier and more affordably than a school would be able to implement all on your own.Some of the Campus Guide benefits include:â¢ Custom branding â Your logo, schools colors and branding â the app looks like your creationâ¢ Out of the box integrations with your ERP and LMS â Itâs a plug and play platform with no additional IT resources or costs requiredâ¢ Engaging features â Course assignments, grades, discussions, Campus Events, Jobs, Schedule, News, Sports, Maps, Notifications, Directory, Videos, Emergency Numbers and moreâ¢ Affordable â Low cost, low risk and a high return on your investmentMore details and a product video can be found here; http://www.dublabs.com/campusguideFeatures:1. Courses - Students can effortlessly browse courses, view class times, locations, assignments and grades, all on the go. Plus, interact with classmates and professors to get real-time course information.2. Events - Always know when your favorite events are taking place and find important campus dates including registration, exams, holidays and games and easily add them to your mobile calendar3. News â View the latest headlines from across campus4. Sports - Sports articles, up-to-date news, scores and highlight videos covering university and intramural athletic programs.5. Maps - Find out where you are and where your classes and buildings are located on campus.6. People - Instantly see all the people in your network like classmates, professors, friends, alumni and more. Exchange contact information with new classmates and friends to build your network of personal and career contacts.7. Directory - Search the public campus directory to find office locations, emails and phone numbers.8. Emergency Contacts - Immediate access to health center, security, student help lines and other important resources.9. Videos - View videos from recent events, speakers and campus orientations.10. Notifications - Get instant notifications and campus bulletins including reminders of overdue payments, campus closings and more.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

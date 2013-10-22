@@ -1,0 +1,49 @@
+{
+  "title": "Ya Boy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_1d58760b5cd043f4a2b9e8f0e9408b54.app",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "July 22, 2013",
+  "version": "1.31.31.346",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "inkathletes",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_1d58760b5cd043f4a2b9e8f0e9408b54.app",
+  "extendedInfo": {
+    "installSize": "7.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is the official app for Rap artist Ya Boy AKA YB The ROCKA",
+    "reviews": [
+      {
+        "documentVersion": "4.13.183",
+        "timestampMsec": "1351350762373",
+        "starRating": "1",
+        "title": "app doesnt work",
+        "comment": "App doesnt work, just force close",
+        "commentId": "lg:AOqpTOHeVboQu6CmDtmUbvnzV3ceMlExXLlROAj-2ZxfcYEb4Zt-mD5fiKFIOkGQlPDW3c1Im_YdW-e0G_xYcw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_1d58760b5cd043f4a2b9e8f0e9408b54.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.conduit.app_1d58760b5cd043f4a2b9e8f0e9408b54.app.permission.RECEIVE_ADM_MESSAGE",
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

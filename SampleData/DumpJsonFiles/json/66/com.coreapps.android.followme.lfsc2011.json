@@ -1,0 +1,35 @@
+{
+  "title": "Learning Forward Summer Conf.",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.lfsc2011",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 7, 2011",
+  "version": "1.9.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.lfsc2011",
+  "extendedInfo": {
+    "installSize": "951k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Embrace the Journey for School-BasedProfessional Learning and join us in Indianapolis for Learning Forward's 2011Summer Conference, July 17-20. Learn from the outstanding and innovative work of your peers and the perspectives of national leaders. Experience learning and networking that will transform teaching and leadership practices into those that impact student success.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

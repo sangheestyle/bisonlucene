@@ -1,0 +1,43 @@
+{
+  "title": "Check Point Cloud Connector",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.checkpoint.CloudConnector",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 28, 2013",
+  "version": "1.104",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Check Point Software Technologies, Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.checkpoint.CloudConnector",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Check pointâs cloud connector allows you to protect your Android device from the cloud.For registration please contact fwcloud@checkpoint.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VPN",
+      "android.permission.NET_ADMIN",
+      "android.permission.NET_RAW",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.STATUS_BAR_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

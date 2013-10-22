@@ -1,0 +1,50 @@
+{
+  "title": "Radar Over GPS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.easyparkstreet.toastTrafficAlerts",
+  "category": "Transportation",
+  "price": "$3.99",
+  "datePublished": "August 11, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "16",
+  "rating": "2.5",
+  "contentRating": "Low Maturity",
+  "creator": "Vieoli Dietessan",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.easyparkstreet.toastTrafficAlerts",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Traffic alerts and Radar Speed Camera Alerts overlays over any GPS Navigation application (SUBSCRIPTION FREE) or just Running in background!Use your usual GPS navigation application and be informed on live traffic alerts (speed camera/control, radar, accidents, works in progress) in the vicinity as long as you drive and navigate with your usual android Navigation App!Transparent overlays widget, vibrator and ringtone alarms will inform you with a timeframe notice about danger are...Just launch the app, a transparent widget (a green light with alerts information such as number of alerts in the vicinity and distance of the closest one)will appear every 5 seconds acknowledging the fact that the application is properly working in background...Then launch your favorite GPS Navigation app (or whatever!) and you're done!Note: this app requires GPS activation and 3G internet connectivity (3G, Edge, Wifi...).",
+    "reviews": [
+      {
+        "timestampMsec": "1372332627758",
+        "starRating": "1",
+        "title": "Doesn\\'t work for me",
+        "comment": "I live in the Maryland area and I did not get one alert compared to Trapster which showed known radar and speed traps as well as speed and red light camera locations. Radar Over GPS=0 Trapster=1",
+        "commentId": "gp:AOqpTOEJKnVYqGnvJ2L_E9TELtWJKKlplSfw7_HjNydbsDi6f7bHx2SF61f3dA_cNwaZuvPOv1XqstCj5WY8lA",
+        "author": "Kevin Smith",
+        "authorURL": "http://lh6.googleusercontent.com/-no70uWQMyxk/AAAAAAAAAAI/AAAAAAAAAAA/v9RYZrJferw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-no70uWQMyxk/AAAAAAAAAAI/AAAAAAAAAAA/v9RYZrJferw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374690339903",
+        "starRating": "1",
+        "title": "Bad",
+        "comment": "It really doesn\\'t work on a nexus 4. There are no options or settings it\\'s just on. There is no sound alert only a red triangle popping up as warning. Helloooo, I am driving, I don\\'t want to be looking at my phone just to see if there may be a radar warming. I want a refund!",
+        "commentId": "gp:AOqpTOEdFlMcwTeu7r53CTBiobs1fHGiKB1q_ldYmT7vvSWLSklGV1p4Tdg2ryL4rbz56NeZBiiRVY8azfQ3yQ",
+        "author": "Johanna Napetschnig",
+        "authorURL": "http://lh4.googleusercontent.com/-uQP99HTiADQ/AAAAAAAAAAI/AAAAAAAAAPY/qZUeu9VghFQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-uQP99HTiADQ/AAAAAAAAAAI/AAAAAAAAAPY/qZUeu9VghFQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Buzz4Play",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buzz4play",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "February 2, 2012",
+  "version": "1.0.6a",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "25",
+  "rating": "3.8",
+  "contentRating": "Medium Maturity",
+  "creator": "buzz4play.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buzz4play",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Buzz4Play est le premier rÃ©seau social gÃ©olocalisÃ© multi-profil et affinitaire. MULTI-PROFILUn rÃ©seau social ne devrait pas nous contraindre Ã  faire une croix sur le respect de notre anonymat.Tout simplement, parce quâon ne partage pas n'importe quoi avec n'importe qui.Dans la vraie vie, chacun communique tout ou partie de ses informations personnelles en fonction de ses interlocuteurs et en cloisonnant sa vie privÃ©e et sa vie publique.Pour la premiÃ¨re fois, un rÃ©seau social propose de transposer ce principe sur lâinternet mobile en offrant la possibilitÃ© Ã  ses utilisateurs de gÃ©rer eux-mÃªmes les informations relevant de la sphÃ¨re privÃ©e et de la sphÃ¨re publique.Sur votre compte Buzz4Play, vous pouvez ainsi gÃ©rer 2 profils sous 2 pseudonymes:Un pseudonyme privÃ© sous lequel vos amis vous identifient et Ã  partir duquel vous pouvez gÃ©rer vos groupes. Vos amis peuvent vous gÃ©olocaliser uniquement si vous acceptez de leur envoyer votre position gÃ©ographique.Un pseudonyme public modifiable Ã  volontÃ©, sous lequel les personnes de votre environnement (hors amis) vous gÃ©olocalisent. Vous tchatez et rencontrez de nouveaux buzznautes en tout anonymat.Avec votre compte multi-profil, vous basculez en une fraction de seconde de votre profil privÃ© Ã  votre profil public. Vos amis ne savent pas quelles sont vos relations publiques et vice-versa.Vous menez les vies que vous vous voulez, frÃ©quentez qui vous voulez, incognito.AFFINITAIREEn renseignant vos centres dâintÃ©rÃªt vous vous donnez toutes les chances de rencontrer des personnes partageant vos affinitÃ©s.1 Ã©toile = 1 critÃ¨re en commun5 Ã©toiles = 5 critÃ¨res ou plus en communVous pouvez aussi filtrer les buzznautes autour de vous en temps rÃ©el grÃ¢ce Ã  lâoption âAffinitÃ©sâ.En rejoignant les tribus Buzz4Play vous accÃ©dez aux informations et aux bons plans qui vous intÃ©ressent. Vous recevez du contenu exclusif, des offres promos uniquement dans lâunivers qui vous passionne.** Ce service sera bientÃ´t actif, merci de votre patience.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1375427690715",
+        "starRating": "4",
+        "title": "Cool",
+        "comment": "Ok",
+        "commentId": "gp:AOqpTOFwHZiCNvd8RyUpgzLDUiD7JpIjOB6EFc6ZWycSbR0vPcWK3DmbwzGXwu7HFSUS6yAX2Qo5cH-IbhFBNlw",
+        "author": "SANDRA PRICE",
+        "authorURL": "http://lh6.googleusercontent.com/-yXW5ftipV0c/AAAAAAAAAAI/AAAAAAAAADE/C5phGeFz0w8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-yXW5ftipV0c/AAAAAAAAAAI/AAAAAAAAADE/C5phGeFz0w8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1327945180036",
+        "starRating": "5",
+        "title": "myBuzzPlay",
+        "comment": "good",
+        "commentId": "lg:AOqpTOFhx72KGb288HAgo9tCcmj8Iv1CiLRwYvR7BZ3Gv0HUayrUhPEieOkNa584RIub_ffuKcbYkzJOvqm4Klk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

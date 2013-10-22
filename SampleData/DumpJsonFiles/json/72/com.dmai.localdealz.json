@@ -1,0 +1,37 @@
+{
+  "title": "LocalDealz",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dmai.localdealz",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "October 12, 2011",
+  "version": "1.5",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "SofieTek Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dmai.localdealz",
+  "extendedInfo": {
+    "installSize": "440k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "See all the latest local deals near you from Groupon and Tippr! Let your phone figure out what daily deals are near you and bring you to the deals website, so you can shop while on the go. You don't need to check multiple apps or websites to find the latest local deals any more, just one touch and let LocalDealz do the work for you. LocalDealz locates you by GPS or wireless data networks and brings deals near you automatically. You may also see daily deals in over 40 cities across the US: New York, Los Angeles, Seattle, Washington DC, Honolulu, and much more!If you have a Paypal account, you can purchase any hot deal immediately!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_CORSE_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_PHONE_STATE",
+      "ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

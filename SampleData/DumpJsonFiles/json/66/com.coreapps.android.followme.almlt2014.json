@@ -1,0 +1,51 @@
+{
+  "title": "ALM Legal Tech 2014",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.almlt2014",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "5.0.1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.almlt2014",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "LegalTechÂ® is the largest and most important legal technology event of the year. With trade shows in both New York and Los Angeles, LegalTechÂ® is the #1 Resource for law firms and legal departments to get hands-on practical information for improving their law practice management.  LegalTechÂ® provides an in-depth look at what the technological world has in store for you and your practice AND offers an expansive exhibit floor with the most extensive gathering of innovative products designed to meet your current and future technology needs.  Explore everything LegalTech has to offer with the NEW and IMPROVED LegalTech App! Get up-to-date announcements on speakers, exhibitors, sessions, tracks and much more! Tailor your event experience and download the LegalTech App today!â¨",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.almlt2014.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

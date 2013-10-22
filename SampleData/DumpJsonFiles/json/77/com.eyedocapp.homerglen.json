@@ -1,0 +1,38 @@
+{
+  "title": "Homer Glen Vision Source",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eyedocapp.homerglen",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "June 8, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "EyeDocApp",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eyedocapp.homerglen",
+  "extendedInfo": {
+    "installSize": "3.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Homer Glen Vision Source app contains the latest information about eye care. It has the following features: * Wiki (learn all about your eye) * Eye care videos (watch informational videos about eye health and eye care products) * Eye care news (the latest news in eye care) * Reorder contacts * Driving directions & contact information for Homer Glen Vision SourceTags:Homer Glen, Vision Source, Jack Gardner",
+    "reviews": [
+      {
+        "timestampMsec": "1331659765338",
+        "starRating": "5",
+        "title": "Awesome app!",
+        "comment": "I like this",
+        "commentId": "lg:AOqpTOEQX5bU8yimWDQU1leOBT9NzT0npoMoN5eCmJoGeCuXye2-7XuEuWA0DYB44sdp0BODw-CVqW8TV9E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

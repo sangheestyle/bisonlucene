@@ -1,0 +1,37 @@
+{
+  "title": "Arts in Motion",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emgeesons.artsinmotion",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 9, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Arts in Motion Productions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emgeesons.artsinmotion",
+  "extendedInfo": {
+    "installSize": "10.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Official app for 'Arts in Motion' Dance Studio. Established in 2004, we provide quality education in  choreography and staging support to institutes and individuals devoted to the teaching of proper techniques of dance, posture and movement in a creative and health atmosphere.Dance Form Includes - African Dances, Tango, Ballet, Ballroom, Bboying, Belly Dance, Bollywood, Break Dance, Contemporary, Flamenco, Folk Dance, Fusion, Hip Hop, House, Jazz, Kathak,  Krum, Latin Dances, Locking, Lyrical Hip Hop, Modern, Popping, R & B, Reggae, Salsa, Sufi Whirling, Tap Dance, WaackingWe also specialize in Fitness, Theatre, Music and dance classes for childrenFeatures Include - 1. Class Timings2. Schedule of Workshops3. Updates on Events",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

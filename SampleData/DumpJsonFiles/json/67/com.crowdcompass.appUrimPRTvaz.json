@@ -1,0 +1,38 @@
+{
+  "title": "2013 New Product Launch",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.appUrimPRTvaz",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 6, 2013",
+  "version": "1.15",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.appUrimPRTvaz",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This application for your mobile device provides you with secure and portable access to information about the 2013 Columbus event. It is intended exclusively for John Deere Dealers and Professional Salespeople.   Please download and install this app now.  You will be prompted in the app to open the information specific to the session and dates you are attending.  Updates to this information will be made automatically on your mobile phone or tablet, including your own personal schedule of classes in Columbus.Keywords: John Deere, Columbus, 2013 Introduction",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.appUrimPRTvaz.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

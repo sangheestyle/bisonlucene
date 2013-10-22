@@ -1,0 +1,49 @@
+{
+  "title": "Sell Books Univ of Arizona",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.arizona",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 29, 2011",
+  "version": "1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "CutCom Software, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.arizona",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Sell your used textbooks to the University of Arizona Bookstores using this instant price quote app! It allows you to scan the barcodes of books that you'd like to sell using your phone's camera. You'll find out instantly how much we'll pay you for your used books. Please note: This application is able to use your camera to scan barcodes, however the camera on IPod Touch doesn't have the resolution to capture barcodes reliably. But, you can always type in your ISBN. This app was developed by CutCom Software Inc. on behalf of the University of Arizona Bookstores. If you have any trouble, please let us know!",
+    "reviews": [
+      {
+        "timestampMsec": "1311136572396",
+        "starRating": "5",
+        "comment": "Overall great app. I successfully scanned a couple of my textbooks that I have been wanting to sell from last year and am now going to sell them.",
+        "commentId": "lg:AOqpTOHvahIqDS02DLELT2JJE-GKCYztWx0Xs9yIrKuWnJo1lAEnF58GZ3MIDTZKSm3uu_Iq_sFmPT81G7laB0k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367008209947",
+        "starRating": "5",
+        "title": "Good App",
+        "comment": "Even though I was disappointed in the amount that I was geting back for some of my books, this app is wonderful!!!",
+        "commentId": "gp:AOqpTOE2MiYnaoGo3Qkynv76INML1oWD9FZeMCV0Im0IZrsOJr81NJvIuSS5plbxH1nYszLrXbTmDjZk32U1cpI",
+        "author": "Shawniece Leary",
+        "authorURL": "http://lh5.googleusercontent.com/-rcOq8DZ_y90/AAAAAAAAAAI/AAAAAAAAAA4/vw2sNj30hMI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-rcOq8DZ_y90/AAAAAAAAAAI/AAAAAAAAAA4/vw2sNj30hMI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

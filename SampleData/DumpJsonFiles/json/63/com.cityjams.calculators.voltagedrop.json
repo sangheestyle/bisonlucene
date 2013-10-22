@@ -1,0 +1,30 @@
+{
+  "title": "Voltage Drop Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cityjams.calculators.voltagedrop",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "January 28, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Not rated",
+  "creator": "CityJams",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cityjams.calculators.voltagedrop",
+  "extendedInfo": {
+    "installSize": "24k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Select the material either copper or aluminum, the size of the conductor, the voltage and phase from a list of common voltages, then enter the one way circuit length in feet, and load in amperes.  This program finds voltage drop, per cent voltage drop, and volts at end of circuit.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

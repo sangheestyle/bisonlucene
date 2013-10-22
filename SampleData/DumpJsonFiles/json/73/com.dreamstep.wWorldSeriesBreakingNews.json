@@ -1,0 +1,32 @@
+{
+  "title": "2011 World Series",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wWorldSeriesBreakingNews",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "November 5, 2011",
+  "version": "0.21.13205.36239",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Tomtaz",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wWorldSeriesBreakingNews",
+  "extendedInfo": {
+    "installSize": "110k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Relive Baseball's 2011 World Series with this fun, sports app. The St. Louis Cardinals and the Texas Rangers face off in a very competitive best-of-seven World Series playoff. Breaking news reports of baseball scores and baseball analysis are featured.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wWorldSeriesBreakingNews.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

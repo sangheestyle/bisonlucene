@@ -1,0 +1,42 @@
+{
+  "title": "Miss Porter’s School Alumni",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evertrue.missporters",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "July 25, 2013",
+  "version": "2.8.0.6",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "EverTrue",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evertrue.missporters",
+  "extendedInfo": {
+    "installSize": "6.3M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "The official Miss Porterâs School app.  Securely network and connect with the MPS community around the world.  Includes a directory integrated with LinkedIn, maps, photos and more! Powered by EverTrue.Miss Porters School, Miss Porters, evertrue, alumni, community, mps",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.evertrue.evertrue.permission.C2D_MESSAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

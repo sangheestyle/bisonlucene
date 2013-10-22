@@ -1,0 +1,32 @@
+{
+  "title": "Wirral Open Mic",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.wWirralOpenMic",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 7, 2012",
+  "version": "0.62.13363.82177",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Wirral Open Mic",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.wWirralOpenMic",
+  "extendedInfo": {
+    "installSize": "182k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The App with everything you need to know about the Wirral Open Mic scene",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.wWirralOpenMic.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

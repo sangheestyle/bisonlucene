@@ -1,0 +1,33 @@
+{
+  "title": "Remember.It",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doubleloop.rememberit",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "July 5, 2013",
+  "version": "1.62",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "23",
+  "rating": "4.173913",
+  "contentRating": "Low Maturity",
+  "creator": "TltwWorks",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doubleloop.rememberit",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "- Simple and direct, everything can be written down quickly. - Mark each item with 7 colors, just like the rainbow.- Handy Search feature, you can find your memories easily.- Share your memorized items to friends.- App background switches automaticall each day.- All items can be exported to SD card as text file.- Add more beautiful background images to choose from.1.62- Minor bug fix. (Thanks to user feedback)1.61- Font size for memories can be adjusted in 'Setting'- Add support of no more Ads in 'More'- UI, feature improvement1.6- Images can be added now.- New 'Read mode' makes reviewing easier.- Custom background available.- Filters added for item search result.- Orientation lock for editor.- Can 'Move to SD' now(may depend on ROM).- UI improvements.1.31- Fix display issue for tablets1.3- Fix display issue for large font setting- 3 more clean backgrounds- Order change for 'All' memories- UI polishing- Minor bug fixes1.2.1- Add zh-TW translation1.2- Data can be backup/restore to your SD card now. All items can be retrieved easily after re-install your app for some reason.- Add weekday display.- Export txt no longer overwrite old file now.- UI detail updates.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

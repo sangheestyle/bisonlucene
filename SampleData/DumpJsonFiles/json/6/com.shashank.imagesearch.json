@@ -1,0 +1,62 @@
+{
+  "title": "Image Search",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.shashank.imagesearch",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "March 14, 2013",
+  "version": "1.0",
+  "operatingSystems": "3.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Medium Maturity",
+  "creator": "Shashank Gugnani",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.shashank.imagesearch",
+  "extendedInfo": {
+    "installSize": "738k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Image Search lets you search by image: Just select a photo from your gallery or click a photo from your camera, if Image Search recognizes it, it will provide you with useful information.The picture can represent either a location or an object.If it is the former, Image Search will give you a list of possible locations for the image. You can also obtain driving directions for each location.If it is the latter, Image Search will give you a keyword for the image and an array of similar images. Features:-Recognizes objects and colors in pictures-Scans text using Optical Character Recognition (OCR)-Gives similar images -Recognizes famous landmarks and locations -Gives driving directions for locations",
+    "reviews": [
+      {
+        "timestampMsec": "1376656235117",
+        "starRating": "5",
+        "title": "Amazing App!!",
+        "comment": "It is a well designed and useful app.",
+        "commentId": "gp:AOqpTOHZBJuoxjlooQrt5xzfSdL217hBbPMZiHlU-Jm99XjkkHCy_ySUAQH9BHx-MQiqO2lfxeSv-dsHdkKe6h0",
+        "author": "Shashank Gugnani",
+        "authorURL": "http://lh6.googleusercontent.com/-ajualdpmSe0/AAAAAAAAAAI/AAAAAAAAAD4/lq25F1srrYM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ajualdpmSe0/AAAAAAAAAAI/AAAAAAAAAD4/lq25F1srrYM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363347690276",
+        "starRating": "5",
+        "title": "Review",
+        "comment": "This app is great for reverse image search.",
+        "commentId": "gp:AOqpTOHYek56i_-Wr6dVxtmSfwF0MQMh2T8ScVHabx5Kh2txLVM6y5kFr6eycoQnd_k8R-zZ8jzGrhuG2oXIpaE",
+        "author": "Shiv Rajora",
+        "authorURL": "http://lh6.googleusercontent.com/-3OWC7Oiz18U/AAAAAAAAAAI/AAAAAAAAAGE/GsKbyNLfa54/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-3OWC7Oiz18U/AAAAAAAAAAI/AAAAAAAAAGE/GsKbyNLfa54/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363501743887",
+        "starRating": "5",
+        "title": "Works perfectly on my GNex",
+        "comment": "Looking forward to future updates!",
+        "commentId": "gp:AOqpTOGdInVh3WEQ0K4shf3A9E8xVKgjqlftVzxxoJDzOdGVckVRPSGDP0jpL3XdBgPv1MUhAd-q85XzVBbxS3U",
+        "author": "Raunaq Vohra",
+        "authorURL": "http://lh6.googleusercontent.com/-4IbStrEKBWg/AAAAAAAAAAI/AAAAAAAAAOo/h50p9DVH558/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-4IbStrEKBWg/AAAAAAAAAAI/AAAAAAAAAOo/h50p9DVH558/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

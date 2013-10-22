@@ -1,0 +1,58 @@
+{
+  "title": "Old Folk's Home",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exh.ofh",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 21, 2010",
+  "version": "1.01",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "12",
+  "rating": "3.75",
+  "contentRating": "Not rated",
+  "creator": "exh",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exh.ofh",
+  "extendedInfo": {
+    "installSize": "138k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "I decided I wanted my phone to do less, not more, so I wrote this app for nothing but the basics:  Access to the phone (and most recent call), access to text (and most recent communication), and a speech-to-text note list.(This is a home screen replacement:  Tap the home button until you have the option to start it)",
+    "reviews": [
+      {
+        "timestampMsec": "1304230049118",
+        "starRating": "4",
+        "comment": "Small and clean. Nice, if uber-simple is what you\\'re after.",
+        "commentId": "lg:AOqpTOEGtXfuupf9JTBx4ZmWKPxsaU2afsTid4T2kdW0S7G0k1tTI3oyzR3cwltb0TjNkichj4gN3hlNLvHtI2k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1289780722136",
+        "starRating": "4",
+        "comment": "I like it. It has potential. What id like to see is customizable notification bars, and an overall theme changer. Also, its a bit laggy.",
+        "commentId": "lg:AOqpTOG2lDoXDqoncXoOxw63A2fZwUXPZXW26SlcSfTuFwTZkn7iBNh6ogIdmdtd_dW0wPFz_9O4ENFqbXUQMVs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377788604438",
+        "starRating": "5",
+        "title": "Jos\\303\\251 A.",
+        "comment": "\\\"290813...g...interface...tryout...thanks...\\\"",
+        "commentId": "gp:AOqpTOFP8YDyfuJRfv8ekA6YUUdbpk4gxagWUL4H-tYq_vWHr68mytwGpXRGSvGSmfEMV2xz58PzrfI7NXP8cEQ",
+        "author": "Jos\\303\\251 A. Aponte-Marrero",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

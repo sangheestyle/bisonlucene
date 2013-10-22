@@ -1,0 +1,62 @@
+{
+  "title": "Brisbane Film Festival 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ferve.BIFF12",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "November 6, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Medium Maturity",
+  "creator": "FERVE TICKETS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ferve.BIFF12",
+  "extendedInfo": {
+    "installSize": "7.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Presented by Screen Queensland, the Brisbane International Film Festival (BIFF) is the stateâs premier film event, providing a focus for film culture in Queensland by showcasing the best and most interesting cinema from around the world. The BIFF2012 app lets you: Explore the program: - Browse the program by name, date, venue, and category - Browse âWhatâs Onâ at the festival daily - Shake the app on any program screen to take a chance - Check if sessions are Selling Fast or Sold Out - try not to miss out! - Read event information and watch film trailers - Find your way between venues with Venue maps Buy and download tickets: - Buy tickets securely with your credit card: anywhere, anytime - Buy passes and redeem films immediately - Go paperless: download tickets to be scanned at the cinema door - Add your films to iCal Schedule your attendance and share with friends: - Create a shortlist of events through Wishlist - Share events through email, Twitter and Facebook - Follow the festival Facebook and Twitter feeds Left your printed tickets at home? If you buy tickets using the same BIFF account details, you can retrieve all tickets on your Android regardless of how you purchased (counter, web or phone). About the developers: Ferve Tickets (previously known as eFirst) has been working with festivals in Australia for the last decade, setting up customised ticketing systems for a smooth, stress-free festival experience â for both staff and customers. About Brisbane International Film Festival: 12 days jam-packed full of films from around the world. Check out the latest and best in world cinema, documentaries, retrospectives, late night thrillers, animation, a short film competition and much more! Each year BIFF draws film enthusiasts to view an entertaining mix of local and international films, retrospectives, awards and colourful events that embrace the vibrant art of filmmaking. Since the first festival in 1992, more than 400,000 film-goers have immersed themselves in the BIFF experience. BIFF has grown over the past twenty years to become a well-renowned Australian festival, with the 2012 event taking place from November 14 - 25.",
+    "reviews": [
+      {
+        "timestampMsec": "1353034201624",
+        "starRating": "4",
+        "title": "Posters to gallery.",
+        "comment": "I don\\'t like that it saved the movie posters to my gallery! Otherwise it seems to work fine.",
+        "commentId": "lg:AOqpTOHosMD4PZDVhI_di40YLPmDQxjuKXd1hoIcktUPSl4HWu65ietASiB6jWfffI2ovNK0qAHfGInCNCAjvw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361624433925",
+        "starRating": "5",
+        "title": "BIFF 2012",
+        "comment": "Love the app!",
+        "commentId": "gp:AOqpTOFMEIV803SSibFylRGMw9OJC7c1uV4jQcjCSfEbKEQms_Yd4bJFlIJ2_bBCSNYqm3LrK3nyvheDHHAVnw",
+        "author": "Loc Pham",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352788548104",
+        "starRating": "5",
+        "title": "Biff 2012",
+        "comment": "Love the great app!!!",
+        "commentId": "lg:AOqpTOE5Eb_ljPDFvLP8oCX18Ai4emi2sfiaMTVZp9iUnDIAUZrBG9O-S6zN8pRBCGPyx8eGIksR9TxJBME8_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

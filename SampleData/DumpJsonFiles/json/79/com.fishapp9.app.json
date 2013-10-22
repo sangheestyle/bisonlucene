@@ -1,0 +1,39 @@
+{
+  "title": "Fishing Lessons",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fishapp9.app",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "December 22, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "2.8333333",
+  "contentRating": "Low Maturity",
+  "creator": "App9.org",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fishapp9.app",
+  "extendedInfo": {
+    "installSize": "323k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Whether you are a fan of fishing, fisherman or you just want to learn about fishing and to improve your knowledge, this app will help you.You have more than 20 videos explaining some basics and some more advanced techniques. You will see fishing in live action, catching some great fish and explaining how to do it.You will learn basics, how to prepare bait, prepare your rod and how to chose perfect bait.This examples will teach you how to catch some great fish like Carp, Shark, Mako Shark, Pirana and a lot more...Enjoy fishing and watch some fish!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

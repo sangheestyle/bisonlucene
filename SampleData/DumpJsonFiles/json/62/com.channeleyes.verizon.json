@@ -1,0 +1,35 @@
+{
+  "title": "Verizon Partner Program",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.channeleyes.verizon",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 14, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "ChannelEyes",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.channeleyes.verizon",
+  "extendedInfo": {
+    "installSize": "512k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Verizon Partner Program (VPP) Mobile Portal is an extension of Verizonâs Partner Relationship Management (PRM) Online Portal.  Itâs designed to allow easy access to key elements of PRM while Channel Partners are out in the field â and not necessarily able to access our online corporate system.  This âmobile sales toolâ is linked to Salesforce.com and is enabled through Single Sign-on Access.  In addition, it provides Partners instant access to key information such as:â\tIncentives, Spiffs, Promotions, Rebates, MDF, Contests, Financing offersâ\tRoadmaps: New features, release updates price changes and demo tipsâ\tSales enablers: battle cards, win wires, whitepapers and competitive tipsâ\tWhatâs new in Verizonâs PRM Portalâ\tEvents, Webinars and Education",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.channeleyes.verizon.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

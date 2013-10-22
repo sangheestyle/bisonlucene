@@ -1,0 +1,30 @@
+{
+  "title": "A second test app",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ellie.seven",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 17, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Example App Developer",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ellie.seven",
+  "extendedInfo": {
+    "installSize": "14k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This is the second test app. I hope you enjoy testing with it. Testing is fun.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

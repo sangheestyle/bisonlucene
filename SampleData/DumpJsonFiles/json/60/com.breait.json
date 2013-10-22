@@ -1,0 +1,46 @@
+{
+  "title": "Chapman Parking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.breait",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "October 10, 2011",
+  "version": "1.0.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Everyone",
+  "creator": "Chapman University",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.breait",
+  "extendedInfo": {
+    "installSize": "686k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Chapman's Parking App gives you up-to-the minute information on two of our campus parking lots.  See the number of spots available in the Lastinger and Barrera parking structures. Features include: - Quick access screen to view availability in two parking structures -  Ability to customize the Available Parking screen to show you the number of spots taken, or the number of spots still available -  For infrequent visitors a convenient map is provided showing the location of each structure, as well the ability to retrieve directions from your current location to a specific structure -  Detailed maps are provided showing the entrances to each structure as well",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1318360488029",
+        "starRating": "5",
+        "title": "Easy to use!",
+        "comment": "Great app that shows where I\\'ll find parking on campus. The map is good for people who don\\'t visit often.",
+        "commentId": "lg:AOqpTOHfgzvsiZxZbtuQ4prRMOvPDiXxiUVokeCip04LXOMyKOoXsB8fCppZZMagilxsY9FRUtqM43bAHVU7tSA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1318356752217",
+        "starRating": "4",
+        "title": "Nice",
+        "comment": "Now if only the sensors in the parking structures worked right!",
+        "commentId": "lg:AOqpTOHQWV6IlgJxKp0lo7PbY6zdNrON6ZOWeOsEYXUYgXQsYkas4wywrbCZ2YwXQEcAdy_njHGrX4aUgpKxAs4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

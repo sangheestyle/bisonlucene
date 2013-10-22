@@ -1,0 +1,245 @@
+{
+  "title": "DirecTV Remote+ Volume Plugin",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cognitial.dtvvoltest",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "1.5.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "74",
+  "rating": "3.9324324",
+  "contentRating": "Everyone",
+  "creator": "Cognitial Mobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cognitial.dtvvoltest",
+  "extendedInfo": {
+    "installSize": "297k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "EXCLUSIVE Volume plugin for DirecTV Remote+ Pro only from Cognitial Mobile!** ATTENTION **This app is a FREE PLUGIN for DirecTV Remote+ Pro from Cognitial Mobile.  You can try this plugin with only the free DirecTV Remote+ installed to see if it will work for you.  When Pro is installed, volume and mute can be controlled from within the main DirecTV Remote+ Pro app!You MUST have either DirecTV Remote+ Free or Pro installed to open this app.  See those apps for supported models and be sure to get the other app installed and working before attempting to use this app.MOST people will be unable to control volume with ANY app.  That is just the way it is.  See website for a detailed explanation.  Essentially you either need a network-controllable television, a network-to-IR device, or a phone/tablet capable of emitting IR signals.  Unfortunately all of these are somewhat rare.  I'm the only DirecTV Remote developer who has even attempted volume control and the reason is simple: It's much easier said than done!For more info and help on configuring this plugin, see the FAQ at http://goo.gl/42uoav** CURRENTLY SUPPORTED DEVICES **USING IR:* Global Cache iTach Net-to-IR device* Any IR device connected through HomeSeer* Built-in IR on HTC One devices (supports IR learning)* Built-in IR on select Samsung Galaxy devicesUSING NETWORK (IP CONTROL):* Panasonic Viera televisions (2011+)* Philips televisions (2011+)* Samsung televisions (C series +)* Sharp Aquos televisions* Denon or Marantz AVRs (newer models)* Any Onkyo AVR that can be controlled with OnkyTroller (*requires OnkyTroller to be installed!*)* Yamaha AVRs (newer models)* More will come eventually.  Send me an email to add yours to the list... but ONLY if it can be controlled over a network.  There is no way I can guarantee that support will ever be added for your brand but I will try.********************If you find this app useful please rate & review it.  Normally I wouldn't say that the more ratings I get the more I will update it, but with a project like this that is pretty much the case.  Low interest means little incentive to improve on it.********************** REQUIREMENTS **1) Working installation of DirecTV Remote+ (Free or Pro)* from Cognitial Mobile.  If you do not have either app installed, you cannot run this app at all!2) An SD card (removable or non-removable) must be installed so that this plugin can retrieve your DirecTV Remote app settings.3) A supported device as listed above.* This plugin app will still allow you create and test volume profiles even if only the free version is installed but please note that they only function from the PRO version of the DirecTV Remote+ app.AGAIN:  MOST people will not be able to control volume from any app due to technological limitations.  This is not my fault and there is nothing I can do about it.  People who can use an app to control volume probably already know this.  If you are not sure, then you probably cannot.Special thanks to:* Laurent Jedeloo (\"OnkyTroller\" developer)* Andreas Pillath (\"AVR-Remote for Denon/Marantz\" developer)* Ed N., David B., Mike W., Kelvin N., Doug R. and MANY OTHERS for helping test the app--------------DirecTV, Remote, Direct, TV, AVR, Satellite, Plugin, Volume--------------",
+    "reviews": [
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1377737741703",
+        "starRating": "5",
+        "title": "Droid bionic works great",
+        "comment": "I love this app works great I have it also configured to work with my global cache wifi2ip it controller. As long as your HD consoles are set with static IPS you should have no problem scanning and finding all the HD consoles on your network. I love changing my roommates channel from my room and he thinks he did it lol love this app",
+        "commentId": "gp:AOqpTOHYWorD61cqqBjj8HpXIAAlN-1q9p190gA_g43N4RlcO0JjVz51XY67fohx_VIQdNmbDpQ91cKVKq06l8E",
+        "author": "Gerald Washabaugh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1378582049570",
+        "starRating": "5",
+        "title": "Great plug-in",
+        "comment": "It lets need control my other devices with the IR blaster.  Exactly what I was looking for.",
+        "commentId": "gp:AOqpTOEPerP7vGTMS7XRXbMoACswQHG1gNmG1hbrbAxkksIZojgW-pU_EkrIuWz8dd4n33jFD7r8e-ZfCfUpoY8",
+        "author": "Colin Cole",
+        "authorURL": "http://lh6.googleusercontent.com/-0kumX9l7hwo/AAAAAAAAAAI/AAAAAAAAAC0/nhKJ5ALTXLA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-0kumX9l7hwo/AAAAAAAAAAI/AAAAAAAAAC0/nhKJ5ALTXLA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1376855764313",
+        "starRating": "1",
+        "title": "Disappointed",
+        "comment": "Does not control the volume for onkyo receiver...works fine in the onkyo remote app but not your plug-in",
+        "commentId": "gp:AOqpTOHxh16ThPk4Xw6qgJ_qgsqKphynFzgdLplEyQbhZ-wEPfXGiWfcDt-_C6jSZgiXrGD70Pt3Z9gc6ihuoY8",
+        "author": "Justin Kalman",
+        "authorURL": "http://lh5.googleusercontent.com/-NJi5t7eUiOU/AAAAAAAAAAI/AAAAAAAAANI/eLe5_6dOBlQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-NJi5t7eUiOU/AAAAAAAAAAI/AAAAAAAAANI/eLe5_6dOBlQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1370660253958",
+        "starRating": "5",
+        "title": "Great concept!",
+        "comment": "Just wish I could get it to work.  Tried using app with my GS4. Was worth the time it took to download, just wish it would have worked.",
+        "commentId": "gp:AOqpTOH7ab2Hjc9DQnprkW0Zn3PHGlhupkp9TQTjMVx2KiYEMugC_WDqht2vD-T-EDAlwLvPcCjLL6hgpClJHVk",
+        "author": "Lowell Stafford",
+        "authorURL": "http://lh3.googleusercontent.com/-T-5s0Eruc2g/AAAAAAAAAAI/AAAAAAAAABM/UnXZ6N3ZaWk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-T-5s0Eruc2g/AAAAAAAAAAI/AAAAAAAAABM/UnXZ6N3ZaWk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1371152637081",
+        "starRating": "4",
+        "title": "Great for when you can\\'t find the remote!",
+        "comment": "Fun app. If you\\'re like us you misplace the remote all the time, but now you can call it!",
+        "commentId": "gp:AOqpTOFEWt5HbW_fV2Ku6CeY1FiDez7CPzQwf-R8ylxAHCwP33K51K6_XsBwhLQ4B_Bvq7TD5GtDzRCRnvuPKqY",
+        "author": "April Finney",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1371199514073",
+        "starRating": "5",
+        "title": "happy",
+        "comment": "luv it good it works",
+        "commentId": "gp:AOqpTOEpIiaJBgCDDZp_1OcTHo53mRVXiyo5DGqszmRB9eKXtKfMh2lUZ6B4X0VoRHtTHNL9bJQsWjhWlcTmcng",
+        "author": "Larry Evans",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1375893902268",
+        "starRating": "3",
+        "title": "Sadly no support for LG Optimus G Pro",
+        "comment": "Please add support for LG Optimus G Pro with the built in IR blaster.",
+        "commentId": "gp:AOqpTOHMwsSAlKxakoJQzt4kptdylmL2-Pf0jHdDvJUBN8-96kxU0KgXAm-IA3Zfy9mjvOTH97l0ORjXllw3lik",
+        "author": "Mark Timlin",
+        "authorURL": "http://lh3.googleusercontent.com/-Y9vOkH3YgMI/AAAAAAAAAAI/AAAAAAAAA20/-w8GHJeAI2I/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Y9vOkH3YgMI/AAAAAAAAAAI/AAAAAAAAA20/-w8GHJeAI2I/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1372297810419",
+        "starRating": "5",
+        "title": "Closes the loop",
+        "comment": "This is amazing. It closes the loop on what is already by far the best remote app I have used.  All we need now is voice commands.",
+        "commentId": "gp:AOqpTOGkXuaj_AyEzZmVf4usvo8HF0sQkZaWQnVtBOyiGzaH03TUMIosnmrfLyUyh1RM2RlFJnbGUjcbfRS4P14",
+        "author": "Jesse S",
+        "authorURL": "http://lh3.googleusercontent.com/-80axsE3-AWA/AAAAAAAAAAI/AAAAAAAAARY/GpwDI9mX46A/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-80axsE3-AWA/AAAAAAAAAAI/AAAAAAAAARY/GpwDI9mX46A/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1374493642318",
+        "starRating": "5",
+        "comment": "\\\"GREAT\\\"!!!!!!",
+        "commentId": "gp:AOqpTOEqMhW_Q-7y2HbZmENiCItoWWfIRlnzqtzPwFwT-jK-zwD3fdvNe2EgUISxKvYEoo9eMJxFBDm97az14uE",
+        "author": "Jon West",
+        "authorURL": "http://lh4.googleusercontent.com/-72YnyGC1G3E/AAAAAAAAAAI/AAAAAAAAACE/3C4La86u5bg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-72YnyGC1G3E/AAAAAAAAAAI/AAAAAAAAACE/3C4La86u5bg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1372226620672",
+        "starRating": "5",
+        "title": "Awesome plug-in!!",
+        "comment": "Thank you, worked perfectly for me. ( Sharp LCD & HTC One )",
+        "commentId": "gp:AOqpTOGI-xZi_ccWe8htgB4AztO-6r9TMEb_omDX9am0w85MZ9wXAC5nKK-hsV_8X6q5CeSN3wr9Ahdf1BjHdPQ",
+        "author": "Jason Christ",
+        "authorURL": "http://lh4.googleusercontent.com/-M_D5VLglzbw/AAAAAAAAAAI/AAAAAAAAATU/IPqwilr_IsE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-M_D5VLglzbw/AAAAAAAAAAI/AAAAAAAAATU/IPqwilr_IsE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1375926224355",
+        "starRating": "1",
+        "title": "Bad",
+        "comment": "Don\\'t work",
+        "commentId": "gp:AOqpTOHJXKtPeeL8BiB2iYYOwe3I6BbeMIKGBqa65DNImm7KyYIuChMiBI7dfY1oqM_-MSSOEfpSS3t44p8hguM",
+        "author": "daniel spears",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1371269114220",
+        "starRating": "5",
+        "title": "Excellent add on",
+        "comment": "This app keeps getting better and better! With this Samsung tv the real direct tv remote doesn\\'t change inputs. This app lets me do everything from one app",
+        "commentId": "gp:AOqpTOG4O-NE_1hy9iDP0Ah-40bDAerFX2whjSw7Rd9O8BCuxyUkloCsU5LOQpZCfh1dF5Te-grm2lbOfUdTu18",
+        "author": "Martez Ward",
+        "authorURL": "http://lh6.googleusercontent.com/-5hVAliWl4do/AAAAAAAAAAI/AAAAAAAAANI/mwttBR0r7iI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-5hVAliWl4do/AAAAAAAAAAI/AAAAAAAAANI/mwttBR0r7iI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1376019444762",
+        "starRating": "1",
+        "comment": "Completely non functional",
+        "commentId": "gp:AOqpTOHcdaFPwFttgCSTLgjqFtMBs8ybH0RBHSn7TbPCnIE-Jk1jAN9ihpmkEICz56Nx9-NOp91nJYg_JaPWTMM",
+        "author": "Brian Brinegar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1375888958926",
+        "starRating": "1",
+        "title": "Don\\'t work",
+        "comment": "Nothing about this app is good, aside from it not working, it\\'s ugly",
+        "commentId": "gp:AOqpTOFvtdrzD0sDMhKbWLqtjACNOanqIdnqqiUhKZzw2k6zEP3cDXrql7Tsm8aBrUd_hUXc9oByAstkDpV9vMk",
+        "author": "MICHAEL COHEN",
+        "authorURL": "http://lh6.googleusercontent.com/-LhvKohkG334/AAAAAAAAAAI/AAAAAAAAA7M/MFksBNeDwSg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-LhvKohkG334/AAAAAAAAAAI/AAAAAAAAA7M/MFksBNeDwSg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1375802746435",
+        "starRating": "2",
+        "title": "H",
+        "comment": "No volume control",
+        "commentId": "gp:AOqpTOEg2eyPA8XGiNRrRBnHH5FlmqZCbdqhSvtdSC-dOYE8AYe67qSkoD7EwG32iAVnOHLjJJBfzRRqNoNCVKc",
+        "author": "Kevin Murphy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1375232604680",
+        "starRating": "4",
+        "comment": "Official!",
+        "commentId": "gp:AOqpTOFQi3BEEnfbmpV1kfUenFw1o4t6JgmLqxp3NjH3Mf8USMkJP2AYyw4pWy9NeQOKFqzOYqxG5MSelfNDtBY",
+        "author": "Derrick Anthony",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.1",
+        "timestampMsec": "1370267633644",
+        "starRating": "5",
+        "title": "Works great onHTC one",
+        "comment": "Had a little trouble learning the codes at first , but once I found the proper alignment, the I.r. codes learned and worked fine.  This compliments the remote app very nicely.",
+        "commentId": "gp:AOqpTOED0F_mBqxmcCcTnWLcwl20wT_RGjSy_APLhWioyg5cUm5I961a8YLPfbogrEnsX_NFRpCJgqYbYvyF5wc",
+        "author": "John Fitzgerald",
+        "authorURL": "http://lh5.googleusercontent.com/--AG2FzXRal0/AAAAAAAAAAI/AAAAAAAAACA/TEqRUV3Tk0M/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/--AG2FzXRal0/AAAAAAAAAAI/AAAAAAAAACA/TEqRUV3Tk0M/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1369406088945",
+        "starRating": "3",
+        "title": "Need Vizio",
+        "comment": "Please add vizio. I tried IP address but no luck. Seems like a great add on to remote. I have tried putting my IP address and phone number in and it just doesn\\'t work",
+        "commentId": "gp:AOqpTOHt4miewZzC1sLEflp8cTtsDZwbEAqsNLO6wDa9usTB7MRdn4ZoJj4djNVWSIvf3iyCCmnc0Z7cS-l9xFI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.2",
+        "timestampMsec": "1367811512362",
+        "starRating": "5",
+        "title": "Great app, no use for me.",
+        "comment": "Tried to make my Samsung blu ray work. No luck, then tried with my samsung tv. Got a message on screen allowing a new remote but that was it. No response. 5 stars for the effort and the hope dvlpr can continue working on it for other networked avr devices. Thanks for all your great apps!",
+        "commentId": "gp:AOqpTOGm8DtOzSEbKi3y5x4rjGQXHHQ852XEh4lnzIl_ehLwoXjXoQspBg05EKaIKfsh7rj7ASdO6lLdEh-AQ2w",
+        "author": "Nathan Froehle",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.2",
+        "timestampMsec": "1364353812337",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "as a DirecTV tech, I can tell you the only other thing missing is a AVR input select button, then there would be no need for any other remotes :)",
+        "commentId": "gp:AOqpTOEMDFwjcI6f_PE4RBFi_mz23U9KI-4cDPxw1diZhhPS8IFsPsgS9ewdJjXe7c-6QaitqKLMwzDz7o86aP4",
+        "author": "Justin Pearson",
+        "authorURL": "http://lh6.googleusercontent.com/-ALh2G1ZkF8k/AAAAAAAAAAI/AAAAAAAABYs/d7al-tjM4Cg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ALh2G1ZkF8k/AAAAAAAAAAI/AAAAAAAABYs/d7al-tjM4Cg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

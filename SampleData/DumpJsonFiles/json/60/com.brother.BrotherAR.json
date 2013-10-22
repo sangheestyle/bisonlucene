@@ -1,0 +1,43 @@
+{
+  "title": "Brother AR",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brother.BrotherAR",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "October 29, 2012",
+  "version": "1.4.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "4.2222223",
+  "contentRating": "Low Maturity",
+  "creator": "Brother International Singapore Pte Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brother.BrotherAR",
+  "extendedInfo": {
+    "installSize": "16M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Introducing the first 3D mobile Augmented Reality (AR) application to experience printers and Multi-Function Centres at a different level from Brother. This is a free application that enables you to find out more about Brother products in an interactive way. Learn more about the benefits of Brother products for both home and work environment that you have never experienced before.Highlighted feature: Virtual Setup in AR modeWhat is \"Virtual Setup\"?- Allows you to simulate setting up the printer at your home/office- It gives you a good idea of how the Brother product will fit into your space before buying it!Brother AR v1.1 requires Android devices with:* Minimum Android and OpenGLES2* ARMv7 supported processorDevices currently not supported (hardware restriction)- HTC Dream (a.k.a G1)- HTC Magic (a.k.a Sapphire or myTouch 3G)- HTC Hero (a.k.a G2 myTouch)- HTC Tattoo- HTC Wildfire- Samsung Galaxy Mini- Samsung Ace GT-S5830- Sony Ericsson Xperia x10 miniRecommended Android Devices for best AR experience:This list gives a brief overview of better known Android devices that are supported, however by far does not hold all devices. Please understand that we cannot state all devices due to numerous variations and different names.* Samsung Galaxy S II* Samsung Galaxy Note* Samsung Galaxy Tab* HTC Sensation* LG Optimus 3D",
+    "reviews": [
+      {
+        "timestampMsec": "1347416418886",
+        "starRating": "5",
+        "title": "Cool app",
+        "comment": "nice app to let me see how the printer will look on my desk",
+        "commentId": "lg:AOqpTOHstdMmkZEoWJV9UxCQ6-UHr5bAL6f6A5AydSmRvHOnMsnA93sH8Y5ja3YzJtGh6JRvS49JLQWO_wc7qvo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_SURFACE_FLINGER",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

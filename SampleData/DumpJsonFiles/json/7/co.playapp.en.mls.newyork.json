@@ -1,0 +1,47 @@
+{
+  "title": "Red Bulls App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=co.playapp.en.mls.newyork",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "May 2, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "8",
+  "rating": "4.25",
+  "contentRating": "Everyone",
+  "creator": "PlayUP",
+  "creatorURL": "https://play.google.com/store/apps/details?id=co.playapp.en.mls.newyork",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Weâre New York fans like you. If you're a fan, The Unofficial Red Bulls App gives you live scores for all teams in the league, team news, fixture, standings, soundboard, club tweets and more! Whatever you call your team (new york, red bulls, metro, rbny, nyrb, sports, football, mls, major league soccer), this is the app f",
+    "reviews": [
+      {
+        "timestampMsec": "1342897075426",
+        "starRating": "4",
+        "title": "Needs roster",
+        "comment": "Love this app. 5 stars if had roster along with the other cool features. Roster please! Bionic",
+        "commentId": "lg:AOqpTOF2aCS0LJ2YuhLMGkB4uBE-AMpjlhvpdmuWTQOY7cp3NjEDGhFn9lkPqHr7iUxbiHTxn5i4rykPPxwgQXM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347746391120",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Nice App",
+        "commentId": "lg:AOqpTOELBbYNfdwFhoAd972qmEwOMuZ3AUkX3PicWZUk9w3dYN9OdiXc17uwsXmRLVhVkLKGRCHVh3MI1jFHLYY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

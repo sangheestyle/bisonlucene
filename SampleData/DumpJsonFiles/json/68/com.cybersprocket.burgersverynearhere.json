@@ -1,0 +1,39 @@
+{
+  "title": "Burgers Very Near Here",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cybersprocket.burgersverynearhere",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "June 12, 2012",
+  "version": "0.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cyber Sprocket Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cybersprocket.burgersverynearhere",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Locate the burger places closest to you.  Uses GPS and the Very Near Here database to find the 25 closest burger joints to where you are standing.   Features* Larger phone number with 1-touch loading to dialer.* Brings up website for location if site is listed.* Shows distance from current location.We are still in beta.   Please let us know how we can improve the app via our contact us form at www.verynearhere.com.Tags:burgers, burger finder, burger locator, burger joints, burger places",
+    "reviews": [
+      {
+        "timestampMsec": "1339472638317",
+        "starRating": "5",
+        "title": "simple and useful",
+        "comment": "Great app for charleston.  Can\\'t wait for more cities to come online!",
+        "commentId": "lg:AOqpTOH7lUqU1MXX0vs19Gi1UrHeHahvmgKNXVanryA-zgQlqneILIueRiuy-izT7itSlpUqey3tSaIz0CJiXg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.PERSISTENT_ACTIVITY",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

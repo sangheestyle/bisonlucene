@@ -1,0 +1,62 @@
+{
+  "title": "XML",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=xmltutorial.paq",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "April 27, 2013",
+  "version": "2.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "16",
+  "rating": "3.5625",
+  "contentRating": "Low Maturity",
+  "creator": "Android mob",
+  "creatorURL": "https://play.google.com/store/apps/details?id=xmltutorial.paq",
+  "extendedInfo": {
+    "installSize": "103k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "This application is a very complete tutorial on XML, a widely used language for exchanging data between applications and web portals.It is divided into three parts to facilitate learning.The first part is an introduction to and explanation of XML syntax.The second part is more advanced, with tools and utilizades of XML.The third part explains how to deal with JAVASCRIPT XML format data.XML BASIC TUTORIAL======================- XML introduction- XML utility- XML structure- XML syntax- XML elements- XML attributes- XML validation- XML well-formed- XML valid- XML display- XML display with CSS- XML display with XSLTXML ADVANCED TUTORIAL======================- XML NAMESPACES- XML CDATA- XML ENCODING- XML SERVER- XML DOM ADVANCED- XML TECHNOLOGIES- XML EDITORSXML JAVASCRIPT TUTORIAL=========================- XML HTTP REQUEST - XML ANALYZER- XML DOM- External XML web View- Internal XML web View- XML HTML DATA- ML Programs",
+    "reviews": [
+      {
+        "timestampMsec": "1374148056047",
+        "starRating": "2",
+        "title": "without internet useless.",
+        "comment": "Clear Layouts but without internet useless.",
+        "commentId": "gp:AOqpTOFtQjmTf4GTK2vxFJVfPCx4rwBuTuufVAbgqmlsTVPW_Q1ZbrCcPQcfKHOxVtX2QhZfLYdkzF3_55IyAh8",
+        "author": "Thiyagaraaj Mp",
+        "authorURL": "http://lh3.googleusercontent.com/-mpnYxKVqp9g/AAAAAAAAAAI/AAAAAAAAB_A/R_jEnqcp910/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-mpnYxKVqp9g/AAAAAAAAAAI/AAAAAAAAB_A/R_jEnqcp910/photo.jpg"
+      },
+      {
+        "timestampMsec": "1343102839884",
+        "starRating": "2",
+        "comment": "Garbage",
+        "commentId": "lg:AOqpTOHqjO-ItDNOjhwQtHDLFO59WGu9NjB3sYl6QcENQtJBC3bYJnwQmKHK3q-7rA2boYX6juGLl79gm2i-Ck8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335184926026",
+        "starRating": "1",
+        "title": "it\\'s a website",
+        "comment": "It\\'s not really an app but a website and thus needs net. If I wanted to browse the net for info, I\\'d use a browser and type in w3schools or similar and not a separate app...",
+        "commentId": "lg:AOqpTOFCASsGSPI6m5EOmvF4qfqZwRnMLOfGgedUO1a7Z0HCYvvdU_Mj25xQYuGSoi4GAD2MS8S83tbuEOQwDyY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352087498448",
+        "starRating": "4",
+        "title": "Good app",
+        "comment": "Crappy GPS permissions",
+        "commentId": "lg:AOqpTOGFAGJxvZVpUFlF3QWu5_PApdvX4Ix-t-ZyNU13lRv9NnK2xG3nYoiP7sTOYn288KEhtt7zFqZv9DTB6O8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

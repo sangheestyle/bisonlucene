@@ -1,0 +1,46 @@
+{
+  "title": "near By Finder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fnt.nearbyfinder",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "April 8, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "FNT Software Solutions Pvt Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fnt.nearbyfinder",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is an Amazing App which provide you the nearby ATM,DOCTOR,BANK,AIRPORT,HOSPITAL,SHOPPING MALL,THEATERS,MOVIE MALL,CAFE,BUS STATION,TRAIN STATION....etc so on....nearBy Finder Provides you to view all the places which you looking for in map view by which the user can get a clear view about what he is actually searching for..nearly 40+ categories are available in nearBy Finder...",
+    "reviews": [
+      {
+        "timestampMsec": "1363533120067",
+        "starRating": "5",
+        "title": "good work",
+        "comment": "Nice app to find all near by services, excellent work add more features in the advanced versions..",
+        "commentId": "gp:AOqpTOEbN8BUZj_m8DEbegmnuobprvfyNs6sPCG5QKJe8-aQftwL3rGcBdJ9dq7lCG07WbicZ8W5YFHHI3c_1jk",
+        "author": "Guna Sekaran",
+        "authorURL": "http://lh3.googleusercontent.com/-g1RZTHD2tNg/AAAAAAAAAAI/AAAAAAAAAGo/81JpBs_fDQ0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-g1RZTHD2tNg/AAAAAAAAAAI/AAAAAAAAAGo/81JpBs_fDQ0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "App Locker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.caapps.applocker",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "DevApps9",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.caapps.applocker",
+  "extendedInfo": {
+    "installSize": "539k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "App Locker can lock Messages, Contacts, Gmail, Facebook, Gallery, Market, Settings, Photos, Videos, Viber Calls and any app you choose, with abundant options, protecting your privacy. With the help of Go App Locker, you may:Never worry about a friend borrow your phone to play games again!Never worry about a workmates get your phone to have a look again!Never worry about private data in some apps may be read by someone again!Never worry about your kids may changing phone's Settings, paying games, messing up it again!â¢ Protects any apps using password â¢ Locks incoming or outgoing callsâ¢ Lock system Settingsâ¢ Lock Google Play Storeâ¢ Quick lock switcher on status barâ¢ Re-lock policy: allow short exit, no need to unlock againâ¢ Prevent apps from being uninstalledâ¢ App Locker can be prevented from being uninstallPlease share this app with your friends and followers on your preferred social media network, so we can make it even bigger and better. Thank you and please remember, if you have any questions or suggestions, just send us an e-mail to us.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.READ_LOGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

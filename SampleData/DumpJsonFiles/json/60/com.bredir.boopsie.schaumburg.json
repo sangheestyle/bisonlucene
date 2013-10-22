@@ -1,0 +1,42 @@
+{
+  "title": "Schaumburg Twp. District Libra",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.schaumburg",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "November 15, 2012",
+  "version": "4.5.90",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.schaumburg",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The library services you need and want are now conveniently accessible from your mobile device!Search the catalog and place holds. Access your account to check due dates and renew items. Download eBooks or eAudiobooks directly to your smartphone or tablet. Get library hours, locations, and directions. Ask a librarian for help. Check our schedule of upcoming events. Connect with us on Facebook, Twitter, and Youtube.Enjoy!",
+    "reviews": [
+      {
+        "documentVersion": "4.5.90",
+        "timestampMsec": "1361405076684",
+        "starRating": "5",
+        "title": "Awesome app!",
+        "comment": "I can renew books more easily with this app then on a computer.",
+        "commentId": "gp:AOqpTOFK-oBdbNIWXJ15iHs0Aki5nOnzTHcAHqrn_tvTAHEGlITQo76LlIWBDJjgnwlQtgi8WXZgfWiXaBfw1w",
+        "author": "Christine Smith",
+        "authorURL": "http://lh3.googleusercontent.com/-WbAqcRY57qU/AAAAAAAAAAI/AAAAAAAAAUo/3BPs8_6bou0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-WbAqcRY57qU/AAAAAAAAAAI/AAAAAAAAAUo/3BPs8_6bou0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

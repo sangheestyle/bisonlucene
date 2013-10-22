@@ -1,0 +1,60 @@
+{
+  "title": "SPYoid(Spy Video Recorder)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cepoid.spyoid",
+  "category": "Photography",
+  "price": "$0.99",
+  "datePublished": "January 1, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Cepoid",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cepoid.spyoid",
+  "extendedInfo": {
+    "installSize": "125k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Spyoid is a video and audio recorder. Record any video and or audio virtually undetected.Features:*Easy to use.*Automatically start recording.*Silent-No sound.*Fake screen.*Files saved to folder-SDCard.*Audio and Video Recording.*Enable airplane mode to stop phone calls while recording.*Widget support.*Unlimited recording.****More Features to come****Cepoid's SPYoid widget enables you to easily record stealth audio and video from your Android phone. Once installed on your home screen, the widget activates at one touch, immediately beginning to record. As with normal video recording, a video preview is displayed on your Android screen. But by tapping the corner of the screen, you can conceal the preview behind a false image of you home screen. To the casual observer, you won't appear to be recording anything. You can record for as long as you need to, while the phone's power supply holds out. To prevent interruptions, you can switch your phone to airplane mode, holding all calls while it records. The audio and video files you create using SPYoid are saved discreetly to a folder on your SDCard.KW:Spy,Spyoid,Spy Camera,Spy Video,Hidden Recorder, Hidden CameraAny questions or problems with the app, please contact us at info@cepoid.comÂ©2012 Cepoid",
+    "reviews": [
+      {
+        "timestampMsec": "1335719092459",
+        "starRating": "1",
+        "title": "no refund lol...",
+        "comment": "Won\\'t open crashes on start ERROR screen is all i see....lg mytouch 739",
+        "commentId": "lg:AOqpTOFGCUbYB6eqY2-epXoQ-aUuVZMrDKvNolbt9p6DOuC4ctBSA-idmPgM-0kgmNyjjfz-twpx_asDXWIymw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1306514892706",
+        "starRating": "1",
+        "title": "xperia Neo",
+        "comment": "I can\\'t open it.",
+        "commentId": "lg:AOqpTOFG6NFpZj2FBNe939xJXzIeLiec0wxD6c3KgQN88rc3nH-6PaUPeM_28wxA_Nevc5H1Pq_LQZQngv4vVw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1306512183621",
+        "starRating": "1",
+        "comment": "Won\\'t open",
+        "commentId": "lg:AOqpTOElcrQ2bykBAFPcOcVp4gfNkFtAKoa9hSoJSLRVML-BxjD6rjC-JnleydH604RH7Dn2FbFgwkOduJ2dlg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.INJECT_EVENTS",
+      "android.permission.DEVICE_POWER",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

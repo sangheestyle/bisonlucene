@@ -1,0 +1,240 @@
+{
+  "title": "ANT Radio Service",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsi.ant.service.socket",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "September 6, 2013",
+  "version": "04.02.00",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "17907",
+  "rating": "3.9633105",
+  "contentRating": "Everyone",
+  "creator": "ANT+",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsi.ant.service.socket",
+  "extendedInfo": {
+    "installSize": "142k",
+    "downloadsCount": "10,000,000+",
+    "downloadsCountText": "10,000,000 - 50,000,000",
+    "description": "The ANT Radio Service enables access to ANT wireless communication on your device*. ANT is an extremely power efficient wireless communications technology. When this service is installed it cannot be launched directly, but will be used by other applications to use ANT wireless communications, including ANT+â¢ enabled applications.*[use of ANT technology requires a supported phone or an adapter, see hardware requirements below]One of the largest uses of ANT is the ANT+ network of devices. ANT+ is an established set of defined communication profiles which allows communication with many of the top sport, fitness and personal health applications such as a heart rate straps, running foot pods, cycling power meters, weight scales, blood pressure monitors and more. ANT+ enabled applications typically also require downloading the ANT+ Plugins http://play.google.com/store/apps/details?id=com.dsi.ant.plugins.antplus.To learn more about: -ANT and ANT+ http://www.thisisant.com-ANT on Android http://www.thisisant.com/consumer/ant-101/ant-in-phones/-Devices which support ANT http://www.thisisant.com/directory-Developing ANT-enabled apps http://www.thisisant.com/developer/ant/ant-in-android/Some popular apps enhanced with ANT+:-My Tracks-Endomondo-Garmin Fitâ¢-Run.GPS Trainer UV-IpBike, IpWatts, IpPeloton, IpSmartHr-Selfloops-SportyPal-MapMyFITNESS/RIDE/RUN/WALK+/HIKE/DOGWALKHARDWARE REQUIREMENTSFor detailed requirements visit http://www.thisisant.com/consumer/ant-101/ant-in-phones/You will need one of the following hardware configurations to connect ANT+ devices:1.\tA device with native ANT support. Many models of phones include built-in ANT technology including models from Samsung, HTC, Motorola, and Sony/Sony Ericsson (for an official list of models visit http://www.thisisant.com/consumer/ant-101/ant-in-phones/).2.\tAn Android device with the USB Host feature (optional in Android 3.1 and up) and an ANT USB Stick (ANTUSB2 or ANTUSB-m) through a USB OTG cable or host A port. Requires the ANT USB Service.3.\tAn Android device with the USB Accessory feature (optional in Android 2.3.4 and up) and an ANT Android USB Accessory, such as a SelfLoops ANT adapter.FAQ: Why is this pre-installed on my phone?This service is pre-installed as a system application on phones that provide built-in ANT wireless support to help enable the full feature set of your phone. This is comparable to other system applications such as WiFi, Bluetooth, Camera, Contacts, Phone, etc. except with the added benefit of it being updatable to the latest version without a firmware update.  In the pre-installed scenario, Android will not let you uninstall the service as it is considered a \"system appâ. However, even if you don't plan on using ANT, you should know that the ANT Radio Service takes up very little space and will only run if it is invoked by an application.Why does this need the âNetwork communication- Full Internet accessâ permission?   The ANT Radio Service will never download or upload any data over the internet. This permission is only required because it is possible to install the ANT Radio Service on an Android Emulator (ie: for development purposes) in which case it requires access to internet sockets to communicate with an ANT USB Stick on the host Windows PC using the ANT Android Emulator Tools. This communication requires the INTERNET permission but only communicates with the local PC. Why does this need the âSystem tools- Modify global system settingsâ permission?   This allows initialization of whether ANT should be turned off or kept on when Airplane mode is entered.Please send any questions to info@thisisant.com as it is difficult to respond to all questions left in reviews.",
+    "reviews": [
+      {
+        "documentVersion": "4.02.00",
+        "timestampMsec": "1378447759730",
+        "starRating": "5",
+        "title": "Love This!!",
+        "comment": "Excellent add-on to enable the ANT+ hardware built into my mobile (Xperia Active). Perfect for running and cycling. Thxs.",
+        "commentId": "gp:AOqpTOEiVSwXzYPMFqwx9CpHqAy5Vi_ptN4SZeP-oRvuMZgR7BpdhKVhovHRotttmUgjc9sAQuJjAPVnqXQVsA",
+        "author": "Ultra Neo",
+        "authorURL": "http://lh3.googleusercontent.com/-tGa8RK8KFEw/AAAAAAAAAAI/AAAAAAAAFe4/O0osdZV4Sqs/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-tGa8RK8KFEw/AAAAAAAAAAI/AAAAAAAAFe4/O0osdZV4Sqs/photo.jpg"
+      },
+      {
+        "documentVersion": "4.02.00",
+        "timestampMsec": "1377993733123",
+        "starRating": "3",
+        "title": "no space in sony phones!",
+        "comment": "im using sony xperia nei v but there is no more in ternal space and it wouldn\\'t let me put it in the sd card",
+        "commentId": "gp:AOqpTOE2krUAk7dZUfwb5hjNC_wq25QYjszgcgsK7995Q9EvV_kBmOVLtECuAaDXwnwIns8-JAv1woPTgIyhGA",
+        "author": "Gabriel Leung",
+        "authorURL": "http://lh6.googleusercontent.com/-vRbldopKBTc/AAAAAAAAAAI/AAAAAAAAAbs/JZ9N7DBLymc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-vRbldopKBTc/AAAAAAAAAAI/AAAAAAAAAbs/JZ9N7DBLymc/photo.jpg"
+      },
+      {
+        "documentVersion": "4.02.00",
+        "timestampMsec": "1378354640890",
+        "starRating": "4",
+        "title": "100 per cent",
+        "comment": "This app really good",
+        "commentId": "gp:AOqpTOFoI-kRXNhnlxrb7p65MRz3IBE7pR4o8X7BCwapcG4FPBoiI_bGNYmyQke4a9NxGzf88Tz6-Go6WeiAOw",
+        "author": "john MCKAY",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.02.00",
+        "timestampMsec": "1378110628537",
+        "starRating": "5",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOEQ2VnyKo1sE_khjNWe1Eg9JSXr7iZG6p7eFe4YR3Dy44YY8fKuXSpXRbrhLsHKQL5bfJIRBXNOlYsu5w",
+        "author": "muhammad shukeer",
+        "authorURL": "http://lh6.googleusercontent.com/-5BkXaiWMrhk/AAAAAAAAAAI/AAAAAAAAALg/VCDj9FMyuWk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-5BkXaiWMrhk/AAAAAAAAAAI/AAAAAAAAALg/VCDj9FMyuWk/photo.jpg"
+      },
+      {
+        "documentVersion": "4.02.00",
+        "timestampMsec": "1378657143626",
+        "starRating": "5",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOEgjEbUOrRkLVd2sS_MBCTVlTa6nwbh9Nw-rm42JOB4cuhkE3-l9e3pIhRreIVRkg9pRyyjFmi5r5bFMA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.01.00",
+        "timestampMsec": "1376918096780",
+        "starRating": "4",
+        "title": "The defaults",
+        "comment": "This makes my phone usable and I know that, may be that\\'s why I didn\\'t uninstall it for few kb of internal memory!",
+        "commentId": "lg:AOqpTOHq84gEk9msVUzCTd_EWJ_3flRBTCE38v5tGktJCJS-m4SXnfDIRU5RmmBnisHol_b9Sh-VHtA7fU88pw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.01.00",
+        "timestampMsec": "1377565097602",
+        "starRating": "5",
+        "title": "\\320\\236\\321\\202\\320\\273\\320\\270\\321\\207\\320\\275\\320\\260\\321\\217",
+        "comment": "\\320\\230\\321\\201\\320\\277\\320\\276\\320\\273\\321\\214\\320\\267\\321\\203\\321\\216 \\320\\275\\320\\260 Xperia Ray \\320\\262\\320\\274\\320\\265\\321\\201\\321\\202\\320\\265 \\321\\201 \\320\\272\\320\\260\\321\\200\\320\\264\\320\\270\\320\\276\\320\\264\\320\\260\\321\\202\\321\\207\\320\\270\\320\\272\\320\\276\\320\\274 O-synce Heart2feel X. \\320\\222\\321\\201\\320\\265 \\320\\276\\321\\202\\320\\273\\320\\270\\321\\207\\320\\275\\320\\276 \\321\\200\\320\\260\\320\\261\\320\\276\\321\\202\\320\\260\\320\\265\\321\\202.",
+        "commentId": "gp:AOqpTOHbsReG2I2hEF4Xyla30ZI4MHj0ujqKwVIA7ayKbvF7rMIirLsFQM97QiZ69z6MRxGc4MhlL96exh0mjA",
+        "author": "Roman Arthur",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.01.00",
+        "timestampMsec": "1377949268617",
+        "starRating": "5",
+        "title": "Basically run..",
+        "comment": "Good frequency..",
+        "commentId": "gp:AOqpTOHvOwhxzc4CxWJr1WPd3UayiYi_LbKxEUeG8TVLtNrg1mV3rye4XTZuM09Vj64mC6w7_Brx2AWa1oUfhw",
+        "author": "Peija VRS",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.01.00",
+        "timestampMsec": "1377501436670",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Thanks",
+        "commentId": "gp:AOqpTOHfzm2C4rnEqdMhtHYMVLnaLEFwjhyCmofTKgJDmHf1RjB0iq3Bf9NLH5gcJyzXB23kAZLYBkf9BSBnBQ",
+        "author": "Mamun Proman",
+        "authorURL": "http://lh6.googleusercontent.com/-MRS2ZZHKZWs/AAAAAAAAAAI/AAAAAAAAADw/n6ise30u9_A/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-MRS2ZZHKZWs/AAAAAAAAAAI/AAAAAAAAADw/n6ise30u9_A/photo.jpg"
+      },
+      {
+        "documentVersion": "4.01.00",
+        "timestampMsec": "1378399089690",
+        "starRating": "5",
+        "title": "good",
+        "comment": "like",
+        "commentId": "gp:AOqpTOHLz5AjsCoh3KlBSJZOjN1mYVL45krYxlgFLPW7daRjNbp4_9oegFJeup37674rbk-M_mO7swwiY5WzIA",
+        "author": "maungsawayetun maungsawayetun",
+        "authorURL": "http://lh3.googleusercontent.com/-Pnj5yBCsqd4/AAAAAAAAAAI/AAAAAAAAABA/4jdfh5YlOuU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Pnj5yBCsqd4/AAAAAAAAAAI/AAAAAAAAABA/4jdfh5YlOuU/photo.jpg"
+      },
+      {
+        "documentVersion": "4.01.00",
+        "timestampMsec": "1377339779942",
+        "starRating": "3",
+        "title": "Sony xperia z",
+        "comment": "App installed but will it work on my device?",
+        "commentId": "gp:AOqpTOHntuFTa5jkyAfJRBqrIylS-hPUWRxGDBFdDQ5mZfjV8Giy1s5Stb5KeWiK9cxa2FOmr-utCZzPzKUsbQ",
+        "author": "Dennis Petersen",
+        "authorURL": "http://lh5.googleusercontent.com/-qbSeFajBzAU/AAAAAAAAAAI/AAAAAAAABIE/mqgxN3QpCSI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-qbSeFajBzAU/AAAAAAAAAAI/AAAAAAAABIE/mqgxN3QpCSI/photo.jpg"
+      },
+      {
+        "documentVersion": "4.01.00",
+        "timestampMsec": "1377033755686",
+        "starRating": "5",
+        "title": "Excellent but no endomondo",
+        "comment": "Endomondo should be scrapped from the list of apps that support ant+ , because they do not support generic ant+ on generic android.",
+        "commentId": "gp:AOqpTOE80rGP0OInkcBsS9M4ZlXrhZTySsGGTr7oIY0W6xjUIxIXcF3TtLxIcym0HaeRh1GCDRnpTbDR_XPhpQ",
+        "author": "Ard van Breemen",
+        "authorURL": "http://lh3.googleusercontent.com/-nVUxo_W1iEc/AAAAAAAAAAI/AAAAAAAAAAA/uJUAlZdwp04/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-nVUxo_W1iEc/AAAAAAAAAAI/AAAAAAAAAAA/uJUAlZdwp04/photo.jpg"
+      },
+      {
+        "documentVersion": "4.01.00",
+        "timestampMsec": "1378491314842",
+        "starRating": "5",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOE_Szi3QZaRuCKlYh09aaPjZF1w1jrl2G8GHQ23IGYpyfdMS9o2xydXxdBu0yQlF_s7axlOkLk6k94_gQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.01.00",
+        "timestampMsec": "1377866174209",
+        "starRating": "5",
+        "comment": "Ali",
+        "commentId": "lg:AOqpTOGp-PcG0edyptdGulyNuLV6TkYI9ARKT99RDBfU4L20n8J_gl7Mi55gXWiPt1HYoKxgf39nqq7jyGTdNQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.01.00",
+        "timestampMsec": "1377663512298",
+        "starRating": "3",
+        "comment": "Monu",
+        "commentId": "lg:AOqpTOEC2WqFtLgSEl6AqOBd9gJRlFKSNwomKp7OuLsR1-yca46UgcA8MIQ-UpjESMirSlxVE-WPD1kDmodxGw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.00.00",
+        "timestampMsec": "1378367487371",
+        "starRating": "4",
+        "title": "Should I update?",
+        "comment": "I\\'m not sure if I should update on my Xperia ion. It came internal when I bought it. This is why I\\'m concerned, based on some of the reviews posted once they updated they had various problems occur. For instance, it crahes, won\\'t connect WiFi, takes up too much memory, and others I can\\'t remember. Opinion? Thanx",
+        "commentId": "gp:AOqpTOERFxR93cmiHbF7Mm6tiswoherbW9fVRITz8Y0aAjFYwWzYGL9TTwev2cX-A48Ds67WNheaWMY9efCdkA",
+        "author": "Brina Dallum",
+        "authorURL": "http://lh6.googleusercontent.com/-Ga0lJN-J8Mg/AAAAAAAAAAI/AAAAAAAAACk/feRPh_TVw3U/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Ga0lJN-J8Mg/AAAAAAAAAAI/AAAAAAAAACk/feRPh_TVw3U/photo.jpg"
+      },
+      {
+        "documentVersion": "4.00.00",
+        "timestampMsec": "1370548376846",
+        "starRating": "2",
+        "title": "Love ant but update causes crash.",
+        "comment": "Love ant+, but recent update seems to crash while using with endomondo. Endomondo and music will stutter, then ant+ Icon disappears. have to rescan for devices to connect. Will increase star rating when fixed.",
+        "commentId": "gp:AOqpTOEIPk6pRZrYzOcXT7NgPL72SOk1qxSFulwt-eisG1iBPKBWHCYmRO035H8XiiwqRa0saRTxZKW2_NYDXQ",
+        "author": "Adrian Gandy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.00.00",
+        "timestampMsec": "1377724400218",
+        "starRating": "5",
+        "title": "Thanks Sony!!!",
+        "comment": "OMG the new update is so great! I cant wait until the next update will update the updated! Thanks Sony!",
+        "commentId": "gp:AOqpTOFwdl3sFt3WCMm2vywjQfrqrNPXdzZTBiuLgCJ2ej2q5KT-KXnJ4Zurj3ara4R3AET02sv7U-rKQ0esJw",
+        "author": "Aggeliki Bitzou",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.00.00",
+        "timestampMsec": "1377033618487",
+        "starRating": "1",
+        "title": "Third nip",
+        "comment": "I updated and the next day I have a strange pimple on my chin.",
+        "commentId": "gp:AOqpTOFJwernFNzXBfXX9Q3vw3cxN8UqZU25uWlk3fQXcMPD5fXnyg4QqAB1oVsI0ThcJU-1GYsfK2djO6GzNA",
+        "author": "Joel Piacentini",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.00.00",
+        "timestampMsec": "1376909303794",
+        "starRating": "5",
+        "title": "good",
+        "comment": "good",
+        "commentId": "gp:AOqpTOGMJsU81rnW76Fgxe7Oun_-0fN_9Uocr1UKHQ5plNK6bEO4r-_4Ck7SrdhByVjwDxU3axrVmLw-bF_U4A",
+        "author": "Mohseen Ansary",
+        "authorURL": "http://lh3.googleusercontent.com/-s7HS0D48I-E/AAAAAAAAAAI/AAAAAAAAALU/x0TSATCuv_Y/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-s7HS0D48I-E/AAAAAAAAAAI/AAAAAAAAALU/x0TSATCuv_Y/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.dsi.ant.permission.ANT",
+      "com.dsi.ant.permission.ANT_ADMIN",
+      "com.dsi.ant.permission.ANTRADIO",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_SETTINGS"
+    ]
+  }
+}

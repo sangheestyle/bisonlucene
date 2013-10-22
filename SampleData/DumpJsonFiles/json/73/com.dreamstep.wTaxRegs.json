@@ -1,0 +1,40 @@
+{
+  "title": "Tax Regs",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wTaxRegs",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 25, 2011",
+  "version": "0.10.13063.79431",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Tax Code",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wTaxRegs",
+  "extendedInfo": {
+    "installSize": "175k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Easy access to the Treasury Regulations on your phone. The short story, I got tired of trying to find the treasury regulations on the web so I created this app. If you like this app, you might also like our Tax Code app.",
+    "reviews": [
+      {
+        "documentVersion": "0.13063.79431",
+        "timestampMsec": "1357418860859",
+        "starRating": "5",
+        "title": "Thank you!",
+        "comment": "Nice.",
+        "commentId": "gp:AOqpTOFlLy9OHCxFA0XEweUQv3T5VmtSIB707kiOqI0PzW_UAOnD9dUvESFc0SlyNPk_bHuarcOp_DVb36gjl6g",
+        "author": "Kenneth Allen",
+        "authorURL": "http://lh5.googleusercontent.com/-JYIwrB_hFA8/AAAAAAAAAAI/AAAAAAAAAAA/YWSA97W06aY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-JYIwrB_hFA8/AAAAAAAAAAI/AAAAAAAAAAA/YWSA97W06aY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wTaxRegs.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Personal Finances",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.e1c.PersonalFinance",
+  "category": "Finance",
+  "price": "$4.51",
+  "datePublished": "August 28, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "15",
+  "rating": "4.133333",
+  "contentRating": "Low Maturity",
+  "creator": "Baksheev Nikita",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.e1c.PersonalFinance",
+  "extendedInfo": {
+    "installSize": "45M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Personal Finances software.The Personal Finances software is an efficient tool for accounting, analysis, control and planning of personal finances. The software includes four subsystems: accounting for income and expenses, mutual settlement of loans issued and procured, financial planning and  savings subsistem. A simple and intuitive interface allows any user, from advanced to new, to keep accounts and analyze finances. The work does not require an Internet connection. languages: Deutsch, English, EspaÃ±ol, FranÃ§ais, Italiano, PortuguÃªs, Ð ÑÑÑÐºÐ¸Ð¹, æ¥æ¬èª, íêµ­ì´, ä¸­æ.The income and expenses subsystem allows keeping accounts and analyzing the cash flow, constructing many reports and charts, answering such questions as  Â«How much do I spend per month on the average on â¦?Â» Â«What is the sum of income or expenses for the period?Â», Â«What is the balance now?Â», Â«How much was spent on the group of various expenses?Â», Â«What expenses or income are the most extensive?Â» Â«What income and expenses were incurred on the bank card wnad which were in cash?Â» and many others.The planning subsystem allows entering planned income and expenses for any date and based on this data seeing the monetary balance for any date. The planning subsystem also allows automatically forecasting changes in balance based on the previous periods. The changes in balance can be analyzed both through a table and through a chart. Based on planned data income and expenses can be accounted for automatically.The loans subsystem allows accounting and monitoring of loans issued and procured. If you enter the target repayment date, the system monitors based on lan repayment date, discovers overdue loans and their overdue time period. From the report on issued and procured loands you can at once call the borrower or send an sms. You can also take into account the sums received from loan interests. The savings subsystem is intended for accounting for deposits, sums reserved for specific goals or just reserved sums. When returning the funds out of savings you can take into account the sum of interest if the sum was put aside at interest. If the sums are put aside for a certain goal, the process of implementing the goal can be monitored.Keywords: household accounting, household finances, household budget, family budget, cost accounting, revenue accounting, 1C program, Platform 8 of 1C program, personal finances, family finances, personal budget, account manager, expense manager, finance manager, saving money, mobile finance manager, my expenses, my budget, budget planning, cost planning, accounting, budget, money, Zen, revenues, drebedengi (drebemoney), revenue calculator, costs calculator, coin keeper, expenditure monitoring, wallet, credit cards, purchases, expenses, cash registrar, shopping list, budget accounting, accounting, cash accounting, revenue accounting, cash accounting, expenditure accounting, personal finance monitoring, debts, debts and loans, settlements, financial calculator, financial planner, financial accounting, finances, mobile banking, credit cards, card balance, widget, easy money, financial assistant, expenditure accounting, budget planner, easy money, pocket money.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "com.e1c.mobile.permission.MAPS_RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

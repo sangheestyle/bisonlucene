@@ -1,0 +1,31 @@
+{
+  "title": "e2gStats Basic",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.expertise2go.e2gstatsbasic",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "October 3, 2012",
+  "version": "1.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "eXpertise2Go.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.expertise2go.e2gstatsbasic",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The e2gStats Basic app features an integrated collection of data analysis methods supporting course work and research activity in the social sciences, including business and education. The app and its documentation emphasize statistical analysis of data gathered through questionnaires.Twenty one data analysis methods, grouped into five analysis objectives are supported. These five analysis objectives include Descriptive Statistics, Hypothesis Testing, Correlation/Regression/Multivariate Analysis, Analysis of Variance, and Nonparametric Statistics.e2gStats Basic includes two data editors. The first editor presents the data in a grid format similar to a spreadsheet. The second editor is a simple, free format editor. Both editors support entry of small data sets and modification of data files created by the editors or imported from other software. The data format for both editors is comma separated values (CSV), so spreadsheets and database managers that export .csv files may also be used for data preparation. Input data may be created with a text editor. These externally prepared data files may be downloaded from the Internet or e-mailed to the Android device. An auxiliary file automatically created by e2gStats Basic stores optional data file subset definitions, the missing value definition, and a data file description. A computational capability allows calculation of new variable values, and variables may be added to or deleted from the data file.Output from each data analysis method is formatted as a Web page, and a share button allows this output to be e-mailed as an attachment by e-mail programs installed on the Android device. This feature provides a mechanism for printing analysis results or sharing them with others. In addition, two sample data files are automatically installed with the app. These files support the mini-course scenarios and allow immediate experimentation with the software.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "TTC Trip Planner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.webWidget.wTTCTripPlanner",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "June 20, 2013",
+  "version": "0.8.13051.22750",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "2.25",
+  "contentRating": "Everyone",
+  "creator": "Shaq Abid",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.webWidget.wTTCTripPlanner",
+  "extendedInfo": {
+    "installSize": "174k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "A one-click, simply brilliant way to plan your travels across the great city of Toronto. The TTC Trip Planner App can within seconds provide you with real time data about which bus or metro to take to get to your destination. A simple clean interface that provides an amazing user experience on Android devices!Download the App today and tell your friends about it!Nubius Technologies Inc Â© 2013",
+    "reviews": [
+      {
+        "documentVersion": "8.13051.22750",
+        "timestampMsec": "1305296946674",
+        "starRating": "1",
+        "comment": "P o S Crashes and freezes after search. Can\\'t go back. Have to reboot phone. Garbage.",
+        "commentId": "lg:AOqpTOF7BkE1NJFLVF25Uj9a_Lk9zkdyrHnTrzrngtnVDyKAvlAI62ADhH1ozi8yICRgNCxzHHjvXrtpeFp6vg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "8.13051.22750",
+        "timestampMsec": "1311015328843",
+        "starRating": "5",
+        "comment": "Works perfectly fine.. I love this app (Motorola Atrix)",
+        "commentId": "lg:AOqpTOFGrqOF6yhfG976r_1oQsL5bFj5mwA3u9e3M2Y4ANbchMY0GfiaRM3cRvO_bZbHJVmRrBRuKfxozEdm_Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.webWidget.wTTCTripPlanner.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Gas Very Near Here",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cybersprocket.gasverynearhere",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 3, 2012",
+  "version": "0.7",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cyber Sprocket Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cybersprocket.gasverynearhere",
+  "extendedInfo": {
+    "installSize": "3.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Find the gas stations closest to your current location. Uses your current GPS location and returns a list of the 25 closest gas stations. The database is updated weekly on our Very Near Here servers.Lists the name, phone number (click to dial), address, distance, and website link. Our initial release serves the Charleston SC metro area. More locations are being added every week. Email us at info@verynearhere.com and ask us to list your city!Initial release.",
+    "reviews": [
+      {
+        "timestampMsec": "1341338820740",
+        "starRating": "5",
+        "title": "Simple and useful",
+        "comment": "Nice app.  Very easy to use.  Really like the new icons and map.",
+        "commentId": "lg:AOqpTOFP5gLKDjC31i09k5-MUGglLpkL0MbAC7SDYzDi5D7mWu6UT7NhvRZZTzBUJEDwL7SIvfgHaIhAjRFYefk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341344893318",
+        "starRating": "5",
+        "title": "Hell yeah!",
+        "comment": "Simple and effective, no more fighting through gps menus!",
+        "commentId": "lg:AOqpTOErF2z_Mkw5xlMz8PTxyDUZWF3qYzN_a9iRIJaBUriWlZv_Bm-OS8F4SxBhH7jf5oLPwDr5YvGZYvLiGN8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.PERSISTENT_ACTIVITY",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

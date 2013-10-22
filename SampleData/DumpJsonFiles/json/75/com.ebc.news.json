@@ -1,0 +1,55 @@
+{
+  "title": "EBCNews",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ebc.news",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "July 19, 2013",
+  "version": "1.13",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "839",
+  "rating": "4.2979736",
+  "contentRating": "Medium Maturity",
+  "creator": "東森電視",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ebc.news",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Provide you newest and fastest news and video news. Fun place to go nearby.Keyword: ETTV, ebc, news, ettvnews, ebcnewsDevelop & Maintained by Sleepnova, Inc.http://www.sleepnova.org/?ref=EBCNews_Play",
+    "reviews": [
+      {
+        "timestampMsec": "1326479829190",
+        "starRating": "5",
+        "title": "\\350\\256\\232!",
+        "comment": "\\346\\226\\271\\344\\276\\277\\345\\245\\275\\347\\224\\250\\347\\232\\204app",
+        "commentId": "lg:AOqpTOEr1A2QqWS_ibctobUo483hQtMXdFbU5JnnkJj9kYSQ89UGX5fJBZ8xJnfOeT1RoCUh0upYDfYonrGp",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371268445656",
+        "starRating": "1",
+        "title": "pushing news are annoying",
+        "comment": "unable to stop push",
+        "commentId": "gp:AOqpTOHBZIlOobiXkHFDkB8_t2HYvcQJpEOvnxcAIW3LJ5WOsJRuN_fjbIpGXDochlpSaEUnRt87ZFroh9r7",
+        "author": "Marco Cheng",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.ebc.news.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

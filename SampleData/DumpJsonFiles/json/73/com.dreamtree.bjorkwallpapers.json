@@ -1,0 +1,41 @@
+{
+  "title": "Bjork Wallpapers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamtree.bjorkwallpapers",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "May 14, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "3.2857144",
+  "contentRating": "Everyone",
+  "creator": "dreamtree™",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamtree.bjorkwallpapers",
+  "extendedInfo": {
+    "installSize": "6.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Icelandic singer/performer, Bjork is one of the most amazing artists of our times! Bjork Wallpapers contains images that portray Bjork at her best! Highlights:â Optimized for high res phonesâ Unique images you won't find anywhere elseâ Hand-picked and cropped to precise dimensionsFeatures:â Works offlineâ Contains 20 high definition imagesâ Offline optimized for speedâ Install to SD card (requires Froyo+)Legal / Credits:Application by dreamtree. Based in Seattle, WA.  www.dreamtreemobile.comApplication icon and image source material licensed through Creative Commons Attrib-Sharealike. Credits for images: Photos and icon source material by basic_sounds, Dinâ¥ra, foxtongue, gist, Hello I am Bruce, Pulicciano, Vivi Gondek, Whistling in the Dark. If you have any issue with any images, please contact dreamtreemobile@gmail.com for resolution.Note on Permissions:android.permission.INTERNET is used to connect to the advertising mediation servers and our partner advertising network servers for the purpose of retrieving advertisements. android.permission.ACCESS_NETWORK_STATE is used to determine the existence and quality of a phone's network connection for retrieving advertisements. android.permission.GET_TASKS is used to prevent advertisements from being retrieved when an application is in the background by checking to see if the application's task is active when an advertisement is requested. This is a workaround for the lack of global notifications about the active state of Android applications.android.permission.READ_PHONE_STATE is used for accounting and auditing purposes by advertising networks. Advertising networks use anonymous unique identifiers to limit the number of impressions and clicks attributed to individual users. android.permission.SET_WALLPAPER is used to set the home screen background wallpaper.android.permission.VIBRATE is used to vibrate the phone on successful completion of setting the wallpaper.android.permission.WRITE_EXTERNAL_STORAGE is used to save images to the SD card. Images are automatically saved in a sub-folder of /wallpapers/ on your SD card named based on this app. They are only saved to the SD card when you set them as a wallpaper. This way, if you remove the app, you will retain the wallpapers on the SD card. You may delete the wallpapers from your SD card if you wish without affecting the functionality of the app.tags: musician, film,",
+    "reviews": [
+      {
+        "timestampMsec": "1362968526077",
+        "starRating": "1",
+        "title": "O",
+        "comment": "Package invalid",
+        "commentId": "gp:AOqpTOHkGHl7cXceqQI6o9bCisOHoqTc08jsVbRLKSlrJnNhl2jHoz2Af7rejwGwO3-7BYUMglvUEmYT027WrDE",
+        "author": "Giang Huynh",
+        "authorURL": "http://lh6.googleusercontent.com/--xYuopxynV8/AAAAAAAAAAI/AAAAAAAAAJo/ZMuxWB-qUFg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/--xYuopxynV8/AAAAAAAAAAI/AAAAAAAAAJo/ZMuxWB-qUFg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_WALLPAPER",
+      "android.permission.SET_WALLPAPER_HINTS",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

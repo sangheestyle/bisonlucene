@@ -1,0 +1,235 @@
+{
+  "title": "Headset Button ControllerTrial",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.kober.headset",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "7.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1301",
+  "rating": "3.8324366",
+  "contentRating": "Everyone",
+  "creator": "Christoph Kober",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.kober.headset",
+  "extendedInfo": {
+    "installSize": "353k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Turn the button on a wired headset into a remote control for your music player - and much more!Headset Button Controller is very configurable, allowing you to play music, change tracks, adjust volume, answer phone calls, start Voice Command and many other things, just by clicking the button on your headset.Headset Button Controller is shipped with a powerful default configuration, but you can change almost every action performed. Once you have configured it with your preferences, it runs in the background using almost no CPU. It has been tested with a wide variety of different Android devices and music apps and works with both single-button headsets, and Android-specific 3-button headsets.Default configuration for single-button headsets (center button for 3-button headsets):* Single press: play / pause (+ answer call / end call)* Double press: next track (+ decline call / mute microphone)* Triple press: previous track* Quadruple press: previous track (2x)* Long press: Volume control [2]* Press and hold: Fast forward [3]* Double press and hold: Rewind [3]* Triple press and hold: disabledAll of the above options are configurable to any of the following:* Stop* Play / pause* Next track* Previous track* Previous track (2x)* Mute / unmute* Voice command* Voice search* Redial last number* Say current time (Text-To-Speech required)* Launch app* Launch shortcut* Tasker task [1]* Switch profileAdditionally the long press options are configurable to any of the following:* Volume control [2]* Rewind [3]* Fast forward [3][1] Requires the app 'Tasker'[2] While the button is held down, the volume is initially reset to the minimum limit (see below) and then raised until the button is released[3] Not every music player app supports rewind / fast forwardWith a 3-button headset, volume control is also configurable with the left and right headset buttons.Music app selectionHeadset Button Controller controls the currently running music app. You are also able to explicitly specify which installed music app you want to control.Volume control featuresHeadset Button Controller remembers the music volume when the headphone is unplugged and can restore it when the headphone is plugged in again.* Min volume limit: Start volume level of the 'volume control' command* Max volume limit: Ensures that the headset music volume never exceeds this limitCall featuresYou are also able to control calls with the headset button:* answer call / end call on single press (configurable)* decline call / mute microphone on double press (configurable)* adjust volume during a call (see volume control)* announce caller name (Text-To-Speech required)You can also configure Headset Button Controller to automatically answer an incoming call after a configurable delay.Headset plug in / outYou can configure an action to be performed when the headset gets plugged in / out.ProfilesYou can create different 'configuration profiles' which you can switch between. Add a widget or a shortcut to your home screen to easily change your profile. It is also possible to switch profile from the 'Tasker' or 'Locale' app (Locale plug-in). All settings can be backed up on SD card.===============This is the trial version of Headset Button Controller. With this trial version you can try out this app works with your phone / music player correctly before buying.===============",
+    "reviews": [
+      {
+        "timestampMsec": "1378223080069",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "Best app ever",
+        "commentId": "gp:AOqpTOHhKkR_mEV39_f1GfFeCoG5E4hlD6-UFeAbr4CK9pmMqxaA0iZkCJ3Rs3FI4NS306QW0uSIuwLyvBkqOA",
+        "author": "Hamada Elfkhrany",
+        "authorURL": "http://lh6.googleusercontent.com/-bTiDpSa0oOI/AAAAAAAAAAI/AAAAAAAAAKE/_AT7zlue-D8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-bTiDpSa0oOI/AAAAAAAAAAI/AAAAAAAAAKE/_AT7zlue-D8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378016583229",
+        "starRating": "5",
+        "title": "Amazing application!",
+        "comment": "Works great with Pandora on Galaxy S4. Would have purchased the full version just to show my support if it was a bit cheaper.",
+        "commentId": "gp:AOqpTOHV5JHwO7fxt-q9zUyODOyBOSnla-X2MeCgz3wpUWXgyjFIj0jeBoaymXUewv1P8o8ZvCFF_RlhYqV3vA",
+        "author": "Kfir Cohen",
+        "authorURL": "http://lh3.googleusercontent.com/-cdQUEN9caCg/AAAAAAAAAAI/AAAAAAAAAHU/8jolbIdrvnI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-cdQUEN9caCg/AAAAAAAAAAI/AAAAAAAAAHU/8jolbIdrvnI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377863672285",
+        "starRating": "1",
+        "title": "0",
+        "comment": "Nothing works very worst app..",
+        "commentId": "gp:AOqpTOEQYpsij9_L3K4sZXHGf9_UbHMyS9rSETxvu1KIxkuD_Mb6eP8Uf-8Imz-c6gVTPXD18nKSrAx_PNqwfA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377464936658",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Finally a headset controller that works on my s2 after jellybean update. Can control volume and tracks again.  Was going to go and buy a new set of headphones with in line volume controls now I don\\'t have to.  Thank you.",
+        "commentId": "gp:AOqpTOHST7EgLsSwiX4JoX69QmboJQQXEAY6XbOiF6WuhfKiPe7_K_XMEgU5tzvrfQqeRf-y-s0ndnGdceMVZg",
+        "author": "Dawn Edmondson",
+        "authorURL": "http://lh4.googleusercontent.com/-EEqQ2Wgx55w/AAAAAAAAAAI/AAAAAAAAAbU/nZTP6QfUGgE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-EEqQ2Wgx55w/AAAAAAAAAAI/AAAAAAAAAbU/nZTP6QfUGgE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375404153280",
+        "starRating": "1",
+        "title": "Apple HeadPhones",
+        "comment": "They need to support apple headphones volume control on separated buttons it says in notes but please fix! Other thank that nice bht please fix",
+        "commentId": "gp:AOqpTOE-UFXvvclpl3nKSfYxXJf8HVUeFeIOy7JVIg13Dde-tCR59TqUuITEFMD75mmI23X1paPJ0XjX3Kwhcg",
+        "author": "Andrew smith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375942578785",
+        "starRating": "5",
+        "title": "Best of ol...!",
+        "comment": "Evn wont work som click else whr its awsom apps...n works well in galaxy y duos...wot i want is i found it...!",
+        "commentId": "gp:AOqpTOEaHdqQGtw90ToEbKisdOFHaCvKm3mJysDeDDnVqjX0LGS10XHBHrlzPpftEfXw3Tp0dCjaNQNAN4W85Q",
+        "author": "Aashish Thulungrai",
+        "authorURL": "http://lh5.googleusercontent.com/-vKRkejItct4/AAAAAAAAAAI/AAAAAAAAACU/6MJglBCD_0E/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-vKRkejItct4/AAAAAAAAAAI/AAAAAAAAACU/6MJglBCD_0E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376510904771",
+        "starRating": "5",
+        "title": "Only the best",
+        "comment": "This is precicely what im looking for thanks alot for this awesome app. If there were 6 stars you would get them. Good job well done.",
+        "commentId": "gp:AOqpTOE78Mtii15X2nwjz5kjyqYGdtzt71-VX3Lj5iQeQxVikPieSgbVfFjSqv-MDUENWqzsYVZfluBfUGK1dw",
+        "author": "Tyron Meintjes",
+        "authorURL": "http://lh3.googleusercontent.com/-6WrgJarz4tE/AAAAAAAAAAI/AAAAAAAAABc/bS5x7pTq7ZU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-6WrgJarz4tE/AAAAAAAAAAI/AAAAAAAAABc/bS5x7pTq7ZU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377506117225",
+        "starRating": "1",
+        "title": "Did not work",
+        "comment": "I have Shure 115 earbud headphone. When I tried this app on my Nexus 7 (original, Android 4.3) none of the buttons worked.",
+        "commentId": "gp:AOqpTOH-dCQcEPSDGWq1Fi9hITlkOagSgonhjhOFo_vh6-jmhIuw9Zyk02P4Jkq0dpwN2QLep0mJ3VvwUq7JAA",
+        "author": "Paul Kearsley",
+        "authorURL": "http://lh4.googleusercontent.com/-aExXPe2Z0bk/AAAAAAAAAAI/AAAAAAAAABk/S0KA1Y43A6M/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-aExXPe2Z0bk/AAAAAAAAAAI/AAAAAAAAABk/S0KA1Y43A6M/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375475230963",
+        "starRating": "5",
+        "title": "Works pretty good.",
+        "comment": "I\\'ve been using the Trial version on my Nexus 4 for the last few hours and it seems to be working pretty good. I have not changed any default clicks and how they are set up.",
+        "commentId": "gp:AOqpTOFcgi2b-QQQhbqV-_Bn90Y3okqr1bAmEoXinbPM1-sYu_Xcy4zRqzbTyJPubA-6OC-XWz0AfE-NXxlCiw",
+        "author": "Tomasz Krawczynski",
+        "authorURL": "http://lh4.googleusercontent.com/-rqPykFzPF_0/AAAAAAAAAAI/AAAAAAAAAAA/6eU2LeDLq4k/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-rqPykFzPF_0/AAAAAAAAAAI/AAAAAAAAAAA/6eU2LeDLq4k/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377561884199",
+        "starRating": "5",
+        "title": "Highly recommend this application",
+        "comment": "Excellent app been using all the time try it you won\\'t be dissapointed I promise",
+        "commentId": "gp:AOqpTOGplCAvIz7Lba1CywuxUjdqK6IBBrYbxv6seG24HRjLW2N-yBwfkT0EIbK7vUladot6XMoPCAvAetDJGQ",
+        "author": "David Jones",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375799612219",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Good app.",
+        "commentId": "gp:AOqpTOE5cIUhaPRZVLW0ui-P0MP2sTn6VqN8JvAuGbBHqTF_5xIpGiUwOoLkpOVCTuKN5M2QR9Dy7E-qxp4piQ",
+        "author": "Karl Eriksson",
+        "authorURL": "http://lh6.googleusercontent.com/-L6aoOqo4fc8/AAAAAAAAAAI/AAAAAAAAACQ/w0QeAYlcPGg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-L6aoOqo4fc8/AAAAAAAAAAI/AAAAAAAAACQ/w0QeAYlcPGg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377967516413",
+        "starRating": "1",
+        "title": "Very high price.",
+        "comment": "Price is very high. Cut it to 50%.",
+        "commentId": "gp:AOqpTOFUkBY8qd41JQj4NGonPDCH0aa8P8YC5UWRLdAjb5RwtJnuW_EL5Z72ThZg87KV3gyxcrI0Km8xCl0ZlQ",
+        "author": "vinod vastre",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375810380119",
+        "starRating": "4",
+        "comment": "Nice app :)",
+        "commentId": "lg:AOqpTOEbegCciUW0-JbSLHRpjleD2ASu4_ePlHqPqb8Rz4s8mKKKivWJorg4jzjnG1N6sKK__JVAWu0swKnTiQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377549232226",
+        "starRating": "1",
+        "title": "Doesnt work with One X",
+        "comment": "Doesnt work with One X",
+        "commentId": "gp:AOqpTOG2RXCjAWQwTSPSuLpdMOD_ByCHffTQFuDvQ6RE-S_Zpb3rH5T781AxNfekPeQYcOkVafhZoWfWMntDwg",
+        "author": "Nick prosser",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376051034223",
+        "starRating": "5",
+        "comment": "Exactly wat i needed!",
+        "commentId": "gp:AOqpTOE9ugQqTpuoyTA6Pk-zklADgYs_chGeB940ZFzT8SDziBLLf2XFmuekRetfWOeM1M-g0vfrCjV08XEMzA",
+        "author": "shikhar gupta",
+        "authorURL": "http://lh5.googleusercontent.com/-T2HAJ8R-Svw/AAAAAAAAAAI/AAAAAAAAAZU/REQlZXU05SI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-T2HAJ8R-Svw/AAAAAAAAAAI/AAAAAAAAAZU/REQlZXU05SI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370463162984",
+        "starRating": "3",
+        "title": "Meh",
+        "comment": "Doesn\\'t add any functionality that wasn\\'t already in my RAZR Maxx...wanted to control volume but couldn\\'t get any of the options to do that.  Pause/Play/Skip and previous track worked fine but those worked already without the app.  I guess that\\'s a  JB problem but without being able to control volume I have no need for it.",
+        "commentId": "gp:AOqpTOHjnXX8t4h3445o8tzi6jskFcFXgwC5FWFTvLiNwO5LmG8fBeiuQst77sPI7jeu43YSxkLfcFvHB6zdTw",
+        "author": "david westall",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373730441432",
+        "starRating": "3",
+        "title": "The only thing that works on my HTC one Sv, but...",
+        "comment": "Double/triple click only works when pausing. Long press turn on Google Now although been set to Time announce. I use Jetaudio plus.",
+        "commentId": "gp:AOqpTOFL0lcXMioEPQ9KNRJEObU73Rue9-TlERXfzSwn5b5FXhLdTsT8QEkrHz5SJqVmZ3qJIbWldePBF3sShA",
+        "author": "Pvy Cao",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373475828042",
+        "starRating": "5",
+        "title": "Happy man!",
+        "comment": "Triple click brings me to s voice, double click let\\'s me skip.",
+        "commentId": "gp:AOqpTOEuDIGof7L_gIWFbtNuQCwW2GrKSBuFv6-hpr4GPCqKlT8jzUllJifXJ51GF5sBUOcjJSjoRyN4EfAp8A",
+        "author": "James Slevin",
+        "authorURL": "http://lh3.googleusercontent.com/-AE49Q74GkJk/AAAAAAAAAAI/AAAAAAAAKCk/O3m4-Fzt9gM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-AE49Q74GkJk/AAAAAAAAAAI/AAAAAAAAKCk/O3m4-Fzt9gM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370471442623",
+        "starRating": "5",
+        "title": "Great, works fine on HTC One.",
+        "comment": "Finally something working on my HTC One. Hated the double click dialing last called number grrr. Good job author!",
+        "commentId": "gp:AOqpTOFRrzcEIdr8rPPKZuykNK8NNMnoOZ511ntBcHOLaJb_Rh1B-IAVEDfn2jSr07wNfcbuW7eUMSPuPqe8xw",
+        "author": "Vasek Sulc",
+        "authorURL": "http://lh4.googleusercontent.com/-n19xvTq3fLI/AAAAAAAAAAI/AAAAAAAAABg/6KPw6jZFZgg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-n19xvTq3fLI/AAAAAAAAAAI/AAAAAAAAABg/6KPw6jZFZgg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374432005674",
+        "starRating": "1",
+        "title": "Obnoxious app trial",
+        "comment": "This asp works great, but it gets 1 star for disabling any headphone button input after the trial expires. Any respectable app trial would simply disable itself after expiring and restore the default functionality and simply depend on the benefit of the added functionality to drive sales. Poor choice, I\\'m not going to make a purchase.",
+        "commentId": "gp:AOqpTOGMamu0bDAWi_vRrm1GZjm7Ej9fv_I8N3SstDrKxahTcgXLwgiNCBrsO6Y5eKO7LQLEyoehthzpQx3g0w",
+        "author": "Joshua Skrzypek",
+        "authorURL": "http://lh4.googleusercontent.com/--Ct_LfFv_g8/AAAAAAAAAAI/AAAAAAAAAsI/bjcOxBbrh3Q/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/--Ct_LfFv_g8/AAAAAAAAAAI/AAAAAAAAAsI/bjcOxBbrh3Q/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.MODIFY_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CALL_LOG",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.GET_TASKS",
+      "net.dinglisch.android.tasker.PERMISSION_RUN_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Epunchit",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.epunchit.user",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "February 15, 2013",
+  "version": "1.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Epunchit LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.epunchit.user",
+  "extendedInfo": {
+    "installSize": "9.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Epunchit gets you money towards more food for eating at local restaurants by putting them all on one, mobile loyalty card. Just ask for an Epunchit point and scan the QR code when showed by the cashier. Use Epunchit to find 1000s of local restaurants, plan outings with friends, follow restaurants for specials, and enjoy eating local food. We are the only thing you need to find out where to eat next in California. So stop eating at chains and start discovering great local eateries, cafe, coffee shops, and restaurants today! Eat Local, made right here in your city!",
+    "reviews": [
+      {
+        "timestampMsec": "1359595797883",
+        "starRating": "5",
+        "title": "yummy",
+        "comment": "love local restaurants",
+        "commentId": "gp:AOqpTOEeGtoW0Xjz5rQaYF-qK6lOvZihOKORJCVQWSEFQITOPIJzflqzMRnfZoOr9PI_Ymixl1MsbWiZXkPt610",
+        "author": "Gina Hanneman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343010680947",
+        "starRating": "5",
+        "title": "Support your local eateries!",
+        "comment": "It will become the largest and most influential app for local eateries in the US",
+        "commentId": "lg:AOqpTOEtI46O7n_dtJF6IB4lvS4F8oCo3b1YN6Lt6oXSxnE2oEfFA66B0IU34hBGzcnKE1Kp48fGRKnXU-0qbLM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342853363124",
+        "starRating": "5",
+        "title": "eat local, get rewarded",
+        "comment": "finally an easy way to find great local places to eat at.",
+        "commentId": "lg:AOqpTOFT6d4b-XC4FDnqonZHwTGHjHxBb-tuiyETUKwUyWu9kI1Gsppg-G1RiML_SAqkAIGkftzDt9dFCESgBUg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344311592968",
+        "starRating": "5",
+        "title": "Support local businesses and get rewarded!",
+        "comment": "This is so cool!!! I think this app is a must have!!! Totally recommend! (Samsung Galaxy Note)",
+        "commentId": "lg:AOqpTOFhfgIIR4LsNk7t6YRJug8Pqq1zMspTXY7yY3Ghec6UNsM6pbGDPiBvoGzosh-Rh5V9eHDytYiB4nbrdqo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352186454840",
+        "starRating": "5",
+        "title": "Local restaurants!",
+        "comment": "Cool for staying away from chains and keeping our money and taste local! Lots of places I like to eat at here",
+        "commentId": "lg:AOqpTOFeOfiXFin-U6ox7K1rXAE6bpymGsytxE49oJaDG-KbMnY-z45rwN5ibrvdpWR7aCvIXbFn9Dy0x3l-uFs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.epunchit.user.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

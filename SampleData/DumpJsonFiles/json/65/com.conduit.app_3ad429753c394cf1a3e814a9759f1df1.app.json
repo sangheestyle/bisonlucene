@@ -1,0 +1,44 @@
+{
+  "title": "Farleys Legal Support Services",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_3ad429753c394cf1a3e814a9759f1df1.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 7, 2012",
+  "version": "1.2.1.77",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Joan Farley Nyobe",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_3ad429753c394cf1a3e814a9759f1df1.app",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Criminal Investigator, Mobile MD Notary Public, Process Server.",
+    "reviews": [
+      {
+        "timestampMsec": "1352929199210",
+        "starRating": "1",
+        "title": "Not  helpful",
+        "comment": "App doesn\\'t do anything but list contact # for farley services. No online notary links.",
+        "commentId": "lg:AOqpTOFwpaZtU4G4a6xOhBq7EUnIt91-_zfp7hMXb6ksfYoCG2S90YbnVsTXl1srgjiXPMAGjORWm3CJ1W6xtQ0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.conduit.app_3ad429753c394cf1a3e814a9759f1df1.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

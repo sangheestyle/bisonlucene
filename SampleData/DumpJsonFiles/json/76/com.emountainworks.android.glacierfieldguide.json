@@ -1,0 +1,41 @@
+{
+  "title": "Glacier Wildflowers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emountainworks.android.glacierfieldguide",
+  "category": "Books & Reference",
+  "price": "$4.99",
+  "datePublished": "June 7, 2013",
+  "version": "2.00",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "High Country Apps, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emountainworks.android.glacierfieldguide",
+  "extendedInfo": {
+    "installSize": "130M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "High Country Apps is proud to team up with the Glacier National Park Conservancy (www.glaciernationalparkconservancy.org) as its conservation partner for the Glacier Wildflowers app. Glacier Wildflowers presents over 300 wildflowers, grasses, shrubs and trees readily found in the Glacier National Park region. The area covered includes the lands bounded to the north by Waterton Lakes National Park and the MacDonald Range in British Columbia and Alberta; to the south by the Bob Marshall and Scapegoat Wilderness in Montana; to the west by the Bitterroot Range and the Montana-Idaho border, and to the east by the shortgrass prairie and ranch lands of central Montana. Designed for expert and beginner alike, this guide presents each species in a clear, informative format that provides photos and illustrations of the plant, an easily understood description, distinctive field marks, preferred habitats, and tidbits on the plantâs ecology and cultural use. An innovative, easy-to-use key allows the user to select flower color, leaf type, and other characteristics to quickly identify unknown plants. You are on a hike, look down and see a flower with yellow petals and opposite leaves but donât know its name. It could be tall and thorny, sticky with black berries, sweet-smelling with square stems. Just select what you do know on the app and all plants matching your description will be shown. Photographs and information used by the app are stored locally, making the app available to use with or without a data connection. Whether you are hiking, camping, enjoying a walk, or just driving through, Glacier Wildflowers is the field guide app to take along.",
+    "reviews": [
+      {
+        "timestampMsec": "1370751066608",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "This is already one of my favorite apps. The more plants the better, of course, so do please keep adding!",
+        "commentId": "gp:AOqpTOFLQNxkie_mGkcP5MnAB8d3TI4h7pIodj1RZd1ZXYKTOYfNLbvrFwZEFIli-T6bxz-9p2y3EFPVjgD40Q",
+        "author": "Jeff Compton",
+        "authorURL": "http://lh5.googleusercontent.com/-XXkIrKHuclE/AAAAAAAAAAI/AAAAAAAAAAA/S1aCW7hJx1Y/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-XXkIrKHuclE/AAAAAAAAAAI/AAAAAAAAAAA/S1aCW7hJx1Y/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

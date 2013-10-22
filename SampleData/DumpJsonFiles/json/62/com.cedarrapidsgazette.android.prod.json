@@ -1,0 +1,32 @@
+{
+  "title": "The Green Gazette",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cedarrapidsgazette.android.prod",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "April 8, 2013",
+  "version": "6.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "The Gazette",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cedarrapidsgazette.android.prod",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Green Gazette is an exact digital replica of The Gazette printed newspaper from Cedar Rapids, Iowa.  If you are a subscriber to the Green Gazette, this application allows you to download the newspaper to your Android device.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_OWNER_DATA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

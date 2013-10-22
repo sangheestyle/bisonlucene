@@ -1,0 +1,245 @@
+{
+  "title": "Proference automatic settings",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.domloge.proference",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 28, 2013",
+  "version": "1.5.7",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "64",
+  "rating": "3.65625",
+  "contentRating": "Low Maturity",
+  "creator": "Melting Pot",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.domloge.proference",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Proference automatically controls your settings with profiles, rules, actions and conditions.Even the earliest phones had profiles - 'Work' , 'Quiet', 'Library' and so on.The latest 'smartphones' have dumped this in favour of making users micro-manage the myriad of settings on their devices.Proference gives you the control back - you tell Proference when you want settings to kick in and it takes care of it automatically!Proference maintains a tiny footprint and uses negligable RAM and CPU so you can rest assured that Proference has your back!Simple example: When the phone is plugged in, you want the screen to be full brightness.- Create a rule called 'Plugged in'- Add a 'plugged in' condition- Add Settings action which sets brightness to 100%Medium example: You want Wifi to come on at home, but stay off (to save battery) at all other times.- Add a location called 'home' and train it. - Create a rule called 'home' with a - a condition 'In location home' and a- Settings Action which turns on Wifi.Complex example: When you are in the car, you want to turn on Bluetooth, turn up the media volume, start another app (MusicPopup) and say 'car mode'.- create a rule called 'In car'- add a 'bluetooth device is nearby' condition and select your device from the list- add a Settings action which turns on Bluetooth and sets the media volume- add a 'Say...' action and type in 'car mode'- add a Broadcast action which sends the command to start MusicPopupYou can also create rules from templates - click 'add a rule' and then click the 'Templates' button and select from dozens of templates and customize to your heart's content.When you combine OR and NOT conditions, the possibilities really start to open up. For instance, you could create a 'Near Wifi' Rule which turns on Wifi if you are near Home/Office/Starbucks.# Actions #- ServiceControlAction- TtsAction- StartActivityAction- BroadcastAction- ProfileAction  - AirplaneMode  - Brightness   - Wallpaper   - RingVolume   - MediaVolume   - SyncControl   - Ringtone   - Gps*   - Wifi   - PhoneDataNetwork   - ScreenTimeout   - WifiScanning  - ScreenLock   - AutoRotate  - Bluetooth  - BtScanInterval  - BtScanning# Conditions #- HeadsetCondition- InLocationCondition- PluggedInCondition- TimeCondition- BatteryLevelCondition- DaysOfTheWeekCondition- InRangeWifiCondition- SimpleCalendarCondition- RoamingCondition- WifiConnectedCondition- OR- NOT- BluetoothConnectedCondition- InRangeBtCondition#TAGS profiles, settings, locale, automatic, automation, automate, tasker, SettingProfiles, EasyProfiles, toggle settingsThe free release gives you everything but with a limitation to 3 rules. If you want more, download Proference Unlocker.",
+    "reviews": [
+      {
+        "documentVersion": "1.5.7",
+        "timestampMsec": "1360603344462",
+        "starRating": "1",
+        "title": "Me",
+        "comment": "This has a lot of great features.... IF IT WORKED!   I was very disappointed that after setting it up twice and reinstalling it twice it still would only activate once and never activate b ased on the program schedule.",
+        "commentId": "gp:AOqpTOGov0FFUwck-es5fRvHjmrFe_qZ8vURZja87o__gJnUF7vuoibn3Z9475VSd1WGQT1RK0imuQ5t2aZagsg",
+        "author": "Prudence Remick",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.7",
+        "timestampMsec": "1372218880024",
+        "starRating": "2",
+        "title": "SDcard, please",
+        "comment": "Would give another 3 stars if can be moved to sdcard.",
+        "commentId": "gp:AOqpTOGldZPxVWILLHkyst2SrhwmCJLJoI0f3EVGZnl7XteSIsi1RG-DPqlHJTYlycPZMxiY6V5m0sNUn_zbzho",
+        "author": "nise lani",
+        "authorURL": "http://lh5.googleusercontent.com/-8BgSk7GaXZQ/AAAAAAAAAAI/AAAAAAAAJmc/bafOTprWP2U/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-8BgSk7GaXZQ/AAAAAAAAAAI/AAAAAAAAJmc/bafOTprWP2U/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.7",
+        "timestampMsec": "1375086585569",
+        "starRating": "5",
+        "title": "Jos\\303\\251 A.",
+        "comment": "\\\"290713...tryout...thanks...\\\"",
+        "commentId": "gp:AOqpTOGugsgZ4HE8Savwi-VZ4G5jRfO36WzsM9AmMopVOoNW3BkQIihx5-wy_eVhjyZWDyZDNqGXVB9NNQF9Mc8",
+        "author": "Jos\\303\\251 A. Aponte-Marrero",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1336538226616",
+        "starRating": "3",
+        "title": "Good app...",
+        "comment": "but needs some work.  Automateit is much better and everything works without force closes.   I was looking to see if this offered more and it only convinced me that Automateit is much better, easier to use and very lite weight on the system.   DINC2,  ROM: MIUI 1.12.9, <WOW! SSLAUNCHER < WOW!,  4EXT RECOVERY CONTROL,  CPU OV-CLOCK 1.5,  Perfection no FC :-)",
+        "commentId": "lg:AOqpTOEh1akZSWKQ1ArmKps11NWAN7XvUCogoJu8e91XCKTFVg32wL00LATHCqFUWjetUiJNkOGqUwt8y50OLb4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1351001527365",
+        "starRating": "4",
+        "title": "Best I\\'ve used, but should allow better manual override",
+        "comment": "Holding off buying as fells like it could be better. Blunt force rules work well, but free version very limited without allowing experience of paid for product... Trail would be better than very limited free.",
+        "commentId": "lg:AOqpTOFudcMyV-iErzrwSU701AoT-ptNYD9yAhjkV0uLA7zq_6Ayi33QWlzT8DIrrJ7ePXm37LP2LkcFjy0v7Aw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1348599215841",
+        "starRating": "3",
+        "title": "Good design",
+        "comment": "Location not work, cannot choose",
+        "commentId": "lg:AOqpTOFjzGYOa9hoaaCIHZhJWAoEzGv7RIODTMyGGNhN510Nf1GBEVYgCBb5yLcgEiPwAXjvn8cVFlGsVCitXcU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1332808593801",
+        "starRating": "5",
+        "title": "Potentially very good!",
+        "comment": "The UI offers some very powerful features. Heard about it on Phone Show Chat and thought it worth checking out",
+        "commentId": "lg:AOqpTOHQFpQJj8kaTk7TKKb1OIdUEYsr0ADewF3qhXno9JUKkhJ-6AHCE-N0GTiDH9kLaZupQ_I4emGvqsFhTmw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1333042293342",
+        "starRating": "3",
+        "title": "Easy Setup, but...",
+        "comment": "Heard about on Phones Show, and it really is easy to set up on my GS2 running ICS 4.0.1.  However, after setting up 4 simple rules, my GS2 battery ran down during the night, so I\\'ve stopped using it for now :(",
+        "commentId": "lg:AOqpTOHmFnxAXICWXpCZ6hKbdj6qfHm0sOtGAtIEmfdrkBEa7szp3jMs1fyeXg5grjFZWyF69_O8uHbBUfrhxPc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1315933305474",
+        "starRating": "5",
+        "title": "Thumbs up",
+        "comment": "Dev very responsive. Cool tool for automating settings",
+        "commentId": "lg:AOqpTOEPV04HSdNQDBa5NPSrPxxGE9APi7yMeShEGQn7jC52O_CWUkBn3Y-bkkPZDiZM_5WNfLoUBArWNvhVfew",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.18",
+        "timestampMsec": "1310915851132",
+        "starRating": "2",
+        "title": "Missing important features",
+        "comment": "1. Cannot set vibration on or off. 2. Cannot manually enable/disable a profile. In fact the app is not profile-based, you do not create profiles, only rules that trigger automatically. Should be an option to manually enable a profile for a limited time or until switched off. 3. Cannot edit settings, only add or delete Gave 2 stars because the app is nicely laid out and it has potential. But until above issues are fixed there are better options, even free.",
+        "commentId": "lg:AOqpTOEDyXpNt2T61ykjqnOZfuVrHPJ_6GuuFu-e01MgUa1NCUm0V7HnbV_crl88rDEHY7_l9RrHGBQp_BdCUuk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.18",
+        "timestampMsec": "1312876057353",
+        "starRating": "5",
+        "title": "No more FIDDLING! Automate settings to suit you.",
+        "comment": "Personalisation comes at a price. Fiddling. Want the battery to last? Fiddle with the settings. Want a bright screen when charging? More fiddling. Fed up of your screen unlock when connected to your home wifi, but afraid you\\'ll forget to turn it back on when you go out? This neat app lets you automate it all to fit your daily routine. Get accustomed to the preset \\'template\\' profiles and the app\\'s true potential quickly becomes clear. Auto-on bluetooth when driving? Auto silence after bedtime? Aaah. Bliss :)",
+        "commentId": "lg:AOqpTOHfQY_8f9XCF_9FoXFV3XZxhCbW-6wlv4yfHtrTb4Pe16U8HxeLFEV5jYPP2IVNXqVj1Zf07-eqEaYNyjA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.18",
+        "timestampMsec": "1313929704337",
+        "starRating": "1",
+        "comment": "Did absolutely nothing just froze up",
+        "commentId": "lg:AOqpTOH5P-eQ7ZT5tQuq4sOoioTTeNIimAOpnheoat0M44TxGr7lK86cM4V6mzMu9BMjjL0-3xF7TxPuIQeScuM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.18",
+        "timestampMsec": "1312032644317",
+        "starRating": "5",
+        "comment": "Nice app! Works a treat on my SGS2. Love the calendar condition.",
+        "commentId": "lg:AOqpTOEhjFNVvobNJp_zyzaXppTEdvobh_X0zcaTUoqGNchHQ6oIyY9Qig9UFe4IG14S190t6096hZKID5d8XFA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.14",
+        "timestampMsec": "1310238711830",
+        "starRating": "5",
+        "comment": "Nice app. Replaces loads of other apps, for free!",
+        "commentId": "lg:AOqpTOGiHezORZvf9ErD_rqKqudREVV33aSWDRK4EKmn_6DoqjhRsUL2alLn0WJ3kjV4NwbxsDt9zQdPmTpB3sk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.14",
+        "timestampMsec": "1310202288834",
+        "starRating": "5",
+        "comment": "This is the App you need. Does all the bits you want it to, easily and quietly. Works fine on HTC desire",
+        "commentId": "lg:AOqpTOGDt_9t-UgBMbDG9woMzKnmm67MerQuFzoUli8LZ6RSgvyeYZHrcJiaQ4FWqICxxLPd1fhMY_ErfklsYck",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.12",
+        "timestampMsec": "1309687649018",
+        "starRating": "5",
+        "comment": "Nice. Would recommend.",
+        "commentId": "lg:AOqpTOFpLsJtjSr6xFoF1Z7osQhu66ZEeZ4HeY_YdAjReZLBXCW-PvSGRhmNd1uuoDv7I6QA6pAHupVhV533UjM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.12",
+        "timestampMsec": "1309701944596",
+        "starRating": "5",
+        "comment": "Why has it taken so long for an app like this to arrive! So easy to set up and use. Have now ditched a few other apps that did similar stuff. Get it!",
+        "commentId": "lg:AOqpTOHXuYuDxeWjHpdjLqnKCmMvicEWGCNZ4zKELJtPUKixHFGF14IJy3wCT-owrhCZqip4aCswLq1wgwkqKTo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.12",
+        "timestampMsec": "1309617172353",
+        "starRating": "5",
+        "comment": "Love it. Best app of this type I\\'ve seen! Great on HTC Wildfire.",
+        "commentId": "lg:AOqpTOGSss1rbE5PeuUh67p9ngRlXDgq24GIuwQ9aqwiilDVuqNFFxrE55bH2wU7654DwcnArbtXdWGW4x8vS3Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.12",
+        "timestampMsec": "1309289730317",
+        "starRating": "5",
+        "comment": "Awesome app. Works great on my Sensation.",
+        "commentId": "lg:AOqpTOEl824IB26TA_5RSlyrISUwnpIO1cUAAa5m6EPA1dDutSF5N6ZI5iC-F8ij73sjgk-3tzKMZAeDmIs7NPI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378780896423",
+        "starRating": "2",
+        "title": "Okay, but no Airplane mode.",
+        "comment": "Seems like a decent app, but doesn\\'t control Airplane mode as it promises. Moto Droid Ultra on Android 4.2.2.",
+        "commentId": "gp:AOqpTOE53f-qHeCqoCCr68-1j6VJ857ZhzFpV3Jli9QombVnebzX-tXL00l2o2WEtT3jB94ylxM7g-9VLnZIXV8",
+        "author": "Dave Martens",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.WRITE_SECURE_SETTINGS",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_APN_SETTINGS",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.INTERNET",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "www.S.P.Y.www",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.gyokovsolutions.checker",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 20, 2012",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "GyokovSolutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.gyokovsolutions.checker",
+  "extendedInfo": {
+    "installSize": "56k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The application checks automatically your favorite internet site for changes and reports them.It might be useful when you want to be updated on changes of:- news sites- forum sites- blog sitesUser Manual:1. Type the URL of the site in Settings (Click [Edit] to allow editing)2. Define the timer (in minutes) for automatic check. Then click [Save] to save the settings.3. Go to Main tab and activate Auto Check4. The reports show how many elements (also percentage) are added and deleted compared to last check.You can also check manually clicking the button [Check Now]Tips and tricks:- on some of the sites there are regularly changing advertisements so the application will catch those changes",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

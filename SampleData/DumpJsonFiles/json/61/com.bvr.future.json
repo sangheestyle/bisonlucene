@@ -1,0 +1,43 @@
+{
+  "title": "Future City Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bvr.future",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "February 18, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Superstars Wallpaper",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bvr.future",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Android Live Wallpaper featuring future cities. Enjoy it!Please Note : This is a live wallpaper and not a application, so you won't find a logo on the home screen. To activate live wallpaper please follow the steps1. Download live wallpaper and install. (if download from Google, automatically installed)2. Long press home screen3. Select Wallpaper and then select Live Wallpaper4. Select \" Debby Ryan Live Wallpaper \" 5 Press Set As WallpaperTags : City Wallpaper, Future City Wallpaper, Live Wallpaper, Night city, tall towers, building",
+    "reviews": [
+      {
+        "timestampMsec": "1373355261796",
+        "starRating": "1",
+        "title": "Adware",
+        "comment": "Un installed",
+        "commentId": "gp:AOqpTOEoGItH2gx_BKwXtdNO6KdK91WvkeUBS2H96wFFZfZ9QmgHmCWfHfruFf8tUIZgZVQsPn92zdpbuzqG9PM",
+        "author": "Aaron Jupp",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

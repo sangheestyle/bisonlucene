@@ -1,0 +1,249 @@
+{
+  "title": "Flashify (for root users)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cgollner.flashify",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 12, 2013",
+  "version": "1.0.5.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "239",
+  "rating": "4.640167",
+  "contentRating": "Everyone",
+  "creator": "Christian Göllner",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cgollner.flashify",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Flash your boot images, recovery images and zip files right away using Flashify!Features:1 - Flash boot and recovery images without even needing to go to recovery.2 - Flash zip files. Option to wipe cache, dalvik and data when using TWRP recovery.3 - Backup/Restore kernel and recovery using Sdcard or cloud (Dropbox).5 - Automatic cloud synchronization of Dropbox backups between devices and desktops.6 - Keep track of recently flashed items.7 - Flash multiple files.8 - Flash from anywhere! Do you want to flash from your favorite File Explorer? No biggie, that also works together with Flashify. Any other app that opens files will also work with Flashify, seamslessly, for the best user experience.Currently tested and fully working on the following devices:- Galaxy Nexus- Nexus 7- Nexus 4- Nexus 10If you have a different device let me know if it works or not.Flashing .zip files should work on every device with a custom recovery.This app is free but has a limit of 3 flashes per day. You can unlock the limit with a quick in-app payment.",
+    "reviews": [
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1377375362733",
+        "starRating": "5",
+        "title": "This nifty little app...",
+        "comment": "got me out of the shtook when I lost recovery on today\\'s CM Nightly. Thanks a million for this brilliant little flashing tool and keep up the good work. :)",
+        "commentId": "gp:AOqpTOHqkUfS7gr8lH-F4u76lW-95blIOLsWOCn4zI2A_DmJpRpnnu5YbKVsnLR-ft-_v8wqHFRzCSwiGcsYorc",
+        "author": "Bosko Trkulja",
+        "authorURL": "http://lh4.googleusercontent.com/-VvVrwa4nxcE/AAAAAAAAAAI/AAAAAAAAAQI/BdhNt9VGehg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-VvVrwa4nxcE/AAAAAAAAAAI/AAAAAAAAAQI/BdhNt9VGehg/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1377284546432",
+        "starRating": "5",
+        "title": "Error with my phone, 5 stars for the app!",
+        "comment": "Seems to be an error with flashing recovery on my device, not an app error, so kudos to the dev, slick interface!",
+        "commentId": "gp:AOqpTOHKQypwNH9sTkWDFRcwnNfN2arGm7ae5179vCO4KSHeVZcVdDfQscCf6DJZDfExzgNVFp6eQOEpmFaHUv4",
+        "author": "Ben Crevis",
+        "authorURL": "http://lh3.googleusercontent.com/-Cp7inGoEtgI/AAAAAAAAAAI/AAAAAAAAAJ4/3Z6rTiYU8lM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Cp7inGoEtgI/AAAAAAAAAAI/AAAAAAAAAJ4/3Z6rTiYU8lM/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1378307833719",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "But backups aren\\'t backing up. Once I leave the app and open of again the backup entries are gone. None in the folder either.",
+        "commentId": "gp:AOqpTOEYh4SaMA5xacJp-8ABFPgGnOh1Ud5BdnwvqvoiaYC4aCIH70Q8fDfMAqBCV8HYWftVlPQehX20-jqHEZY",
+        "author": "Mike Nix",
+        "authorURL": "http://lh5.googleusercontent.com/-rLwgOI0akZ8/AAAAAAAAAAI/AAAAAAAAAxE/LIa1hPRNO1Q/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-rLwgOI0akZ8/AAAAAAAAAAI/AAAAAAAAAxE/LIa1hPRNO1Q/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1378050692848",
+        "starRating": "2",
+        "title": "Does not flash recovery on S3",
+        "comment": "I had high expectations from this app. Wanted to use it to flash twrp recovery on S3 and the app could not do that. Used trusted mobile Odin to get the work done",
+        "commentId": "gp:AOqpTOFk-AwD3ZlfokUz6pS1UDOn4KX36FJDgNo4qZIncxgvt3LRaZX4c0uQITxtAD5Tz2K7Q1Du2Jhz_fqtLbM",
+        "author": "Dhruva Krishnamurthy",
+        "authorURL": "http://lh3.googleusercontent.com/-MsYAsqJNyUg/AAAAAAAAAAI/AAAAAAAABvY/kiqDuTbdY44/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-MsYAsqJNyUg/AAAAAAAAAAI/AAAAAAAABvY/kiqDuTbdY44/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1377393212538",
+        "starRating": "1",
+        "title": "Soft Brick Every Time !!!",
+        "comment": "I\\'ve given much thought to this app, I really do like it and what it aims to do but everytine I use it it soft bricks my device, t989 Hercules, I\\'m not new to the hacking of android at all and currently use twrp manager because this just isnt useable for me, tried to flash a new recovery just for kicks and spent 14hrs trying to recover lol beware ppl this still needs some work...",
+        "commentId": "gp:AOqpTOHxUvvwG9cgU1AdZLXRIpb6yzlmPsWC12VJ70f3T1a_C4MBNTT1EnqFQimgLEaAyyT8Cf-LnMM1btJuny8",
+        "author": "Jason Surprenant",
+        "authorURL": "http://lh6.googleusercontent.com/-Izc-QEiR7jw/AAAAAAAAAAI/AAAAAAAAANM/sEONhMVoFmw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Izc-QEiR7jw/AAAAAAAAAAI/AAAAAAAAANM/sEONhMVoFmw/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1374075700981",
+        "starRating": "5",
+        "title": "Works well plus additional security",
+        "comment": "Simple and easy to use, very helpful when flashing images, no need for a computer.  I thought there was a problem with warnings about unsigned zip files, but Christian responded immediately.  Doesn\\'t hurt to have an extra layer of security.  Don\\'t want to deduct a start for it, but would like ability to wipe cache / dalvik with CWM.",
+        "commentId": "gp:AOqpTOGbaW6Y6Axtmcdb7Foy6QLeaWcENIOTb6fsLj1-JfCxoebe1g4EM4Bkt5WPP_sxZW_Bnm-iV-0T6Xro2vU",
+        "author": "Jay Lefkowicz",
+        "authorURL": "http://lh3.googleusercontent.com/-SYwcsTrMSG8/AAAAAAAAAAI/AAAAAAAAFvI/gG1dnvlv1m0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-SYwcsTrMSG8/AAAAAAAAAAI/AAAAAAAAFvI/gG1dnvlv1m0/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1374100825314",
+        "starRating": "5",
+        "title": "Beautiful to use",
+        "comment": "But why can\\'t it extract the boot.img from a zip file itself?  Flash Image GUI is pretty ugly, but does this simple task.  Would be even more awesome if it automated the boot.img flash, followed by zip flash in recovery.  (FYI, my phone security means recovery can\\'t flash kernel)",
+        "commentId": "gp:AOqpTOEOhdwiTB8SwRHw54Asx2xMbbl4Q70p3gfCxyoXuqI7HXzDQkm3x4R_fDz65ebeBDmsCn5wacBrK61-N-4",
+        "author": "Dan Rhodes",
+        "authorURL": "http://lh6.googleusercontent.com/-qbmzLKQWXIo/AAAAAAAAAAI/AAAAAAAAIYw/Bpo-Vzg7ykA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-qbmzLKQWXIo/AAAAAAAAAAI/AAAAAAAAIYw/Bpo-Vzg7ykA/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1374106843478",
+        "starRating": "5",
+        "title": "Very Nice App",
+        "comment": "Clean interface and it really is a breeze to get files selected and flashed quickly. would like to add syncing to google drive in the future if possible.",
+        "commentId": "gp:AOqpTOGGloViG1zGd3t6wjYapFju0tHDAbrGtmbBRT_f2Bf8BhjCMGCS5oeR_fGag-Vivhgp6g60ytEHQtB-vL4",
+        "author": "Kenny Erwin",
+        "authorURL": "http://lh3.googleusercontent.com/-IuzAbkNlepw/AAAAAAAAAAI/AAAAAAAAGeA/eZuBTRhdHkI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-IuzAbkNlepw/AAAAAAAAAAI/AAAAAAAAGeA/eZuBTRhdHkI/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1375801652982",
+        "starRating": "5",
+        "title": "Elegant and Simple to use",
+        "comment": "Flashing sometimes can be a chore for some of us. Yet this app makes the task of flashing recoveries/kernels a cinch.  Also, the added benefit of backing up current recovery and kernel is awesome!",
+        "commentId": "gp:AOqpTOFQWJ0fDb9zsrZ2G7L0x389FEgeyc-n1t8cmPPt50f_mfMCLxxMNwmhh7uClXZLQq54BovtxOEoNrm51oI",
+        "author": "Arjun Amin",
+        "authorURL": "http://lh4.googleusercontent.com/-1CXlJNtWToU/AAAAAAAAAAI/AAAAAAAACAE/OR1-YP0ZEEc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-1CXlJNtWToU/AAAAAAAAAAI/AAAAAAAACAE/OR1-YP0ZEEc/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1373961335215",
+        "starRating": "4",
+        "title": "Can\\'t connect to dropbox?",
+        "comment": "Connecting to dropbox doesn\\'t seem to work...  Besides that, great app!",
+        "commentId": "gp:AOqpTOHn0yEg7iYmKQwfXMCU5j3scVg6nBeauvSouWAw20G-Kd4VHEEkd7Bg1MaXOBkgvxQ67xPiiic8RkWCEiw",
+        "author": "Matthijs Schram",
+        "authorURL": "http://lh5.googleusercontent.com/--EaDCZthcT8/AAAAAAAAAAI/AAAAAAAAAKM/prgTKeDvMxQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/--EaDCZthcT8/AAAAAAAAAAI/AAAAAAAAAKM/prgTKeDvMxQ/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1375236330896",
+        "starRating": "3",
+        "title": "Xperia S LT26i not supported",
+        "comment": "App UI looks nice though i would like app to really work too",
+        "commentId": "gp:AOqpTOFpPevSar38E0x0WH_WhFfLb_yDRgTpKJ1pxh34jGE_S5WWD92qZ2q9NEERUa_QGHEFoNDeGdyC6OXAn0M",
+        "author": "Sander Puus",
+        "authorURL": "http://lh3.googleusercontent.com/-UMjCqa_tyA4/AAAAAAAAAAI/AAAAAAAACSg/a6qMeJLcoBw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-UMjCqa_tyA4/AAAAAAAAAAI/AAAAAAAACSg/a6qMeJLcoBw/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1377791045526",
+        "starRating": "5",
+        "comment": "Fantastic and very useful app. A must for any \\\"flashaholic\\\" who will never be satisfied with their Rom like me!\\tWow",
+        "commentId": "gp:AOqpTOFMffiZX2T-wAZB3jAsSgVEfx7bsZ7-Lmy90zjEOY5ZJd4WNLhIX7wcuzv_xDORHwxZLnoO5aqgGDhm5ys",
+        "author": "Neil D. Cashman",
+        "authorURL": "http://lh5.googleusercontent.com/-XrvZH-aieZI/AAAAAAAAAAI/AAAAAAAAAbM/vICB55r_N9w/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-XrvZH-aieZI/AAAAAAAAAAI/AAAAAAAAAbM/vICB55r_N9w/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1375187850021",
+        "starRating": "2",
+        "title": "Didn\\'t work for me.",
+        "comment": "I couldn\\'t get it to successfully flash a boot.img for CM. Had to push it from my computer manually.",
+        "commentId": "gp:AOqpTOG8teAeVj_mfZavO2TWIPKJSPVBt9McF9RYowwWSnNoruv8feSFVdZTBICClqyeOYWUeST1JUrsgULvgXE",
+        "author": "Doni Sewell",
+        "authorURL": "http://lh4.googleusercontent.com/-_z-MS1iPnT0/AAAAAAAAAAI/AAAAAAAACNY/2HzafKeYxEg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-_z-MS1iPnT0/AAAAAAAAAAI/AAAAAAAACNY/2HzafKeYxEg/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1375917645171",
+        "starRating": "5",
+        "title": "Convenient app",
+        "comment": "Don\\'t have to reboot into fastboot to flash zips and images",
+        "commentId": "gp:AOqpTOF9MSylNkx7dxJBwpoPtHGqRsPnzjF83D5RfJrhfKIcWSN5YVdaSOWtIbyESEPVZbPjJLYfb_2uSWIaVgc",
+        "author": "Jared Russell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1373925631110",
+        "starRating": "5",
+        "title": "Really",
+        "comment": "Works good.",
+        "commentId": "gp:AOqpTOG8NHep7yvx7zAtSek_OX5qbv84L6J3AwGVLROgOsyHrEqgVEr-7oL-ItavzQ7wDznv6z-pB7k4eq4XwOo",
+        "author": "Matthew Scott",
+        "authorURL": "http://lh4.googleusercontent.com/-JacelsA5jDc/AAAAAAAAAAI/AAAAAAAASpM/gb1eSv_fixc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-JacelsA5jDc/AAAAAAAAAAI/AAAAAAAASpM/gb1eSv_fixc/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1373962021128",
+        "starRating": "5",
+        "title": "feature #8 fixed",
+        "comment": "Edit: Update fixed this issue... When i first installed this last week, feature #8 worked and everything worked. but now that feature is broken for me. it just force closes.",
+        "commentId": "gp:AOqpTOFo1P-Ox1UG6g9eAoJCNcQ6KrGNjS3ttvsUce6gsSPRf5N0_prWK5pCUK14VnazpYahVExQndxsh-SB1VI",
+        "author": "Xchel Dominguez",
+        "authorURL": "http://lh4.googleusercontent.com/-emMlCRYU7b8/AAAAAAAAAAI/AAAAAAAAATU/29yTBxPHtlk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-emMlCRYU7b8/AAAAAAAAAAI/AAAAAAAAATU/29yTBxPHtlk/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1374954431474",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "Works also on Nexus S",
+        "commentId": "gp:AOqpTOFv221bT_wy1yKQYQftryuhLLgADqyPDc4CKHFFmduVYOZWO8poPaZyNmIhc90erTNJJWnpv0ajvG-XNXs",
+        "author": "Stratos Raptopoulos",
+        "authorURL": "http://lh4.googleusercontent.com/-k-8E3lzVPOs/AAAAAAAAAAI/AAAAAAAAAeY/2DJBaoZTStg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-k-8E3lzVPOs/AAAAAAAAAAI/AAAAAAAAAeY/2DJBaoZTStg/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1374985583255",
+        "starRating": "3",
+        "title": "not working",
+        "comment": "How to flash the kernel . In my sony xperia neo l its not supported .",
+        "commentId": "gp:AOqpTOHJIcPci5BK1lNP00A49UDwmm6PQEWB15f1QiQUL-ZyEvp_Y-wr8H7dt9JINaF0yWig2VPSLDSN6AinRYE",
+        "author": "manoj strick",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1376170585654",
+        "starRating": "5",
+        "title": "Works great on HTC 802w",
+        "comment": "Found this app just when I was looking to flash stock recovery. Saved me a trip to my desktop computer.   Works great on the HTC 802w M7CDUG, but can\\'t see the external SD card from Flashify\\'s built-in file browser.",
+        "commentId": "gp:AOqpTOF7_0fAn73N-NUnNQIt37Hi3JZwFPZlJrW2eM0hiKTC-ka2Arif9cf1HzrkG3Eoq_CvwO2H71LgE89XImk",
+        "author": "Clayton Lai",
+        "authorURL": "http://lh3.googleusercontent.com/-WajIxuxvkxo/AAAAAAAAAAI/AAAAAAAABQY/pvsVRH7RzYw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-WajIxuxvkxo/AAAAAAAAAAI/AAAAAAAABQY/pvsVRH7RzYw/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.1",
+        "timestampMsec": "1378472615082",
+        "starRating": "1",
+        "title": "Doesn\\'t flash TWRP",
+        "comment": "Tried to flash TWRP with this app - no such luck. Device - Nexus 4 TWRP - 2.6.2.0 CM 10.2 Nightly",
+        "commentId": "gp:AOqpTOGllZd5PEflVn-VRgGYP226wV7Ks73ZU4tFX6z3uPNdPggctPKpwV5T04vq0Vd1_btvRyAdcP2RoFqyTfE",
+        "author": "Konstantin Treshchev",
+        "authorURL": "http://lh4.googleusercontent.com/-Tux2ZV1Upsc/AAAAAAAAAAI/AAAAAAAAAO4/5NbLXkfVM_8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Tux2ZV1Upsc/AAAAAAAAAAI/AAAAAAAAAO4/5NbLXkfVM_8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_SUPERUSER",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

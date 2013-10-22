@@ -1,0 +1,35 @@
+{
+  "title": "DC Dental Society",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.dcds2011",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "March 2, 2011",
+  "version": "1.6.5",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.dcds2011",
+  "extendedInfo": {
+    "installSize": "5.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Follow Me is the official application for the 79th Annual Nationâs Capital Dental Meeting, March 31st through April 2nd, in Washington, DC. Navigate like a pro with our interactive app, search the exhibitor directory, or create your show schedule by choosing sessions you want to attend and speakers you want to hear. Enjoy the show!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

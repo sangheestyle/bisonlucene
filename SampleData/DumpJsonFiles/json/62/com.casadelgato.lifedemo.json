@@ -1,0 +1,44 @@
+{
+  "title": "CasaDelGato Life Demo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.casadelgato.lifedemo",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "January 22, 2011",
+  "version": "1.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "CasaDelGato Systems",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.casadelgato.lifedemo",
+  "extendedInfo": {
+    "installSize": "88k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This is a \"Life\" (Cellular Automata) program that has many options to make it more interesting to watch and to use.  In addition to the standard Life rules (see Wikipedia, \"Conway's Game of Life\"), you can choose from several other pre-defined sets of rules, as well as make up your own. This allows for some rather interesting (and odd) patterns to be displayed.  There are also options to change what shapes are used for the cells, as well as changing the color of the cells over a large range either over time, or by random.This is a Demo version that will only run for 1 minute at a time on a pattern.This also includes a Pattern editor so you can create your own starting patterns to see what would happen with various rule sets.  You can save patterns, and build new ones by combining existing patterns.  These then may be run in the Life program just by using the \"Load\" Pattern menu item.  Change the rules it was run under, and see how it evolvesdifferently.If you have the Full version (not this Demo) and you have the CasaDelGato Life Live Wallpaper installed, you can also copy all your Life settings to the Live Wallpaper - including all the settings that aren't  available in the Live Wallpaper configuration menu.One of the ones I like is to use the \"Bugs\" rule set, with a Color Multiplier of 10 or so, and a Generation time of 20 milliseconds or so.  You will probably want to turn on the \"Auto Restart\" switch as well, since only 1 in 10 or so random starting patterns will become a large colorful pattern.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1296472373007",
+        "starRating": "5",
+        "comment": "Great implementation and support for other rules ranks it above the rest. Bought full version.",
+        "commentId": "lg:AOqpTOHPZ6PInkHyv8Qst0mxklMjLgOcQc5XkqLhLU9K8k2SwWrsR5FhIkx1T6_RnXnS9lUrAMz2DsktSi0Bfg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1329033510574",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "because it does stuff.",
+        "commentId": "lg:AOqpTOHOMPMwKEQUXdnDFL5hxlfYT1HM4gdc-MdEDgChxgwBIqn8nUjj48iTqyO1hQdvakfTKSBkghT0FXGE7Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}

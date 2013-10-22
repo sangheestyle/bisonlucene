@@ -1,0 +1,38 @@
+{
+  "title": "Service Bell",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.creativeappsgroup.bell",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "April 30, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "Creative Apps Group",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.creativeappsgroup.bell",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "DING DING!Ever wish you could just summon help at the press of a bell?Feeling a little under weather and need a bowl of soup or a hot towel? Just love the sound of bells?!Well your dreams have been answered â with Service Bell, you can let loved ones know you need attention.. now!Never again will you have to waste valuable oxygen by 'calling for assistance'.What's that? Needs more Cowbell you say? - You got it!We've even thrown in an authentic Handbell too, every bell requirement all in one handy app.You'll have a 'bell of a time â download Service Bell today!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1368281336350",
+        "starRating": "2",
+        "comment": "Hand-held bell sound is off.",
+        "commentId": "gp:AOqpTOGIXOYnrEFA9S7cQyguvrS3b1i6i59oh-hKhxuDacofov9_HFv6u5vQOP3dNAAlpmNuxrJNdTV5vzGl2w",
+        "author": "Jim Kirk",
+        "authorURL": "http://lh3.googleusercontent.com/-6WzG-quyT8k/AAAAAAAAAAI/AAAAAAAAZuU/u-Ku0gZd1W0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-6WzG-quyT8k/AAAAAAAAAAI/AAAAAAAAZuU/u-Ku0gZd1W0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Proximity Smart Cover (Paid)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.danielling.proximitysmartcover.paidversion",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "August 13, 2013",
+  "version": "1.0.18",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Daniel Ling",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.danielling.proximitysmartcover.paidversion",
+  "extendedInfo": {
+    "installSize": "325k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "** Please contact me if you encounter any issues with this app. Please. Because we developers are unable to get ** back to the users directly which is very sad so let me help you if my app gave you a problem. You can still leave a ** negative feedback but still, please let me help. You can email me through this page or through the app. Thanks!Ever considering having a Smart Cover feature for your Android Device? Now you can!!This application allows you to Turn On your screen after removing it from cover. Gentlemen, do you keep your device in your pockets? Check your device status immediately after taking it out without pressing any buttons!!Ladies, do you keep your device in your bag? This application will turn on your screen for you without you having to reach for the buttons!Additional Features** Turn on your Screen and automatically unlock!!** Turn on/off your screen without using Power or Home buttons.** Perform magic tricks. ^_^Note:** Due to the sensitivity of the Proximity Sensor, I strongly suggest not to use the function turn off screen by this application. To turn off the feature, just set the duration to -1 seconds.Instead, I suggest that you use another application to lock your screen. Here, I suggest using \"Lock Screen Now\" which is also developed by me. There are also many other Lock Screen applications which you can find on Google Play.** Do note that this application requires proximity sensor to work.** Requires Device Administrator for the Turn Off screen feature.** To UNINSTALL this application, you have to first remove the Device Administrator rights for this application. When you choose to uninstall this application, it will prompt you to remove the Device Administrator Rights. If not, please go to Settings > Security > Device Administrator > Uncheck this application.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.16",
+        "timestampMsec": "1375269572547",
+        "starRating": "4",
+        "title": "Good & Usefull app.",
+        "comment": "it is simple and working well.  But sometimes if I restart the phone, it needs to be re-calibrate.  Please fix this and i give you 5 star",
+        "commentId": "gp:AOqpTOFFx_dQ8p6Tlx1BIsoZM8oV7IzLdl98RA2phG9HJC_MBpQ8HBI60Jw4_9XN8_plJAQZqhHFIiSmu_rtRcM",
+        "author": "Anwar Sanuki Rachmat",
+        "authorURL": "http://lh4.googleusercontent.com/-MndP1cWPlgo/AAAAAAAAAAI/AAAAAAAAAEw/f-AUVaUhFQc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-MndP1cWPlgo/AAAAAAAAAAI/AAAAAAAAAEw/f-AUVaUhFQc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.16",
+        "timestampMsec": "1375148045536",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Great app.every on must have it ^_^",
+        "commentId": "gp:AOqpTOFG6FBGz7CH0_5MQXCuDNjjKenNcb3WcR5Rx8p2gcZjwFwIxMXB7iTv6yM_lajVr0MuVfSbKZMsV6yThD0",
+        "author": "Raddad Radaideh",
+        "authorURL": "http://lh4.googleusercontent.com/-PY3gWAjKYiY/AAAAAAAAAAI/AAAAAAAAAUM/Pld2yksG_m8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-PY3gWAjKYiY/AAAAAAAAAAI/AAAAAAAAAUM/Pld2yksG_m8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

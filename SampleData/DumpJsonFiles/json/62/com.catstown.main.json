@@ -1,0 +1,48 @@
+{
+  "title": "Cats Town",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.catstown.main",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "April 6, 2013",
+  "version": "3.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "DBD Soft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.catstown.main",
+  "extendedInfo": {
+    "installSize": "798k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Love cats? Want to do some cat spotting and a keep a record of all the cats you meet in the street and at friends house?Â Cats Town will let you take a picture, record the location of the cats and show you a map with icons or pictures in the locations you met your furry friends. Tap on any cat on the map to view or update his details. Take a screenshot of your cat maps cat list or cat pages and share them with your friends.Optional: If you want, you can also synchronise your app with Cats Town server so other users can see your cats (cat names, location and icons only. No pictures or private information is shared and no registration is needed)FeaturesAdd a new cat- Name your cat- Take a picture or choose one an existing picture- Choose icon to show the new cat on the map- Location will be recorded automatically if your GPS is turned on, or you can choose a location on the map- Your new cat will be added to the map- All cat details can be viewed and updated any time.Cats Map- Choose between marking cats on the map with the chosen icon or picture of each cat- Tap a cat on the map to see full details- The map has standard options as well such as satellite view, compass, address search, zoom, show current location etc.Cats list- List all your cats with their name, icon and picture in one scrollable list.- Tap on any cat to view or update details.Screenshots- Take a screenshot of your cat map, cats list or cat pages- Email screenshots or post them to Facebook or twitter.",
+    "reviews": [
+      {
+        "timestampMsec": "1338673890097",
+        "starRating": "5",
+        "comment": "Great!!!",
+        "commentId": "lg:AOqpTOFHSuNgHAwKVLRTZ0m97aAPO47IlOMdNgEoYdOEbJm54UwEGApMVbJFy9ypfX-tDCoADRuII2L1J5DYpIo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336327556410",
+        "starRating": "5",
+        "title": "Fantastic app!!!",
+        "comment": "Going for some kitty sporting...",
+        "commentId": "lg:AOqpTOH2p55T5zxqrSEwLXrf3zgGnIUBPM4tA6i8exW4agY4W-zZxeyUKMI86WmdNtSzLDAdxqrwmejDLd6hrh0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

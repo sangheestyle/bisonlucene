@@ -1,0 +1,57 @@
+{
+  "title": "Weight Watchers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cipapps.weighwatchers",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "May 10, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "2.0",
+  "contentRating": "Medium Maturity",
+  "creator": "CIP Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cipapps.weighwatchers",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Weightwatchers android app is a recently developed app that allows you to discover various weight watchers recipes right through your mobile phone in fraction of some seconds.Following are some of the great features of the app.â¢\tMany articles and blogs related to weight watchers point list, weight watchers online etc are directly linked to the app.â¢\tThe app acts as the perfect weight watchers points calculator.â¢\tThe app provides you with` fair information on weight controlling tips.â¢\tNo internet connection required to have an access over the app.â¢\tEasy and fast way to check your weight.DISCLAIMER: The content provided in this app is collected using Feeds and Videos are hosted by YouTube and all are available in public domain. We have not uploaded any videos to YouTube. Apps are fetching the data from RSS feeds of different sites.This app provides an organized way to browse, read contents and watch YouTube Videos.",
+    "reviews": [
+      {
+        "timestampMsec": "1369934072269",
+        "starRating": "1",
+        "title": "Unhappy",
+        "comment": "Very bad app. Pop ups and it just links to other sites. :(",
+        "commentId": "gp:AOqpTOG5mIV-paSE8eWgt_zjPWLqXi0tQcCjmpFLD1zlx-2fRb5Lt2fz2Tdzq7wFykbMcSi9L3XoC4S0L6-270k",
+        "author": "Melanie Moyotl",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.cipapps.weighwatchers.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

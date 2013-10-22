@@ -1,0 +1,56 @@
+{
+  "title": "Lausanne Laptop Institute",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.lausanne2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 17, 2012",
+  "version": "3.2.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.lausanne2012",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Lausanne Laptop Institute (July 15-17, 2012) is an international think tank for schools using or considering laptops or tablets as tools for learning. Created and hosted by Lausanne Collegiate School in Memphis, Tennessee, the Laptop Institute offers over 100 breakout sessions - from hands-on events to lectures, discussions and networking. Conference sessions meet the needs of educators, technology integrationists, technology support personnel and administration. Over half of our 2011 attendees were K-12 teachers who collaborated with peers and learned tips for using laptops and tablets in their own classrooms.",
+    "reviews": [
+      {
+        "documentVersion": "3.1.9",
+        "timestampMsec": "1342534733110",
+        "starRating": "5",
+        "title": "Best in Show",
+        "comment": "This is the single best app available for all information on the Lausanne Laptop Institute. The session schedule is useful, and the shuttle schedule is a must. 5 stars!",
+        "commentId": "lg:AOqpTOHgraCf73KSVhJee6hNgectz1izGx8XGs72txV3pAS0Vd3Rqg8JPFnwVeRRhQMfQjsQuuUjQyEGlEscqcM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

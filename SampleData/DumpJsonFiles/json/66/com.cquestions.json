@@ -1,0 +1,37 @@
+{
+  "title": "C Interview Questions",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cquestions",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "1.12",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Everyone",
+  "creator": "Java Experience",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cquestions",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "C language Interview Questions application provides you frequently asked interview questions for assistance in the ever green arena of C language related jobs. C language is the one most popular language which is still being used in software that interact with the hardware like Database device drivers. The significance of C can be attributed from the fact that almost every college/university has C as part of their curriculum for computer related education courses.Sample Questions:Q) What are header files and what are its uses in C programming?Ans: Header files are also known as library files. They contain two essential things: the definitions and prototypes of functions being used in a program. Simply put, commands that you use in C programming are actually functions that are defined from within each header files. Each header file contains a set of functions. For example: stdio.h is a header file that contains definition and prototypes of commands like printf and scanf.Q) Can I use  \"int\" data type to store the value 32768?Ans: No. \"int\" data type is capable of storing values from -32768 to 32767. To store 32768, you can use \"long int\" instead. You can also use \"unsigned int\", assuming you don't intend to store negative values.Features:easy to use user interfaceoption to send question/answer to email/dropbox/sms etc.If you have any complaint/suggestion regarding this application, do contact us at http://www.javaexperience.com/contact-usTags: the programming language c, frequently asked c programs in interview",
+    "reviews": [
+      {
+        "timestampMsec": "1374602876266",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "Awesome!",
+        "commentId": "gp:AOqpTOGQWC_9cLxs4TAv4dXKitFqEbTweEPorPE2OWdK2yF5HQno5lE2AF_eq1aUbgafQGlN4WF5X5sGzN-DeKk",
+        "author": "santosh m",
+        "authorURL": "http://lh3.googleusercontent.com/-iS6DgZ3LdEg/AAAAAAAAAAI/AAAAAAAAAJY/NQeasEgTKkU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-iS6DgZ3LdEg/AAAAAAAAAAI/AAAAAAAAAJY/NQeasEgTKkU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

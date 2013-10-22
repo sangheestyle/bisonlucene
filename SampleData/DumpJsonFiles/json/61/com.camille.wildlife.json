@@ -1,0 +1,32 @@
+{
+  "title": "US Wildlife Wonders",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.camille.wildlife",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "March 22, 2012",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Camille Espanol",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.camille.wildlife",
+  "extendedInfo": {
+    "installSize": "359k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Explore wonderful pictures from the US Wildlife archive, depicting animals living in protected natural areas in the US, as well as people taking care of them.Use the control buttons in order to load the next / previous picture, zoom it or even rotate it. You can also save it to your SD card if it is available and mounted. Each picture comes along with its description and its title.Pictures mainly originate from the US Wildlife Fund, but the US Wildilfe Wonders application has not been developped by the US Wildlife Fund. More pictures will be added.Feel free to rate the application or send me some comments, whether you like it or not.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

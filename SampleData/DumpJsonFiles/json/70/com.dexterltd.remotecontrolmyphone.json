@@ -1,0 +1,75 @@
+{
+  "title": "Remote Control My Phone",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dexterltd.remotecontrolmyphone",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 7, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "42",
+  "rating": "3.6190476",
+  "contentRating": "Low Maturity",
+  "creator": "Manas Gajare",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dexterltd.remotecontrolmyphone",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "MOST ADVANCED App for remote controlling your phone.  Access data, control data, manipulate your phone even without the physical access to your phone. All the commands are passed via SMS. ***This is free ad based version. If you like this app, you can purchase ad free version from market ***With this, you can get -- TOP 3 SMS-- TOP 3 CALL LOGS-- AUDIO RECORD (can be used as surveillance)-- CAPTURE PHOTO-- LOCATION-- BATTERY INFO-- SCARY GHOST (for scaring someone)-- Wifi/bluetooth/GPS on off -- and many other controls....The sms logs, call logs, location info can be sent to your email id or via sms as well. Both options are provided. Go through the following sms formats for more info. FORMAT of SMS - App (runs the application)pincode app packagename[packagename is unique identity of the app. You can find it in \"Manage Application\" option in settings]Airplanemode onpincode airplanemode onAudio (Acts as remote audio recorder. Saves on SD card by default. Sends via email, if provided)pincode audiopincode audio email_idpincode audio timepincode audio time email_id[time = time for which you want the phone to record.It's in seconds. Records for 420 seconds (i.e.7 minutes) if not mentioned]Battery (Sends battery info of the phone to the number/email id provided)pincode battery ph_nopincode battery email_ide.g. Suppose the pincode set is asd. Then to have the battery info sent to the email id - example@gmail.com, use thisasd battery example@gmail.comOR if you want this info to be sent to a phone number(say 9998887777) via sms, use thisasd battery 9998887777Call (Calls specified number)pincode call phno_u_wanna_calltoe.g. - to call to 123456789 remotely, send a message with this formatpincode call 123456789Call logs (Sends info of top 3 incoming calls to the phone/email id specified)pincode calllogs ph_nopincode calllogs email_idContact (searches contact number from specified name and sends it to phone/email id specified)pincode contact name ph_nopincode contact name email_id[name = name of contact whose number you are looking for]GPS on/offpincode gps onpincode gps offLocation (Fetches location from network and sends lat, long, street address to the phno/email id specified)pincode location ph_nopincode location email_idPhoto (Captures a photo from camera. Saves on SD card. Sends via email too)pincode photopincode photo email_id[emailid is optional here]Profile (Set profile to silent/vibrate/normal)pincode profile mode[mode = silent/vibrate/normal]Ringvolumepincode ringvolume range[range = 0 to 7.0 -> mute. 7-> loudest]Scare (scare someone with awesome ghost and scary audio)pincode scareScreentimeoutpincode screentimeout time[time = 0 to 60] (it's in seconds)Sms logs (sends info of top 3 incoming sms to the phno/email id specified)pincode smslogs ph_nopincode smslogs email_idVibrate (vibrates for 30 sec)pincode vibrateWifi on/offpincode wifi onpincode wifi off",
+    "reviews": [
+      {
+        "timestampMsec": "1336723068692",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "Mostly just force closes. Got it to make a camera sound twice but it didnt actually take a picture. Nothing on the phone/nothing sent to email. Galaxy SII",
+        "commentId": "lg:AOqpTOFSpDwUp6nIL_ydIGUOVdaeimMs7dC6T8GZBr-TRy6avAMHIm6LcKUSBx_DUB8Kqq-GqQQ6GYrBDy1Rxw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338128966608",
+        "starRating": "5",
+        "title": "Too great",
+        "comment": "I could record the audio remotely, captured photo remotely. Also fetched my location and latest sms call logs",
+        "commentId": "lg:AOqpTOHp6IbvJIZGvPRjhNxvqwmw6L0qdrXUUVgQVa9actpvyXJAIFmAJpsTIJyEqkEH84_IwA27KtCGn3VoiA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368105148128",
+        "starRating": "5",
+        "title": "B",
+        "comment": "D",
+        "commentId": "gp:AOqpTOEMOUzDmkrg6SOS_sVA9tM79U9y5SivPR8zyVEUbcLJuAagKXLDmVT0XvjITxtVidiI09d6_ZyNNzzM_g",
+        "author": "Alexis L. Reagan Clagne",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.UPDATE_DEVICE_STATS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COURSE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.REBOOT",
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

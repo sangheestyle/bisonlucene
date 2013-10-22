@@ -1,0 +1,39 @@
+{
+  "title": "video view",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wvideoofweb",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "April 6, 2012",
+  "version": "0.52.13337.14553",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "3.0",
+  "contentRating": "Medium Maturity",
+  "creator": "ccompliquer(z)",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wvideoofweb",
+  "extendedInfo": {
+    "installSize": "107k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "video view all the videos of the web such moments: gag, laugh, humor, unusual music, fight, Hidden Camera, emissions, music, anime, tv, etc. .... brawl",
+    "reviews": [
+      {
+        "documentVersion": "4.13105.06415",
+        "timestampMsec": "1310504506559",
+        "starRating": "1",
+        "comment": "All in French !",
+        "commentId": "lg:AOqpTOEeyI85F1cPIHWxwU-sm39jNl859_e8jvs-zBzng09zAaP17jOW62GqqexmsAj8Jc4g966G1ZBIM6BfEA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wvideoofweb.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

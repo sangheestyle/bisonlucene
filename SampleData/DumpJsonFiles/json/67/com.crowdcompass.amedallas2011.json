@@ -1,0 +1,36 @@
+{
+  "title": "AME Dallas 2011 Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.amedallas2011",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "October 20, 2011",
+  "version": "2.7",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.amedallas2011",
+  "extendedInfo": {
+    "installSize": "5.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "AME Dallas 2011 International Conference October 24th - 28th The Official AME Dallas 2011 Mobile App is your digital guide to the Conference. Love the Learning Journal, but wish it wasnât so big? Now you can have the Learning Journal in your pocket! Want a detailed speaker bio? Need help finding your room? Want to search Value Stream Presentations by topic? Need to look up the tour thatâs right for you? Want to share your contact information with another AME member? We have an app for that! The Association for Manufacturing Excellenceâs International âExcellence Inside\" Conference is the largest Lean and continuous improvement held in North America. AME is the premier organization for the exchange of knowledge in enterprise excellence. Members come together to share best practices and network in order to advance their careers and improve the competitiveness and overall value of their organizations. Today, our profession requires increased productivity and specialized solutions. Members entrust AME - a repository of highly productive industry practices with a membership of proven leaders - to find them. Come join us in Dallas to understand why global leaders invest a significant portion of their training budgets with AME.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

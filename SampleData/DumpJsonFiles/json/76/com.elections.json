@@ -1,0 +1,40 @@
+{
+  "title": "Sotak Amana (Egypt Elections)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elections",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "June 16, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "Amr Barakat",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elections",
+  "extendedInfo": {
+    "installSize": "299k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Lebanese Parliament elections 2013.- laws- News- Polls- Candidates- Results",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.REBOOT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

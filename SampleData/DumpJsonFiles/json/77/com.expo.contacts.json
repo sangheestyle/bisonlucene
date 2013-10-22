@@ -1,0 +1,49 @@
+{
+  "title": "routeOne Contacts",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.expo.contacts",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 2, 2013",
+  "version": "2013.7",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Pocket Places",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.expo.contacts",
+  "extendedInfo": {
+    "installSize": "8.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "routeOne Contacts - An app for the Bus & Coach Industry.Contacts - routeONEâs well respected directory for the bus and coach industry - is now a free to download app. Contacts is the âGo toâ place for the industry as we have brought our fully-searchable and interactive electronic database to your pocket, with thousands of up-to-date contact details for industry suppliers and operators. Whatâs more, our database of key industry figures, bodies and authorities is on the app too â there for you to contact in times of need. Features â Industry database with contact information for Bus and Coach Operators, Suppliers and more.You can search for companies by name, by listing and by location. You can view on the map exactly where the nearest business is to suit your needs, and contact them instantly at the touch of a button.",
+    "reviews": [
+      {
+        "timestampMsec": "1374757197408",
+        "starRating": "5",
+        "title": "Contacts",
+        "comment": "Great app for anyone involved in the bus and coach industry",
+        "commentId": "gp:AOqpTOG6401NrXCFcSPktpAIFUbqNLuFayxflhxl4t-dfACOT8uw0qZnVMyYXHl7mU36FGppUpHg7cjRJZJJUQ",
+        "author": "Steve Black",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

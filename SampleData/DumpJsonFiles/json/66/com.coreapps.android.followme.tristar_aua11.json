@@ -1,0 +1,41 @@
+{
+  "title": "AUA Annual Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_aua11",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 3, 2011",
+  "version": "1.8.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_aua11",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The AUA Annual Meeting is the largest gathering of urologists in the world, providing unparalleled access to groundbreaking research, new guidelines and the latest advances in urologic medicine. Last year's Annual Meeting welcomed more than 11,000 urologic professionals from more than 80 countries worldwide, underscoring the fact that the AUA Annual Meeting is truly a global event!",
+    "reviews": [
+      {
+        "documentVersion": "1.8.3",
+        "timestampMsec": "1305651398906",
+        "starRating": "5",
+        "comment": "Great way to navigate the Annual Congress",
+        "commentId": "lg:AOqpTOHrm1E4aT53K9vXKlGi7GAH34eNwV-HGlLjAB9K0_vu0hEVwqQ4QzfCxWxaT5tQHv5Y58LoNF3L0TdcuQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

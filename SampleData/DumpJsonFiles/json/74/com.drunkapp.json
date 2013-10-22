@@ -1,0 +1,57 @@
+{
+  "title": "Stop Drunk Texts 1.5",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drunkapp",
+  "category": "Communication",
+  "price": "$0.99",
+  "datePublished": "June 6, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "9",
+  "rating": "1.4444444",
+  "contentRating": "Not rated",
+  "creator": "Tough Love Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drunkapp",
+  "extendedInfo": {
+    "installSize": "213k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Negative comments are from people who aren't reading instructions. Email us if you don't get it!Select contacts you shouldn't text when you're drunk. To regain access, pass a typing test in 30 seconds. You have 2 tries. If you fail the test, you're probably drunk, so we prevent you from texting that contact for 4 hours.",
+    "reviews": [
+      {
+        "timestampMsec": "1279289830362",
+        "starRating": "1",
+        "comment": "Would be better if you could select multiple numbers at the same time and set a time frame, like the drunk blocker.",
+        "commentId": "lg:AOqpTOGy0qifFhYtM0xW3s4DyGDVFKmq5XZ8SSZ99p_Qp4xmfg50mOM6ZksSU9hvBlXS50k2yFDb175l08tAOCY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1285879180888",
+        "starRating": "1",
+        "comment": "Force closes every time on Sprint HTC Hero",
+        "commentId": "lg:AOqpTOGhNEr9-gpdOeuF6U10_9en7E_uEysnEUNeykG3fDRzhkZVqqk-I2gYM-_MLnkecO0k-NLo7lAqU7bLs2k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1280761991328",
+        "starRating": "1",
+        "comment": "Couldn\\'t do it when sober!!",
+        "commentId": "lg:AOqpTOH_t1cK6ynRKq1VxoIPRaJvh4dStmKPmdx0JtgN4i5jiewau8T0g1XQm-tqfIw8Nq0u9mVlT3ER8aqNxi4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

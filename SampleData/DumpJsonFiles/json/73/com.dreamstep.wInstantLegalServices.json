@@ -1,0 +1,32 @@
+{
+  "title": "Instant Legal Services",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wInstantLegalServices",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 29, 2011",
+  "version": "0.18.13146.84466",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "MC App Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wInstantLegalServices",
+  "extendedInfo": {
+    "installSize": "113k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Have you been in an Auto Accident in the last two years? Have you recently been Arrested for DUI or suffered from a personal injury that deserves compensation. This app is here to help. Simply download this app and select the legal service you would like to pursue. Once you click the button you will be instantly connected to the legal service of your choice.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wInstantLegalServices.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

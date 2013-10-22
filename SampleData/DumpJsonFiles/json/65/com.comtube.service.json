@@ -1,0 +1,34 @@
+{
+  "title": "Virtual Number",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.comtube.service",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 21, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.3333333",
+  "contentRating": "Everyone",
+  "creator": "Comtube Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.comtube.service",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "\"Virtual Number\" application allows you to buy a virtual number (you can chose from more than 9000 cities around the world) for incomming calls. Now there is no need to open additional offices in other cities, just buy a virtual number and redirect incoming calls to any location, wherever you are.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

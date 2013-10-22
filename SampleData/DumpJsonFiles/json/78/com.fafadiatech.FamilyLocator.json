@@ -1,0 +1,42 @@
+{
+  "title": "AutoSoft Family Locator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fafadiatech.FamilyLocator",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "September 11, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Auto Soft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fafadiatech.FamilyLocator",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This application is used for social networking. You can find the location of your family member and friends.",
+    "reviews": [
+      {
+        "timestampMsec": "1377018072847",
+        "starRating": "1",
+        "title": "Nope very poor",
+        "comment": "This is horrible it takes forever to load!!",
+        "commentId": "gp:AOqpTOH2tje9w3tiEMtTNxrWWq9reUQUDrh_vuZY3IEtmgFzhp-BpOzf3E6pf6rfqfhgKdgyFtoIToiV74keEdM",
+        "author": "Dalya Aldoar",
+        "authorURL": "http://lh6.googleusercontent.com/-pqNmmraI5lM/AAAAAAAAAAI/AAAAAAAAAQw/UJHJHlWMPuE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-pqNmmraI5lM/AAAAAAAAAAI/AAAAAAAAAQw/UJHJHlWMPuE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

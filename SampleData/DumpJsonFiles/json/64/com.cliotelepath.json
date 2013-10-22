@@ -1,0 +1,50 @@
+{
+  "title": "Clio Telepathy Painter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cliotelepath",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "March 3, 2012",
+  "version": "2.2.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Clio Squad",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cliotelepath",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Clio Telepathy Painter is a whole new painting and chatting tool on Android devices. With Clio, you can paint and share your inspiration with your friends by wireless links on more than three Android Pads or Mobile Phones. It's also a perfect family game for you and your children.Clio Telepathy Painter allows you to easily set a chatting group on Wifi and let others join your group, chatting and sketching together!It also offers Bluetooth link in case there is no Wifi access. Notice that the Bluetooth Mode could only support two devices linking.You are welcomed to purchase Clio Super Painter for painting typically on Pads or big-screen phones on Android Market. It only costs 1.49$. How to do synchronous painting via wifi?        First, it must be ensured that every single one of the users has been connected to the wireless hotspot if they want to use synchronous painting. Keep it in mind that they have to connect to the same wireless hotspot. The wireless hotspot can be a wireless router or some other devices like Mobile Phones or PC which can work as a hotspot.    After connecting to the wireless hotspot, one of the users should set up a group and name it.  The other uers then join in the group after they find it. A new user will get the current canvas shared by the group.For more information, please go to Clio's official Facebook. http://www.facebook.com/pages/Clio-Super-Painter/160853880683927",
+    "reviews": [
+      {
+        "documentVersion": "2.2.0",
+        "timestampMsec": "1337700250577",
+        "starRating": "5",
+        "title": "Rate from Egypt",
+        "comment": "Nice app",
+        "commentId": "lg:AOqpTOHGl4H2tuhhM6g8jOY7dWQDwKYZTx2eD5lk7Bq0awNkErOr-qB6LPm2rdOn4lZqhYTW6xzyiCPrJphzvg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329186442716",
+        "starRating": "5",
+        "title": "Funny New Way to Communicate",
+        "comment": "Impatient to try new features !!!",
+        "commentId": "lg:AOqpTOFsARucflX2FhOP2WRZEJBEo5F8X-5kmdBLPAHeHseKraYlO-9UwMMm8FwEAcHQsgn4uk78ZvHByMa5Dw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

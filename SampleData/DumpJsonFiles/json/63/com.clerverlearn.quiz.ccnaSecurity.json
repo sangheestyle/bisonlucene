@@ -1,0 +1,71 @@
+{
+  "title": "CCNA Security Quiz",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clerverlearn.quiz.ccnaSecurity",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "CLEVERLEARN",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clerverlearn.quiz.ccnaSecurity",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The 640-554 Implementing Cisco IOS Network Security (IINS) exam is associated with the CCNA Security certification. This exam tests a candidate's knowledge of securing Cisco routers and switches and their associated networks. It leads to validated skills for installation, troubleshooting and monitoring of network devices to maintain integrity, confidentiality and availability of data and devices and develops competency in the technologies that Cisco uses in its security infrastructure.Candidates can prepare for this exam by taking the Implementing Cisco IOS Network Security (IINS)course.App features: There are three main functions focusing on program Training The questions are categorized according to the main topics in the CCNA program to strengthen candidates' knowledgeIn this section, candidate can choose the number of questions in order or random, set the countdown timer for each practicing item. Exam  \tCandidate will have the opportunity to test with the number of questions in the same time as the CCNA exam. After completing, the result will be notified immediately   History  \tCandidate can review the result of previous examThere are three types of questions that app can support:â¢\tSingle choiceâ¢\tMultiple choiceThe following topics are general guidelines for the content likely to be included on the Implementing Cisco IOS Network Security (IINS) exam. However, other related topics may also appear on any specific delivery of the exam. In order to better reflect the contents of the exam and for clarity purposes, the guidelines below may change at any time without notice.Common Security Threatsâ¢\tDescribe common security threatsSecurity and Cisco Routersâ¢\tImplement security on Cisco routersâ¢\tDescribe securing the control, data, and management planeâ¢\tDescribe Cisco Security Managerâ¢\tDescribe IPv4 to IPv6 transitionAAA on Cisco Devicesâ¢\tImplement AAA (authentication, authorization, and accounting)â¢\tDescribe TACACS+â¢\tDescribe RADIUSâ¢\tDescribe AAAâ¢\tVerify AAA functionalityIOS ACLsâ¢\tDescribe standard, extended, and named IP IOS access control lists (ACLs) to filter packetsâ¢\tDescribe considerations when building ACLsâ¢\tImplement IP ACLs to mitigate threats in a networkSecure Network Management and Reportingâ¢\tDescribe secure network managementâ¢\tImplement secure network managementCommon Layer 2 Attacksâ¢\tDescribe Layer 2 security using Cisco switchesâ¢\tDescribe VLAN securityâ¢\tImplement VLANs and trunkingâ¢\tImplement spanning treeCisco Firewall Technologiesâ¢\tDescribe operational strengths and weaknesses of the different firewall technologiesâ¢\tDescribe stateful firewallsâ¢\tDescribe the types of NAT used in firewall technologiesâ¢\tImplement zone-based policy firewall using CCPâ¢\tImplement the Cisco Adaptive Security Appliance (ASA)â¢\tImplement Network Address Translation (NAT) and Port Address Translation (PAT)Cisco IPSâ¢\tDescribe Cisco Intrusion Prevention System (IPS) deployment considerationsâ¢\tDescribe IPS technologiesâ¢\tConfigure Cisco IOS IPS using CCPVPN Technologiesâ¢\tDescribe the different methods used in cryptographyâ¢\tDescribe VPN technologiesâ¢\tDescribe the building blocks of IPSecâ¢\tImplement an IOS IPSec site-to-site VPN with pre-shared key authenticationâ¢\tVerify VPN operationsâ¢\tImplement Secure Sockets Layer (SSL) VPN using ASA device manager",
+    "reviews": [
+      {
+        "timestampMsec": "1371593708189",
+        "starRating": "5",
+        "comment": "perfect",
+        "commentId": "gp:AOqpTOFtCmvfGll6iHpjssvLx5XeAcQzi6NpHhUbFUmKa-03lI1wMby_QD4MpM0bh277ziotBqAL8id7mSzRzA",
+        "author": "Anderson Moreta Perez",
+        "authorURL": "http://lh6.googleusercontent.com/-um6oeQKqb8U/AAAAAAAAAAI/AAAAAAAAABM/ommeNfig3Dg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-um6oeQKqb8U/AAAAAAAAAAI/AAAAAAAAABM/ommeNfig3Dg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373862997658",
+        "starRating": "4",
+        "title": "Super",
+        "comment": "Very yousfull",
+        "commentId": "gp:AOqpTOHoQJz6eOzC9Qh3n2arSFXXIJ3R396yL_jBr5B-ihh2aVnj0yPIdsBXmY3ZAWh6ZYhAbDFGnsFhP7-vhA",
+        "author": "Aneesh Kumar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.READ_SETTINGS",
+      "com.motorola.dlauncher.permission.READ_SETTINGS",
+      "com.fede.launcher.permission.READ_SETTINGS",
+      "com.lge.launcher.permission.READ_SETTINGS",
+      "org.adw.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.INSTALL_SHORTCUT",
+      "com.motorola.dlauncher.permission.INSTALL_SHORTCUT",
+      "com.lge.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_TASKS",
+      "com.clerverlearn.quiz.ccnaSecurity.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

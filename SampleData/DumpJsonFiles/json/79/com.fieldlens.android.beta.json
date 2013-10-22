@@ -1,0 +1,49 @@
+{
+  "title": "FieldLens Private Beta",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fieldlens.android.beta",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "1.0.22",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "FieldLens, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fieldlens.android.beta",
+  "extendedInfo": {
+    "installSize": "7.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "******This is a Private Beta Application. Join the WAITLIST on www.fieldlens.com to get a BETA INVITE soon******* FieldLens enables everyone on a construction project to create, communicate and resolve issues instantly from anywhere.FieldLens is different. Set up a project in seconds. React to field issues instantly. Use FieldLens alone or invite your entire project team. A flexible solution that makes jobs of all sizes more efficient.Key Features:- Design consultants, general contractors, and project owners can create project deficiencies and safety issues direct from their smartphone, seamlessly including video, pictures, voicenotes, and more.- Subcontractors can react to assigned issues with status updates, multimedia, questions, comments and more.- All communication occurs in real time - whether you are using a smartphone, tablet, or computer.- All users can create project observations and issue custom reports to anyone via pdf, spreadsheet, or link to a web based report that includes rich multimedia.- Create drafts in the field and seamlessly finish your work in the office.- FieldLens works fully offline - an internet connection is not required to view existing issues or create new ones.- Create custom newsfeeds - quickly filtering by issues that matter to you. Subscribe to email or push notifications for any pertinent issue.- All users have access to the project directory via FieldLens - no more hunting for contact information for the project team.",
+    "reviews": [
+      {
+        "timestampMsec": "1372454271879",
+        "starRating": "5",
+        "title": "Fast & Easy to use",
+        "comment": "This app is great for construction site supervision.  Including daily logs, tracking of issues, second tier subcontractors, and logging decisions made in the field.",
+        "commentId": "gp:AOqpTOE79MD5FXRPfLLSx1eV61GyR0gHfwFJUB9NImMVzDiBkzE3-iTMsLj2ReTN3dvkcKx0XisbEvU4rDybOA",
+        "author": "Byron Gehrig",
+        "authorURL": "http://lh3.googleusercontent.com/-NsFjVO9YxA4/AAAAAAAAAAI/AAAAAAAAAIw/DMPXU-jw0QE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-NsFjVO9YxA4/AAAAAAAAAAI/AAAAAAAAAIw/DMPXU-jw0QE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.CALL_PHONE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CAMERA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "com.fieldlens.android.beta.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

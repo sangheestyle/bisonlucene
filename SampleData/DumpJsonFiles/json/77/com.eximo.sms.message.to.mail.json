@@ -1,0 +1,32 @@
+{
+  "title": "SMS Message to Mail",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eximo.sms.message.to.mail",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "July 30, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "MobileApp2013",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eximo.sms.message.to.mail",
+  "extendedInfo": {
+    "installSize": "514k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The program \"SMS Message to Mail\" sent to the specified Email incoming and outgoing SMS through its service. For authorization to mail servers using Google email. Work with android 2.x . New version will be support android 4.x .",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

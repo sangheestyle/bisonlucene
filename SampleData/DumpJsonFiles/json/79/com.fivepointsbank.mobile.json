@@ -1,0 +1,36 @@
+{
+  "title": "Five Points Bank Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fivepointsbank.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 29, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fivepointsbank.mobile",
+  "extendedInfo": {
+    "installSize": "721k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Five Points Bank MobileÂ® is a fast, secure, and free* service for Five Points Bank. It is optimized for iOS devices and available 24/7 using your existing Five Points Bank OnlineÂ® Username and Password.Your security is our priority â Mobile data transmissions are safeguarded by 128-bit SSL (Secure Socket Layer) to prevent unauthorized access. Our Online Security Guarantee provides added protection against unauthorized access to your accounts. We will never transmit your account number, and we will not store your username or password on your phone.ACCOUNT ACTIVITYâ¢ View your account balances and activityâ¢ Available balance and pending deposits â learn more about how your available balance is calculated and whatâs still pending. Note, some transaction activities may not be immediately recorded to your account and may not yet be reflected in the available balanceâ¢ Search and Sort â Find the transaction you're looking for in just a few keystrokesâ¢ Detailed transactions list â View the date, location, amount, and more for transactions on one page, just like you see in Online Banking.TRANSFERSâ¢ Make transfers between accounts..BILL PAYâ¢ Schedule payments and pay bills right from your mobile deviceâ¢ If you're already a Bill Pay customer, your payees are automatically available for use in Mobile Bill PaySEND AND RECEIVE MONEYâ¢ Popmoney - Send money, using a mobile number or email address, to friends and family with eligible accounts at participating financial institutions.MOBILE DEPOSIT - NEW - Now available nationwideâ¢ Deposit checks with your mobile deviceKeywords Five, Points, Bank, Mobile, Banking, 5 points, Online, fpb",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

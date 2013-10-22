@@ -1,0 +1,31 @@
+{
+  "title": "Equalization point free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emim.puntodenivelacion",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "June 7, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "EMIM",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emim.puntodenivelacion",
+  "extendedInfo": {
+    "installSize": "936k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Esta aplicaciÃ³n es una herramienta financiera que le permitirÃ¡ calcular el punto de nivelaciÃ³n, conociendo costos fijos, costos variables y el precio. AdemÃ¡s podrÃ¡ hacer estimaciones de las ganancias o pÃ©rdidas que tendrÃ¡ a futuro conociendo datos histÃ³ricos, utilizando un mÃ©todo numÃ©rico, conocido como mÃ­nimos cuadrados ordinarios.La aplicaciÃ³n ideal para su negocio, para administrar su mesada, etc.!Para hacer estimaciones, simplemente deje en blanco la cantidad Q del mes a estimar (en la ventana de datos), asÃ­ como el incremento progresivo de Q. En seguida apriete atrÃ¡s, seleccione \"MÃ­nimos Cuadrados Ordinarios\" y seleccione el mes que usted desea estimar. De esta forma, de una manera analÃ­tica usted estarÃ¡ estimando los costos totales, los ingresos totales y la utilidad o perdida para el mes seleccionado.Nota: Si usted desea estimar un numero n de meses mas aya del ultimo mes conocido, se desplegarÃ¡ el informe de cada uno de los meses desconocidos. Es decir si tiene como datos histÃ³ricos hasta abril y desea estimar julio, se mostrara el informe de las estimaciones de mayo, junio y julio.Agradecemos sus comentarios y realimentaciÃ³n.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_WALLPAPER",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

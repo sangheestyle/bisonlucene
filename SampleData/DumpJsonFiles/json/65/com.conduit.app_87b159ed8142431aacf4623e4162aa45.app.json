@@ -1,0 +1,39 @@
+{
+  "title": "CIQ Moment App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_87b159ed8142431aacf4623e4162aa45.app",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "December 22, 2011",
+  "version": "1.17.23.6102",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "CIQ Music",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_87b159ed8142431aacf4623e4162aa45.app",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "CIQ Moment A free Special Edition Lite App capturing the heartbeat of CIQ & most important updates as they happen!! Here you can follow and share in CIQ's personal artistic journey, moment by moment as it unfolds, her thoughts and actions, as she continues to carve out her creative niche and personal influence in history. More apps CIQApp.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_87b159ed8142431aacf4623e4162aa45.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

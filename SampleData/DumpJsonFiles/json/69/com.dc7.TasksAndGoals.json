@@ -1,0 +1,38 @@
+{
+  "title": "Task & Goal Tracker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dc7.TasksAndGoals",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "5.46",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "3.8",
+  "contentRating": "Everyone",
+  "creator": "DC7 Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dc7.TasksAndGoals",
+  "extendedInfo": {
+    "installSize": "346k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "- Create and manage your tasks, goals and projects, events (fixed, annual and weekly) and notes- Monitor your schedule using the Calendar screen- Organise and keep on top of items by prioritising, sorting and flagging them- Use the various widgets including the Items and Item Countdown widgets to stay informedTasks & Goals+ unlocks the following extra features:- No Ads displayed- View and edit items (including Android Calendar items) directly from the Calendar screen- Option to protect access to your data using a login pattern- Option to import and export your data (CSV file format)",
+    "reviews": [
+      {
+        "timestampMsec": "1378274240950",
+        "starRating": "4",
+        "comment": "The good just got better ..",
+        "commentId": "gp:AOqpTOEpqqkL4H__LOJEldZTj9jFmFxVEr8p8lJbQGkKhGb2Iu6V6zjgDcJi2CWYIh7j5BWVSG3TVuYySpnqc_w",
+        "author": "Rahul V. Pathare",
+        "authorURL": "http://lh5.googleusercontent.com/-VZhMJcOPpDw/AAAAAAAAAAI/AAAAAAAACLU/vYnhpoPltn0/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-VZhMJcOPpDw/AAAAAAAAAAI/AAAAAAAACLU/vYnhpoPltn0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

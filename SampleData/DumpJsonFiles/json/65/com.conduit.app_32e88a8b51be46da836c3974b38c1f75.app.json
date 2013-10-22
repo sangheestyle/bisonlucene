@@ -1,0 +1,40 @@
+{
+  "title": "Duncan Oil Company",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_32e88a8b51be46da836c3974b38c1f75.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 4, 2013",
+  "version": "1.59.116.1516",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "duncanoil",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_32e88a8b51be46da836c3974b38c1f75.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "An app for all energy needs.  Duncan Oil Company app is a way to better serve our customers.  Call us 1.800.999.6620www.duncan-oil.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_32e88a8b51be46da836c3974b38c1f75.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

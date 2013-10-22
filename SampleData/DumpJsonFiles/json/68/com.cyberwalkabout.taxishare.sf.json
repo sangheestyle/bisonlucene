@@ -1,0 +1,61 @@
+{
+  "title": "Taxi Share San Francisco",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cyberwalkabout.taxishare.sf",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "October 13, 2011",
+  "version": "3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Low Maturity",
+  "creator": "CyberWalkAbout.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cyberwalkabout.taxishare.sf",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "FInd other people going in the same direction on the map (sport event, conference, air port). Chat with them anonymously, share the ride, safe money.- Great app for TAXI starved city like San Francisco.- Great \"Don't drink and drive\" initiative!- Great app to conserve energy and costs for people traveling the same direction.",
+    "reviews": [
+      {
+        "timestampMsec": "1316632298125",
+        "starRating": "5",
+        "title": "Awesome Concept",
+        "comment": "This is perfect for San Fran! Not nearly enough cabs to go around! Can\\'t wait to share a ride to the airport and save some money too! Great idea!",
+        "commentId": "lg:AOqpTOHHGnSM4g0AnOn0BCFaQpq3SSqaXsjx9ufmOC_HST3i-WlF2YeuuQ_nDU37JG5GwwcIUHao-eUNKIRjHA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316629762856",
+        "starRating": "5",
+        "title": "Great for saving on ride costs",
+        "comment": "Good app to find people going the same direction and saving on cab costs. I hope more people will show up on the map soon. Chat is very good.",
+        "commentId": "lg:AOqpTOG0mrMhYUnj1EvJbytVm4rDmXOnE-qNa0UZkRaJ5bcf-y6vv7VvPo3jfL12bS6Lr5vbefbYk4DuUTbsqQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347720221794",
+        "starRating": "1",
+        "title": "it doesn\\'t work on Galaxy Note",
+        "comment": "it doesn\\'t work on Galaxy Note",
+        "commentId": "lg:AOqpTOGKCiNzSSSBR-ZtySU4UeLc8Hm7yW227Li5cpkXTvqe0LhBKpSZk4OmYrk9na2DxWT4MJOTUgIfVP-qMw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "com.chicagoandroid.taxishare.permission.C2D_MESSAGE"
+    ]
+  }
+}

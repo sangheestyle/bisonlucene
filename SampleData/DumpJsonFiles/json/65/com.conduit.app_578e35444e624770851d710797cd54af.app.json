@@ -1,0 +1,38 @@
+{
+  "title": "SCENE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_578e35444e624770851d710797cd54af.app",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "January 13, 2013",
+  "version": "1.28.32.624",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "High Maturity",
+  "creator": "SCENE",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_578e35444e624770851d710797cd54af.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Join the Twin Cities gay community, who are linked into Facebook and Twitter; and the pulse of our community. \"Follow\" us, \"Like\" us, and be part of our social network conversation.Stay up to date with SCENE events, read our publication online, listen to our local DJ's, and find where you want to go on our SCENE Map.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_578e35444e624770851d710797cd54af.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

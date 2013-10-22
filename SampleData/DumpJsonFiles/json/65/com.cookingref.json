@@ -1,0 +1,48 @@
+{
+  "title": "Chefs Companion",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cookingref",
+  "category": "Productivity",
+  "price": "$2.50",
+  "datePublished": "April 28, 2012",
+  "version": "5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Fritz Buehler",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cookingref",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Features 1. Meat Fish and poultry and wild game Internal Cooking temp quick reference 2. USDA FSIS Cold Storage Reference 3. Dry Conversion Calculator 4. Liquid Conversion calculator 5. Temperature Conversion 6.  Fresh Herb to powdered or crushed converter 7. USDA FSIS Internal Cooking time Reference including Game 8. A Brief History about meat 9. Kitchen timer 10. To-do list planner that will sync with Google calendar 11. A Shopping list, that will do barcode scans, and lookups,    With the ability to import a .txt file from your Sdcard.    As well as share it in any manner your phone is able.    Ability to edit and store multiple shopping lists. 12. A Recipe Data Base editable with the ability to     Import recipes as .txt Files From your SDcard 13. A Meat Cutting Reference 14.  An Herbs and spices database with several entries, more to come,     I may make this editable if there are requests for it  15. An Online Wine list Open Wine list With Thousands of Wines and reviews 16. Built in Online Access to the USDA Nutrient Database for Looking up Information     On Thousands of different types of foods 17. More to Come As I get requests from users my intention is to keep this app      Affordable And Pack It with Dozens of Features adding more as they are requested.",
+    "reviews": [
+      {
+        "timestampMsec": "1330298641196",
+        "starRating": "5",
+        "title": "Really Useful",
+        "comment": "Has tons of features and its perfect for both the weekend Chef or for the professional who wants to select the right wine with a new entre.",
+        "commentId": "lg:AOqpTOHnvnMyUfKtOsP5IhbeoRElWZ9JMnD_LKC8QSAUvThw9ykD3BpVc8XNCSrUaLT6-varPAz638SV9XyiJTs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336924415428",
+        "starRating": "5",
+        "title": "Handy all around tool",
+        "comment": "Lots of uses!",
+        "commentId": "lg:AOqpTOEEfbRxnuPEmi5nmYAWfarPQ5iBcOgMGEfS5UtB3H_WJxdrUAsZBqL9pdG9ydy9pkRR4tIIYhVl4IseY5Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

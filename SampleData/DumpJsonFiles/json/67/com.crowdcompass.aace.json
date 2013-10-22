@@ -1,0 +1,44 @@
+{
+  "title": "AACE International",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.aace",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 11, 2013",
+  "version": "2.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.aace",
+  "extendedInfo": {
+    "installSize": "7.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mobilize your career in total cost management and AACEÂ® International with this mobile app. While the AACE mobile app is designed for AACE members, certified individuals, and Annual Meeting attendees, anyone can utilize the AACE mobile app. Why? To learn more about why AACE is the authority for total cost management and what AACE can do for you. AACE members and certified individuals will find the AACE mobile app to be an easy way to access and manage their benefits. If you are registered for the AACE Annual Meeting, you will be able to build a calendar of events, access technical papers, maintain contacts with fellow attendees, and maximize your Annual Meeting experience.App keywords :AACE, AACE International, AACEI, AACE Annual Meeting, total cost management,",
+    "reviews": [
+      {
+        "timestampMsec": "1370961104094",
+        "starRating": "5",
+        "comment": "Great features n too professional",
+        "commentId": "gp:AOqpTOEsicZmGI0Wurrq1fJy8Un6IB78HjMbu-LRX72pZHQA_Ezh3hCRgt_zr57tcs-msi6onu3r3jPwXPuJBg",
+        "author": "Paljeet Singh",
+        "authorURL": "http://lh6.googleusercontent.com/-kNfeD00QPa0/AAAAAAAAAAI/AAAAAAAAEgY/DkMCtijipNM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-kNfeD00QPa0/AAAAAAAAAAI/AAAAAAAAEgY/DkMCtijipNM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.aace.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

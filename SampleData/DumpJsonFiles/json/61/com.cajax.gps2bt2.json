@@ -1,0 +1,204 @@
+{
+  "title": "GPS 2 Bluetooth v.4",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cajax.gps2bt2",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 19, 2013",
+  "version": "4.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "286",
+  "rating": "3.632867",
+  "contentRating": "Low Maturity",
+  "creator": "cajax",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cajax.gps2bt2",
+  "extendedInfo": {
+    "installSize": "232k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "This small widget allows You turn your mobile phone to fully functional GPS receiver accessible via Bluetooth. You can use any desktop software like Google Earth or any other NMEA compatible.NOTICE!: Creating SPP port may fail with Widcomm stack.NOTICE2!:Widget simulates NMEA while GPS is not fixed yet. This simulation is based on Cell Tower information and may be  coarse.",
+    "reviews": [
+      {
+        "timestampMsec": "1370872766691",
+        "starRating": "3",
+        "title": "Doesn\\'t start or stop reliably",
+        "comment": "Works once started. However, pressing the start or stop button in the main window doesn\\'t appear do anything most of the time. There is also no notification when the service is running.",
+        "commentId": "gp:AOqpTOEh8OWl5xtcvpV4JZr_RIjAnftFsYVXpkQf99Mg0lCxir8aMxt6Ud6Xf7FRMi9pgxauXaM7dxB03eFDLQ",
+        "author": "Albert Lee",
+        "authorURL": "http://lh4.googleusercontent.com/-wR9O2BX-bFg/AAAAAAAAAAI/AAAAAAAABGI/xY-2Yt0y3Fc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-wR9O2BX-bFg/AAAAAAAAAAI/AAAAAAAABGI/xY-2Yt0y3Fc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366791864006",
+        "starRating": "5",
+        "title": "Great app since last update",
+        "comment": "This is a great app since the last update when it turned on the GPS itself. Works to set an accurate time / location for my computer controlled telescope.",
+        "commentId": "lg:AOqpTOFOYeNsW6sWjE0Mw0hdfD86g4UlrWVbpTa4B2CjiuC_mFz0g1Jr1KCdpsjq-J46_6_NhaGKAtkdPFq8dg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316667765400",
+        "starRating": "4",
+        "title": "Works good, channel changing needs fixing",
+        "comment": "Works as I expected, gpsd up and running. I wrote a shell script to deal with the changing channel number im not sure if market will let me post it: pkill gpsd rfcomm release /dev/rfcomm0 Channel=`sdptool browse <BLUETOOTH MAC> | grep -A 7 GPS | tail -n 1 | awk -F\\\\ \\'{print $2}\\'` rfcomm bind /dev/rfcomm0 <BLUETOOTH MAC> $Channel echo \\\"Channel= $Channel\\\" gpsd /dev/rfcomm0 & Hopefully this helps someone else",
+        "commentId": "lg:AOqpTOF63tLG6r2cTSiuTRNB6AUXZYN7e-C1DTARX6DZXVXcIXJMwCYWDIj6-JFjkej4o-4gkvm-LkR7BNJblA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341429162721",
+        "starRating": "1",
+        "title": "Doesn\\'t work/HTC Desire HD/win7",
+        "comment": "In the instructions it says:  1. Pair PC and phone if never paired them before 2. Enable widget. 3. In Bluetooth configuration utility on your Desktop go to Settings->COM Ports section. 4. Click Add... In new dialog pick Outgoing and your phone in list of devices. In list of services pick first and click OK.  It doesn\\'t appear on the list of services so I can\\'t add it.",
+        "commentId": "lg:AOqpTOE4shC74vsGUaeN3zIS-JxTlTCNfgnUlW1OBGkBb8ag9LFRKc7ZFjmv_Jx7h2ujkZTPPrQ9amLga0_S8A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342202976511",
+        "starRating": "5",
+        "title": "Works great for me!",
+        "comment": "Loaded this on my Atrix and paired out with my laptop and use it with Garmin Mobile PC -which I had to upgrade to the latest version before it would find the GPS.",
+        "commentId": "lg:AOqpTOGMrkkVvhQZn3LLH1J9Rtqp9AyCyAsvnaENLeXSlgwUvmdi2KxiO2SWZTV6ccEz5HvKn9b28eRY1hef3w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342729922841",
+        "starRating": "1",
+        "title": "Not working on Samsung Galaxy Mini (GT-S5570B)",
+        "comment": "While it is stayed it must, it don\\'t: after two installs, including phone restart, it does not create any widget, and, of course, any stream (no NMEA, not other) on Bluetooth connection. So, GT-S5570B must to be removed from a list of compatible devices.",
+        "commentId": "lg:AOqpTOGnq9rMTLbneS1eKtg9_ESRNoW_Yp7vMuVKpIV5V1_DBwU8ExyLfz6PD9mX4K8krDQWWxVXRHF3R5T6lA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357612496419",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Good work",
+        "commentId": "gp:AOqpTOFjK2N9e1XJhOI5DR61_-LaqW1_p3nFWdJHnUcTRv9SvSD_ZRti542bQWBdGUAxD6pnMnzXEdPasFIz2w",
+        "author": "Farah Mohammed",
+        "authorURL": "http://lh4.googleusercontent.com/-a7WNX-tfRD0/AAAAAAAAAAI/AAAAAAAAAOU/37Dg8I2JIlM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-a7WNX-tfRD0/AAAAAAAAAAI/AAAAAAAAAOU/37Dg8I2JIlM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1344036708775",
+        "starRating": "4",
+        "comment": "No working at first. Then I found this trick. 1 start the widget. 2 Start a program that kicks off GPS receiver. 3 Get the paired device to run. Ok",
+        "commentId": "lg:AOqpTOGqsnLPirVNX4xm6hVBl-S3ML61ydNhZe7yjcOwoZ15hh-S5-8Z7TePIiqMFLzTjShNDMvgVrxIZ8u4jQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330547396964",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Pairs my Transformer Prime to my Nexus works great if the widget doesnt show after install restart your phone",
+        "commentId": "lg:AOqpTOEh_9IX1BwP4OoHV_pzzOfII74jE771--ORREeIZDtk4MFV80TbZWUJOtwfy8mdUy_oGt_VHmBagf2WHw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324403911962",
+        "starRating": "1",
+        "title": "crashes",
+        "comment": "launcher pro",
+        "commentId": "lg:AOqpTOFDKc9daMdJQUPqnNSXTtmpexzwNgxLBpNZwteZU4jpWkM9CK-ky_3n6z_Qn8Ue5Dt0H6bVHhlVEcTnHw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1328865424641",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "No wiget created on Motorola Atrix 4G",
+        "commentId": "lg:AOqpTOHTwg775RdiODdixdWZQw_980wrx6-exmZ6GPWWw2wlhDXQpsl24kg1LYESlsx7zfus6A0kw7T0WXSYIQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337388479432",
+        "starRating": "4",
+        "title": "Works",
+        "comment": "Wish it didn\\'t have to be a widget though...",
+        "commentId": "lg:AOqpTOEyT-mKkWWixCxNllE0jZOH87w8qkJA0M7n8rIgJPwBKCJOzYvLKmOEus147Yb9mnkgm609w_T2zl9AJA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1325188163539",
+        "starRating": "1",
+        "title": "miui",
+        "comment": "no widget available on Fascinate with MIUI rom",
+        "commentId": "lg:AOqpTOHb_IsBIcZF4RLAIencFE7dkUgX8q9NH6YqCw20WivYp1YEtezc5-hcwoZliKXFMQFbTowZ56uNMWLqUg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349074093501",
+        "starRating": "5",
+        "title": "g",
+        "comment": "g",
+        "commentId": "lg:AOqpTOFtMaa6St3m8KCM0ZeqGuuiWNC6xD8E5p7H01Y0UDyr1Fg8iVjZrltiTCEf1ZdBIufDi-KZrMRLQHCnaA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1313019747050",
+        "starRating": "4",
+        "comment": "Works great in whatever state it is in but will lock up the phone when switching it on or off. But will continue fine in new state",
+        "commentId": "lg:AOqpTOEvc8zkCmW1TIA1qaJgwYARRQ1QjpWEMa4b5C-zWIPjafmlQFi5h-GD-dhQTaw8BDhFwzhe9fWGxoH8Wg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1295964674529",
+        "starRating": "4",
+        "comment": "Does exactly what I wanted. Interface to microsoft bluetooth stack painless. Wireless survey well and truly GPS\\'d.",
+        "commentId": "lg:AOqpTOHTaIN00s9jV_Yqkxa3ofe3yEcfSMBIuMDXOOWNaTIBFy06W-fTjhi6xQHpAZVOwLQBzBKiDIxCULRKbA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1293494403234",
+        "starRating": "4",
+        "comment": "Works great the first time after I add the widget. I have to remove and re-add the widget each time afterwards. Droid.",
+        "commentId": "lg:AOqpTOHo8aipFDb-V6zvHbeTrto77nNclB9b6KmLMd5r6ECm64Buba1I9eUfryEBt2J2u3VnAsLH1ls2OBOX4A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1292911998654",
+        "starRating": "0",
+        "comment": "Doesn\\'t work on my fascinate with windows vista sp1 could be vista\\'s fault its not allowing any services to appear once outgoing ports selected",
+        "commentId": "lg:AOqpTOGAOalQXNRALnEPdP2GO-E4aXtixlaX2KKqMQ0t71BnzXEhWVP6n2atKf1K2q4sIOq5_WNZR687l_H0bA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1297600307034",
+        "starRating": "1",
+        "comment": "Doesn\\'t work on Dell Streak - slows device to point of being unusable.",
+        "commentId": "lg:AOqpTOHXw5r6Bg_Nt9v5fOU0-9imNXN9U-899Q6YCTxoX3nuNfcV2cdjSBnbAZmNUxpooZDlBXRzlqrCbTkaFA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1304885106550",
+        "starRating": "1",
+        "comment": "Tried twice, uninstalling twice. Could not connect to my vaio neither my sony-C902 which requires external gps. Samsung galaxy pro.",
+        "commentId": "lg:AOqpTOFzntfbmE6O31bZJyzkz2pW7DhHL8oW0MbHwZr_XDg9ZkF3v0Tz9HsDqWa9wgE600a2tl6StgHmf48Q0Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Project Time Log",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.devjockeys.projecttimelog",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "March 30, 2013",
+  "version": "1.1c",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "4.6",
+  "contentRating": "Everyone",
+  "creator": "DevJockeys",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.devjockeys.projecttimelog",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The goal of Project Time Log is to keep track of time you've spent on projects. There are three main actions: 1. Add one or more projects; 2. Start the timer for the project you start working on. Stop the timer when you stop working. You can repeat this as often as you wish; 3. View the log to learn how much time you've spent on your projects (per timer, per day and in total). In addition to these actions you can: - change project properties any time; - make changes to your logs or add/delete logs manually: this comes in handy when you forgot to stop or start the timer; - use the build-in notification system to alert you when a certain amount of time has been exceeded. - export logs for use in spreadsheetsProject Time Log has been designed to be intuitively simple. The best way to get to know it is by testing and trying. There is a predefined 'test project' which you can use for that purpose. When finished testing you can delete it without any consequences. A powerful feature of Project Time Log is that once you've started a timer, it will simply keep on counting until you stop it, even when your device is completely switched off. #################################################### For advanced features, check out Project Time Log Pro.   ####################################################For questions, remarks or suggestions, please contact info@devjockeys.com.",
+    "reviews": [
+      {
+        "timestampMsec": "1362290412307",
+        "starRating": "5",
+        "title": "Clean and simple.",
+        "comment": "To the point, no fuss, easy to use and functional.  Design well thought out.",
+        "commentId": "gp:AOqpTOHUhkxaGKiiTona2vkaD86nrQ7amOW9Tzn3mHwAGyrhhxcuiWlJ5BwMWlDO5uxEnphNJrJq88lgUELQlA",
+        "author": "Frank Kosztelnik",
+        "authorURL": "http://lh4.googleusercontent.com/-I6T821sWTTg/AAAAAAAAAAI/AAAAAAAAAgo/YLCnp3JWpjE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-I6T821sWTTg/AAAAAAAAAAI/AAAAAAAAAgo/YLCnp3JWpjE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369071127183",
+        "starRating": "5",
+        "title": "Smart and simple",
+        "comment": "Flawless...does exactly what is needed to time freelance projects.",
+        "commentId": "gp:AOqpTOGVv1kKSKNAlFsSh0zYbu37oXIsuzEcxA4mYXlzU5ES1qGxdYo9MfcFhIx8i02pV3zuuXr-jIegcnFE-g",
+        "author": "Dena Taub",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

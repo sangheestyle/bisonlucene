@@ -1,0 +1,57 @@
+{
+  "title": "Cloud Notes - Simple Notepad",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.mame.cloudnotes",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "December 31, 2012",
+  "version": "1.7.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "20",
+  "rating": "4.05",
+  "contentRating": "Everyone",
+  "creator": "mameo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.mame.cloudnotes",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "possible to synchronize the draft saved mail on gmail (only pc).As the name implies, this application allows you to work with your noteswithin the cloud.The information you enter here can be saved in gmail by just pressing the synchbutton and can also be referred to on other devices where you have an account.Furthermore, this application is compatible with \"notes\" pre-installed in iPhoneenabling immediate use for anyone who has changed from iPhone to Android.",
+    "reviews": [
+      {
+        "documentVersion": "1.7.3",
+        "timestampMsec": "1342163262217",
+        "starRating": "5",
+        "comment": "Yet",
+        "commentId": "lg:AOqpTOEVSmziFjliDzO1TJpO4wXbThxJE7J9b7iTA8tPCdgTL1VXbFazhdSYeq1D0D6BoU04XAkJzD-o0YwAink",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352260022285",
+        "starRating": "2",
+        "title": "Does not pull notes from Gmail",
+        "comment": "It may be able to sync with Gmail but it does not pull notes previously synced Gmail before you downloaded the app",
+        "commentId": "lg:AOqpTOGEvGxiGBo9TH4-CKfIeFtF_DndGfJSUIhev8zpT1VwlAoIKmqDSwrGFueOclCYW1eBY2sP09on_cTjhn8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368520480857",
+        "starRating": "3",
+        "title": "Cool",
+        "comment": "Nice. Cool wish it can have fonts.",
+        "commentId": "gp:AOqpTOG0r_1TgtSBDfaXa49GRAIZXhdQcVGx0XERQWeyrEyTwH5rh0U7GQl_vNZDfbq2ldKCPq39PZlrU2GvE9s",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS"
+    ]
+  }
+}

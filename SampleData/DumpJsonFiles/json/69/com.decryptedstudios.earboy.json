@@ -1,0 +1,54 @@
+{
+  "title": "Ear Boy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.decryptedstudios.earboy",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "May 29, 2013",
+  "version": "1.1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "Decrypted Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.decryptedstudios.earboy",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Prepare to venture into space as Ear Boy!!! After being born with a defective ear, Ear Boy has decided to venture into space and use his extraordinary hearing powers to absorb all the sound he can find.Ear Boy is a mobile game that bridges the gap between music and gaming. Its gameplay and scenery react to the music being played, creating a strong connection between you, your music, and the game. Ear Boy becomes a relaxing and fun way to pass the time while listening to your favorite music.Note: Application may not be compatible with all devices and media players, using Apollo seems to provide optimal results.  Also, the game uses your music and that means you have to have music on your phone!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1368754656725",
+        "starRating": "1",
+        "title": "let down",
+        "comment": "I downloaded this after seeing it on imgur. The gameplay is simple. Slide left and right to collect notes in his ear. the game claims to change based on your music. Between eminem and duran duran the only difference i saw was the oscilloscope. I was hoping for space to change, not just an oscilloscope. gameplay got boring fast, the \\\"hull level\\\" dropped really fast even though i was still catching notes on \\\"level 2\\\".",
+        "commentId": "gp:AOqpTOFhEUjF2Eb58vXBUjYxQkNoSsPnl1oTwJwaq2lfpzn_8KGTMI7rN-ahKs8NbrySuFxE2B2WR65789Zwb1A",
+        "author": "GlitchData Code",
+        "authorURL": "http://lh6.googleusercontent.com/-IoiDSxuvak4/AAAAAAAAAAI/AAAAAAAAAZc/WNSnQHFzutI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-IoiDSxuvak4/AAAAAAAAAAI/AAAAAAAAAZc/WNSnQHFzutI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368736559009",
+        "starRating": "5",
+        "title": "This game is the best",
+        "comment": "Hey I saw ear boy at the Stony Brook University Game Programming competition and it looked great. I just downloaded it and I haven\\'t put it down! Keep up the good work Decrypted Studios!",
+        "commentId": "gp:AOqpTOHQRn7hgAur47qygG8tXUcw3RVoSD1lP5kL5S2T1I5y2M582nuwEGcZ-4KB8E0T-wbcJnDW898R6AsvlQU",
+        "author": "Jimmy Bouker",
+        "authorURL": "http://lh3.googleusercontent.com/-L0Eu1aatKK8/AAAAAAAAAAI/AAAAAAAAADE/tcjlmRpdOpk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-L0Eu1aatKK8/AAAAAAAAAAI/AAAAAAAAADE/tcjlmRpdOpk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

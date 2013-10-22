@@ -1,0 +1,31 @@
+{
+  "title": "Open WiFi Cleaner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dje.openwifinetworkremover",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 6, 2013",
+  "version": "0.1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "dje",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dje.openwifinetworkremover",
+  "extendedInfo": {
+    "installSize": "605k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Removes open WiFi networks from the saved networks list after disconnecting.Features:    * Notification reminders on connection/disconnection    * Whitelist of open networks to keep    * Settings saved using Google Android backup serviceIf you find this application useful please consider leaving a rating or reviewOpen source under the GNU GPL, http://www.gnu.org/licenses/gplGet involved at https://github.com/duncanje/android-open-wifi-network-removerforget,wifi,network,open,unsecure,unsecured",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

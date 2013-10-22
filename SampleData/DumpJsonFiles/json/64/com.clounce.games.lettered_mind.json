@@ -1,0 +1,35 @@
+{
+  "title": "Lettered Mind",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clounce.games.lettered_mind",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "December 26, 2012",
+  "version": "2.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Everyone",
+  "creator": "Clounce.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clounce.games.lettered_mind",
+  "extendedInfo": {
+    "installSize": "4.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Lettered Mind is a turn based game where the aim is to score points by composing words using the given letters.At the end of the 10 turns provided to each player, the player(s) with the highest score will be the winner. Winners are added to the High Scores table.Version 2.1----------- Lettered Mind is now integrated with Playrock which allows two players to challenge each other using their mobiles wherever they are.- Added support to save the game on SD card- Fixed persistent issue with devices running Android 3.0 upwards.Version 2.0----------Remembering of the last player to play the game. When a group of people plays only the first player playing in the group is remembered.Sharing of score with other players through the online game score board.Play without Internet connection with the embedded dictionary.Automatic synchronization of offline dictionary with our online dictionary.Fixed error when the first letter entered is invalidFixed game restart on orientation changes",
+    "reviews": [
+      {
+        "timestampMsec": "1351533716738",
+        "starRating": "5",
+        "title": "Great game!",
+        "comment": "This is really a great game and a lot of fun!",
+        "commentId": "lg:AOqpTOE7INRvf5-xX89Oa3cetpgluMH0uu_I2ntSonoaL7bGZDXAhkpCDfJ5vfNPQMCW_YP1Bec4A9ybnta6Gw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

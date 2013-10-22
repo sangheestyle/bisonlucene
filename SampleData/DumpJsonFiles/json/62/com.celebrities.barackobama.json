@@ -1,0 +1,39 @@
+{
+  "title": "President Barack Obama",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.celebrities.barackobama",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "January 17, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Movie World",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.celebrities.barackobama",
+  "extendedInfo": {
+    "installSize": "375k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Watch your favorite High Quality Videos on your Android phone now for FREE !!!  DOWNLOAD NOW !!! This Application helps you stream wide array of Latest High Quality Videos. You can Search , Sort and Manage your Favorites by preference. You can also request addition of a videos by using the âMovies on Demandâ feature. Please Rate this application and leave your comments! Email us for suggestions and demands! Happy viewing, folks!Keep visiting our account for other relevant apps and an ever-increasing collection of your favorite applications in Hi-Def!Note: App requires 2G/3G/4G/WiFi connection to Watch Live Movies. The quality of streaming on your device depends upon the speed of your network connection.Disclaimer: The content provided in this app is hosted by YouTube and is available in public domain like: http://www.youtube.com . We do not upload any video onto YouTube. This app is purely an organized way to browse and view videos.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

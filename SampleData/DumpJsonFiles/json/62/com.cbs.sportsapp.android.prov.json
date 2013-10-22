@@ -1,0 +1,41 @@
+{
+  "title": "Providence College Athletics",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cbs.sportsapp.android.prov",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "August 13, 2013",
+  "version": "1.33",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "CBS Sports.com College Network",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cbs.sportsapp.android.prov",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is the OFFICIAL application of Providence College Athletics created by the CBSSports.com College Network, in partnership with the University. This exclusive sports application offers LIVE STREAMED games:************************************************************LIVE VIDEO* & AUDIO*- Upgrade in the application to stream select games************************************************************* Audio and video are only available on certain compatible Android devices running OS2.2 or later. This device has not been tested for video compatibility. In order to access the audio or video please install the Sports Media Player in Google Play and re-launch this application.Annual Subscription $9.99ADDITIONAL APPLICATION FEATURES-\tLive Scoring-\tPlay-by-Play-\tComplete Sport Schedules-\tExclusive breaking sports news-\tVideo on demand-\tAlerts (game start and final scores)-\tTeam and Coaches Rosters & Bios-\t Much moreâ¦COVERS ALL SCHOOL SPORTS!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.cbs.sportsapp.android.prov.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

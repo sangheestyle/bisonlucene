@@ -1,0 +1,63 @@
+{
+  "title": "Dialogic Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dialogic.conference",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "February 8, 2011",
+  "version": "1.2.355",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "9",
+  "rating": "3.5555556",
+  "contentRating": "Everyone",
+  "creator": "David Aubin",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dialogic.conference",
+  "extendedInfo": {
+    "installSize": "4.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is a sample voice and/or video conference application built on top of imsDroid. It's focus is to interact with a to DialogicÂ® PowerMediaâ¢ IP Media Server.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.355",
+        "timestampMsec": "1297357612461",
+        "starRating": "5",
+        "comment": "Instant video and voice response. NICE!!!",
+        "commentId": "lg:AOqpTOE9BXzH30mww06n487u2hiU481Foj5pB8ySUMVcMISSuQ5YxVbQX3vwsoFfa_W_EZny9OxkAlFzrTt1NVk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.355",
+        "timestampMsec": "1297357492839",
+        "starRating": "5",
+        "comment": "Works well on galaxy pad and EVO.",
+        "commentId": "lg:AOqpTOHb13F2j0XZRDsuMh9wJBzjeifNIi24WvAME99rcc6GCcMgqRzi4WgWcoKoFuKwboEVIPRWhDG05AKO4zw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Big Data Overload",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.sas.bigdataoverload",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "February 15, 2013",
+  "version": "0.0.6",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "14",
+  "rating": "3.9285715",
+  "contentRating": "Low Maturity",
+  "creator": "SAS Institute Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.sas.bigdataoverload",
+  "extendedInfo": {
+    "installSize": "39M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "You are a business decision maker working in a high paced environment where exploiting data is critical to your survival. Unfortunately things are getting very difficult. Challenged by velocity, volume, variety, visibility and validity you are finding it increasingly difficult to extract value from big data. In this game you will Take on the 5 Vs and see how much value (the 6th V) you can derive from the data. How long can you survive... Can you exploit all of the data before it hits the decision horizon and its value is lost forever...? Match and Tap the data balls to make a good decision... Watch out for rogue and lucky data balls! At some point you will reach Big Data Overload... That is where the SAS powered analytic V-Cans can help. They are there to help you at any point... They do stuff humans canât do... They have the Power to Know. But there is a cost to using them. Finding the right time to deploy them is critical. The value they return can be immense when used at the right time. Use the Visual Dashboard feedback at the end of the game to analyse your performance and determine the optimal deployment strategy. Have fun... And when you've mastered the game download the SAS Mobile BI app and see how SAS can help you with real world big data challenges. Need help constructing a business case for analysis of Big Data. Contact SAS.",
+    "reviews": [
+      {
+        "documentVersion": "0.0.6",
+        "timestampMsec": "1361406936793",
+        "starRating": "2",
+        "title": "No go on Asus eee pad.",
+        "comment": "Pressing play results in black screen, the game doesn\\'t play.",
+        "commentId": "gp:AOqpTOHdJ6DWfSdXjSTNeP18-W5lbmbVdwHFf4o_hcTwx0igI8Y8ed2AtN1Vvyz1dtY_U4TfL2bwPNNt4NhA",
+        "author": "Glenn Peoples",
+        "authorURL": "http://lh6.googleusercontent.com/-9KxDsM-sfxA/AAAAAAAAAAI/AAAAAAAAAWI/v1b6eKtC5Q0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-9KxDsM-sfxA/AAAAAAAAAAI/AAAAAAAAAWI/v1b6eKtC5Q0/photo.jpg"
+      },
+      {
+        "documentVersion": "0.0.4",
+        "timestampMsec": "1358305228325",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "SAS Expert help and final ROI dashboard are key highlights.",
+        "commentId": "gp:AOqpTOEygjI0AAj3KMiq9my5Ph-WtkM3yWVREiBVI0BaJg1G7NS8Yk60atG3lLWweFurGd4Fkpfd-GBd8zSP",
+        "author": "kapil vaidya",
+        "authorURL": "http://lh6.googleusercontent.com/-c6pHiMSwBag/AAAAAAAAAAI/AAAAAAAAALA/RoZVnzg3eMk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-c6pHiMSwBag/AAAAAAAAAAI/AAAAAAAAALA/RoZVnzg3eMk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BATTERY_STATS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.SET_ORIENTATION",
+      "android.permission.DEVICE_POWER",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

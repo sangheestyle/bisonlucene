@@ -1,0 +1,39 @@
+{
+  "title": "Interventions Tracker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=it.inforisorse.interventions.ui",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 2, 2013",
+  "version": "1.4.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "23",
+  "rating": "4.0434785",
+  "contentRating": "Everyone",
+  "creator": "Inforisorse",
+  "creatorURL": "https://play.google.com/store/apps/details?id=it.inforisorse.interventions.ui",
+  "extendedInfo": {
+    "installSize": "478k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Simple application for tracking of Technical Interventions.Keep track of date, customer and duration of your interventions. List may be exported to XML and/or CSV to allow processing with other programs/platforms such as LibreOffice Calc. XML format can also be imported (may use it for backup purposes).If you need translation in language other than English or Italian, please contact the author. I can send you the texts to translate and then rebuild the application with the new language.This application is released under GPL V.3 license. You may obtain the sources from the  http://www.inforisorse.it/download/\">author's website at.",
+    "reviews": [
+      {
+        "documentVersion": "1.4.0",
+        "timestampMsec": "1375787511883",
+        "starRating": "5",
+        "comment": "Is good",
+        "commentId": "gp:AOqpTOHkMWVzGgkzo_xZICS5M401iA7On2XmqNuwSvsAscryam6CEKWW9iSRUPBpDnhL1_7AqvQ4CKQ0t6kq",
+        "author": "Edw\\304\\201rd Snowd\\303\\253n",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

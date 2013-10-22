@@ -1,0 +1,36 @@
+{
+  "title": "FTC member app",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ds.ftc",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "July 27, 2013",
+  "version": "1.1.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "22",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Daniel Saarimäki",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ds.ftc",
+  "extendedInfo": {
+    "installSize": "7.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Finnish Tank Clan is a World of Tanks game clan and you have to be a member of it to use this app. You can apply at http://www.finnishtankclan.com.Developed by Juha Kuitunen and Daniel SaarimÃ¤ki.",
+    "reviews": [
+      {
+        "timestampMsec": "1351767020490",
+        "starRating": "5",
+        "title": "Hyv\\303\\244 on",
+        "comment": "Ei muuta kuin lis\\303\\244\\303\\244 kehityst\\303\\244!",
+        "commentId": "lg:AOqpTOEdpZjrMHzI7dGU922pvvBn0-gzL1QB0dqkamXTgoNyoq8JleyPEHL5f36c5k4czXh3d1_iwRZsJtUnQg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

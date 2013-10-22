@@ -1,0 +1,61 @@
+{
+  "title": "APhA2013 Annual Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.apha2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "February 25, 2013",
+  "version": "3.8.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.apha2013",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The American Pharmacists Association (APhA) is the organization whose members are recognized in society as essential in all patient care settings for optimal medication use that improves health, wellness, and quality of life. Through information, education, and advocacy APhA empowers its members to improve medication use and advance patient care",
+    "reviews": [
+      {
+        "documentVersion": "3.8.9",
+        "timestampMsec": "1361880823470",
+        "starRating": "5",
+        "title": "Other guy is an idiot",
+        "comment": "This app is fantastic for those of us who love using our smart phones. It works perfectly on my motorola atrix. I can \\\"favorite\\\" exhibitioners, get a snippet about each event, organize events according to which track we are interested in",
+        "commentId": "gp:AOqpTOFbZ0Aylcp-TS5BqNEIDMVxqVfbqVY_vP_eMvHKWGwwEAyV4OAtxboPrpzrMoW-WVicAnk4daJpVA7GCxE",
+        "author": "Chintan Shah",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.apha2013.permission.C2D_MESSAGE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

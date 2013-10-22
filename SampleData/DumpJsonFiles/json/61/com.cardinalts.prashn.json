@@ -1,0 +1,32 @@
+{
+  "title": "Prashn Candidates",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cardinalts.prashn",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "January 9, 2013",
+  "version": "1.0",
+  "operatingSystems": "4.0.3 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Cardinal Technology Solutions LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cardinalts.prashn",
+  "extendedInfo": {
+    "installSize": "359k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Prashn is a skill assessment application. The Android app is a client application for using the Prashn web application on an Android mobile device. It allows existing prashn users to login as a candidate and browse through a list of available tests and then take tests to assess skills in a given domain. Prashn will diligently coordinate and manage the test transcripts for later use.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

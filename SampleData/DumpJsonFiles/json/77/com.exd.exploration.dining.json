@@ -1,0 +1,38 @@
+{
+  "title": "New York Restaurant Week",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exd.exploration.dining",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 14, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Medium Maturity",
+  "creator": "klobe inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exd.exploration.dining",
+  "extendedInfo": {
+    "installSize": "795k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Exploration Dining mobile app is a visual guide to restaurant week NYC -  With a FREE live concierge letting you book reservations right from the app. Find and share your next favorite dish or dining experience by scanning real-time photos taken by you and others at restaurants across New York City. Imagine browsing the dishes that are coming out of the kitchen right now, or checking out the scene in a restaurant before you go. Well now you can. And now, during Restaurant Week only, book hard to get reservations directly with our FREE CONCIERGE! If you are trying to decide where to eat during restaurant week you can: â¢ See real-time images of the nearest, latest and best foods around youâ¢ Look at real-time images from specific restaurants you are thinking of trying â¢ Save images you love to your digital restaurant week pantryâ¢ â¢ Book a table directly though the app's concierge with 2 clicks â¢ Have the app contact our New York-based free concierge and get live-person support or suggestions. If you want to share recommendations you can: â¢ Share photos of foods or experiences you love & tell others where to find them â¢ Connect to Twitter and tweet the images with one click",
+    "reviews": [
+      {
+        "timestampMsec": "1310669938572",
+        "starRating": "5",
+        "comment": "Food porn makes me hungry",
+        "commentId": "lg:AOqpTOGQp17JMpXLKXXhqEa7edo9npp1GgPxTyT2pygzomT8s_UOUtZj5io5UT46alZ1f47MHPNfL2dltBkIOw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

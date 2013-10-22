@@ -1,0 +1,35 @@
+{
+  "title": "Anaheim CrossFit West",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fitnessmobileapps.anaheimcrossfitwest",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "April 26, 2013",
+  "version": "2.0.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Fitness Mobile Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fitnessmobileapps.anaheimcrossfitwest",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Download the Anaheim CrossFit West Android App today to plan and schedule your WOD!  From this Android App you can view class schedules, view ongoing promotions, as well as view ACFWâs location and contact information.  You can also click through to our Facebook and Twitter pages!  Optimize your time and maximize the convenience of signing up for classes from your Android!  Download this App today!Also be sure to check out our website at: www.anaheimcrossfitwest.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      ".permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Smart Math Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cyzapps.SmartMath",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "February 21, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "CYZ SOFT",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cyzapps.SmartMath",
+  "extendedInfo": {
+    "installSize": "4.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Smart Math Calculator is a powerful tool to calculate mathematical expression and/or solve unknown variables from the expressions. It supports complex number, array (matrix), higher order integral, unit conversion and chart plotting. It is a powerful tool for students and/or professionals to analyze mathematical problems. Because it also support normal calculation, it can also be used as normal calculator for all Android users.This calculator has provided more than 40 diffused mathematical functions covering trigonometric calculation, complex number, matrix, integration, polynomial and chart plotting. It is also able to handle mathematical operators like +, -, *, /, **, ', %, etc. And these operators fully support matrix and complex numbers. In this way user is able to evaluate complicated expressions, which are either not supported or hard to input in most traditional calculators. Moreover, the calculator is also able to think for user. It is able to solve unknown variables from complicated expressions and show the result to user. To calculate result of an expression, user input an expression like 3 + log(4.1 / avg(1,5,-3)). To solve unknown variables, user input single expression like 4*x**2 + x == 3, or a group of expressions likey1*3+4*y2-3*y3==7y2/2-3*y3+y1==9y3/3-6*y1+y2==2.4. Then simply press start button, user will see value of 3 + log(4.1 / avg(1,5,-3)) or solved x or y1, y2 and y3 value.An input expression is made up of operands, operators, variables, functions and parameters. An operand or a parameter may not be a number, it can be an expression. Blank characters between expression elements do not affect calculation result. Capitalized and uncapitalized characters are both supported. Examples of expression includes pow(4.01,3.1) *(0.0731 + 9i) + sin(toRAD(sum(17, 21, avg(3.71, log(198.2), -9.99,112.7)))), abs(-11.2)/(2!) + exp(i+0.7) + x1 **2 == 12 - 6 * x1 ** 3 or [[2, 3+7i], [3-4.07i, 4.11i], [2, 6]]' * [[2],[7-3i],[6.88 * stdev(2, 3, 4)]].There are two things user might keep in mind. First, in Smart Math Calculator equal is \"==\" while \"=\" is assign operator. For example, to calculate x value where x + 3 is 5, user should input x + 3 == 5 instead of x + 3 = 5. Second, in Smart Math Calculator power is \"**\" not \"^\". For example, to let Smart Math Calculator calculate x value where square x is 7, user should input x ** 2 == 7 instead of x ^ 2 == 7.This calculator provides a calculator assistant tool which has two functions. One is inserting a constant into input. The other is converting value from one unit to another unit. If text in the input box is a valid real value, units conversion tab will use the value in the input box as initial value to-be-converted. Otherwise, units conversion tab does not place an initial value. If conversion is successful, user is able to insert the converted value into input.In order to help user input and evaluate (higher level) integration and plot 2D charts, this calculator includes built-in integration and chart-plotting utilities. User needs not to type long and complicated expressions. Instead, by simply filling the text fields and pressing buttons, user will see the results or the charts. All the charts are automatically saved in SD-card which can be viewed and managed by file manager of the calculator later on.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1369284563392",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Amazing",
+        "commentId": "gp:AOqpTOG7TwLjxiBCn_EHYY-lsj5Ee4ao3FLs6tG5jOXgrobE5CMdBX3uWVBH2TlJ_bHg-rf7NK4NvzmGdwMsbPc",
+        "author": "John Paul N Dadula Dadula",
+        "authorURL": "http://lh3.googleusercontent.com/-hCDiuoev860/AAAAAAAAAAI/AAAAAAAAAAo/s24JSkc37r0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-hCDiuoev860/AAAAAAAAAAI/AAAAAAAAAAo/s24JSkc37r0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359726344647",
+        "starRating": "5",
+        "comment": "Excellent. It can solve so many math problems.",
+        "commentId": "gp:AOqpTOHU6UZZ0mphfzLfeF7InULbXNRjZPwgjHvkhh58d6g9OJSHqitnc88KcI1HMgI5ObgiDzFG98j_bobhNYs",
+        "author": "Tony Cui",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

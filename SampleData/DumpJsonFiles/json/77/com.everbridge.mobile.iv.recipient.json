@@ -1,0 +1,49 @@
+{
+  "title": "Everbridge Mobile Member",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.everbridge.mobile.iv.recipient",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Everbridge, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.everbridge.mobile.iv.recipient",
+  "extendedInfo": {
+    "installSize": "12M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "If your place of employment, local government or university uses the Everbridge Mass Notification Platform to deliver vital information during emergency incidents, critical activities or weather events, you can now get the most current notifications and share responses via the Everbridge Mobile Member application.Everbridge Mobile Member allows subscribing organizations & communities to send notifications to your mobile device without the use of SMS or email. View and reply to messages with a survey response, an image, current location data and any additional information you feel will be beneficial to share.Subscribing organizations & communities may also provide you with the ability to initiate messages and share messages with your extended network directly from the Everbridge Mobile Member application via E-mail, Text Message or Twitter.With full control over your privacy settings, you can decide what information is shared and sent to your organization or community government.NOTE: This application requires users to be registered users of the Everbridge Web Member Portal. This application also requires a current subscription for the notifying organization or community to the Everbridge Mass Notification Platform.",
+    "reviews": [
+      {
+        "timestampMsec": "1349877346310",
+        "starRating": "5",
+        "title": "One of the coolest apps I have seen",
+        "comment": "My company recently sent a notification to our employees based on their specific proximity to an emergency. I had no idea the system could do that. No doubt it is a life saver. I am amazed and give it a solid 5 star rating.",
+        "commentId": "lg:AOqpTOFgZSW2t16bSjyPhOuRWFrwn7tybO3bhuuDQlbzW-6ru_SaZV78pGk7gYg9TB132yCuFQsUm9czfTYoCbQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_LOGS",
+      "com.everbridge.mobile.iv.recipient.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "andromid.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.RUN_INSTRUMENTATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

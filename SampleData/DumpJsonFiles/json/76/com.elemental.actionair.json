@@ -1,0 +1,36 @@
+{
+  "title": "Action Air - VIN Barcode Scan",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elemental.actionair",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 7, 2012",
+  "version": "1.0.3",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Elemental Methods LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elemental.actionair",
+  "extendedInfo": {
+    "installSize": "495k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Action Air is Dallasâ newest and largest automotive aftermarket superstore, featuring more than $10 million in mobile A/C parts, systems, tools and supplies. This is the place to shop for great service and competitive pricing on all those hard-to-find automotive A/C products.  All of our A/C automotive parts, systems, tools and supplies are also available for purchase 24 hours a day, seven days a week. We also offer a variety of shipping methods to meet your needs.The âAction Air - Vin Barcode Scanâ app allows you to scan a Vehicle Identification Number (VIN) barcode using your Android smartphone, and links directly to Action Air's vehicle application guide. This provides instant access to accurate vehicle parts information including price and availability, as well as giving you the ability to order parts directly from your Android device, while you are standing in front of your vehicle. Use our overnight delivery program, and Action Air can efficiently deliver the right parts for your vehicle while the hood is still up.The âAction Air - VIN Barcode Scanâ app makes it easy for you to find the air conditioning parts or system you need. - accumulator/driers - blower assemblies - blower motors - compressors - condensers - electric fans and fan accessories - electrical parts - evaporators - expansion valves - aluminum and steel fittings - heater control valves - heater fittings - convoluted tubing. . . and much more.App Features:- Scan Vehicle VIN Barcode using smartphone camera or manually enter Vehicle VIN Code- Automatic retrieval of vehicle Make, Model, Year,  and Engine Size- Automatic link to the Action Air Application Guides- Automatic retrieval of the Vehicle Parts List based on the vehicle VIN Code- Ability to purchase and ship parts using your Android smartphone** Open Source Library Attributions **This app uses the Android Asynchronous Http Client published by loopj.com under the Android-friendly Apache License, Version 2.0.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

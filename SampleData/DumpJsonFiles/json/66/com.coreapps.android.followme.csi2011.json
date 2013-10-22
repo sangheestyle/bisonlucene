@@ -1,0 +1,35 @@
+{
+  "title": "2011 CSI Customer Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.csi2011",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 22, 2011",
+  "version": "1.9.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.csi2011",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Computer Services, Inc. (CSI) delivers core banking, payments processing, Internet, card services, risk assessment, fraud prevention, network management, regulatory compliance and document delivery solutions to financial institutions and corporate entities across the nation. Technology planning, personal account management and world class customer service explain why CSI is known as one of the nation's premier providers of technology solutions for the financial services industry. CSI's stock is traded on the OTCQX under the symbol CSVI. For more information about CSI, visit www.csiweb.com.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

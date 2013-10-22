@@ -1,0 +1,52 @@
+{
+  "title": "FINARX Timesheet",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.finarx.android.timesheet",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "July 15, 2013",
+  "version": "1.2.29",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "45",
+  "rating": "3.7555556",
+  "contentRating": "Low Maturity",
+  "creator": "FINARX GmbH",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.finarx.android.timesheet",
+  "extendedInfo": {
+    "installSize": "5.7M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Open the app, klick on âtime recordingâ, select the task you want to record - finished! Now with synchronization with web-based time tracking software FINARX Timesheet Cloud: http://www.timesheet.finarx.net/For the managing of time protocols, you can use the extensive functionality.âºâºApplicationsâââº Simplify the logging of your tasks and working hours- fast and direct time recording in only few steps- playback button for the express working time logging of your time entriesâº optimize the administration of your time recording- synchronize the recorded working times in your google calendar bidirectionally- control your projects by specifying of budget limits and hourly estimatesâºâº Key featuresââ- fast and mobile time tracking  of your tasks- automatic synchronization of recorded times with the google calendar- flexible and hierarchical definition of hourly rates, setup times and breaks on customer, project and task levels- budgeting and budget control of your projects and tasks- filtering of entries according to time, task, project and customer and sending of reports as a PDF or CSV, for example via e-mailFINARX Timesheet featuresâºâºâºâº Recording of working times- Optional rounding intervals ( 5, 10, 30 Minutes) or an automatic rounding- Indikation of break times or an automatic  break Angabe von Pausenzeiten oder automatische break creation- Additional edit of time recordings also via Google-calendar- Additional proceed/close of a recording (start/break)- Timer view of the current entryâº Administration of recorded working times- create, edit and delete customer, project or task information- Name and link to contact database entry- Add entries via contact database or auto completion- Backup database locallyâº  indicate the hourly rate- per customer, project and taskâº Budget- define the money- and time-budget per project and task- hourly rate, set-up time (additional charge), breaks- fixed costsâº Geolocating- Automatic reminder for time logging by your current whereaboutâº Export of working times entries- as a PDF and CSV- storage on a SD card- e-mailingâºSettings- First and second, company name- Define a company for your report- Define a currency- Define the hourly rate, supplements and breaks- Define a Google-account- Turn locating for your current position on/offUse our German-speaking support: android-support@finarx.deOther products of FINARX GmbH  for Android and iPhone/iPad:- FINARX Scan- FINARX Fax- FINARX ReisekostenWe look forward to hearing from you:FINARX GmbHLise-Meitner-StraÃe 1064293 Darmstadte-mail: vertrieb@finarx.dePhone: +49 6151 85069-88For our SME- and corporate customers, we develop mobile project solutions in the areas of mobile business and mobile finance. Please contact us for references and successfully implemented projects.",
+    "reviews": [
+      {
+        "timestampMsec": "1329916013441",
+        "starRating": "4",
+        "title": "Gut gelungen",
+        "comment": "Ich finde die App insgesamt gut gelungen. Ich f\\303\\244nde es zus\\303\\244tzlich gut wenn es eine M\\303\\266glichkeit geben w\\303\\274rde die Pausenzeiten f\\303\\274r jede Arbeitszeit manuell anzulegen.",
+        "commentId": "lg:AOqpTOFgVHhV7CY-GI-4auEU2EgIEqorzH-lQ-2RYgeIb3sRL2rCRpspG7UuFvIn_vIbp5DCkE6SR90KZpMKWxI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.WAKE_LOCK",
+      "com.finarx.android.timesheet.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.finarx.android.timesheet.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Stop Smoking Cessation",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.covenanthealth.stopsmoking",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "February 27, 2013",
+  "version": "1.2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "2.5",
+  "contentRating": "Everyone",
+  "creator": "Covenant Health",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.covenanthealth.stopsmoking",
+  "extendedInfo": {
+    "installSize": "12M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Smoking is a learned habit that you have practiced long and well. Quitting means you un-learn that habit, substitute healthy alternatives, and reap the rewards of a smoke-free life.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1370883018632",
+        "starRating": "3",
+        "title": "Good idea, but buggy",
+        "comment": "This app is set up for the way I would like to quit--slowly, with a gradual nicotine withdraw, and that I love. But it crashes and has to restart every time I open it, and then it\\'s slow to register my commands. Please fix!",
+        "commentId": "gp:AOqpTOFMt6IjLMpFeS5jU7fh9IcQoAkaYx4uLqR_pmmtH0nd30Es6nvhfYPboA6kwfSC3aB_G_89G68HqUP9WQ",
+        "author": "Leigha Shea",
+        "authorURL": "http://lh4.googleusercontent.com/-sdPMOsxtzIo/AAAAAAAAAAI/AAAAAAAAADs/DcoIs5qjlcQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-sdPMOsxtzIo/AAAAAAAAAAI/AAAAAAAAADs/DcoIs5qjlcQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376856170335",
+        "starRating": "2",
+        "title": "Uninstalled regrettably",
+        "comment": "This is the type of app I was looking for - something that will step you down off dependence. Unfortunately, the app never starts correctly, always needing a restart; won\\'t keep you logged in; loses track of daily counts; clunky interface that requires several steps to input cigarette times. Excellent idea for an app, but really bad execution.",
+        "commentId": "gp:AOqpTOEVZQLBYSojb8KE_pR326ISpc_Co7EFYApBNWiLpv7wAa6ARA4iuPJqB9uV879RvQkYZ0ddJWYE-5q8XA",
+        "author": "Kathy Lundgren",
+        "authorURL": "http://lh3.googleusercontent.com/-7rGocpLnQTE/AAAAAAAAAAI/AAAAAAAAACk/iEumVCa239I/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-7rGocpLnQTE/AAAAAAAAAAI/AAAAAAAAACk/iEumVCa239I/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

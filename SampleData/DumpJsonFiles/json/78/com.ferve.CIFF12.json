@@ -1,0 +1,43 @@
+{
+  "title": "Cockatoo Island Film Festival",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ferve.CIFF12",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "October 10, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Medium Maturity",
+  "creator": "FERVE TICKETS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ferve.CIFF12",
+  "extendedInfo": {
+    "installSize": "5.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Cockatoo Island Film Festival, October 24-28 is a celebration of international and local film, set on Sydneyâs most spectacular Harbour island. The CIFF2012 app lets you: - Browse and search the 2012 program by date, venue, country, category and director - Buy tickets securely with your credit card, anywhere, anytime - Buy Passes through the Android app and redeem sessions immediately - Go paperless: download tickets to your Android to be scanned at the cinema door - Create a Wishlist of must-see films - Browse âWhatâs Onâ at the festival daily - Identify sessions that are Selling Fast or Sold Out - Watch film trailers - Find your way to the screening through Venue maps - Get the latest Festival News and interact with CIFF through Twitter and Facebook Left your printed tickets at home? If you buy tickets using the same CIFF account details, you can retrieve all the barcodes on your Android regardless of how you purchased (counter, web or phone). These barcodes can be scanned on your Android for entry at the cinema door. About the developers: Ferve Tickets (previously trading as eFirst) has been working with festivals in Australia for the last decade, setting up customized ticketing systems to deliver a smooth, stress-free festival experience â for both staff and customers. About Cockatoo Island Film Festival: Sydney Harbour sparkles as the backdrop to the Cockatoo Island Film Festival, October 24-28. With film premieres, live music, red carpet events and a Classic Yacht race, Cockatoo Island Film Festival is a celebration of Australian and International film in Sydney's most spectacular location.",
+    "reviews": [
+      {
+        "timestampMsec": "1349244022306",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Love the app!!!",
+        "commentId": "lg:AOqpTOHhIwiZ3vYYjbUxpKt3DdP3XjTAt67plMImcJcoEa-1KbxACt2c5epGzVqoEdWuLcZLT4pqUKCxVhuC7w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

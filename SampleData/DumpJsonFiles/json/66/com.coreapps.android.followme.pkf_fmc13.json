@@ -1,0 +1,51 @@
+{
+  "title": "2013 PKF NA Firm Management",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.pkf_fmc13",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 13, 2013",
+  "version": "4.2.4.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.pkf_fmc13",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "SHOW IS LOCKEDPKF North Americaâs 2013 Firm Management Conference May 19-22 is an annual event attended by member firms.  This yearâs conference will focus on targeted, in depth sessions designed to maximize the power of the membership, firm leadership and growth.   The event will be at the Four Seasons Resort at Troon North in Scottsdale, AZ and along with the many networking opportunities, participants can choose from several off site activities, including the world famous golf,  or just relax on site!  PKF North America is one of the largest associations serving the accounting industry and its conferences offer CPE for its members in addition to providing access to leaders in the industry.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.pkf_fmc13.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

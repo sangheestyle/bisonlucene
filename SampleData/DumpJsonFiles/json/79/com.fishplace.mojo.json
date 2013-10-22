@@ -1,0 +1,41 @@
+{
+  "title": "Fish Place",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fishplace.mojo",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "March 22, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Mojo Mobile Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fishplace.mojo",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Fish Place app gives you fast and easy access to our menu, location information, special offers, and much more.Features:Location Information:  Easily find Fish Place locations with turn-by-turn directions or call us with âone touchâ dialing.Menu:  Check out our entire menu complete with pictures and product information.  You can even mark menu items as âfavoritesâ for quick and easy access in the future.Exclusive Offers:  Enjoy special offers only available through our mobile app and share them with your friends through Facebook, Foursquare and Twitter.Event Calendar:  Stay up to date with promotions, events, and special offers and share them with friends and family through email, text or your favorite social network.Rewards:  Sign up for our rewards program and get free stuff! Best of all, everything you need is right in the app â your loyalty card, up-to-date points balance, rewards and much more.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "com.fishplace.mojo.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

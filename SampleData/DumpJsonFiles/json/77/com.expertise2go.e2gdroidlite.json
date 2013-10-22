@@ -1,0 +1,47 @@
+{
+  "title": "e2gDroid Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.expertise2go.e2gdroidlite",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 1, 2013",
+  "version": "1.9.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.25",
+  "contentRating": "Everyone",
+  "creator": "eXpertise2Go.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.expertise2go.e2gdroidlite",
+  "extendedInfo": {
+    "installSize": "65k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "e2gDroid Lite is an Android port of the e2gRuleEngine Java applet: a rule-based expert system \"shell\" used in Decision Support and Expert System courses around the world for more than 10 years. e2gDroid delivers mobile, interactive decision making tools in the form of rule-based expert systems on Android devices that implement at least the version 2.2 \"Froyo\" OS. An e2gDroid rule-based expert system application is delivered by the expert system shell and defined by a knowledge base: a text script that provides the decision logic in the form of \"if-then\" rules, the user interface in the form of \"prompt\" definitions for interacting with the expert system and control parameters. The user of an expert system application will be asked a series of questions driven by the decision logic to provide data that allows the expert system shellâs inference engine to make its recommendations.The expertise2go.com Web site provides a series of tutorials that introduce expert system concepts and design techniques. Access to a variety of example knowledge bases is provided from the e2gDroid Lite menu and on the Web site. It is intended that knowledge bases be developed and tested first with the e2gRuleEngine applet because of its diagnostic support, then delivered for e2gDroid Lite use from the developer's Web site.Features:* Rule-based expert system shell with backward-chaining inference engine* Explanation mechanism explains \"why\" questions asked and \"how\" conclusions reached* Certainty/confidence factor processing supported* Restarting consultation at earlier prompt supported* Knowledge bases optionally link to Web pages for help (\"Infolinks\") or to support conclusions (\"Hyperlinks\")* Android device memory/SD card storage of knowledge bases after Internet download* Translate mechanism facilitates internationalizing knowledge bases* Extensive Web site support for expert system developer training",
+    "reviews": [
+      {
+        "documentVersion": "1.8.6",
+        "timestampMsec": "1350938388274",
+        "starRating": "5",
+        "title": "Great app for authoring apps",
+        "comment": "If you want to get that \\\"I develop for android\\\" street cred without actually learning to code for android, or if you simply need to prototype a decision aid quickly, this is your tool. Develop your logic using text or the table interface. Either way, you can develop, test, and deploy an android app in a few tens of minutes.",
+        "commentId": "lg:AOqpTOFWrHeAlmYKfWVfeJOAV9fvB8FimLrv1eIuKfbvnDhGmvXfsIRqhbPPhrc54aaFj5lcet5_pgIrbA29yQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.2",
+        "timestampMsec": "1297808715047",
+        "starRating": "2",
+        "comment": "Application has potential but shortage of prepared knowledge bases limit usefulness.",
+        "commentId": "lg:AOqpTOE4hhtzpNP7-C6GkKFvlAMAyYBJ9ICi-xIhK-__T2esUdZ6Cz0oXQr8l0RZXETtRgBdQYugmpNX99OHYg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

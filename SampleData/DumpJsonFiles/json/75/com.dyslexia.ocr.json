@@ -1,0 +1,38 @@
+{
+  "title": "Easy To Read",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dyslexia.ocr",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 11, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "19",
+  "rating": "2.4210527",
+  "contentRating": "Everyone",
+  "creator": "vinoth",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dyslexia.ocr",
+  "extendedInfo": {
+    "installSize": "3.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Easy To Read application helps users with vision problem and dyslexia to read text from books easily.* Launch the application and wait for camera to set preview mode.* Use view finder to select the text you like to decode.* Hold the phone steady and click on the shutter icon for OCR (Optical Character Recognition) to start.* Once completed the text will be displayed on the screen using Tiresias font (Helpful for dyslexic)* Long press on the text for voice playback, copy and share.It doesn't require internet and efficiency of OCR depends on light, font etc. It works best when few blocks of text are scanned.It uses tesseract engine for OCR and this project is based on OCR Test by Robert Theis. The source code of this application can be downloaded from github.",
+    "reviews": [
+      {
+        "timestampMsec": "1377520305338",
+        "starRating": "5",
+        "title": "Great app - not super acurate , but does the job well!",
+        "comment": "Would be great if it supported other languages as well",
+        "commentId": "gp:AOqpTOH1A4yNE8hTfYzJ0mu18PxWTBA3-20VvvWyyKYA5lDRCtHZ0G1RjdBgi0MCiljrDv8jyb-zaP3RDCEUUw",
+        "author": "Ari Volcoff",
+        "authorURL": "http://lh4.googleusercontent.com/-7-lnDYUon8Q/AAAAAAAAAAI/AAAAAAAAlUU/v68E9IRqT1s/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-7-lnDYUon8Q/AAAAAAAAAAI/AAAAAAAAlUU/v68E9IRqT1s/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Petroleum Volume Correction Pr",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chem1.jfmaldo9",
+  "category": "Productivity",
+  "price": "$3.99",
+  "datePublished": "December 22, 2012",
+  "version": "1.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "J. Maldo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chem1.jfmaldo9",
+  "extendedInfo": {
+    "installSize": "338k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This App will calculate volume correction factors (VCF) for: Crude Oil, Lubes and Refined products. This version also includes LPG/NGL temperature corrections (no pressure).Because of the different methodology though, the ranges are more limited for LPG/NGL.     This App will calculate the correction factors for temperature (CTL), pressure (CPL) and combined (CTPL), given a known density and temperature. Base temperature can be user selected as 60 DegF, 15 degC or 20 degC.Minimum data requirements are: Density (API, S.G. or kg/m3), temperature at which density was measured and pressure.A volume is not required, but if entered, the corrected volume will be calculated.OilProdVCFpro will calculate the Base density (60 DegF, 15 DegC or 20 DegC) as needed.For correct volume calculation, the volume measurement conditions need be indicated: either at (1) the density temperature and pressure or at (2) the Alternate temperature and pressure.Temperature inputs are in: DegF or DegC.Density inputs are in S.G., API or kg/m3.Pressure inputs are in PSI, bar or kPa.Density results are in S.G., API and kg/m3.Output pressure units are as per inputs.Output temperature units are as per selected base temperature.Default options can be saved via the settings menu.Results can be stored in the device SD card as text, or as worksheet format.In addition, the results can be shared by email as a message, as an attached text file or as an attached worksheet.If you tried OilProdVCF Lite you'll find this version much more useful. You can now share your results.Product custody transfer, auditing, surveying.Chemical Engineering calculations.",
+    "reviews": [
+      {
+        "timestampMsec": "1342720266040",
+        "starRating": "4",
+        "title": "Appears to be accurate but not precise",
+        "comment": "For NPL & LPG may not be precisely accurate past the 4th significant digit.  I can\\'t tell if it is the ASTM implementation examples that are wrong, or what, but I can\\'t get my own implementation to converge using Table 23 without rounding.  Looks like this app may be suffering the same problem.  Accurate to at least 4 significant digits and easy to use.  Cheers.",
+        "commentId": "lg:AOqpTOFWBhN_kFaigqYsgzU4_0u_nzQSNJ3U-nBzb71Q38cA138i38XLH9_sM_WQhTC1_wDz6ldVWvUVDjUOPQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329282770762",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "It works, even LPG. Thanks.",
+        "commentId": "lg:AOqpTOG3-kCgVm70nJ6RH7BM_y3mU_DhIZLh4xL-hDj7X-ILI7RRy7e9i91FLsPcbjgKGSSijvmfo9Kan1dtwg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

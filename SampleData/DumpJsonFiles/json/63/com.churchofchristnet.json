@@ -1,0 +1,57 @@
+{
+  "title": "Church of Christ Network",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.churchofchristnet",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "April 16, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "F. A. Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.churchofchristnet",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome to the official Church of Christ Network Android application! You can now share and stay connected with your fellow Church of Christ Brethren using your Android mobile device.  Sign up is breeze.  You can you use the sign-up button or use your Facebook account to join the Church of Christ Network. Once you have downloaded the app, you can keep up with your friends, update your profile status, send and receive messages, upload photos and videos. Moreover you can watch the videos you have posted from the app.  Stay informed with Church of Christ events around the country with the Events Calendar.  You can create, view, and RSVP.  We even integrated Google Maps into the Events Calendar to make it easier to locate all posted events.This is a FREE application for members of the Church of Christ.  If you are not a member of the Church of Christ, we encourage you to visit our website http://www.churchofchristnet.com.  From our website you can learn about Jesus Christ, His Church and the Way to Salvation.Our goal at the Church of Christ Network is to provide the tools and resources for members of the Church of Christ to become better Christians.  Come and be a part of the community of Saints at http://www.churchofchristnet.com.Keywords:  Church of Christ, Church of Christ Network, Jesus Christ, Christian",
+    "reviews": [
+      {
+        "timestampMsec": "1328097076640",
+        "starRating": "5",
+        "title": "Cool App",
+        "comment": "This is a cool app, a must have.",
+        "commentId": "lg:AOqpTOG_k8o26e21l4hzT4kZW65kqsGYDrab11DMDjv5XtznMLRnh0R8RpsjI7clh8SDzwRdsLsnr37DxDXTL9s",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350542533328",
+        "starRating": "1",
+        "comment": "Nothing",
+        "commentId": "lg:AOqpTOHlB9EfiESrv3NV97b7xTGEracznvYeG5cAVZZ2FRNYS1mSENI1a6DjCg5XO0Qmfmq9MP3dLnF072zNjpQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.CAMERA",
+      "com.churchofchristnet.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_CONTACTS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

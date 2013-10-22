@@ -1,0 +1,37 @@
+{
+  "title": "Have A Cocktail",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.erwanhesry.connectedclub",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 14, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Erwan Hesry",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.erwanhesry.connectedclub",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Have A Cocktail is a brand new app which allows you to find the best places to have a cocktail around you. You are in a new city for a job or some holidays but don't know at all where to go tonight ? Just launch the app, check the map and find a bar or a club or whatever is selected for you. Already inside the place to be ? Just launch the app and you'll enter virtually into the establishment. You'll get some precious informations :- open times and other informations- activity feed from Twitter- the selection and the capability to pre-order your drinks (depends on the establishment's wishes - order or pre-order or just display the selection)- the suggestions of the boss.However, at this moment, just one establishment works with us to test the app. If you want more, say us which place you want in the app here : http://haveacocktailapp.com/#contactIf it's one of the best places around the world, we'll add itCredits :Cocktail icons (in the selection) licensed from Majnouna.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.erwanhesry.connectedclub.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

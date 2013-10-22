@@ -1,0 +1,51 @@
+{
+  "title": "GMA 2012 Executive Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.gma_ec12",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "August 17, 2012",
+  "version": "3.2.8",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.gma_ec12",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The 2012 GMA Executive Conference - the premier industry event that brings retailers and manufacturers together to address the complex issues of our business. Built around the theme of Connecting Today to Grow Tomorrow, the conference program features innovative topics, exclusive insights and expert speakers who will challenge and inspire you.Among many other great features, this mobile app will allow you easy, password protected access to pre and post read materials, updated session descriptions including speaker biographies, as well as the ability to build your own conference schedule by selecting sessions, social functions and networking events that you would like to attend. www.gmaexecutiveconference.com\t\twww.gmaonline.orgNOTE: The 2012 GMA Executive Conference Mobile App is for attendees of the Executive Conference only. Login information will be provided by GMA.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

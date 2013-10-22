@@ -1,0 +1,49 @@
+{
+  "title": "FireFrame - Free Picture Frame",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=chopsticksoftware.fireframe.uliad",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "February 18, 2013",
+  "version": "5.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Chopstick Software LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=chopsticksoftware.fireframe.uliad",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "*** AD SUPPORTED ***NOW SUPPORTING PICASA WEB ALBUMS!FireFrame transforms your Android device into a digital picture frame. The premier digital picture frame app allows for control of transitions, both timing and order, and customizable transitions. View your local photos, your Picasa albums, your Instagram photos, your Facebook albums & News Feed, your personal Flickr Stream, or Flickr Interesting Stream.  Sit back, relax, and enjoy the glow of your photos on your Android device.Features- Easy-to-use Interface- Supports Picasa Web Albums- Supports Instagram (Your Images, Feed, Popular, and Images you've liked)- Supports your Facebook Albums & News Feed- Supports your personal Flickr Stream & Flickr Interesting Feed- Search - ability to go to a specific image- Share - ability to share a photo with your friends or email- Customizable Image Transitions- Digital Clock- Keep AwakeThis application uses the Facebook(tm) API, Flickr(tm) API, Instagram(tm) API, Picasa (tm) API and is not endorsed or certified by them. All Facebook(tm), Flickr(tm), Instagram(tm), Picasa(tm) logos and trademarks displayed on this application are property of their respective owners. Continued API use is at the discretion of the API owner.",
+    "reviews": [
+      {
+        "timestampMsec": "1352064924869",
+        "starRating": "5",
+        "title": "Simple to use",
+        "comment": "Easy to use picture frame app.....looks great on my 7inch tablet!",
+        "commentId": "lg:AOqpTOG_MnVzPFtfk0baaNGoZBDlNJM5hG7LpZ2bKfkT37UefSSWiKZdR8p4-LtKxWhHWeDZav_bnZEb9g7GQA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357184802054",
+        "starRating": "5",
+        "title": "A great app.",
+        "comment": "I like apps that just do what they are supposed to do and FireFrame is one of these apps.  It works great as a photo frame.  Also, with Facebook, Flickr, and Instagram integration it is a great app to let run while your tablet is charging.",
+        "commentId": "gp:AOqpTOFhI8Kx56nAF0By9kzgmes9QH-rV44i-Fp6b6BvrAFhBkDUiA5fxrqNMZ0H1HbAJ65yNG7AI_gAPkEFXg",
+        "author": "Brian Kriesel",
+        "authorURL": "http://lh6.googleusercontent.com/-cYrbLE_Z-2g/AAAAAAAAAAI/AAAAAAAAB14/2iXfSmQkL8c/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-cYrbLE_Z-2g/AAAAAAAAAAI/AAAAAAAAB14/2iXfSmQkL8c/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

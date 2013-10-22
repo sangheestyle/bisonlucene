@@ -1,0 +1,37 @@
+{
+  "title": "Badajoz Bus Stop FREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cicsystems.paradasbadajoz",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "July 20, 2013",
+  "version": "1.28",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "39",
+  "rating": "4.282051",
+  "contentRating": "Low Maturity",
+  "creator": "CIC S.L.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cicsystems.paradasbadajoz",
+  "extendedInfo": {
+    "installSize": "328k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "PredicciÃ³n del tiempo de paso por parada para los autobuses de BadajozPara cualquier incidencia en el servicio pueden contactar en cic@cic-systems.com, actuaremos mucho mas rÃ¡pido que comentÃ¡ndolo en los review.La aplicaciÃ³n muestra en cuatro pestaÃ±as distinta informaciÃ³n referente al tiempo de paso de los autobuses.En la pestaÃ±a inicial se observan las paradas mas prÃ³ximas a nuestra ubicaciÃ³n actual, mostrando el nombre de la parada, la distancia a la parada y el tiempo de paso de cada una de las lineas que pasan por la parada.Seleccionando cualquier parada se abrirÃ¡ las indicaciones para ir a piÃ© a la parada usando google navigation.La informaciÃ³n en la pestaÃ±a de lÃ­nea es similar, una vez seleccionada una lÃ­nea, la aplicaciÃ³n nos mostrarÃ¡ las paradas de la linea, el tiempo estimado de llegada a esa parada en color y las correspondencias con su hora estimada en gris claro.Desde cualquier punto de la aplicaciÃ³n podÃ©is aÃ±adir la parada a favoritos para tener acceso a las paradas frecuentes.Las paradas aÃ±adidas vÃ­a favoritos o seleccionando una linea tambiÃ©n se muestran en la pestaÃ±a de paradas, es decir, inicialmente muestra las prÃ³ximas y favoritas y tras seleccionar alguna lÃ­nea mostrarÃ¡ las paradas de esta lÃ­nea.Para minimizar el consumo de baterÃ­a y datos la aplicaciÃ³n no hace seguimiento de tu posiciÃ³n, utiliza la ultima posiciÃ³n conocida, por este motivo, si quieres refrescar la informaciÃ³n sal y vuelve a entrar.La informaciÃ³n sobre el estado de la red se obtiene directamente de los servicios de los autobuses urbanos, tener en cuenta que la informaciÃ³n es una estimaciÃ³n y puede variar por diversas circunstancias del servicio.Cualquier duda, consulta, o sugerencia de mejora la podÃ©is enviar a la direcciÃ³n de correo cic@cic-systems.com",
+    "reviews": [
+      {
+        "timestampMsec": "1344624119747",
+        "starRating": "5",
+        "title": "Bus",
+        "comment": "Muy buena pero necesita internet",
+        "commentId": "lg:AOqpTOFgd4iE6mgYVDbriMAlW_0cGn8FpbtaWc_xwhUHmeHujEuDmNz-Hc-DQ_EwnHJLDhVDJ5utsbCGLb1Rrx8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

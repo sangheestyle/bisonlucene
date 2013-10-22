@@ -1,0 +1,39 @@
+{
+  "title": "Melodica System Music",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_68b65302cb094d8889a11641abd3394d.app",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "January 29, 2012",
+  "version": "1.1.2.260",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Roger Andre",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_68b65302cb094d8889a11641abd3394d.app",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The unique, musical, uplifting electronic music of Roger Andre. Give yourself a lift! New tunes are always free to download for a limited time. All the music featured can be found on iTunes, Amazon mp3, or Spotify. Many styles are covered from techy 4/4s to futuristic progressive electronic workouts.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_68b65302cb094d8889a11641abd3394d.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

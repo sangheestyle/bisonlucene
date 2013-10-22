@@ -1,0 +1,63 @@
+{
+  "title": "ExtraWatch (older release)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codegravity.mobile.mobmin",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 24, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "9",
+  "rating": "2.7777777",
+  "contentRating": "High Maturity",
+  "creator": "CodeGravity.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codegravity.mobile.mobmin",
+  "extendedInfo": {
+    "installSize": "296k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "ExtraWatch allows you to access the administration back-end of Joomla and it's components in one click from your android phone. You specify the basic settings on the start, then place it on your home screen to have the direct access to your favorite component. Configuration items: website url, admin folder name, username, password, name of the component to open and HTTP authentication (optional). www.extrawatch.com",
+    "reviews": [
+      {
+        "timestampMsec": "1313332896637",
+        "starRating": "1",
+        "title": "Its dead!",
+        "comment": "Logged into my site saw admin screen then 404 error and i cant do anything but exit!",
+        "commentId": "lg:AOqpTOE-B6bx5df_wFhDC6s4iQrpbSnhVCS0is0aic1HzUn_dE5RFw21OhEjSDZDnfvpwea_PA_GHMpsAQbPVJE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316918387007",
+        "starRating": "5",
+        "title": "Works as described",
+        "comment": "I also got error screen but then I entered common joomla component com_contact and whole url with http://www and now works AS DESCRIBED! Cheers,Kiki.",
+        "commentId": "lg:AOqpTOEUPtZexchGs-ZOSTVe7r7_NqbGCyb_o23wXOETgKMDUjOVDfSPFF93ykwvyGb8j_nIr82jK6jumzihlMQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1312796354131",
+        "starRating": "1",
+        "comment": "Errors during initial login!",
+        "commentId": "lg:AOqpTOF77FH9L1RMbnA_rVcIKGIRvEMmWaRg64I2tmYhrl4Ir0rQpyXwALVK4aBx_uXXeQuHfKrNg35zKqtMeoU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317972815391",
+        "starRating": "1",
+        "title": "Same as browser",
+        "comment": "Just use a browser, no added features over a browser",
+        "commentId": "lg:AOqpTOFRafAXvrJa8Eu-jKU72OGH630nO4nr81uqAUPY2x2IDSPsemvsh28I8VCaGtBN2pnYMEnkqXeYmwBo0_E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

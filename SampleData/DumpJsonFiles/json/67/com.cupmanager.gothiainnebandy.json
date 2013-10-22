@@ -1,0 +1,40 @@
+{
+  "title": "Gothia Innebandy Cup",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cupmanager.gothiainnebandy",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "December 5, 2012",
+  "version": "2.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "13",
+  "rating": "4.8461537",
+  "contentRating": "Everyone",
+  "creator": "CupManager",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cupmanager.gothiainnebandy",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Read news, see the schedule, your team's matches and find your way to all the places",
+    "reviews": [
+      {
+        "timestampMsec": "1323534691982",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Looking forward to Gothia!",
+        "commentId": "lg:AOqpTOFE157THY7ef-INQy5P9rGp3snB_ScLt5IOc7WlJiegsO69WakPMRPcdnT6wyA6QvyUb_s9SvzEBGRkAXU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.cupmanager.gothiainnebandy.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "UC Berkeley BearWalk",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ridecell.studentapp",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "March 1, 2011",
+  "version": "1.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "RideCell",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ridecell.studentapp",
+  "extendedInfo": {
+    "installSize": "12k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This app allows students at University of California, Berkeley to request an escort using BearWALK and to track the real time location of North Side, South Side and Door to Door shuttles. It requires a valid Calnet ID to request a ride but not to track shuttles.",
+    "reviews": [
+      {
+        "timestampMsec": "1299230171056",
+        "starRating": "5",
+        "comment": "Awesome app! Connects to the Bearwalk system quick and works great. Only concern is that latest update causes force close sometimes.",
+        "commentId": "lg:AOqpTOGAHk8Nt3Spk5liUdx8cMGLuTBw5AECf5bJstp-6Dtb0oitwTVXsM91Yu6sArfZa2dnlNacvht-ckNyVCE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1323420462706",
+        "starRating": "2",
+        "title": "Just a wrapper for the mobile site",
+        "comment": "It\\'s alright, but it doesn\\'t do anything the site doesn\\'t do, because it\\'s just a wrapper for the site. An app should add more functionality.",
+        "commentId": "lg:AOqpTOGaCQYAoS56as8wr14ST_fu4ZYXWl32kx_EhZs-lQhpBppxrtV5LXw5mJFYyHxPNRHFUoB59_E1mfQwCbE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

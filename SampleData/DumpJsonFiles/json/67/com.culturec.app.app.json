@@ -1,0 +1,36 @@
+{
+  "title": "Culture Council",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.culturec.app.app",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 6, 2012",
+  "version": "Kxld0r",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "MarK3thing",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.culturec.app.app",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This is the 'online' and 'filtered' version of an internally managed project about countries, nations, people, habits, sceneries, life, news, podcasts, opinions, knowledgebase...Have the grabbed and exclusive, growing data in your hands.(As there should be additions, upgrades, etc...)The content is almost the same as the one can be found internally, just without any SPI or confidential. *If you are (or will :) be in one of the Company-Team(s) /as we hope so/, you would have these as well...(Eg. fascinating interviews!)*Do not feel yourself alone until joining! As it is your chance to contribute and contact! Reach us at: culture.council at yahoo.com and share your collection or information (content; photos, stories...) about your or your beloved part of the World or regarding all topics included within the app. We are also eager to hear what do you suggest to be implemented furthermore.As this all is about and for people who are 'proud to be at Big Blue' and created to those who has the will to be a slice of the 'cake' or just quite interested in tasting a multi(ple)-cultural background or would like to have a view, what this is all around.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.culturec.app.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "www.culturec.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

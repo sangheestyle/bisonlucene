@@ -1,0 +1,37 @@
+{
+  "title": "DRS Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drs.androidDrs",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "2.28",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "3.3333333",
+  "contentRating": "Everyone",
+  "creator": "Yui Software Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drs.androidDrs",
+  "extendedInfo": {
+    "installSize": "731k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "DRS Mobile provides you a portable experience of Electronic Medical Record (EMR). You can view and edit your patient data in a touch-friendly manner, at anytime, and at anywhere!Requires desktop PC version of DRS to work together.For further information, please contact Yui consulting at http://yuiconsulting.com",
+    "reviews": [
+      {
+        "timestampMsec": "1336657107802",
+        "starRating": "1",
+        "comment": "It does not work",
+        "commentId": "lg:AOqpTOEHzCbU-NGEXGcZcUQUXodL1pWA41eWMMwYKXL-NPhlBc5Fx5QdXemCnD_Mtx8FkRxrtoXpUzM0aeCY6yE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

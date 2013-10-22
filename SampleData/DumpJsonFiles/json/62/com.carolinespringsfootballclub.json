@@ -1,0 +1,46 @@
+{
+  "title": "Caroline Springs Football Club",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.carolinespringsfootballclub",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "July 17, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Third Man Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.carolinespringsfootballclub",
+  "extendedInfo": {
+    "installSize": "3.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Caroline Springs Football Club is a relatively new club. The club was officialy formed on the 15th of Octbober 2002 at the Brookside School in Caroline Springs. Since that famous day back in October the club has gone from strength to strength and this upward trend looks set to continue for the foreseeable future.Caroline Spring Football Club is the definition of a family run club. It is a fantastic place where people of all ages and backgrounds can come down and enjoy their footy. The club is always trying to think of ways to make everyone feel like they are part of the club and the club has taken a gigantic leap towards initiative by releasing their very first mobile phone app for the Android.The app will contain all sorts of information about the Caroline Springs Football Club such as:- Latest News- Results- Ladders- Fixtures- Videos- Images- Facebook- Events- Team news- Sponsors- Grounds- Memberships- Training and much much moreThe app will be the most imporant tool in your armoury to make sure you never miss a thing related to the mighty Caroline Springs Football Club.Do not hesitate and download the app now!Go Lakers!",
+    "reviews": [
+      {
+        "timestampMsec": "1372144813020",
+        "starRating": "5",
+        "title": "Top App",
+        "comment": "Go Geroge and Vern in the 2nds.",
+        "commentId": "gp:AOqpTOF9qaeBNTDnJXK5OFpxmTFNKz7hQfjO2ncjJMnowukESpqk7R5z9GfHOwpIzWTg6QR8jb38loeHEqU7sA",
+        "author": "James Stark",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.carolinespringsfootballclub.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

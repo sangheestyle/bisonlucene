@@ -1,0 +1,66 @@
+{
+  "title": "Sell Books UBC",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.ubc",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 23, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "1.6666666",
+  "contentRating": "Everyone",
+  "creator": "UBC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks.ubc",
+  "extendedInfo": {
+    "installSize": "5.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Sell your used textbooks to the UBC Bookstore using this instant price quote app! It allows you to scan the barcodes of books that you'd like to sell using your phone's camera. You'll find out instantly how much we'll pay you for your used books. Please note that book prices quoted by the app can expire at any time without notice. If you have any trouble, please let us know!",
+    "reviews": [
+      {
+        "timestampMsec": "1377205345392",
+        "starRating": "1",
+        "title": "Useless",
+        "comment": "Doesn\\'t work. Scanning barcode takes forever, and typing in the ISPN is tricky with the program interrupting you. It is also not sized correctly on my galaxy s2.",
+        "commentId": "gp:AOqpTOHrW9L4qYBafb0XQHG5a08GGor9Ikw6pjSysjRLL_aKO8O6DVsMwS6slExUd83MCJWVJ3_jzOtKTblheg",
+        "author": "Ricky Lo",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377871760340",
+        "starRating": "2",
+        "title": "Needs refinement",
+        "comment": "App just doesn\\'t respond sometimes; pressing a button sometimes results in no response. Must mash the button if you want that action to be performed. If a barcode that\\'s not an ISBN is scanned, an Alert window pops up; hitting OK may result in another Alert window popping up followed by another followed by another followed by another... You get the point.   After successfully scanning an ISBN, the app will go to the next page but it may continually flash/refresh that page, making any of the buttons on the app unusable for a good 4-5 seconds. Very annoying.  It works albeit poorly on my Galaxy S2. Would be interested to hear other users\\' experiences with this app. I expect an update to be rolled out to iron out these kinks. I rate this app 2.5/5",
+        "commentId": "gp:AOqpTOHkeFlYTMeXriXv6urzjMxJPilCYAy-Ue5bYNwsdaMWxJEWDQBBipf4as-RzVRyX088I-BkfxqTNEklWA",
+        "author": "Vincent Chan-Ying",
+        "authorURL": "http://lh3.googleusercontent.com/-xK2FkQi60r4/AAAAAAAAAAI/AAAAAAAAAJA/5tATZ-JzPdc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-xK2FkQi60r4/AAAAAAAAAAI/AAAAAAAAAJA/5tATZ-JzPdc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378444712300",
+        "starRating": "2",
+        "title": "Super buggy",
+        "comment": "Kinda works",
+        "commentId": "gp:AOqpTOHnoZBgmmy5nGQVDPPn7ewiwKZWaCqGfnNEdZufJ5d07W9N0I2NZWfG3JJWnzLHtzYbw4Wu7VV2Y1TPKw",
+        "author": "Scott M",
+        "authorURL": "http://lh3.googleusercontent.com/-e70wtK702hQ/AAAAAAAAAAI/AAAAAAAAmM4/oNgS4cCOH9w/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-e70wtK702hQ/AAAAAAAAAAI/AAAAAAAAmM4/oNgS4cCOH9w/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "ESMO Congress 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.esmo.esmocongress",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "September 24, 2012",
+  "version": "1.1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "European Society for Medical Oncology",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.esmo.esmocongress",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "ESMO Congress 2012 Vienna, Austria 28 September - 2 October 2012 The ESMO Congress is a unique forum for presenting both the latest research results and more controversial topics: from translational research advances to innovative trial design, from powerful diagnostic technologies to side-effects management. The most outstanding speakers have been selected to offer lectures to improve your professional practice, dealing with topics that reflect the daily needs of oncology practitioners. This ESMO 2012 mobile meeting application will allow you to plan your congress attendance, to browse the scientific program, view abstracts, and search by author or by topic. You will also be able to stay up to date with the latest news from and about the Congress via our Congress News feed, as well as via Twitter. Other features include:-\tExhibitor directory and list-\tInteractive exhibition map-\tCity guide: things to do in Vienna-\tReal-time push notifications",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_SETTINGS",
+      "com.esmo.esmocongress.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "title": "EventBoard",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.falafel.eventboard",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 2, 2013",
+  "version": "5.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "78",
+  "rating": "2.5641026",
+  "contentRating": "Everyone",
+  "creator": "Falafel Software Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.falafel.eventboard",
+  "extendedInfo": {
+    "installSize": "516k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "EventBoard is the free application that makes attending conferences a breeze. EventBoard allows you to view and search for conference sessions by name, speaker, tracks, time slot, and keyword. EventBoard also provides access to other valuable conference resources, such as maps, floor plans, news feeds, and conference web pages. EventBoard's push notifications can alert you to late breaking conference or schedule changes. Once a conference catalog is downloaded, the information is stored locally on the device, allowing EventBoard to help you plan your session attendance even when network access is not available. EventBoard also allows users to mark favorite sessions, plan attendance, and rate attended sessions. Each conference is branded differently to portray it's unique look and feel. For more details, visit the EventBoard site at http://eventboardmobile.falafel.com",
+    "reviews": [
+      {
+        "timestampMsec": "1370184453233",
+        "starRating": "2",
+        "title": "Good and bad",
+        "comment": "Some time slots were wrong, and sometimes it lost my favorites, but most of the time it was useful.",
+        "commentId": "gp:AOqpTOHc3suA1FyNZsAAGY2kILpydRm4b2UEZmaldCxb3wkhqtR2wGoEYPW7ppuEwTv_2Q75cgU4fFKFaMHdcmI",
+        "author": "David Frahm",
+        "authorURL": "http://lh6.googleusercontent.com/-RIdbKFjxvZg/AAAAAAAAAAI/AAAAAAAAACw/IE7uj3O5Acw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-RIdbKFjxvZg/AAAAAAAAAAI/AAAAAAAAACw/IE7uj3O5Acw/photo.jpg"
+      },
+      {
+        "documentVersion": "4.0.3",
+        "timestampMsec": "1362519146279",
+        "starRating": "5",
+        "title": "Great interactive event program tool"
+      },
+      {
+        "commentId": "gp:AOqpTOGpsSSYUmSf5RCnuUJ917rx2YGrYOlDQmWxB-vQGwIsP5Eo6JI1OWja2WeHKqchRmwxqan_gU9csje08_w",
+        "author": "Barrie Byron",
+        "authorURL": "http://lh4.googleusercontent.com/-jbTp1bguFew/AAAAAAAAAAI/AAAAAAAAHRc/4xPBFMCE9p8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-jbTp1bguFew/AAAAAAAAAAI/AAAAAAAAHRc/4xPBFMCE9p8/photo.jpg"
+      },
+      {
+        "documentVersion": "4.0.3",
+        "timestampMsec": "1363231310712",
+        "starRating": "3",
+        "title": "A work in progress",
+        "comment": "Falafel addresses issues with specific conference catalogs very responsively. The app itself is a functional way to view a conference catalog by time slot or speaker name and to select your agenda. The app also shows conference news and information and links to conference resources (such as to the conference website and to the conference location in Google Maps). I have two main issues: 1) Accessing a conference might trigger notifications that can\\'t be turned off. I sometimes got several notifications a day after accessing a completed conference. 2) The user account feature is not explained within the app, and most users would be better off without an account. The only purpose of the account seems to be to allow you to access your agenda on multiple devices. The app doesn\\'t keep a local copy of your agenda on your device if you use an account. If your device loses access to the Internet, you can\\'t see your agenda. (For example, if you choose your agenda at home and then fly to the conference, you can\\'t see your agenda while you\\'re on the plane.) The agenda is stored locally if you don\\'t use an account, so if you don\\'t use multiple devices, you\\'re better off without an account.",
+        "commentId": "gp:AOqpTOF2C1y3T-_SIb-bqxyTXFKeijYX5pXNl3On-VLF1Azse_3T1VM5RAVtO2q9ZKaoY6f1ySTT2bjBK9kOl_s",
+        "author": "Mark Ploegstra",
+        "authorURL": "http://lh4.googleusercontent.com/-HgyCp8gk71U/AAAAAAAAAAI/AAAAAAAAAJs/cDOdXn0YMjY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-HgyCp8gk71U/AAAAAAAAAAI/AAAAAAAAAJs/cDOdXn0YMjY/photo.jpg"
+      },
+      {
+        "documentVersion": "4.0.3",
+        "timestampMsec": "1366804032991",
+        "starRating": "5",
+        "title": "Cool app",
+        "comment": "Needs to be able to save the last current event without having to load the entire list. Sometimes it does not scroll to the current day\\'s events.",
+        "commentId": "gp:AOqpTOFY3PQzYmO1dHoVwEbSMjbJtIJzsxwTTfWbCP1ujOfg87WWAcdXK1dQUiyFTI4NlTYWJM1z9uHwmvLnIzE",
+        "author": "Mike Donner",
+        "authorURL": "http://lh6.googleusercontent.com/-cr7eZFgJjWk/AAAAAAAAAAI/AAAAAAAAAVQ/mzIyHwldY1Y/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-cr7eZFgJjWk/AAAAAAAAAAI/AAAAAAAAAVQ/mzIyHwldY1Y/photo.jpg"
+      },
+      {
+        "documentVersion": "3.9.11",
+        "timestampMsec": "1354925746028",
+        "starRating": "2",
+        "title": "Extremely frustrating bugs",
+        "comment": "After using this app during AnDevCon IV, it\\'s painfully clear that it needs a complete overhaul. There are several usability issues that make the app difficult to use and sometimes pretty unreliable. The interface is frustrating to use and very messy.  It appears that EventBoard doesn\\'t cache data reliably (and some data doesn\\'t seem to be cached at all). Many conferences are notorious for having slow, limited or only partially functioning Wi-Fi. Combined with the need to quickly look at a scheduled agenda means waiting a very long time for data to load. The \\'All\\' view (and the By Time and By Track views, too) doesn\\'t show any markers to indicate which sessions you\\'ve marked to attend, a feature that is present in the iOS version.  The interface should also be redesigned to move conference info out of the Android system menu into the main screen. Ideally, they should be using the action bar, but that\\'s probably aiming too high.",
+        "commentId": "gp:AOqpTOEWe8GbekbBuFuPuk2KZIyNj7v2L79NQi9EqJYXHIYR0m1rspn2jiMJ2I87xve4U8lb1Sk-1y4Y-IUoYJg",
+        "author": "Cody Toombs",
+        "authorURL": "http://lh4.googleusercontent.com/-BHZ8LY9nMWk/AAAAAAAAAAI/AAAAAAAACRQ/Ludw527D6To/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-BHZ8LY9nMWk/AAAAAAAAAAI/AAAAAAAACRQ/Ludw527D6To/photo.jpg"
+      },
+      {
+        "documentVersion": "3.9.11",
+        "timestampMsec": "1354819459320",
+        "starRating": "4",
+        "title": "Useful!",
+        "comment": "This app was very helpful during the conference.  Made it so I didn\\'t need to carry around pages and pages of conference literature.  The custom itinerary feature was especially nice.  Maybe add calendar integration to that?  One warning: this app gets a little buggy during orientation changes.",
+        "commentId": "gp:AOqpTOGyP_yuqUgdGjY0MPp06YyYUBb93SbUCm4QcFBxk9Ch0UrgAviVE3goX2Pb8xcX2CSw98TNaH15oxUkKk0",
+        "author": "Joel Michel",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.8",
+        "timestampMsec": "1349278491661",
+        "starRating": "1",
+        "title": "What a POS",
+        "comment": "Uninstalling, only loaded conferences once for me, would load the sessions for the conference I selected. Seemed to stop loading when my phone display goes off.",
+        "commentId": "lg:AOqpTOFJg3KiCagmJohm3phDiZfO58ZcJ4g4xUQbbpHx4BoBPIf0uuN_XiCiCDepT5GjMnou41g7tgA0DeAm-oo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.7",
+        "timestampMsec": "1343011829463",
+        "starRating": "1",
+        "title": "Crashes constantly",
+        "comment": "Unusable due to constant crashes. I am uninstalling. (Droid 4)",
+        "commentId": "lg:AOqpTOH1duGVoGfbSIWRtzwNjeqGjlhWtqKrKVcF7-qubz-j-T2_6NM19nEgBE0szLgcFkzZellgqHc_MDo2he4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.7",
+        "timestampMsec": "1343274932394",
+        "starRating": "1",
+        "title": "Buggy",
+        "comment": "Couldn\\'t use",
+        "commentId": "lg:AOqpTOEZuu7xf5S539CAPi5NN4VKhakIQKDTKkOB0onIFQIlyEhRweovwzdJ0tlRXMcQUEl8JD80IDE6PqwBv8A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1335180223292",
+        "starRating": "2",
+        "title": "Very basic",
+        "comment": "As David has already said, it would be much better if it could be configured to default to a particular conference. Also the view that My Agenda etc give is very basic - it would be much more user-friendly if a grid-style layout (for example similar to the Sky+ App) was used.  Finally it would also be better if the agenda summary view showed end time as well as start time (in the current layout). Many conferences do have overlapping sessions so the end time is important - clearly with a grid-style layout this might be more obvious anyway.  Since I haven\\'t yet attended the conference I have yet to find out how easy it is for the organisers to update the agenda dynamically and how that shows up...!",
+        "commentId": "lg:AOqpTOHMyqWB7Bbzvn8yDYQb9mU0nTgYmv9JA5Blo_UBxowThv1P1bK6fK63Ygjy8eMs2z6ff-3lCy8HQzgUYPM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1337272342097",
+        "starRating": "2",
+        "title": "Pretty cumbersome",
+        "comment": "The fact that the events need to load every time the app is opened makes it almost unusable on the go. I do like how you can give feedback on talks directly in the app though.",
+        "commentId": "lg:AOqpTOHH82HalEBAytCdcoQc-Lm9gtuxd-lKiw0qE75-3J7tYQ5lgMxJXVVHTsKZvNN37a900Aj0u1pL0tWDh-k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1334373120961",
+        "starRating": "1",
+        "title": "App sucks",
+        "comment": "I\\'ve used this for a conference I\\'ve attended and when I open it, I physically have to click on my conference each time... would be nice if I could define my conference in settings",
+        "commentId": "lg:AOqpTOGdTAHKtraC5IV60Mpw_YSlT9cDSmPl9dLrgDWFCAwlvtEuNcqxCYDEzswK-7IrKhZA17pElpMREmqrRr8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1338310664974",
+        "starRating": "4",
+        "title": "Seems adequate",
+        "comment": "I just installed the app at the recommendation of the conference organizers.  It\\'s not the most incredible Android app I\\'ve ever installed, but it seems to do the job quite well.  Thankfully, my conference is near the top of the list, but I could see others\\' point about having to scroll to find a conference toward the bottom of the list each time being annoying.  A long-press \\\"Add to favorites\\\" would be a welcome addition.",
+        "commentId": "lg:AOqpTOHhHieUGjZRIfD_CCgTztabxlw_Bga4cPNqwN5rFpddabwARSr_XFRKA8z9EW5WiRWzVWNJ9_nVJNnm-ts",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1337201570512",
+        "starRating": "2",
+        "title": "It works",
+        "comment": "The UI could use a lot of work.  It woud be nice if it remembered what conference I was attending.  Background is distracting.",
+        "commentId": "lg:AOqpTOHqzdNTlqoGcxVmsftVX3BPD8tkERYAm-yXjnGz_oEh1brrmaigmLyDtMB_HbeR-5gNsIACMDZ-DbP2itw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1334217775680",
+        "starRating": "1",
+        "title": "Crashes",
+        "comment": "I used it during techdays last year, the app was crap then and still is. Crashes all the time. Unusable.",
+        "commentId": "lg:AOqpTOGY0uLc8Ce-gS3MS2DgeZs5S3FGooT5Lxseo3ds-koecCSQiMVbqlFmRG_Yy70rR0TPT_Z8wbMEMLMF5Jo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1340468009270",
+        "starRating": "1",
+        "title": "Needs a good connection",
+        "comment": "Tried to use it for a conference agenda. Internet connectivity was poor which resulted in the following problems:  Having to load the conference list and conference data each time. Why can\\'t it be cached and I allowed to view the data,even if it was trying to download updated data in the background?  -Often the app would seem to hang, no menu button or anything.",
+        "commentId": "lg:AOqpTOGNbP-7EHCFhyvTrzIw7spRknTOowiVipob4da08TT51loy6Uv2MqpOhcMXX_RsyR9EYCyBpL_653CD7ZI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1332979853597",
+        "starRating": "4",
+        "title": "Way better than paper",
+        "comment": "Easy to use.  Automatically updates agenda changes.  Much better than paper!",
+        "commentId": "lg:AOqpTOHhtuLLxWCKDHg2O1ktbK-T7DeciltiOO72n81xJD4xEA0co7ESOgFcv1o64U8Mw2xFYD2Ps4nAHXFDyC0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332863210893",
+        "starRating": "2",
+        "title": "Useless",
+        "comment": "Nice idea, but white on gray is unreadable, and way too much info without a filtering capability.",
+        "commentId": "lg:AOqpTOEoNnv_3xMQ-C-bm8h6pD3uTU3Hd0e2w-VZwwrt3L0fbDwK7vZDeKSk2UcW4vDJATG-PgxdwhCbflZkzQQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332886563412",
+        "starRating": "2",
+        "title": "Bad ui.",
+        "comment": "It works, but only barely. What moron decided to use light grey text on a light grey background?",
+        "commentId": "lg:AOqpTOENR79zCUzvZ9TpvOv3mXgbHlAj7QndNvuocMzJlbpvlgbnFDnx7EFa5TRrg_cJr9soGIra88GENoRscMo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302539806858",
+        "starRating": "5",
+        "title": "Works great, nice to have!",
+        "comment": "Really nice to have this in my pocket as I walk around the conference. It\\'s fasted (data cached locally) and easy to use. Very nicely done, no issues.",
+        "commentId": "lg:AOqpTOFs-aok5_c-Kv3353EQOEMP27800urRLHs70-U434Tk5Rl1eIiiXwROmaoKh_4FSWG5QJQsG6iKBH0dbqw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.falafel.eventboard.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

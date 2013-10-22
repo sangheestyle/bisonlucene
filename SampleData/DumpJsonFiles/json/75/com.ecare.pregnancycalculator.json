@@ -1,0 +1,40 @@
+{
+  "title": "My Pregnancy Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ecare.pregnancycalculator",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "August 6, 2013",
+  "version": "1.1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Baskaran Arunasalam",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ecare.pregnancycalculator",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "An easy to use app to determine your expected date of delivery (due date), how far are you in your pregnancy (period of gestation) and other important pregnancy milestones.My Pregnancy Calculator is a simple to use application to determine the milestones of your pregnancy. By just recording the first date of your last menstrual period, the average number of days in your menstrual cycle and with a click of a button, the following are shown:1.How far are you in your pregnancy (period of gestation).2.The expected date of delivery (due date).3.The date of conception.4.When are the First Trimester, Second Trimester and Third Trimester?5.When will the pregnancy reach Full Term?You can also work backward if you only know your expected date of delivery as in the case when your periods are very irregular and the expected date of delivery has to be determined by ultrasonography.This app is designed for Android phone.Other features:1.The app is password protected.2.There is a Personal Notes Page for you to record your notes e.g. symptoms you are having, questions you want to ask your Midwife, Obstetrician.",
+    "reviews": [
+      {
+        "timestampMsec": "1377034121803",
+        "starRating": "3",
+        "comment": "Just a calculator, not very creative",
+        "commentId": "gp:AOqpTOFKf0o7EnJKSLr36c9sj-uvqjOKgRopUrKMqe9bNUXDLZS8lLY1_H6hXrac-XoFcwl6V7py80_AVCqvBjY",
+        "author": "Sal b",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.ecare.pregnancycalculator.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

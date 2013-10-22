@@ -1,0 +1,38 @@
+{
+  "title": "See.ing",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dxgtech.Seeing",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.42",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "DXG Technology Corp.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dxgtech.Seeing",
+  "extendedInfo": {
+    "installSize": "4.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "With the See.ing App you could see everything what your See.ing WiFi SmartCam see on your smart phone.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

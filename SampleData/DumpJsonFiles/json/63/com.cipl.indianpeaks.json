@@ -1,0 +1,42 @@
+{
+  "title": "Indian Peaks Golf Course",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cipl.indianpeaks",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "March 13, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Slick Greens LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cipl.indianpeaks",
+  "extendedInfo": {
+    "installSize": "7.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Indian Peaks Golf Course, a Hale Irwin Signature designed and 4 Â½ star Golf Digest rated course, is complete with 18 holes of championship golf, color coded distance system driving range, chipping and practice greens, 1,500 trees, 87 bunkers, six lakes and two winding creeks. We guarantee a challenge for all. Four separate tee boxes on each hole make a fair and enjoyable experience for any caliber of player. Since opening in 1993 Indian Peaks has consistently ranked as one of Coloradoâs finest public golf facilities.The Indian Peaks Golf Course application has several features, such as: - GPS-enabled distances to each hole from your current location - Interactive Yardage Guide- Tee Time Reservations  - On The Turn Menu - Photo Gallery - Contact Information - Map and Directions - Notifications Built by Slick Greens LLC (www.slickgreens.com) and Approbatics (www.approbatics.com).",
+    "reviews": [
+      {
+        "timestampMsec": "1369152363838",
+        "starRating": "2",
+        "title": "OK, but needs improvement.",
+        "comment": "#1) This app is good for booking tee times, and is one of the most enjoyable ways to book. I love it.  I also like having the course yardage map handy, I find it nearly as useful as the GPS feature, which I only bother with occasionally because of item #2 below.  #2) Where the app falls down is in the EXTREMELY SMALL buttons. It is a 50/50 shot to push the microscopic GPS button and not get the audio walk-through instead.  #3) When using GPS, the App Crashes. A lot.  I stop and start the app many, many, MANY times during a round. I have a Samsung phone, maybe that is the problem?  #4) The App does not remember where you were when the App was last open. So when you\\'re on the 12th hole, every time you re-open the app you are at hole #1 again, and have to skip-skip-skip-... if the App is going to crash constantly, it needs to have the previous hole cached in memory.  #5) There is only one direction to page-through the course map, again, starting at #1 every time. Why no arrow allowing you to back through #18 on down? It\\'s the same interface, just put a button going the other way folks!",
+        "commentId": "gp:AOqpTOGyYXgzjgx_L1gnMr50W-e3tbYhvHjeMQ4z23qH1Jd6vq-ndbalPmuzcBQzIAcQzq0OibpeLRYB9kv8wg",
+        "author": "steven posusta",
+        "authorURL": "http://lh6.googleusercontent.com/-cP3isd57SL0/AAAAAAAAAAI/AAAAAAAAAUM/Nsntn4V8Di8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-cP3isd57SL0/AAAAAAAAAAI/AAAAAAAAAUM/Nsntn4V8Di8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

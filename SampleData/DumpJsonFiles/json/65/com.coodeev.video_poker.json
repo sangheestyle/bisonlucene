@@ -1,0 +1,38 @@
+{
+  "title": "Jacks or Better Video poker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coodeev.video_poker",
+  "category": "Cards & Casino",
+  "price": "Free",
+  "datePublished": "November 23, 2012",
+  "version": "2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "3.3333333",
+  "contentRating": "Medium Maturity",
+  "creator": "Coodeev",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coodeev.video_poker",
+  "extendedInfo": {
+    "installSize": "448k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Jacks or better video poker is the best in the world symulator of the game Video Poker.It is totally for free!You will spend thousands hours on playing this amazing game. You'll feel like in Las Vegas.In the game there is an option to turn off/on the system of automatically holding the cards but you can ALWAYS hold cart by click on it.When you're almost out of many you can rebuy it by only one click.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Studio 6 Salon & Spa",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_708aeabb1b894cec8e1b0ad1b4ca0217.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "November 22, 2011",
+  "version": "1.10.11.1522",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Studio 6 Salon & Spa",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_708aeabb1b894cec8e1b0ad1b4ca0217.app",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The owners of Studio 6 have cut there prices almost in half to meet the needs of single parents, senior citizens, high school and college students and low income mothers. Studio 6 is one of the best hourly based salons in the St. Louis, Florissant area. Studio 6 has been featured in the Essence Magazine (Oct 2004) and was voted one of the Top 100 Urban Salons in the country by Salon Sense (Dec/Jan 2005). Our goal is to pamper our clients in every way. We invite you to come and spend a relaxing day at Studio 6 Salon & Spa.Over the years the dedicated employees of Studio 6 Salon & Spa have adopted the mentality that in all areas of our work we respond as a team. The employees are personally trained on advance haircutting, color, and styling technique, alone with motivation and customer service skills. The employees are highly skilled team members with demostrated experience, who are willing to make a total commitment and contribution to the satisfaction of our clients. Our main resource and greatest underlying asset is our dedicated employees. Customer satifaction is the utmost mission in all fields of Studio 6 Salon & Spa.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_708aeabb1b894cec8e1b0ad1b4ca0217.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

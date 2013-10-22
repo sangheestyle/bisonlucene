@@ -1,0 +1,39 @@
+{
+  "title": "Spontania Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dialcom.spontaniamobile.gui",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "March 14, 2013",
+  "version": "1.1.3",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "8",
+  "rating": "4.375",
+  "contentRating": "Everyone",
+  "creator": "Dialcom Networks",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dialcom.spontaniamobile.gui",
+  "extendedInfo": {
+    "installSize": "4.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Description: Join Spontania High Quality Videoconferencing meetings from your Android device. With Spontania Mobile, you can extend your Spontania desktop experience to your Android device. Join any meeting from anywhere. Receive video and see documents or applications in real time. It works over any type of network (3G, 4G or WiFi) with small bandwidth consumption and great quality. Download Spontania Mobile for free and bring remote collaboration to a new level of productivity. FEATURES: All Spontania Mobile users will enjoy: - Multipoint video (receive up to 4 concurrent videos) - Multipoint VoIP audio-conferencing with advanced echo cancellation - Multi-Chat text - Document and application sharing - You zoom and view controls for shared applications - Easy connection process REQUERIMENTS: Android 2.2 . Processor: ArmV7 or higher. Also models compliant with this architecture will be accepted.Q: How can you join a meeting? A: There are two ways: First, when you launch Spontania Mobile, you will be asked toenter the Spontania Server URL, your name and the meting session ID. A simple click of the 'Connect' will bring you to meeting. Second you can access the meeting via your WEB browser. Click the link that will take you to the Spontania meeting webpage, enter your session ID and user name for that meeting, click on the 'Join' button and you will enter into the meeting. Q: Can I create a meeting from an Android device? A: For the time being, Spontania Mobile only allows you to join existing meetings. Meetings are created from you PC or MAC. Q: How can I create a Spontania account? A: Please, visit www.dialcom.com . For more information about Spontania Mobile visit: http://www.dialcom.com/en/Mobile.php",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

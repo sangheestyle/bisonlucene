@@ -1,0 +1,65 @@
+{
+  "title": "HTML Code Browser",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=ca.thinkonline.htmleditor.free",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "February 26, 2012",
+  "version": "0.95",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "39",
+  "rating": "4.051282",
+  "contentRating": "Everyone",
+  "creator": "Think Online.ca",
+  "creatorURL": "https://play.google.com/store/apps/details?id=ca.thinkonline.htmleditor.free",
+  "extendedInfo": {
+    "installSize": "88k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "A niche tool written by developer, for fellow developers; that let you to see HTML vis-a-vis how the page renders and behaves on an actual Android mobile browser and hardware; it also let you to access SD storage* and (re-)write HTML on the fly**In this revision there is a partial colour-coding, bracket-colouring; although the syntactical relaxed non-XML/SGML HTML and Script gives errors, I'm working on it. But rest assured Android System will intervene before any possible damage.* SD storage does not exist with Nexus S and the likes; but similar internal memory does exist.** saving available only with SD storage local HTML files.",
+    "reviews": [
+      {
+        "timestampMsec": "1373222033384",
+        "starRating": "5",
+        "title": "Code",
+        "comment": "GREAt",
+        "commentId": "gp:AOqpTOE2UEHmbKbBYYLE1lfqO_8ZFv2M8Qcr4Y1V5uCIgvfRFG7dxaExFSOIpbykUgclb4n1cUkeHdh045-hEA",
+        "author": "Ms.lei Ruiz",
+        "authorURL": "http://lh3.googleusercontent.com/-9NVrT00e7OE/AAAAAAAAAAI/AAAAAAAAANU/lRXYsq_JYSw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-9NVrT00e7OE/AAAAAAAAAAI/AAAAAAAAANU/lRXYsq_JYSw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1352226773335",
+        "starRating": "1",
+        "title": "Nexus 7",
+        "comment": "Fails on startup with java error",
+        "commentId": "lg:AOqpTOESbyQqMDXNJjClX8-js58GpgX48J6jMD3pAKY2bVBGWKOmSUKdiyyVLm6-FGYrs6lM8VpxITxUPyywuw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368188620635",
+        "starRating": "3",
+        "title": "Fail!",
+        "comment": "Can\\'t open .htm files",
+        "commentId": "gp:AOqpTOE40opdAGJTHvuBLAnwGFiFQcktgSDXz4BXikj4i_1xLZHKGFUDddM_-Woih-bgx4QGTYdaulIu8lf_3A",
+        "author": "Ejiro Winifred Ariaroo",
+        "authorURL": "http://lh4.googleusercontent.com/-Ecz228o3I2E/AAAAAAAAAAI/AAAAAAAAAIo/105czZDqYfo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Ecz228o3I2E/AAAAAAAAAAI/AAAAAAAAAIo/105czZDqYfo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1350122902389",
+        "starRating": "2",
+        "comment": "Html",
+        "commentId": "lg:AOqpTOEzoYFiA_I8K6-Z5aOfY-qtAUQD8JfNb_jR1LfNQm4uIVVz84z_HwhWqbLlNSYP52sItqUEHCPGIPrkdA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

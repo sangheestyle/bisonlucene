@@ -1,0 +1,60 @@
+{
+  "title": "Rural Telecom Industry Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.rtime13",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "January 30, 2013",
+  "version": "3.8.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.rtime13",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The ground-breaking Rural Telecom Industry Meeting & EXPO brings the entire industry together in one place, at one time.  This innovative meeting features expanded educational programming, including specific tracks for directors and managers; extended EXPO hours with the industryâs best exhibitors; and opportunities to learn, discuss and experience more than ever before.  The RTIME 2013 mobile app maximizes attendee productivity at the Rural Telecommunications Industry Meeting & EXPO.This meeting is co-produced by the National Telecommunications Cooperative Association (NTCA) and the Organization for the Promotion and Advancement of Small Telecommunications Companies (OPASTCO).",
+    "reviews": [
+      {
+        "documentVersion": "3.8.5",
+        "timestampMsec": "1360255460916",
+        "starRating": "5",
+        "title": "Judith Barnes",
+        "comment": "Fantastic!  Thanks for this HELPFUL app!",
+        "commentId": "gp:AOqpTOFynRVK6TA6WRe_XrCgWq79pLh1pJr3xe42LKQwam5MbXjlXauiYNrmPnL5t_KbUI2TuZvv6eJatwWUFDc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.rtime13.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

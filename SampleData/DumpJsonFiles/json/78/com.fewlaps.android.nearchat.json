@@ -1,0 +1,75 @@
+{
+  "title": "Near Chat",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fewlaps.android.nearchat",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "2.20",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "25",
+  "rating": "4.4",
+  "contentRating": "Medium Maturity",
+  "creator": "Fewlaps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fewlaps.android.nearchat",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Join the global conversation!Near Chat is an app to chat with people near you. Instead of being a place to flirt, where you can have private rooms with the people you love, Near Chat offers a common room for all people to talk about what's interesting in the place you share.Are you interested in talking with the people who is in the same venue than you? Cool! Choose a venue from our Foursquare Venues list and start chatting with the people who is very, very near of you. Talk about the movie you're viewing at the cinema. The song that you're dancing at the disco. The best dish of the restaurant you are. Or you can also talk about how do you love breathing the pure air of the forest.It's time for a near chatting revolution!",
+    "reviews": [
+      {
+        "timestampMsec": "1378035051190",
+        "starRating": "1",
+        "title": "Disappointing",
+        "comment": "Force closes everytime i open it!!!",
+        "commentId": "gp:AOqpTOFeIA8M8gTOCVcvQG5C7RdAleYhQBLFra4gp43wXjb8IqM-LOjpQ7qLkjkevBMkQntkFOMcg0UDWb0Jdug",
+        "author": "mohammad mehyar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377693992405",
+        "starRating": "1",
+        "title": "hiiu",
+        "comment": "waw",
+        "commentId": "gp:AOqpTOGwMwSHJWaQRFyYz2yN7WIPeua_fZIa48mgBnwWcAnQ8l0ucvC1wSQ2kDApXzDrvH_5LX4F8Nhz7YIslyw",
+        "author": "housseini siddiki",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372703316626",
+        "starRating": "5",
+        "comment": "Una risa",
+        "commentId": "gp:AOqpTOGQxWVYQlGdP5j2mO4ZBmVgUARvglLiLlzvDeuR6cJao4mFQCAYesIHZuTNtcHYY9Cb7sUMn33m5iwwEPc",
+        "author": "Sergi Mart\\303\\255nez",
+        "authorURL": "http://lh6.googleusercontent.com/-bBWodkwkzus/AAAAAAAAAAI/AAAAAAAAEPA/fHCU1Z6mwGw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-bBWodkwkzus/AAAAAAAAAAI/AAAAAAAAEPA/fHCU1Z6mwGw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376129769059",
+        "starRating": "1",
+        "title": "Spanish!!",
+        "comment": "This app is stupid. Most of the people on it are spanish speakers",
+        "commentId": "gp:AOqpTOGVjZOs4TSGnLDF6QCPugJvLAQH5bV1JILVYUM1ueyxwr1iQJcR7IpRyZcl_c51MyTJCxzmZRi6SoNtjbM",
+        "author": "Jonathan Knowles",
+        "authorURL": "http://lh6.googleusercontent.com/-x09-TvgkMNo/AAAAAAAAAAI/AAAAAAAAAEI/3Xys4GjXXks/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-x09-TvgkMNo/AAAAAAAAAAI/AAAAAAAAAEI/3Xys4GjXXks/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "com.fewlaps.android.nearchat.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

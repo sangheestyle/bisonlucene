@@ -1,0 +1,65 @@
+{
+  "title": "Chimani Glacier National Park",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chimani.glacier",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 11, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "5",
+  "rating": "3.2",
+  "contentRating": "Low Maturity",
+  "creator": "Chimani",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chimani.glacier",
+  "extendedInfo": {
+    "installSize": "12M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Over 100+ unique points of interest (POIs) throughout Glacier National Park. A GPS-enabled, custom map which works WITHOUT a cell/wifi connection, daily Ranger-Led events schedule, sunrise/sunsets data for over a year, shuttle bus schedule, photo gallery, 30+ hiking trail descriptions, scenic viewpoints, a special Safety section, and details on camping and lodging.â¢ 100+ unique points of interest (POIs) throughout the Park.â¢ GPS-enabled, custom-made, high-resolution mapâ¢ Auto-touring guideâ¢ Ranger-led events scheduleâ¢ Sunrise/sunsets and tidal data for a yearâ¢ Shuttle bus scheduleâ¢ 30+ hiking trails descriptionsâ¢ Photo galleryâ¢ MyChimani feature which allow users to tap each others device to share profiles and park badges",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1374740730291",
+        "starRating": "5",
+        "comment": "Excellent!",
+        "commentId": "gp:AOqpTOFp9t5oYKiTUNnfaFQURNCIBE_x3idY30iBGuGwJcD83ojhfyEu0ir4XcdSiNg6R5YMErcVcWYcpmE19w",
+        "author": "Mike LaVigne",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372462303227",
+        "starRating": "1",
+        "title": "AVG classifies this as intrusive adware",
+        "comment": "User beware!",
+        "commentId": "gp:AOqpTOFOUoXPfn5hIPqrFWUsIY6DG9LZ-J2Fx1VJg0jQkqRL39PukPYqhMhlEJEtld7O5aG6Xb1aBiO3a6f1yQ",
+        "author": "Kiel Smith",
+        "authorURL": "http://lh6.googleusercontent.com/-NUJ2WF_P6FA/AAAAAAAAAAI/AAAAAAAAODc/EpM4h-wgJjM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-NUJ2WF_P6FA/AAAAAAAAAAI/AAAAAAAAODc/EpM4h-wgJjM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_GPS",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.NFC",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PROFILE",
+      "android.permission.CALL_PHONE",
+      "com.chimani.glacier.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

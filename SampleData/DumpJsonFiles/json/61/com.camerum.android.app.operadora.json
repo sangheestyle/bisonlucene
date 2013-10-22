@@ -1,0 +1,250 @@
+{
+  "title": "Operadora DDD",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.camerum.android.app.operadora",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 30, 2013",
+  "version": "2.1.13",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2263",
+  "rating": "4.779938",
+  "contentRating": "Low Maturity",
+  "creator": "Denis Souza",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.camerum.android.app.operadora",
+  "extendedInfo": {
+    "installSize": "216k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Insere ou altera o cÃ³digo da operadora de longa distÃ¢ncia sempre que vocÃª fizer uma ligaÃ§Ã£o. Agora com suporte a mÃºltiplos chips! Veja abaixo se o seu aparelho funciona!Suporte ao nono dÃ­gito para todos os DDDs de SÃ£o Paulo e Rio de Janeiro (assim que entrarem em vigor)!Atualize todos os seus contatos com o nono dÃ­gito! O Ãºnico que funciona em Android 1.5!VocÃª pode manter seus contatos cadastrados em qualquer formato que o programa se adapta e sempre disca corretamente.Caso jÃ¡ tenha cadastrado a operadora em todos os seus contatos ele pode alterÃ¡-la na hora da discagem. Ãtimo para quem estÃ¡ mudando de operadora de celular.TambÃ©m Ã© possÃ­vel diferenciar operadoras em chamadas para celulares, fixos ou chamadas internacionais.Permite tambÃ©m transformar todas as suas ligaÃ§Ãµes em chamadas a cobrar, caso vocÃª tenha um celular prÃ©-pago e esteja sem crÃ©ditos.Suporte a mÃºltiplos chips que funciona com a maioria dos aparelhos de marcas conhecidas (Motorola, Samsung, LG, etc.). Se o seu aparelho Ã© chinÃªs ou de uma marca totalmente desconhecida o recurso de mÃºltiplos chips provavelmente nÃ£o vai funcionar pois a grande maioria desses aparelhos nÃ£o obedece certas regras do sistema Android (infelizmente nÃ£o hÃ¡ nada que eu possa fazer quanto a isso - Ã© um problema dos prÃ³prios aparelhos).UsuÃ¡rios de MIUI: Ã preciso ativar uma permissÃ£o de discagem para que o programa funcione corretamente! Isso pode variar dependendo do seu aparelho, mas nas versÃµes mais recentes do MIUI isso pode ser feito no aplicativo de permissÃµes.Se tiver algum problema para usar entre em contato. Respondo 100% dos e-mails e resolvo 99% dos problemas quando tenho as informaÃ§Ãµes adequadas!Para os mais paranÃ³icos veja abaixo o motivo de cada permissÃ£o solicitada pelo aplicativo:- LIGAR DIRETAMENTE PARA OS NÃMEROS DE TELEFONE Como o objetivo do programa Ã© justamente alterar o nÃºmero na hora da discagem ele pede essa permissÃ£o para aparelhos que nÃ£o fazem a alteraÃ§Ã£o corretamente. Para esses casos hÃ¡ um mÃ©todo alternativo de discagem na qual o programa cancela a ligaÃ§Ã£o atual e faz outra com o nÃºmero correto.- LOCALIZAÃÃO APROXIMADA (COM BASE NA REDE) Essa permissÃ£o Ã© usada para identificar o DDD no qual vocÃª estÃ¡. Isso permite que o programa transforme as ligaÃ§Ãµes em locais quando necessÃ¡rio. O uso do serviÃ§o de localizaÃ§Ã£o roda em segundo plano e Ã© usado o mÃ­nimo possÃ­vel.- LER SEUS CONTATOS- MODIFICAR SEUS CONTATOS Um dos recursos do Operadora DDD Ã© justamente a alteraÃ§Ã£o dos contatos para o formato que vocÃª preferir, incluindo o nono dÃ­gito para celulares onde necessÃ¡rio. A alteraÃ§Ã£o de contato tambÃ©m Ã© feita temporariamente ao discar (e o contato retornado ao normal quando termina a ligaÃ§Ã£o) para que certos aparelhos consigam identificar corretamente o contato do nÃºmero que estÃ¡ sendo discado.- REDIRECIONAR AS CHAMADAS EFETUADAS O principal objeto do programa Ã© justamente alterar o nÃºmero para que sempre seja discado corretamente.- LER STATUS E IDENTIDADE DO TELEFONE Para fazer o serviÃ§o corretamente o programa precisa saber quando vocÃª estÃ¡ fazendo uma ligaÃ§Ã£o. TambÃ©m Ã© necessÃ¡rio poder ler as informaÃ§Ãµes dos chips para detectar quando o chip foi mudado, saber qual a operadora do chip e para saber quantos chips estÃ£o instalados no aparelho.- EXECUTAR NA INICIALIZAÃÃO Para garantir que o programa sempre saberÃ¡ em qual DDD vocÃª estÃ¡ ele precisar ser iniciado logo que o aparelho Ã© ligado. NÃ£o hÃ¡ tempo para fazer isso no momento da ligaÃ§Ã£o pois pode levar alguns segundos para determinar o local. A execuÃ§Ã£o em segundo plano Ã© extremamente leve e sÃ³ Ã© acionada quando vocÃª estÃ¡ se movimentando.- LER REGISTRO DE CHAMADAS- SALVAR NO REGISTO DE CHAMADAS Para manter o seu registro de chamadas sempre com o nÃºmero e contatos corretos apÃ³s uma ligaÃ§Ã£o.",
+    "reviews": [
+      {
+        "documentVersion": "2.1.13",
+        "timestampMsec": "1377864560428",
+        "starRating": "4",
+        "title": "Excellent app",
+        "comment": "Could not try change international numbers to be perfect. But it\\'s excellent anyway...",
+        "commentId": "gp:AOqpTOHANtXu6ZBzbrwAct25p2eCzG3Lgn527EysA8mtkOOO6ZDcSd5LfSNmM8Uwc9xapZB8EUZCOFREdAcLsw",
+        "author": "Paulo Victor Leopaci Benini",
+        "authorURL": "http://lh5.googleusercontent.com/-xdPwK_cgttw/AAAAAAAAAAI/AAAAAAAAAIU/VZvHBpBx4nw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-xdPwK_cgttw/AAAAAAAAAAI/AAAAAAAAAIU/VZvHBpBx4nw/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.13",
+        "timestampMsec": "1378580005238",
+        "starRating": "5",
+        "title": "Formatos",
+        "comment": "Coloca os seus n\\303\\272meros da agenda inteira no formato que voc\\303\\252 quiser. V\\303\\241rias op\\303\\247\\303\\265es como formato internacional com +55, ou com 00. Espa\\303\\247os, h\\303\\255fens. E ainda te mostra o que vai fazer pra voc\\303\\252 conferir. Perfeito!",
+        "commentId": "gp:AOqpTOFwY57dcRCfVJVSYk667AsCu-LqOVII6_UGjn4ZoKRPKZ1K0rxE_739v26lzVjaOEv1HS8KBPwt24crAQ",
+        "author": "Gabriel Ferreira Teles Gomes",
+        "authorURL": "http://lh3.googleusercontent.com/-H5UMyH0aHGE/AAAAAAAAAAI/AAAAAAAADV4/q9ACLNGrcEU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-H5UMyH0aHGE/AAAAAAAAAAI/AAAAAAAADV4/q9ACLNGrcEU/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.13",
+        "timestampMsec": "1377860265102",
+        "starRating": "5",
+        "title": "Perfeito",
+        "comment": "O app faz exatamente o prometido e sem erros.",
+        "commentId": "gp:AOqpTOFnYjtu14GiZwezbBOapmtiBrDUwvhQZ3eFBJpVwqkUQD6k2Wxzs_3EWrCm72ePosEpjgyebvalIPe5Jw",
+        "author": "Renan Lira",
+        "authorURL": "http://lh4.googleusercontent.com/-u8cLzgco_8Q/AAAAAAAAAAI/AAAAAAAAUHQ/yCwdyzDLkBk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-u8cLzgco_8Q/AAAAAAAAAAI/AAAAAAAAUHQ/yCwdyzDLkBk/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.12",
+        "timestampMsec": "1377628423742",
+        "starRating": "5",
+        "title": "Simplesmente sensacional.",
+        "comment": "Adeus os problemas com DDD, seja qual for, pois fica totalmente transparente na hora de uma liga\\303\\247\\303\\243o.",
+        "commentId": "gp:AOqpTOEdHWZUZpWpU1XA0TpJKromCBeCNwtSXg9Td8yAPXCmqrfiwVCyuTEoO50ffmF6YKlFy7gPZ0sHQttTFg",
+        "author": "Christofer Bertonha",
+        "authorURL": "http://lh5.googleusercontent.com/-xkBWOZrV7wQ/AAAAAAAAAAI/AAAAAAAAAWA/rTjx-mrcz6Q/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-xkBWOZrV7wQ/AAAAAAAAAAI/AAAAAAAAAWA/rTjx-mrcz6Q/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.12",
+        "timestampMsec": "1377810017932",
+        "starRating": "5",
+        "title": "o melhor",
+        "comment": "possui o menor footprint e o regex funciona pra qualquer tipo de formata\\303\\247\\303\\243o, inclusive com c\\303\\263digo internacional.",
+        "commentId": "gp:AOqpTOFlFCVUtuwfTc3g-oJHhdSQk1PjMQBO4OpZtIy5aLEzTH-IrfR6lvOgGn9dEIhUZeL4l2UWGFpC9kQHqg",
+        "author": "Dan Alec Yamaguchi",
+        "authorURL": "http://lh5.googleusercontent.com/-5y2Y8p5_qhc/AAAAAAAAAAI/AAAAAAAAYm4/EtBk1Y7_tSc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-5y2Y8p5_qhc/AAAAAAAAAAI/AAAAAAAAYm4/EtBk1Y7_tSc/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.12",
+        "timestampMsec": "1377837863310",
+        "starRating": "5",
+        "title": "Perfeito",
+        "comment": "Com essa confus\\303\\243o de operadoras, nono d\\303\\255gito e tudo mais, esse app \\303\\251 INDISPENS\\303\\201VEL.",
+        "commentId": "gp:AOqpTOG3dFm4FQPVgjL_dmsr6v3iSEbM9UrI8E8qogvsu6hOeVdIkx5b36m4TofvgnCn6iupsKjyFYpWZhx_1A",
+        "author": "Cristiano Monteiro dos Santos",
+        "authorURL": "http://lh3.googleusercontent.com/-UBg_nSSOrw0/AAAAAAAAAAI/AAAAAAAAIfc/R9gLbhnpO2k/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-UBg_nSSOrw0/AAAAAAAAAAI/AAAAAAAAIfc/R9gLbhnpO2k/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.12",
+        "timestampMsec": "1377818477478",
+        "starRating": "5",
+        "title": "Excelente",
+        "comment": "Sem d\\303\\272vida, a mais \\303\\272til APP em meus aparelhos. Parab\\303\\251ns!!!   E agora, acabo de adquirir novo aparelho (S4 Mini Duos) e est\\303\\241 funcionando perfeitamente. Parab\\303\\251ns mais uma vez  pela app perfeita.",
+        "commentId": "gp:AOqpTOEZJ2DGCH9na1SmkYXcWQKeHoU1her0gTj0G0kvEOdpFjCEsqnONJMnN5kMaMvyaivoK8Gw6cezZbUM8g",
+        "author": "Marcio Henrique",
+        "authorURL": "http://lh4.googleusercontent.com/-DOvvxWNobyc/AAAAAAAAAAI/AAAAAAAAADM/oP7MTW-yPeo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-DOvvxWNobyc/AAAAAAAAAAI/AAAAAAAAADM/oP7MTW-yPeo/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.12",
+        "timestampMsec": "1377461559367",
+        "starRating": "5",
+        "title": "Formato do n\\303\\272mero",
+        "comment": "Muito boa a customiza\\303\\247\\303\\243o do formato do n\\303\\272mero de telefone!",
+        "commentId": "gp:AOqpTOEjcR5jWfaUYfDy6DnVQoXbNjuvyzUj1d4I0DTw5_5RnlVdbSIAqdbj89bzOTf6s_cwh1WaBMRW33Bo9w",
+        "author": "Cr\\303\\255stian Deives",
+        "authorURL": "http://lh6.googleusercontent.com/-5Y8QOXRanfQ/AAAAAAAAAAI/AAAAAAAA1so/ciKr3zSZ2Is/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-5Y8QOXRanfQ/AAAAAAAAAAI/AAAAAAAA1so/ciKr3zSZ2Is/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.12",
+        "timestampMsec": "1377261571202",
+        "starRating": "5",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOEUOD59nIXbfzhwXfqFvBq74tketD1czulTVlOWUBXjl7W1WzsDCFeJ77kgLVMJT6apxy2YtpN70FuygA",
+        "author": "Andre Luiz",
+        "authorURL": "http://lh4.googleusercontent.com/-gfzW1dw4s6k/AAAAAAAAAAI/AAAAAAAACS8/_AMIEEyG7L0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-gfzW1dw4s6k/AAAAAAAAAAI/AAAAAAAACS8/_AMIEEyG7L0/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.12",
+        "timestampMsec": "1377521566868",
+        "starRating": "5",
+        "comment": "Perfeito, sem reclama\\303\\247\\303\\265es",
+        "commentId": "gp:AOqpTOGRaXQscgjBajI2X9hEpiuKZBRovUtYqfX-Ur-Qz2wNYM7YozoJRmbcpNSB9KOWLjSa5AZVL4SyKL7F-A",
+        "author": "Rafael Kuasy",
+        "authorURL": "http://lh6.googleusercontent.com/-f5upfGPulYI/AAAAAAAAAAI/AAAAAAAAAlU/x7skzWfagp8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-f5upfGPulYI/AAAAAAAAAAI/AAAAAAAAAlU/x7skzWfagp8/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.11",
+        "timestampMsec": "1377046883429",
+        "starRating": "5",
+        "title": "Mito bom",
+        "comment": "Fant\\303\\241stico!! Vou colaborar com um cafe ou 2",
+        "commentId": "gp:AOqpTOFwPfnn-5OShTM2eXikWNqRHg4k7NX5otPpnUO6QqnWtlYhLxUkJm8CstX_XFLI2wMyJhg5YDsaGBeK8g",
+        "author": "Heitor Bonfim",
+        "authorURL": "http://lh4.googleusercontent.com/-JxQBOw2fa-w/AAAAAAAAAAI/AAAAAAAAAAA/3EXToyEsq6E/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-JxQBOw2fa-w/AAAAAAAAAAI/AAAAAAAAAAA/3EXToyEsq6E/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.11",
+        "timestampMsec": "1377095296911",
+        "starRating": "5",
+        "title": "Bom demais",
+        "comment": "Excelente programa",
+        "commentId": "gp:AOqpTOERnFDydTjttygSTsdAZ4qSszUggfLrxYu7JaKQJRnPmRLrRlEytzonWfOU9wTSylTTYZvNeGqLsHWOBA",
+        "author": "Muni Perez",
+        "authorURL": "http://lh5.googleusercontent.com/-lVuEHyMwgV8/AAAAAAAAAAI/AAAAAAAAAFs/2ULZBrpcgvY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-lVuEHyMwgV8/AAAAAAAAAAI/AAAAAAAAAFs/2ULZBrpcgvY/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.11",
+        "timestampMsec": "1377135658031",
+        "starRating": "5",
+        "comment": "Otimo",
+        "commentId": "gp:AOqpTOHgqm_znOZ_z2MvsFWH08gURX5Y6MDSUzjmm2yM0T0L96YumRKEiGu-mbzkPiTNFeIi9L09cmpP-5G7xA",
+        "author": "Nelson Carneiro",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.10",
+        "timestampMsec": "1376960503654",
+        "starRating": "5",
+        "title": "Perfeito",
+        "comment": "S\\303\\263 tenho 1 palavra: perfeito. O App faz tudo o que eu esperava. Recomendo, e j\\303\\241 fiz minha doa\\303\\247\\303\\243o..",
+        "commentId": "gp:AOqpTOE0mKKQ0x-7s6NXmq-5XuPFm4ulsNj7I-xOOPJCpO6okkiCuaR-BgHU1_8LsRbwL5ofBbrwMe8q-KvjUw",
+        "author": "Eduardo Neves de Araujo",
+        "authorURL": "http://lh6.googleusercontent.com/-s6YKuYsSth0/AAAAAAAAAAI/AAAAAAAAAoI/G-qRX6wj56w/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-s6YKuYsSth0/AAAAAAAAAAI/AAAAAAAAAoI/G-qRX6wj56w/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.10",
+        "timestampMsec": "1376959102884",
+        "starRating": "5",
+        "title": "Top",
+        "comment": "Funciona perfeitamemte",
+        "commentId": "gp:AOqpTOFZvSU8fGcl_4XHkwRn-rkRM9aUo7YuwKSj5NS1050wtIhin-2wDCHOXtznc044LaMEURhDvMPD837ORw",
+        "author": "Lucas Porto",
+        "authorURL": "http://lh6.googleusercontent.com/-Ks-cAdItOX0/AAAAAAAAAAI/AAAAAAAAGyY/sW351DkymAU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Ks-cAdItOX0/AAAAAAAAAAI/AAAAAAAAGyY/sW351DkymAU/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.10",
+        "timestampMsec": "1376963598551",
+        "starRating": "5",
+        "comment": "Funciona perfeitamente!",
+        "commentId": "gp:AOqpTOG1-I3O1I9kyB0smSLGJ0JaPHfRFPlUepP8U-u2faPsKBViAj5vWoWDXmHEkf3AglRnF_7qVQ3Pl6KIgA",
+        "author": "Rodrigo Starr",
+        "authorURL": "http://lh6.googleusercontent.com/-X_KuIsHBuwQ/AAAAAAAAAAI/AAAAAAAAADc/DLk7lr-SQ1I/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-X_KuIsHBuwQ/AAAAAAAAAAI/AAAAAAAAADc/DLk7lr-SQ1I/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.9",
+        "timestampMsec": "1375914116258",
+        "starRating": "5",
+        "title": "Genial",
+        "comment": "App me salvou. Cumpre exatamente com sua funcao e ainda oferece outros detalhes.  Fiz questao de doar uma grana.",
+        "commentId": "gp:AOqpTOF1yO5cQiLI-NtmRgWUsWOzwwhz9c2WbcG4kDXFJBqelp6BOFGTQtMoOTdJxJgbYQ6GTd36wjIvNdurLQ",
+        "author": "Lucas Aguilar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.9",
+        "timestampMsec": "1376952134974",
+        "starRating": "5",
+        "title": "Perfeito",
+        "comment": "Parab\\303\\251ns ao desenvolvedor. \\303\\211 simplesmente perfeito. Muito \\303\\272til pra quem usa Skype e n\\303\\243o quer manter o c\\303\\263digo da operadora nos n\\303\\272meros da agenda.  Pra ser 6 estrelas \\303\\251 s\\303\\263 integrar busca de operadoras (Tim,  claro, etc...)",
+        "commentId": "gp:AOqpTOFu41TqdlLzAheKzptHQkCRgubfXdOfwUXsExMHlWxy8m657Hd6z8R8LkQVd-iip5PIEWNr9we22R3PlQ",
+        "author": "Marcio Curotto",
+        "authorURL": "http://lh3.googleusercontent.com/-t5aCaDDcNwU/AAAAAAAAAAI/AAAAAAAAJAE/JNIy8x0Y04k/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-t5aCaDDcNwU/AAAAAAAAAAI/AAAAAAAAJAE/JNIy8x0Y04k/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.9",
+        "timestampMsec": "1377525582298",
+        "starRating": "5",
+        "title": "Essencial",
+        "comment": "Principalmente se voc\\303\\252 guarda na sua agenda n\\303\\272meros de telefone como o resto do mundo faz +5511NNNNNNN (codigo do pais + codigo de are + n\\303\\272mero) e/ou precisa de ligar para o exterior.",
+        "commentId": "gp:AOqpTOEc42z9e3b09aK3gwNCCoZLM0v9PaH8dh3GqicFLUiCxGs-kJ6jHItRjU47E4tVDN6U_3AjpkvHYC_D0g",
+        "author": "Thiago Marcos P. Santos",
+        "authorURL": "http://lh3.googleusercontent.com/-4rrOHX8XBbc/AAAAAAAAAAI/AAAAAAAAHWM/u2hqXpw5pcw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-4rrOHX8XBbc/AAAAAAAAAAI/AAAAAAAAHWM/u2hqXpw5pcw/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.9",
+        "timestampMsec": "1367411576031",
+        "starRating": "5",
+        "title": "Muito bom",
+        "comment": "Genial e funcional. Parab\\303\\251ns ao desenvolvedor por um app extremamente \\303\\272til.",
+        "commentId": "lg:AOqpTOFljRDQFcx9r0V0jXZVDp4fONC4bMMm-3XlVItzf8HyNi61PDzIvsEVTwCsJ8Ot7ypAYs4CMlntRs2Zbg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_COARSE_UPDATES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

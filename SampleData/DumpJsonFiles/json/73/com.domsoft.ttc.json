@@ -1,0 +1,31 @@
+{
+  "title": "Texas Transportation Code",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.domsoft.ttc",
+  "category": "Books & Reference",
+  "price": "$2.99",
+  "datePublished": "September 26, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Not rated",
+  "creator": "DomSoft Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.domsoft.ttc",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Reference for the Texas Transportation Code.  The entire code is downloaded to your phone, so no internet needed.  Also take a look at our Texas Penal Code, Texas Code of Criminal Procedure, Texas Family Code, and Texas Alcoholic Beverage Code. Great for police!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

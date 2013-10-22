@@ -1,0 +1,39 @@
+{
+  "title": "Philly Eye",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.PhiladelphiaEyeAssociates_24",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "October 26, 2011",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.PhiladelphiaEyeAssociates_24",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Philadelphia Eye Associates, founded over 30 years ago, is the largest private eye care practice in the Philadelphia area. Our doctors provide complete eye care, including:* Routine Exams* Glaucoma* Cataract* Multifocal, Accomodative, Astigmatism-correcting lens implants* Diabetic Eye Exams* Oculoplastic (Cosmetic Eye Surgery)* Refractive Surgery (LASIK/Advanced Surface Ablation)* Cornea TransplantationOur doctors have been trained at either Wills Eye Institute or Scheie Eye Institute , and provide the finest care available.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.cloudninedevelopmentllc.PhiladelphiaEyeAssociates_24.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

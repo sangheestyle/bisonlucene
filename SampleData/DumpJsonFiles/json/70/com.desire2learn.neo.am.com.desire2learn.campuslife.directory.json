@@ -1,0 +1,34 @@
+{
+  "title": "NEO A&M College",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.desire2learn.neo.am.com.desire2learn.campuslife.directory",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 21, 2012",
+  "version": "1.0.489.719",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Desire2Learn Incorporated",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.desire2learn.neo.am.com.desire2learn.campuslife.directory",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The NEO A&M College app give you instant access to your news, grades, online courses, maps, sports, neo.edu, calendar, NEO's Youtube channel, and Facebook.Features:- Campus News: The lates events at NEO with official press releases and vibrant photos.- Access your grades: Get the information you need quick from Web Product on the go.- NEO Online Courses: Access important information, check assignment due dates, and more.- Maps: Never be without one again. You'll always know your way around campus.- Sports: Stay up to date on all the latest Norse sporting events with quick access to neoathletics.com.- neo.edu: With our integrated browser you can surf NEO's full website without ever leaving the app.- Youtube: All things NEO A&M College at the NEOcollege channel.- Facebook: Keep in touch with news, events, classmates, faculty, and staff on our page.- Calendar - Scroll through NEO's complete calendar of events.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.desire2learn.neo.am.com.desire2learn.campuslife.directory.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

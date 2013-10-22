@@ -1,0 +1,40 @@
+{
+  "title": "Austen Admirers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_2cd192fc4c634abb8b2068859dc5fc64.app",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 20, 2013",
+  "version": "1.55.119.1673",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Upstart Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_2cd192fc4c634abb8b2068859dc5fc64.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Connect with fellow writers, blogs, fans and admirers of Jane Austen fanfiction. Search popular blogs, and find new books by your favorite Regency authors.The first tab brings you the latest Austen news from your favorite blogs and authors. The second tab lists the blogs with links directly to the blog's website. The third tab lists Austen authors with links to each author's Amazon webpage, allowing you to purchase a novel directly from the app. The fourth tab shows the Austen-related Twitter feed.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_2cd192fc4c634abb8b2068859dc5fc64.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

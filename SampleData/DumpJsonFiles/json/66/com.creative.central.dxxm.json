@@ -1,0 +1,58 @@
+{
+  "title": "Creative Central",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.creative.central.dxxm",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "January 4, 2013",
+  "version": "1.03.17",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "18",
+  "rating": "4.0555553",
+  "contentRating": "Everyone",
+  "creator": "Creative Technology Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.creative.central.dxxm",
+  "extendedInfo": {
+    "installSize": "14M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Description:Creative Central provides you with a quick and easy solution for Sound Modes, Room Calibration, and Multiple Speaker Link (Modular) Setup for your Creative D3xm, D5xm, DSxm speakers.This application is designed to manage and customize settings of your Creative D3xm, D5xm, and DSxm Bluetooth speakers to your environment and various media content on your smart devices.Key Features:Sound Modes- Gives you mobile access to a suite of advanced features that improve your listening experience. eg., \"Clear Dialog\" to improve movie dialogue levels for added clarity, or \"Night mode\" to soften explosions so you wonât wake up the family, or \"Vocals\" mode to enjoy your favorite vocal albums with vocal purity settings, and much more!Room Calibration- Your room acoustics may dampen or over emphasize certain frequencies during playback resulting in a less ideal playback.- Room Calibration reconfigures the speakers internal setting to compensate for room deficiencies so that you can enjoy the best sound experience, and hear your content as it is meant to be heard.- Easy to use compared to traditional calibration techniques.Interactive Modular Speaker Setup- Easily set up your modular speaker system from your smart device.- Link multiple speakers with full status feedback and step-by-step instructions within the app.- Easily toggle between (broadcast) party or multi-channel modeVideo Tutorials- Step-by-step videos that teach you how to connect your smart device wirelessly to Creative D3xm, D5xm, DSxm speakers and a wide range of other Creative Bluetooth products.- Help you explore and take advantage of the many features of Creative D3xm, D5xm, DSxm Bluetooth speakers.Requirements:- Devices with Android 2.2 or above - Devices with Bluetooth capability- Creative D3xm, D5xm, DSxm Bluetooth speakers - Devices with screen resolution of 480x320 or higherLanguage Support:- Brazilian-Portuguese, Chinese-Simplified, Dutch, French, German, Italian, Korean, Spanish, Polish, Russian, English, Japanese",
+    "reviews": [
+      {
+        "documentVersion": "1.03.17",
+        "timestampMsec": "1378759699057",
+        "starRating": "2",
+        "title": "Poorly designed, expected MUCH more for a premium product.",
+        "comment": "Horizontal sliders on a horizontal pager?  Creative really need to sack the design scheme that came up with this unusable design.  Yep, you slide to navigate to the save page (yep, apparently, save needs it\\'s own page) and you adjust all the sliders you are trying to save.  Shockingly bad.",
+        "commentId": "gp:AOqpTOET4Dab_tJBN6P7e6176Kva9dZR7nXBhAaGOFKIrcPFgEzxv195Ooy_b1-Ba86FL5ekpUj0mPLjjCRkD_Y",
+        "author": "Mark Gillespie",
+        "authorURL": "http://lh3.googleusercontent.com/-psYexoK55z8/AAAAAAAAAAI/AAAAAAAAV7U/dBZl81k9drQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-psYexoK55z8/AAAAAAAAAAI/AAAAAAAAV7U/dBZl81k9drQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.03.17",
+        "timestampMsec": "1366471410188",
+        "starRating": "5",
+        "title": "Sweet",
+        "comment": "Cool",
+        "commentId": "gp:AOqpTOGAe4rkwgNDO48VhpTWqThXaVGkokKxj-ljLXoiEKkI_CO1G4HNjJEVMBYpDjg-WR3YtRl4eS72CboQQ8E",
+        "author": "Trey Wood",
+        "authorURL": "http://lh4.googleusercontent.com/-id8xZH0YVdM/AAAAAAAAAAI/AAAAAAAAAUE/VDk-9JuPDMo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-id8xZH0YVdM/AAAAAAAAAAI/AAAAAAAAAUE/VDk-9JuPDMo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS"
+    ]
+  }
+}

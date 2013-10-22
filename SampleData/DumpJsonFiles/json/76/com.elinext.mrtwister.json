@@ -1,0 +1,33 @@
+{
+  "title": "Mr Tweester",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elinext.mrtwister",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "February 5, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "High Maturity",
+  "creator": "Appetite Soft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elinext.mrtwister",
+  "extendedInfo": {
+    "installSize": "20M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Mr Twister has been developed for Twister fans by Twister fans. The utility has been tested not only as an app, but in real life parties by both children and adults. Mr Twister is a board game utility to help players effortlessly spin the spinner. Ever wanted to play Twister in a group of four, but never figured out how to spin the spinner in the middle and late game stages without a game-sitter or referee? Mr Twister will not only give random hand/foot and color combinations, but also will call them out loud enough, so that you wonât have to look at the screen to make the next move. The randomizer has been developed to enhance the gaming experience. In Mr Twister you wonât encounter any nonsense like five red right hands in a row or similar. Mr Twister features - Automatic gameplay - Playlists for background music - âPauseâ function - Detailed rules and strategy guide - Lovely voiceover - Photo-documentation of the game process - Facebook and Twitter integration",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

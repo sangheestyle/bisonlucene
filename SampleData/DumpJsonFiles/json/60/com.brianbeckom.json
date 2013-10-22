@@ -1,0 +1,48 @@
+{
+  "title": "Maritime Workers Tool Box",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brianbeckom",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "September 13, 2011",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "Big Momma Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brianbeckom",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Maritime Toolbox was developed to provide employees in the maritime industry with all the information they need for their jobs in one convenient location.  It was inspired and developed by maritime lawyer Brian Beckcom (www.maritimeaccidentattorney.com) in conjunction with a professional boat captain and former offshore platform worker specifically for employees in the maritime industry.App Features include:- Equipment List - Keep track of everything you need for work - Expense Tracker - log and store your work expenses such as mileage and equipment. - Work Schedule - Enter and track your work schedules - GPS, Tide, & Weather Data - Keep up to date on the latest weather, tide, and GPS location - U.S. Coast Guard Regulations - Keep a full copy of the USCG regulations right in your pocket - Latest news - Get the latest news feed from CNN so you can stay updated on current world events. - Report Safety Violations or Accidents - Protect yourself and your fellow employees The app is free for maritime employees.",
+    "reviews": [
+      {
+        "timestampMsec": "1317164150381",
+        "starRating": "1",
+        "title": "Tide app",
+        "comment": "If you are looking for tide times, try another app. This does not perform this function well at all.",
+        "commentId": "lg:AOqpTOGzXEG0FrrIStPC463cBem1P3ZJM-3aGfKs9vfRX6kZjF4PXvyMCh2eWqUekqUuiyJ05D6SpYoCExs2ERE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1314214208363",
+        "starRating": "5",
+        "comment": "Brilliant app",
+        "commentId": "lg:AOqpTOGjVjUWMFcFlJ8qt0R9Lwim2eRL8IgBXU5SzrioVQjM3E77YGmkAB0udmPz0ebKQzV9wpShwuxz57Fuio0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

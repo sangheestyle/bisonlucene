@@ -1,0 +1,45 @@
+{
+  "title": "Number to words",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cob.NumberToWords",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 25, 2011",
+  "version": "1.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "Good Will",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cob.NumberToWords",
+  "extendedInfo": {
+    "installSize": "246k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This app will translate any valid number to words. You can choose between English, French and Spanish.",
+    "reviews": [
+      {
+        "timestampMsec": "1311035491370",
+        "starRating": "3",
+        "comment": "Ok.",
+        "commentId": "lg:AOqpTOFxsYMJY2w3m5dUYLfpItBVJ8p8VAxBsq4enLyySla82MmOKtGbyEwaleRxCU5LxAFSTcyJlmDjZG770gw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1308040239902",
+        "starRating": "5",
+        "comment": "Does what it says",
+        "commentId": "lg:AOqpTOGg4dkWvF9Ebq1uftUg9Y52dCRCEy0Hw1pZc2Pgf_Kh80kfw9tgKldewJY_sSygX6C1gVm-MEqDxB9SzfE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

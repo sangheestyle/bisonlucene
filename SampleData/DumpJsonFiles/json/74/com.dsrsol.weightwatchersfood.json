@@ -1,0 +1,67 @@
+{
+  "title": "Weight Watchers Food",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsrsol.weightwatchersfood",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "May 17, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "2.3333333",
+  "contentRating": "Medium Maturity",
+  "creator": "DSRSOL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsrsol.weightwatchersfood",
+  "extendedInfo": {
+    "installSize": "4.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The weight watchers food web app can work like your gym instructor which will help you to keep on the track, will motivate you, will resist your temptations, food cravings, exercise laziness, emotional eating and other kinds of obstacles by providing some motivational guidelines and weight watchers points. This weight watchers calculator is mainly designed to help people along the weight watchers diet.With a huge collection of weight watchers recipes loaded in this app, it will be really easy for you to look for the proper item. Besides, here you can also see the amount of food points which is calculated already.DISCLAIMER: The content provided in this app is collected using Feeds and Videos are hosted by YouTube and all are available in public domain. We have not uploaded any videos to YouTube. Apps are fetching the data from RSS feeds of different sites.This app provides an organized way to browse, read contents and watch YouTube Videos.",
+    "reviews": [
+      {
+        "timestampMsec": "1378652119185",
+        "starRating": "1",
+        "title": "Don\\'t fall for it!",
+        "comment": "This is not the app it pretends to be. Its just trying to sell stuff unrelated tc WW.",
+        "commentId": "gp:AOqpTOG7ssYFYx1ZqDw5tSofqZyPS5ZlgWwdbap4xuh3t63ki2HGpr3c8aY0cGJrJ4ZGyZ-OLa7XKYbIHWFk2w",
+        "author": "Thomas Klug",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377120780194",
+        "starRating": "5",
+        "title": "You",
+        "comment": "Huff",
+        "commentId": "gp:AOqpTOFav_vfIBJjNoBOYYktTyCFXhXufvRwaUzttru6V0Chu6oX40Muty32NbmBZqxRqQmc2acTgm4YM7mm2Q",
+        "author": "Dianne Hammond Hammond",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.dsrsol.weightwatchersfood.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

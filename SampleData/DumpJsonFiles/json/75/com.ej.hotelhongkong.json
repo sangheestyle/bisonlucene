@@ -1,0 +1,39 @@
+{
+  "title": "Hong Kong Hotel 80% Discount",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ej.hotelhongkong",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Hotel",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ej.hotelhongkong",
+  "extendedInfo": {
+    "installSize": "6.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "â Search for nearby hotels or hostels or budget hotel in Hong Kong.â Hotel Reservations made easy with this Hong Kong  Hotel 80% Discount app. Simple and secure booking process.â Hotel information, guest reviews, photos, descriptions, maps of hotel.â Up to 80% discounts on hotels, hostels and motels. Instant online and phone bookings available with immediate room confirmation.Features include:- Simple search by location, dates and number of guests.- âAround Meâ search to find what is available around you at the exact moment.- Search results can be viewed in 2 ways â on a map or in a list format.- Interactive map with zoom in, zoom out and swipe to reveal more hotels.- Comparison table for all hotels and the best rate available from www.agoda.com, www.booking.com, www.expedia.com, www.lastminute.com, www.priceline.com, www.hotels4u.com, www.hostelbookers.com, www.laterooms.com, www.easytobook.com etc.Easy comparison and booking with all best prices on one screen.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.ej.hotelhongkong.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Wilkinson Public Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.wilkinsonpl",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "September 3, 2011",
+  "version": "4.5.62",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.wilkinsonpl",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Your mobile portal to Wilkinson Public Library in Telluride, Colorado.  Search for books, DVDs and much more.  Find out  about upcoming programs and get the latest recommendations from your Wilkinson Public Library.  Place holds, renew items, and manage your account.  Download music and ebooks to your device. Check us out!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

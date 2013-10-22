@@ -1,0 +1,35 @@
+{
+  "title": "Where is my car?",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dato.car.gui",
+  "category": "Travel & Local",
+  "price": "$1.17",
+  "datePublished": "June 1, 2012",
+  "version": "1.4.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "dato Denkwerkzeuge®",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dato.car.gui",
+  "extendedInfo": {
+    "installSize": "457k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Have you ever forgotten, where you have parked your car? Ever lost time, when searching your car on the wrong floor of a parking garage? Use âWhere is my carâ and this will never happen again. Simply push the appÂ´s big red button to save the current location.âWhere is my carâ stores the current address and position of your car using GPS. You can fine tune the location by moving the position indicator directly in the map. Additionally you can add a voice note. This is very handy when you have parked your car in a parking garage and want to record floor and place numbers. If no GPS is available, you can enter the adress via the keyboard. Marking adresses as favorites allows you to reuse frequent used locations. The history log with deletable entries shows the last 10 saved positions of your car. Zoom in and out of the map or let the app show you the way back to your car. You can even mark the current location as âIÂ´ve already picked up my carâ.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

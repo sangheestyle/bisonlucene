@@ -1,0 +1,173 @@
+{
+  "title": "GPS Airtime",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crittermap.gps.gpsairtime",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "June 4, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "33",
+  "rating": "4.3939395",
+  "contentRating": "Low Maturity",
+  "creator": "CritterMap Software LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crittermap.gps.gpsairtime",
+  "extendedInfo": {
+    "installSize": "60k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Use your Android GPS in Airplane Mode on Droid X and other devices where this would otherwise fail. Using Airplane Mode allows you to save battery life from searching for a signal, and still get the benefits of GPS location outside of cell coverage.Up to 20% of Android phones in the US struggle to get a GPS location fix in Airplane mode, even when most of these phones are capable of getting a GPS location outside of cell coverage range. This was not an intentional design decision, it is the result of a firmware/hardware bug in these phones. If you have never had this problem, you probably don't need this app.  This app was created by Daniel Butler, a National Java programming champion. We are fortunate to have him contributing to the Android community.  This app is an on demand service that works in conjunction with any app that requests GPS location. For offline, backcountry navigation, you are welcome to try BackCountry Navigator. When Airplane mode is on, and a GPS location is requested, the app passively monitors satellite status. If no satellite signal is received after a certain number of seconds, the app temporarily turns off Airplane mode until the GPS starts properly. This would be tedious to do manually, which is why we are offering this app to do it automatically.    It is still considered experimental because we don't know what devices it will be helpful for. This app has been tested on:*Motorola DroidIt is expected to be helpful on *Motorola Droid X*Motorola Droid II*Samsung InterceptAnd possibly others. It is not expected to be needed on:Motorola Droid 3Motorola Droid X2Motorola Droid BionicMost HTC devices. For that reason, the app shows up in the market only for a limited set of devices at this time. We can add to that as people identify other devices with an airplane mode bug. To discover if your phone is a candidate:Go outside.Turn Airplane mode on. Request location in an app such as BackCountry Navigator that uses GPS location (not network location). Wait up to five minutes for the GPS location to arrive. If it does, you probably don't need this app. If not turn airplane mode off and wait a few minutes. If you then get a GPS location, you probably need this app. If you still don't get a location, well, this ap doesn't promise to fix every possible GPS problem - try rebooting.  This app does require some permissions to do its job:*Write System Settings is required to switch Airplane mode on and off. It is the only setting we alter. *Internet access is not used during operation, but it is used so you can anonymously send a report of whether it worked on your device.  *Access Fine Location is necessary so that we can check whether you receive GPS Satellite data. We don't actually check the location, only whether you are getting data or not.",
+    "reviews": [
+      {
+        "timestampMsec": "1360994547907",
+        "starRating": "5",
+        "title": "This Really Helps Get a GPS Fix!!",
+        "comment": "If I have Wifi or 3G on, it can take GPS Status forever to get a fix, unless I restart my Epic Touch 4G (Galaxy SII). This is true even after GPS Status says it has downloaded GPS data.    If I switch it to airplane mode, GPS Airtime activates and I get a lock in less than a minute. Not only does this save battery, but it makes GPS work better, at least for me.",
+        "commentId": "gp:AOqpTOFv3i_FcL0oJMl6Pjv9I-uXxpibLlZP1n1HKjtIYA9yhfcvxcALC5hVU_XJPFxmZinLWBQxxjGE5OFiPsg",
+        "author": "Mark Dwyer",
+        "authorURL": "http://lh3.googleusercontent.com/-vnUFG72QTLU/AAAAAAAAAAI/AAAAAAAAAGY/2Wu8WZr_dUk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-vnUFG72QTLU/AAAAAAAAAAI/AAAAAAAAAGY/2Wu8WZr_dUk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1324002482934",
+        "starRating": "5",
+        "title": "Great utility!",
+        "comment": "Works very well on my Gingerbread Galaxy Tab.  One request please - can you please leave wifi in its original state?  Thanks for a great app!",
+        "commentId": "lg:AOqpTOHOkCwOVx1TyEmrp3vS1t1V8_CmIc-PCplpZyDmgHzo7Gy1I1AHoDgYhMGIN_3gKSlIAgrTSDg-LWQP2p0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336241066305",
+        "starRating": "3",
+        "title": "Too bad, but does not help...",
+        "comment": "Tried on Motorola DROID RAZR, but that phone never connects properly to a GPS satellite in flight. Not the developer\\'s fault, since the program only switches on GPS from airplane mode.",
+        "commentId": "lg:AOqpTOG2o_FZ5ct2eXXyEOylOM_MJ0u71uOZ2o2xKdATzyR6Ko1nxIlhKRJplHKC94u7XMBCN9tTmg9PPVOmZpQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1321594808380",
+        "starRating": "5",
+        "title": "Droid X",
+        "comment": "Works great on Droid X using My Tracks.  Seamlessly kicks in and does the job!",
+        "commentId": "lg:AOqpTOEeSIatlSO4y_WMNrROfWE0wIowPihRCt7otblV2JZiwryBAo-3M7xwgWVY3a_ZU0NrPJWZSVUWvM3ktfM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337249369848",
+        "starRating": "5",
+        "title": "It works",
+        "comment": "On the DROIDX I can now use gps in airplane mode to save battery. Thanks!",
+        "commentId": "lg:AOqpTOEDCLOabkt4tvsMgmlWL0EGhF3vuFW8SDUNUjFFw7NumAyF1qiFymDnX3C6Mg3Uaj6dtM1GhIdf1zhn-8U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1321326649930",
+        "starRating": "5",
+        "title": "Does the job!",
+        "comment": "Works as promised, saving me from having to do it manually. Thanks-Droid X",
+        "commentId": "lg:AOqpTOGPwaaRvNREFtRSq-joBDOg-e_BfxK-boZybk_Af5N_u90GBxmOvM-LuxanVQ8Fi3ed66vGUBws8htewjo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377609506790",
+        "starRating": "5",
+        "title": "Works perfectly",
+        "comment": "Works on Cspire Milestone X",
+        "commentId": "gp:AOqpTOEwJmO3Khca3JhsK4DKrjd2H3ZV4Bcgn9V8KEHOPNjR_mcD4Rst85FrdTN0FzMN9l5yMRmLBtKCxDwoN7U",
+        "author": "Aaron Gill",
+        "authorURL": "http://lh4.googleusercontent.com/-TSBu-14s5no/AAAAAAAAAAI/AAAAAAAABLs/EluNFV9xiDo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-TSBu-14s5no/AAAAAAAAAAI/AAAAAAAABLs/EluNFV9xiDo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1320427175712",
+        "starRating": "5",
+        "title": "Does what it says",
+        "comment": "This appears to solve the GPS problem when in airplane mode.  Well done!",
+        "commentId": "lg:AOqpTOFymi34sSqOmgK3JASja80pVJBgJLB28H3Q6qBWu_zmMGetBM3E8-MaD_RXUZ2_f9bcomRTW8DWOuVmPSI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351257818687",
+        "starRating": "4",
+        "title": "Does what it says.",
+        "comment": "But it keeps turning off Wi-Fi. Please fix.",
+        "commentId": "lg:AOqpTOF3r4AYnurQGbrkyYlxJrAtbWVwEmAtfThWN8XFA_PcMaWuqx7ReEFOuisRazXGG7SNtnYvex8DXHcJyNc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347685371922",
+        "starRating": "5",
+        "comment": "superb!",
+        "commentId": "lg:AOqpTOFLw206vco5xc0rIR9xP7PBbV_DsTTGfx0v_VlXCDICfPkCNMH8bx_oibldyTCKaKJa62HsMgB76svr3tc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342582246116",
+        "starRating": "5",
+        "title": "Works Great",
+        "comment": "Works great on my Droid 2. Without it I could not get a GPS lock in airplane mode. Thanks!",
+        "commentId": "lg:AOqpTOGKO4FC13dNvkllQ3cSa8TQ5qrDI7TSYfALBOw4e30J_DUxZ4gkIBqOIxWEsQbZ8tG6_t4VIJ5AMUda4x4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320527231987",
+        "starRating": "5",
+        "title": "Works nicely",
+        "comment": "Works as promised (Motorola Defy). Also works when using other GPS apps.",
+        "commentId": "lg:AOqpTOHyvg-IUydS6fxhpFObe0tIxpYKK6X94nxqmsRQbJGC3U-qRO_auCH7-qsqPp01AtUQ7vu7nTVSUXv7wuQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344716936603",
+        "starRating": "1",
+        "title": "Bummer",
+        "comment": "Thought it worked on my Motorola MB855 Photon. But once ob the plane it didn\\'t help at all.",
+        "commentId": "lg:AOqpTOEZiWQhgPBkvEvHG1TFQMaHCRcvn-iSjvUi_M3jR-ogqkUvfM9PYjh5WK2eUa9UqakkHHoofJ3d-Iyl4is",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320985894081",
+        "starRating": "3",
+        "comment": "Works but turn wifi back on",
+        "commentId": "lg:AOqpTOFGPRX62_oS69xAsVo2gaQZNBBr0A97gmzSntrLe1Aed74IghMmOne86xe7zBIYLOBgUfVvn3KDBCMO6fk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360175794316",
+        "starRating": "1",
+        "title": "Motorola Razr",
+        "comment": "It doesn\\'t work on my Razr.  I has hoping for something that would turn on my GPS while in Airplane mode to conserve battery power while in remote areas with no connection.  Instead, this app turns off airplane mode to access the GPS.  When it does that, all the other services turn on too.  The developer\\'s site (for Backcountry Navigator) concedes this on their website but not here on their compatibility page.  They say the app will work on Samsung but not on Motorola.  The description above says, \\\"GPS in Airplane Mode\\\".  If it turns off airplane mode to get GPS, then this is false.",
+        "commentId": "gp:AOqpTOGwsmqguVr33wpOq7ivzYskYRFrJpRoSQgDnLoQlJXJBg2VOm3dZ0yL8LZLKGz3ym5ji0m-KvQ_9ZLDddo",
+        "author": "Shawn R\\305\\257\\305\\276ek",
+        "authorURL": "http://lh5.googleusercontent.com/-B1F-bAHp_wo/AAAAAAAAAAI/AAAAAAAAHJ4/HhR-XwQq-pA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-B1F-bAHp_wo/AAAAAAAAAAI/AAAAAAAAHJ4/HhR-XwQq-pA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1351740841313",
+        "starRating": "5",
+        "title": "GPS Airtime",
+        "comment": "Very great!",
+        "commentId": "lg:AOqpTOF8bjczglIP1d_uURn23fB2uu2w8K76ShhdmxROROIUhpXakm2fUH0e66OdV9WU9uPmShAA74rIpv0Z2wc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

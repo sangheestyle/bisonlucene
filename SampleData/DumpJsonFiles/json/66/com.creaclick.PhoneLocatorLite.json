@@ -1,0 +1,63 @@
+{
+  "title": "Locate my phone PRO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.creaclick.PhoneLocatorLite",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "6.4.1",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "58",
+  "rating": "3.224138",
+  "contentRating": "Low Maturity",
+  "creator": "CreaClick",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.creaclick.PhoneLocatorLite",
+  "extendedInfo": {
+    "installSize": "924k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Localiza tu telefono con un simple SMS, manda el mensaje y tu telefono te contestara automaticamente con un mensaje con la localizacion de tu telefono.Puedes ver la localizacion en http://locate.mobigame.esComo usar:En caso de robo o perdida solo tendras que mandar un mensaje a tu numero telefono desde otro telefono y recibiras un mensaje de respuesta con la localizacion de tu telefonoPuedes comprobar la localizacion de tu telefono en la web http://locate.mobigame.es, solo introduce tu  imei y la contraseÃ±a, podras localizarlo incluso si han cambiado la tarjeta sim",
+    "reviews": [
+      {
+        "timestampMsec": "1354201978850",
+        "starRating": "5",
+        "title": "Power",
+        "comment": "Good power app",
+        "commentId": "lg:AOqpTOFIuj4_PrEKN-jk9XpRmCg89nVkY_Tc63IFQyyfLf_wSKwKy4V11b0Ty4eGCPTG6HWG2RBCYMUf1ChfLaE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371202953727",
+        "starRating": "1",
+        "title": "..",
+        "comment": "I don\\'t really understand,I really have to find my lost mobile",
+        "commentId": "gp:AOqpTOHiz-bA-OnYsiWoz3bB59QI494mPem-5ji8YdViBqPToZ-W0hXWi4L_UaGN_T3Zq8uxz-aehjq76GKLC40",
+        "author": "Emme Malm",
+        "authorURL": "http://lh5.googleusercontent.com/-s3DHOQMPUGI/AAAAAAAAAAI/AAAAAAAAABc/yWBb059UA_Q/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-s3DHOQMPUGI/AAAAAAAAAAI/AAAAAAAAABc/yWBb059UA_Q/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.DISABLE_KEYGUARD",
+      "com.creaclick.PhoneLocatorLite.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

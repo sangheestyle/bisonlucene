@@ -1,0 +1,34 @@
+{
+  "title": "Spy Z Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.vkrun.spyz",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 29, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "6",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "Magic soft studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.vkrun.spyz",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "What's this?A spy software, main features:1. Taking picture by clicking your Media Button on your headphone(Or Bluetooth headset).2. Wiretapping the voice around you, providing 50 levels of audio gain.3. High quality recording.4. Support your tablet.And This is free version.App Keywords: Spy Camera, Spy Recorder, Audio Spy, audiphone, wiretap, line controls, amplifier, dictograph, oscilloscope, detective.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

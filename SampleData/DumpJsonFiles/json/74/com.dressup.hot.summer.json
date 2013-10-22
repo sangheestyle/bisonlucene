@@ -1,0 +1,46 @@
+{
+  "title": "Dress Up Hot Summer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dressup.hot.summer",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "July 14, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Keizer Media",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dressup.hot.summer",
+  "extendedInfo": {
+    "installSize": "12M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The sun is shining and the weather is hot. Dress up your model for the summer season! Pick up the best clothes, choose different accessories and select a pet for the girl. Then take a picture to save it on your phone or share it with your friends.Features: - a lot of clothes and footwear to choose from; - different hairstyle, body color and face expressions; - several pets; - take a photo of your girl; - share with your friends.",
+    "reviews": [
+      {
+        "timestampMsec": "1374753814210",
+        "starRating": "5",
+        "title": "Wow",
+        "comment": "Wow u must install this game",
+        "commentId": "gp:AOqpTOEJ7wIuKxWdpa668KWI5_MmKU3l2fgnCN8O8Hy-Rn4Nl4U2QH74KmVnUqv3GL36K6wfLsnQniNEasIroiE",
+        "author": "Waheed Dhiloon",
+        "authorURL": "http://lh5.googleusercontent.com/-Dy7Zng_h9es/AAAAAAAAAAI/AAAAAAAAACw/wMqonHwkFGg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Dy7Zng_h9es/AAAAAAAAAAI/AAAAAAAAACw/wMqonHwkFGg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.dressup.hot.summer.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

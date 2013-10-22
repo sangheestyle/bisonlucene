@@ -1,0 +1,54 @@
+{
+  "title": "Flip Over Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cantfactory.flipoverpro",
+  "category": "Tools",
+  "price": "$1.00",
+  "datePublished": "March 21, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "3.1666667",
+  "contentRating": "Everyone",
+  "creator": "MR.cAN'T",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cantfactory.flipoverpro",
+  "extendedInfo": {
+    "installSize": "136k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "This app provides you many useful wicked functions (silent mode, voice recording, phone call, camera shot) by just fliping down, without hits any keys! You do not need to worry about the phone is in the pocket or hand-bag, because it considers the camera light level during flip down. It can prevent the false activation of the wicked function in dark condition. Hope you enjoy it.Suggested Settings:===================HTC Desire: Light(Disable), Camera(Dark), Proximity(Enable)Samsung Galaxy Nexus: Camera(Disable)Motorola Defy: Camera(Disable)Note:=====This app used a hack on camera using the same way of SpyCamera, which trying to preview without assigning the SurfaceView. But it seems some manufacturers like MotX add some mechanism to prevent this hack. For those devices, please turn off the camera sensor function.Proximity sensor may not work properly in some devices when you face down, but no problem when you face up. e.g HTC Desire-ZI use for 10+ days, the accuracy of this app in my Desire-Z is about 98%. The false activation rate is 0%. :PPlease make sure you put this app in the ignore list of your task killer. Otherwise it will be killed regularly.History:========v1.7  (2012.1.24)- \"Force closed\" bugs for 4.0 devices are fixedv1.6  (2012.1.17)- pls refer to recent changesv1.5  (2012.1.14)- Add recorded voice files management- Add captured picture files management- fix some of the cameras problem (need \"reset\")- Add values-zh-rcn support- Allow user to disable the voice recording notification- Add picture notification- Change some preferences choices to prevent wrong entries- Add codes to detect and remove the free versionv1.4  (2012.1.11)- Fix some bugs in autorunv1.3  (2012.1.10)- Initial version",
+    "reviews": [
+      {
+        "timestampMsec": "1329872007728",
+        "starRating": "3",
+        "comment": "Excellent program, still miss voice activated recording  mp3 and threshold\\tI bought it because of the hope it would one day have a voice activated feature, one I\\'ve been searching for ages. It work but does not provide neither mp3 recording nor threshold at what mic level to start recording which I hope be added soon. I hope it would improve and I hope the developer will update his application to include such features.",
+        "commentId": "lg:AOqpTOGvAaTFinoV5X1dzRr6Sv6rMUOpdc2-cFIG-rFdhZbZA4Eqy1-EuJZb7kKePsePa5s0CuccceZGSgO6hw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365117185415",
+        "starRating": "2",
+        "title": "Love it, but...",
+        "comment": "Every day or two my phone gets stuck on mute after I turn it back over.  No amount of flipping over and back will get it off mute.  This is quite annoying.  I\\'m stock, 4.2.2.  I\\'ve missed calls because of it, so I consider this a  serious defect.  I would have emailed the developer, but there appears to be no way to do that.  :(",
+        "commentId": "gp:AOqpTOHpN34xrb7E945AmoUAMTvzXt4uURBC5S5PLEnc7tAkwcsygmCsVrVfQwTgkp8HgDdZSU8MajvAbIfm_A",
+        "author": "Kevin Layer",
+        "authorURL": "http://lh5.googleusercontent.com/-ZXhX5cjB6E8/AAAAAAAAAAI/AAAAAAAAO20/mdoqKf8Ylm4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ZXhX5cjB6E8/AAAAAAAAAAI/AAAAAAAAO20/mdoqKf8Ylm4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.DELETE_PACKAGES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

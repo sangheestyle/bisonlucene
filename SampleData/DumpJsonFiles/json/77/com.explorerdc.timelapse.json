@@ -1,0 +1,209 @@
+{
+  "title": "TimeLapse!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.explorerdc.timelapse",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "July 26, 2011",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "329",
+  "rating": "3.142857",
+  "contentRating": "Everyone",
+  "creator": "ExplorerDC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.explorerdc.timelapse",
+  "extendedInfo": {
+    "installSize": "123k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "TimeLapse! turns your android device into a time lapse video camera.Now you can share your wonderful time lapse video easily, send to friend, upload  to Youtube with a few taps!What is time lapse? Time-lapse photography is a cinematography technique whereby the frequency at which film frames are captured (the frame rate) is much lower than that which will be used to play the sequence back. When replayed at normal speed, time appears to be moving faster and thus lapsing.Unlike some other time lapse applications, we allow you to capture at any rate with no limit on resolution! But be careful on the large memory space and battery consumption. Please share your great timelapse video on our website: http://explorerdc.blogspot.com/Features:+ Show list of recorded timelapse videos+ Play, share and delete recorded videos+ Link to TimeLapse! Calculator+ Unlimited video size+ Support many video filters: grayscale (monochrome), sepia, posterize, inverse+ Support many white balance: daylight, auto, cloudy, etc.+ Output AVI video (Motion JPEG encoded)+ Ad-supported.+ Auto orientation detection+ Delay for device stablization+ Autofocusing+ Zoom In/Out, even when recording the time lapse video+ Auto detect preview size+ Save a JPEG image of the first video frame as preview+ No shutter soundFAQ1. I can't play back the video on my phone!Android supports a limited set of video codec. The video recorded is in AVI format which is Motion JPEG encoded. (FCC: MJPG). You can use third party video players to play the video. Here are two good ones:Mobo Player, SeamanPlayer2. I can't play back the video on my computer?Windows Vista, Windows 7 should have built in video codec for our recorded video. For Windows XP or before, you may need to download additional codec to playback the video. Try K-lite codec pack. Many comment complain can't playback in VLC and rate low.For Mac, you can use MPlayerX, VLC player does not work by default.3. Where are my recorded videos?The recorded timelapse video is saved in /sdcard/Android/TimeLapse/. 4. How can I upload the video to YouTube?Uploading to YouTube through this application is not available at the moment. However, you can do the upload through the YouTube app. 5. How to rotate the video?The orientation of the phone is automatically detected before the start of the capturing process. You should have your video in proper orientation. If your phone does not have the orientation sensor, you may need to manually rotate the video in your computer. 6. Can i set a custom video dimension?Not supported. The video dimensions supported by the app depends on the camera of your phone. We have not limit the size as in most other apps, but be careful when setting to large size. The space consumption will be huge! 7. How long the video can be?There are no limits imposed by the app, but your SD card storage and battery may have limitations.------------------------------Danny, you need a MJPG codec instead of VLC player, which normally in a PC but somehow not work in your crappy machine, any media player will do. Get KLite codec pack instead of rating 1 star.Jacob and Justin, please read the description page before giving one star rating. We have explicitly said video is unsupported by Android by default. While other video players not supporting our standard video in standard AVI format, it is the problem of the video player, but not our app. Philip and shwed, as mentioned in the app description, captured video is MJPG which is not playable by default. Android has great limitations on video recording using the SDK and we have to implement our own video encoding code and it turns out MJPG has the least computation intensive and most easy codec!Ciaran, what device are you using? Muting is implemented and works on all our tested device.",
+    "reviews": [
+      {
+        "timestampMsec": "1369074069116",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "It needs: - Custon saving location - Screen off option when recording  For all of you who can\\'t play your videos, use MX Player. It\\'s free and it\\'s the best one out there, mobo can s**k it.",
+        "commentId": "gp:AOqpTOEWdDU_qyJ_InEF9IWh3eUrNZpvTJbpYCyzdjF2EKCzWqc7lobrNDDwvadq0wTmUW9kYMOzTY5l6uQiWA",
+        "author": "John Smith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1313060299766",
+        "starRating": "4",
+        "comment": "Great app! You will get my last star if you add the ability to turn off the screen or make it all black to save battery during recording.",
+        "commentId": "lg:AOqpTOFKsGXUhAZPdMFeu9b7NiJCVlwWPI092Qz3j4j_vlZoXsneXJC10SHMami6IsEZNB6ZXWN3tkVBCiE8Hw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1315223326994",
+        "starRating": "4",
+        "title": "Above and beyond what I expected.",
+        "comment": "The quality\\'s SO high, you need a high spec pc to view the high resolution videos. Would be better if screen could go off during capture to save power",
+        "commentId": "lg:AOqpTOErqAmeHFuiqomEtOLOdYdMySGRQvYJfR_kBfJU1Yex4dKzP4hsBuNxuop6Qz8TBhq_B3ZnbmTEXXJVcw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316227138718",
+        "starRating": "1",
+        "title": "Don\\'t post crap apps",
+        "comment": "This freaking sucks. Don\\'t waste your time believe me. DOES NOT WORK. The quality is less than free.",
+        "commentId": "lg:AOqpTOHAEMCkLA2UyM5BPSh6LlY7fb7T-B-OgZ5QhozWx9VjQ9R2Ar2PmYgJ9o5SKJtlaQYeA-BUIUe_vFMn_g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1325863171515",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "Superb time-lapse with full resolution. Works great on Samsung Galaxy S2. One of those \\'must have\\' apps! 5 stars.",
+        "commentId": "lg:AOqpTOHTdVpG15aRSuI-9sgv8gxH85AYvkQCd7ytjKOUUiLmnq_US_PjAu4f30rxZE97tp1wtDBpW-bIAx0KpA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353139285102",
+        "starRating": "1",
+        "title": "Couldn\\'t play back video.",
+        "comment": "My phone recorded the video fine, but the program to play it back was separate. I checked out the recommended players, but they asked for permission to my phone settings to install. Meaning the video player could see who I was calling, when I was calling them, and from where as well as my device and phone number. Why would a VIDEO PLAYER needed this information? So I installed timelapse video.",
+        "commentId": "lg:AOqpTOGEsZiBMyP25F4E2qJP-q-cmX9IJtskGD2jMA-jegrHU2aI_wCA3fEl3s5z73KLXdEm8QpRrCfWCJJH1A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1318713446928",
+        "starRating": "4",
+        "title": "Great app! 5 stars if it can set how many pic...",
+        "comment": "It is really great app! I will rate it 5 stars if it can set how many pictures are scheduled to take instead of manually stop capturing. Screen off or screen dimming will be also helpful when taking long time lapse video. Bravo!",
+        "commentId": "lg:AOqpTOFDXJI9Iu47viIYvZw2J0lmpwtLP0u-a078vdqsBO9bI5pCJeY62rIy4xQJ9XY3yCeJpm6pLT8N2ouHUA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344010610579",
+        "starRating": "1",
+        "title": "Video would\\'nt open",
+        "comment": "I take the video then wwhen i come to open the vidoe, it say sorry , video cannot be played, I recorded three times and tryed different video players but all the ssame thing.",
+        "commentId": "lg:AOqpTOFtgwvnzYp_Ks5rRgT1X1KEwKW7Y2oalKPy6ie1r_jPA1AmIeRl_Xq3hlWX3-F2a0REz9ygVdnwbng21Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317979081270",
+        "starRating": "5",
+        "comment": "Work great! Many people just can\\'t read but like to rate low... download moboplayer in android, k-lite in win to play the video!",
+        "commentId": "lg:AOqpTOF9sic3ACVtOcekXYoxI7Erj2UaolKX7M82mnviPFuUN_7giPiqsktfaC0DMAJME4z8zQtgZQzDWxy_ow",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1321971955609",
+        "starRating": "4",
+        "title": "Works as advertised",
+        "comment": "Works great except need a 3rd party video player. stops after an average of 900 photos.. and can I ask for seconds and/or minutes... not miliseconds",
+        "commentId": "lg:AOqpTOE3jtkjtX_CZrnj_CI4BeOs9Q8kFzpkDWUisLsD9ForqEEyOTjPzft8KfX7cR6Ru9uwU04qUDigEyowBg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342802583147",
+        "starRating": "2",
+        "title": "Disappointed.",
+        "comment": "My Droid X2 froze then shut down each time I tried to play a video with high resolution on MX. Don\\'t want three or four video apps on my phone. Like the app. Works fine with lower res settings. Wish it worked better on this platform.",
+        "commentId": "lg:AOqpTOGrFmDSgcStUeYmykBfXEUNglXDAep_C7ybFMiO9jzGND5RMIeG_iaFr0ZVYyOwjpIzoDowKUiextILrg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324721136527",
+        "starRating": "4",
+        "title": "Pretty good.",
+        "comment": "Can we pay for one without ads?",
+        "commentId": "lg:AOqpTOHvCw1JVt5VyRSTPpRx45KtqJ9MPqITg71kbNa3oNC0rALtUEt78lnXTTu5h1Dl1x0EzeJPG4PlmdyE9A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320485781807",
+        "starRating": "3",
+        "title": "Unsupported file type",
+        "comment": "Just installed it. Recorded a video and tried to play it galaxy tab. Nice idea though..",
+        "commentId": "lg:AOqpTOG9CMaJNRMetD4wFEQGaSt99RFYii9w8NKDeC4OrKkhWyvJ3XkqHNanz4mR_mmKlzAbZrNsCx-j-fMIKg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337979529889",
+        "starRating": "2",
+        "title": "Hmm after a few months of use...",
+        "comment": "I originally gave this a 5* rating but I have been proved wrong. Force stops the timelapse after 1000 frames and halfway through video playback, the image doesn\\'t change. Nothing wrong with the video player...something wrong witht the way the video is created.... Sensation XE",
+        "commentId": "lg:AOqpTOG2JafaUZdO-tH0vGz5V973A6W8uCgFTMddNWMl9bVtoZau548Qs4b5gWHTA2IQCpHDni5cTobUzU4K8A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345365060762",
+        "starRating": "5",
+        "title": "Very good",
+        "comment": "Wow great app, way better than these other awful timelapse apps that cost money. Just make sure you have a lot of storage space and external power.",
+        "commentId": "lg:AOqpTOH1yaxrljSEdHYQj3TjlZFq4PlBKU_MvlHYw43L8EZJfvCKwLfN_Al1QDNPqFUqkQtqyEwb6S2F_EpnnA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335200389023",
+        "starRating": "4",
+        "title": "Goood but...",
+        "comment": "The app is good but need a player to play the video, both mobo and seaman didint work mobo crashes and seaman plays slowly and weird also a better looking interface would be great but the app.is good just need a player to watch videoa on the phone.",
+        "commentId": "lg:AOqpTOFX8Twwl_r69lpUzV64KkKQj05pkUnaMcOAA_0j_RzXC4-1iYZ6R-Hh2i7pn7rjEuwHYMOxTeYATQfptQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337207595933",
+        "starRating": "4",
+        "title": "Gotta say...",
+        "comment": "I almost uninstalled this... Mobo Player of any variety refused to play back video - The Seaman Player works though so all good in that respect - I\\'m a bit confused why the file seems to contain a crapload of jpg images? - rather than just the video file. Not enough to be all the timelapse images, so a bit mystified why they exist. Downloading a newer version Mobo on Galaxy S made the phone flip out - screen rapidly lept from l-scape to portrait and wouldn\\'t cease - It also changed my homepage wall paper, so uninstalled my orig (and the new) MoboPlayer and not impressed by having to do that. I don\\'t mean to come off sounding negative and I have high hopes the Timelapse app will be awesome!!!  - but it\\'s a bit of a nightmare to get happening - & yes - I read the instructions and have an IQ above 60... I give it an average and begrudging - 4",
+        "commentId": "lg:AOqpTOGDdya9Y1bTR_ISrxed9q0HuEugRtiv-wDrhkaGMwM0xS-EhhyCJKZ4sLtWnJmym6XLWfVj59SfjTWL7A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329970952410",
+        "starRating": "2",
+        "title": "Motorola Bionic - AVI file unable to play back",
+        "comment": "As much as I\\'d like to give this a better rating, I just can\\'t.  I have a Motorola Bionic and Windows 7 PC.  The first two times I tried to record, it had to be force closed.  Later, I was able to record a few test movies of a sunset, clouds, and traffic. Couldn\\'t play any of them back on the phone, including with Mobo Player (hard/soft decoding).  I read some reviews, and transferred the avi\\'s to my home computer running Windows 7 64-bit, and couldn\\'t find anything that would play them. I tried Windows Media Player, MPC-HC, VLC, Adobe After Effects, Premiere, Photoshop (All CS5), and even tried converting with Handbrake, with no luck.  It seems the files were corrupt or unrecognizable. If you could make an option to save them as numbered jpegs, that would be awesome.  Also, if there would be an option to choose where to save them (such as internal sdcard (/mnt/sdcard/somefolder*/), or external sdcard (/mnt/sdcard-ext/somefolder*/). Anyhow, I gave this a 2 star rating, because I know this app has potential. I\\'d be happy to come back and give it a 5 if I could get it work for for me.",
+        "commentId": "lg:AOqpTOFb6CZsXjIELcldyIUQTsUc-OGbfzb-wgOv8aiRHUoA0prfi_o-660JWawXS3bvaZoZb8o3QOYzEbH_Cg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358186533694",
+        "starRating": "3",
+        "title": "Trip\\'s Timelapse Video Ruined",
+        "comment": "Video was recorded, as in there was a still frame that showed up every few seconds, and the file size is appropriate for how long each file is .5-1.5 gb, but I can\\'t play them with mobo, I can\\'t play them with windows media player.  I tried installing codecs to no avail.  If you would like to have a look and see what you can do with your files, I have one that\\'s about 3 mb.  If you can help me recover these videos I would happily change my review.  *Update* After a year and no extra effort spent, I can finally play the video files in windows media player.  The developers did not help me. My guess is that I got a windows media player update that allowed it to read the files properly. Moved from 1 star to 3 because I now have usable video files, but I should have had them from the beginning.",
+        "commentId": "lg:AOqpTOEElN574jUWSq8CZNdy_3B3Ag3cnOIBXbIeCdSMomiEXapIbgVFlxU9EQxW2A58VxJkhak-2kYvRoHuOw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324851127325",
+        "starRating": "5",
+        "title": "Excellent app for the price tag!",
+        "comment": "Out of the few timelapse apps that I have tired out (free and trial) this is the best. The software offered a range of settings (although not as many os some alternatives) for the creation of content, but everything that I was looking for was included. Only some advanced settings for controlling color effects, etc were not there. It was the only free app that I tried that offered video output and th video was good quality. Combined with the (seperate) calculator app this is the app that I have chosen to use for my timelapse creating.",
+        "commentId": "lg:AOqpTOHKHN8Ns7l5dcY2RdLV3em81v84ZehQpjcaDkRicC5uIEYrTa0XQJ2wTvxNBSfZEXYPIjOmgZEdLPj7Cg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

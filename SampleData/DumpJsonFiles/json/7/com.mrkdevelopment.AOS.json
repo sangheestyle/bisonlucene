@@ -1,0 +1,62 @@
+{
+  "title": "Australian Open of Surfing",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.mrkdevelopment.AOS",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "January 30, 2012",
+  "version": "2.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "8",
+  "rating": "3.875",
+  "contentRating": "Everyone",
+  "creator": "M R K Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.mrkdevelopment.AOS",
+  "extendedInfo": {
+    "installSize": "6.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Watch the LIVE WEBCAST of the Australian Open of Surfing direct to your phone. You can also keep up with all the results, videos, news and photos.",
+    "reviews": [
+      {
+        "timestampMsec": "1328912590775",
+        "starRating": "2",
+        "title": "Schedule?",
+        "comment": "Where is the event guide? where is the schedule? An incomplete app that has errors on the main page. Just go to the webpage instead.",
+        "commentId": "lg:AOqpTOFL5XFq7glb38xcO31WTVSfleJ6F_j6aef4ArjaEMvUmU9clyNk3hcpPu5kjzubqBofZzepLnQOUVPoP2M",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370726826392",
+        "starRating": "1",
+        "title": "It won\\'t load",
+        "comment": "I have uninstalled this and reinstalled this but all it says is loading app data. Please fix this.  I won\\'t uninstall it but please I have had a bad day and my board is broken.  Just fix this app.",
+        "commentId": "gp:AOqpTOEpNPpsAcqIJGxCWKicKdPEOxmLZJfl-8cRNKMrzzZKWqvaReTyZcWf6Y_L7MEd3Bx-bUI_ievqhijsXjw",
+        "author": "Alan Gilchrist",
+        "authorURL": "http://lh3.googleusercontent.com/-5O7x53QLjBY/AAAAAAAAAAI/AAAAAAAAAB0/s9_yO40_mjU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-5O7x53QLjBY/AAAAAAAAAAI/AAAAAAAAAB0/s9_yO40_mjU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1349583971076",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "I love surf",
+        "commentId": "lg:AOqpTOEjOIggIjp5WXEAda1YSdslN-t60gCHL_BfqhRqTwwGf861zEkqqo1QuIz0Xi5XnwNnHDSVf8je8hBeKt8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "ti.modules.titanium.urbanairship.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

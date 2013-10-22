@@ -1,0 +1,38 @@
+{
+  "title": "South Melbourne FC",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_8338f5c8d8a74e1da65559cfb2237e8f.app",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "December 13, 2012",
+  "version": "1.2.10.657",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "South Melbourne FC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_8338f5c8d8a74e1da65559cfb2237e8f.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Official App of South Melbourne FC. Stay connected to all things South Melbourne FC, including up to date news, videos direct from the club, social media, senior and junior fixtures and results and much more!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_8338f5c8d8a74e1da65559cfb2237e8f.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

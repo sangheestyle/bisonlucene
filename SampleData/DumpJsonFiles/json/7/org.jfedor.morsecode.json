@@ -1,0 +1,211 @@
+{
+  "title": "Morse Code Reader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=org.jfedor.morsecode",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "265",
+  "rating": "4.1396227",
+  "contentRating": "Everyone",
+  "creator": "Jacek Fedorynski",
+  "creatorURL": "https://play.google.com/store/apps/details?id=org.jfedor.morsecode",
+  "extendedInfo": {
+    "installSize": "20k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Listens to Morse code through your phone's mic and translates it to text.The application is somewhat picky about the listening conditions, so if it doesn't work, try adjusting the volume or repositioning the phone in relation to the speaker.If you can't get it to work, send me an email with a link to a recording of the transmission and I will see if I can improve the application.Any other feedback welcome.",
+    "reviews": [
+      {
+        "timestampMsec": "1305665332782",
+        "starRating": "1",
+        "comment": "Tried it at 10 wpm with my hands radio in cw training mode and it couldn\\'t handle it. Gave wrong letters or nothing at all",
+        "commentId": "lg:AOqpTOGL4JfhATdxl9oW4LLbQIAcf104ameWSphGP9xxm5msn9OlR76gIMGJJDOSAlUH2Io5LUForGFhtvR4iQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371129487921",
+        "starRating": "3",
+        "title": "Works ok",
+        "comment": "It does work, just not great. It will give erroneous letters if any ambient sound is picked up from the microphone. In a quiet environment with a clear CW signal, it does do a fairly good job of decoding. Needs some tweaking like bandwidth and frequency filters.",
+        "commentId": "gp:AOqpTOE444YIzdBFR2lmjCnu2QA2xob_fuxc1C4kKyNpU-EWT6-Mkt8P97QADYK3_qWR6xnwf9_NkEYeMwqnLg",
+        "author": "Darren Smith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365692564064",
+        "starRating": "3",
+        "title": "Only works under limited conditions.",
+        "comment": "I tested it on a slow, repeating signal in my area. I didn\\'t have control over the threshold or the speed, and the program didn\\'t figure them out on its own, so it kept truncating letters or listening to static. Otherwise, it\\'s a neat idea. It probably works with faster hams and/or clearer signals.",
+        "commentId": "gp:AOqpTOExWtyBYo9bj4nF2ZVek_Vn4MLA3x1BSdgYNtjizb1E-aBqpN_UR_sFbSdAbqMNAlOuFxCnMOXqRiC-rA",
+        "author": "michael huss",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1315663878659",
+        "starRating": "5",
+        "title": "Great App - Recommend",
+        "comment": "--. .-. . .- - / .- .--. .--. / -....- / .-. . -.-. --- -- -- . -. -.. Suggestion - Have an option that will adjust mic. input level as background noise easily triggers the app. Nice !",
+        "commentId": "lg:AOqpTOEQ8qNhzCCnKKBu8Jo7QuWzd7XlCxUo17b14uC1DJonkQjP_27-z9jnxnyNkQiIVnhsV7e7y5y-AONVVg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367656021126",
+        "starRating": "4",
+        "title": "Worked",
+        "comment": "Worked with electronic beeping played over pc speakers. No options. Self-adjusts sensitivity.",
+        "commentId": "gp:AOqpTOEzhd9UItgk8aHy6RszF9YbVzxMdNMTwG4Wwu3hNIS9-JuDpq2lQ8g7ibaGC6d5xDKLEGn25CHAu0qSrA",
+        "author": "Stephen Graybeal",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359391942925",
+        "starRating": "5",
+        "title": "Fantastic!",
+        "comment": "It also works if you say \\\" dadidadi  dadadida\\\" by voice. Please add sensitivity control to make it better. Thanks.",
+        "commentId": "gp:AOqpTOERh3XA1c2zuOIAnQ9_-a3MENw15gx-2RSOOPV4wBaJy8p9_SMhar3x9CYFnfVKOTyNGqKUJZDh2NGZWA",
+        "author": "George Cooper",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345042298958",
+        "starRating": "5",
+        "title": "very well thought out",
+        "comment": "I have to give it 5 stars play with it a little bit it is very accurate. The best thing about this is that it is free",
+        "commentId": "lg:AOqpTOGC6yBgV8i4VL10mfL-O-C1loXq-sgdI9IO7YwWpVSmxd7OzjEYFA32vVer0yOFvLKi-8h03Jjka86zgg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1315743242789",
+        "starRating": "5",
+        "title": "Surprisingly bettern than a paid app",
+        "comment": "I actually paid for the paid app which I found out that this FREE app is actually better. The other Decoder is horrible, can\\'t decode anything. This one, decodes really well as long as you have low noise. Still, I now am discovering that I need to really put my thinking cap on to learn the proper copying method such as Koch or Fansworth. Long live CW!",
+        "commentId": "lg:AOqpTOFGvwRHTe9aTlSDQz8lwz9SwWMV1M_0bg5OtUSRirA1VGgBe91eQetidG5eGsP8MOLJsnRY6kgJdYVU0Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356723067050",
+        "starRating": "5",
+        "title": "BETTER THAN A DEDICATED CODE READER",
+        "comment": "This app is terrific and works better than my MFJ Pocket CW Reader. There are no controls to tweak, you just turn it on, put it near a radio receiving CW (Morse Code) and it works! It cannot decode weak signals lost in static but if you can get a signal that\\'s stronger than the static, even by a little, it works very well. It does have a tendency to display random characters, especially the \\\"+\\\" and \\\"=\\\" signs when not locked on to a strong signal. Overall, I give it four stars for ease-of-use, accuracy, type and size of font and nice screen display with a little signal strength gauge. It gets a fifth star because it\\'s free! I would be willing to pay for this app and I would highly recommend it to people considering installing it.",
+        "commentId": "gp:AOqpTOHLzcRq6LwX2PcXU8dLHs84VFFZSf9x2JACadTwI_7jUBGAQWwYmRQVO0H4g8ajwWSm6kkYFXkGjayjIQ",
+        "author": "richard nabi",
+        "authorURL": "http://lh3.googleusercontent.com/-T0P7ZGVpvMI/AAAAAAAAAAI/AAAAAAAAALo/RWnqb0OQq70/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-T0P7ZGVpvMI/AAAAAAAAAAI/AAAAAAAAALo/RWnqb0OQq70/photo.jpg"
+      },
+      {
+        "timestampMsec": "1319322043170",
+        "starRating": "4",
+        "title": "Good start, needs tweaking",
+        "comment": "Nice simple, compact app.  Wants to jump up the decode speed too quickly and longer characters end up getting chopped into strings of one and two element characters (E, T, A, N, M, I).   Some \\\"click\\\" and low amplitude discrimination would really polish out the app nicely.  All in all, apps holds some good promise for future development.",
+        "commentId": "lg:AOqpTOG3zDdHZkJ_raetX0G8hiNU-QrypkH9nQHTYalxPjahLLLLA8sDx-c0OmU252lCaFEikJ-WFXy3FdofYA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366559539743",
+        "starRating": "1",
+        "title": "Not quite there yet",
+        "comment": "Changing my review. I had tested it using the video here and it just doesn\\'t work consistently at all.  Sure, it got some of the words, but way too many errors.    So my next test was to tune in live morse code.  When I ran the app, you could see the white waveform \\\"hearing\\\" the audio.  You can see the red line adjusting itself up and down.  Then after a few seconds, the white waveform just disappears and the red line moves to the bottom of its display area (below what would have been the white waveform).    That\\'s it.  It no longer works.  I have to exit the program and go back in for it to ALMOST work for a few seconds.    But again,  it was mostly picking up gibberish.  The odd \\\"QC\\\", the odd \\\"TEST\\\" could be seen.      Too bad though.  If this app worked properly, it would be exactly what I was looking for.    It does need some options for users to tweak:  -  band pass filter adjustment  -  mic level adjustment (auto or selectable variable slider)  -  keep working and don\\'t stop",
+        "commentId": "gp:AOqpTOE-VUUDYKDVATKGWL59ykPBpi_xUq7N65Q3X7SisqtQhBzvSmsAwgWnxzb7lOPMJrI5XgejsaW40Cx0FQ",
+        "author": "Derek JA",
+        "authorURL": "http://lh4.googleusercontent.com/-gEfOJJ3V1Ko/AAAAAAAAAAI/AAAAAAAAAS0/u60Wt6jitfw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-gEfOJJ3V1Ko/AAAAAAAAAAI/AAAAAAAAAS0/u60Wt6jitfw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1319957370226",
+        "starRating": "4",
+        "title": "Not bad",
+        "comment": "Not bad, had some trouble with static coming out of the speaker. Would be nice if it offered an option to decode recordings, or to record the audio while decoding. Then I could run the audio through a DSP and try to clean it up first prior to decoding.",
+        "commentId": "lg:AOqpTOErC2UjRQeN49dWY4NysJPCi6MB2rr2II9W4jBqCDpW8k_EWmqhBpnThPOoW3WzHK-AK6QG5ghsMu9tyw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324581543975",
+        "starRating": "5",
+        "title": "The best I\\'ve found so far.",
+        "comment": "Quite accurate however in its early development stage. Still not customizable, lacks manual adjustment of microphone sensitivity, doesn\\'t recognize HAM radio codes (CQ). But still the best I\\'ve found.",
+        "commentId": "lg:AOqpTOFI6Y7fyg_INBu-V6kNmF8TEvU2u1IVgjIhWonHWzT9j8XXS9T7aENRcsgEMbvi_flLECE2jv3SLYqwEw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337151451048",
+        "starRating": "2",
+        "title": "Good start, not so good results",
+        "comment": "This is a great attempt that only needs some improvements in future versions. Cant decode anything so far but it shouldnt be hard to make it better at decoding. Thanks for your work Jacek!",
+        "commentId": "lg:AOqpTOH2fmUxofkfxMch1BtzSksko6snub3kHIRRRvMMjkDsTwNU8n2QybyD7sa1TCcJHSol3rbIc9wtcgYZaA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377914575638",
+        "starRating": "5",
+        "title": "The Secret World",
+        "comment": "There is an MMO called The Secret World where you have to decode some Morse code. This worked perfectly for it. Thanks!",
+        "commentId": "gp:AOqpTOHAziBwHB_QPb5gQ44WABHwGUI05B5zKWLLx2cmT4olXTPpLewPZi45Q-hRNwNCGMZ9PtIZkow2Z1zEXw",
+        "author": "Kris Hyre",
+        "authorURL": "http://lh4.googleusercontent.com/-qhISc16CyBM/AAAAAAAAAAI/AAAAAAAAAIE/6jQJoV_D3_4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-qhISc16CyBM/AAAAAAAAAAI/AAAAAAAAAIE/6jQJoV_D3_4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1304840955232",
+        "starRating": "5",
+        "comment": "Simple to use and it works.",
+        "commentId": "lg:AOqpTOFFk7CGF58ArlegnnW06dzIOdXtjN0McNPWzUj3-CIgIegV8Az5ksYjglDOvsX6EyGgkorGDSCKiNg_5A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1308140594675",
+        "starRating": "4",
+        "comment": "I used it to figure out what the code was on the splash screen of the Jericho Season DVDs was. It worked pretty well for that. Now I\\'ll uninstall",
+        "commentId": "lg:AOqpTOFp97brqYn5rvaY-72Gbw8HgsY9SJJ17uBAHgvOIzdUPBxp-dEscAJdYOEwtZD5AESRfqNlVos9GEqQbQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342879437401",
+        "starRating": "5",
+        "title": "Reader",
+        "comment": "A little sensitive on the audio but a great little app!",
+        "commentId": "lg:AOqpTOE3q_aVjdGYagFrnEJKb7V34QkYPH9N71whZsy9hI8IhWqwJbWorovAaPGiEMK9yScpz-I3QXn6srKQTw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376771427816",
+        "starRating": "1",
+        "title": "Crapper",
+        "comment": "Completely un-useful. Doesn\\'t decode any speed cw.",
+        "commentId": "gp:AOqpTOHEKi0TB4loVGFvP1fFjSknx281e3KgD_teSVNuT498Oq2ejKJGkyjf5gGckqYeGTiDle_BC_wIVZRJ-w",
+        "author": "Jason H",
+        "authorURL": "http://lh6.googleusercontent.com/-kdjSKgCy_5w/AAAAAAAAAAI/AAAAAAAAAF4/iXYCCCOGDPo/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-kdjSKgCy_5w/AAAAAAAAAAI/AAAAAAAAAF4/iXYCCCOGDPo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1352092540216",
+        "starRating": "1",
+        "title": "Did not work",
+        "comment": "Sent a message to my friend below and all she got was t and e tried send multiple ways but it doesn\\'t work",
+        "commentId": "lg:AOqpTOFhVwGv17BymYZLy64zcYKV_Qo0X8e1ne0L4b41CMjJtLNto1E45_CC55tsHCdfnePC2MqpVJn12O-vRA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

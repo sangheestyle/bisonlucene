@@ -1,0 +1,48 @@
+{
+  "title": "Doctor Battery Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.erez.drbatery",
+  "category": "Productivity",
+  "price": "$1.50",
+  "datePublished": "August 28, 2013",
+  "version": "2.9.313.98",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "9",
+  "rating": "4.5555553",
+  "contentRating": "Everyone",
+  "creator": "Erda Team",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.erez.drbatery",
+  "extendedInfo": {
+    "installSize": "848k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Does your phone always need charging, even once a day? Want to find a perfect solution?This app will change your battery life!Features List:Â âAds freeâÂ âModes (Easy\\Normal\\Super save) - Automatically saves your battery life!Â â Switches\\Toggles- WiFI, Bluetooth, Auto-Sync, Data.Â âSmart Control (Smart Data\\Bluetooth\\Sync\\Volume\\etc)- specials settings that will save your battery life in a smart way.Examples: - Automatically turn off data connection while screen is off (Set your own timespan) - Automatically turn off Bluetooth connection if there are no active connections for 3 minutes.- Automatically turn off Wi-Fi connection if there are no active connections for 3 minutes.- etc.Â â CPU control (Root required) â manage your CPU frequency (min & max)Â â About\\FAQÂ â Compatible with un-root devices Â â Automatically manages your Wi-Fi, Mobile Data (2G, 3G, 4G), Bluetooth, GPS, display brightnessÂ âFlash notification for every action \\ toggleÂ âBattery saving works with almost all devices and carriersÂ âSupports all Android versions from Froyo to Jelly Bean 4.3Â â Easy yet powerful battery saver and battery boosterRefund policyGoogle Play provides a free refund within 15 minutes. we offer an extended refund within 24 hours, just email Erezdasa0@gmail.com including the name used on your purchase.KW: Battery, Saver, Savior, Boost, Save, Drain, Juice Defender, Battery Booster, Easy",
+    "reviews": [
+      {
+        "documentVersion": "9.313.98",
+        "timestampMsec": "1377956938946",
+        "starRating": "1",
+        "title": "Keeps turning off wifi",
+        "comment": "Even disabling control within the program doesn\\'t work. It just resets to the default control itself.",
+        "commentId": "gp:AOqpTOF0t146T4RhGJHpkDwxrkebZmDsydLrhvnsjTUsaa0Q4XX362vDoALAANT6oYi4bIoggWwQCXzr-cZyJHs",
+        "author": "Jamie Beckwith",
+        "authorURL": "http://lh3.googleusercontent.com/-uUZC0Uu1RKM/AAAAAAAAAAI/AAAAAAAAAAA/3TmBWj67FUk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-uUZC0Uu1RKM/AAAAAAAAAAI/AAAAAAAAAAA/3TmBWj67FUk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.CHANGE_BACKGROUND_DATA_SETTING",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.BLUETOOTH",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

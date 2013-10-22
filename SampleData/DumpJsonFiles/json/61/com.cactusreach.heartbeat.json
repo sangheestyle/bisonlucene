@@ -1,0 +1,30 @@
+{
+  "title": "Heart Rate Monitor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cactusreach.heartbeat",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "September 27, 2012",
+  "version": "1.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "2.5",
+  "contentRating": "Everyone",
+  "creator": "Cactus Reach",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cactusreach.heartbeat",
+  "extendedInfo": {
+    "installSize": "182k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "* Measure your heart rate (beats per minute)Very easy to use. Just put your index finger over the camera, then touch the screen to start the test.After the measurement, you can send the test result via email for future review.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

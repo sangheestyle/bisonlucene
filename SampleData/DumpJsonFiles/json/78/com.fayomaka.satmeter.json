@@ -1,0 +1,32 @@
+{
+  "title": "Sat Meter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fayomaka.satmeter",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "September 21, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "fayomaka",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fayomaka.satmeter",
+  "extendedInfo": {
+    "installSize": "161k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "You can measure distances by satellite a clean and simple.The steps to follow:- Run \"Sat Meter\" and wait for the satellite detection, if the satellite is not active in your android, you launch automatically the parameterization screen to activate the GPS.- Press the \"Start\".- You move to see the measured distance.You can change the unit of measurement (foot, meter, kilometer and mile).You can also know the uncertainty of measurement displayed on the top of the display.The application appears in 4 languages: French, English, Spanish and German.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

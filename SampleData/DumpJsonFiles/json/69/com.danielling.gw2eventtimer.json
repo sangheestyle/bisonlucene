@@ -1,0 +1,102 @@
+{
+  "title": "GW2 Event Timer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.danielling.gw2eventtimer",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 3, 2013",
+  "version": "1.0.29",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "15",
+  "rating": "4.133333",
+  "contentRating": "Everyone",
+  "creator": "Daniel Ling",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.danielling.gw2eventtimer",
+  "extendedInfo": {
+    "installSize": "394k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "** This is not an official app by ArenaNetThis app uses the GW2 API to collect data in regards to the World Boss Events for eg: Shadow Behemoth.Simple native android app User Interface to facilitate an easy way of monitoring the events. The events will auto refresh every 1 minute.Please email me if you encounter any issues, any feedback or any suggestions. You can also pm me in game at \"Sc Ar Z\" without the quotes.Available Features- Monitor World Bosses, Temple events- Selection of Server- Auto Refresh- During event either Pre or Up state, the refresh rate will be auto adjusted to 15 seconds- Selection of Refresh timing- Simple, Clean, easy to use User Interface and BRIGHT LARGE text to show when event is up- Keep Screen Turn On (No Screensaver) when monitoring the Timer page, can be turned off- Event Timer, Time Limit timer (FE, Golem, etc), Up Timer (Option to turn On/Off)- Events jump to the top when Pre/Up- Checking of Open Dungeons (COF/COE) and Temples (COE and Temple of Lyssa currently not available)- More Information for events. Touch the status to show more info, disable by unchecking the option \"Turn On More Information\"- Alert when a event is Pre or Up. On initial launch, if there is more than 1 event Pre/Up, the alert will only show \"Multiple Event\". Please feedback to me if you would like to see a Notification versionIMPORTANT NOTICECurrently the API does not cater for DateTime stamp. As this app runs purely on the APIs, it becomes a local tracking in regards to the timer. Thus do not over rely on the timer. On initial launch, the timer will be likely not accurate. After a event has been encountered, the timer will be updated accordingly. If the app is not used for a period of time, the timer will be calculated base on the number of cycles base on (Time To Window duration + Window duration) as there is no data as to when the last event was encountered.This timer feature will be the number 1 priority as soon as the APIs get updated.Features to be implemented- Auto reset of checkboxes when 100% rare reward is reset- More events (Looking for User Contributions)- More wacky event messages (Looking for User Contributions)",
+    "reviews": [
+      {
+        "documentVersion": "1.0.29",
+        "timestampMsec": "1375861051210",
+        "starRating": "4",
+        "title": "Needs improvement",
+        "comment": "Would really appreciate it if you could please put the timer of how long its going to take for pre event to start next to the event. Otherwise great app!",
+        "commentId": "gp:AOqpTOGtJSqKlBXHWcAUMJQf3t6AAvBvM-Pye9NyEljsXq7pXfvdm5RjlDamb8fcf08ul-vdT3SHXPd49o_nVzk",
+        "author": "Anthony G",
+        "authorURL": "http://lh5.googleusercontent.com/-bmb-iowpUfQ/AAAAAAAAAAI/AAAAAAAAAAA/vRKT5c03Jwc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-bmb-iowpUfQ/AAAAAAAAAAI/AAAAAAAAAAA/vRKT5c03Jwc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.28",
+        "timestampMsec": "1375459993164",
+        "starRating": "4",
+        "title": "Serves Its Purpose",
+        "comment": "Stark,  at times messy interface,  but this app does its job exceptionally well. I always turn to it when I need to hunt down group events,  or time a world boss kill for a role play event. Good work!",
+        "commentId": "gp:AOqpTOHkyIOI6jmN0hfLgy_kO35XG8mQ7eQfV5BSvd_rHJw_VRSBfxmwAEj1ugIQcKLXtgZ2K1vb65IJvdN2hGA",
+        "author": "Thomas Flynn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.28",
+        "timestampMsec": "1375098080745",
+        "starRating": "4",
+        "title": "Nicely done",
+        "comment": "Never miss an event.",
+        "commentId": "gp:AOqpTOHPBBjKx-uWDfGAPJ5fPISC59Q_XGUA6g-42JnP9dX_mL41knwT0hGFFb-1B5uxiNnlg0eRf1crsAM5xi4",
+        "author": "Petronus Kelescu",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.22",
+        "timestampMsec": "1372902335241",
+        "starRating": "3",
+        "title": "Decent",
+        "comment": "No longer able to see minutes to window down the right side of the screen, big minus from my perspective",
+        "commentId": "gp:AOqpTOEhipFi8tCbQy9MZGbASP2bUxvzO9ULfrqSj9G17UwpMUg-qid82_8d-VF0vV0w0s4zUH_X5EICB5NzDzQ",
+        "author": "Karis Schirmer",
+        "authorURL": "http://lh4.googleusercontent.com/-07smEvJaezQ/AAAAAAAAAAI/AAAAAAAAGuQ/LVpeXuAwTrs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-07smEvJaezQ/AAAAAAAAAAI/AAAAAAAAGuQ/LVpeXuAwTrs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.11",
+        "timestampMsec": "1370531371003",
+        "starRating": "4",
+        "title": "Good!",
+        "comment": "Helpful tool for those who cant be bothered with overlays. Wish that it alerted me though! Thats my only criticism.",
+        "commentId": "gp:AOqpTOEV12BBMpIiF5rGjSliBozmNMrobIcW0_WGrw_F7LDUA7acJFElKvokJq1-fLSr8CPBgo0Bkyt0qFg6cts",
+        "author": "Conor Stringer",
+        "authorURL": "http://lh3.googleusercontent.com/-UsM6GOxZWbo/AAAAAAAAAAI/AAAAAAAAAC0/ak9omVhVU-g/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-UsM6GOxZWbo/AAAAAAAAAAI/AAAAAAAAAC0/ak9omVhVU-g/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369342622226",
+        "starRating": "1",
+        "title": "Way too alpha",
+        "comment": "No way to chose server, way too slow retrieving data, no count down timmer.",
+        "commentId": "gp:AOqpTOERGuZPJhiXSWVTOV2CffBMo8dQPnujppeTZ2zsPAIHvshTPhq8KrcN6Ud83r_5tlZNC-GbgkGBRaSCUyM",
+        "author": "Juan Frias",
+        "authorURL": "http://lh5.googleusercontent.com/-dGiCcjKx4VY/AAAAAAAAAAI/AAAAAAAAGs8/yN6jfFwo0TU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-dGiCcjKx4VY/AAAAAAAAAAI/AAAAAAAAGs8/yN6jfFwo0TU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378656344077",
+        "starRating": "4",
+        "title": "Works great.",
+        "comment": "App does what it\\'s made to do.  I would however love to see a better notification system. Something like a text, so it\\'s more noticeable.  Hope that can be done.",
+        "commentId": "gp:AOqpTOE8fEc3SUYDfosTpKd_w_MQ-fR4yYyilZ1hXJ24Fp8rYBEFFT7u0PA-2iJtzkZa-qbIFQn1GSu8Vo3tzE4",
+        "author": "Giovanni Colatori",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_LOGS"
+    ]
+  }
+}

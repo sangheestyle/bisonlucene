@@ -1,0 +1,56 @@
+{
+  "title": "Emergency Locator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elv4",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "September 11, 2012",
+  "version": "2.2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "4.5555553",
+  "contentRating": "Low Maturity",
+  "creator": "BGMM",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elv4",
+  "extendedInfo": {
+    "installSize": "215k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Did it ever happen to you that you were in emergency and needed to reach someone but they were busy in a meeting and didnât answer their phone, planning to return your call later, not knowing that you have an emergency?Emergency Locator software allows you, in case of necessity to mark the call as \"emergency\" passing this information to the receiver's side and letting him know even before answering the call that the call is urgent and there is an emergency.Do you want to know where your child is at any given moment?Is he still at school? What road does he take when going home or where he is, even if he's not picking up his phone?Emergency Locator allows you as a parent to remotely request the current location from your child's phone at any given time!Emergency Locator helps you to care for your elderly by allowing you to receive their location with a push of a button and enabling you to come to them in case of need.In a state of emergency people don't act naturally!ï»¿As much as we want to believe that nothing will happen to us or our close ones, bad things happen, and when they do, it is best to be prepared for them.Emergency Locator will be there for you for those times that we wish would never happen.ï»¿Using Emergency Locator you can, with a push of a button,  know a location of your loved one if something went wrong. Donât waste the time asking them \"where are you\" and get and approximate answer, let Emergency Locator do the job and focus on keeping them calm.ï»¿When designing the product our main goal was to enable users in case of emergency to quickly and intuitively acquire and share their location with predefined contacts with a push of a button.",
+    "reviews": [
+      {
+        "documentVersion": "2.2.0",
+        "timestampMsec": "1349472133203",
+        "starRating": "1",
+        "title": "What the heck?!",
+        "comment": "No instructions on how to use or what goes where!  Makes it useless",
+        "commentId": "lg:AOqpTOH1TqEgcyjwp2OKw1HFuV-raVxMQ_hA_CPEXJIlcyRANeQr4d2AqoKVV3QJF61Qt0hlzzqWIgst0_L2lDo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347825202568",
+        "starRating": "5",
+        "comment": "Great app!!!",
+        "commentId": "lg:AOqpTOHXTt5mNIqCDwULRjWoDVjQNfzHjhCcHK8j1QGd9muEtTsFo4d1oKi-W87TWD2a6efKohJHSvfKazXi9xI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.elv4.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

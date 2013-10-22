@@ -1,0 +1,41 @@
+{
+  "title": "Company Business App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.femtertainment.companybizapp",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 19, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Femtertainment Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.femtertainment.companybizapp",
+  "extendedInfo": {
+    "installSize": "9.4M",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "Company Business App for Android application is a template to demonstrate your company profile, service, contact and more. In this app you can add your about, portfolio, services, hours of operation, client testimonials etc of your company and also can integrate with your main website. Not only that you can add your contact with address, phone number, email address, your location in MapView and your social media network links like facebook, twitter, youtube and more.If you are interested in a custom app for your company, business or agency please leave a comment below or contact us using the e.mail provided.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.femtertainment.companybizapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.femtertainment.companybizapp.permission.MAPS_RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

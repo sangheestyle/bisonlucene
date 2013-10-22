@@ -1,0 +1,39 @@
+{
+  "title": "Cover 2 Mute sensor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coverMute",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "September 2, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "Vicban",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coverMute",
+  "extendedInfo": {
+    "installSize": "168k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Cover2Mute is an Android application with which you can mute an incoming call by simply sweeping your hand over the phone without touching the screen*The application works properly from version 1.5 to 4.1 but the proximity sensor response is not the same in all versions and is a little slower in version 2.3IMPORTANT: If you have installed a task killer, remember Cover2Mute add to the list of ignored*Make sure your mobile phone has proximity sensor",
+    "reviews": [
+      {
+        "timestampMsec": "1364992828642",
+        "starRating": "1",
+        "title": "Useless",
+        "comment": "If the mobile in my pocket , It just has no sound we I get a call",
+        "commentId": "gp:AOqpTOFmmMOHNn3mZtZy6E3XcFQ90hNs5QhXkYs7TwZ-lZdCr7mD4BuTfpNbsEvk9BWFGpcakpVZf0EgMdDRGw",
+        "author": "Ahmed Elhadad",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.MODIFY_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

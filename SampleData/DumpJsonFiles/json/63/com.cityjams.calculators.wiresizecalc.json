@@ -1,0 +1,36 @@
+{
+  "title": "Wire Size Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cityjams.calculators.wiresizecalc",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "April 15, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Not rated",
+  "creator": "CityJams",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cityjams.calculators.wiresizecalc",
+  "extendedInfo": {
+    "installSize": "23k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "A Wire size calculator for electricians. The purpose of the calculator is to determine the size of the conductor wire in a circuit of a given distance with a given amperage load. Click on an item to enter its value.",
+    "reviews": [
+      {
+        "timestampMsec": "1307999695518",
+        "starRating": "3",
+        "title": "needs to be updated to include dc voltage",
+        "comment": "please add DC volts 12,24,48",
+        "commentId": "lg:AOqpTOGeG3V8TnjAWjLcSRj-2O_R9H-Ff3glr9QxEeWT9BurPpXg5nFga1m2Y0w7YdZ5kB1Pxcxw62HGVEnWhA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

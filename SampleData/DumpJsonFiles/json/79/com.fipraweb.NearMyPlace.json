@@ -1,0 +1,32 @@
+{
+  "title": "NearMyPlace",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fipraweb.NearMyPlace",
+  "category": "Tools",
+  "price": "$3.36",
+  "datePublished": "October 14, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "fipraweb",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fipraweb.NearMyPlace",
+  "extendedInfo": {
+    "installSize": "26k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "NearMyPlace is a simple GPS App!You can find a Doctor, or a dentist near your position!When you are in another City you can find very quick the hospital, the bank, the restaurant with the help of google maps and the GPS system!It is very simple and quick!The Vocal Search is coming soon!ThaksFipra",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

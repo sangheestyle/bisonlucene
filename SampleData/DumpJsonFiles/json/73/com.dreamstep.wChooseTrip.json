@@ -1,0 +1,32 @@
+{
+  "title": "Choose My Trip",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wChooseTrip",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 30, 2011",
+  "version": "0.10.13067.91649",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "João Lourenço",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wChooseTrip",
+  "extendedInfo": {
+    "installSize": "172k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Find the best hotels to stay. The Lowest Price Guaranteed.Feel free to download this application. Absolutely Free.This application Can Save you a lot of money by searching thru Various hotel search engines.Just give it a try!(Requires 3G or WiFi)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wChooseTrip.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

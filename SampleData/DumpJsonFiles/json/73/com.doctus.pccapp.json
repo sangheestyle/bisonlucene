@@ -1,0 +1,33 @@
+{
+  "title": "Patient Charge Capture",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doctus.pccapp",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "July 18, 2013",
+  "version": "1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Rama Krishna Tummala",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doctus.pccapp",
+  "extendedInfo": {
+    "installSize": "5.4M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "Patient Charge Capture provides mobile based medical services. Doctors use this app to capture patient details and these details will be accessible by data entry person. Data entry person will assign patient to the respective clinic based on the patient details.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

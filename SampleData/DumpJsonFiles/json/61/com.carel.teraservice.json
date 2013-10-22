@@ -1,0 +1,45 @@
+{
+  "title": "tService",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.carel.teraservice",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 19, 2012",
+  "version": "1.0.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Carel Industries",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.carel.teraservice",
+  "extendedInfo": {
+    "installSize": "744k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "tERA: CAREL application to access to the new service platform.tERA is a useful tool for remote tele-maintenance with plant geo-localization.It allows to easily detect the critical installations and check the plant status with real time data.Thanks to the app tService the plant remote control is simple and immediate. The offered functions allow optimizing the installation maintenance through:-list of the connected plants highlighting eventual alarm statuses-plant detail allowing the remote control of the operation conditions of the on site machines-possible remote modification of the installation configuration-real time check of the list of the installation active alarms-immediate check of the nearest installation status fixing suddenly the best way to reach the critical plants thanks to the geolocalization map.To use all the app functions, it is necessary to have an active account to access tERA, the service platform offered by CAREL.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

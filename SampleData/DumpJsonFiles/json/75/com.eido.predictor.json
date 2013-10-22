@@ -1,0 +1,78 @@
+{
+  "title": "Stock Predictor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eido.predictor",
+  "category": "Finance",
+  "price": "$0.99",
+  "datePublished": "April 27, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "7",
+  "rating": "3.142857",
+  "contentRating": "Low Maturity",
+  "creator": "Junius Gunaratne",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eido.predictor",
+  "extendedInfo": {
+    "installSize": "301k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Stock Predictor uses stock option volume and open interest data to show forecasts for the price of a stock. Find related stocks and view detailed price prediction data. Find out if the market is bullish or bearish on a stock by viewing charts showing investors' estimates of price movement of a stock for up to two years into the future.",
+    "reviews": [
+      {
+        "timestampMsec": "1338434451947",
+        "starRating": "3",
+        "title": "Nice App",
+        "comment": "The app is very useful in getting a bias on a market or stock. It would be useful to see how the levels change over time and how stable the predictions remain.",
+        "commentId": "lg:AOqpTOG9xFIy2DSnC2ChH3TaC2_PhAw3WRcETcnA07QONUn0hdsfyBb3ZSjOiyZCycv5wPfrMcgXc9YO9P6piA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311838807457",
+        "starRating": "1",
+        "title": "Not great",
+        "comment": "I know it,s free but no assistance, hangs if it cannot find a stock, no help fir non US stocks, defaults to bloody Apple. No way of elegantly retrying when a stock is not found. Cud do with more sophistication. I have deleted this app.",
+        "commentId": "lg:AOqpTOHNAbZaefiSI2wQ8jsN-HYhuQQdehkO_QepG1h_o_5rG7rLs9f2PmfhD35doZKXBsorFK-ABc1aKDj2BQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1304366228957",
+        "starRating": "5",
+        "comment": "Nice app, really helped me with my stock analysis!",
+        "commentId": "lg:AOqpTOG5J5zMM461BK1I6WYPTHcQ2WW3aE_EceKdeWtP76c6yS_JvF8sgkYd0o6GB8H4yn8P6LXGcBjR3KMMuw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1307319364784",
+        "starRating": "5",
+        "comment": "This is great! Thanks for a clear price target.",
+        "commentId": "lg:AOqpTOGJhzTOCQgiXXXlLZmEUWmNjPPDaGUtgHBxHNOkDWpcUnENRzVouNT0YEAxNheou972ri2RdOsdtlvulA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_ASSISTED_GPS",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

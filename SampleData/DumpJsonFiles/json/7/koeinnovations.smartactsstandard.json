@@ -1,0 +1,47 @@
+{
+  "title": "SmartActs standard edition",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=koeinnovations.smartactsstandard",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "September 13, 2010",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Koe Innovations",
+  "creatorURL": "https://play.google.com/store/apps/details?id=koeinnovations.smartactsstandard",
+  "extendedInfo": {
+    "installSize": "855k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "SmartActs allows you to track calls for your 9 most essential contacts and report the tracking information through SMS and email. This provides the security for you to configure the picture contacts and share the phone with small children or seniors anytime as you can centrally, and monitor the phone activity.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ADD_SYSTEM_SERVICE",
+      "android.permission.INTERNAL_SYSTEM_WINDOW",
+      "android.permission.MOUNT_FORMAT_FILESYSTEMS",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Auto Call Drop",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.echlab.autocalldrop",
+  "category": "Tools",
+  "price": "$1.88",
+  "datePublished": "February 24, 2011",
+  "version": "1.5",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "22",
+  "rating": "3.6363637",
+  "contentRating": "Everyone",
+  "creator": "echlab software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.echlab.autocalldrop",
+  "extendedInfo": {
+    "installSize": "169k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Auto Drop Call is a utility to limit the duration of your incoming and outgoing calls. You can set the maximum duration of outgoing calls and the maximum duration of incoming calls, the application will automatically terminate them at the expiry of the time setted.Main features:- Widget to switch on-off service- Auto redial after auto call drop- Auto drop for incoming call- Auto drop for outgoing call- Max call duration settable- Offset delay for outgoing call settable- Notify with a Toast when call is dropped- Root function: required from some telephones- Status icon in Notification bar- You can ask for any additional functionality for free!",
+    "reviews": [
+      {
+        "timestampMsec": "1304544372119",
+        "starRating": "1",
+        "comment": "Do Not Install, it doesnt work properly, besides the developer never answers emails like it says.",
+        "commentId": "lg:AOqpTOFsjJPfAIfeLUnt2oH6B_m8mET9sIglpwyd8CZ01ouunJVgkBZxPu1O4r09jIXwzHpu3Z8yKNxwhh86ZH4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1297319831428",
+        "starRating": "1",
+        "comment": "After update auto call drop doesnt work",
+        "commentId": "lg:AOqpTOEnYiby0yb11cbcGooiSSHSOh0Fg03lVt6TRWAQldLg82DSeSgBIgtMJIeXISpPwxxVTRTxGk4g47Wo9Ec",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1295403691925",
+        "starRating": "5",
+        "comment": "Great app, really useful when u don\\'t wanna drain all ur credits, needs to have minutes and seconds to set instead of just seconds, otherwise great!",
+        "commentId": "lg:AOqpTOEp0Yoaj_G2IvZRtQ3GhanvpMlio498QTpniNE3C_22iux_DtTkwGE9J3i6WJck2puRcKaGVE_nf7MCgmI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1295225135626",
+        "starRating": "0",
+        "comment": "VERY good.",
+        "commentId": "lg:AOqpTOF6qXzTbHftaBB1BXHzqvCGXLNLh1_SVYL4lcP-xckAM-AANlfYqo99htCNyJwMRHz9UQR_91-fhF3QFQE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.VIBRATE",
+      "com.android.vending.CHECK_LICENSE"
+    ]
+  }
+}

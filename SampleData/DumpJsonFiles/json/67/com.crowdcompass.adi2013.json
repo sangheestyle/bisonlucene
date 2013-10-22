@@ -1,0 +1,41 @@
+{
+  "title": "American Distilling Institute",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.adi2013",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "February 15, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.adi2013",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Meet us in the mile-high city! Download this app to view continually updated information on seminars, technical presentations, panel discussions, and much more. Join the American Distilling Institute as we celebrate a milestone at our 10th Anniversary Spirits Conference and Vendor Expo.Keywords: American Distilling Institute spirits conference ADI Denver craft expo",
+    "reviews": [
+      {
+        "timestampMsec": "1364529796890",
+        "starRating": "1",
+        "title": "Crashes",
+        "comment": "Crashes both my HTC Incredible 2 and my Samsung Galaxy Tab",
+        "commentId": "gp:AOqpTOFusZo1EkvGJmYdI-YzWKN2u9CMKoH1lzHGohjawKI8O3LRplO-xLDK2It_Z8mAMZ2T0hvTf_uTXByKMlA",
+        "author": "David Reavis",
+        "authorURL": "http://lh4.googleusercontent.com/-vXXbLhfJFeo/AAAAAAAAAAI/AAAAAAAAA2M/FpMmh5CPqAE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-vXXbLhfJFeo/AAAAAAAAAAI/AAAAAAAAA2M/FpMmh5CPqAE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

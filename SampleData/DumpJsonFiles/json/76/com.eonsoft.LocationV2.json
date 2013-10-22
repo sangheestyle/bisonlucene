@@ -1,0 +1,36 @@
+{
+  "title": "I'm Here - Location Share GPS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eonsoft.LocationV2",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 5, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "EONSOFT",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eonsoft.LocationV2",
+  "extendedInfo": {
+    "installSize": "501k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "By sending my GPS location to friends, family, colleagues, and friends for letters, mail, SNS, etc.Can be shared. This application isWhen I located a place to inform the meeting thatForgotten emergencies, or a way to inform my position when,The location of the children, parents, wondering whenNotification acquaintances of their own position, when you want to transfer, share,Will be useful.URL location map, which is connected to the Daum map may be received by letter or e-mail.Naver, Google map installed, then you can see my position.Children Tenderloin location information like the location as a character can get.Transmit the location of their child to the Web site maps url SMS or e-mail will be delivered.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

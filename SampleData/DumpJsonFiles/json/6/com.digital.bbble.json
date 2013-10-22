@@ -1,0 +1,43 @@
+{
+  "title": "Bomb Bunny Boogie Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.digital.bbble",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "February 5, 2012",
+  "version": "1.0.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Digital Application Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.digital.bbble",
+  "extendedInfo": {
+    "installSize": "16M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Get the bunny to the carrot. It's that simple. Honest, it is.There may be a slight problem though, the bunny wont move on its own, lazy little thing that it is, you need to dig out a path for it and give it a gentle nudge. With a bomb. Yep, that's right, a bomb. But take care, the bunny isn't bombproof, unless you protect it from the blast you'll hurt it and we don't want that.Come to think of it, perhaps it's not so easy after all.Bomb Bunny Boogie is a cute, fun and challenging Action Puzzle game that will confound you for hours as you dig and blast your way through fifty cunningly designed burrows.Go on, feed the bunny.Features include;* Free version of the paid app, no ads, just less levels so you can try before you buy.* The full game features 50 deviously designed bunnytastic levels, ranging from simple to mind scrambling, this Lite edition only gives you access to the first ten.* Lots of new features and puzzle elements revealed as you progress.* Multiple ways to play. Solve the puzzle, beat the clock or collect the gems for the highest score.* Online leaderboards, beat the best times or scores to become top bunny.* Facebook integration - brag to your bunny buddies when you get a new high score, best time or beat the leaderboards.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1338260741855",
+        "starRating": "1",
+        "comment": "Bunny wont move",
+        "commentId": "lg:AOqpTOE6oygW26CYOUzIVRpq4P8996rXhHa3Do6dfjM4uG7TYHE4m0xhO1kTFbFZ8IQuVoArI8cre7hVJ_E37w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BATTERY_STATS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.SET_ORIENTATION",
+      "android.permission.DEVICE_POWER",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "com.android.vending.CHECK_LICENSE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "B-Secure Camcorder Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bsecure.camcorderlite",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "June 5, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "B-Secure Technologies Pte Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bsecure.camcorderlite",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Camcorder Lite is a simple to use video recording application that allows user to record and store videos within the app.Press \"+\" on the Home page to begin recording secure videos. Videos recorded this way will only be accessible through the B-Secure Camcorder app. These videos will not appear in your File Directory or Video Gallery. Uninstalling this app removes all videos recorded with it. For enquiries, please contact custsvc at b-securetech.com Powered by B-Secure Technologies - www.bstmobile.com",
+    "reviews": [
+      {
+        "timestampMsec": "1338926751859",
+        "starRating": "2",
+        "title": "Not very useful for me",
+        "comment": "Recorded videos are playable only in this app - no standart files.",
+        "commentId": "lg:AOqpTOEA1BmAajEwLNvAIYZ2mu3YGf9YCurhFUbLmyHiiBLTEvIb-Bv7nPfbFHMpNFap_EuW--adZusZxXPr5w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

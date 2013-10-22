@@ -1,0 +1,42 @@
+{
+  "title": "DCU CENTER",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dcu",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "January 17, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "DCU Center",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dcu",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Download the official app for the DCU Center Arena and Convention Center located in Worcester, MA - hosting concerts, sporting events, meetings, conventions and trade shows; and home to the AHLâs Worcester Sharks.Sign up for push notifications for personalized updates on events, on sale information and special offers.Use the Local Services map to plan your entire local experience including before and after the events.The DCU Center App features:-Full event schedule-In-app ticket purchasing via Ticketmaster -Interactive map for local services, amenities, restaurants and accommodations-Check in to events via Facebook-View our latest Tweets -Live Chat And More!",
+    "reviews": [
+      {
+        "timestampMsec": "1367696421981",
+        "starRating": "5",
+        "title": "Very gd app.",
+        "comment": "Very good for up Comin\\' events.",
+        "commentId": "gp:AOqpTOE280IjYWqh2cNTVkCva47kVMNglYD_JNM7FdtfCNxaXkHg2wAQsh13xeSH0IPFCKhYGgBbZAkrmDCRoA",
+        "author": "Rodney Dixon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.dcu.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

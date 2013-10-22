@@ -1,0 +1,47 @@
+{
+  "title": "Beyond Studios",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fitnessmobileapps.beyondstudios",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "June 18, 2012",
+  "version": "1.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Fitness Mobile Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fitnessmobileapps.beyondstudios",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "The Beyond Studios Android App allows you to reserve classes at Beyond Studios while onthe go! You can view class schedules, sign up for classes, view ongoing promotions andaccess contact information for each of our locations. Optimize your time and maximize theconvenience of reserving classes from your Android device. Download this App today!Also be sure to check out our website at: http://www.beyondstudiosdallas.com/",
+    "reviews": [
+      {
+        "timestampMsec": "1343788153245",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "Love this place!!!",
+        "commentId": "lg:AOqpTOEQ9LABxtB_58SF8NYtBx_6iYIrBWcUr_3RBAcPeFUJUd6on-6lMJHmBkutu2_dghDx-HH6JaB9HfyVrIk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350218362243",
+        "starRating": "5",
+        "title": "Easy to use",
+        "comment": "Love it",
+        "commentId": "lg:AOqpTOFBtnduWySaZMVbdEJPC-6gKEUpBONiZa-BCiG6ei7Iv5zqkT4FjDDUnEsqync-DTT8ORn-HW3mvJ1G9kA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

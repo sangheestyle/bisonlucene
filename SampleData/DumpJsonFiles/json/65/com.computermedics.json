@@ -1,0 +1,36 @@
+{
+  "title": "Computer Medics",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.computermedics",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "February 24, 2012",
+  "version": "1.3.5",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Drew Dennis",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.computermedics",
+  "extendedInfo": {
+    "installSize": "420k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official Computer Medics of Northern Virginia app is here! Request support, view the mobile website, call a technician, leave feedback, see our specials, check your order status, get directions to us from your location, and learn more about us all in one convenient application.",
+    "reviews": [
+      {
+        "documentVersion": "1.3.2",
+        "timestampMsec": "1307551173224",
+        "starRating": "4",
+        "comment": "Great but simple app making it quick and easy to access information and support from an excellent computer company",
+        "commentId": "lg:AOqpTOEJMsz-7eyNTWqjdyzHKXobO6NrG9Rr6N5-5SysWBmHw6V_TEefLUT3V42cPoqu-JI_SL_KlH6G-1AFIQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

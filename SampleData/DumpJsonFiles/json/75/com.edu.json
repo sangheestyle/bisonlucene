@@ -1,0 +1,36 @@
+{
+  "title": "Scholly: Scholarship Search",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edu",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "March 26, 2011",
+  "version": "1.04",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "8",
+  "rating": "4.0",
+  "contentRating": "High Maturity",
+  "creator": "Scholly",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edu",
+  "extendedInfo": {
+    "installSize": "400k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "With this app, you can insert text and encode it to a secret message. There are currently 100 different values for which you can encode your message. Each value will potentially give you a different output each time. This will make it very hard for the wrong recipient to crack your message.Once the recipient of the message receives it, they must decode it by placing it in the input value and selecting the correct filter number to decode it with.In the future, I will add more filter values to make the difficulty of cracking it even tougher. For now, you could encode a message twice with different filter numbers, but be sure your recipient knows the right combination to break the message.This app is designed completely for fun and is not for serious data encryption. The methodology is very simplistic and should not be used in a critical form.",
+    "reviews": [
+      {
+        "timestampMsec": "1362377736683",
+        "starRating": "1",
+        "title": "No it",
+        "comment": "Doesn\\'t",
+        "commentId": "gp:AOqpTOE9Oz7Iz-SNdw9u2P3hd7TXy0iKFTfdjhHwOQsZs4N88o3auASTmRsH-eJC4rId99WLB-nmf31rxofibw",
+        "author": "Roger King",
+        "authorURL": "http://lh3.googleusercontent.com/-qKk83H_B7tU/AAAAAAAAAAI/AAAAAAAAAew/aNg5sEtNrlM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-qKk83H_B7tU/AAAAAAAAAAI/AAAAAAAAAew/aNg5sEtNrlM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

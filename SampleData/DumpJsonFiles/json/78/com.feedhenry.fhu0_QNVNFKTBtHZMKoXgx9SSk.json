@@ -1,0 +1,45 @@
+{
+  "title": "HNE Mobile Member App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.feedhenry.fhu0_QNVNFKTBtHZMKoXgx9SSk",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "March 28, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Health New England",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.feedhenry.fhu0_QNVNFKTBtHZMKoXgx9SSk",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "With HNEâs Member Mobile App, you can save paper, look up providers in our network, and find a provider, urgent care facility, hospital, or pharmacy. Itâs like having our award winning Member Services team right at the tips of your thumbs. Save paper by downloading your virtual Member ID card to your smart phone. At you next doctor visit, if the office needs a copy of your card, you can fax it right from your phone. Plus you can use the Provider Search function of the app to search our provider network and to get directions to the nearest urgent care facility, hospital, or pharmacy.",
+    "reviews": [
+      {
+        "timestampMsec": "1375741383462",
+        "starRating": "5",
+        "title": "Samsung G3",
+        "comment": "Love this app. So easy to use and very helpful",
+        "commentId": "gp:AOqpTOF8VCFYXdUZV9ubOsPsOK6LDacvHPcYzE1TYXz3rR0s3v1CwlChjL-7PSvEjv0uwVufVK0geANElL1vSg",
+        "author": "Carrie motyka dauplaise",
+        "authorURL": "http://lh5.googleusercontent.com/-gV_d48h_D7c/AAAAAAAAAAI/AAAAAAAADus/rm6mZT3eqxY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-gV_d48h_D7c/AAAAAAAAAAI/AAAAAAAADus/rm6mZT3eqxY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

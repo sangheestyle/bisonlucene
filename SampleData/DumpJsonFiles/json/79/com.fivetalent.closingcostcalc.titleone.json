@@ -1,0 +1,50 @@
+{
+  "title": "Closing Cost Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fivetalent.closingcostcalc.titleone",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "February 22, 2013",
+  "version": "5.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "2.75",
+  "contentRating": "Low Maturity",
+  "creator": "TitleOne Corporation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fivetalent.closingcostcalc.titleone",
+  "extendedInfo": {
+    "installSize": "630k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Need closing costs for your home sale or purchase? TitleOne's Closing Cost Calculator will give you quick results. Great for Realtors wanting to give instant quotes to clients. Note: figures are only for estimation purposes and are for Ada and Canyon County in Idaho.",
+    "reviews": [
+      {
+        "timestampMsec": "1349137927804",
+        "starRating": "1",
+        "title": "Incomplete",
+        "comment": "Very limited I can do this on my head",
+        "commentId": "lg:AOqpTOGltq6PVwLNL8biP4ikkbHx5ZqrNWGA7dpXUJjQaJoRtl1AfPB5-ibdCJRlODcLAmvx6xeTQ3jsDC4oRw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

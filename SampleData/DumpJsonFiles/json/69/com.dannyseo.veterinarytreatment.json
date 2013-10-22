@@ -1,0 +1,50 @@
+{
+  "title": "Veterinary Treatment",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dannyseo.veterinarytreatment",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "May 11, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "DannySEO",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dannyseo.veterinarytreatment",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "If you have pet animals, then you must go for their proper care and treatment. Now to make your task even much more convenient, we have come up with a real stunning android veterinary treatment app that allow you to go for various veterinary treatment plan processes.Some of the noted features of the app include the following.â¢\tMany articles and blogs related to veterinary treatment for fleas, veterinary treatment for hot spots etc are linked directly to the app.â¢\tThe app provides you with fair information on veterinary treatment sheets along with picture presentation on the same.DISCLAIMER: The content provided in this app is collected using Feeds and Videos are hosted by YouTube and all are available in public domain. We have not uploaded any videos to YouTube. Apps is fetching the data from RSS feeds of different sites.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.dannyseo.veterinarytreatment.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

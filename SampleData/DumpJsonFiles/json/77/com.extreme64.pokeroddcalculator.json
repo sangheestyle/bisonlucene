@@ -1,0 +1,35 @@
+{
+  "title": "Hold'em Poker Odds Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.extreme64.pokeroddcalculator",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "December 31, 2009",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "1.5",
+  "contentRating": "Not rated",
+  "creator": "WellsCom",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.extreme64.pokeroddcalculator",
+  "extendedInfo": {
+    "installSize": "45k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Texas Hold'em Poker App allows you to type in your hole cards, flop and turn and tell you the odds of hitting different hands at each stage as well as pot odds. Cards must be entered as show in the screen shot, as = ace of spades, only use upper case and no spaces. NB:You can press the in-app logo for more instructions",
+    "reviews": [
+      {
+        "timestampMsec": "1280263699388",
+        "starRating": "2",
+        "comment": "Doesn\\'t allow me to enter the turn card.",
+        "commentId": "lg:AOqpTOFa-nJMtIrhttWR-CMw2bSFMvOuJv7T4S3PJH5Xj0oE_pa4dHazO5JOn8GfeOlaWAgs6ptMfzNQ_d6-AzA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

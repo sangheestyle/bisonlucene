@@ -1,0 +1,64 @@
+{
+  "title": "SDSU Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ezaxess.icampus.android.sdsu",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "April 30, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "8",
+  "rating": "3.625",
+  "contentRating": "Low Maturity",
+  "creator": "San Diego State University Mobile Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ezaxess.icampus.android.sdsu",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The SDSU mobile application gives you access to the latest information about San Diego State University wherever you are.Perched atop a 281-acre bluff known as Montezuma Mesa that overlooks the Pacific Ocean to the west and the Cuyamaca mountains to the east, San Diego State is a beacon for great minds seeking innovative solutions for complex problems. The university combines its teaching and research missions with a commitment to San Diego, providing unique community programs to improve local schools, address industry needs, respond to crises and protect the environment.Use SDSU Mobile to get contact information, find your way across campus, read the latest campus news, watch SDSU-related videos, view stunning campus photos and more.Features include:â¢ Directory: Easily contact our faculty and staff, through the SDSU Phonebook. Tap to contact people by email. You can even add them to your phone contacts.â¢ Maps: Search the campus buildings by name, pinpoint them on the map, view building photos, and see your relative GPS proximity to your desired location.â¢ News: Get the latest news for students, parents, alumni, faculty and staff.â¢ Events: Find out about concerts, plays, exhibits, lectures, athletic events and more.â¢ Video: Watch videos from our SDSU YouTube channels.â¢ Photos: View stunning images of the SDSU campus and browse through albums of images from recent campus events.â¢ Athletics: Follow your favorite SDSU Aztec team! View schedules, news, videos, and rosters on your iPhone and iPadThe information can also be accessed through any mobile browser at:http://m.sdsu.eduWe anticipate adding additional features in the near future, so stay tuned.This application was developed in collaboration with iCampus at http://icamp.us",
+    "reviews": [
+      {
+        "timestampMsec": "1345431254539",
+        "starRating": "1",
+        "title": "TERRIBLE",
+        "comment": "Doesn\\'t even have updated information, just go on your laptop and check it yourself.",
+        "commentId": "lg:AOqpTOGb-bHo7Jirf0lOFEvIbefMcyqQhRDjGkPWX8kKDE-uu3V-OZ7bgpLKC480xCRYvb0levxW_c1RrkXpvTo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344540167067",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "Outstanding!!!",
+        "commentId": "lg:AOqpTOE8xPuQ6IrTQNrDetwlEgCh-AMA3RUxokMjgM1Hsy42wrmS3Z6Num1CFTeXdOC6P-ixlmK6N_3H76pvM3E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372123102874",
+        "starRating": "5",
+        "comment": "An essential APP for the SDSU Community",
+        "commentId": "gp:AOqpTOHI1McIJKX6hhwSaR-c-F8PWD35SVqsr728Eb9-fUPM7hBsLFnzC3aZceX4XOE7v05YOG-MqbyxuOlnTDc",
+        "author": "Peter Alexander",
+        "authorURL": "http://lh6.googleusercontent.com/-agcq_PYYF0o/AAAAAAAAAAI/AAAAAAAAAIo/2ZudPUeFDCU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-agcq_PYYF0o/AAAAAAAAAAI/AAAAAAAAAIo/2ZudPUeFDCU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355482026241",
+        "starRating": "1",
+        "comment": "Many information are missing. ...",
+        "commentId": "gp:AOqpTOFH4ijRY75DwK-QjAETFhvCBsqiwp7vps84mrmZPDlWZZsOHb6kLn_I7VxKqOdSGNBcGa0hYbIf84bK7CQ",
+        "author": "Park Patel",
+        "authorURL": "http://lh3.googleusercontent.com/-PqknqVfUY9E/AAAAAAAAAAI/AAAAAAAAC2o/Xq1TJVE0GdE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-PqknqVfUY9E/AAAAAAAAAAI/AAAAAAAAC2o/Xq1TJVE0GdE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE"
+    ]
+  }
+}

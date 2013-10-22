@@ -1,0 +1,52 @@
+{
+  "title": "2013 CHPA Executive Convention",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.chpa_aec2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "March 13, 2013",
+  "version": "4.2.3.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.chpa_aec2013",
+  "extendedInfo": {
+    "installSize": "8.2M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "At the 2013 CHPA Annual Executive Conference, Monday, March 11 â Wednesday, March 13 in Naples, Fla., bring your senior management team and discover new ways to customize your consumer-centric strategy. Business executives across the globe are sharpening their focus on consumersâwhat are todayâs needs and demands? What drives their purchases and preferences? And in a world filled with real-time, relentless communications, how do you effectively break through the noise to reach your consumer?Over the course of two-and-a-half days, youâll develop new strategies to achieve brand ubiquityâmulti-channel leadership among your consumer demographicâand inspire creativity, innovation, and ingenuity among your senior management team.Use the mobile app to help navigate the 2013 AEC by creating a personalized schedule, viewing a full list of presenters and speakers, staying up to day with daily alerts, and much more!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.chpa_aec2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

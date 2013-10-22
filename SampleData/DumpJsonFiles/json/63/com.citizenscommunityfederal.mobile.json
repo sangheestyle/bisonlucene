@@ -1,0 +1,66 @@
+{
+  "title": "CCF Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.citizenscommunityfederal.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 1, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "3.1666667",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.citizenscommunityfederal.mobile",
+  "extendedInfo": {
+    "installSize": "511k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Citizens Community Federal Mobile Banking Application allows you to do your banking anywhere, anytime with your mobile device.  Just another way of giving you  \"The Freedom to Simply Bankââ¢CCF Mobile is free, convenient and secure.â¢\tReview deposit and loan account transactionsâ¢\tTransfer funds between accountsâ¢\tSchedule and pay bills with ease â¢\tConveniently locate branches and ATMsIf you have questions related to CCF Mobile, please contact a Citizens Community Federal Customer Service Representative at (800) 590-9920",
+    "reviews": [
+      {
+        "documentVersion": "2.5.22",
+        "timestampMsec": "1365765784934",
+        "starRating": "1",
+        "title": "App sucks",
+        "comment": "Bank charged me 35.00 fee for savings account because of a 30 cent draft on my account which put me negitive. Wouldn\\'t even give me a break.",
+        "commentId": "gp:AOqpTOHwo2xnxHa99QbfqiiQcY0_amD2qSkufhsPA6AeoFWpdrxVtbcW995c_h-0nekUzVc3nx8vX3m3nONdK0g",
+        "author": "Jeff Hayden",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.19",
+        "timestampMsec": "1360271193630",
+        "starRating": "1",
+        "title": "Poor app",
+        "comment": "The app is very poor times out its faster to use the Telebank if you want to know what your account is at",
+        "commentId": "gp:AOqpTOHyVrVaSCa1nVm2JpjtwI8yf0NGTYXP2qonNBZO1AuLACBynzX191_BiqpN1AfMEUiuLk7mVw0NJ9krMy4",
+        "author": "amanda kuhn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7",
+        "timestampMsec": "1354711272271",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "I like that it has everything big so its easy to see, but more options within the app world be nice. I\\'m just glad CCF finally got an app....thanks.",
+        "commentId": "gp:AOqpTOGjOC__aCuc5Dz_RAHmPPPAzCHoDtWKvpOMa8qs7sWEpN4Qubpf9DHG-tMOT8Zu_rS9aMcG-v-Hc-C57Tk",
+        "author": "Lola Ruff",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

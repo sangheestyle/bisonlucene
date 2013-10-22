@@ -1,0 +1,44 @@
+{
+  "title": "Compost Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.d325.compostcalc",
+  "category": "Productivity",
+  "price": "$1.99",
+  "datePublished": "August 28, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "325d Ent.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.d325.compostcalc",
+  "extendedInfo": {
+    "installSize": "442k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Compost with confidence!  Obtain optimal carbon-to-nitrogen ratio and moisture content with the Compost Calculator* Solves for both C:N ratio and moisture percentage at the same time* Gives you all possible solutions to choose from* Pre-loaded with over 25 materials.* Add new materials or edit exiting ones",
+    "reviews": [
+      {
+        "timestampMsec": "1368659302504",
+        "starRating": "1",
+        "title": "Works on my S-II",
+        "comment": "Calculations are incorrect.",
+        "commentId": "lg:AOqpTOEy23lsV1RAtXnmzA9ZEWc0sEBG8MyTMdrFl6qr1NMlT4Cr_V1jlYGsgwtBSkIMyxJXQwWrSXvAHoL0cg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1286366588169",
+        "starRating": "5",
+        "comment": "Works great and very easy to use. Motorola milestone",
+        "commentId": "lg:AOqpTOHqMy80LT6KERkxQ4_HkWTxabzI3JWyICXNzEkenpyXVOtrk0zMRIGjf1wbgXc6XxnR9UQBpltAyjWBnw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

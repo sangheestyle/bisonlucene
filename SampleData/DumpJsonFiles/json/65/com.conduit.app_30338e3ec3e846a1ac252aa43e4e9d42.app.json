@@ -1,0 +1,50 @@
+{
+  "title": "Gotta Raise Cash",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_30338e3ec3e846a1ac252aa43e4e9d42.app",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "August 8, 2013",
+  "version": "1.11.19.285",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Gotta Raise Cash Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_30338e3ec3e846a1ac252aa43e4e9d42.app",
+  "extendedInfo": {
+    "installSize": "8.2M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Crowdfunding for everyone! Gotta Raise Cash is a wealth sharing social fundraising platform.Crowdfund...anything! Gotta Raise Cash is collaborative wealth sharing at it's best! We enable anyone to launch a cash need based campaign and raise capital for their goal!",
+    "reviews": [
+      {
+        "documentVersion": "1.19.285",
+        "timestampMsec": "1378221203798",
+        "starRating": "5",
+        "title": "Cool basic app",
+        "comment": "Good idea and info, you have to click the link to see the actual live site!",
+        "commentId": "gp:AOqpTOF6fxBQGF057VTPQNspzCKHhtTBmA3Mm1QJC_0mf0IoFP8HOQOeVRmhN0xSRrTlMzojEpw3gpXLl2rOSg",
+        "author": "Gotta RaiseCash",
+        "authorURL": "http://lh3.googleusercontent.com/-XAYvjHaV4zo/AAAAAAAAAAI/AAAAAAAAABg/PK3VREZUito/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-XAYvjHaV4zo/AAAAAAAAAAI/AAAAAAAAABg/PK3VREZUito/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_30338e3ec3e846a1ac252aa43e4e9d42.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.conduit.app_30338e3ec3e846a1ac252aa43e4e9d42.app.permission.RECEIVE_ADM_MESSAGE",
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

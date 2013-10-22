@@ -1,0 +1,39 @@
+{
+  "title": "Movies Times",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.carteleradecine.es",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "March 21, 2013",
+  "version": "1.21",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "142",
+  "rating": "3.4788733",
+  "contentRating": "Low Maturity",
+  "creator": "Gonzalo de Cordoba",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.carteleradecine.es",
+  "extendedInfo": {
+    "installSize": "356k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Cartelera de Cine es una aplicacion que muestra toda la informaciÃ³n de los cines de tu ciudad (vÃ¡lido para muchÃ­simas ciudades den todo el mundo). Para cambiar de ciudad, pulsa MenÃº->ConfiguraciÃ³n y escribe la que desees. Si tu ciudad no devuelve pelÃ­culas, prueba escribiendo tu provincia. Prueba con tu ciudad, Â¡cada semana se aÃ±aden mÃ¡s! Ciudades confirmadas:   - Madrid y cercanias.   - Huelva, Cordoba, Granada, Jaen, Sevilla, Cadiz, Malaga.   - Murcia (Murcia, Molina de Segura, Orihuela, Torrevieja)   - Valencia (Alicante, Elche, Xirivella, Alfafar, Aldeia, Paterna)   - Asturias (Aviles, Gijon, Mieres, Oviedo)   - Vigo (Vigo, Marin, Nigran, Pontevedra)   - Pais Vasco (Bilbao, ...)   - Castilla y LeÃ³n   - Burgos, Palenacia, LeÃ³n, , Valladolid, salamanca, Ãvila, Segovia   - Toledo, Ciudad Real, Guadalajara   - Pontevdra, CoruÃ±a   - Zaragoza   - Tejeda La aplicaciÃ³n muestra:   * Listado de todos los cines de tu ciudad. Al hacer clic en uno se muestra:     - Mapa con ubicaciÃ³n del cine     - Distancia del cine a la posiciÃ³n actual   * Listado de todas las pelÃ­culas proyectadas. Al hacer clic en una se muestra:     - Poster, sinopsis, informaciÃ³n de la pelÃ­cula.     - Cines que proyectan la pelÃ­cula     - Horarios de cada cine para la pelÃ­cula.     - [Nuevo] PÃ³ster de la pelÃ­cula disponible a pantalla completa. Para visualizarlo se ha de pulsar en el pÃ³ster pequeÃ±o en la pantalla de sinopsis. Para volver sÃ³lo se debe pulsar la imagen de nuevo. Proximamente: La versiÃ³n Pro. No contiene publicidad, y posee mejoras.Tags: Cartelera, cine, horario peliculas, horario cines, cine espaÃ±a, peliculas cine, descripcion pelicula, direccion cine, sinopsis.",
+    "reviews": [
+      {
+        "timestampMsec": "1310940724167",
+        "starRating": "5",
+        "comment": "O melhor do g\\303\\252nero. Funcionou muito bem na busca por filmes e cinemas em cidades do Brasil. -HTC G2-",
+        "commentId": "lg:AOqpTOHy5Qj3gcHNACvd7_z6IOckCFR5zJkyQZNDPmen_gQscH6wbPrCdaYam5KBSNk04E41CR4PH8C2Xq4ZU_U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Comic Editor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fenicesoftware.comiceditor",
+  "category": "Photography",
+  "price": "$1.68",
+  "datePublished": "June 17, 2013",
+  "version": "2.0.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "15",
+  "rating": "4.4",
+  "contentRating": "Everyone",
+  "creator": "Fenice Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fenicesoftware.comiceditor",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Comic Editor is a small editor for creating comics using camera.You can insert three types of objects:Vignette, Balloon and ClipArt.After comic is complete you can save and share it.Note:The application is compatible with the MEDIUM-HIGH hardware level devices that implements the standard Android. (Removed Samsung GT-S5360 because low level and not compatible device) (Tested on Samsung Galaxy 1/2/3 and Asus Transformer)Full version roadmap-improve the sensitivity;-new ClipArt;-extend devices compatibility;-new paint editor;-new filters for the camera;-sharing quality improvement;V 1.0-First releaseV 1.1-Italian support-Comic Templetes addedV 1.2-Camera Init bug fixedV 1.3-Share bug fixed-Resize after hold bug fixed-Best performance-Open image galleryV 1.4-Best menÃ¹ performance-New filters-New cliparts-Spanish language supportV 1.5- Apply filters and rotate images imported- Hold bug fixed- Added the choice of Font- Undo command on filters- Correct translation errorsV 1.5.2- Camera rgb bug fixedV 1.5.3- Gesture optimized- New clipart- Color dialog bug fixedV 1.6.0- New Clip Art- Performance- Added Painter- New Gesture (Rotation)V 1.6.2- Soft bucket to prevent C crashV 1.7.0- Border color and back color- New type of Ballon- Zoom on PainterV 1.8.0-Text clipV 1.9.0-New introV 2.0.0-Camera preview rotation-Eraser tool-ClipArt from gallery-Open bug fixed",
+    "reviews": [
+      {
+        "documentVersion": "1.9.0",
+        "timestampMsec": "1370533875097",
+        "starRating": "3",
+        "title": "Good start, but unfinished",
+        "comment": "A very usable interface, some good effects, but much still unimplemented, such as gallery selection, image placement & rotation. Great potential, wait for upgrade.",
+        "commentId": "gp:AOqpTOHrPMZCfE6ixttmAckodqeE8MOEb_-y4iM0e6fqQ18VwYvrLWTpGJ_00-9pOTe9H19gBtQ9db0C3exV",
+        "author": "Loren Seibold",
+        "authorURL": "http://lh5.googleusercontent.com/-Bggw87cmb_M/AAAAAAAAAAI/AAAAAAAADwI/ZYWfHdadz_Y/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Bggw87cmb_M/AAAAAAAAAAI/AAAAAAAADwI/ZYWfHdadz_Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1343705662845",
+        "starRating": "5",
+        "title": "ASUS INFINITY TF700T",
+        "comment": "Love it.  Very different.  Easy to use.",
+        "commentId": "lg:AOqpTOGJL81v3HIzkEknaeNl44qJZUBeFeVVQsIZMmwaKIaS8UJXklA66oXya7Es22MSzsuZJNf9B5dufeEs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

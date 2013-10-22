@@ -1,0 +1,36 @@
+{
+  "title": "Online TVx Remote Control",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emergencysoft.onlinetvxremotecontrol",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 13, 2011",
+  "version": "1.0.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "18",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Emergency Soft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emergencysoft.onlinetvxremotecontrol",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Use your phone to control Online TVx (http://www.onlinetvx.com) on your desktop. With this smart application you can easily turn your phone into remote control for your Online TVx program.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.BATTERY_STATS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.SET_ORIENTATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

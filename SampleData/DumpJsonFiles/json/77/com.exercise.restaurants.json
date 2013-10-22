@@ -1,0 +1,45 @@
+{
+  "title": "Restaurant finder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exercise.restaurants",
+  "category": "Travel & Local",
+  "price": "$0.99",
+  "datePublished": "July 10, 2012",
+  "version": "1.4",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "IWTech Mobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exercise.restaurants",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Use the Best Restaurant Finder to find the best rated Restaurants near you for every occasion, every time right on your Android deviceThis app provides multiple search options for finding the perfect restaurant or place to eat nearest to your GPS location.You can also map and get directions to each restaurant. The app also allows you to search within a certain mile radius.Restaurant categories include: - American - Asian - Austrian - Bakery - Barbecue - Breakfast - Burgers - Caribbean - Coffee - Chinese - Cuban - Deli - Diner - English - European - Ethiopian - Fast food - French - German - Ice Cream - Irish - Indian - Greek - Mediterranean - Italian - Jamaican - Japanese - Korean - Lounge/Bars - Mexican - Middle Eastern - Pizza - Seafood - South American - Spanish - Steaks - Thai - Vegetarian - Vietnamese - West African",
+    "reviews": [
+      {
+        "timestampMsec": "1343782822441",
+        "starRating": "1",
+        "title": "Doesn\\'t work.",
+        "comment": "Even after gps is enabled, this app didn\\'t work. Don\\'t waste your money.",
+        "commentId": "lg:AOqpTOFx-h-6Ol9e3djUY7lcnZfJ85XAIfLpECFfFwhFJ5ANkpGtqBbKEUM6hIj1ekH7j7Pvf3z57Dpw4YOdvx4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341053867464",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "It runs well.  Its a little unpolished but there aren\\'t alot of great restaurant finders and this one works well.  Droid4",
+        "commentId": "lg:AOqpTOHvnpCwpj68ZX4P3XCXUU7saT9obXDAGV0VjiICcJWwNDM3WcT-BauaQsNc9QUC4qBlXydZbSHxnJ2wGBE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

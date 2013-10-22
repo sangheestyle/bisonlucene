@@ -1,0 +1,32 @@
+{
+  "title": "iCat.cat",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.catradio.iCatFM",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "April 29, 2013",
+  "version": "2.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "75",
+  "rating": "4.52",
+  "contentRating": "Low Maturity",
+  "creator": "Catalunya Ràdio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.catradio.iCatFM",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "iCat.cat Ã©s el canal de mÃºsica i cultura emergent del grup d'emissores de Catalunya RÃ dio. L'escena musical catalana i el pop independent guien l'eix de la seva programaciÃ³. Amb aquesta aplicaciÃ³ per a mÃ²bils i tauletes pots seguir l'emissiÃ³ en directe d'iCat.cat i de les altres emissores musicals del grup com iCatjazz, totCat, iCatTrÃ²nica, iCatRumba i iCatMÃ³n. TambÃ© pots trobar tot l'Ã udio a la carta, descarregar els programes, llegir les lletres de canÃ§ons, accedir als podcast o estar al dia amb les notÃ­cies que mÃ©s t'interessen.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

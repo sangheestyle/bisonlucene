@@ -1,0 +1,50 @@
+{
+  "title": "Claim Intake",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.corvel.android.intake",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "March 12, 2013",
+  "version": "2.11.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "CorVel Corporation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.corvel.android.intake",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Through CorVel's intake reporting app, CorVel customers can complete and submit Treatment Authorizations and Incident Reports, view, print or share submitted reports. All services are connected in a single database, allowing healthcare intervention, reporting, analytics and claims data to be accessible within hours of the injury, reducing costly lag time.",
+    "reviews": [
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1335905200751",
+        "starRating": "5",
+        "comment": "Great app for workers comp!",
+        "commentId": "lg:AOqpTOGAwlhelURq4PJbV6xDQYN-lUROcKcpJIMOg62rDOsWIPNGLNT9Xxaqo1S0wwrlSHMsnkzfn7_6rmFfMA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.12",
+        "timestampMsec": "1327376010460",
+        "starRating": "5",
+        "comment": "Great App!",
+        "commentId": "lg:AOqpTOHEsz0zzBrfJf52ceMqlfM0rfCLELFIZHIKZkmnv4odU_Kn6VJgWdHO0ss13In9TaFHpniXZU9vy6njEA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

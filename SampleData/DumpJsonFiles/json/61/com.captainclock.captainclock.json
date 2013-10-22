@@ -1,0 +1,42 @@
+{
+  "title": "Captain Clock",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.captainclock.captainclock",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 27, 2013",
+  "version": "2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Captain Clock",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.captainclock.captainclock",
+  "extendedInfo": {
+    "installSize": "6.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Captain Clock is the easiest employee time clock app & software on the planet.EASY EMPLOYEE TIME TRACKINGMost employers donât realize how much time (and money) they waste on manually tracking employee hours on paper timesheets. Captain Clock takes away the hassle of manual time sheets.  Employees can clock in and out on their browser or through this app with the simple click of a button. Set up multiple employees in just minutes from our simple, intuitive platform. No training required, for you or your employees.EASY REPORTING TO PAYROLLWith Captain Clock, you can reduce time spent on payroll by up to 80%. Working up your end-of-period payroll reports becomes effortlessâclick a button, download an easy-to-digest report, and print it or attach it to an email.  The best part? You can know that all hours are accounted for accurately. No more having to decipher chicken scratch or worry about overestimated hours. You save on time, and you avoid miscalculations that can add up to costly mistakes for your business.    EASY EMPLOYEE MANAGEMENTDid we mention you can manage your employees from anywhere? Sitting at home, on the way to the work, or tucked away in your office. Now youâll know, all the time, how productive your employees really are.Each time you log in to Captain Clock, youâll find a snapshot of how many hours are assigned versus how many are logged, whoâs been late recently, and pending time-off requests.Setting up a new schedule takes minutes, less than a minute for most. And youâre usually always only one or two clicks away from approving time off requests, sending a message, or assigning new projects to hours scheduled.TOP TIME TRACKING APP FEATURESOur app includes all you need for employees to accurately record time and for you to manage the hours they work:-Set up in minutesâno learning curve, no training-Clock in and out with the click of a button-Track location of clock-ins and clock-outs-Access timesheets from anywhereâhome, office, on the road-Set up and mange employee schedules effortlessly-Send messages to employee/employer-Make notes on hours & assign projects to hours worked-and much more!FREE APP AND FREE 30-DAY TRIALTake control of your staff, get insight into how employees are spending their time, and eliminate the headache of manual timesheets.Download the app for free. And try the software for 30 days for FREE, too.  No upfront cost, no risk, no reason not to make your life easier.Visit www.captainclock.com today to set up your free trial!  Also follow us on Twitter @captain_clock",
+    "reviews": [
+      {
+        "timestampMsec": "1371933423702",
+        "starRating": "5",
+        "title": "Excellent app",
+        "comment": "Timer Never stops",
+        "commentId": "gp:AOqpTOE-pSq6cYWOwZBiaJTyROWU5jYlJfewgtmNjt7hAz3qNbUqRgRyaTMKts-cDd4UzADW2WK3FAvvVEuuGqc",
+        "author": "Saket Gupta",
+        "authorURL": "http://lh4.googleusercontent.com/-TSM89gjpjvI/AAAAAAAAAAI/AAAAAAAAAAA/3xox9M5LM4s/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-TSM89gjpjvI/AAAAAAAAAAI/AAAAAAAAAAA/3xox9M5LM4s/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

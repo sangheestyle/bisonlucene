@@ -1,0 +1,38 @@
+{
+  "title": "Don't Forget It!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dont.forgetit",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "July 29, 2013",
+  "version": "1",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Lucas Werner",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dont.forgetit",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "\"No te olvides...\" , esta frase dejarÃ¡ de tener sentido a partir de ahora!\"Don't Forget It!\" es una aplicaciÃ³n que implementa un sistema de alarmas basado en tu posiciÃ³n, que utiliza la propia red mÃ³vil de tu dispositivo y que estÃ¡ optimizada para ahorrar el mÃ¡ximo de baterÃ­a.\"No te olvides de...\" , es una de las frases que mÃ¡s nos repiten dÃ­a a dÃ­a y que generalmente va acompaÃ±ada de algÃºn lugar o direcciÃ³n: \"Cuando llegues a casa llÃ¡mame\", \"No te olvides de comprar el pan cuando pases por el supermercado\", \"MÃ¡ndame un mensaje al salir del cine\"  Â¿A quiÃ©n no se le ha olvidado alguna vez algo asÃ­? Con \"Don't Forget It!\" ya no necesitarÃ¡s memorizar mÃ¡s esas engorrosas tareas, a diferencia de una alarma normal, la aplicaciÃ³n solo te informarÃ¡ cuando estÃ©s cerca de alguna direcciÃ³n que hayas guardado previamente con algÃºn aviso o tarea pendiente.Puedes configurar la distancia a la que quieres que se te avise, cada cuanto la aplicaciÃ³n refrescarÃ¡ tu posiciÃ³n,si deseas ser notificado a partir de una hora en concreto para cada tarea e incluso puedes modificar el fondo de pantalla de inicio de la app con algÃºn otro predefinido simplemente pasando la mano por encima de tu mÃ³vil o tablet.AdemÃ¡s,cuando seas notificado, se te darÃ¡ la opciÃ³n de recibir indicaciones para poder acudir a la direcciÃ³n en coche o a pie, asÃ­ que la excusa de :\"No sabÃ­a como ir\" ya no te servirÃ¡ mÃ¡s! *****PROMOCIÃN*****Como promociÃ³n de lanzamiento, cada dÃ­a se reembolsarÃ¡ a un usuario el importe de la aplicaciÃ³n. Para ello solo es necesario mandar una imagen con el texto \"Don't Forget It!\"  y que estÃ© relacionada con el concepto de la aplicaciÃ³n a mi email abajo expuesto o en la pÃ¡gina de Facebook de la app. El/la seleccionado/a serÃ¡ aquel que mande la foto mÃ¡s original y divertida del dÃ­a y que tendrÃ¡ ademÃ¡s la opciÃ³n de poder formar parte de las imÃ¡genes de fondo de la app! :) Mucha suerte!*********Por favor cualquier problema con versiones 2.X de Android comÃ©ntemelas antes de ofrecer una valoraciÃ³n para solucionarlas lo antes posible. Muchas gracias!*********",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.example.appmapa.MAPS_RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

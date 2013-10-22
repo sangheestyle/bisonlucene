@@ -1,0 +1,32 @@
+{
+  "title": "Robert Downey Junior News",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.hippyapps.robertdowneyjunior",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "February 22, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "HippyApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.hippyapps.robertdowneyjunior",
+  "extendedInfo": {
+    "installSize": "10k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is a collection of regularly updated news articles and stories about Robert Downey Junior.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

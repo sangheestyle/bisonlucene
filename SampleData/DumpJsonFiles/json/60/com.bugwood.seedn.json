@@ -1,0 +1,47 @@
+{
+  "title": "SEEDN",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bugwood.seedn",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "3.0.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Bugwood",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bugwood.seedn",
+  "extendedInfo": {
+    "installSize": "546M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Southeast Early Detection NetworkIdentify and Report Invasive Plants, Insects and Plant Pathogens in the Southeastern United StatesThe Southeast Early Detection Network (SEEDN) app brings the power of EDDMapS to your smartphone. Now you can submit invasive species observations directly with your smartphone from the field. These reports are uploaded to EDDMapS and e-mailed directly to local and state verifiers for review. SEEDN was developed by the University of Georgiaâs Center for Invasive Species and Ecosystem Health. SEEDN is more than just a smartphone app; it is an integrated invasive species reporting and outreach campaign for the Southeastern United States that includes the app and the EDDMapS website.Every year new invasive plants, insects and plant pathogens are found in the Southeast. These non-native invasive species threaten to undermine the health of our environment. More than an inconvenience, invasive plants and animals can greatly alter our native landscape, adversely impact native wildlife, destroy agricultural crops and threaten our health. Invasions of exotic species cost the United States over $120 billion each year. The economic costs are small compared to the ecological ones. The southern United States has millions of acres of public lands; these lands furnish us the water we drink, the air we breathe and countless recreational opportunities. These public lands are highly vulnerable to invasion by exotic plant and animal species; it is estimated that over 18 million or 10% of forested acres in the South have been infested by invasive species.By reporting sightings of invasive plants and other invasive pests, we can better assess the extent of the infestations and hopefully eradicate new infestations before they become huge problems such as kudzu. The goal of SEEDN is to make identification and reporting as easy and efficient as possible.Just a few minutes of your time can help provide vital information needed to protect vital wildlife habitat, agriculture, forestry and your favorite recreational areas from the damage caused by invasive species. This app is so easy to use, you can collect data while out fishing, hiking, kayaking or walking around your neighborhood.Features:â¢ GPS automatically captures your current locationâ¢ Submit an image of your sighting to add validity to your reportâ¢ Online reportingâ¢ Offline reporting: reports saved on your phone to upload when you have network connectivityâ¢ Species ID Guides include images and information on the worst non-native invasive plants, insects and plant pathogensin the Southeastern United Statesâ¢ Provides real-time point distribution maps centered on your current locationâ¢ Invasive species resourcesPowered by EDDMapS - The University of Georgia Center for Invasive Species and Ecosystem Health's Early Detection and Distribution Mapping System. EDDMapS allows for real time tracking of invasive species occurrences using local and national distribution maps and electronic early detection reporting tools.",
+    "reviews": [
+      {
+        "timestampMsec": "1371291292943",
+        "starRating": "5",
+        "title": "Easy to use",
+        "comment": "Now I can easily help by reporting invasive species anywhere I go to hike, kayak or just walking around my neighborhood.",
+        "commentId": "gp:AOqpTOEsjwZZU-L8hiKaJ3g6TRbiYieDp0JmBqkkWMcad3peyq3UAsX5LeA1fJ6AUBUoNyCWw_F_tNsKb7PdZpk",
+        "author": "Karan Rawlins",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

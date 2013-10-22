@@ -1,0 +1,48 @@
+{
+  "title": "Calvary Christian Center",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_1fcc14a8de8b486d8984b462ce18bc21.app",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "June 20, 2013",
+  "version": "1.29.36.804",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Dave Anderson",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_1fcc14a8de8b486d8984b462ce18bc21.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Calvary Christian Center App give you 24/7/265 access to all thing Calvary.  You get Facebook, twitter, video, audio online giving and more!  It's YOUR church in YOUR pocket!",
+    "reviews": [
+      {
+        "documentVersion": "1.16.531",
+        "timestampMsec": "1366977472711",
+        "starRating": "5",
+        "title": "Love it!",
+        "comment": "Makes giving so easy. Make it easy to budget too.",
+        "commentId": "gp:AOqpTOGtLv7bTm-0QUJEHVkeXS2HwfNxQ8KOkxBnjCn9pEIC2I2fBE4LUfGxkL-zfPnDOAm7F8S2jH2oGjjVfw",
+        "author": "Wendy L Stuckey",
+        "authorURL": "http://lh4.googleusercontent.com/-5f5beh-0t3M/AAAAAAAAAAI/AAAAAAAAAJ4/wWLgpD8bqh8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-5f5beh-0t3M/AAAAAAAAAAI/AAAAAAAAAJ4/wWLgpD8bqh8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_1fcc14a8de8b486d8984b462ce18bc21.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "title": "LPI 117-101",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clerverlearn.quiz.lpi117101",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "CLEVERLEARN",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clerverlearn.quiz.lpi117101",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is a required exam for LPIC-1 or LPI certification Level 1. It covers basic skills for the Linux professional that are common to major distributions of Linux. Each objective is assigned a weighting value. The weights range roughly from 1 to 10 and indicate the relative importance of each objective. Objectives with higher weights will be covered in the exam with more questions. 1.\tSystem Architecture2.\tLinux Installation and Package Management3.\tGNU and Unix Commands4.\tDevices, Linux Filesystems, Filesystem Hierarchy StandardTopic 101: System Architecture 101.1 Determine and configure hardware settings â¢\tWeight: 2 â¢\tDescription: Candidates should be able to determine and configure fundamental system hardware. Key Knowledge Areas â¢\tEnable and disable integrated peripherals. â¢\tConfigure systems with or without external peripherals such as keyboards. â¢\tDifferentiate between the various types of mass storage devices. â¢\tSet the correct hardware ID for different devices, especially the boot device. â¢\tKnow the differences between coldplug and hotplug devices. â¢\tDetermine hardware resources for devices. â¢\tTools and utilities to list various hardware information (e.g. lsusb, lspci, etc.) â¢\tTools and utilities to manipulate USB devices â¢\tConceptual understanding of sysfs, udev, hald, dbusTerms and Utilities â¢\t/sys â¢\t/procâ¢\t/devâ¢\tmodprobeâ¢\tlsmodâ¢\tlspciâ¢\tlsusb101.2 Boot the system â¢\tWeight: 3 â¢\tDescription: Candidates should be able to guide the system through the booting process. Key Knowledge Areas â¢\tProvide common commands to the boot loader and options to the kernel at boot time. â¢\tDemonstrate knowledge of the boot sequence from BIOS to boot completion. â¢\tCheck boot events in the log files. Terms and Utilities â¢\t/var/log/messages â¢\tdmesgâ¢\tBIOS â¢\tbootloaderâ¢\tkernelâ¢\tinit101.3 Change runlevels and shutdown or reboot system â¢\tWeight: 3 â¢\tDescription: Candidates should be able to manage the runlevel of the system. This objective includes changing to single user mode, shutdown or rebooting the system. Candidates should be able to alert users before switching run level and properly terminate processes. This objective also includes setting the default run level. It also includes basic feature knowledge of potential replacements to init.Key Knowledge Areas â¢\tSet the default runlevel. â¢\tChange between run levels including single user mode. â¢\tShutdown and reboot from the command line. â¢\tAlert users before switching runlevels or other major system event. â¢\tProperly terminate processes. â¢\tKnowledge of basic features of systemd and UpstartTerms and Utilities â¢\t/etc/inittabâ¢\tshutdownâ¢\tinitâ¢\t/etc/init.dâ¢\ttelinit",
+    "reviews": [
+      {
+        "timestampMsec": "1374451036391",
+        "starRating": "5",
+        "title": "Excelent!",
+        "comment": "Great job. Very stable application and have a good test! Thanks",
+        "commentId": "gp:AOqpTOFOC5_u9g9SybFdnhsHDgqiN5lvzXmIcbJPnno-Sx2K1dqNuYW_SwKvWmawn70g6b8qinhRibk1pF1zKw",
+        "author": "Carlos Eduardo Bortolotto",
+        "authorURL": "http://lh4.googleusercontent.com/-NWDWozZ4omo/AAAAAAAAAAI/AAAAAAAAAEs/T1qCM_jh8Is/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-NWDWozZ4omo/AAAAAAAAAAI/AAAAAAAAAEs/T1qCM_jh8Is/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378099764936",
+        "starRating": "1",
+        "comment": "Spamware",
+        "commentId": "gp:AOqpTOHBGoMqeWnSHIsDvg-xvz43IZxFCflm0xw9rItatkJT6UVkIDmzCT0rNBbRZT3fsOIAmUxyuwstZxaQoA",
+        "author": "Clint Brothers",
+        "authorURL": "http://lh5.googleusercontent.com/-Eu-XWvZgpY4/AAAAAAAAAAI/AAAAAAAAAAA/z9w5OgVRi9w/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Eu-XWvZgpY4/AAAAAAAAAAI/AAAAAAAAAAA/z9w5OgVRi9w/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.READ_SETTINGS",
+      "com.motorola.dlauncher.permission.READ_SETTINGS",
+      "com.fede.launcher.permission.READ_SETTINGS",
+      "com.lge.launcher.permission.READ_SETTINGS",
+      "org.adw.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.INSTALL_SHORTCUT",
+      "com.motorola.dlauncher.permission.INSTALL_SHORTCUT",
+      "com.lge.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_TASKS",
+      "com.clerverlearn.quiz.lpi117101.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Explore West Cork",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cellcode.explorewestcork",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 27, 2013",
+  "version": "1.0.7",
+  "operatingSystems": "4.0.3 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cellcode Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cellcode.explorewestcork",
+  "extendedInfo": {
+    "installSize": "65M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Explore West Cork is the only guide you will ever need when visiting West Cork, Ireland. This FREE app allows users to immediately access up-to-date maps and information for all towns and villages in the area â from history and bio-diversity to activities and services. The area has some of the best walking routes in Europe, including the famous Beara Way, and youâll find maps of the routes as well as tips on what to look out for along the way.West Cork is famed for its dramatic landscape which includes mountains, valleys and coastline. Such unspoilt beauty means that in some areas users cannot connect to the internet. To counter this our app comes with integrated walking maps, which will ensure you can always find your way.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1367927902804",
+        "starRating": "3",
+        "title": "Ok",
+        "comment": "This app is a great idea but falls short in quality. Its crashed a few times on me and the section for festivals only gives which months their on and not dates. A lot of pics are watermarked which looks bad. Its a new app tho and a good first attempt.",
+        "commentId": "gp:AOqpTOHHh0O8WD1GcCAenH8C_IIsHYR1QHJPtKWlirHJAs8JQ1EZWQtgt3A7e2jpq8je5H7-ZRs2zJaIner5OQ",
+        "author": "Denis Morley",
+        "authorURL": "http://lh3.googleusercontent.com/-tWgm_r2cciE/AAAAAAAAAAI/AAAAAAAABdY/TXRzos9i-Rg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-tWgm_r2cciE/AAAAAAAAAAI/AAAAAAAABdY/TXRzos9i-Rg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

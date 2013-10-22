@@ -1,0 +1,38 @@
+{
+  "title": "[Alarm] Very simple reminder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chorongsoft.dreamalarm",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 21, 2012",
+  "version": "1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "chorongandchorok",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chorongsoft.dreamalarm",
+  "extendedInfo": {
+    "installSize": "580k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Very simple reminder.Very simple reminder.Very simple reminder.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.DEVICE_POWER",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

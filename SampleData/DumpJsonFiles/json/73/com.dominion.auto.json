@@ -1,0 +1,43 @@
+{
+  "title": "Dominion Auto Group",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dominion.auto",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 13, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "DealershipApps.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dominion.auto",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "We are pleased to present the Dominion Auto Group App. We have thought of everything with this app and you will find it very useful.",
+    "reviews": [
+      {
+        "timestampMsec": "1315529515992",
+        "starRating": "5",
+        "title": "Awesome app!",
+        "comment": "I love the gas finder!",
+        "commentId": "lg:AOqpTOH1Nad4ELmxAM9OfiQdT2mtad-STTp8XUzEh9yOFU3FWH17mBb2jPpH_gvdUdTzr2ygGW8vIod5MadHqA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.dominion.auto.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

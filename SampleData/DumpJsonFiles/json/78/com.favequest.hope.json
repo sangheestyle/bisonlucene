@@ -1,0 +1,55 @@
+{
+  "title": "H.O.P.E Volleyball Summerfest",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.favequest.hope",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 15, 2013",
+  "version": "1.1.25",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Favequest Corp.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.favequest.hope",
+  "extendedInfo": {
+    "installSize": "8.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "HOPE Volleyball SummerFest combines recreational volleyball with live rock entertainment. Each year, more than 25,000 players and spectators flock to Mooney's Bay Beach in Ottawa for the greatest summer party in the region. These participants have helped HOPE donate over $3.5 million in support of more than 110 local charities. This app is your guide to everything HOPE. It includes:-a full listing of all events and key dates-live music lineup with bios, videos, photos and sharing to Twitter and Facebook-directions & GPS map with key locations such as parking-site map so you can find your court, live music and more-SouvenirCam: enhance your pictures with a souvenir frame and post them to Facebook and Twitter-access to the HOPE Facebook page and Twitter stream-links to online ticketing",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1366069908252",
+        "starRating": "2",
+        "title": "Update",
+        "comment": "Needs to be update for 2013. Have online registration through the app",
+        "commentId": "gp:AOqpTOFmT2zjj9w-iMslH5WEiMLGGF6wFVtBWY61eLKFLQ4LJtmAVMYpnv1Euu0KsQyO8GRS9bjC9Nxd2yAt-2E",
+        "author": "Damian Sproul",
+        "authorURL": "http://lh4.googleusercontent.com/-TSw2A36GFgQ/AAAAAAAAAAI/AAAAAAAAALM/Ig1rPj9gGBI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-TSw2A36GFgQ/AAAAAAAAAAI/AAAAAAAAALM/Ig1rPj9gGBI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.favequest.hope.permission.MAPS_RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

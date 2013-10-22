@@ -1,0 +1,211 @@
+{
+  "title": "Join DOTA",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dokgu.joindota",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "October 21, 2012",
+  "version": "3.7",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "140",
+  "rating": "3.6142857",
+  "contentRating": "Medium Maturity",
+  "creator": "dokgu",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dokgu.joindota",
+  "extendedInfo": {
+    "installSize": "272k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The unofficial Android application for viewing live streams and VODs for http://www.joindota.com/.The Livestreams are still not 100% functioning. I will be working on this on the next release.New features will be released soon so watch out for these features in the next few weeks/months.Feature Requests:Please use the \"Email Developer\" of Google Play so that I can take your feature requests into consideration and include it in the next release. If you use this, it also ensures that I can email you back to talk more about the feature you are requesting.Requires:Adobe Flash PlayerNote:There is a known issue about the Flash Player plugin on some rooted phones which does not happen all the time. If you only have audio and no video, follow these steps.1. Force Close the Join DOTA application on your application manager. (This ensures that the changes you make will take effect)2. Open your file manager or download File Manager from the Play Store.3. Make sure in the application's settings the Root Explorer is checked.4. Navigate to and remove all permissions for /data/data/com.dokgu.joindota/app_plugins/com.adobe/flashplayer/.macromedia/Flash_Player/config.dataThis file restricts video playback of over 240p.**ONLY DO THIS IF YOU EXPERIENCE ONLY AUDIO AND BLANK VIDEO**Additional Note:Since this application parses the JoinDOTA webpage, if the structure of such webpage changes, this application will most probably fail to work.TERMS OF SERVICE:I reserve the right to anonymously track and report a user's activity inside the application. No information is sold or disclosed to third party people or organizations. The sole purpose of the information being gathered is to analyze where the users are coming from, the device being used, what part of the application is being used and similar information. This is to help further develop the application in the near future.",
+    "reviews": [
+      {
+        "timestampMsec": "1368527691319",
+        "starRating": "2",
+        "title": "Only news working.",
+        "comment": "Vods and streams not working. Please note adobe trash player is phased out, there will be no new version for android and is not supported on some cpu at all.  Twitch (which is used by jd streams) has embed code for using native device players, so you can fix links that require adobe.  Until this is fixed, this app is useless.",
+        "commentId": "gp:AOqpTOF486MWqTcxK4WFkJcVyWzDbEa_rJGLPQjqQBFMs8hA-McNA-zigsT5ikRVEFla3PicYjTEPEjlXIffjA",
+        "author": "Josef Compelson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365938482240",
+        "starRating": "3",
+        "title": "video issue",
+        "comment": "can immagine its a great app but no videos or steams will load, screen just stays black... tryed through wifi and without, dosent change anything, using a galaxey note 2 the news dosent seem to load either, good concept though",
+        "commentId": "gp:AOqpTOHXkDMkI4UqP7Fmol5dBL1Jf_jZnn1zvn8OaA1AQkqmi-daiibZsiyk68vQdF4aWeV997-qJf_kb6bffA",
+        "author": "William Watkins",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362372181569",
+        "starRating": "3",
+        "title": "Streams broken",
+        "comment": "I realize this is an ongoing problem yet there has been no updates for several months now.  I am using the HTC Droid DNA.  Would love to see a fix soon...otherwise useful app",
+        "commentId": "gp:AOqpTOHewa4cs_-L9rVqNTIzm9MosT1y3Rhkp2aSJ-9MLxk8FrbwGAwiJ_vLX8td4-le6-Cetx4Vre2yGxPrpQ",
+        "author": "Adam Spangler",
+        "authorURL": "http://lh5.googleusercontent.com/-12pXMwf_HVk/AAAAAAAAAAI/AAAAAAAAABE/6KLQ-Cx331U/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-12pXMwf_HVk/AAAAAAAAAAI/AAAAAAAAABE/6KLQ-Cx331U/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374528882845",
+        "starRating": "2",
+        "title": "News feed hasnt worked in months",
+        "comment": "And without news feed, the app is useless.",
+        "commentId": "gp:AOqpTOF2TgEtNsvwdNpVjGylYKMsRT4ZSoIHiYic969ZOA8A2W835PKBeHvRQ4Vp8vZYzA5sIeMRmgcDZ-IKyA",
+        "author": "Alex Nazarov",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357561816376",
+        "starRating": "1",
+        "title": "Lot of issues",
+        "comment": "Running it on my xperia x10. Works fine till the news. As soon as I select a livestream or a vod,screen goes black and nothing happens. Pls fix asap.",
+        "commentId": "gp:AOqpTOEpoF21c5wB4PyqfSWgzgABCP87Jp4DbG0NjHyc3kO2VzVhvImjs8UtJBdObiaaVGRp_MecC52PypFbsA",
+        "author": "Chandradeep Paul Chowdhury",
+        "authorURL": "http://lh4.googleusercontent.com/-I2JItaYhPrw/AAAAAAAAAAI/AAAAAAAAAJc/1IiBj05TtZ8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-I2JItaYhPrw/AAAAAAAAAAI/AAAAAAAAAJc/1IiBj05TtZ8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375126709871",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "News and VODs aren\\'t showing and streams won\\'t start. Pls fix it.",
+        "commentId": "gp:AOqpTOE3EOVl6udI4GEKV2w7Qxgu8zG4lOk4IrazfkzLI3yd0nL9DMOolHYHoNy3goLOv3DPUuSDVKq4D7zCAA",
+        "author": "Goran \\305\\275agar",
+        "authorURL": "http://lh6.googleusercontent.com/-VK4DxS_qm5M/AAAAAAAAAAI/AAAAAAAAAQ0/kTSJ0UGhJvE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-VK4DxS_qm5M/AAAAAAAAAAI/AAAAAAAAAQ0/kTSJ0UGhJvE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360636909246",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "Wtf man? It doesn\\'t work on galaxy note 2... loading takes ages.....",
+        "commentId": "gp:AOqpTOFxpEEasm-hy5pGRX8GIw4WUAevQDlKH209vJgsEG4JyfvKa4hyee_tWqZlnhV_Qh35B0yl3B2zBupH1Q",
+        "author": "Bat-Erdene Battogtokh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354392428173",
+        "starRating": "1",
+        "title": "Watch live match",
+        "comment": "I wan to watch a live match but it keeeeep loooooading.............. please fix it",
+        "commentId": "lg:AOqpTOFqIug4lZhmVWRq9MNWyWR-hOUk2SBV1dLw3HuYtbZpNgrNlVMBoznQ2eCVQY-aoVZbNj8BhOexZlUY3w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350127818816",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "The stream here is so much better.. Just that we cant log into the IRC chat",
+        "commentId": "lg:AOqpTOGk3s3vOTawm0iniDP_fYI0fNzkCX-VGyM7x2aNArwB5kt9cO-8mUocgnYbNEsdGLkAMu8TThKdBVKIQg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349800881167",
+        "starRating": "2",
+        "title": "Not working",
+        "comment": "Not getting any news since 10 days",
+        "commentId": "lg:AOqpTOFdDu8gRrUXpmI7ifOu6RhVeHx5TTTVrTc9nx3TYe1ATuer7fqL5Ly_Kp-I75C4ecryzgFCCgtJoUwR3A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343868940706",
+        "starRating": "1",
+        "title": "Does not work through wifi",
+        "comment": "Program crashes when trying to connect through wifi",
+        "commentId": "lg:AOqpTOH-G2pGMuUmnOWnlwk0gLHApkguAE4QSSuewYEYygZtmaOxBj9i0_dZEUC5prs126NdXMvPw7kdWnLiEg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346630994913",
+        "starRating": "1",
+        "comment": "Doesn\\'t work for me.  No vid pops up.  Evo",
+        "commentId": "lg:AOqpTOFrg0v4bEs6gXheeTSNGO7gc8GMJz408nwdhQScAvGp9XRWRyh4UHA35PptAHnU7kkMe_ZU4c-Aci_AkA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343505331670",
+        "starRating": "5",
+        "title": "Doesn\\'t work on Nexus 7?",
+        "comment": "From the layout, I can imagine I will be using it frequently. However, nothing has been working for my nexus 7. Is it flash based? Thanks.",
+        "commentId": "lg:AOqpTOG5GOWI4g1R7tOQGm8tCof3qGk6Nh0oOHxWiyR7TQHEbO5D9Sju4G7bccFAww630B8JBuc7q-zxHippsw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343468396584",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Works fine, just streams that don\\'t load properly all the time.",
+        "commentId": "lg:AOqpTOFMU7ljKwN0ud_MkaFGYuMXlja8Bf73ka2GRUhajod2eh2Jk4VjH3tTKfYQPtiMNghkiNvxz2fkmYWxxA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340978101346",
+        "starRating": "4",
+        "title": "Great app-- well laid out, but one issue",
+        "comment": "Great app!  The only issue I have is not being able to adjust the resolution on VoDs.  Otherwise-- this app is everything I want out of a JoinDota phone app.",
+        "commentId": "lg:AOqpTOHbztttVeRNvn_lSZ41YPftWndUXzRBSfEeNS_jngzBOeJ7qcrbJaLHbxwQ9u4zWWPm7P2k2_tlNltmqw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340988397783",
+        "starRating": "5",
+        "comment": "I  like it the way it is!",
+        "commentId": "lg:AOqpTOGhrJs9vXo8BD_OxGf-E2RdYuGBNxjTQDr_nkzqTAgrlaeTIqJsX-B9KTpyymYe3g08jULZFJOuqkVKzA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341928209673",
+        "starRating": "4",
+        "title": "Nice",
+        "comment": "Good app",
+        "commentId": "lg:AOqpTOFUupSDPt5Xow8Ire5pskbPLLdjKsWgpUqwU9HQbudzUzxZYmt8FYHor5epOEbGlA9l8iSW7RU2ymxT4g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339353960817",
+        "starRating": "1",
+        "title": "Ads work bit not the actual video",
+        "comment": "Click on any of the videos and the ads show, but then nothing. Just a black screen.",
+        "commentId": "lg:AOqpTOFQodcF5IaaCDGhZft8iWd4c6rv0E23m0C2gHpey_lxnXQpkFEjoo6NdfQhXImE5VadDbiiuatCuVDCFA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333999436952",
+        "starRating": "5",
+        "title": "Good idea, nice app",
+        "comment": "Very well done. I hope this app will get a lot of improvements in the future! Works well on HTC desire s.",
+        "commentId": "lg:AOqpTOErt3qL6UUey8n_vvrGSkjRxG6PjcBMyGtQE-jZWIX0d8g7rKiS-OFj4rx-8d1Qogz0_-rlNDypXKdb0w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337755020428",
+        "starRating": "4",
+        "title": "Nice",
+        "comment": "Works almost perfect, the only bad thing is that the stream doesnt work very good sometimes, at least for me.",
+        "commentId": "lg:AOqpTOFZAu5drrWCo9aRkNRabOsFltU6qeyrLRqVkpFALqlWj6wwbChdJrac_-_y1FETrf7llbxhQ7UydoRy6w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

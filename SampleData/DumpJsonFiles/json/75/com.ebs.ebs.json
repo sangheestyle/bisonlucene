@@ -1,0 +1,32 @@
+{
+  "title": "EBS Student App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ebs.ebs",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "December 25, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "App Development Company",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ebs.ebs",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Estonian Business School's app delivers important school information to students. It's available to use for all registered students and displays personal timetable, grades, messages and notifications. Students can also see school contacts and leave feedback.If you're studying at EBS, be sure to download the app!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.hiddenbrains.ebs.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

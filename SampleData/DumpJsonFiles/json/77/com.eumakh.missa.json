@@ -1,0 +1,55 @@
+{
+  "title": "Miss A (Kpop) Stage",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eumakh.missa",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "0.6.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "10",
+  "rating": "4.2",
+  "contentRating": "Everyone",
+  "creator": "AtticTV Pte Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eumakh.missa",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "âââââ A must have app if you're a Say A (MissA Fan)âââââ So convenient, easy to use, and great ui. It sums up a lot of the information you would spend hours on the net looking for. If your a MissA fan, a definite must have.Brighten up your day with MissA Stage. We love Fei, Jia, Min and Suzy so much that we decided to build this app.Be closer to your favorite MissA girls Fei, Jia, Min and Suzy as you can now get all MissA videos, photos and news across various sites like AllKpop, Youtube, and Tumblr all put together in one beautiful interface. It definitely makes us happy.Now, also be able to access your MissA Music Videos, while you have that precious few minutes to spend with the girls.Also, stay updated on all MissA concerts and Updates on Twitter, all in one swipe on this beautifully designed app, created by Say As, for Say As.Also, save your favorite content for easy viewing later.Contact us at:@eumakh on Twitter or onwww.facebook.com/kpopmusiclove",
+    "reviews": [
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378206657207",
+        "starRating": "5",
+        "comment": "Suzy \\342\\231\\245 miss A",
+        "commentId": "gp:AOqpTOHfbNRj2Z_2zEmnGTw6_xzFdw4KBetcbLbX6xyCGGjOWUDkveCoRFJUUX4OeuYW0bG6ZYCTrubgUHTSoA",
+        "author": "Monifsh Dipatuan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.0",
+        "timestampMsec": "1376555803833",
+        "starRating": "1",
+        "title": "Cant open.!!!!",
+        "comment": "Pls. Fix this Im gonna introduce it to my friend but it suck.",
+        "commentId": "gp:AOqpTOHw61_CWTenHTgTM78Ln-b5HfBfhfxKSNIKEEFpiQmDtbdjjHiMS89oEx7yWddhpwYA2b-U5f0py9ZlQg",
+        "author": "Samantha Fernandez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "com.eumakh.missa.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

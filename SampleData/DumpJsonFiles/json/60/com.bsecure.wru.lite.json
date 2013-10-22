@@ -1,0 +1,68 @@
+{
+  "title": "WRU? Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bsecure.wru.lite",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "June 5, 2013",
+  "version": "3.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "16",
+  "rating": "4.6875",
+  "contentRating": "Low Maturity",
+  "creator": "B-Secure Technologies Pte Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bsecure.wru.lite",
+  "extendedInfo": {
+    "installSize": "234k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Wondering where your children are, or what your elderly parents are doing? Have them install WRU? on their phone, and you can find out their location at any time using SMS.Simply SMS âwruâ to or use the app to send a request to any recipient with WRU installed. You will then receive a reply with a link to your recipient's geographical coordinates. Clicking on the link brings you to a Google Maps showing their exact location.Example:1. Daughter has the WRU app installed.2. Mom writes the simple SMS: âwruâ and sends it to her daughter.3. Mom receives a link to Google Maps with the daughterâs location.4. Daughter is at tuition class. Mom goes back to doing work with a peace of mind.Upgrade to the premium version to control who gets a reply from you with a black list function: http://market.android.com/details?id=com.bsecure.wru",
+    "reviews": [
+      {
+        "timestampMsec": "1316152407350",
+        "starRating": "5",
+        "title": "Does what it says",
+        "comment": "Simply, does exactly what it says... Worth checking out if you\\'re into this kind of thing. ~ Barney A.K.A. DaBomb",
+        "commentId": "lg:AOqpTOEOKSqNi_LqBVthp0ZMcRELuLNTcfmeuxMOe_esT1UPdZKVbW-Lq1tAPQRsldCUgHVlvT1bC24hQKxncQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1319857023862",
+        "starRating": "5",
+        "title": "Extremely useful for my parents",
+        "comment": "I love the additional feature to locate without another Android phone. Developer knows his stuff.",
+        "commentId": "lg:AOqpTOFkCXHh7_h-waCT6r-TNAUT2F_fAX8YZAUNmhmjzULB77TXVgG37xXfb6qC4QLYKvoXBwJ9LfD4zIb6_Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1315885512783",
+        "starRating": "5",
+        "comment": "So intuitive and simple to use, even a parent can figure it out! Can\\'t go wrong with free, and I highly recommend upgrading to the full version.",
+        "commentId": "lg:AOqpTOHbyQBFjzun2nzBf_gSQhIcah_upl-83bZJIe306VNqeLnBkQdYxgCPZASV8s-uyNiogYrzYk-BK7ViLg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1325810349343",
+        "starRating": "4",
+        "comment": "Free tracker",
+        "commentId": "lg:AOqpTOH-RcxhoHgViJ8VhixX4PoPlVNmkghNc3E0ltPpdmRT09WpTzU6xMXYmOQKVtgL9x4rXIRx2iTmer2IJQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_CONTACTS",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

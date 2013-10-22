@@ -1,0 +1,36 @@
+{
+  "title": "Guess The Code",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flamboyant.gtc",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "August 31, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "apptopper.net",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flamboyant.gtc",
+  "extendedInfo": {
+    "installSize": "5.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Lets assume you're smart ! Find out how smart you really are!Match wits against your Android device with Guess the Code, an outstanding implementation of the classic game Mastermind and Guess The Code Free.Android has chosen  a secret code. Your objective is to guess the code before you run out of guesses.Guess the Code includes three difficulty levels, ensuring everyone can find an appropriate challenge.Colorful balls to play with themGuess the Code Free includes a host of exciting features, including:* Great graphics and awesome sound effects * Configurable difficulty levels * Automatic save when you exit the app or receive a phone callIf you love Mastermind and guess the code free this is the game for you.Download Guess the Code and put your mind to work!Guess the Code is supported by unobtrusive banner advertisements.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

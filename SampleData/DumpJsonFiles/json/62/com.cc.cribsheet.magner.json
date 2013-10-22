@@ -1,0 +1,76 @@
+{
+  "title": "Magner Center Crib Sheet",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cc.cribsheet.magner",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "October 12, 2012",
+  "version": "2.3.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "3.8",
+  "contentRating": "Low Maturity",
+  "creator": "Brooklyn College Magner Center",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cc.cribsheet.magner",
+  "extendedInfo": {
+    "installSize": "8.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Created by the Brooklyn College Magner Center for Career Development and Internships for our students, alumni, faculty and staff to gain and share current information on internship and employment opportunities, mentoring, professional skills, and career education. It provides convenient, secure and immediate access to additional resources including networking, career exploration, work etiquette, financial planning and much more.",
+    "reviews": [
+      {
+        "documentVersion": "2.1.0",
+        "timestampMsec": "1336618413942",
+        "starRating": "2",
+        "title": "Force close",
+        "comment": "It was good before the update, now it doesn\\'t even open",
+        "commentId": "lg:AOqpTOEFrhUS0_VC920Uc0dFxH4slX7MMHat_-LnYk3YM-dDNjiceobwFcx4j8odh2B_feKkL8f2DXI2JhroiQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324662028037",
+        "starRating": "5",
+        "title": "Helpful",
+        "comment": "Good for college kids",
+        "commentId": "lg:AOqpTOFW2ZKvFnZyz1camxjTLCURjaMIkTm7x3qCPTGI-N1T1P1osEZ4YRp5Lp2i-AY_VpgczkIoOLkHGxLx8A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1327387842918",
+        "starRating": "2",
+        "title": "Could be better.",
+        "comment": "I hate to compare.. but Queens College\\'s app is way better. Its a beauty.",
+        "commentId": "lg:AOqpTOEQAU2Sz92JcZ1IKvSddWwWa1fcbjODM-Fbhy4FQXCbabPHu3u9EHD5q6gJ_XTLRHmI4-mb_EN4QpP0rQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324647176126",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Very helpful. Thanks.",
+        "commentId": "lg:AOqpTOHlYbVJmcH3JOKEgn-YWNNQtB6pBzY9tdlQ5bV3t5alGmWBB8of2-WRl5rRDMnpkwF3OFlqoNExjR6qyA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.cc.cribsheet.test.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

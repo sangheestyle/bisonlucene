@@ -1,0 +1,38 @@
+{
+  "title": "ISAKOS 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.isakos13",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 1, 2013",
+  "version": "2.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.isakos13",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "9th Biennial ISAKOS CongressMay 12-16, 2013Toronto, CanadaThe five-day ISAKOS Congress will include a variety of educational opportunities such as surgical demonstrations, paper presentations, debates, lectures, symposia and instructional course lectures. Lunch time hands-on workshops, electronic posters and technical exhibits will also be offered at the Congress. The ISAKOS Congress provides a variety of new prophylactic, therapeutic and surgical technique information, allowing attendees to expand their knowledge and enhance their surgical skills.The lively city of Toronto is an ideal backdrop for a variety of social activities. Social activities include the Welcome Reception for all Congress attendees and their guests, a daily spouse program and a special tour program for ISAKOS attendees.Keywords:- ISAKOS, Congress, Arthroscopy, Knee, Surgery, Orthopaedic, Sports Medicine, Biennial, Society",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.isakos13.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

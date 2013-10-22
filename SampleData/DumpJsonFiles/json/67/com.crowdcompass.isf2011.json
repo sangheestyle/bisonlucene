@@ -1,0 +1,52 @@
+{
+  "title": "ISF World Congress 2011",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.isf2011",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "September 12, 2011",
+  "version": "2.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "2.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.isf2011",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The ISF Congress offers ISF Members an opportunity to connect with like minded Information Security professionals in a unique, trusted and collaborative environment. The ISF Congress App contains programme information and features that will enhance your Congress experience.",
+    "reviews": [
+      {
+        "timestampMsec": "1316276453583",
+        "starRating": "1",
+        "comment": "Just keeps crashing on hero running 2.1",
+        "commentId": "lg:AOqpTOEViDoko1J8f3yKSyAegaDkjC1oixA1kWv1Y1AXfPbHGMxnBsma13HrG6cNctr89W4FwYRf0pUHGnmYNg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316553594896",
+        "starRating": "4",
+        "title": "Sony Ericsson X10i",
+        "comment": "Runs well without any problem.",
+        "commentId": "lg:AOqpTOEEBx8LHw832_hjbupWa69AsaJl2cnBWytkG8O4d9GkPFw3TuUh41kIyRxv0lxWbzVMIcn4xW7pxoq1BA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

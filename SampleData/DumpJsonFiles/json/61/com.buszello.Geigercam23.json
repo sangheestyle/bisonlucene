@@ -1,0 +1,44 @@
+{
+  "title": "Geiger Cam",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buszello.Geigercam23",
+  "category": "Education",
+  "price": "$1.49",
+  "datePublished": "August 27, 2011",
+  "version": "1.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Claus Buszello",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buszello.Geigercam23",
+  "extendedInfo": {
+    "installSize": "43k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is not a fake geiger counter. Your camera phone can really measure the level of radioactivity around you. All you need is this app and a bit of sticky tape!The camera in your phone or tablet is also sensitive to gamma rays and ionising radiation from cosmic muons or electrons from beta decays. These make up the harmful components of radioactivity.Simple place a piece of aluminium foil over the lens and secure it with scotch tape to shield out all light. A piece of paper (to protect the lens) and black electrical tape works just as well. Then start GeigerCam. If you can see anything instead of a black background while calibration is running please, fix ensure, that you have a light tight seal over your camera.After selecting the camera to use, it will display the rate of radiation that hits your camera. The usual background radiation is very low and it can take minutes until the first event is registered. Blue circles indicate when and where radiation has been detected. The blue line shows the estimated radiation and the blue area indicates the precision of the measurement. Longer measurements e.g. over night with the power supply plugged in will yield very precise results. The white lines show the rate in the last 30 seconds and five minutes.You can save measurements for comparison with your own labels by tapping one of the ten fields below. Swipe sideways to reset or restart. Swipe up and down to see other data gathered during the measurement. The default parameters used to detect radiation and suppress camera noise should work for most cameras. However, you can calibrate your camera by selecting to re-calibrate after start or restart.Since cameras in different phones can have very different efficiencies to detect radiation, the result is given directly in Hz (i.e. detections per second)On a Samsung Galaxy tab the natural background was measured at  0.006 Hz whereas on an Xperia X8 it was 0.0007. In a laboratory test with a well known americium (Am-241) source, both registered a much higher rate 8.1Hz and 0.79 Hz respectively. An airport security scanner registered at 0.23 and 0.026 Hz, respectively. So while all phones are different, they register an increase in radiation consistently.",
+    "reviews": [
+      {
+        "timestampMsec": "1325651182073",
+        "starRating": "1",
+        "title": "not working on motorola",
+        "comment": "heard some good things about this app online, but on my droid x i get zero hits, no background, nothing from fiestaware...",
+        "commentId": "lg:AOqpTOG3PheY74f-VnO2g-bTkOmeSWbZKEd1PdDkmWudJNq6i7hrXtApg7w1plCgeblo3BfYugZrBRHLEnfxOac",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332790620528",
+        "starRating": "5",
+        "title": "Jon  uk",
+        "comment": "Good app easy to calibrate also  units corredpond..",
+        "commentId": "lg:AOqpTOH3PNyhD3jPUNAnj0MEn3PI3LHJSy4lXM9hMHv62FV3u7DLfJeEywIHm--9Wz2Zk4kq56pOxoekZ44L59o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

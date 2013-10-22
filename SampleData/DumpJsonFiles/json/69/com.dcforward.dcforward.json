@@ -1,0 +1,53 @@
+{
+  "title": "Dubois County Forward",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dcforward.dcforward",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "July 3, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "M.A.R.K. Media Group",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dcforward.dcforward",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Dubois County Forward is a free magazine with unique and inspiring stories about the people, businesses and life of Dubois County.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1373172172167",
+        "starRating": "5",
+        "title": "Great  app with great potential",
+        "comment": "I look forward to many more issues!",
+        "commentId": "gp:AOqpTOH4Qh2nnS4hPDk-FFXMp4dWhG9MWE8NTprnHWbbjcgg1EM3rbpu9SqTD9fsGVOSObaR0iLPEhTJC5XffQ",
+        "author": "Andy Hoffman",
+        "authorURL": "http://lh4.googleusercontent.com/-cYoh_Hv81Pw/AAAAAAAAAAI/AAAAAAAAAAA/TvwiscDJHls/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-cYoh_Hv81Pw/AAAAAAAAAAI/AAAAAAAAAAA/TvwiscDJHls/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373377347834",
+        "starRating": "5",
+        "title": "It\\'s About Time!",
+        "comment": "From an app standpoint it\\'s extremely easy to use. From a content standpoint...wow. dcForward is gorgeous. Very slick and modern, but again easy enough for a \\\"tech novice\\\" to use. The stories are very well written and the only real issue is I can\\'t wait for the next issue! Bravo!",
+        "commentId": "gp:AOqpTOHZ-DHy5nNWVcVDSznjVqwI-6GiAhDeEynRType5eBGmpCFdNqVjaCH2JJ3TMqIIigrSaBcINY8dIMLiw",
+        "author": "Ty Hunter",
+        "authorURL": "http://lh6.googleusercontent.com/-XoLjDTub1SE/AAAAAAAAAAI/AAAAAAAAAB4/Xl4hRLw_2VY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-XoLjDTub1SE/AAAAAAAAAAI/AAAAAAAAAB4/Xl4hRLw_2VY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

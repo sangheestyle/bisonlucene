@@ -1,0 +1,44 @@
+{
+  "title": "Random Knowledge",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.euptera.droid.random",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Marko Kocić",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.euptera.droid.random",
+  "extendedInfo": {
+    "installSize": "145k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This application helps user to broaden his knowledge in different areas. Each time you start an application, you will be presented a different random article about some topic. The articles are from the Wikipedia knowledge base. The more you use the application, the more knowledge you will gain.This application user ADS to enable future development.Learning and education are important, and knowing different things is important.",
+    "reviews": [
+      {
+        "timestampMsec": "1337863942941",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "Nice and useful. One can spend hours crawling through interesting stuff this app provides.",
+        "commentId": "lg:AOqpTOHXJeyxegbyn5KE6o-548FXfdknDgy37X0PrBjtVjo0yWo05UhPt2RZ6T8pLAQ-qpzjE8TsGj0p3j8CuQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337976500255",
+        "starRating": "5",
+        "title": "Superb",
+        "comment": "Interesting stuff!",
+        "commentId": "lg:AOqpTOFCHRXvmgrp967bhBZDe_tym9z5ViQbd3kIBMKaA4IZRPG8EMMAYpyFXuPLr7OwbvFzWZXaWL8fs_05HQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "inFootball (Soccer)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fifa",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Inmobly",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fifa",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "FIFA World Cup 2014!!!Using FIFA World Cup 2014 application you can get all the information about FIFA Word Cup 2014 which will be held in Brazil in 2014.By using this application you can get following information:- Count Down till the opening ceremony- Winners of previous years- Match Schedules- World Ranking- Latest News about FIFA 2014 world cup Tags: FIFA World Cup 2014, World Cup 2014, 2014 World Cup , FIFA 2014 World Cup Brazil, foot ball 2014,2014, brazil 2014,football brazil,brazil,2014 WORLD CUP SOCCER BRAZIL,  world cup soccer",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1376280071047",
+        "starRating": "5",
+        "comment": "Awsome",
+        "commentId": "gp:AOqpTOFGxxHO3CXfoJ3dWoOWcLhndk19Lw72m8QqIfxhwpivFZ0iWzNUedCs46AzD6EHssdZj9_1QwUo4rSicw",
+        "author": "Lidia Aragon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

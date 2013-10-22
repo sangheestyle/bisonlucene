@@ -1,0 +1,60 @@
+{
+  "title": "San Diego County Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.sdcl",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "February 14, 2013",
+  "version": "4.5.95",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.25",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.sdcl",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Use the SDCL app to search for books, DVDs, audiobooks, CDs and more. Check your account, request or renew items, find your nearest library location and hours, follow us on Facebook and Twitter, or contact us.",
+    "reviews": [
+      {
+        "documentVersion": "4.5.95",
+        "timestampMsec": "1365702748342",
+        "starRating": "5",
+        "title": "Love this app.",
+        "comment": "This app makes it so much easier to access my account and renew items, etc.  on my phone, rather than having to use the browser to access the website.   I especially like the direct link to ebooks!",
+        "commentId": "gp:AOqpTOHoMjk8tRCq3wpDykcUdvDkJVOuoKX6nCOXI6joFCXIdlFdwwP_Fibihcw20rzNAq3IZyv8ZKHm53XT3RA",
+        "author": "Thomas Pierce",
+        "authorURL": "http://lh3.googleusercontent.com/-27oSW872jjQ/AAAAAAAAAAI/AAAAAAAAASM/4XkbsTJBwrE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-27oSW872jjQ/AAAAAAAAAAI/AAAAAAAAASM/4XkbsTJBwrE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371842157923",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Everything I could want. Thanks!",
+        "commentId": "gp:AOqpTOGSu9rWmgmZemHod5Tf7n7sXuHNFDVyZJfys9EAQ3K9FRGilWzNT-fTEstj9nXi4_R9VbeNrhIarfcKSK8",
+        "author": "Joel Madero",
+        "authorURL": "http://lh3.googleusercontent.com/-wAIEFE9uicY/AAAAAAAAAAI/AAAAAAAANlI/rp5o8GOJXsY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-wAIEFE9uicY/AAAAAAAAAAI/AAAAAAAANlI/rp5o8GOJXsY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369332017396",
+        "starRating": "3",
+        "comment": "Well done!",
+        "commentId": "gp:AOqpTOEc2NmXLOahD26uoSklYXnICLZsAxCwRrsLqdNlfUjddTfp0UR_RS-CFqtdvomvgIc7sFS15mX4C2g2XZY",
+        "author": "Michael McCulley",
+        "authorURL": "http://lh3.googleusercontent.com/-DjJuZfAOMQo/AAAAAAAAAAI/AAAAAAAAAUA/ShFsOf4ylHc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-DjJuZfAOMQo/AAAAAAAAAAI/AAAAAAAAAUA/ShFsOf4ylHc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

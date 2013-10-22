@@ -1,0 +1,30 @@
+{
+  "title": "The Microwaver",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.engineers.microwaver",
+  "category": "Tools",
+  "price": "$4.99",
+  "datePublished": "February 18, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Not rated",
+  "creator": "Engineers.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.engineers.microwaver",
+  "extendedInfo": {
+    "installSize": "71k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Designed by and for Digital Radio Engineers, The Microwaver has features most used by radio system engineers:-Noise Figure Cascade-Intercept Pt. Cascade-Noise Floor vs Temp.-Threshold Calcs vs Mod/FEC-Parabolic Antenna Calcs-Path Link Calculator-Common ConversionsAnother software design by Engineers.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

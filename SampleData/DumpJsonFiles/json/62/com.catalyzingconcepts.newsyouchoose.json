@@ -1,0 +1,31 @@
+{
+  "title": "News You Choose",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.catalyzingconcepts.newsyouchoose",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "September 8, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Not rated",
+  "creator": "Catalyzing Concepts",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.catalyzingconcepts.newsyouchoose",
+  "extendedInfo": {
+    "installSize": "224k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "You choose the news!  This is a news app that lets you create custom news channels that only show the news you want to see.  You start with just a few tags, and NewsYouChoose will refine its search based on the articles you like.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

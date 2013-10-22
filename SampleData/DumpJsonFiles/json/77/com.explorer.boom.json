@@ -1,0 +1,39 @@
+{
+  "title": "Filer - file manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.explorer.boom",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 11, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "31",
+  "rating": "4.193548",
+  "contentRating": "Low Maturity",
+  "creator": "Jeremybaby",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.explorer.boom",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This is a beautiful and versatile file Manager, application Manager, with access to ftp. With the help of The best FILE MANAGER you can manage files, view and listen to multimedia files (images, music, video), edit text files.Main features:- Move/copy files;- Management of applications;- File transfer;- Search files;- Uncompress zip;- The ability to connect via FTP;- Convenient sorting of data on the built-in folders;- Possibility of Ð½Ð°ÑÑÑÐ¾Ð¸Ð²Ð°ÑÑ the most convenient type of folder.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.explorer.boom.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "City Hope Church",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_a01d58c40870405cb674629959bb3066.app",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "July 1, 2013",
+  "version": "1.29.31.673",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dave Anderson",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_a01d58c40870405cb674629959bb3066.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "The City Hope Church App gives you 24/7/365 access to all things City Hope.  You get Facebook. Twitter, Onlin Giving, Video and more. It's YOUR church in YOUR Pocket!",
+    "reviews": [
+      {
+        "documentVersion": "9.21.551",
+        "timestampMsec": "1365413292358",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "Can\\'t wait to see what else comes to he table in the future.   Thanks for staying up with technology and making things easier to access for us techy folks.  :-)",
+        "commentId": "gp:AOqpTOFu_5p7dnSx8AxSjdKzQVTvkdB3QQttvswR8QnzRSaZ2oYKUf5_NdV6tsmipSxjlw_wkfRrAcpqKxY_vA",
+        "author": "Tim Niermann",
+        "authorURL": "http://lh3.googleusercontent.com/-M0HiUKKnS2Q/AAAAAAAAAAI/AAAAAAAADIM/ZErEllkE818/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-M0HiUKKnS2Q/AAAAAAAAAAI/AAAAAAAADIM/ZErEllkE818/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_a01d58c40870405cb674629959bb3066.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

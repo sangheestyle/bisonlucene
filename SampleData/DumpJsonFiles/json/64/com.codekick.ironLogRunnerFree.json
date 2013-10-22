@@ -1,0 +1,64 @@
+{
+  "title": "IronLog Runner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codekick.ironLogRunnerFree",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "October 25, 2011",
+  "version": "0.6.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "13",
+  "rating": "3.6923077",
+  "contentRating": "Low Maturity",
+  "creator": "CodeKick",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codekick.ironLogRunnerFree",
+  "extendedInfo": {
+    "installSize": "501k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Track your progress while running, walking or cycling. Uses the GPS to give you distance, pace and a map of how you have moved. Voice feedback that give you status updates regularly is also available.After your workout you can analyze graphs of pace, altitude and speed.To secure your data and get access to more features you can optionally connect IronLog Runner with a FREE account for IronLog.com. On IronLog.com you can also keep a log of your diet and track your body weight and body measures. Currently, an account is needed to get statistics on burned calories.This app is still in BETA version. If you have any problems or suggestions of improvement, please visit our forum on http://ironlog.comKeywords: jogging, jog, run, running, walk, biking, tracker, track, sport, fitness",
+    "reviews": [
+      {
+        "documentVersion": "0.6.3",
+        "timestampMsec": "1326482005009",
+        "starRating": "3",
+        "title": "OK on HTC Incredible. No good on Samsung Nexus",
+        "comment": "Used this regularly on my HTC Droid Incredible. Worked well. Now with Samsung Galaxy Nexus,. Android 4.0,  resets while I am walking and so doesn\\'t record data, happens too often to be useful.",
+        "commentId": "lg:AOqpTOGn8Vnu-q7T-wYPFhurWTXvaS2Y5nKR7sXTxR_6JD3kn7pfFKbY5uHNz7il03u8j9jbd7M8inRKffGU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.3",
+        "timestampMsec": "1321485289889",
+        "starRating": "1",
+        "comment": "Doesn\\'t calculate my pace",
+        "commentId": "lg:AOqpTOHaJX7C0wmE3aD9XTqYKS8K6TOTK1itqaMOG43_1qi3BBsEjyc5JCCGBUM6Vsv3BDhm3jPJm5CnTOF8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311514197144",
+        "starRating": "2",
+        "comment": "You can see your charts only after you stop.",
+        "commentId": "lg:AOqpTOH_Yk9SdubomzoozjEVnuT603psyyiqwyvcNnHmUUQMTO4lZn5Sl8Tjm-Olqeof1I1yp1OVjERIn55i",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346066808249",
+        "starRating": "2",
+        "title": "Nice idea, shame about the execution",
+        "comment": "GPS needs to be smoothed. Both path and graphs have huge errors. Just taking an average across ten seconds would sort this out. Perhaps allow user to set such an averaging period would be helpful.",
+        "commentId": "lg:AOqpTOGW50xMWCSkp9jIczErvocNpPMPUe4YULmxpy9SRLGbtkEsOEEvbCtCYQjEFdK7ycKUL8Eu8G83rC7K",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS"
+    ]
+  }
+}

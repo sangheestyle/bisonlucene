@@ -1,0 +1,32 @@
+{
+  "title": "Quick notepad",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=org.Notepad",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "March 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "tef",
+  "creatorURL": "https://play.google.com/store/apps/details?id=org.Notepad",
+  "extendedInfo": {
+    "installSize": "167k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is a simple notepad app for fast and secure usageThis app have some specialty1 .Small size2 .Attractive user interface2 .Very fast3 .AUTO SAVE facility",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

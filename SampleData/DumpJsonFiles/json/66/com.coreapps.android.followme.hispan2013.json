@@ -1,0 +1,51 @@
+{
+  "title": "Hispanicize Event 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.hispan2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 8, 2013",
+  "version": "4.2.3.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.hispan2013",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Now in its fourth year, Hispanicize 2013 is the iconic annual event for Latino trendsetters and newsmakers in social media, journalism, marketing, film, music and innovation.Hispanicize 2013 brings brands, media, marketers,celebrities, filmmakers, innovators and bloggers together in a unique creative environment focused on ideas and best practices.  The event is a launch pad for creative endeavors, new products, technologies, marketing campaigns, films, books and more targeting Latinos.Hispanicize 2013, a partnership of the Hispanic Public Relations Association (HPRA), Hispanicize and the Public Relations Society of America (PRSA), will be held at the Eden Roc Hotel in Miami Beach, April 9-13, 2013.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.hispan2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "AndroIbex",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.erhector.androibex",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 1, 2011",
+  "version": "1.75",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "50",
+  "rating": "3.92",
+  "contentRating": "Everyone",
+  "creator": "hectormig",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.erhector.androibex",
+  "extendedInfo": {
+    "installSize": "174k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "AndroIbex. Your Spanish stock alerts.With AndroIbex alarms you can get all the values ââof the Spanish market. When an index reaches the selected limit, AndroIbex sends a notification to the notification bar of your Android device.Features:- Optimized for minimum battery consumption to be integrated with the operating system alarm.- You can set the interval between checks to match the state of your battery.- You can even turn off alerts from the setup menu with a single click and use the application to check the status of the market.- User friendly, clear and simple, style-oriented Android menus.- The data are provided by Yahoo Finance a few minutes late.- IBEX 35 , Mercado Continuo, Mercado Alternativo BursÃ¡til ( MAB )- Version 1.70Coming soon:- Graph of evolution.- Context menu options \"Major\" and \"Minor\"- ...",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

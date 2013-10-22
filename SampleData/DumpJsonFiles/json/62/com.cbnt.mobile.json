@@ -1,0 +1,54 @@
+{
+  "title": "Citizens Bank & Trust Company",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cbnt.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 1, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cbnt.mobile",
+  "extendedInfo": {
+    "installSize": "927k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do your banking from your mobile device. Manage your accounts, view your balances, find ATM locations and more.Now itâs easy to bank 24/7, right from your Android device  MONITOR YOUR ACCOUNT: â¢View account balances & transaction historyPERFORM TRANSACTIONS: â¢Pay billsâ¢Transfer money between your accountsâ¢Instantly send and request money with POPMoneyâ FIND LOCATIONS AND CONTACT CITIZENS BANK & TRUST COMPANYâ¢Find the nearest Citizens Bank & Trust Company branch or ATMâ¢Speak with a customer service representativeCUSTOMIZE ALERTS AND NOTIFICATIONS FOR: â¢Checksâ¢Depositsâ¢Account balance levelsâ¢ACH transfersSECURITY: â¢ Security is our priority â Mobile data transmissions are safeguarded by 128-bit SSL (Secure Socket Layer) to prevent unauthorized access.*Your mobile carrierâs text messaging and web access charges may apply",
+    "reviews": [
+      {
+        "documentVersion": "2.5.22",
+        "timestampMsec": "1367023321527",
+        "starRating": "1",
+        "title": "Literally AIDS.",
+        "comment": "This is really awful. Basically once the bank closes the app does too. God forbid you want to check your account on a weekend.",
+        "commentId": "gp:AOqpTOFAjksYumh95c_hTXwe1mVhXl6uxMnzSU7_YAgRd8IwOzhFAKV0uuZurlHJNosC47AL09XxW2purtq8ow",
+        "author": "Terry Long",
+        "authorURL": "http://lh5.googleusercontent.com/-QEY0BUaDrUY/AAAAAAAAAAI/AAAAAAAAAQs/69pjj3DkvPU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-QEY0BUaDrUY/AAAAAAAAAAI/AAAAAAAAAQs/69pjj3DkvPU/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.6",
+        "timestampMsec": "1349203861591",
+        "starRating": "4",
+        "title": "Easy as pie",
+        "comment": "It is easy to log in check your transations history",
+        "commentId": "lg:AOqpTOGJz9J1U8U4aEuVN7I_C_bfZ9PsMYjZNJ5Aq_Rj8m_epDSUvrnuX4qa_rkIfjqLQ-vPgt76L9O1VaH1cg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

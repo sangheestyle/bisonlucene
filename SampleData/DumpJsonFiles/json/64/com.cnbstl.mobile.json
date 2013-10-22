@@ -1,0 +1,43 @@
+{
+  "title": "Citizens National Bank STL",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cnbstl.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 1, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cnbstl.mobile",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "CNB STL MOBILE by Citizens National Bank of Greater St Louis allows you to bank when you want and where you want.  Enjoy a secure, fast and optimized experience on your phone and take your bank with you wherever you go.   Itâs free to download and offers quick access for managing your accounts, check your balances, pay bills, transfer money, and locate ATMs and banking centers with just a touch of the screen.  Simply log in with the same username and password that you have established for Online Banking.   FEATURES-\tView account balances-\tView recent transaction activity-\tTransfer funds between accounts-\tLocate the nearest ATM or branch -\tPay billsSECURITYHave the confidence that your information is kept secure knowing Citizens National Bank is using advanced encryption technology.  Citizens National Bank is committed to protect the privacy of your financial information.  See our privacy policy athttp://www.cnbstl.com/privacy-statement.aspSUPPORTFor support with this application or questions about Citizens National Bank products and services, please call 314-645-0666.",
+    "reviews": [
+      {
+        "timestampMsec": "1361154913466",
+        "starRating": "5",
+        "title": "Customer",
+        "comment": "Great app. Performs the tasks that I need very well. Great bank, great service",
+        "commentId": "gp:AOqpTOH6Xnwz4Likr-3PRWjwHFx7SdisQCXbwBZ21CYF2-TdeGBn6xkaQaV_bxEURZV-kpRcuPv2qyJZu9Du8w",
+        "author": "Steve Crawford",
+        "authorURL": "http://lh3.googleusercontent.com/--08Udts9vOI/AAAAAAAAAAI/AAAAAAAABI4/Pd5i6mN0Yk0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/--08Udts9vOI/AAAAAAAAAAI/AAAAAAAABI4/Pd5i6mN0Yk0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

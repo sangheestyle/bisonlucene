@@ -1,0 +1,38 @@
+{
+  "title": "One Minute Travel",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cm.omt",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "March 7, 2012",
+  "version": "Costa_Rica",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "3.857143",
+  "contentRating": "Low Maturity",
+  "creator": "Coconut Martini",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cm.omt",
+  "extendedInfo": {
+    "installSize": "657k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "If you really love to travel, then this is App is for you!Share your favorite travel videos, relive your travels, and inspire the rest of us to head out in search of your travel experiences. Just pull out your Mobile Phone or Video Camera, and upload your most memorable experiences.Or if you are looking for a little inspiration of your own, why not take some time to look through the travel videos. You never know what you may find!No Sign-up or Registration required. Just use your Google or YouTube account.The world is a magnificent place, travel to discover all of its hidden treasures.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.googleapps.permission.GOOGLE_AUTH",
+      "com.google.android.googleapps.permission.GOOGLE_AUTH.youtube"
+    ]
+  }
+}

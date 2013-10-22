@@ -1,0 +1,40 @@
+{
+  "title": "ETI Equipment and Trucks",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.app_eti.layout",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 23, 2013",
+  "version": "1.400",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Power Apps That Work",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.app_eti.layout",
+  "extendedInfo": {
+    "installSize": "4.6M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "ETI is a full service Heavy Equipment Company that provides Heavy Equipment Purchases and Sales, Rentals, Certified Appraisals, and Fleet Evaluations.  By downloading our mobile app you will have ease of access to us and our information via you mobile device right there on the jobsite.Equipment Trucks, Inc specializes in Cat, Deere, Komatsu, Volvo, Bobcat, Hitachi, Case, and Ingersoll-Rand. We also have various service trucks, haul trucks, and crushing plants available.Equipment Trucks, Inc offers services related to sales and purchases of Heavy Equipment both nationally and internationally. We also offer Trade-ins, consignments, and Lease to own options. ETI sells only used iron as to not compete with larger heavy equipment companies and the outrageous prices of new equipment. Purchasing used equipment allows you to invest in high quality equipment without spending a fortune. Used Equipment is ideal for anyone looking for cost effective ways to expand their fleets or replace old equipment. Purchasing used equipment is a great opportunity to maximize your work capabilities with minimal capital outlay. ETI has over 20 years of knowledge and background in construction, asphalt, concrete, earthmoving, forestry, landscape, scaffold, crane, mining heavy mobile equipment and similar types of construction equipment.-Easy one touch contact to reach us quickly-Get Push Notifications on equipment deals and offers-GPS Locator so we can find your jobsite fast-Email forms to easily request equipment-Check out our inventory-Request partsAND SO MUCH MORE!!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.app_eti.layout.permission.C2D_MESSAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

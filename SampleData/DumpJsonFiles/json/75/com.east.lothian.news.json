@@ -1,0 +1,40 @@
+{
+  "title": "East Lothian News Reader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.east.lothian.news",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "August 13, 2011",
+  "version": "1.1",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "ByteTek",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.east.lothian.news",
+  "extendedInfo": {
+    "installSize": "383k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Keep upto date with East Lothian News feeds direct to your mobile \"Please note this is not the official East Lothian News App\" This was designed purely for those people who wanted a custom news reader for their own area.This application is FREE.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

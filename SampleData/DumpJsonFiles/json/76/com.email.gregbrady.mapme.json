@@ -1,0 +1,35 @@
+{
+  "title": "Go Map Lat Long",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.email.gregbrady.mapme",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "AlienNet",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.email.gregbrady.mapme",
+  "extendedInfo": {
+    "installSize": "718k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "By name list of saved locations for use with google maps and/or your navigation software.  Uses coordinates Lat/Lon to save locations as opposed to street addresses.  Clicking a saved location from the list places a tag on map for Location selected.  Tapping on the NAV arrow in upper left enters the destination directly into your navigation app for turn by turn directions.Features:-save Locations by name-find Lat and Long GPS coordinates by long pressing on map-load saved locations directly into nav app-compose text message containing saved location data-generate google maps link in new sms messageFuture features in beta: (will update when ready)-cloud backup-saved location grouping (work,personnel,etc...)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

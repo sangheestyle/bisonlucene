@@ -1,0 +1,39 @@
+{
+  "title": "Kendall Pain Relief Center",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.WilliamMilo_119",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "January 15, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.WilliamMilo_119",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Kendall Pain Relief Center provides the latest comprehensive pain management, rehabilitation services and leading-edge procedures for our patients. We believe in a multi-disciplinary, multi-modality approach, which includes interventional pain blocks, medication plans, and psychiatric treatments all prescribed rationally for each patient's best possible recovery.We are compassionate in understanding that each individual requires a personalized evaluation and unique treatment plan. Our team intently listens to each patient's needs, examines the patient in a comfortable setting, performs MRI's on-site, and evaluates patient history to determine a minimally invasive procedure to improve quality of life.  In certain cases, a treatment plan may include interventional procedures, for which sedation is available and administers by a Board Certified Anesthesiologist. Our surgery center is just minutes from our facility, and we are affiliated with several local hospitals for your convenience. Put simply, we offer a full spectrum of solutions for reducing pain and improving functionality.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.cloudninedevelopmentllc.WilliamMilo_119.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

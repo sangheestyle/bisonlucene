@@ -1,0 +1,56 @@
+{
+  "title": "Farm Science Review",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.fsr_2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 20, 2012",
+  "version": "3.2.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.fsr_2012",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The 50th annual Farm Science Review occur from September 18-20th at the Molly Caren Ag. Center, London, Ohio. The show attracts more than 130,000 visitors from all over the USA and Canada, who come for three days to peruse 4,000 product lines from 600 commercial exhibitors, and learn the latest in agricultural research, field demonstrations, conservation practices, family and nutrition programs, gardening and landscape techniques. Farm Science Review is sponsored by the College of Food, Agricultural, and Environmental Sciences, Ohio State University Extension, and the Ohio Agricultural Research and Development Center.",
+    "reviews": [
+      {
+        "documentVersion": "3.2.0",
+        "timestampMsec": "1348057283428",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Good maps!",
+        "commentId": "lg:AOqpTOGjv1qnwB8JojA345u-Y_OXHhB3kFL22PO28B0-kAqp58g7SnXEg_85iIQ52Hc8Kuy6R705QYGcpb5PUw0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

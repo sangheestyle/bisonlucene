@@ -1,0 +1,64 @@
+{
+  "title": "Pedometer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.canvasmpedometer",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "June 14, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "3.3333333",
+  "contentRating": "Everyone",
+  "creator": "CanvasM Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.canvasmpedometer",
+  "extendedInfo": {
+    "installSize": "413k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Everyone should walk 10,000 steps per day in order to stay fit. How many steps are you walking? Our CanvasM Pedometer App can help you in achieving this goal by keeping track of how much time and steps you actually walk.  We are sure that this will help you in improving your health and staying fit. Features:-- Record all your steps.- Know how much time you spent in walking.- Calculates the distance walked by you.- Calculate the number of calories that you have burnt.- Calculate the fat burnt by you.- Let your Facebook friends know how much you walked today.- Works without GPS tracking, so you can use this app indoors.- Easy to use and track even when app is in background.- Consumes minimal battery power even in background.NOTE:- - Pedometer app works well when device is held tightly to your body e.g. inside pocket of pants, jeans, shorts etc.- Step count may not be accurate if you put your phone in loose fit pants due to the random movement your phone makes in the pocket.",
+    "reviews": [
+      {
+        "timestampMsec": "1371211805066",
+        "starRating": "5",
+        "title": "Amazing app!",
+        "comment": "This is what you can expect from an app if you are a fitness lover! It\\'s nice to count your footsteps when you are on running track. A must have app for everyone!",
+        "commentId": "gp:AOqpTOGo-NbAwE0S9hYMySjnimjSl3LpgD_oHjHJMAzLvK8N9fQUedBlz9PHm-T_wrD129Pne3pxPmqTIjdq8nk",
+        "author": "Vijay Kashyap",
+        "authorURL": "http://lh6.googleusercontent.com/--cSJdfgZVAQ/AAAAAAAAAAI/AAAAAAAAApU/Qa4C2zljVaY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/--cSJdfgZVAQ/AAAAAAAAAAI/AAAAAAAAApU/Qa4C2zljVaY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372052390992",
+        "starRating": "4",
+        "title": "Its goof",
+        "comment": "Better if it would run in the back ground so u can have it track how many steps u take during the day and so u can leave the app and answer texts and other stuff",
+        "commentId": "gp:AOqpTOHUsm9N0pV-KGp15do8Pg3fbHsgeUgvLZJaBNS3Zmj-V0XYsi9iMxweba2IuvpdS45G1cY56AE3sZEw7Rs",
+        "author": "jimmie brent",
+        "authorURL": "http://lh5.googleusercontent.com/-tAcgdxr2TIg/AAAAAAAAAAI/AAAAAAAAAEg/DJjQ6hu96eM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-tAcgdxr2TIg/AAAAAAAAAAI/AAAAAAAAAEg/DJjQ6hu96eM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371362252755",
+        "starRating": "5",
+        "title": "Luv this!",
+        "comment": "This is a good and simple one. Have tried other pedometer apps have deleted it right away. Have tested this so far so good!",
+        "commentId": "lg:AOqpTOHHudHbT4Ds6xPCCDITSyg76EyiUZn9tLyJ7PmFs0P7SLYMDnH-rlhNC4HkefKN4-MyMlG4SERIbtO9DBE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375261603891",
+        "starRating": "4",
+        "comment": "It doesn\\'t let me share my steps on my fb page. Other thn that it seems pretty accurate.",
+        "commentId": "lg:AOqpTOFbDqzlo6VEr-QG0ek5qbbaRVL8Q-cAGGzsf97sF5PmHQUkNlk_iFO7nK8F1Ktiz_hg92n7nCQKGu0vxVc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

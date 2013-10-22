@@ -1,0 +1,59 @@
+{
+  "title": "3 Axis Magnetic Field Monitor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eccentriccatconsulting.threeaxismagneticfieldmonitor",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 15, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "11",
+  "rating": "4.4545455",
+  "contentRating": "Everyone",
+  "creator": "Kelli McMillan",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eccentriccatconsulting.threeaxismagneticfieldmonitor",
+  "extendedInfo": {
+    "installSize": "405k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This program gives a reading in milliGauss (mG) of the magnetic field readings in each of the 3 axis (X,Y & Z) from the magnetometer in your phone from zero to 20,000 mG in five ranges.The top number is the highest reading of the three axis'.The three bar graphs show each axis separately. A green graph means the reading is positive (+) and a red graph means the reading is negative (-).The program defaults to AutoRange when started and will select a range for the bar graphs based on the axis with the highest reading. One of five manual ranges can also be selected. Selecting a low range and effectively \"overloading\" the bar graphs will not cause damage to your phone. Accuracy of this software will vary from device to device and is not guaranteed. This software is intended for entertainment purposes only and not intended for use as a replacement for calibrated scientific instrumentation.",
+    "reviews": [
+      {
+        "timestampMsec": "1363109915911",
+        "starRating": "5",
+        "title": "Fun app!",
+        "comment": "Works for a number of things and is fun to play with. Too bad the phone\\'s magnetometer is DC only...",
+        "commentId": "gp:AOqpTOFIN92AEKssFCyhFMpmTMhXaZNQcOdUJGrkORgvIG2bikqNgdRtbBwcCMM7Fv2EgaBwFm7aB8olc9h1y-M",
+        "author": "Gary Allen",
+        "authorURL": "http://lh6.googleusercontent.com/-3gyPxVJkEdE/AAAAAAAAAAI/AAAAAAAAAg4/1Kzd9cm3ZBc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-3gyPxVJkEdE/AAAAAAAAAAI/AAAAAAAAAg4/1Kzd9cm3ZBc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375368521697",
+        "starRating": "5",
+        "title": "Works well",
+        "comment": "I like this app; passing a magnet around the phone tracked very well. If the \\\"positive\\\" and \\\"negative\\\" can be correlated to \\\"North and South\\\" this would be a very helpful tool for those that use magnets regularly.",
+        "commentId": "gp:AOqpTOFg4QZXlYzGTx4ZCQH8bpFsDEELPbhXLTqxnJK9NcJnMaNH4H5ef_j2B98VG_1RVO7CqML-a9OWkeaH82g",
+        "author": "Mike Tripoli",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378616211323",
+        "starRating": "5",
+        "title": "awesome",
+        "comment": "it works... it really works",
+        "commentId": "gp:AOqpTOHPqO9epBZLiPnjPYOSBbZKdbAYBUFME5RUf5gAxCGUnXu63oC4NoDVsNIRppBFolvvijzN0zZFHI6qscg",
+        "author": "George JC Klinger",
+        "authorURL": "http://lh4.googleusercontent.com/-bJsXlA1Wwr0/AAAAAAAAAAI/AAAAAAAAALA/4Xgloc6Zems/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-bJsXlA1Wwr0/AAAAAAAAAAI/AAAAAAAAALA/4Xgloc6Zems/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

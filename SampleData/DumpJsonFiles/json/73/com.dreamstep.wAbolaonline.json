@@ -1,0 +1,38 @@
+{
+  "title": "Abola sports newspaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wAbolaonline",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "October 27, 2011",
+  "version": "0.21.13197.24058",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "38",
+  "rating": "3.8947368",
+  "contentRating": "Everyone",
+  "creator": "msilva apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wAbolaonline",
+  "extendedInfo": {
+    "installSize": "114k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Abola is a portuguese sports newspaper. Includes news from portuguese sports and international sports. Real Madrid, Barcelona, Manchester united, Cristiano Ronaldo, JosÃ© Mourinho, Messi find news about them too!!",
+    "reviews": [
+      {
+        "documentVersion": "1.13197.24058",
+        "timestampMsec": "1320069444777",
+        "starRating": "5",
+        "comment": "Vi o jogo no Est\\303\\241dio do Drag\\303\\243o e menos do que uma hora mais tarde li a hist\\303\\263ria do jogo aqui!",
+        "commentId": "lg:AOqpTOGTzA021vJHNK3VHfXnm06wZWM72VCDO6-bo4iu7QBK2jshKYAk390vUmmbsxJpPIEvRVNyutzCt0fSoQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wAbolaonline.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

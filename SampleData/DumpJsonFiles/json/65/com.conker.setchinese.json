@@ -1,0 +1,34 @@
+{
+  "title": "Set Chinese Language",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conker.setchinese",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 31, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "15",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Conker Mobile Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conker.setchinese",
+  "extendedInfo": {
+    "installSize": "58k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Many Android devices don't have Chinese in their language settings. Using this app, the system language can be easily set to simplified Chinese. In most devices, this setting is persistent across reboots. This app will pop up automatically if it detects the Chinese setting is lost or modified after reboot.This app serves only one purpose: it is for users who just want to stay with simplified Chinese.",
+    "reviews": [
+      {
+        "timestampMsec": "1364383168741",
+        "starRating": "5",
+        "comment": "Rr",
+        "commentId": "lg:AOqpTOGw50Y30BypZ2O42NpDSVt7gtIM-ym70iRqc3kWfKceXXlYYpOmp_zzxsuLBfAySdlo4QPs11vptpzgyw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CHANGE_CONFIGURATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

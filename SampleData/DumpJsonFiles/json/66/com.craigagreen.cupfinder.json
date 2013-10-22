@@ -1,0 +1,56 @@
+{
+  "title": "Cup Finder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.craigagreen.cupfinder",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "September 22, 2011",
+  "version": "1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "2.4",
+  "contentRating": "Low Maturity",
+  "creator": "CraigAGreen",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.craigagreen.cupfinder",
+  "extendedInfo": {
+    "installSize": "106k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Getting your Second Cup caffeine fix has never been easier!Second Cup outlets are not as ubiquitous as some of the other well known places, but this app makes getting a great cup of coffee a lot easier!This app users your GPS location to find all locations within a 20km radius of you.  Want to search in a different location?  No problem, just pan the map to your new search location and tap the Refresh button.Watch for more features coming soon!This app is in no way affiliated with Second Cup or any of its franchisees.",
+    "reviews": [
+      {
+        "timestampMsec": "1361359550941",
+        "starRating": "1",
+        "comment": "Doesn\\'t work",
+        "commentId": "gp:AOqpTOEj6VWvyt8mmmNGse5Zf6oJxCG60mNjdBQiLgb7wCrjTbb_l6d46UVFJ2u_XBO0IjTx7hyDAew2z8Jm0w",
+        "author": "Baharak Zarbafian",
+        "authorURL": "http://lh4.googleusercontent.com/-2MFZ6DUjV9E/AAAAAAAAAAI/AAAAAAAAAhY/2sYzT5JDP2I/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-2MFZ6DUjV9E/AAAAAAAAAAI/AAAAAAAAAhY/2sYzT5JDP2I/photo.jpg"
+      },
+      {
+        "timestampMsec": "1346695261416",
+        "starRating": "5",
+        "title": "So Easy",
+        "comment": "So Good, I love it :)",
+        "commentId": "lg:AOqpTOHhUGGv--VOuXwIkZf7kUs4UA_t028rH4CvORifTaMVy1MDv1hQDVS4ZVRCbzN10cQ02cVz8YOZMLVBXg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357463661169",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "Doesn\\'t work",
+        "commentId": "gp:AOqpTOFyqxnsUGcuycvih2-6E2eFyFqdaBXBTV7xg-q-K71slFLHFiniEf6daWi7R9l4iwjbX_l_b5nuDcbvig",
+        "author": "Jim Pho",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

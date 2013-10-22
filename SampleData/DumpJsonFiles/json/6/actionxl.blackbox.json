@@ -1,0 +1,49 @@
+{
+  "title": "Black Box",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=actionxl.blackbox",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 12, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "3.2857144",
+  "contentRating": "Everyone",
+  "creator": "ActionXL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=actionxl.blackbox",
+  "extendedInfo": {
+    "installSize": "204k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Android Blackbox (Recorder) for your car. If you are in an accident, you will have a video of what happened.If you use your Android phone as your car navigation system, you can run Blackbox in the background to:* Record your drive. Blackbox records driving video in a 3 minute loop. If something happens in front of you (like an accident), and you want to record what happened, tap your phone to save the last minute of video.* Detect collisions. Blackbox automatically saves the last minute segment of video when a collision is detected.* Share your captured video. Send the captured video via email, text, or YouTube, or FacebookThe sensitivity of the collision sensor can be calibrated to avoid sending a message every time you hit a pot hole.Please note â Some early car mount holders cover the camera lens. For these car mount holders to work, you will have to drill a hole in the car mount holder to uncover the cameraâs lens.",
+    "reviews": [
+      {
+        "timestampMsec": "1341912363578",
+        "starRating": "3",
+        "title": "Works in the academic sense",
+        "comment": "It does what it says but it records a 320x240 image (even though I can do 720p) and has no option to adjust that. Also, it runs a bit slow starting and stopping monitoring and practically locks up my Atrix 4G when it writes the last minute recording after monitoring. It\\'s promising but being last updating October of last year I don\\'t think there will be improvements soon.",
+        "commentId": "lg:AOqpTOGw9r9BkInEI_Zi-PfsOTs9rm9xDud5R7Cuia_R8LGyHEEOtw9PbGuiQGp_a9giesS8eQRVihV60jDA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1318805325251",
+        "starRating": "1",
+        "title": "Force close",
+        "comment": "Nexus S",
+        "commentId": "lg:AOqpTOFXWddiGliqCK4poODSlec2jg0VcBqEgv-nRol519nM5gI9Tado_aqI880HStY0MTOescRtHadO8y0e",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

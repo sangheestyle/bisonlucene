@@ -1,0 +1,53 @@
+{
+  "title": "Bowser",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ericsson",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 3, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "8",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Ericsson Research",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ericsson",
+  "extendedInfo": {
+    "installSize": "33M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Ericsson Technology Insights brings together the best of Ericssonâs technology expertise in ICT. In this app you will find the latest Ericsson Review articles, white papers published by Ericsson and research papers written and co-written by Ericssonâs employees. This app brings insights from the research world with a long-term perspective together with strategic direction for the near term. Ericssonâs aim is to provide ICT players, decision makers, telecom operators, service providers, manufacturers, students, people interested in telecoms, and players in all other industries that depend on networks and telecommunications, with up to date insights on how networks are shaping up for the future. With this app, you can choose from over 200 Ericsson Review articles, up to 40 current white papers and over 100 research papers. The content covers a wide range of telecom-related topics from next-generation video compression to MIMO performance characteristics and how to reliably manage the switch to IPv6Each section of the app is updated automatically as Ericsson publishes new information on its website, which we do on a continuous basis. Use the search function in the app to select the content that interests you most. A copy of the article/paper will be stored on your device and a notification will be sent to your app as new content is published. Enjoy our technology insights.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1378109018805",
+        "starRating": "2",
+        "title": "App is not very useful",
+        "comment": "Not even screen rotation is supported, impossible to read on phone.  Also app is huge.",
+        "commentId": "gp:AOqpTOHSgkZId7a3gJgS44vNE9eY4UNKsS9OHlVQNXvNLsXQmj2fiaRiYl4HxfPqMttLhptC7pGtvIHvl2zLADg",
+        "author": "Szilveszter N\\303\\241das",
+        "authorURL": "http://lh5.googleusercontent.com/-B97_NI1zLlY/AAAAAAAAAAI/AAAAAAAABVI/kCKoEHgeVNw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-B97_NI1zLlY/AAAAAAAAAAI/AAAAAAAABVI/kCKoEHgeVNw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1375399084158",
+        "starRating": "4",
+        "title": "Missing Mobile Devices Perspective",
+        "comment": "Content is great but could have been adapted for tablet and smartphones reading.",
+        "commentId": "gp:AOqpTOF5LGRK1OQSKsFlqbgjLtTMCUkJEV8iloozrx2bz1mOB8O7gS23jKXq-XNWKOElsxJpqIH7d5vNVgLJ3Kw",
+        "author": "Gustavo Lima",
+        "authorURL": "http://lh3.googleusercontent.com/-UlsOwmL0o7g/AAAAAAAAAAI/AAAAAAAAJBA/LVZQQA-xKr0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-UlsOwmL0o7g/AAAAAAAAAAI/AAAAAAAAJBA/LVZQQA-xKr0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.ericsson.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

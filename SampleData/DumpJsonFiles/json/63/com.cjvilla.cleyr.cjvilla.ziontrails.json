@@ -1,0 +1,38 @@
+{
+  "title": "Zion National Park Trails",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cjvilla.cleyr.cjvilla.ziontrails",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 5, 2013",
+  "version": "1.04",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cleyr.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cjvilla.cleyr.cjvilla.ziontrails",
+  "extendedInfo": {
+    "installSize": "17M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This handy guide contains descriptions and trail maps for over 30 National Park Service trails in Zion National Park! The maps and route information are included with the app download. After that, no Internet connection is required to use them.If you enable your GPS, you can see exactly where you are on a trail.Immediate Map Access=================Unlike other apps, our offline map is installed with your app download. Once you download Zion National Park Trails, no further cell phone connection is needed to use our map. As long as you have a GPS signal, you can see where you are in the park, from anyplace in  Zion. If you can get a GPS signal, you will know where you are! Our offline map is very handy because once you leave the area of the Visitor Center and campgrounds, cell phone signals become weak or nonexistent. Plus, there is never a data charge for using our offline map.Other apps claim not to need WiFi or Internet access for the map. But in fact until the entire map is accessed and zoomed at multiple levels, these apps definitely need Internet access.Differences from the full Zion National Park app==================================This free Zion National Park Trails app only contains National Park Service charted trails. It does not contain \"unofficial\" trails, such as Menu Falls, Lower Pine Creek, and so on. These are only available from the full Zion National Park app, available for purchase in this store.The full app also includes an optional download of an entire US Geological Survey topo map.The trail routes in the full app, which include GPS guides to the trailheads, multiple photographs and descriptions from actual trail visits, are not included in this free app. This includes Virgin Narrows, East Mesa Trail, Taylor Creek Trail, and several hikes off the shuttle stops on Canyon Drive.Additionally, none of the GPS Drive Guides included in the full app are available from this app. This includes the East Zion scenic drive, the South Zion entrance drive, Kolob Canyons, and Canyon Drive.The full Zion National Park app also contains information about places outside of the park, such as Grafton Ghost town, and places in the nearby town of Springdale.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Bubbles Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.esepsoftware.bubbles",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "July 8, 2011",
+  "version": "1.0.4",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "4.1666665",
+  "contentRating": "Everyone",
+  "creator": "Denis Zyamaev",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.esepsoftware.bubbles",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Bubbles â is a puzzle game in Lines style. Colorful picture wont let you tire.Features: - original design; - original sounds; - animation; - simple to learn; - free; - records;",
+    "reviews": [
+      {
+        "timestampMsec": "1307190380021",
+        "starRating": "3",
+        "comment": "Hard to tell what colour bubbles are",
+        "commentId": "lg:AOqpTOEpdU2QAq2Lf9HaWomnmuRCI-hhc5odIPTtUARCbxkTzt5jjJaKYF8746DR0AsgZaAIyG01-uMwgz1jFQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

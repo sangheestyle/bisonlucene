@@ -1,0 +1,38 @@
+{
+  "title": "On My Way - Text Messaging",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.deardorffdigital.omw",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 28, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Deardorff Digital",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.deardorffdigital.omw",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Perhaps the fastest, most convenient way to text â before you drive.Let everyone know youâre \"on your way\" before you drive by downloading the most convenient â and perhaps fastest â texting app. With just three taps, you can text preset messages like \"Running late\" or \"Be there in 10.\" Just tap your contact, tap your message and tap send. You can also add texts of your own or modify any of the preloaded texts. If you thought texting was quick before, wait until you try On My Way ... the ultimate texting shortcut!Features:On My Way saves you time! Now, your most common texts are preloaded and ready to send immediately.Scroll through your contacts and text messages in seconds, and send a text in just three taps. Select your contact with one tap, your message with a second tap, and send. Tap, tap, send!Use or modify any of the preloaded texts to whatever message you want. Or, add new texts â thereâs no limit. It features one of the coolest interfaces for a mobile text messaging app.Assign each of your contacts to a different color car avatar and add a photo if you desire.With a texting shortcut this convenient, thereâs no reason to text and drive. You can quickly let everyone know where you are going â before you start the car.",
+    "reviews": [
+      {
+        "timestampMsec": "1348880428245",
+        "starRating": "5",
+        "title": "Great idea..",
+        "comment": "I love the layout of the app and how easy it is to use.",
+        "commentId": "lg:AOqpTOGsB5KT7VBWO5kKZIMIimcXLy0LuiAewiehI7kxrR9dR0aScJgvDWQLt83lxz72EjOtE0D1sg9uVx2dHNA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.CAMERA",
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Best Tom and Jerry Cartoons HD",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.androidappmaker.classictomandjerryvideos",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 14, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "10",
+  "rating": "4.3",
+  "contentRating": "Everyone",
+  "creator": "True Devotee",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.androidappmaker.classictomandjerryvideos",
+  "extendedInfo": {
+    "installSize": "391k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Watch High Quality Tom and Jerry videos on your Android phone for FREE. **Easy to Use****New videos every 2 days****Watch videos in full screen******NOTE****This app requires 2G/3G/4G/Wifi Internet Connection. The quality of the streaming video depends on the type of internet connection.Permissions used :1) Internet/Access_Wifi_State: To stream high quality cartoons from youtube.2) WriteExternalStorage: To temporarily download the thumbnails of the cartoons from the server. This is done to reduce the size of the android application. DISCLAIMER: The content provided in this app is hosted by YouTube and is available in public domain. We do not upload any cartoon videos to YouTube. This app is an organized way to browse and view these YouTube Videos to make it convenient for kids.",
+    "reviews": [
+      {
+        "timestampMsec": "1377369545603",
+        "starRating": "3",
+        "comment": "Man.. Tom and Jerry was da shitt growing up",
+        "commentId": "lg:AOqpTOEBiSUiSH5RiDy29eiMoQ490UI18lo5Ui03FjY_beUaPkOuDnaGDKBugifO5jFet6eQ9-hrIEEACntbGmM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

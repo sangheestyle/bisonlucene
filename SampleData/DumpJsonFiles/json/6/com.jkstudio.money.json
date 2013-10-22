@@ -1,0 +1,39 @@
+{
+  "title": "Money",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jkstudio.money",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "March 25, 2012",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Jack Shen",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jkstudio.money",
+  "extendedInfo": {
+    "installSize": "790k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Free with Notes is a easy-to-use and powerful accounting financial software.your monthly salary unknowingly used the cleaners? A sense of something not buy money?That is because you are not using an effective and easy-to-use financial management software, With 'Money' of this financial software, you will be able to record every revenue and expenditure, statistical functions provided by the software to let you always know this day anytime, anywhereThis week, this month's income and expenditure records.Use \"Money\" need only one hand can operate,Lets you took out his cell phone at any time recorded at the time the balance of payments.The \"Money\", The interface layout is reasonable, beautiful and elegant, simple, absolute financial management is a good helper in your life.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "IWA World Water Congress 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.iwa2012busan",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "September 7, 2012",
+  "version": "3.3.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.iwa2012busan",
+  "extendedInfo": {
+    "installSize": "3.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The IWA World Water Congress & Exhibition is a high-profile event that attracts 5,000 water professionals, companies and institutions from across the globe. The event is organised by the International Water Association (IWA) and will be held in Busan, Korea.The event is an opportunity for the community of world-leading water professionals to meet, exchange ideas, explore the state of the art and debate the key issues underlying the science and practice of water. Key themes are:â¢\tIntegrated urban water systemsâ¢\tManaging utilities and their assetsâ¢\tWater treatment technologiesâ¢\tWastewater treatment and reuseâ¢\tWater and healthâ¢\tWater resources supply and sustainabilityâ¢\tWater, climate and energy",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

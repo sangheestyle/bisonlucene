@@ -1,0 +1,29 @@
+{
+  "title": "OBDII DTCdb Demo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.carruro.dtcdbdm",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 9, 2013",
+  "version": "1.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "12",
+  "rating": "3.5833333",
+  "contentRating": "Everyone",
+  "creator": "carruro",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.carruro.dtcdbdm",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "OBD Diagnostic Trouble Codes Database Demo Version 1.0.Look for the full version with over 16000 codes and over 22 brand names.Local database used, no internet access required when English code description required. For other languages Google Translate is launched, Google Translate requires internet connection. Tested on both low and high end devices. From Android 1.6 to Android 4.1.Perfect companion for non-descriptive (numeric only) code readers.Codes are searched for with a wildcard based matching. Type in a full or partial DTC pattern and specify a manufacturer.If an specific manufacturer is selected its database table and the \"Generic\" table are searched for.Manufacturers included in current version are:ChryslerFordGMHondaNissanToyotaVolkswagenIf only a generic code is required specify \"Generic\" as manufacturer for a list of codes that apply to all manufacturers.OBD, OBD2, OBDII, DTC, English.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

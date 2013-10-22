@@ -1,0 +1,216 @@
+{
+  "title": "CoovaAX Wi-Fi Hotspot Utility",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coova.android",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "November 10, 2012",
+  "version": "1.0.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "80",
+  "rating": "4.175",
+  "contentRating": "Low Maturity",
+  "creator": "Coova Technologies, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coova.android",
+  "extendedInfo": {
+    "installSize": "735k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "CoovaAX is a Wi-Fi hotspot utility. Use it to login to captive portal hotspot networks using the WISPr XML method of authentication. Also use it to log the scanned signals along with GPS location information for display on a map. Optionally have the app auto-login to known networks. Supports WISPr 1.0 and 2.0 using EAP-TTLS/PAP or EAP-MD5.Keywords: Wi-Fi, Signal Mapping, Captive Portal, WISPr, XML, EAP, EAP-TTLS, EAP-MD5, FON, BT FON, CoovaChilliCoovaAX Wi-Fi Hotspot Utility=============================- Login to captive portal networks using WISPr 1.0 or 2.0.- Log and map Wi-Fi hotspot signals around you. A \"configured network\" is one which is configured in the phone's Wi-Fi manager. These are the networks you find in the system Wi-Fi preferences. On the main CoovaAX screen, click on \"Configure Wi-Fi Setting\" to get to the phone's Wi-Fi settings. Go there to configure any secure networks you want to connect to. Menu / Settings===============\"Start automatically\" will enable CoovaAX whenever the connectivity has changed.\"Stop automatically\" will stop CoovaAX (if started automatically) when either not using Wi-Fi or when already Online.\"Auto-login\" will have CoovaAX automatically login to known (by SSL certificate) Login Servers.\"Default username\" is the default username to show in the login form and for EAP auto-login.\"Default password\" is the default password to show in the login form and for EAP auto-login.\"Auto-add networks\" will have CoovaAX automatically add open Wi-Fi signals to the phone's configured networks list.\"Auto-add SSID prefix\" will limit the above auto-add to those signals with the given prefix.\"WISPr version 1 only\" will limit CoovaAX to using WISPr 1.0 (without EAP) even if WISPr 2.0 is advertised.\"WISPr 2 EAP method\" allows the selecting of EAP-MD5 or the default EAP-TTLS/PAP.\"Log Wi-Fi signals\" will have CoovaAX log seen signals to a SQLite database on the SD card.\"Log GPS location\" will additionally log the GPS location of the signals (required for mapping).\"Keep scanning\" to do a very aggressive mapping where the phone is kept scanning.Map / Menu / Settings=====================\"Show satellite\" will show the Google satellite feature.\"Show open only\" will limit the shown signals open ones.\"Show configured only\" will limit the SSID to the list of the phone's known SSIDs.\"Minimum level\" will limit the shown signals to the given level, default to -90dbm.\"SSID prefix\" will limit the shown signals to the given SSID prefix.Databases=========CoovaAX uses SQLite databases which it puts on the SD card for easy file management.Auto-login==========The auto-login feature will log you in automatically to networks protected by either an SSL portal or EAP-TLS based WISPr 2.0 method that you have successfully logged into before. If you have not logged in before, then you should confirm the SSL certificate when presented with the Login dialog. If everything looks right, then login. From then on, using auto-login, you will be logged in automatically if the SSL certificate matches from before.Mapping=======To begin using the mapping feature, turn on both \"Log Wi-Fi signals\" and \"Log GPS location\" in the preferences found on the Menu / Settings page. Then see the map by selecting Menu / Map. When in the map, select Menu / Settings to tune what signals are displayed.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1375644899015",
+        "starRating": "5",
+        "title": "Simple and easy to use",
+        "comment": "The same job as BT Wi-Fi but much better.",
+        "commentId": "gp:AOqpTOGs0_IiUukHwCxh56owwoPweCJtXh1Ga3QdIswqGU7dnA9GoKEgXCb1dqbYle6xv7mz8Ne2UzANOzI_9Tk",
+        "author": "Will Dickson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1355501569638",
+        "starRating": "1",
+        "title": "Doesn\\'t do what it says it can do",
+        "comment": "I installed this to help me automatically log in to a captive network that I use regularly. It would not do that. Maybe it was the wrong kind of captive network, or maybe I didn\\'t configure it right; but the documentation is too poor for me to figure it out. Uninstalling...",
+        "commentId": "gp:AOqpTOGJVSvfrotYLu_COV6Kvcv9Q5gvBl9fqJ4hxskLls0d-T1q95HbHMi2XwmESzbl1LYjYCi21REw7NFCkLk",
+        "author": "Nathan Thern",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1362871227583",
+        "starRating": "4",
+        "title": "Handy & unobtrusive",
+        "comment": "Finally, an app that sits in the background and logs in seamlessly via WISPr when the WiFi network requires it. Works great with BT Wifi",
+        "commentId": "gp:AOqpTOFm7U4L_5X8-kkPG_a9DWKJwacN1D1sQoy-A4suhrz5Lzmx3aXR9yDY1Gnd11vMAtaP-Fe3SLbDWeo-geU",
+        "author": "Mark Heseltine",
+        "authorURL": "http://lh6.googleusercontent.com/-LwhwyX11TcI/AAAAAAAAAAI/AAAAAAAAAcE/FxV7yWVt-wg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-LwhwyX11TcI/AAAAAAAAAAI/AAAAAAAAAcE/FxV7yWVt-wg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1340764396989",
+        "starRating": "5",
+        "title": "Jon",
+        "comment": "I\\'m not one of these guy who rates his own apps. Yet I\\'m the average person who rates apps. This app truly is a must have when your signals lost . This works perfectly... Ashame they only give so many stars for a app that truly works.. Bet on it?",
+        "commentId": "lg:AOqpTOF2eL47OJ5juUc-vsd496yKCgCywpenQ7s0qZ4LTfar1Hnz1Z1-5cKMjgMWlLs1EFu6BXEr55061RaaAbE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1345142484525",
+        "starRating": "3",
+        "title": "Blinking LED",
+        "comment": "Causes my phone LED to blink green constantly in standby for no obvious reason - can this be disabled?",
+        "commentId": "lg:AOqpTOEdKY6wDjIg12GCkLyQY31aMp8ojYyuI9Xu1wGmntVLp76WrmEjrQ4l43lBRYDKGUlErXVcb-rhMdpkH60",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1346720514385",
+        "starRating": "2",
+        "title": "How it works?",
+        "comment": "No help? No explains? It works to find Wi-Fi around but you need a crystal ball to know what to do with it?",
+        "commentId": "lg:AOqpTOEkLLkOQTDKAew6yu_gJMAmAYBEW7TeATTZNfsLcLdvbWW5DytgV0fG1hiWIwOQwgI9JQnnrzpWCr4oe6k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1331368851907",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "Thanks",
+        "commentId": "lg:AOqpTOFRw_BJ3Qf_IILV7IetmSl1Vya7mCaQyUDlOREAo5i2iD2c4NrOPLEPrbrHV3A02qrgsAyeDcz8tEQGnM4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1341512705125",
+        "starRating": "5",
+        "title": "Spek187",
+        "comment": "Soooo far soooo good.",
+        "commentId": "lg:AOqpTOFemTloAXcUUYFcQciZcNRa-wxH0RFjZnzQ7vjShxZ6ik8E7-6iyZAn2dlUVH8gBE2bYxC69Y8M2u8PIh4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1308238979357",
+        "starRating": "5",
+        "comment": "Works well. Nice interface with lots of flexibility.",
+        "commentId": "lg:AOqpTOGpjI41NWzOu1YQqcxez6P1sKAlDXhKdOO2UG22374ye2qGHd_NhRtSrIyPowUm9xtliaIol1SMChGQxyg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1323987822361",
+        "starRating": "5",
+        "title": "Use",
+        "comment": "This app as a replacement for btfon in the UK and works great buy easy auto logging in and out that you control",
+        "commentId": "lg:AOqpTOHZgZTcsgGJMmVH35fS2p3wSxQvPvBfx-q8ykwrXcQxGZKjYAIDzjvwRNLUtg0M4B2PQxbndF12xPipP8E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1329072976842",
+        "starRating": "1",
+        "title": "App dangerous?",
+        "comment": "It may be a coincidence, but as soon as I installed CoovaAX on my Samsung Galaxy Nexus (running Android 4.0) my home WiFi hotspot stopped working. I removed the App, then rebooted my Modem, and it all worked again. So, beware!",
+        "commentId": "lg:AOqpTOHFz09_GIxtuCU0OTr9SJzCesMusCXpTXxRXzAaNwujxY0_hvYPUH3eBA9lkWpEo_qtsI-qBq0ClqYaR00",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1311758041067",
+        "starRating": "5",
+        "comment": "excellent, this app is just what i need, thanx",
+        "commentId": "lg:AOqpTOE7Np1ZKTfldPGIryYX32nJ16Djzxhutqdv6Wnf6VY1JcLlRwmPiHTljstaSMoIQgKUhb5yurh18bzlEdA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1317695590872",
+        "starRating": "5",
+        "title": "sdfsdf",
+        "comment": "sdfsdf",
+        "commentId": "lg:AOqpTOH6qfJaDw08Cf9zKJKOk_73X3TQn_rOyEKwmOsYtPY7uTHvMZ6z2utDzi_4Vzhu-aVKCE11Ryb-adp3RhI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344882802703",
+        "starRating": "1",
+        "title": "Contains Ad Mob",
+        "comment": "More Ad Mob software. Plenty of other ad free apps that can configure, locate open WiF for users. WiFi Manager is one.",
+        "commentId": "lg:AOqpTOEto9FVCMuam_fyOwKhCQE5RW7qPGunhAwIdxiFEQi_lNBUO8PE1Yn6E3urQOTqSSa0X9pijUdECObwapI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333410185648",
+        "starRating": "1",
+        "comment": "I installed it and it created thousands of APs on my phone that I can\\'t get rid of. Think I am going to have to reset it.",
+        "commentId": "lg:AOqpTOHzt0usjm-dYwjw13VbhNmMLS-1IzVnf5X8I9KXbdLdNy62AgSdDqGbmB5RYgFImXXQVgPDb518pUaQBnc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361982161588",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "I use this all the time. Very informative. I am a hardware geek and I always like to see what hardware the hotspot is running.",
+        "commentId": "gp:AOqpTOFozmwJ9GWCIgi9JwnvyBf1tyn_Z7TVPbG-Ivcyk1ZB4np-empBSixSOg6puixMQCjiHxfVzneRJlmax4Q",
+        "author": "Jim Steinbacher",
+        "authorURL": "http://lh6.googleusercontent.com/-8Y-aiSE9Pws/AAAAAAAAAAI/AAAAAAAAABc/X8NGzdpzQBA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-8Y-aiSE9Pws/AAAAAAAAAAI/AAAAAAAAABc/X8NGzdpzQBA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1349532478492",
+        "starRating": "5",
+        "title": "dk",
+        "comment": "so good.....",
+        "commentId": "lg:AOqpTOFQaPelyED6ivPPZAgi9r83u6fUkV9c6urmMDPY6aPPhju8_W0_Ge7EwB0ASuc2RLYmE_fIJrU29O9ldkA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372684357959",
+        "starRating": "1",
+        "title": "Sucks!!",
+        "comment": "Doesn\\'t work",
+        "commentId": "gp:AOqpTOFP51jIELgT3txgo7GRuNyg4ccZGuodk4hyWxSNiE3lGlX6YYUqWbYMDGLyOFdv3hUQjkz4AhhyGCt1UOU",
+        "author": "lisa mcguire",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1323406134704",
+        "starRating": "1",
+        "comment": "Dnt wrk",
+        "commentId": "lg:AOqpTOGamWXjBZrzwPX6oAlw_9djc_k7bU0R0Gvddq5q4olOLZ5b7F3V8dn5YnPGHd1U26St_QsZkBHcANfLgyo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

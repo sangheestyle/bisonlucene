@@ -1,0 +1,39 @@
+{
+  "title": "Colorado Springs PRC",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.COSPRC_135",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "April 18, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.COSPRC_135",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome to Colorado Springs Pain Relief Center, where our dedication to leading edge pain management technology and minimally invasive procedures is  surpassed only by our dedication to the personal quality care you deserve.  Our state-of-the-art center offers you access to the latest breakthroughs in pain management, including advancement diagnostics and treatment regimes.Our center in Colorado Springs is part of a nationwide expansion by Pain Relief Centers created to provide personalized comprehensive pain management services with unsurpassed compassion, care and comfort.Our Colorado Springs-based staff is part of a group of specially trained caring professionals at the forefront of pain medicine, providing comprehensive treatment for the management of acute and chronic pain syndromes throughout the front range.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.cloudninedevelopmentllc.COSPRC_135.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "GovCCM 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.cybercloudmobile2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 15, 2012",
+  "version": "3.6.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.cybercloudmobile2012",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "1105 MEDIA, INC.  is a leading provider of integrated business-to-business information and media. The markets we serve include Government, Education, Network & Enterprise Computing, Business Intelligence, Office Equipment, Industrial Health & Safety, Compliance, Security, Environmental Protection, Water & Wastewater, and Home Medical Equipment. We focus on technology, products, policy, regulation, and news delivered through an assortment of media including print and online magazines, journals, and newsletters; seminars, conferences, executive summits, and trade shows; training and courseware; and web-based services. 1105 is based in Chatsworth, CA, with primary offices throughout the United States and more than 300 employees. The company was formed in April 2006 by Nautic Partners LLC, Alta Communications, and President & CEO Neal Vitale.The 2012 Cloud & Virtualization, Cybersecurity and Mobile Government Conferences are scheduled for October 22 & 23, 2012 and are co-located at the Grand Hyatt Washington.  The combined events serve the federal, state and local government IT markets offering unparalleled opportunities for government IT buyers to connect with leading industry experts. The three events feature a conference with two tracks each, cross-conference keynotes, conference exclusive plenary presentations, a co-located exhibit hall with 50+ vendors and free education sessions hourly on Tuesday, October 23.",
+    "reviews": [
+      {
+        "timestampMsec": "1356906131135",
+        "starRating": "5",
+        "title": "Canggih!",
+        "comment": "Tetap juga dengan googleplay. .pertolongan yang sangat dihargai...tq!",
+        "commentId": "gp:AOqpTOHvaNphh55rxN1WG90-2GYnXLG0no_xKJOzd20rcGbGm0BY8sZiMilgGcjdyYafSnt92H3132zpPcmoIQ",
+        "author": "HAZLINA NGAH",
+        "authorURL": "http://lh6.googleusercontent.com/-_BFxWrzEJHg/AAAAAAAAAAI/AAAAAAAACNE/gNYcp41Qf5s/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-_BFxWrzEJHg/AAAAAAAAAAI/AAAAAAAACNE/gNYcp41Qf5s/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.cybercloudmobile2012.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

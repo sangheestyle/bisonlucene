@@ -1,0 +1,30 @@
+{
+  "title": "MxrSpur Spurious Analysis",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.engineers.mxrspur",
+  "category": "Tools",
+  "price": "$4.99",
+  "datePublished": "March 15, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Not rated",
+  "creator": "Engineers.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.engineers.mxrspur",
+  "extendedInfo": {
+    "installSize": "30k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "MxrSpur is a tool for Microwave Engineers. It will calculate mixer spurious response and power levels for spurs up to 5LO x 5RF. May be used to evaluate up-converters and down-converters. Allows microwave power level adjustments to evaluate spur levels versus LO power, RF power. Evaluate frequency plans. More: engineers.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

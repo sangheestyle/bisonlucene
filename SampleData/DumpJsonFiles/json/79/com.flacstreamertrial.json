@@ -1,0 +1,48 @@
+{
+  "title": "pureSound WIFI Trial",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flacstreamertrial",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "July 6, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "super sinful silicon software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flacstreamertrial",
+  "extendedInfo": {
+    "installSize": "766k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "I want BITPERFECT Lossless Streaming! The perfect audio streamer! Stream music or any sound from PC to Android; \"what you hear\" on your Windows PC.I created this app with one goal, working real-time audio streaming of what ever I'm playing on a PC to my phone via WIFI that results in no loss of quality.Now go throw out your expensive wireless headphones, use better \"real\" headphones and plug it into your Android phone.You can expect to have the best audio possible on your android device streamed from your computer. The audio is compressed in a way that the audio remains \"untouched\". That is the whole point of this application and I hope you enjoy it as much as I do. The free companion server application is *REQUIRED*, please download from http://www3.telus.net/~j.tully/puresoundwifi.htmlThis is the Trial Version, there is AppBrain Ads and infrequent sound playback to support the developer by purchasing the full app. The Full App is pureSound WIFI and is 99 cents.There is a minimal delay in streaming the audio, and can be adjusted by using the pre-buffer slider in app.Using the app Connect to the IP Address that is provided by the server application you downloaded from the website ( http://www3.telus.net/~j.tully/puresoundwifi.html ). Allow the server application thru any software firewall prompts.**** If you don't hear anything after connecting ensure volume is all the way up and that WIFI is actually turned on ****Features Overview:Lossless CompressionReal-time audio capture of \"what you hear\" on your computer streamed to android device/phoneLow CPU usage on Server Application with excellent multithreadingBitperfect CD Quality Audio Streaming, throw away analog wireless headphonesAndroid App is efficient, uses minimal cpu and ram/memoryResynchronization if WIFI signal is lost / lowCustomizable minimal latency or pre-buffer size. Choose a greater pre-buffer size if only needed.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1376592275828",
+        "starRating": "3",
+        "title": "Not compatible for me... yet",
+        "comment": "I downloaded the PC based Wifi audio server application, I had to install the Microsoft Visual C++ redistributable as suggested (32-bit required, even though my OS is 64-bit) The application started up and then explained I needed Stereo Mix enabled.  Developer has directed me to a virtual sound card which gets me installed but I have not yet got the app working.",
+        "commentId": "gp:AOqpTOEns-wN5aL8wppdu_vFynMFcI5dYwbCg6QsoL3Prryuj2_mKccvkDyO8FxnGeHuHPNzrG1OttRfih62",
+        "author": "Steve Welham",
+        "authorURL": "http://lh6.googleusercontent.com/-1RUEc3-3DhY/AAAAAAAAAAI/AAAAAAABbZ0/aUWHiUVHa3Y/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-1RUEc3-3DhY/AAAAAAAAAAI/AAAAAAABbZ0/aUWHiUVHa3Y/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1366589894534",
+        "starRating": "5",
+        "title": "Pure sound",
+        "comment": "Awesome app.  Love to use this with head phones when cleaning the house!  Blocks out the kids too. Music sounds really great compared to my wireless headphones that will cut out. Better sound quality. Thanks",
+        "commentId": "gp:AOqpTOEIt0veae1jwNRYvr-LW6q3ip8jucsFQJGzb3REih4WCy-3zo2fBHHaTQ83kK2Wis0IdRXAeSdroVpW",
+        "author": "Jessica Guenette",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

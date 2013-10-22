@@ -1,0 +1,39 @@
+{
+  "title": "Eye Clinics",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.JayMRubin_35",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "October 27, 2011",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.JayMRubin_35",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This application introduces you to the Eye Clinics of South Texas, and its owner Jay M. Rubin, M.D. Board Certified Ophthalmologist. It will give you directions to our clinics as well as phone numbers and emails to contact us. Also included will be several eye charts we use for monitoring various eye diseases including an Amsler grid for macular degeneration. If you have any questions please feel free to call our office toll free 1-877-826-2012 or visit our web site at www.JayRubinmd.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.cloudninedevelopmentllc.JayMRubin_35.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

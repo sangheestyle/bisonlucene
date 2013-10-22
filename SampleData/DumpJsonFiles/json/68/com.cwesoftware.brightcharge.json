@@ -1,0 +1,77 @@
+{
+  "title": "Bright Charge",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cwesoftware.brightcharge",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "August 2, 2012",
+  "version": "2.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "15",
+  "rating": "3.5333333",
+  "contentRating": "Everyone",
+  "creator": "CWE Software LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cwesoftware.brightcharge",
+  "extendedInfo": {
+    "installSize": "90k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Use your device's notification light to display the current charging status of your battery! This service will display how full your battery is while it is charging by changing the color of the notification light. Red means the battery is low, and as the battery charges, the light will transform up the color gradient to green! When the battery is fully charged, the notification light will turn blue.Instantly know how charged your battery is just by looking at your phone, even from across the room.This service automatically starts when a charger(AC or USB) is plugged into the device, and automatically shuts off when the device is unplugged!You must open the application once after installation before the service will work properly. After the application has been opened once, you do not need to open it again for the service to function properly. If you install this service while the device is plugged into a charger, you must unplug the device, and re-plug it back into the charger after installation before the service will work properly. Gives you the option to disable the notifications for the current charging cycle, or until re-enabled, in the settings menu.WARNING #1: While this application is active(while charging your device), the notification light will not blink for any other notifications, only for the charging status. If you require the notification light for something else while charging, disable this service for the current charge cycle in the settings menu.WARNING #2: This application will only function properly on devices containing a notification light with Red, Green, and Blue LEDs. Devices containing notification lights that do not support all three colors may have unexpected results. Devices with no notification light will not be able to use this application properly.WARNING #3The application may not be able to take control of the notification LED if another application already has control of it. For this reason, it appears the application does not work with HTC devices running HTC Sense.Tested on Galaxy Nexus and OG Droid. Please test on your device immediately after installation to ensure compatibility.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1353063677534",
+        "starRating": "3",
+        "title": "Cool app",
+        "comment": "Would be nice to have more customization. Like picking fully charged colour or blink pattern or just off. And would be nice if notification lights came through",
+        "commentId": "lg:AOqpTOE7ofmMyx_oJFdbOvp5_LSrZAxCPcQScrnzMUJZ4jQbbpO5XiBdfSnKecETev1ZE7ZABfVpXvvYU_gRdGA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1375451439981",
+        "starRating": "2",
+        "title": "STOPPED WORKING",
+        "comment": "Seems unable to function after the 4.3 Jellybean firmware update on my Nexus 10 tablet.",
+        "commentId": "gp:AOqpTOHhhNZmKpYxO-wznjorqOM0maxSoO32GgjxdzsumEiPJL3F6gdsWLMQpWtO0fdrGrGVRQQkFjCo8RDvO6w",
+        "author": "jose serrano",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1347929427121",
+        "starRating": "4",
+        "title": "Galaxy s3",
+        "comment": "Great idea! Too bad it doesn\\'t work :(  ... but it does make my light multicolored so I dont mind it (:",
+        "commentId": "lg:AOqpTOHMgPW1HB29n4i0riJrBO8MUvrLYeK9dK22cFErIs1Sxga89-_aBv0SeUqv2i49pYLesVew6GraFdFugU0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1344971085481",
+        "starRating": "1",
+        "title": "Not working on HTC EVO 3D",
+        "comment": "Does not work. Program runs but led light not reflecting state of charge.",
+        "commentId": "lg:AOqpTOHYMMAT3ZRCQjzu7bU8ld1dn0MP4c4ZfWdF5Hp75whGusByhZfpSAsp39j451_ZodLb0dRWLm15dNKN6pg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348610776305",
+        "starRating": "1",
+        "title": "Disapointing",
+        "comment": "I cant find an app that will change the color of the notification led on my htc wildfire",
+        "commentId": "lg:AOqpTOGm8bpIkEifCgEjSagr5tlzRpfjqFBvHlEqbbCbh56mNr_sAwnxSrB1OWLnTiV5kVZOK3TPmLsbVdqGjPg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

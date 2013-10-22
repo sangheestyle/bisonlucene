@@ -1,0 +1,36 @@
+{
+  "title": "After Call Tasker Plug-in",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brilliantintent.plugins.locale.settings.aftercallactions",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "October 31, 2012",
+  "version": "1.1.0.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7",
+  "rating": "3.2857144",
+  "contentRating": "Low Maturity",
+  "creator": "Brilliant Intent Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brilliantintent.plugins.locale.settings.aftercallactions",
+  "extendedInfo": {
+    "installSize": "219k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Plug-in for Locale (Tasker, Llama, Setting Profiles, ...) which allows you to perform tasks after incoming/outgoing phone calls.This is the 2nd beta and still misses a lot of features, but is in it's current state already a very handy tool.Basic actions that can be launched in a dialog-window that appears after a phone call ended (or a missed phone call):- call back- add event in your calendar- show/add contact details- send e-mail message- send sms/text messageAfter Call Actions Locale Plug-in is a \"setting\" plug-in for Locale. As such you will need an app that can handle these plug-ins: Locale, Tasker, Settings Profiles and/or Llama are possible options.Besides this plug-in, you will also need a \"condition\" plug-in that will trigger the event. The Brilliant Intent \"Call Monitor Locale Plug-in\" is designed for this, and can be downloaded via the links on this page.It is important that you can trigger a condition AFTER a phone-call (and not at the start), as the actions-dialog hides itself after 5 seconds of inactivity (so unless you have to act, you can just ignore it, it will go away by itself).In coming releases more options will be added:- configurable text templates for emails and text/sms messages- enable/disable actionsIn this new version you can add up to 4 custom actions that allow you to start app(s) of your choice.Again, this is still an early beta version. Please don't post bugs and/or problems in the ratings below. Only add reviews if you already like it in it's current state. Please mail bugs/problems to plugins@brilliantintent.com so I can fix them!Enjoy!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

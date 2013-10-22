@@ -1,0 +1,40 @@
+{
+  "title": "Base Dance",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cBaseDance",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "December 10, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "CalMacStudios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cBaseDance",
+  "extendedInfo": {
+    "installSize": "211k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Download Base Dance's Official Android App!The Official Android App for base-dance.com. Check out our latest blogs, photos, and more!Base Dance North West Dance Academy, Street and Modern Dance",
+    "reviews": [
+      {
+        "timestampMsec": "1355234144383",
+        "starRating": "5",
+        "title": "Only the best from base",
+        "comment": "Wicked and it\\'s frees",
+        "commentId": "gp:AOqpTOEc6wb7lT7Q_vLLTH7KPhclUzfAFE7R01OTRd8WnzAwr2ACpSafTrcmhrN5KOosK6RnTWzcJa6qnCnLOw",
+        "author": "Chris lloyd",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.webkit.permission.PLUGIN",
+      "com.cBaseDance.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

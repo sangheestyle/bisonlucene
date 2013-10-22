@@ -1,0 +1,40 @@
+{
+  "title": "Casual Game Rankings &",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=kr.po.mobileyoutobe02",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "March 15, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "용자야",
+  "creatorURL": "https://play.google.com/store/apps/details?id=kr.po.mobileyoutobe02",
+  "extendedInfo": {
+    "installSize": "397k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "ìºì¥¬ì¼ ê²ì ìì&ì¶ì² ì´íë¦¬ì¼ì´ììëë¤.ê²ì ë­í¹ì ì£¼ê´ì ìëë¤. ë¤ì´ë¡ëìì íì ì ì¢í©íì¬ ììë¥¼ ë­í¬ìíìì¼ë ê°ì¸ì ì£¼ê´ì ì¸ ìê°ë í¬í¨ë©ëë¤.1. í¨ììì´ì½2. ëª½í¤ë°°í(Swing Shot)3. Jumping Monkey4. ìëì£¼ - ëë¬¼ êµ¬íê¸°!5. ë¦¬í ì§íê´ - ì¸ê³ ëì 6. ë³´ì Jewels Pro7. Mega Jumpììë ë§¤ì£¼ ìë°ì´í¸ ë©ëë¤.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.VIBRATE",
+      "kr.po.mobileyoutobe02.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Calvin College Crib Sheet",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cc.cribsheet.calvin",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "October 11, 2012",
+  "version": "2.3.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "10",
+  "rating": "4.4",
+  "contentRating": "Low Maturity",
+  "creator": "Calvin Alumni Association",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cc.cribsheet.calvin",
+  "extendedInfo": {
+    "installSize": "8.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Created by the Calvin Alumni Association for Calvin College alumni, \"Crib Sheet\" is your way to stay current with campus news, sports highlights, alumni events and benefits and much more. The app is also your \"real world\" crib sheet on topics like money, housing, etiquette, health insurance and others.",
+    "reviews": [
+      {
+        "documentVersion": "2.3.1",
+        "timestampMsec": "1350272033825",
+        "starRating": "5",
+        "title": "Parent & Alum",
+        "comment": "This is a great way to keep in touch as both an alum and as a parent of a current student. The latest update adds even more great information.",
+        "commentId": "lg:AOqpTOHeteb6Ys6xvQNHGlw4acTiepzizx1pMVKc9YR8ZyomIGnjqyZIiN0BI7BNm2GftcEHVoMIZrY7Es2ce4A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.3.1",
+        "timestampMsec": "1359086610553",
+        "starRating": "4",
+        "title": "cute app",
+        "comment": "Love this app\\'s attitude, light hearted but informative.",
+        "commentId": "gp:AOqpTOGpsKHo8bWQr1pRP29bsW0WDi-Zsgbyjb1800JTlXWgPv1EJuFIsInOOCXNkp0EOYwBGmjF_j7H0FhnCRs",
+        "author": "Keith Whitehouse",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.3.0",
+        "timestampMsec": "1348865913473",
+        "starRating": "4",
+        "title": "Neat little app",
+        "comment": "The news feed section is great. As an alumnus who never actively searched for Calvin updates, it keeps me in touch with things that I wouldn\\'t hear about otherwise.   The only issue I\\'ve noticed is the share via email link seems to be broken. It takes me to my Gmail inbox, but doesn\\'t open a new email with the article I want to share. The feedback email link does the same thing, so I was unable to alert the developers directly.",
+        "commentId": "lg:AOqpTOG0D3RaK7T3_Va9ZnovvnOiQyRIbDkBD-WqipPpUoi0wf9uAeEvAmDMNdmMoEy6grW8eoAk4HrWlLkpa84",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1337437415335",
+        "starRating": "1",
+        "title": "This app blows",
+        "comment": "It\\'s basically a wrapper for Calvin\\'s social network feeds. If I wanted that I could follow or like them myself.",
+        "commentId": "lg:AOqpTOEJuOVFTUtRryEV5HYszy08pSRi5lRucDDo6ehJ-jmFUfs7vp8LiLFHaatA8p_um_B_a43aizzjlf-Nd-s",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.cc.cribsheet.test.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

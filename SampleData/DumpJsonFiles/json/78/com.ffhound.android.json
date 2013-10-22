@@ -1,0 +1,72 @@
+{
+  "title": "FFHound!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ffhound.android",
+  "category": "Social",
+  "price": "$2.27",
+  "datePublished": "April 10, 2012",
+  "version": "1.3.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "41",
+  "rating": "4.3414636",
+  "contentRating": "Low Maturity",
+  "creator": "crino",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ffhound.android",
+  "extendedInfo": {
+    "installSize": "795k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "FFHound is the ultimate FriendFeed client that works as you expect!Features:- Multiple account;- Create favorites list;- Notifications on new DM (with custom scheduling);- Browse all feeds;- Geo tagging on posts;- Realtime updates;- Fast browse;- Live folder for fast access;- Languages: English, Italian, Turkish;For any comment or suggest use the group on friendfeed (http://friendfeed.com/ffhound)",
+    "reviews": [
+      {
+        "documentVersion": "1.3.5",
+        "timestampMsec": "1334176342414",
+        "starRating": "5",
+        "title": "galaxy S2",
+        "comment": "works great",
+        "commentId": "lg:AOqpTOFJXHB-xFn_8X7tKbBdpO1840RPiH2EibxZfaBq1detyYEQcJ1rYjh1FTWpSyy7V7p0XVa7SXoeND82hw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.1",
+        "timestampMsec": "1321377057381",
+        "starRating": "3",
+        "title": "nice with major faults",
+        "comment": "nice app, but user avatars near posts and comments are often wrong, and I can\\'t do anything with comments except posting",
+        "commentId": "lg:AOqpTOH7kBrjsJtSXCRwJzctHI92-RC89On6YQO9HFK1ygfsyk4_Z2MagpDoXctZQk31kPiAWy9Vf-7lMkCijw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.6",
+        "timestampMsec": "1301074505369",
+        "starRating": "5",
+        "comment": "Great application. But images must be open in your application. thanks...",
+        "commentId": "lg:AOqpTOHY8WKYB1wzfjJWd9JS8fUWCzjQclZm1x0ItrUpC-jnXz7gLVxuVxGIAjTz9bIxgZ30RCyI1lcpoHEfig",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.6",
+        "timestampMsec": "1298932931758",
+        "starRating": "5",
+        "comment": "I love this FF client. Before I used it on iphone and now using on Android. It works perfectly and greets all needs",
+        "commentId": "lg:AOqpTOGh9Bv5ZePwIFOkQ_FY4HyfX675lxR9KliAusgK--T4WM8ZBs1IJALUcoQOARIab9oH-uewYrnFFbMimw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

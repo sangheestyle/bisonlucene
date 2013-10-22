@@ -1,0 +1,38 @@
+{
+  "title": "Back Key End Call Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brink.backkeyendscall.pro",
+  "category": "Communication",
+  "price": "$0.99",
+  "datePublished": "August 22, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "63",
+  "rating": "4.698413",
+  "contentRating": "Everyone",
+  "creator": "Brink Applications",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brink.backkeyendscall.pro",
+  "extendedInfo": {
+    "installSize": "101k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "With this app you can end ongoing phone call with Android's back button.This is the version with NO reminders and NO Ads!  Are you annoyed when you try to end a call with the back button and instead of hanging up, Android takes you the previous screen and the call in still active!? Now that is handled by Back Key Ends Call app!  It is that simple! Right after installation everything is set up and ready to go - the next time you call someone, all you have to do is press the back button and the phone will hang up.  Anyway, have in mind that if you press Android back key when the screen is off, nothing will happen and this is expected behavior as, for instance, you could hit the back key by accident when phone is close to your face.  Some other great features inside:   â No Internet access   â No Ads   â Silent mode - no reminders are shown in Android status bar or any other notifications   â Setting to lock the screen when you end call, even if you hang up without this app.   â Vibrate phone when you end call with back key (great for accessibility).  Have in mind that this app is extremely lightweight:   â The service is started only when a new call is initiated and is stopped always when the call ends.   â Small in size.   â No Internet access.  Now the greatest missing feature in Android is finally here!   Please make sure to check with a test call of your choice that the app is working on your device.  If the app is not working, please do not leave negative rating - instead write to our email,  and we will do everything possible to fix your issue. Of course you can reject this app and get your money back as this is provided by Google Play.",
+    "reviews": [
+      {
+        "timestampMsec": "1377515753982",
+        "starRating": "4",
+        "comment": "doesnt work with galaxy grand duos phone :-(",
+        "commentId": "lg:AOqpTOGZP1Wdr4EaEccTfKSny44FH2_WQrVMbn109iETyrrok5efRGCuAYMn4L_PUg8sX1ZAnOBgFraGNJWpPg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.GET_TASKS",
+      "com.android.vending.CHECK_LICENSE"
+    ]
+  }
+}

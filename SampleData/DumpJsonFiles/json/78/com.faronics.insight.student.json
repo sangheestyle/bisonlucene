@@ -1,0 +1,41 @@
+{
+  "title": "Insight Student",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.faronics.insight.student",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 25, 2013",
+  "version": "7.71-2274.7710",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Faronics Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.faronics.insight.student",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Insight student requires an Insight Classroom environment to function.  To learn more about Faronics Insight, visit http://www.faronics.com/enterprise/insightHarnessing TechnologyFaronics Insight helps instructors harness the power of technology to deliver a better learning experience. Insight puts teachers back in control of the classroom with an easy-to-use Teacher Console. Equipped with superior monitoring and control features, it creates an interactive lesson with more communication and collaboration tools.On task InstructionInsight makes it easy for instructors to command control of the classroom sooner and keep students focused on the task at hand.. Thanks to application and web limiting, Insight eliminates tempting distractions like games and instant messaging. Using the screen-monitoring, instructors can be confidant students are working on the assignment.Enable CollaborationInsight creates a more interactive learning environment where instructors can share their screen with the class or share a userâs screen with other users. Itâs even easier to communicate with the ability to broadcast messages and the handy chat feature allows even the shyest students to ask questions without raising their hand. Teachers can hold classroom votes and gauge understanding using the built-in testing feature.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.GET_TASKS",
+      "com.faronics.insight.student.ACCESS_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

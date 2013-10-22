@@ -1,0 +1,71 @@
+{
+  "title": "CME FCU Mobile Banking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cmecu",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "November 20, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "4.714286",
+  "contentRating": "Low Maturity",
+  "creator": "CME Federal Credit Union",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cmecu",
+  "extendedInfo": {
+    "installSize": "857k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Access your CME Federal Credit Union accounts anytime, anywhere using CME@Home Mobile Banking. Quickly check your balances, pay bills, deposit checks, transfer funds and locate ATMs and banking centers. Use your current login information to start banking today. Features: â¢Check Account Balances â¢Transfer funds between accounts â¢Pay Bills** â¢Find our ATMs and Branch Locations using the GPS system provided by your device.*** *Must be a member enrolled in Online **Online members must first setup transfer and bill pay accounts prior to using these features. ***This is limited to locating our branches and ATMs. Please refer to your carrier for any fees that may apply.",
+    "reviews": [
+      {
+        "timestampMsec": "1355400703213",
+        "starRating": "4",
+        "title": "Finally",
+        "comment": "I have been waiting for this! Its really helpful I just wish you could see whats pending as well. But overall its great",
+        "commentId": "gp:AOqpTOFRPmRaP0yLL6gu_YUjWibVNBzX4ZSf54jLNhs79zjPVrH7cHVKpiwCfbPclAwD1zJXVSvHtQR_Zw06lw",
+        "author": "Chaniqua Berry",
+        "authorURL": "http://lh3.googleusercontent.com/-KqUB3dg-28M/AAAAAAAAAAI/AAAAAAAAABM/pP0ZRUNlHxM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-KqUB3dg-28M/AAAAAAAAAAI/AAAAAAAAABM/pP0ZRUNlHxM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368897416605",
+        "starRating": "4",
+        "title": "Might Close my Chase account?!.",
+        "comment": "Finally I have been waiting for this! I",
+        "commentId": "gp:AOqpTOGyvkmk8dwhk5l-l2S3pTH10ej1fVaPRRfpItiogMHRl4hzBUerkKTDip_GDf3vlFHX_LtBr2XKk00qug",
+        "author": "Randy Beavers",
+        "authorURL": "http://lh4.googleusercontent.com/-3ss5NPLkQCw/AAAAAAAAAAI/AAAAAAAAC2M/mrC6--fjlZE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-3ss5NPLkQCw/AAAAAAAAAAI/AAAAAAAAC2M/mrC6--fjlZE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355630060753",
+        "starRating": "5",
+        "title": "I\\'m excited",
+        "comment": "My first use went flawlessly.  And I\\'m so glad this helpful app is finally available. Thanks!",
+        "commentId": "gp:AOqpTOE--Yhmj2NlNG2MZzY7BGqO4TS19wK0Z89iG8RemJVbEBhKb7b_oDebDghrPUtARYeaTeKJREyo0EhCfw",
+        "author": "Marty Ellis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369784656050",
+        "starRating": "5",
+        "comment": "Awesome!!",
+        "commentId": "gp:AOqpTOEMS9PV21_AD_9HzL9itd5FZi8Wt5kgioXHNLNwmgpqJ_Dy9RDDcnhflOEof1-542P3vssPNx8GmAzEgg",
+        "author": "Joshua Neptune",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

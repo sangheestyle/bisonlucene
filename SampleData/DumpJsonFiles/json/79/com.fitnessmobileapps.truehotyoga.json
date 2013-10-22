@@ -1,0 +1,33 @@
+{
+  "title": "True Hot Yoga",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fitnessmobileapps.truehotyoga",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "February 27, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Fitness Mobile Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fitnessmobileapps.truehotyoga",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Download the True Hot Yoga Android App today to plan and schedule your classes! From this Android App you can view class schedules, sign-up for classes, buy class packages, view ongoing promotions, as well as view studioâs location and contact information. You can also click through to our Facebook and Twitter pages! Optimize your time and maximize the convenience of signing up for classes from your Android! Download this App today!Also be sure to check out our website at: http://www.truehotyoga.com/",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      ".permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

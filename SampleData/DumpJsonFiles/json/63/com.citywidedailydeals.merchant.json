@@ -1,0 +1,30 @@
+{
+  "title": "City Wide Merchant App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.citywidedailydeals.merchant",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "April 11, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "City Wide Daily Deals",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.citywidedailydeals.merchant",
+  "extendedInfo": {
+    "installSize": "430k",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "City Wide Daily Deals Merchant app is a free app for Merchants who are running a Feature Deal and would like to manage incoming vouchers using their Android phone.Merchants can: - Login to their account- Change language- Input redemption code manually- Scan qr code- View coupon status- Mark coupon as used",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.KILL_BACKGROUND_PROCESSES"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Answer by Shake",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bugaudin.app.shake",
+  "category": "Communication",
+  "price": "$0.99",
+  "datePublished": "March 23, 2011",
+  "version": "1.4.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "2.5",
+  "contentRating": "Everyone",
+  "creator": "Bugaudin Ramazanov",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bugaudin.app.shake",
+  "extendedInfo": {
+    "installSize": "23k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Just shake your phone to answer the incoming call.Very useful when you are in gloves etc.It has enable/disable and acceleration force settings.Also you can test your acceleration force by clicking 'Test your shake' button.If you have any issues please contact me first.",
+    "reviews": [
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1310178085402",
+        "starRating": "1",
+        "comment": "Does not work EVO 4G",
+        "commentId": "lg:AOqpTOHDMtzWe23Hr5f7ta5T3cCqWzIKJnKoLByKS_kzF7ZjyaFWnY0ClI1WKROivRDcDIsBqTGKkMKAPQWDOD0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.MODIFY_PHONE_STATE"
+    ]
+  }
+}

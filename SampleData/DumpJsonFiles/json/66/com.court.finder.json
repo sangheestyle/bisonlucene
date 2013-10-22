@@ -1,0 +1,46 @@
+{
+  "title": "Tennis Court Finder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.court.finder",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "December 28, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Kush M",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.court.finder",
+  "extendedInfo": {
+    "installSize": "669k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "*This App only finds courts in the BAY AREA (around San Jose, CA)Ever had trouble locating a tennis court! Ever gone to a court which is full and have had to find nearby courts! If so, Tennis Court Finder is the app for you. This app was developed to provide users with access to tennis courts around them. Using GPS, this app locates courts around you and lists them in an easy to use manner for your benefit. Users have the ability to add courts to favorites and share them with friends and family members. Never do you have to waste countless minutes searching Google for courts around you. This app does it all!Key Features:Find Nearby Courts\t-Lists courts within 2, 5, or 10 miles of your location\t-Sorts courts by distance, alphabet, or city\t-Search for courtsCourt Details\t-Each court has an address, number of courts, location type, access, timings, and surface\t-Get navigation/directions to the courts        -Email/Text court information to othersFavorite Courts        -Add/Remove courts from favorites list\t-Personalize your own list of favorite courtsSettings\t-Set distance to find courts         -Enable/Disable finding private courts        -Select sort method (Name, City, Distance)Recommend Court\t-If you are at a court that isnât part of the database you can send information to me and I will update the Database in the new release.Please recommend new features and feel free to send me an email (findcourts@gmail.com) for any bugs that you may find. I would greatly appreciate any emails about bugs sent to me before any bad reviews are posted on the play store. This will always be a free app.FAQ1. Why am I not getting a list of courts?\t-Finds courts only in the bay area\t-Your GPS may not be on\t-Your Distance Within needs to be changed\t-If the above requirements are met, refresh the App2. How do I enable GPS on my phone?\t-Go to Location Service in Settings3. How do I locate courts over 10 miles from my current location?\t-Do a search with the city or any court information (Name, city, zip, street name)4. How can I recommend a court which isnât in your database?\t-You can use the Recommend Court feature\t-You can email me at findcourts@gmail.comTags: Tennis, Court, Courts, Locator, Finder, Bay Area, Play",
+    "reviews": [
+      {
+        "timestampMsec": "1361460370095",
+        "starRating": "4",
+        "title": "AVman",
+        "comment": "Good app.  Need a comment or remark icon just like favorite star icon in this app for parks with only basketball court or non-tennis court.  Thanks for writing this app :)",
+        "commentId": "gp:AOqpTOHDU982OAtJTRSHetSF1g5PhpT0bL2J9Fq9ETD7DtIbZv-Pl21ZqyTyCNp-tnTdlj5bD7t3IAFK__Emzg",
+        "author": "Dung Young Nguyen",
+        "authorURL": "http://lh5.googleusercontent.com/--G8uYNig234/AAAAAAAAAAI/AAAAAAAAGp4/ok2TH4PXQyE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/--G8uYNig234/AAAAAAAAAAI/AAAAAAAAGp4/ok2TH4PXQyE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359071654997",
+        "starRating": "5",
+        "comment": "Very helpful and accurate!",
+        "commentId": "gp:AOqpTOF8d7XCr7Hraid6efRnPlnd9g0Ral6d8vNsMwwR4Fbxz8KQxfbnBU0KrltM3xjz6BrfKPIQ7W7uxzaVfQ",
+        "author": "Pooja Kohli",
+        "authorURL": "http://lh6.googleusercontent.com/-rx2NQHY-7bc/AAAAAAAAAAI/AAAAAAAAAAA/QBx_O_MxLuE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-rx2NQHY-7bc/AAAAAAAAAAI/AAAAAAAAAAA/QBx_O_MxLuE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "pluto personal finance manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.drake.pluto",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 27, 2013",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Felice Dragone",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.drake.pluto",
+  "extendedInfo": {
+    "installSize": "514k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "ATTENZIONE! la versione 1.5 di pluto personal finance ha subito cambiamenti al database, quindi vi consiglio di effettuare un backup prima dell'aggiornamento.Se avete suggerimenti per migliorare l'applicazione, oppure volete segnalarmi un bug vi prego di contattarmi all'indirizzo mail dragonefelice@gmail.comGrazie.Pluto Ã¨ una applicazione finanziaria personale che unisce un registratore di spese, e un budget manager.Pluto offre una ricca finestra dettagliata nelle tue finanze personali, un sistema semplice ed intuitivo di inserimento dati e una completa reportistica dei dati.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

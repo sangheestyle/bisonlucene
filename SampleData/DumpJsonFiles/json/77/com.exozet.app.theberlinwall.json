@@ -1,0 +1,58 @@
+{
+  "title": "The Berlin Wall",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exozet.app.theberlinwall",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 24, 2013",
+  "version": "1.2.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "89",
+  "rating": "4.674157",
+  "contentRating": "Low Maturity",
+  "creator": "Bundeszentrale für politische Bildung",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exozet.app.theberlinwall",
+  "extendedInfo": {
+    "installSize": "18M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The Berlin Wall divided East and West for 28 years, two months and 28 days. It cut the city in two, ran through buildings, interrupted streets and tore apart families, friends and couples. But where exactly did the Wall run?The app 'The Berlin Wall' gives a detailed answer. An interactive map in the app shows the exact location of the Wall. Photos, audio clips and texts about the respective site are stored at historically important locations between the Brandenburg Gate and Potsdam Square. A free data package with more information on historically important sites throughout Berlin and Potsdam can be downloaded in the app. The app serves both as an interactive travel guide on the spot and as a general source of information.Functions:- map showing the location of the Wall and sites of interest- suggestions for Wall tours- filtering option for historical sites, escapes, traces of the Wall, exhibitions, memorials and border crossings- directions to find sites of interest- public transport connectionsThe app is based on the website chronik-der-mauer.de and is a joint project by the Bundeszentrale fÃ¼r politische Bildung, Deutschlandradio and the Zentrum fÃ¼r Zeithistorische Forschung Potsdam e.V. \"The Berlin Wall\" was awarded with the \"Politikaward 2011\", \"digita 2012\" and the \"Comenius-EduMedia-Siegel 2012\".Please note: The app requires the authorization for storing data (additional tours and downloaded POI data packages).",
+    "reviews": [
+      {
+        "timestampMsec": "1320889726459",
+        "starRating": "5",
+        "title": "22 years ago",
+        "comment": "Thank you Exozet for a poignant memorial on its 22nd anniversary.",
+        "commentId": "lg:AOqpTOF80lEA4juMeX1CQEO3HXOPvf-u8UC0O6O1_rybQFabrYjfznhxEHOcki64yqnT2CpgJk5QYSakMwZldw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351552664705",
+        "starRating": "2",
+        "title": "Map online",
+        "comment": "Good application but Berlin map is only online mode which is useless while you are in roaming",
+        "commentId": "lg:AOqpTOGDQX6IQB723dA12ES9eD-brSbc_c_GIjW2wg4Xb2W0EhhOsdnMoM0ijlQy_7ixtZGXWvwD5UBvwvQ6ow",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373255283208",
+        "starRating": "5",
+        "title": "Thank you",
+        "comment": "Beautiful memories.",
+        "commentId": "gp:AOqpTOGrZHpzXJWVHNh8sjGvKIczmONiW0uwBgp5FxYqB66L6kqLaabBYUjgqFiF4yKxHJfeWHnBGUux2px7BA",
+        "author": "Ellen Cornett",
+        "authorURL": "http://lh3.googleusercontent.com/-B8i9cNF9Rtw/AAAAAAAAAAI/AAAAAAAAACw/sbGHd8NK-UI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-B8i9cNF9Rtw/AAAAAAAAAAI/AAAAAAAAACw/sbGHd8NK-UI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Real Time System Monitor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.easy.apps.systeminfofloatingwindows",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 5, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "14",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Carter.ten",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.easy.apps.systeminfofloatingwindows",
+  "extendedInfo": {
+    "installSize": "259k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This App use mini floating window to display how memory and CPU usage statistics on screen, It's real-time display when you are using.So, sometimes you may find out your phone become very slow, then we will tell you what CPU and memory usage statistics.e.g.When you play some game App (ex.Candy Crash), you can use Resource Monitor to check memory and CPU usage statistics at same time. Please refer our sample image.Our feature:âReal time display memory and CPU usage statistics on screenâCustomized color of display by userâCustomized location of display by userâUsing mini floating window for display resource statisticsâNotify features.Pro version support hides monitor for specific apps, and it is ad-freehttps://play.google.com/store/apps/details?id=com.easy.apps.systeminfofloatingwindows.pro",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.SYSTEM_ALERT_WINDOW"
+    ]
+  }
+}

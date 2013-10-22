@@ -1,0 +1,40 @@
+{
+  "title": "Bangkok Hotels +",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dakarastudio.maps.hotels.bangkok",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 20, 2013",
+  "version": "1.0.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "19",
+  "rating": "4.5263157",
+  "contentRating": "Low Maturity",
+  "creator": "Dakara Studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dakarastudio.maps.hotels.bangkok",
+  "extendedInfo": {
+    "installSize": "748k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Looking for a hotel, a B&B or a lodging in Bangkok? Search no more! This application has all the information you need: * You can use it if you are in a car, on a bicycle or walking * You can view all objectives on the map * You can search objectives * You can view objectives near you * You can view directions (visual route, distance and duration) * You can use it with Street View * You can use it with NavigationObjectives: * Hotels * Bed & Breakfast * Lodging * and more!Keywords: Bangkok, Thailand, tourist, hotel, bed & breakfast, lodging, accommodation, sleep, night, street view, navigation",
+    "reviews": [
+      {
+        "timestampMsec": "1358023258242",
+        "starRating": "2",
+        "title": "Incomplete",
+        "comment": "Samsung tablet Good maps but there are so many major hotels not listed.",
+        "commentId": "gp:AOqpTOHYIWrGSXqU5fXzQCJMHyDkrzQipe2iTug7JqtcUTm3f3ZXO8A0eFuKCmAQznzBiJ73mICB4ICLntpUiyU",
+        "author": "Phil Bliss",
+        "authorURL": "http://lh5.googleusercontent.com/-Pwf2aH3C9lY/AAAAAAAAAAI/AAAAAAAAAVI/PQWfFlEO3po/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Pwf2aH3C9lY/AAAAAAAAAAI/AAAAAAAAAVI/PQWfFlEO3po/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

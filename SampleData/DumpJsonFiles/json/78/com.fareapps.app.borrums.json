@@ -1,0 +1,39 @@
+{
+  "title": "Borroum's Drug Store",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fareapps.app.borrums",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "September 19, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Fareapps, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fareapps.app.borrums",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Borroum's Drug Store, located in Corinth, Mississippi, is the state's oldest operating drug store and old-fashioned soda fountain. Here you will find Ice Cream, Frozen Treats, Fountain drinks, Sodas, Shakes, Sandwiches, Burgers and Salads",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.fareapps.app.borrums.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

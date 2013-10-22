@@ -1,0 +1,41 @@
+{
+  "title": "Project Management App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ephron.pmc.android",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "October 13, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "2.3333333",
+  "contentRating": "Medium Maturity",
+  "creator": "EphronTech",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ephron.pmc.android",
+  "extendedInfo": {
+    "installSize": "5.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This application serves the users to effectively manage their projects in various locations. The application mainly has four major modules 1.Projects2.Clients3.Contacts4.Invoice (Report)Projects  : This module gives an overall information on the projects and their improvement status viz., Active , Inactive, Prelim and Archived.2.Client : This  lists all the clients.3.Contacts : This lists  all the contact information's.4.Invoice : This provides the user to generate invoice for each job in the project.",
+    "reviews": [
+      {
+        "timestampMsec": "1326212897939",
+        "starRating": "1",
+        "comment": "It doesn\\'t open and is not clear",
+        "commentId": "lg:AOqpTOE4hA0vbPU5cJmgzhu3HynejdeQqaTTRfoOv-l-Mow4xtM3Jmjmx6KK8Z0PldbtFm_REPG1Og2LOcdz5w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349566277750",
+        "starRating": "1",
+        "comment": "Not for tablets",
+        "commentId": "lg:AOqpTOHaCqCPOtah0y9zulI1i9Bbp8IkxVBIDD_pzPMsa5QiGpBMrBrJP8T_vgWQC8OtrlDoCCopbPFNCV4yrQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}

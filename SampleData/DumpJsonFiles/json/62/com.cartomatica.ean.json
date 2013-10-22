@@ -1,0 +1,33 @@
+{
+  "title": "Earth at Night map",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cartomatica.ean",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "February 16, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Medium Maturity",
+  "creator": "Hristo Tomov",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cartomatica.ean",
+  "extendedInfo": {
+    "installSize": "598k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Explore the Earth at night from space, using an interactive map of NASA's new high-resolution imagery. The Earth at Night map reveals in stunning detail the lights of the Earth at night. Additionally, you can use this incredible night map for sharing your night activity. Share with your friends where you have your fun tonight.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS"
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "title": "Spotify Controller",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cewan.spotify",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "May 20, 2013",
+  "version": "4.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "441",
+  "rating": "3.4421768",
+  "contentRating": "Everyone",
+  "creator": "Instant Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cewan.spotify",
+  "extendedInfo": {
+    "installSize": "368k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Spotify Controller lets you control the real Spotify UI on your computer.Supports Windows, Linux and Mac (Experimental).Spotify Controller lets you control the official Spotify program on your computer.PLEASE contact us by mail before submitting low ratings or negative comments.Requirements:* The official Spotify client must be installed on your computer. Please make sure that you can start Spotify and play music with it, prior to using SpotifyController.* Linux or Windows. For Linux you must use the the Linux version of Spotify (not the one running under Wine). We have tested SpotifyController on Windows XP, Windows Vista, Windows 7, Ubuntu. If you get it to work on other versions/platforms please inform us so we can update this information.* To be able to populate app with playlists/songs you must have the official Spotify app installed on your device.Features:* Start/stop song* Skip to next/previous song* Use the official Spotify app to populate your own favorite list of playlists and songs* Control the volume (using the volume buttons on the device)* Configure multiple servers, e.g. if you want to control more than one computer* Shortcut in notification bar for easy access (can be disabled)* Change color theme* Show album art (can be disabled)* Animations (can be disabled)* Supports both phones (normal screen size) and tablets (large screens)Server installation:1. Download SpotifyController server from here:   - Windows: http://dl.dropbox.com/u/3072694/SpotifyController/setupSpotifyController.exe - Linux (Ubuntu): http://dl.dropbox.com/u/3072694/SpotifyController/SpotifyController.zip - Linux (Arch): https://aur.archlinux.org/packages/spotify-controller/ (NOTE that this is experimental and not maintained by Instant Development) - Mac: http://forum.xda-developers.com/showthread.php?p=17080422 (NOTE that this is experimental and not maintained by Instant Development)To upgrade server:1. Extract the new software to the same place.2. Run the install script again.Known limitations (Windows only):* Since the official Spotify client in Windows does not start playing playlists automatically, playlist loading is disabled from the app if you are running Windows.Permissions used:* External Storage - backup history items and server settings* Wifi State - advice the user to use Wifi* Internet - access the SpotifyController ServerChangelog:v4.2* Improved server software. Should be a good fix for those who had permission issues.* Inform app user that Windows server does not support playlist loading.v4.1* Major update to server software. PLEASE upgrade server.* Added port to discovery feature.v4.0.3Minor fix in server version checkv4.0.2Fix in server for Linux version where song info was not sent to Android app.v4.0.1* Bug fix for screen rotationv4.0* Support large screens and landscape orientationv3.2* Added setup guide for first time usersv3.1* Advanced configuration for timeouts and retries* Fixed bug for volume toast notifications * Fixed bug when entering empty port numberv3.0* Album art* Animations* Color themev2.2.1* Fixed spelling mistake* Remove spaces from hostnames* Fixed bug when configuring many serversv2.2* Added shortcuts on desktop and start menu to start and stop Spotify Controller Server (PLEASE update server software)* Changed History concept to Music (list)* Remake of playlist/song list to make it nicer to use* Option to not start playing a song/playlist that is added from Spotify* Option to sort lists alphabetically (instead of by order used)* Hide donate option in menu if user has donated* Modified icon in notification bar* Make sure that music lists does not get too big (limit of 100 items)* Remove sound alert when controlling volume* Exit-button added in menu* Back button did not always workv2.1.6* Install Spotify Controller Donate to remove ads.v2.1.5* Removed re-occurring dialog when connection fails....",
+    "reviews": [
+      {
+        "timestampMsec": "1364163729264",
+        "starRating": "5",
+        "title": "Nice!",
+        "comment": "It works flawlessly. Tested on: *Fedora 18* (it can be added to the supported platforms) I needed to disable the firewall to make it able to connect to the server. >> $ sudo systemctl stop firewalld.service",
+        "commentId": "gp:AOqpTOFXQLU0aDm5aW4z4uVzBbCnhs9hdq8GAdIQALX8HGQPp3-l5QNSGQb5G1prCQiZA98NOCqNr6MPYr5sag",
+        "author": "Claudio Pacchierotti",
+        "authorURL": "http://lh6.googleusercontent.com/-ughp4zTG5yo/AAAAAAAAAAI/AAAAAAAAAG4/KnZdY24lUKA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ughp4zTG5yo/AAAAAAAAAAI/AAAAAAAAAG4/KnZdY24lUKA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374320832287",
+        "starRating": "4",
+        "title": "Useful little app",
+        "comment": "This works well. Lets me set up play list on computer then lounge on my sofa and move between tracks. User interface is basic but functional. To use the add track/playlist feature I assume you have to be a premium spotify user (which I\\'m not anymore).",
+        "commentId": "gp:AOqpTOE26lGFAnpDKpKVljhvddvPQP3fDP3fSqGU064OMtXVumtQXnanuJ2GeEdsNSAj7a3BOKmP3k7Z_xaxTg",
+        "author": "Steve Burgess",
+        "authorURL": "http://lh5.googleusercontent.com/-HIXhHM6lQYA/AAAAAAAAAAI/AAAAAAAAAJk/zKcv41DTRNA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-HIXhHM6lQYA/AAAAAAAAAAI/AAAAAAAAAJk/zKcv41DTRNA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376679377415",
+        "starRating": "1",
+        "title": "REMOVE THE CREDIT CARD REQUIRED",
+        "comment": "I didn\\'t get it completely installed because the download site requires a credit card. Not good. For a \\\"free\\\" app.",
+        "commentId": "gp:AOqpTOE8EqAPbMsqy_3bhgjGPhQeeLhDtSvSNFZ2faCvLXR_lQkrMCNZ4T3_tjq1BgQEDunD0YN0dE_yGrLAUA",
+        "author": "Matthew Barnes",
+        "authorURL": "http://lh4.googleusercontent.com/-ufgJZ1OnHHU/AAAAAAAAAAI/AAAAAAAAB3A/Ttd4W10PpUM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ufgJZ1OnHHU/AAAAAAAAAAI/AAAAAAAAB3A/Ttd4W10PpUM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1361851726165",
+        "starRating": "5",
+        "title": "Works great.",
+        "comment": "Thanks guys. I was so glad to see some Linux love in here! Very cool.",
+        "commentId": "gp:AOqpTOHAS0rrAEwqTSMBF4O5-fCje0ktctJZhDiM6af6ak0kz30Ob6os-czX2bpWDh_-PHpv3lWbDeCmuWUywA",
+        "author": "Blake Williams",
+        "authorURL": "http://lh5.googleusercontent.com/-MHTR6KmOroQ/AAAAAAAAAAI/AAAAAAAAAGY/EDsZyD3eLxo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-MHTR6KmOroQ/AAAAAAAAAAI/AAAAAAAAAGY/EDsZyD3eLxo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365997928943",
+        "starRating": "5",
+        "title": "Works Great!",
+        "comment": "Works as intended.  Using Ubuntu 12.10.  Extremely easy setup.  Had everything working in 5 minutes.",
+        "commentId": "gp:AOqpTOHKBbhwb7nskbp6kvr3DBEG0a6RHVakpBLKkB1pgL67J8rUzpwyjwDgHYI2MfUH3VSrczpQUYv0OjXR2g",
+        "author": "Jens Clayson",
+        "authorURL": "http://lh5.googleusercontent.com/-RLiWB2SCkU4/AAAAAAAAAAI/AAAAAAAAAVU/hUPHD6hc_6g/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-RLiWB2SCkU4/AAAAAAAAAAI/AAAAAAAAAVU/hUPHD6hc_6g/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372658822189",
+        "starRating": "4",
+        "title": "Works",
+        "comment": "I installed this on a Debian based distro and it worked great.  Didn\\'t have to change anything, just ran the install and it worked. Only 4 stars only because all you can do is pause and skip forward and backwards.",
+        "commentId": "gp:AOqpTOGl1x2U7bwglhb7ozjy4OoW3XTUKqhA0dgf6UbsaT9LzDxSqvvf7N-O-q3kilG5zOP389e4kWllQF-d3w",
+        "author": "Wayne Sailor",
+        "authorURL": "http://lh4.googleusercontent.com/--_yUemoutx8/AAAAAAAAAAI/AAAAAAAAAJM/L9JsQ4RW3H0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/--_yUemoutx8/AAAAAAAAAAI/AAAAAAAAAJM/L9JsQ4RW3H0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369864143207",
+        "starRating": "5",
+        "title": "Awesome App",
+        "comment": "Love it! Only 1 request. Please add a star/unstar button.",
+        "commentId": "gp:AOqpTOHNJU_jHbKve3z2VMBS0qWFs-HureSIJXkgEmQF75DNWDj8of5Pq9Xux1xuOgcbu0mZKdaNvSthojQ2rA",
+        "author": "David McCartney",
+        "authorURL": "http://lh6.googleusercontent.com/-vJtETXLIEKE/AAAAAAAAAAI/AAAAAAAAA5w/06Z_9s0j2aU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-vJtETXLIEKE/AAAAAAAAAAI/AAAAAAAAA5w/06Z_9s0j2aU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359230239877",
+        "starRating": "2",
+        "title": "Windows.",
+        "comment": "Great app, but why make it for windows if it isn\\'t going to work and be compatible with having the files go to your phone? Seems a bit pointless and annoying and it was just a waste of my time.",
+        "commentId": "gp:AOqpTOHkyvX2ymDveuYCECO9J5y4AT67eaDxwITPo8LTD7zJmPPmlD9cIn0wgANrI5IXBoE5IWbPO4t6ouFWwg",
+        "author": "Tori Paletta",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355434973174",
+        "starRating": "1",
+        "title": "Sham",
+        "comment": "Wasted 2 hours of my life. Turned off all the firewalls and still no joy after manually inputting ip and port. Extremely frustrating.",
+        "commentId": "gp:AOqpTOEqJ-X3QP18VCR7lN8EIzO3uebtqW0X8U2J6x0ZvferXZl_5qDt6Bcy8rielo4mN8W7AKyKeSYzg5RrfQ",
+        "author": "Ste McGovern",
+        "authorURL": "http://lh6.googleusercontent.com/-mHs3MmrO6uI/AAAAAAAAAAI/AAAAAAAAIS0/X7ve4xJppas/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-mHs3MmrO6uI/AAAAAAAAAAI/AAAAAAAAIS0/X7ve4xJppas/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378354911783",
+        "starRating": "1",
+        "title": "Worthless if you\\'re not a Spotify premium subscriber",
+        "comment": "There\\'s no use for this app if you\\'re not a premium subscriber. You will need to go to your media server (mine is on a rack in the basement) every time you want to start playing a song or playlist",
+        "commentId": "gp:AOqpTOEZurPE7dvMNeGgcPhomX7G2usRsuI0VQCauziJysAzP-qc8_bI2BSIcuvwlLp0Fs_G-p9Q18Qx6BuNXw",
+        "author": "Little Bo Peep",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365676325530",
+        "starRating": "2",
+        "title": "Does what it says, nearly",
+        "comment": "The server component is crap, doesn\\'t let you select the network interface, got hamachi installed? Have WiFi and Ethernet on your computer? Use VMWare? Too bad, their virtual adaptors will prevent you from connecting as the server tries to connect to 5.x.x.x or 127.0.0.1 etc. Also you can\\'t minimise the server app on windows.  The android app is lame too. No tablet support (2009 was a long time ago developer...), very very basic. Literally only has ff/rw/play and the song title. Look up Yatse to see what a good remote control app should be like",
+        "commentId": "gp:AOqpTOE4deDbkuhGZQvojnGgk-f4KzighE2L_d2kL-MKjtl7Q5Yk6HIM42voWLbL1FrXnFklS9EVbBEj_os2OQ",
+        "author": "Kip Herbert-Taylor",
+        "authorURL": "http://lh4.googleusercontent.com/-F-tupZK9J5A/AAAAAAAAAAI/AAAAAAAAEpg/oGAKby_q6q0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-F-tupZK9J5A/AAAAAAAAAAI/AAAAAAAAEpg/oGAKby_q6q0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359301922573",
+        "starRating": "1",
+        "title": "Garbage",
+        "comment": "It says \\\"Changing volume on your computer\\\" but nothing happens on computer. All I can do is play/pause/forward/back and see current song. Can\\'t search and choose songs. Even if volume worked I feel this is fairly useless. I consider it a very basic feature to pick what I wanna listen to next but can\\'t do that. I don\\'t use spotify for cellphones. I just want a proper remote for the computer.",
+        "commentId": "gp:AOqpTOERyn4mGtD8stxnHVKHZhdLe_2sSkJtiD1r8o_wBd8mT-pLKKdZB_XMhbb8gGza9rgtCGqDlyRRSc5IzA",
+        "author": "Alex R",
+        "authorURL": "http://lh4.googleusercontent.com/-umL_K03ok9g/AAAAAAAAAAI/AAAAAAAAAoc/DqwWR2x81Aw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-umL_K03ok9g/AAAAAAAAAAI/AAAAAAAAAoc/DqwWR2x81Aw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1348325145978",
+        "starRating": "5",
+        "title": "Very cool - works exactly as advertised",
+        "comment": "Play/Pause/Back/Forward from your mobile, controlling Spotify program on desktop! Sweet! The Windows limitation is unfortunate, start new songs or playlists - but seems to be a limitation from spotify, rather than the app.  So start playing a playlist on your desktop, then use the app to move back/forward or pause.",
+        "commentId": "lg:AOqpTOFF4EoDQtz88dto7uVoWvWFudHusTpmDfRhGnAmbBpi3HxTl_PXN594wZglK99KHpcpucuaapXObOTcLA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366768206405",
+        "starRating": "3",
+        "title": "Nice app",
+        "comment": "Everything\\'s cool. Just can\\'t select a song or playlist from my phone cause I need to upgrade to premium on Spotify. I need to start playing the song from my Spotify playlist first & basically the only thing I can do from my phone is play the next track or play the previous ones within my playlist. Other than that, the app works fine.",
+        "commentId": "gp:AOqpTOEca2yMzVx5dDdL9En2xnIGH4aL0tnSIF4yQO9Sj1kWWl9yJ1jUMOBzjiTpz23Xpf1sekw_bXnwEMvoqg",
+        "author": "Zue Colon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376209398281",
+        "starRating": "4",
+        "title": "Good, could do with some tweaks",
+        "comment": "This is a really handy app for using my desktop monitor as a speaker for Spotify, however, the functionality is a bit limited.   Play/skip/pause are there but that\\'s about it.  You need to manually import your playlists one at a time from Spotify, and you can\\'t shuffle or manually skip ahead to a later part of the playlist.  The following would turn this from a good app into a \\'shut up and take my money\\' one:  * Shuffle / playlist listing to allow manual track selection * Radio feature * An option to \\'bulk import\\' from Spotify to the controller",
+        "commentId": "gp:AOqpTOFEbu-bB6R5iDCLjU4m6YDKgPfzgO8b8crmk-0B8Z3lAzdMpYGQXovC_PXXdu91VrW005Y9fA_6_RFM_A",
+        "author": "Chris Cardwell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375620908536",
+        "starRating": "4",
+        "title": "Awesome",
+        "comment": "The app works really well. It\\'s a shame about the playlists not working due to using Windows, but it\\'s great for remotely skipping songs etc. Really easy to set up too. I had to input my IP manually, but that only took a minute and it picked it up straight away and worked flawlessly afterwards.",
+        "commentId": "gp:AOqpTOFLncHUaXZPurkGSuDxJOkU6wH8xhzjSm9iqoOKewqwBahOwOekN2zm8ZAEpGtOi18hgO1cyOhB-zpRGg",
+        "author": "Oli Cliffe",
+        "authorURL": "http://lh5.googleusercontent.com/-DLVq1nQdwOc/AAAAAAAAAAI/AAAAAAAAADU/rPf33NZZ784/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-DLVq1nQdwOc/AAAAAAAAAAI/AAAAAAAAADU/rPf33NZZ784/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373976951195",
+        "starRating": "4",
+        "title": "Good app",
+        "comment": "Okay. Not bad",
+        "commentId": "gp:AOqpTOGkFtzZccfXgFJZta4mc-pLlMsRlvBRyiCOpm0kY2f2EIuZW_xMDAZXNthnb2hmLjTbS-nsa5G8wLPoDQ",
+        "author": "Harry Tobbagi",
+        "authorURL": "http://lh5.googleusercontent.com/-ny4350qH6es/AAAAAAAAAAI/AAAAAAAAAB8/Haxk_2fUxNk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ny4350qH6es/AAAAAAAAAAI/AAAAAAAAAB8/Haxk_2fUxNk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374494889756",
+        "starRating": "4",
+        "title": "Basic but functional",
+        "comment": "Its a simple interface and its easy to get used to  nothing flash or fancy but it works so thats cool. Nice if you want to wander about the house and get your media system blasting tunes all controlled from your hand.",
+        "commentId": "gp:AOqpTOHUBwdM5ZzJpww7Ui7_-DVPn9x_6BedqanNdzi6uQx4RZdfgSXRSj5Y3tXlCYmdablz8jq4cjJqj3A0zA",
+        "author": "Andrew Lindop",
+        "authorURL": "http://lh5.googleusercontent.com/-AK1Rb8IdWkk/AAAAAAAAAAI/AAAAAAAADLY/w68B0Jxjiro/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-AK1Rb8IdWkk/AAAAAAAAAAI/AAAAAAAADLY/w68B0Jxjiro/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377112063857",
+        "starRating": "5",
+        "title": "Simply Put: Brilliant",
+        "comment": "Works perfectly!  This app is SO useful! Very clever approach, using java to bridge the platform gap.  I will be recommending to all my friends.  The only thing I would suggest to the developer is that the Spotify server should run in the background since it doesn\\'t require user attention all the time.  Having the windows always open kinda gets in the way, but hey!  It\\'s still awesome!",
+        "commentId": "gp:AOqpTOEwEghGetJSDV538KXGurzMSsF5NNY14hRHmAhUF0eG9039c0eZsZcHfja17NtIhNSFgyD5VLUDDc6oxw",
+        "author": "John Sanders",
+        "authorURL": "http://lh3.googleusercontent.com/-H-nFWDclHgU/AAAAAAAAAAI/AAAAAAAAAjk/toB4kQ46_0k/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-H-nFWDclHgU/AAAAAAAAAAI/AAAAAAAAAjk/toB4kQ46_0k/photo.jpg"
+      },
+      {
+        "timestampMsec": "1351394694651",
+        "starRating": "5",
+        "title": "Works Perfectly",
+        "comment": "Awesome! Can change volume, song, playlist, play/pause, etc. Easy to set up on Ubuntu and CM 7.1!",
+        "commentId": "lg:AOqpTOF4avq7hgNFO-nLZf1Citkm6LvElSXPpkMp4zvq5kkjVVcYrO7BPJF5lTXvBzKHDWg8DoyxQ72_L2dfaA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

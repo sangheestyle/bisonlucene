@@ -1,0 +1,41 @@
+{
+  "title": "See Rome Wallpapers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamtree.seeromewallpapers",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "April 3, 2012",
+  "version": "2.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "dreamtree™",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamtree.seeromewallpapers",
+  "extendedInfo": {
+    "installSize": "8.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "30 See Rome Wallpapers bring lovely images of architecture, art and beauty optimized for Android devices. Rome is an amazing city of old and new!Highlights:â Optimized for high res phonesâ Unique images you won't find anywhere elseâ Hand-picked and cropped to precise dimensionsFeatures:â Works offlineâ Contains 30 high definition imagesâ Offline optimized for speedâ Install to SD card (requires Froyo+)Legal / Credits:Application by dreamtree. Based in Seattle, WA.  www.dreamtreemobile.comApplication icon and image source material licensed through Creative Commons Attrib-Sharealike. Credits for images: Photos and icon source material by Jastrow, Sixtus, Berthold Werner, Tatiana kitty, Jean-Christophe BENOIST. Special thanks to www.picdrome.com for public domain images.Note on Permissions:android.permission.INTERNET is used to connect to the advertising mediation servers and our partner advertising network servers for the purpose of retrieving advertisements. android.permission.ACCESS_NETWORK_STATE is used to determine the existence and quality of a phone's network connection for retrieving advertisements. android.permission.GET_TASKS is used to prevent advertisements from being retrieved when an application is in the background by checking to see if the application's task is active when an advertisement is requested. This is a workaround for the lack of global notifications about the active state of Android applications.android.permission.READ_PHONE_STATE is used for accounting and auditing purposes by advertising networks. Advertising networks use anonymous unique identifiers to limit the number of impressions and clicks attributed to individual users. android.permission.SET_WALLPAPER is used to set the home screen background wallpaper.android.permission.VIBRATE is used to vibrate the phone on successful completion of setting the wallpaper.android.permission.WRITE_EXTERNAL_STORAGE is used to save images to the SD card. Images are automatically saved in a sub-folder of /wallpapers/ on your SD card named based on this app. They are only saved to the SD card when you set them as a wallpaper. This way, if you remove the app, you will retain the wallpapers on the SD card. You may delete the wallpapers from your SD card if you wish without affecting the functionality of the app.tags: vatican, cathedrals",
+    "reviews": [
+      {
+        "timestampMsec": "1370796135594",
+        "starRating": "1",
+        "title": "Horrible",
+        "comment": "If I could submit this with a negative star count i would... does not work at all and accumulates memory for no reason-complete fail",
+        "commentId": "gp:AOqpTOF0N69M-GpXt6JbNHTVyY4ZL2w42X0B_F_w_nq1A_qtpXclhtJyp9dvctMuaCp5KScuhWN3FzgcpkR-Igs",
+        "author": "joesph monroe",
+        "authorURL": "http://lh6.googleusercontent.com/-ZUMW-wRDvrE/AAAAAAAAAAI/AAAAAAAAACY/29ILEy0m2oc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ZUMW-wRDvrE/AAAAAAAAAAI/AAAAAAAAACY/29ILEy0m2oc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_WALLPAPER",
+      "android.permission.SET_WALLPAPER_HINTS",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

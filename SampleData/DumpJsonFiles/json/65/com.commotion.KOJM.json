@@ -1,0 +1,41 @@
+{
+  "title": "610 The Rock",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.commotion.KOJM",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "March 6, 2013",
+  "version": "1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Commotion",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.commotion.KOJM",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Definitive Anthology of Rock n' Roll, 610 AM KOJM, \"The Rock\" .The celebration of fifty years of Rock nâ Roll requires a blend of hits from each decade since the birth of Rock nâ Roll combined with the very best of todayâs music. We call this anthology âThe Rockâ.The extensive play list includes artists like Rod Stewart, Crissey Hines, Elton John, Phil Collins, Madonna and Sting. Groups include the Beatles, Rolling Stones, Eagles, Fleetwood Mac, Steely Dan, Doobie Brothers and Huey Lewis and the News.Proven artists and groups that made yesterdayâs hits so popular, and continue to produce great music today, mixed with new talent like Nickleback, John Mayer, Jack Johnson, Coldplay, Maroon 5, The Killers, Daughtry, Dave Mathews Band and Gin Blossoms.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.commotion.KOJM.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

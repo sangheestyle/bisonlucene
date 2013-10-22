@@ -1,0 +1,35 @@
+{
+  "title": "Sea Shell Wallpapers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamtree.seashellwallpapers",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "February 20, 2012",
+  "version": "2.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "dreamtree™",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamtree.seashellwallpapers",
+  "extendedInfo": {
+    "installSize": "7.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "I love sea shells and creatures from the oceans and bays around the world. Each photo is carefully optimized for high resolution Android devices. This app will still work on small screens and other devices but for optimal quality, please view the application on a high resolution device.âââHighlights:â Optimized for high res phonesâ Legally uses images via Creative Commons licensingâ Unique images you won't find anywhere elseâ Hand-picked and cropped to precise dimensionsFeatures:â Works offlineâ Contains 35 high definition imagesâ Offline optimized for speedâ Install to SD card (requires Froyo+)Legal / Credits:Application by dreamtree. Based in Seattle, WA.  www.dreamtreemobile.comll images are the property of their respective owners. No challenge to ownership is implied. We find images from the Web that are believed to belong in the public domain or are under fair use laws because of low file size, they are free and used informational purposes. If any images are in violation of copyright law, please email (dreamtreemobile@gmail.com) and we will remove them as soon as possible.Note on Permissions:android.permission.INTERNET is used to connect to the advertising mediation servers and our partner advertising network servers for the purpose of retrieving advertisements. android.permission.ACCESS_NETWORK_STATE is used to determine the existence and quality of a phone's network connection for retrieving advertisements. android.permission.GET_TASKS is used to prevent advertisements from being retrieved when an application is in the background by checking to see if the application's task is active when an advertisement is requested. This is a workaround for the lack of global notifications about the active state of Android applications.android.permission.READ_PHONE_STATE is used for accounting and auditing purposes by advertising networks. Advertising networks use anonymous unique identifiers to limit the number of impressions and clicks attributed to individual users. android.permission.SET_WALLPAPER is used to set the home screen background wallpaper.android.permission.VIBRATE is used to vibrate the phone on successful completion of setting the wallpaper.android.permission.WRITE_EXTERNAL_STORAGE is used to save images to the SD card. Images are automatically saved in a sub-folder of /wallpapers/ on your SD card named based on this app. They are only saved to the SD card when you set them as a wallpaper. This way, if you remove the app, you will retain the wallpapers on the SD card. You may delete the wallpapers from your SD card if you wish without affecting the functionality of the app.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_WALLPAPER",
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

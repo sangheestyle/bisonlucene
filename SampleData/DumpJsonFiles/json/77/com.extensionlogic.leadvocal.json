@@ -1,0 +1,62 @@
+{
+  "title": "Lead Vocal Voice Control",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.extensionlogic.leadvocal",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 21, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "Extension Logic Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.extensionlogic.leadvocal",
+  "extendedInfo": {
+    "installSize": "610k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Sick of searching for your apps on screens cluttered full of icons? Same goes for launching and searching websites? Just call them by name. Search websites such as Ebay, YouTube, Yahoo, Wikipedia, Twitter, Amazon, Netflix, Trip Advisor and many more simply by speaking a voice search command. Import favorite websites and use voice search to open and search them as well. Lead Vocal provides a central location that allows you to to open any app or open and search websites via voice command, eliminating time spent searching through multiple screens looking for apps and removes the need to open a browser and type a website address. Simply say the word and the app or website appears. Voice recognition is not perfect for many reasons, so choosing one command for your favorite apps and websites drastically reduces opportunities for error in voice recognition. In addition, Lead Vocal comes pre-installed with commands to open many of the most popular websites, but most importantly, it allows you to search them by voice as well. Simply say the command and what you are looking for, and Lead Vocal takes you directly to the website with the search already completed. Voice control technology should allow you to use your favorite bookmarked sites directly without needing to choose from a list of search results. With Lead Vocal, you now have the ability to assign voice commands to your bookmarked websites. Most websites which allow you to type in a search are also compatible with Lead Vocal voice search. A simple procedure to import websites for voice search into the App makes searching your favorite website on Android Devices easier than ever before. Often you already know what website you want to visit to find specific types of information, whether it be a favorite recipe site, search engine, classified ads etc. Lead Vocal takes you there faster and without the frustration of typing on a smartphone. Lead Vocal is also a simple platform for developers to add voice command functionality to their apps. It passes developers text received from user voice input, allowing developers to implement voice command functionality. Much effort and consideration has been put into making Lead Vocal an effective means of increasing speed and efficiency. We hope you enjoy using it and we appreciate your constructive feedback so we can continue to make this app great.",
+    "reviews": [
+      {
+        "timestampMsec": "1357838167278",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "App is great, the ability to assign a keyword to a specific website and have this app also apply the search criteria you supplied is really handy.   I also like how you can set other apps to be called by keywords, no more searching your phone for apps!",
+        "commentId": "gp:AOqpTOGUXfWG3hin7G0UC0CU0c5c7CYvsE3SObsOZhXBCXKKlnvfrPzqhJ-eSPpnXbAcXKkPe-fzCDtEfIBtnw4",
+        "author": "Todd Whitehead",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370794179826",
+        "starRating": "1",
+        "title": "Pover",
+        "comment": "No support in smert tab",
+        "commentId": "gp:AOqpTOHrdetfW7rfaoPs7J5qOZ03PRYIRn-bUkMOMm7yL43lJF32oF2MVqIGkmgd3AhMPdi76ftU4N0Mkv3WxY4",
+        "author": "Syed Ibrahim",
+        "authorURL": "http://lh5.googleusercontent.com/-XH_yZxeJULg/AAAAAAAAAAI/AAAAAAAAACM/tjNKFHWe2Ro/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-XH_yZxeJULg/AAAAAAAAAAI/AAAAAAAAACM/tjNKFHWe2Ro/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355538992606",
+        "starRating": "5",
+        "title": "Super awesome",
+        "comment": "It\\'s difficult to use the keyboard at times because of my arthritis. This app has made actually made phone much easier to use.",
+        "commentId": "gp:AOqpTOGtWV8fz33ELksXmp68IQkpzU8zr2V05ta8r-BnaFcU3roOsugeSzgyFp7pKVDOZ-fZpELCPyRvpCU9PS4",
+        "author": "Darren Sellner",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.extensionlogic.leadvocal.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "NFC Service for CHT BT Dongle",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chttl.nfcbt.service",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "August 20, 2013",
+  "version": "1.5.1_android",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "11",
+  "rating": "3.2727273",
+  "contentRating": "Everyone",
+  "creator": "TL722",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chttl.nfcbt.service",
+  "extendedInfo": {
+    "installSize": "119k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This service is the management service ONLY for CHT's NFC Bluetooth Dongle. The user can send and receive information between the Android phone and CHT's NFC Bluetooth Dongle via this service.CHT's NFC Bluetooth dongle is a full-function NFC device. Through the phone's existed Bluetooth connection, the user can develop their NFC application in any Android phone, even the ones without NFC capability. This service is the management center for the CHT's NFC Bluetooth Dongle and phone.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

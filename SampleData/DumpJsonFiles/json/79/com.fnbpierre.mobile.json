@@ -1,0 +1,44 @@
+{
+  "title": "First National Bank Pierre",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fnbpierre.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 29, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fnbpierre.mobile",
+  "extendedInfo": {
+    "installSize": "579k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "24/7 mobile access for First National Bank customers in SD and CO. Use this mobile app to conveniently and securely:â¢\tTransfer money between accountsâ¢\tPay billsâ¢\tFind ATMs and branch locationsâ¢\tCheck account balancesâ¢\tView recent transactionsLogin to Home internet banking to enroll in mobile banking services and begin using this app today! To use this app you must be enrolled and active in PC Express home internet banking with First National Bank. Account information and transactions conducted through our mobile app are secure and protected by multiple layers of security. Weâre committed to protecting your privacy. View our privacy policy on our website. Contact us at 1-800-555-6895 or by calling your local branch for assistance. Member FDIC and an Equal Housing Lender",
+    "reviews": [
+      {
+        "documentVersion": "2.5.22",
+        "timestampMsec": "1376328178983",
+        "starRating": "5",
+        "title": "I like it!",
+        "comment": "Good stuff!",
+        "commentId": "gp:AOqpTOFKsc0pv86DqHKZv4Vlo19FzkgOVQbjcPN3g86VZGleDq041UTXe4eXvPmrd-vPspsNvBb-dx-tpt7ZPA",
+        "author": "Alan Haarstad",
+        "authorURL": "http://lh3.googleusercontent.com/-8bFdSdg_ZtI/AAAAAAAAAAI/AAAAAAAAANU/AkaqdYS_Zig/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-8bFdSdg_ZtI/AAAAAAAAAAI/AAAAAAAAANU/AkaqdYS_Zig/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

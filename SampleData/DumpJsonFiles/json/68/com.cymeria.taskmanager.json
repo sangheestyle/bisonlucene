@@ -1,0 +1,31 @@
+{
+  "title": "Task Manager eX (Pro)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cymeria.taskmanager",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 29, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "Cymeria",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cymeria.taskmanager",
+  "extendedInfo": {
+    "installSize": "894k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Full Feature task manager. Monitor and kill task, speed up phone/tablet, and save battery.* 2*1 widget to monitor memory usage, fast kill tasks when click* kill task to free memory* context menu to switch, uninstall, ignore, autokill or terminate now* take over control your phoneKeywords: taskiller taskkiller killer process app memory apps ram clean free managing admin tasks application applications disable",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

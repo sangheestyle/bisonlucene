@@ -1,0 +1,30 @@
+{
+  "title": "FT-CAM",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cbck.ftpwebcam",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "December 19, 2011",
+  "version": "1.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "6",
+  "rating": "2.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Christoph Bodenstein",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cbck.ftpwebcam",
+  "extendedInfo": {
+    "installSize": "811k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Lets you use your built in camera as a simple WebCam.*It uploads every picture to your ftp-account.*You can define the period of pictures (5s .. 60s).*Replace the picture on your server OR add a new one every time.*Choose different picture resolutions.*(No Adds!)*For creating your own desktop & mobile slideshow download a index.php from my website",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

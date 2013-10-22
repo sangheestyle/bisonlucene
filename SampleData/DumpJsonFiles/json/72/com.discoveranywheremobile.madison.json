@@ -1,0 +1,35 @@
+{
+  "title": "Madison",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.discoveranywheremobile.madison",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 24, 2012",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "2.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Discover Anywhere Mobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.discoveranywheremobile.madison",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Visiting Madison, Wisconsin? Learn about the latest events, the best restaurants, the most entertaining attractions, the coolest museums and much more â all delivered to you instantly in the palm of your hand.Download the FREE Greater Madison Convention & Visitors Bureau app to discover all you need to make your experience in Madison, Wisconsin, one youâll never forget. This location-aware travel guide detects where you are and shows you whatâs happening near you right now. Manage your itinerary, connect with social media, see photos and videos, get current weather and much more. The Greater Madison Convention & Visitors Bureau is committed to Going> Beyond> Visitâ¢ to provide you with an experience that goes beyond the expected. This app will allow you to find everything you need to plan the perfect Madison experience. We invite you to make this visit uniquely yours.  Enjoy your visit to Madison, Wisconsin!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Runbook GPS Sport",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chava.android.runtrainer",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "March 2, 2012",
+  "version": "1.2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "74",
+  "rating": "3.5135136",
+  "contentRating": "Low Maturity",
+  "creator": "Chava",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chava.android.runtrainer",
+  "extendedInfo": {
+    "installSize": "311k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This GPS-enabled sports app tracks your training of long runs, tempo runs, speed drills.Depending on your running speed of movement, distance, average speed, and elevation to do real-time dashboard and chart presentation. Each run is stored in memory so you can review and analyze the data to see how you've improved.The application is free and without advertising.Features-Dashboard: Display your movement in terms of speed, distance, average speed and round on dashboard. -Chart Mode: Generation of real-time speed, distance and elevation of chart. -Map Mode: Support google map both street and satellite view for your tracks. -Statistics: Provided by the runners calendar, according to the daily mileage, total mileage per week, total weekly mileage, total mileage per month.-History: Each run is stored in memory so you can review and analyze the data to see how you've improved.-Mileage Unitsï¼Switch to kilometers or miles statistical unit.-Notification: If the motion passing through the nearest point of departure or arrival location audio and vibration will do lap tips, free to open or close the prompt function.If you have any feedback, please email: chavaxd@gmail.com",
+    "reviews": [
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1334228209844",
+        "starRating": "4",
+        "title": "Nice with one small annoying bug.",
+        "comment": "This app is excellent and does what it says. Dont expect heavy duty features from it but thats what this app is best at. Its simple!! I use it everytime I go jogging. However I\\'m facing one very annoying issue. I live in India and we use kilometers as the standard distance unit. But this app always defaults to Miles everytime I start it. But it appears to be saving my preference. When I go to the settings and select default unit I see Kilometers selected but even then the app only measures in Miles. I have to select miles and then select kilometers back for the app to change only to show miles again the next time I open it. This becomes very annoying.",
+        "commentId": "lg:AOqpTOFtYBnb2gQmrGjWI-QeiMq263SCtGmE_U9BmesYzigWLeAGrcuhEzCpO-2OMAQGaXbedaKxbODMLMtrcA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.3",
+        "timestampMsec": "1326386142621",
+        "starRating": "2",
+        "title": "Many Tiny Fonts,",
+        "comment": "Even on SGS2. No digital display of Speed. No legends in graph and has many dark colors. Overall uncomfortable to try to read.",
+        "commentId": "lg:AOqpTOFbsxS-9j6UFxK-LsRa8aFLsOtcmsQBTbCVuzeV5gTSIY7JN2PxN84hPy3kI1aR2JL9nA7QIrIJG9OcVw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1319546155501",
+        "starRating": "5",
+        "title": "Excellent Tracking",
+        "comment": "Easy to use, very accurate GPS tracking even in woods, with a nice interface. Excellent for free! Used on Samsung Galaxy S2",
+        "commentId": "lg:AOqpTOF9014OR_sLDQLFynjHwoawBW9StCL2pv14xsvlAk1Nmy7ob4j96xRdsUMwR9DVhwuMq0h-Lahg0gfilQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

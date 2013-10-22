@@ -1,0 +1,46 @@
+{
+  "title": "CES Government 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dub.poweredbydub.assoc.ces",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "December 30, 2011",
+  "version": "1.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dub Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dub.poweredbydub.assoc.ces",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "In its seventh year, CES Government stands as the premier government policy and technology management conference, bringing together 250 top public and private sector executives whose primary business or mission is the effective application of technology to public sector challenges.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1333518588781",
+        "starRating": "5",
+        "title": "Good work dude.",
+        "comment": "Application design is also good.. Keep it up.buddy",
+        "commentId": "lg:AOqpTOGIFfgZRDpxuKmkz7fcoxQMD_TzjV_l_bXztyCiGEVzYgmIHOLoRQEg6PFWkbdOuvx5rNYkeli3THHqDg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

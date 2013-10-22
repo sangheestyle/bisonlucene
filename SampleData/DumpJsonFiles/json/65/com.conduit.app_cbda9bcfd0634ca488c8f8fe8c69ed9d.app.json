@@ -1,0 +1,39 @@
+{
+  "title": "Guns For Everyone",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_cbda9bcfd0634ca488c8f8fe8c69ed9d.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "October 5, 2011",
+  "version": "1.2.2.271",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Guns For Everyone",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_cbda9bcfd0634ca488c8f8fe8c69ed9d.app",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The #1 uncensored, irreverent and unintelligent gun blog on the internet! Gun News, Videos, Reviews, Prizes",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_cbda9bcfd0634ca488c8f8fe8c69ed9d.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

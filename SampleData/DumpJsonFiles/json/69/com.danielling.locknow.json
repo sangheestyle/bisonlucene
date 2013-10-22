@@ -1,0 +1,29 @@
+{
+  "title": "Lock Screen Now",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.danielling.locknow",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 8, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Daniel Ling",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.danielling.locknow",
+  "extendedInfo": {
+    "installSize": "316k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Have your power button gone cranky?Perhaps you are unable to lock your device smoothly every time you press your power button.This application may be your answer. It does what it does simply. Lock your device. Note that this application is NOT a replacement for your power button.Only requires Force Lock rights from Device Administrator to function. All other rights are not needed, this is stated clearly during the first request for Device Administrator.To use this app, after installing, you only have to open the app to lock your device instead of using your power button. You can keep this app in your Home Screen, Applications Screen or like me, activate the app base on a prefix gesture. =DTo uninstall this application, you have to first remove the Device Administrator rights for this application. When you choose to uninstall this application, it will prompt you to remove the Device Administrator Rights. If not, please go to Settings > Security > Device Administrator > Uncheck this application.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

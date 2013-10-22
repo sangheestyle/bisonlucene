@@ -1,0 +1,47 @@
+{
+  "title": "Petrol Discount Calc (Aus)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.different.fuel2",
+  "category": "Shopping",
+  "price": "$1.00",
+  "datePublished": "April 24, 2012",
+  "version": "2.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "SquidBoy",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.different.fuel2",
+  "extendedInfo": {
+    "installSize": "30k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Calculates Fuel Discount.  User enters the price, the discount amount, and the amount they want to spend - This app calculates how many litres to fill to, and what the price would read before discount.eg:  User wants to spend $20 to buy petrol at 135.9c with discount of 4c/L.  Application calculates that user should fill 15.16 Litres, with price reading of $20.61 (ie discount of 61 cents).NOTES:  This application has been developed for the Australian Market, and assumes Fuel is measured in Litres and a currency with 100c to the dollar.  This calculator does not guarantee to calculate the discount the same as a Petrol Station.  A small rounding variance may occur in some situations.  This calculator should be used as a guide only",
+    "reviews": [
+      {
+        "timestampMsec": "1362096460262",
+        "starRating": "1",
+        "title": "Waste of money",
+        "comment": "Paid for this app, won\\'t work. When I try to enter any numbers it tells me it\\'s unofficial and prompts me to pay for the official app. Don\\'t bother. Unhappy.",
+        "commentId": "gp:AOqpTOECdjAJHIscOabyxPv0g44AZhvUf8KntD-wVNVsvR9IHlEZi0JpXnvB1VEkg3WPho4reJabBLYbJbOxYw",
+        "author": "Jasmine Hill",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344788824961",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Works perfect.",
+        "commentId": "lg:AOqpTOGZQkY7k5Refn8NJIZD25MECoatxG8ryf41GyzqokqAEYqVIW8v1CC0cPyoB0yhfNx8LzDiFPtw7WYOvg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

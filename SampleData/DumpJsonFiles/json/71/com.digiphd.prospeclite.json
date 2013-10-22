@@ -1,0 +1,108 @@
+{
+  "title": "ProSpec Lite Spectrum Analyzer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.digiphd.prospeclite",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "September 5, 2012",
+  "version": "1.3",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "22",
+  "rating": "3.6363637",
+  "contentRating": "Low Maturity",
+  "creator": "DigiPhD",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.digiphd.prospeclite",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Join the discussion group:https://groups.google.com/d/forum/prospec-discussion-groupUser Manual:http://www.digiphd.com/prospec-real-time-spectrum-analyzer-user-manual/ProSpec - Lite is a basic Real time spectrum analysis tool. It generates a spectrogram on the fly and supports 8kHz and 44.1kHz sampling frequencies.You can record, playback, save and share the spectrogram for a given time frame. It provides a maximum frequency tracking facility with measurements both in dBFS, (SPL in paid version only). Other features include:- Time scale in seconds- Update speed- Dynamic range control- Complete color customisation- RGB option- For audio engineers, an invert feature for live events in dark rooms- Audio tool, allowing you to share, save and listen to the complete audio that has been recorded - Saving, sharing and exporting the configuration (i.e. analysis settings: window size, dynamic range, FFT length and analysis window)NOTE: If you are not satisfied or find any issues with ProSpec, please tell me in the discussion group before leaving negative feedback, I may be able to resolve your issue in an update and your input will be invaluable to ProSpec's evolution. Thanks!USEFUL FOR:home theatre, audio engineer, car audio, linguistics, speech pathology, electronic engineer, tech savvy musicians, engineering and audiologist studentsTECHNICAL INFORMATION- FFT size fixed to 1024 for 8kHz and 512 for 44.1kHz- Uses a moving window to calculate the FFT Magnitude spectrum- Uses Hamming analysis window- Frame Length fixed to 32ms- Frame shift fixed to 14ms- Dynamic range: -1dB to -90dB- Bandwidth available: 50Hz - 22.05kHz- Selectable update time from (10-40s)(also depends on frame length)- JET RGB color scheme (and many many many others)- Free version has watermarked images when saving or sharingWORD FROM THE DEVELOPER:I developed this tool to use personally and I believe it has some use to others in the community. ProSpec also has some major advantages over other real-time spectrogram apps available for free. e.g. time scale (x-axis labels), saving settings and sharing the audio and images, and maximum frequency tracking. These are all features I wanted a single tool to have, unfortunately all others seemed to fall short, hence ProSpec has been developed to accommodate my needs, and hopefully yours.Tested Devices (Better suited for dual core devices):Motorola Xoom with Android 4.0.4 (Good)Samsung Galaxy S III (Quad core, AU release) with Android 4.0.4 (Good)Sony Xperia with Android 4.0.4 (Good)Motorola Atrix 2 with Android 2.3.6 (Good, must have sdcard installed)HTC Desire HD with Android 2.3.5 (A bit slow)Motorola Atrix with Android 2.3.4 (Good)HTC Incredible S with Android 2.3.5 (A bit slow)BUGS AND REPORTS:Apologies for incompatibilities on devices other than the ones listed above, I have limited resources and don't have access to the thousands of phones and tablets out there. If you find any bugs or issues please take the time to e-mail me (miscanalysis@gmail.com) and include what you were doing at the time the bug occurred. Like image was synthesised from accumulating sine waves into an audio file.",
+    "reviews": [
+      {
+        "timestampMsec": "1350127270516",
+        "starRating": "4",
+        "title": "Sinusoidal artifact?",
+        "comment": "ASUS TF300 (ICS). In a quiet environment shows a sinus artifact across the entire display. I suspect it is a byproduct of running on this TF300. I look forward to further testing and enhancements. 4 stars for an ego-free product.",
+        "commentId": "lg:AOqpTOGq6hQZb-6MPqln9e_YMFuSjm4ItLSq9qVjc3iye3yOq3eypodGy28aIF3cN4lR9hNH8Doxjchj-YgFOQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350799855703",
+        "starRating": "3",
+        "title": "Ok",
+        "comment": "But better spectral analyzers than this on play and with better UI,better functionality and far smaller memory size..sorry,not impressed so uninstalled.",
+        "commentId": "lg:AOqpTOGSUvrYg9CSWr7GWiIzYEdHAhlv6bP0wT530ulpUSuT8Vr7uz7G2reRkoVMRk2MummmDIoy8aIb6FaHvA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356414011504",
+        "starRating": "5",
+        "title": "Great real time sonogram app",
+        "comment": "Great way to analyze speech",
+        "commentId": "gp:AOqpTOFnYhB_8s4W8BZtxnR-au_nFQeQopPL1Mawz2Ki8gdNSwyO43O1w05rD90cszdd_zELs6dNpe_1Nt-Usw",
+        "author": "Taylor Funk",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352961811965",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "i like the controls.",
+        "commentId": "lg:AOqpTOEnmmou6267rAneTgFzc7q0s8DcWql3wT4Cn3omQvJfKEwDBvWBbyA77yOOwxgFkR1rK8BfDcCY95-BXQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346215206937",
+        "starRating": "3",
+        "title": "Good start but has issues",
+        "comment": "The images are often only partial when saved.  File browser needs to remember last Dir or allow setting a default.  Play and record are not responsive and saving a screenshot should not require you to stop recording.  Currently it just silently fails.",
+        "commentId": "lg:AOqpTOHQ0KiB3hSO67BzZYbKZAXvUwHGu-AYXTv-Ykgq95zGYXt33v4zkiDmXSnT2-gypgKwsrMIKWnG0z1J5g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345435490740",
+        "starRating": "5",
+        "title": "Impressive!",
+        "comment": "I am loving the spectrogram out put, the detail is remarkable and i initially downloaded this app as an educational tool but will be buying the full version to use the mail-out spectrogram feature for everyday use, well made, great idea",
+        "commentId": "lg:AOqpTOGRFMKVmtu78dizie9jF9d_w9_jOVKYCaaIrPXRg3ZxVV92DR0TgL8PKm-pvr2jak75rV_bPXOLXQi9_A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345108397067",
+        "starRating": "5",
+        "title": "Great audio analysis tool",
+        "comment": "Good spectrogram resolution and added flexability to email and save the recored audio and images. Going to buy full version now mainly for the zooming and spl meter.",
+        "commentId": "lg:AOqpTOE0xLhV3xNrbOIXYwgsxvD19DcaU00kieDOvsQWZuwJZk6MBacwQ-OqE5B8QuRXZQB4CuhdYMNJDoUDww",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354180943786",
+        "starRating": "1",
+        "title": "deleted",
+        "comment": "read phone state and identity, read location. deleted.",
+        "commentId": "lg:AOqpTOHwHQ5Hpf_ad3UBOz4MzIPZevz50MQE9sFyPsGkr0DUOfaGEtUGN0I063dpeqp834AY0KxW0Fv5Wk_Y7Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.digiphd.prospec.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Vlille Checker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.vlille.checker",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "August 23, 2013",
+  "version": "3.0.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "18",
+  "rating": "4.8333335",
+  "contentRating": "Low Maturity",
+  "creator": "Jacquemart Olivier",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.vlille.checker",
+  "extendedInfo": {
+    "installSize": "1,022k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Vlille Checker est dÃ©diÃ© aux utilisateurs du V'Lille et de son service VLS (VÃ©los en Libre Service) Ã  Lille.Au quotidien, l'application vous permet de gÃ©rer facilement vos stations favorites.Le but est de pouvoir \"checker\" facilement l'Ã©tat des stations.Vlille Checker se veut efficace en proposant un contrÃ´le en temps rÃ©el des stations.L'application offre Ã©galement une recherche rapide et une localisation des stations les plus proches.Vlille Checker, l'application non officielle pour les habituÃ©s du VLS du service V'Lille.",
+    "reviews": [
+      {
+        "timestampMsec": "1368375587211",
+        "starRating": "5",
+        "comment": "Formidable!",
+        "commentId": "lg:AOqpTOGIZuL2GpTnTog1mGYqKhGI8qN9uCFMDt3-uCLsPFb1TB5s2h_QOaevuVThB7ctcJ3lERp4VAqkkUfDKA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

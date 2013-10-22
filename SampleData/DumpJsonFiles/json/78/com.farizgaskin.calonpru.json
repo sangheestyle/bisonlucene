@@ -1,0 +1,53 @@
+{
+  "title": "Senarai Calon PRU",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.farizgaskin.calonpru",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "April 29, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Farizshah Gaskin",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.farizgaskin.calonpru",
+  "extendedInfo": {
+    "installSize": "500k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This app lists all candidates participating in Malaysia's 13th General Election (PRU 13). On the eve of election day, we will provide live updates in this app as well. For more info please visit http://farizgaskin.com",
+    "reviews": [
+      {
+        "timestampMsec": "1367505454088",
+        "starRating": "4",
+        "title": "Samsung grand",
+        "comment": "Good info.",
+        "commentId": "gp:AOqpTOFBtjRdYWQlV4jLxII_0ssuOFd0vk1koYyBFdiaN3IXvJOxwpc0zk2hk71EaibWXw2q12QPNYZQgsLCFg",
+        "author": "Abdullah MUHAMMAD ZAHOREEN",
+        "authorURL": "http://lh5.googleusercontent.com/-Cb2o8dxY1J0/AAAAAAAAAAI/AAAAAAAAErE/QJlUfdcOblY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Cb2o8dxY1J0/AAAAAAAAAAI/AAAAAAAAErE/QJlUfdcOblY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

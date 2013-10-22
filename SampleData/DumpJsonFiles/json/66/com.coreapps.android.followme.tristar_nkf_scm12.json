@@ -1,0 +1,57 @@
+{
+  "title": "NKF 2012 Spring Meeting",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_nkf_scm12",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 3, 2012",
+  "version": "2.5.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tristar_nkf_scm12",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is the official application for the National Kidney Foundation2012 Spring Clinical Meetings, May 9-13 at the Gaylord National in Washington, DC.  Navigate like a pro with our interactive maps, search the exhibitor directory, or create your own show schedule by choosing sessions you want to attend and speakers you want to hear.  Enjoy the show!",
+    "reviews": [
+      {
+        "documentVersion": "2.5.1",
+        "timestampMsec": "1360500379154",
+        "starRating": "1",
+        "title": "Keeps crashing.",
+        "comment": "It would ld be a good app if it actually opened.",
+        "commentId": "gp:AOqpTOFzKJVt3liaBuiEj17qnEyYe2JVh7CPL0vTvcMdBjXrlaAqssoxMsc72-LAzyr_oyvxRcIxKQ0BXt-yniE",
+        "author": "Matthew Roca",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

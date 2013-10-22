@@ -1,0 +1,30 @@
+{
+  "title": "NPV/IRR - Interval",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.npvirr",
+  "category": "Finance",
+  "price": "$2.99",
+  "datePublished": "March 15, 2010",
+  "version": "2.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Not rated",
+  "creator": "Business Compass LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.npvirr",
+  "extendedInfo": {
+    "installSize": "58k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Accepts flexible cash flow (CF) timing, discount rates and CF repetitions. CF starts at non-zero CF timing, if specified. Otherwise, CF for IRR and NPV start at 0 and 1 respective. CF starts at the next number. Discount rate can be specified for each CF for NPV. Previous discount rate is assumed when none specified.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

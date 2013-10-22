@@ -1,0 +1,46 @@
+{
+  "title": "Personal SMS Inbox - filter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.filterSms",
+  "category": "Personalization",
+  "price": "$0.99",
+  "datePublished": "August 8, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "6",
+  "rating": "2.6666667",
+  "contentRating": "Everyone",
+  "creator": "Dawnsun Technologies, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.filterSms",
+  "extendedInfo": {
+    "installSize": "431k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "One of the best utility application to secure your personal SMS from unwanted disclosure and to avoid SPAM SMS!!! A perfect messaging(texting) and SMS Spam protection for your Android. Application also provides facility to sending private group texting. Only need to once mark contacts and/or message titles as SMS Spam or Private contacts. Thereafter application removes SMS for marked contacts from inbox as soon as received and keeps them in respective folders of application. Private SMS are protected by password authentication. A notification is posted on title bar on receipt of private/spam SMS. Application also enable you to send group TEXTing privately.",
+    "reviews": [
+      {
+        "timestampMsec": "1283783073653",
+        "starRating": "1",
+        "comment": "Absolutely not comparable to Horizon. Uninstalled after 2mins. Try Horizon instead, and no I\\'m not on commission!!",
+        "commentId": "lg:AOqpTOFnZW0CneqtWE2wBLvU3vpjyApTZloNxnWQ5H5SExUssxXVTKztGz2pbpPMmUuwhEWkuHt5QOGSUIzIWUo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1270792061353",
+        "starRating": "5",
+        "comment": "Awesome app thanks developer",
+        "commentId": "lg:AOqpTOGz9sCJMu9ZjV4nKNB5jK1V0xXEIK5CoTwrEqYb-iF2KA-Zv40AbJYPUaucerqeZ-AUvrMQH0oeSAHaCGA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

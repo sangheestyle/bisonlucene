@@ -1,0 +1,56 @@
+{
+  "title": "The Cure Songs - Top 25",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chewz.thecuretop25",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "June 6, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Inspired App Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chewz.thecuretop25",
+  "extendedInfo": {
+    "installSize": "4.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Cure songs is a music app that contains simply the best 25 cure songs of all time - with videos!, as well as constant live news updates on the band, their official website, Twitter and Facebook pages!.A Sample of just some of the songs include:- A Forest- Love Cats- Lullaby- Disintegration- Blood FlowersYou'll need an internet connection to watch the videos in this app and we hope you love it!, We welcome your feedback, please tell us what you think!.",
+    "reviews": [
+      {
+        "timestampMsec": "1360492113161",
+        "starRating": "5",
+        "title": "great little app",
+        "comment": "great app, a must for all cure fans!",
+        "commentId": "gp:AOqpTOG7kuGW-WDvdQqFUpRkDFGp486RkSG11Tw8XZZWiqRhqWYygQNOux0QhAtOlD04pOYneCWl-nQ4SJEUJgw",
+        "author": "Andrew Davies",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368444812324",
+        "starRating": "5",
+        "title": "Best Band EVER",
+        "comment": "Robert Smith = :3",
+        "commentId": "gp:AOqpTOEK0TmIZs17-NpH9NSRNM49sCaAnVbXsw0M250CjXJElOZWRdgNxBtJNkysIIqyFERjG7qpOhVSwvjFgYQ",
+        "author": "TheGrungeGamer2 .",
+        "authorURL": "http://lh4.googleusercontent.com/-mFGzbwoVq8I/AAAAAAAAAAI/AAAAAAAAADI/QnFtxl_B5Hs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-mFGzbwoVq8I/AAAAAAAAAAI/AAAAAAAAADI/QnFtxl_B5Hs/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.chewz.thecuretop25.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

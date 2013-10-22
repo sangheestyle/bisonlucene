@@ -1,0 +1,65 @@
+{
+  "title": "Cardio Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exercise.lite",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "July 15, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "22",
+  "rating": "3.090909",
+  "contentRating": "Low Maturity",
+  "creator": "Moneybags Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exercise.lite",
+  "extendedInfo": {
+    "installSize": "795k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Please leave a comment or rating! :)Cardio Pro is a GPS based fitness tracker for your Android device! Monitor your distance, pace, time, calories, miles per hour, and more. Track the calories burned during your workout with Cardio Pro's calorie counter which takes into account your weight, speed, time and distance to provide the most accurate calorie count possible. Track your progress in multiple activities including walking, running, biking, and roller blading.Features:-Cardio Pro requests a continuous stream of location updates from the GPS hardware within your Android device to ensure the maximum possible accuracy.-Cardio Pro has the ability to run in the background! Change your workout music, shut off the screen and rest assured that your workout progress will continue to be accurately tracked!-Keep track of your total time, total distance, current pace, average pace, miles per hour, maximum miles per hour, and total calories burned.-Accurate calorie tracking! By taking into account your weight, speed, time, and distance, Cardio Pro gives you the most accurate calorie count across multiple exercises.-Cardio Pro can be used to track your progress in walking, running, biking, and roller blading! (More to come in free future updates!)-Easily view all of your workout statistics after you finish your activity.-Easily pause and resume activity tracking at any time during your workout.If you have any questions or comments, email us or leave a comment on our web page (See below). We'll be more than happy to help!",
+    "reviews": [
+      {
+        "timestampMsec": "1323540990107",
+        "starRating": "2",
+        "title": "Unreliable",
+        "comment": "Calorie counter never works! After an hour of rollerblading it tells me I burned 2 calories. Find a different app",
+        "commentId": "lg:AOqpTOF3mQ5WeT1VGRGDtlkb1-b_lLlSgropolFIjaa6_oJl23eu-wH3NUgjKABbQ7Fj5T3E3V6wD2Fem8Kwlg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1318718660560",
+        "starRating": "2",
+        "title": "Inefficient",
+        "comment": "Distance traveled is very inaccurate and calorie counter freezes all the time. Only feature that does work right is the stop watch.",
+        "commentId": "lg:AOqpTOHQxz0GFzrdJV8j3NQ3bMg8y7u3pFGvJI228BfDKqfUIPjOt5zjoE3CcrZ4b-e0tgpWyGIwcI0YcvMLPg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311096880510",
+        "starRating": "5",
+        "comment": "simple way of tracking calories burned and distance travelled when I run. five stars.",
+        "commentId": "lg:AOqpTOG7NSawa5UlcK41jgQIAF0eQeM1YvwLRW0gmS9hi9RJPxaRSmebqRJ4shUksHvXWKSzi1T_S6IKwORg-Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310770833061",
+        "starRating": "5",
+        "comment": "Useful app :)",
+        "commentId": "lg:AOqpTOETBlX-zYuysrMG-W7_25-AtRXV6QmKFd1IsdxGPd541jpLgtcBqcL1BF9DB0rMEOz1bwSRIM8xxwAaew",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

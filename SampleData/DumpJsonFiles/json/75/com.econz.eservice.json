@@ -1,0 +1,40 @@
+{
+  "title": "EService GPS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.econz.eservice",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 26, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Econz Wireless",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.econz.eservice",
+  "extendedInfo": {
+    "installSize": "970k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Econz EService is a Mobile Field Service Dispatch and Work Order Management System that works on Smart Phones and Tablets. EService is web-based software that enables a field service team to receive and respond to customer work orders. EService Features include:-Simple web based work order dispatch software-Wireless software that enables a field service team to receive and respond to customer work orders -GPS Tracking (Location, Movement, Speed, Idle Time, etc.) -Over 14 Reports (Time, Attendance, Parts and Inventory, etc.) -Custom and Editable Fields (Work Order Entries) -EService offers GPS Tracking and is Available on all Wireless Carriers! Office Dispatch/Service Manager:With EService management can:-allocate and dispatch jobs efficiently according to staff availability and location-assess job status and progress giving them the ability to advise customers if the service worker will be early or late -invoice for work as soon as a job is completed by exporting job information from EService-reduce data entry and the errors that result from lost or incorrect paperworkField Workers:This powerful, cost-effective, service enables your field service team to:-receive and respond to service orders within seconds-access accurate, up-to-date job and customer information-provide prompt efficient service to customers-track and record resources used on a job including parts and labor-offer your customers time commitments that are near impossible without the job progress and worker visibility provided by EService Classic Web Access Features:- Security- Call Taking- Job Creation- Assisted Assignment- Auto- Dispatch- Job Management- Work Force Management- Customer Management- Search (job#, customers, etc)- Administration- ReportsEService Field Client Features:- Security- Receive Jobs- View Jobs Details- Accept and Reject Jobs- Update Jobs- Call Customer - Add Resources to Jobs- Complete Jobs- Work out of Coverage- ConfigurationEconz Wireless products also integrate into over 100 accounting and payroll packages such as: â¢\tADP Payroll â¢\tPaychex â¢\tSage MasterBuilder and Timberline â¢\tKronosâ¢\tCeridian â¢\tQuickBooks â¢\tXeroâ¢\tOver 100 more packagesâ¦ Econz Wireless can also do custom builds specific to your Company needs. Please contact our offices to discuss further.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

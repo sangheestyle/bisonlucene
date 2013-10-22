@@ -1,0 +1,63 @@
+{
+  "title": "Point Mobile™",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.calyx.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 8, 2013",
+  "version": "2.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.25",
+  "contentRating": "Everyone",
+  "creator": "Calyx Software®",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.calyx.app",
+  "extendedInfo": {
+    "installSize": "7.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Point Mobile gives mortgage professionals âon-the-goâ capability through real-time integration with Point or PointCentral.  With Point Mobile you can:* Collect borrower information* Search and view loans in your pipeline* View loan status",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1362866347134",
+        "starRating": "1",
+        "title": "Android tablet",
+        "comment": "really need to use Calyx Point on an android tablet while traveling. Smartphone is very inconvenient option.",
+        "commentId": "gp:AOqpTOHbwjJQFSoyjD0YmLGEmjVXBiu92mVJlAEU5GgolPQohjhQwNPaXuUXZe8H4cHy-DaZC-goRuDrSGpRRg",
+        "author": "Igor Gorskiy",
+        "authorURL": "http://lh4.googleusercontent.com/-zvq9ttb3T9M/AAAAAAAAAAI/AAAAAAAACzQ/OwC_8gf75LQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-zvq9ttb3T9M/AAAAAAAAAAI/AAAAAAAACzQ/OwC_8gf75LQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1353120488415",
+        "starRating": "2",
+        "title": "samsung galaxy tablet ?",
+        "comment": "when will this app work on a tablet instead of just the smartphones?",
+        "commentId": "lg:AOqpTOHKNfIir1bB_DwbQ3SS_58jJfAHk4jKVZtDY22ms7K_fupT9ozviFUEreO1cDNKrJN-m8q5-7HPynQ4Iw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367538286389",
+        "starRating": "5",
+        "comment": "Good!!!",
+        "commentId": "gp:AOqpTOHYkkyFCAtYhMqubehGpzQX6pd5FTMnbg_KCI2ajtCrPhfGFZSwGU9cxRa3PpI8gSRARiGYY-Md0UeNCA",
+        "author": "Song Liam",
+        "authorURL": "http://lh3.googleusercontent.com/-hnUWQH70joY/AAAAAAAAAAI/AAAAAAAAACg/Q7cphoUVzZs/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-hnUWQH70joY/AAAAAAAAAAI/AAAAAAAAACg/Q7cphoUVzZs/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

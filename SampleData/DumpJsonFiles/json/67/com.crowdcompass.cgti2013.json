@@ -1,0 +1,38 @@
+{
+  "title": "Cebrin Goodman Teen Institute",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.cgti2013",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 28, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.cgti2013",
+  "extendedInfo": {
+    "installSize": "5.5M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "The Official Cebrin Goodman Teen Institute App!With the CGTI App, you'll be one step closer to joining one of the largest and most acclaimed leadership institutes in the nation! You'll be able to preview what's coming at the Training Institute and who'll be there to motivate and uplift you, gain access to the agenda, maps, direct links to our Facebook and Twitter feeds, receive updates and breaking news before and after the Institute, preview some of the games we will play using the App at CGTI, and much more!This App is made possible by the support of the Cebrin Goodman Center, an affiliate of Lillian and Larry Goodman Foundations.App Keywords: CGTI, Cebrin Goodman Teen Institute, Teen Institute, Teen Leadership, Leadership Institute",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.cgti2013.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

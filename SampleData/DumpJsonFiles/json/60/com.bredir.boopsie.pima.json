@@ -1,0 +1,63 @@
+{
+  "title": "Pima County Public Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.pima",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 14, 2013",
+  "version": "4.5.97",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.pima",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Put the library in your pocket. Search for books, DVDs, audiobooks, CDs and more. Place reserves or renew your items, see whatâs happening on our events calendar, find the nearest library, Ask a Librarian, or follow us on Facebook or Twitter. We are here for you!Check out your own books using your smartphone when youâre in the library! When youâre out and about, see of the library has a book you want. Scan the barcode, and if the library carries it, you can reserve it. Itâs that easy!Thereâs a great new way to search our books, too. Just type the first couple of letters of words and see the search in action while you type. So for books on \"Jacqueline Kennedy Onassis\" simply type \"ja ke on\". No need to search by field, no need to enter complete words, and no need to wait for results.Â Do you like downloading books? With this app, our books from OverDrive are just one click away. If you love your library, youâll love this app!",
+    "reviews": [
+      {
+        "documentVersion": "4.5.97",
+        "timestampMsec": "1364457082479",
+        "starRating": "2",
+        "title": "Good idea but needs improving",
+        "comment": "Some parts were hard in the eyes (can\\'t read well), cannot look up authors in one description. Crude but it gets the job done, maybe a simpler or different layout can help.   Great job for now, but I think it needs some user testing. I tried looking up Tom Cruise and wasn\\'t able to see anything.   Keep up the good work.",
+        "commentId": "gp:AOqpTOG73rR-lsi0mBmJbwoS9F4k9lhUfVqF9z6u2dvoe1mY4RoH-zLu-dFPmQNfDI9TMvDukMzgDh5GwYzYnw",
+        "author": "Desiree Bingham",
+        "authorURL": "http://lh5.googleusercontent.com/-fzzch2ZBI38/AAAAAAAAAAI/AAAAAAAAAF8/fbosfDFEpqo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-fzzch2ZBI38/AAAAAAAAAAI/AAAAAAAAAF8/fbosfDFEpqo/photo.jpg"
+      },
+      {
+        "documentVersion": "4.5.97",
+        "timestampMsec": "1369781820666",
+        "starRating": "4",
+        "title": "Good features for library users",
+        "comment": "The features are handy. The search function has been improved lately. I can check my account and find the nearest library, which is nice if I\\'m out and about and need wifi. One of the best features is BookCheck.  Now I don\\'t have to wait for a checkout computer, I can checkout my books anywhere in the library.",
+        "commentId": "gp:AOqpTOHjCgEHEcBvFHVTljnvclwthwEssrX3tZat4zxmyE0mnb_wH1HTvmALXSgtWxSw8pfKOlAylYPrxe9kEA",
+        "author": "Sherrie Baltes",
+        "authorURL": "http://lh4.googleusercontent.com/-i4y-8VMy-LU/AAAAAAAAAAI/AAAAAAAAB0E/lew0fOmDn3Y/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-i4y-8VMy-LU/AAAAAAAAAAI/AAAAAAAAB0E/lew0fOmDn3Y/photo.jpg"
+      },
+      {
+        "documentVersion": "4.5.97",
+        "timestampMsec": "1370885543023",
+        "starRating": "1",
+        "title": "Overdrive section does not work",
+        "comment": "Circular links in Overdrive made it impossible to work with reserves or wish list.",
+        "commentId": "gp:AOqpTOEQ0222kQhIOloJafveG2d9tguNI3579n7We0ipUSd6bd2fi2GukgbltWGFkuuBtLMTXdro0Ql2nIfy-g",
+        "author": "Caroline Tompkins",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

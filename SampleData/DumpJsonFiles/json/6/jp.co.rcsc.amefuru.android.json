@@ -1,0 +1,35 @@
+{
+  "title": "amefuru call",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=jp.co.rcsc.amefuru.android",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "1.0.7",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "243",
+  "rating": "4.0493827",
+  "contentRating": "Low Maturity",
+  "creator": "アールシーソリューション株式会社",
+  "creatorURL": "https://play.google.com/store/apps/details?id=jp.co.rcsc.amefuru.android",
+  "extendedInfo": {
+    "installSize": "906k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "This is a push notification application which gives you a notice of rain to the specific location where you registered.List view and widget display a list of weather over the next 10 minutes every hour.[Setting the items]Set up each item.   ï½¥Rainfall Notification  ï½¥Communication Interval with a server: A widget is updated for every set interval.  ï½¥Communication Interval with a server: The weather information is acquired at set intervals. Then the widget is updated,  and the push notification will be done.  ï½¥Push notification intervals: When more than the set-up interval has passed since this application notified at the end, this application will notify.  ï½¥Forecast Point  ï½¥The day of the week to notify  ï½¥Time to notify  ï½¥The method of a notice  ï½¥Sound in the case of a silent mode[About notification of snow]When Rainfall Notification has set up lightrain or regular rainfall, this application notifies all the snow notification.When Rainfall Notification has set up more than strong rain, this application notifies in case of snowfall of 1-3 cm or more.[More about this app.] ã»Life & Business Weather Inc. provides weather information for this application.ã»We will switch this service from free to paid service in future.ã»The push notification sometimes can't receive by your network status, server maintenance or failure.[Requirements] Android 1.6 or later[Support Website] http://smart4me.net/amefuru_android/ [Information] information@rcsc.co.jp",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD"
+    ]
+  }
+}

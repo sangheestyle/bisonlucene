@@ -1,0 +1,39 @@
+{
+  "title": "Macquarie Securities Research",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.carryquote.v3.intellicast",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 15, 2012",
+  "version": "3.2.0.5406",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "9",
+  "rating": "4.888889",
+  "contentRating": "Everyone",
+  "creator": "Macquarie Securities Group",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.carryquote.v3.intellicast",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "CarryQuote Research application provides global institutional investors with personalized access to their entitled proprietary research and multi-media content. Features include: â¢ Online and Offline Access. Access your research and content from your iPhone and iPad anytime and anyplace. Through CarryQuote Researchâs âBriefcaseâ feature, research can be read or viewed offline, without a WiFi or 3G connection.â¢ Focused, Relevant Content. Receive only the types of content you are interested in.â¢ New Research Push Alerts. Receive notification when new research is available, even if the app is not running!â¢ Integration of custom News  feedsâ¢ Full support of Conference features, including offline viewingâ¢ Research Analysts linked to research, coverage and recommendationsCarryQuote Research is free to download, but you must be a registered client with a valid username and password to gain access. Standard messaging and data rates may apply.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.carryquote.v3.intellicast.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

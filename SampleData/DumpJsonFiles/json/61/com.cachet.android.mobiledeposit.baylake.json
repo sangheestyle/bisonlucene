@@ -1,0 +1,37 @@
+{
+  "title": "mCheck - Mobile Check Deposit",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cachet.android.mobiledeposit.baylake",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "June 26, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "Baylake Bank",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cachet.android.mobiledeposit.baylake",
+  "extendedInfo": {
+    "installSize": "906k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "With Baylake Bankâs mCheck â Mobile Check Deposit âyou can deposit checks to your Baylake Bank checking, savings, or money market accounts. Simply take a picture of your check with your phone, and upload the information to Baylake Bank.Download this App and Enroll online to enjoy the convenience and security of mCheck. You will receive an email indicating when you can start depositing checks to your account with mCheck.To be eligible to use mCheck, you must have a Baylake Bank checking, savings, or money market account and your enrollment must be approved by the bank for the mobile check deposit service. There is no charge from Baylake Bank, but data rates may apply.Baylake Bank. Member FDIC.",
+    "reviews": [
+      {
+        "timestampMsec": "1378311646398",
+        "starRating": "2",
+        "title": "Force quits",
+        "comment": "After I take the back photo the app quits, every time. I\\'m on a cellcom razr maxx, android v. 4.0.4",
+        "commentId": "gp:AOqpTOHh0TrqXToPQ5MiSgC1z6mHrqsaJmSg6n7Rrqn__Qa2q6hdJjLobebpMPFg3i0euExsR8TwJOAlVneL1A",
+        "author": "Taylor Schultz",
+        "authorURL": "http://lh6.googleusercontent.com/-hrJJmHCkhKU/AAAAAAAAAAI/AAAAAAAAAqU/vF-EEApfF-E/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-hrJJmHCkhKU/AAAAAAAAAAI/AAAAAAAAAqU/vF-EEApfF-E/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

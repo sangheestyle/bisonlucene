@@ -1,0 +1,247 @@
+{
+  "title": "Book Catalogue",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eleybourn.bookcatalogue",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "April 3, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "1072",
+  "rating": "4.487873",
+  "contentRating": "Everyone",
+  "creator": "Evan Leybourn",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eleybourn.bookcatalogue",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "An open source book cataloguing application (source on github). Books can be added manually, by ISBN, or barcode.Remember to backup and export your existing catalogue before you upgrade!Book Catalogue is NOT a book reader.Features include:* Sorting by author (last name), title, series, etc.* user-defined sort and list styles* Search Amazon, Google Books, goodreads and LibraryThing for data* Searching* Thumbnails (download, gallery or camera)* Loaning books* goodreads synchronization* Export and Backup* Bookshelves (books can be on multiple shelves)Want a wishlist? Just create a bookshelf called 'Wishlist' and start adding books.Please email us (below) if you have any issues after an upgrade.Wiki can be found at:https://github.com/eleybourn/Book-Catalogue/wikiFull history at:https://raw.github.com/eleybourn/Book-Catalogue/master/READMERecent History:New in 5.0.8* More German translation updates (Robert Wetzlmayr)New in 5.0.7* Fixes to bugs introduced in 5.0.5!New in 5.0.1-5.0.5* Style 'Added date' is now in descending order for Android 2.2+* New field: Language* Minor Performance improvements for Android 2.2+* Translation updates (Imkal)* Bug fixesNew in 5.0.0* A non-editable view of book details, with 'fling' support! (Nick Silin)* Archiving of entire catalogue, including books, covers, preferences and styles* Updated and improved interface, including Action Bar suppor (should work better on devices without menu buttons)* Support for pic2shop scanner* More French translation updates (Imkal & Djiko)* More German translation updates (Robert Wetzlmayr)* More Russian translation updates (Nick Silin)* Bug fixesNew in 4.2.3* Improve handling of invalid ISBNs when sending to goodreads* Other minor bug fixesNew in 4.2.2* Fix tiling of background image for some Android versions* Better handling of incompatible scanner apps* Send more details on crash or when asking for help* Cleanup of layouts (Nick Silin)* Bug fixesNew in 4.2.1* Fix crash when expanding list items and using 'Expand All'New in 4.2* Date-Picker that supports dates down to 0AD as well as partial dates* HTML descriptions display correctly with click to edit* Preference for pre-selecting whole image when cropping* Preference for auto-rotating images from camera* Preference to use external cropping tool (experimental)* Added more items to the options menus* French translation updates (Imkal)* German translation updates (Robert Wetzlmayr)* Russian translation updates (Nick Silin)* Updated OK/Cancel button positions to conform to current Android standards* Full keyboard available when entering ASINs* Keeps 5 previous export files* Better detection of \\'changes\\' when editing books* Support for a wider range of Gallery and file browsers* More reliable date handling on import/export/sync* Fix handling of duplicate anthology titles* Various bugs fixedMany thanks to our dedicated beta testers and translators!Blame Grunthos for all bugs and errors. And send us bug reports.New in 4.1-4.1.5* New style options: location and date read* Sharing can now send via any app that advertises the interface (eg. mail) (filipeximenes)* French translation updates (Djiko)* If fields have been edited, and 'back' is pressed, ask the user for confirmation (filipeximenes)* Assume book is read when importing from goodreads if the user has rated it* Change install location to avoid problems with encrypted SD cards* Bug fixes in file import and data import* improved import robustness* fix for long-standing bugs if rotation while editing a book, and for a bug in date parsing when in non-english locales* Translation updates (Robert Wetzlmayr)* Bug fix for 'read' date import from goodreads* Fix bug relating to commas in bookshelf names creating extra shelves",
+    "reviews": [
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1366260527881",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Easy to use, and I love how it subcategorizes the books by series. I am particularly impressed that the developers actually pay attention to reviews and work to satisfy all their users. Kudos to you, Leybourn and Warner.",
+        "commentId": "lg:AOqpTOFzo4yXj-Fn3z7KIOua8LX8N4hra2gzBPYur5QmOteUnMdyILyRXlOfWUL7ZjB5STDOEyF4zfeIBLnjHw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1368945311295",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "This is fantastic! As a teacher I sometimes forget which books I already have. This app keeps me organized and informed about my book collection. Thank you!",
+        "commentId": "gp:AOqpTOEWw2AKzTTUfhaPSOEIJQNb1_YxXws8--igrl8_gV4ChXetQERjRFf-VpBIIxqH-GphQT6b883hAjwR-Q",
+        "author": "Laura Heffernan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1369788738128",
+        "starRating": "5",
+        "title": "Love this app",
+        "comment": "I recently installed this app and find it very easy to use. Only problem so far is the oldet books\\' ISBN # starts with a # other than \\\"9\\\" so it isnt recognizing thr book. Will ask what to do about this...otherwise it is awesome!!",
+        "commentId": "gp:AOqpTOHfngNoOpqT3qtXzLXgOcfDeAN5BWyE15FIAjqzklaaWzZMUMZB5hdAjdcPrzmHcbYhSXLG4TjfqBRAyQ",
+        "author": "Pamela Fernandez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1369602672458",
+        "starRating": "5",
+        "title": "Easy to use, brilliant app!",
+        "comment": "This app is just what I was looking for. You can scan or manually enter books and export the data, it\\'s intuitive to use and has a nice interface. I hope they develop a dvd and cd version.",
+        "commentId": "gp:AOqpTOEoVmWqIB5Ed-lygO59DPNs94PEsUtM3c8oODwgmLportOX2UnlZjL0f5V-cHPqmJtiH8YaH2Pv8ThZXg",
+        "author": "Carol McKay",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1366986048303",
+        "starRating": "5",
+        "title": "Simply the best",
+        "comment": "Quite simply the best collection app of any kind I have found, & I have tried dozens.If only they devs could give us CD & movie collection apps as well, then my life would be a lot easier.",
+        "commentId": "gp:AOqpTOFLSnW6J0W7SxnFcLYRPDBx-FP0K4WyHmY0xoYg0CDwy-rQ-Wu-ro9P544578yHssri0xElcsqs8qhO7A",
+        "author": "Lindsey Kruger",
+        "authorURL": "http://lh3.googleusercontent.com/-mIsCwa28_9w/AAAAAAAAAAI/AAAAAAAAAB0/ZdJHqpgvYXk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-mIsCwa28_9w/AAAAAAAAAAI/AAAAAAAAAB0/ZdJHqpgvYXk/photo.jpg"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1376430087693",
+        "starRating": "3",
+        "title": "Great app but could we sync",
+        "comment": "I love using this app, easy to add books by scanning or entering. Does this app sync to other devices? Is there a website that I can log in to and look at my list or import a list previously made, that also syncs? Would be an excellent app if this could be added? I am a teacher and would love this app even more. Thank you!",
+        "commentId": "gp:AOqpTOE50qDAlernuP2KkSZpR4SzBIleKiaCTCWBDa_GeDiB9wl6RgxdeCqYN_ySvALs2hpD5rJoABhXwGc2NQ",
+        "author": "Rene Stoffels",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1366821732684",
+        "starRating": "5",
+        "title": "very good.. wish it was available for dvds too",
+        "comment": "this app is fantastic, it does exactly what it says on the tin. easy way of adding books to your catalogue. i wish the developer would create an equivalent for DVDs.",
+        "commentId": "gp:AOqpTOGu1wsOwQpl73tuWRqVRo0GcrIbbkBJ0nv2o4QyB3JKRVR3LHTqCppPsX-6m9fgkIyDTukM2IW3UZPdug",
+        "author": "Judith Spangenberg",
+        "authorURL": "http://lh3.googleusercontent.com/-lP1uXMhXSiY/AAAAAAAAAAI/AAAAAAAAAhA/FU8avrfUSiU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-lP1uXMhXSiY/AAAAAAAAAAI/AAAAAAAAAhA/FU8avrfUSiU/photo.jpg"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1366611619231",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Awesome Perfect app if you have a lot if books. Finds books really easily. Very quick to reply in regards to problems. Email first and if not resolved then complain.",
+        "commentId": "lg:AOqpTOF3cCWZ4-ge4sPcPEh8OZJ6BQ1mtNsdVJuhZxYKllDass9ZzmUxPf7BpN6pqJ9rdgMMJJCZ9G7SM8v2gQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1366730457356",
+        "starRating": "5",
+        "title": "Does all I need",
+        "comment": "No, there isn\\'t a little section to read some of what\\'s in the book. These people tell you that up front. But this is the fastest I\\'ve EVER cataloged almost 500 books! That includes the ones so old I had to manually enter the data! I found pictures and even took some from my camera to fill in the blank spots. The only thing I believe to be missing is a field for books I want to complete my sets,but for a free app I\\'m sure not complaining!  Finally something that works well on my LG VS840!  (Edit 4-23-13) New bookshelf, I must not be drinking enough coffee. Five stars and well deserved. Thank you!",
+        "commentId": "gp:AOqpTOFjuf96vexB53462IBYks87jvY4QffDKUVH2hUJkfAK9IDbt-4-_mZxNCJSZAWbcP24qR9hjALJsB37kQ",
+        "author": "Rayzincroth Ravenwood",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1369461389140",
+        "starRating": "5",
+        "title": "Does what I want and Scanner works with Zxing",
+        "comment": "On my ASUS TF300, the \\\"Google\\\" scanner that comes up does not work. [Circle with flashing dots?] Just Install Zxing or another scanner to have a great scanner that it works with.",
+        "commentId": "gp:AOqpTOGiSB281sFnAJJPEr95TF7pm5oPOHs45Oz-kyo48JKZvqujDkoDzB6z0_zWTLzWM3BTjaD5cM5J6DDlzg",
+        "author": "Darrell Duffy",
+        "authorURL": "http://lh3.googleusercontent.com/-mnfdM_7HAJ4/AAAAAAAAAAI/AAAAAAAAA1E/N2yaljTCLPQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-mnfdM_7HAJ4/AAAAAAAAAAI/AAAAAAAAA1E/N2yaljTCLPQ/photo.jpg"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1370179328483",
+        "starRating": "5",
+        "title": "Great app for classroom libraries",
+        "comment": "Perfect,  exactly what I\\'ve been searching for.  It lets me organize books by author, title, or what\\'s been loaned out,  perfect for my classroom library.  I\\'m hoping this will help bring down the number of borrowed books that go \\\"missing\\\" each year.",
+        "commentId": "gp:AOqpTOGqSyWtLkQhPiBlnvQpKifzgs-pmiT6tugDUl0HpaUO5Cd3U4wZCIYIIjudtkYWLTx-lLn7cckIo9AWMQ",
+        "author": "Amanda Minkler",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1369680816132",
+        "starRating": "4",
+        "title": "Liking it more all the time",
+        "comment": "Bit of a learning curve, but thinking of more and more uses as I go.  One shelf is for books I can recommend to  acupuncture patients. Found a glitch when syncing with Goodreads - it doesn\\'t update shelf name changes or book info edits.  I have several titles that were in Chinese only; I edited the titles to reflect English after I\\'d synced the book lists.  I also changed a shelf name.  But when I sync all books the edited info is not updated in Goodreads.",
+        "commentId": "gp:AOqpTOEltVwdPbhTD92CW6jrU2KZQfNyxAJ0_h0eiuu4hu7AvA8nZTwnG9Vbwy9AZM7vhVTVswfWZgduhbXZTg",
+        "author": "Doraine Raichart",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1372497408660",
+        "starRating": "3",
+        "title": "Cool",
+        "comment": "Please add an option to add cover images straight from mobile device camera instead of just gallery.",
+        "commentId": "gp:AOqpTOHg_zQnvGrM_uo8b1BS_LrMnbRIazuTTcGofPT9c7EebGiG9MYSmaaLIe0zeH0wGBaXeNhVajeYS7znBw",
+        "author": "Patrizia Elisabeth Schwartz",
+        "authorURL": "http://lh4.googleusercontent.com/-S3VnxT7y5CY/AAAAAAAAAAI/AAAAAAAAwCs/6A4gVkx4ewo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-S3VnxT7y5CY/AAAAAAAAAAI/AAAAAAAAwCs/6A4gVkx4ewo/photo.jpg"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1371287695947",
+        "starRating": "5",
+        "title": "Awesome app",
+        "comment": "Love this app awesome UI simple yet elegant love that I can scan or look up and shows cover definitely a plus",
+        "commentId": "gp:AOqpTOEXP8fSHMJzfTgVuoq7Jn9erHRmsBC2jB-PDIfP5aiNIoEIhN8IMiyik14EcUf9zOfGs95vw26TLQd66A",
+        "author": "Seth Rader",
+        "authorURL": "http://lh6.googleusercontent.com/-dduha3qYwkI/AAAAAAAAAAI/AAAAAAAAEqw/Jj_9lRFxMZ8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-dduha3qYwkI/AAAAAAAAAAI/AAAAAAAAEqw/Jj_9lRFxMZ8/photo.jpg"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1372935623797",
+        "starRating": "5",
+        "title": "Sensational! Such a gem.",
+        "comment": "Very simple and smooth operation. Managed to catalog my entire collection fast,something i didnt achieve with other apps.  A few things though.How come sorting books by \\\"author then series\\\" isn\\'t alphabetical?  As previously stated.Please add option for background with collage of our book covers.  Thanks for developing a great user friendly app for us bookworms! Edit: i\\'m not sure of the possibility but it would be beyond amazing to be able to \\'visit\\' a friend\\'s  bookshelf.",
+        "commentId": "gp:AOqpTOE4PSzHC29g23xoPOKoULXaAK8Ee54AhfG_o2_RokjrOJtCeREpgO455yUqoYSMs_9FFNx2N3eZ71PE0g",
+        "author": "Michelle Amelia Das",
+        "authorURL": "http://lh6.googleusercontent.com/-wr2XfqvkjbU/AAAAAAAAAAI/AAAAAAAAAGM/IPD58s3SGXk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-wr2XfqvkjbU/AAAAAAAAAAI/AAAAAAAAAGM/IPD58s3SGXk/photo.jpg"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1372706522176",
+        "starRating": "5",
+        "title": "Best of Class",
+        "comment": "By far  the best book cataloging app on Google Play - I just evaluated all of them!  All due respect to the good products in the pipeline, this one is full featured with some nice options.  The ISBN scan feature is a great assist for loading your library.",
+        "commentId": "gp:AOqpTOGT0fIMRN7cXEt1Vum-Hth0-bYuo-X8vL4bOG-0FzLWciv9BZnKJWT5cakFLlUFB70NWKJs2XVIqTMf1A",
+        "author": "Charlie Nagelschmidt",
+        "authorURL": "http://lh3.googleusercontent.com/-hzqgISlF3B0/AAAAAAAAAAI/AAAAAAAAADE/C4KAfC94R7E/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-hzqgISlF3B0/AAAAAAAAAAI/AAAAAAAAADE/C4KAfC94R7E/photo.jpg"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1364687448111",
+        "starRating": "4",
+        "title": "Is Google Books integration a consideration?",
+        "comment": "Any thoughts on making this able to manage Google Books bookshelves? That would make it unbeatable!!",
+        "commentId": "gp:AOqpTOEqRyxT9F5ud6h7GxBtajUnXDuwsxp92QKhwngH5dj0r4k1RAtd_TU7Cp4GVTULF4WqXuT28ouQc_1DoQ",
+        "author": "Michael Lawler",
+        "authorURL": "http://lh3.googleusercontent.com/-oynVGvqbodM/AAAAAAAAAAI/AAAAAAAAIK4/I2ZyLRSnQwo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-oynVGvqbodM/AAAAAAAAAAI/AAAAAAAAIK4/I2ZyLRSnQwo/photo.jpg"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1369963902077",
+        "starRating": "5",
+        "title": "Simple the best..",
+        "comment": "I do not do reviews.. But I had to for this fantastic app that does exactly what it says...the UI is simple and very customizable... It allows you to catalogue you books efficiently and even upload an instant pic from your camera when a picture is not available... I was able to catalogue over 200 books in under 2hrs...thanks n kudos to the  developers...love it love it love it :-)",
+        "commentId": "gp:AOqpTOHM7FpChx1ozsbmeeCf5NdSpyHKAFMPqT0CcpoOvi2cfNJB_QCTt4EPI5HdA5t797AzdZXvx3BaWNYmkw",
+        "author": "Weena G. McDowell",
+        "authorURL": "http://lh4.googleusercontent.com/-r6VkA3eEOGw/AAAAAAAAAAI/AAAAAAAAA_g/UbqCriEpd_U/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-r6VkA3eEOGw/AAAAAAAAAAI/AAAAAAAAA_g/UbqCriEpd_U/photo.jpg"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1374380027399",
+        "starRating": "5",
+        "title": "Exactly what I needed",
+        "comment": "Please do the same for DVD and CD collections! So easy, so accurate, so fast, and it allows me to use the far superior Google goggles to scan!",
+        "commentId": "gp:AOqpTOFEWLQpXX2QP9SvwHke6NM1Oi1uhAwQFl9fbX5_brln923VvPxYgWL1MtQyy_xIUnvQFBGCY1TBkzjp9w",
+        "author": "Andrew Wagner",
+        "authorURL": "http://lh4.googleusercontent.com/-EtIJcVTqatU/AAAAAAAAAAI/AAAAAAAABhs/BGUnr1k7QSM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-EtIJcVTqatU/AAAAAAAAAAI/AAAAAAAABhs/BGUnr1k7QSM/photo.jpg"
+      },
+      {
+        "documentVersion": "5.0.8",
+        "timestampMsec": "1370601188852",
+        "starRating": "5",
+        "title": "What I have been looking for",
+        "comment": "A great app!!  I can finally catalog my book collection!  It\\'s very easy to use as well.  Took only a few minutes to get the hang of things, but after that, easy.  It would be nice if you could make a wish list, or a \\\"to get\\\" list (maybe in red text under the same author, series, etc.).  Also, I think it would be great if we could change the background, maybe a collage of the front covers of the books in our collections.  Overall, a great and essential app for book readers, collectors and such.  Great Job!!!!",
+        "commentId": "gp:AOqpTOGxy5Y7d_nYXJdHEaEY5D14g3QO1xioDwBHuTj5T-J09qZpeigVMSDvRS0TcKgicm8WIDjUi-b5UzgIPg",
+        "author": "Nathaniel Elkins",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Federal Mobile Summit",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.appET8rsyAc4s",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 26, 2013",
+  "version": "1.6",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.appET8rsyAc4s",
+  "extendedInfo": {
+    "installSize": "24M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The 4th installment of the Federal Mobile Computing Summit and Technology Showcase will examine the post-Digital Government Strategy landscape, and look at how agencies have actually implemented mobility within their organizations. It will also examine the next generation of mobile technology and what lies ahead in Mobile Government.Dr. Rick Holgate (ATF) and Tom Suder (Mobilegov) will serve as Co-Chairs of the Federal Mobile Computing Summit and Technology Showcase, which is complimentary to government participants. The event will be held on Tuesday, July 9th from 7:30 a.m. to 5:00 p.m. at the prestigious Ronald Reagan Building and International Trade Center in Washington, D.C., and will include a Mobile Technology Showcase featuring the latest in cutting-edge technology from leading mobile innovators.The host organization for the event is the Advanced Mobility Academic Research Center (AMARC). The AMARC mission is to optimize the delivery of government services through the utilization of mobile communications technology, expand academic research capabilities within government organizations, and promote STEM (Science, Technology, Engineering & Mathematics) training at academic institutions.Keywords: mobile, mobility, mdm, mobile device management, byod, bring your own device, security, api, privacy",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.appET8rsyAc4s.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

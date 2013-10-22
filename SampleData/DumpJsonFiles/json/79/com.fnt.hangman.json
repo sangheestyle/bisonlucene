@@ -1,0 +1,83 @@
+{
+  "title": "Hangman",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fnt.hangman",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "November 27, 2012",
+  "version": "4.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "3.5555556",
+  "contentRating": "Everyone",
+  "creator": "FNT Software Solutions Pvt Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fnt.hangman",
+  "extendedInfo": {
+    "installSize": "6.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "What is hangman? In its purest form, hangman is a word game played between two people. One person selects a secret word, and the other tries to determine the word by guessing it letter-by-letter.The player with the secret writes a series of dashes, one representing each letter in the solution. Initially, no information is known about the target word, other than its length.The solver calls out letters, one-by-one. If a called letter appears in the solution, all occurrences in the solution are filled in.If the letter does not appear in the solution, the secret writer adds one element to a drawing of a gallows (complete with a stick man).A complete rendering takes eleven moves.If the hangman drawing gets completed (eleven incorrect letters), then the secret writer has won. If all letters of the word are revealed before this happens, then the solver winsAs a young person, when you first started to play the game, you probably called out random letters. Once you got a hit of a couple of letters, it helped you narrow down the solution.Next, you probably graduated to calling vowels first, having learned that (just about*) all words contain at least one vowel (or the letter âYâ). * The very complete word dictionary Iâm using for this exercise contains 172,806 words. Only twenty of these words do not contain any vowel, or the letter âYâ e.g. CWM, TSKTSK, PSST, PHPHT and BRRR.(I counted just 121 words with that do not contain any of the letters 'AEIOU', so the number that use just 'Y' as a vowel is 101).",
+    "reviews": [
+      {
+        "timestampMsec": "1363532803748",
+        "starRating": "5",
+        "title": "nice work",
+        "comment": "really nice work keep it up",
+        "commentId": "gp:AOqpTOHknY0M4MxYGcjDGqtwH2LJsHLcW1lJmwH8RIYwoKy-PgNb5avo2yP_2m6NURJ3Ywl4JGP6u74LR-VR",
+        "author": "Guna Sekaran",
+        "authorURL": "http://lh3.googleusercontent.com/-g1RZTHD2tNg/AAAAAAAAAAI/AAAAAAAAAGo/81JpBs_fDQ0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-g1RZTHD2tNg/AAAAAAAAAAI/AAAAAAAAAGo/81JpBs_fDQ0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357803649047",
+        "starRating": "5",
+        "title": "Nice work",
+        "comment": "Awesome interface",
+        "commentId": "gp:AOqpTOF4SARuNWQyvxtxE9BNj3sVFY0Mt2tvdaS1itPAu-4iGF9sUdebfYv5Ip1IO7Xj8pmV6Oi2v4u6YWhb",
+        "author": "sushmitha meda",
+        "authorURL": "http://lh5.googleusercontent.com/-IwoCn4GnnAU/AAAAAAAAAAI/AAAAAAAAACk/rrJnaa6NRzw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-IwoCn4GnnAU/AAAAAAAAAAI/AAAAAAAAACk/rrJnaa6NRzw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1354852999551",
+        "starRating": "4",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOFEuFXNtvTKTGYsuXm5kB7rgiJ0Tg7X0pHFQylQvzj8d0WCSWDvMqYI-7_yVJJr5dWU6m0qquUlNie_",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371422818382",
+        "starRating": "1",
+        "title": "Shite",
+        "comment": "Dont bother with this game it freezes everytime you open the dam thing would give 0 stars if i could. Uninstalled and staying that way. Totally useless",
+        "commentId": "gp:AOqpTOF3uAlBZDxkAL1osnxp_9MKcU1FCRUGbHteDRbfFoZdnsexRjj2VLnayV27eE7kHfDRaShOTy-ghu6G",
+        "author": "Marie Trindall",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368777027232",
+        "starRating": "1",
+        "title": "Always Crashing",
+        "comment": "Crashes before you can play one game.....uninstalled!",
+        "commentId": "gp:AOqpTOGkG5YCBldlxdvNkE3NsbeqtDKpI0Bq-g1Hesm4dfA8YzrTEeaT8unJ3mceSXJ3frjQTbi5berFbgOk",
+        "author": "Frey Marlow",
+        "authorURL": "http://lh4.googleusercontent.com/-6hp_XkVMPS8/AAAAAAAAAAI/AAAAAAAAADs/qEuAaJcPhsQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-6hp_XkVMPS8/AAAAAAAAAAI/AAAAAAAAADs/qEuAaJcPhsQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1354714038211",
+        "starRating": "1",
+        "title": "H",
+        "comment": "Rubbish don\\'t bother just crashes",
+        "commentId": "gp:AOqpTOFWKmlTxCRNBk1H-qfL0cBxX2sQTOIffUTPC8vgBhP7VycoFuVTDOoEc8uCDVjFxpDgde4prttS8zb8",
+        "author": "Tim Parratt",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Dr. Andrew Millar",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=smg.dam.webclient",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "January 26, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Josette Dewey",
+  "creatorURL": "https://play.google.com/store/apps/details?id=smg.dam.webclient",
+  "extendedInfo": {
+    "installSize": "45k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Dr. Andrew, Millar Chiropractic & Wellness Center, Southern Dutchess NY.Quickly sign up for an appointment.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

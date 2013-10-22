@@ -1,0 +1,53 @@
+{
+  "title": "Discover Karnataka",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eh.experience_karnataka",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 7, 2013",
+  "version": "4.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "6",
+  "rating": "4.8333335",
+  "contentRating": "Low Maturity",
+  "creator": "Experience Heritage",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eh.experience_karnataka",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "India is as vibrant as its heritage, its people and its festivals. The deep rooted heritage gets even more interesting when seen through the eyes of the young. Be among the first to download the new \"Discover Karnataka\" app from Experience Heritage â a first-of-its-kind mobile app for exploration and travel, with a fresh new interface and faster performance.Discover Karnataka is for those young travellers and young at heart travellers, who would like to see India through the kaleidoscope of adventure, expedition and exploration. Whether it is heritage railway journeys, a safari into the wide wild open, an adrenal pumping scuba diving or high mountain trekking, a calming walk in the land of Buddha, a tour of the culturally rich and stimulating places of worship, a stroll in the mysterious tombs, palaces and monuments, the âDiscover Karnataka app is your experiential travel companion.The app also introduces one to the gourmet food delights, provides insights to shopaholics, tips on must attend local events and touch points.   Content from the young and enthusiastic travellers is at the heart of Discover Karnataka mobile app. To regale the inquisitive travellers, the app offers audio, video pictorial and textual content and is enabled with map feature. We would love to hear from you. To share your opinion / feedback with us on what we should do to enhance your experience, write to us at contactus@experienceheritage.co.in",
+    "reviews": [
+      {
+        "timestampMsec": "1376673835300",
+        "starRating": "5",
+        "title": "Cool app!",
+        "comment": "Pleasing design and useful features",
+        "commentId": "gp:AOqpTOExXQXFM4IkEfd3a6i7B24UpcYOQe3_uneMcm9x2FgE8TFepV2ajiz_tkLlpH1HnxRw6l3_zQqxez31PlU",
+        "author": "Dhruv Misra",
+        "authorURL": "http://lh6.googleusercontent.com/-5elyNYXBZO4/AAAAAAAAAAI/AAAAAAAAA2c/Lp-KmYBcWZw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-5elyNYXBZO4/AAAAAAAAAAI/AAAAAAAAA2c/Lp-KmYBcWZw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374858898050",
+        "starRating": "5",
+        "title": "Cool app for discovering Karnataka",
+        "comment": "A truly great app for exploring Travel kit essentials",
+        "commentId": "gp:AOqpTOF937L1vW-tmAWgBSWIBf_4VR1Y8o0tN08K_sxpQ0KCyfv5DzuxXf7v9ITMjv1QVWF-92DFm3Ekvz0xLrE",
+        "author": "Aryaman Misra",
+        "authorURL": "http://lh3.googleusercontent.com/-pevbe_tkPTk/AAAAAAAAAAI/AAAAAAAAAH8/48c8vxklzCQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-pevbe_tkPTk/AAAAAAAAAAI/AAAAAAAAAH8/48c8vxklzCQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.eh.googlemapnew.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

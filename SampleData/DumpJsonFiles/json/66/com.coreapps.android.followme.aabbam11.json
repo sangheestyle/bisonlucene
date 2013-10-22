@@ -1,0 +1,35 @@
+{
+  "title": "AABB Annual Meeting & CTTXPO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aabbam11",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 18, 2011",
+  "version": "2.0.7",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aabbam11",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Join us for the AABB Annual Meeting& CTTXPO, October 22 â 25, 2011 in San Diego, California. It is the premier event for over 6,000 blood banking, transfusion medicine and cellular therapy professionals. Use the Annual Meeting app to receive late-breaking announcements, access session information as well as search over 200 exhibitors. The app keeps you connected while on the go.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

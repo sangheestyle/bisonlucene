@@ -1,0 +1,55 @@
+{
+  "title": "Sukali - Afro Food",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.m0si.sukali",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 2, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "17",
+  "rating": "3.4117646",
+  "contentRating": "High Maturity",
+  "creator": "m0si",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.m0si.sukali",
+  "extendedInfo": {
+    "installSize": "10.0M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "DÃ©couvrez les goÃ»ts et saveurs de la cuisine africaine.Chaque semaine un menu hebdomadaire, composÃ© d'une entrÃ©e et un plat dessert en option.Revisiter des plats connus, partagez vos propres crÃ©ations...",
+    "reviews": [
+      {
+        "timestampMsec": "1352631087904",
+        "starRating": "5",
+        "title": "I Can\\342\\200\\230t understand french",
+        "comment": "I Would love it if it was in english aswell",
+        "commentId": "lg:AOqpTOHIDoUCKvVp1oUTF6fNYERxtGNrN9OGhAuVyXFObgjsaBX27PkLTB9Bhtr5c-UPjgJ0ZcLIE-xp3MmamI4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366010347228",
+        "starRating": "1",
+        "title": "Nulle/ sucks",
+        "comment": "Rien ne charge. Nothing loads",
+        "commentId": "gp:AOqpTOHZVS-7MES_1Qvel1KRyHEFwzM5u0z3ddBa0I0jx-4rUKbpufmkyPJ8snddDsYexHdsfuZTB-QDOpa7zcA",
+        "author": "Nikita A",
+        "authorURL": "http://lh6.googleusercontent.com/-FnIaZcaBGqg/AAAAAAAAAAI/AAAAAAAAANA/9u3xmjy2oxU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-FnIaZcaBGqg/AAAAAAAAAAI/AAAAAAAAANA/9u3xmjy2oxU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.MOUNT_FORMAT_FILESYSTEMS",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.STATUS_BAR",
+      "com.m0si.sukali.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

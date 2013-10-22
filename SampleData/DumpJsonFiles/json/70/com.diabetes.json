@@ -1,0 +1,38 @@
+{
+  "title": "dbees.com Diabetes Management",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.diabetes",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "April 1, 2011",
+  "version": "1.0.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "3.5714285",
+  "contentRating": "Everyone",
+  "creator": "Freshware",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.diabetes",
+  "extendedInfo": {
+    "installSize": "220k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Diabetes Risk is a simple tool to see if you are at risk for having type 2 diabetes. After finishing the test, you can also determine you recommended daily food.This application contains a menu to swith between the available activities.This application also enables you to determine your recommended daily food based on the given birth of date en the gender.by selecting the daily food activity from the menu. Main Features:+ Diabetes risk.+ Daily food recommendations.+ Bmi Calculator.+ useful user interface.+ Both English and Metric measurements.Please give your opinion by rating this application on Android Market, and tell us what you're missing in this application. You can do it by selecting the rate button from the menu. We appreciate your opinion.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1318535301493",
+        "starRating": "4",
+        "title": "Surprised",
+        "comment": "I was impressed with this app because I had assumed that I\\'m high level risk for diabetes. It was impressive the result and quick information.",
+        "commentId": "lg:AOqpTOHSgAB5DryF1xEmpk7fIhtx8OWz_9AHpUi-z6uuIp1XCuZvOawvQHDIrG4f2n-noBkw3VIzBuuYlcpgfA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

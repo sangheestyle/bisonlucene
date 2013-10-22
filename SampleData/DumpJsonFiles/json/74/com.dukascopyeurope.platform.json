@@ -1,0 +1,33 @@
+{
+  "title": "Forex Trader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dukascopyeurope.platform",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "June 27, 2013",
+  "version": "1.53",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "SWFX - Swiss FX Marketplace SA",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dukascopyeurope.platform",
+  "extendedInfo": {
+    "installSize": "6.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The most innovative Forex trading platform available on the Android! Enjoy a genuine Android application with the following features:  - Live, secure and persistent connection with server  - Lowest FX spreads (starting from 0.5 pips)  - ECN liquidity (100-200 mio on majors)  - Instant order execution  - Wide range of trading orders (including stop / limit / bid & offer )  - OCO / merge functionality  - Access to the trading reports Big set of FX tools included:  - Live Charts with technical analysis  - FX Market News  - Economic Calendars  - Forex TV  - Daily High/LowIn order to let you trade your account from anywhere, app supports Edge/3G/Wi-Fi connection types with an automatic connection control system that adapts data flow size depending on the connection speed. To try this App you need SWFX demo account. You are able to register an account directly from the application.DISCLAIMER: This application is part of the SWFX Marketplace Trading System and can be used to access DEMO accounts. Any information provided by the application does not constitute a forecast of the market value of any instrument at any time and is not an investment advice or recommendation in any form. Users of the platform must keep in mind that means of trading never eliminate, reduce, or even alter market risks, that is, the risk arising from price fluctuations, changes or jumps. While the efficient use of an electronic means of trading may improve the management of several aspects of risk present in the investment process, it has no effect on the nature of the risk itself. As a result, users are strongly encouraged to review their internal risk management procedures in order for them to fully understand and integrate the potential implications of the use of any electronic means for trading. Users of the application must fully understand the operational risks inherent to the use of electronic means of trading. Although the features and operational environment of the application are optimized, improved, and tested, some residual risk may remain. Operational risks include, but are not limited to: Technical failures, loss of phone network, human failures, communication failures and other.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

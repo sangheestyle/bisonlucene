@@ -1,0 +1,213 @@
+{
+  "title": "Reboot Scheduler",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dread7us.reboot.scheduler",
+  "category": "Productivity",
+  "price": "$1.99",
+  "datePublished": "February 26, 2013",
+  "version": "1.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "47",
+  "rating": "4.5319147",
+  "contentRating": "Everyone",
+  "creator": "Dread Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dread7us.reboot.scheduler",
+  "extendedInfo": {
+    "installSize": "484k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Your phone must be rooted to use this app!! Again, ROOT PERMISSION IS REQUIRED TO RUN THIS APP!A simple application to schedule reboots for your phone on a daily basis. Schedule options include; reboot, hot reboot and power down. If using hot reboot for scheduling, you must first hit the button and accept the superuser permission.App contains buttons to power your phone off, reboot, hot reboot, reboot to bootloader and reboot to recovery.App currently contains an enable/disable widget with more widgets coming soon. Also am going to be adding more scheduling options in the near future. App layout looks best on XHDPI phone displays.Options:* Reboot on button press.* Reboot to bootloader.* Reboot to recovery.* Power the phone off (shut down).* Hot reboot (reboot system, much faster than reg reboot).* Schedule time for reboot, hot reboot or shutdown.* Turn on or off reboot confirmations with button press.* Persistent notification option.* Turn on or off startup toast notifications.* Backup your schedule.* Restore schedule.Permissions:*Storage - modify/delete SD card contents: this is to backup your schedule to SDcard.*Phone calls - read phone state and identity: used to see if user is on a phone call.*System tools - automatically start at boot: this is for the app to schedule the next reboot.",
+    "reviews": [
+      {
+        "timestampMsec": "1372905596873",
+        "starRating": "5",
+        "title": "Works as advertised",
+        "comment": "I\\'ve tried a few other reboot apps and this is the only one I tried that worked on my Droid X. It doesn\\'t have multiple schedules or let you select which days it runs (it runs everyday), but if you need a reboot app that just works, this is it.",
+        "commentId": "lg:AOqpTOGu990BP47FLY6eHvXSVLuHOP3CFXbK6URV2uwkJXk70rt9nF3AZIPGdCNVgUYapq-NoLtOpiApN81Wtao",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365502260660",
+        "starRating": "2",
+        "title": "Not working with Criskelo ROM",
+        "comment": "Worked great when I was running LiquidSmooth ROM, but ever since I loaded CRISKELO ROM Note II v13.0 the scheduler lets my phone hang.  What is weird, is it works when I open the app and click on Reboot...",
+        "commentId": "gp:AOqpTOENwIzVs1bJEbHQBLlsGmyKreGA98iAZPnJuTLDXNbfoiB1Uq54I8lbX7Z9L8VpxaO1X2V8VFD83hnTQYQ",
+        "author": "Riaan Jonker",
+        "authorURL": "http://lh6.googleusercontent.com/-9mvv8OUfJ24/AAAAAAAAAAI/AAAAAAAAADE/_9r5b0uKvZQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-9mvv8OUfJ24/AAAAAAAAAAI/AAAAAAAAADE/_9r5b0uKvZQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373522120137",
+        "starRating": "5",
+        "title": "Finally",
+        "comment": "Finally a scheduled reboot app that actually works.  Thanks much!",
+        "commentId": "gp:AOqpTOF_4GW-hR3r_LSWnNkJYNp2Nr7xLyMmjvH0yVVvC1dYeBzhdAafOoT82-QZJKDTwq3bfrHPzcvkgWiD1O0",
+        "author": "Braden Parker",
+        "authorURL": "http://lh5.googleusercontent.com/-p5cbIqjhtGg/AAAAAAAAAAI/AAAAAAAAAQM/OcIS8nhNItY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-p5cbIqjhtGg/AAAAAAAAAAI/AAAAAAAAAQM/OcIS8nhNItY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1361884118784",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Working great!!",
+        "commentId": "gp:AOqpTOEqW_uXfSjXSRUFKml8u1jyLJj6-vgXOp7_d6eF8u-3A91jrYSNzjwXnT95pDHj4wc1VM_8KI8U8BTz1Io",
+        "author": "Jason Bobzin",
+        "authorURL": "http://lh5.googleusercontent.com/-IVUeeTY2xQI/AAAAAAAAAAI/AAAAAAAAY4o/eD5uwRD4YXo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-IVUeeTY2xQI/AAAAAAAAAAI/AAAAAAAAY4o/eD5uwRD4YXo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355708108206",
+        "starRating": "5",
+        "title": "Worked right away!",
+        "comment": "This app works great! Only wish that I could turn off notifications. That one that says \\\"next reboot scheduled at 4pm\\\" I don\\'t like notifications. I know when the next reboot is bc I set it up. I\\'ve turned off all notifications from SuperSU, just need this one disabled and I\\'d be set :)",
+        "commentId": "lg:AOqpTOHDC69WcJt6I39zWyGuJgZX5ySlhT3uUwrsrEKirGZLN542x14waP5jmUdHbiLeuQQfP0FYKvF2bQi-2RA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354599131851",
+        "starRating": "5",
+        "title": "Actually shuts off phone and restarts it",
+        "comment": "This makes a huge difference in how your phone responds( Speed and no lag). Start fresh each day. Set it to do a REAL reboot while your phone is charging and your sleeping.  I use cache cleaner and hot boot to speed up phone during the day but this restarts android and that\\'s what you want. Its even smart. Waited for screen to go dark before it restarted my phone. A+ developer.",
+        "commentId": "gp:AOqpTOG_r64ggo-RRC57MR2vYuTIEmcnfhraZW-AzNlaY11WMtNTxzpPO3mUUcTrnGHoQdZHvd58zJaaPzvwlG0",
+        "author": "NoszerO Xray",
+        "authorURL": "http://lh6.googleusercontent.com/-YVHlrmX69KE/AAAAAAAAAAI/AAAAAAAAAAA/lL_x3qeqhZM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-YVHlrmX69KE/AAAAAAAAAAI/AAAAAAAAAAA/lL_x3qeqhZM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1356396279560",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Merry Christmas",
+        "commentId": "gp:AOqpTOFFV5BlcbaAPe8xQEPtsI8kqfVgtMLfJXnJJP3Qa0O36ajsuba2IjpsbOkFBGa-du12QDDy1CbdIrbLETE",
+        "author": "Tim Sherman",
+        "authorURL": "http://lh3.googleusercontent.com/-DmsCwE1iRG0/AAAAAAAAAAI/AAAAAAAAECA/JDeMVo_ZaFM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-DmsCwE1iRG0/AAAAAAAAAAI/AAAAAAAAECA/JDeMVo_ZaFM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355657265573",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "This is has been the best app for powering off/ power cycling my phone at pre set times.  Lg g2x running cm7",
+        "commentId": "gp:AOqpTOFDzsbL5n18UGTjFj35jZGnI1mMCG7EVnIVBU9aVuDbxpguNtUdt4p_u1ldcwoha0htZZ_G6QBE7XLGfvk",
+        "author": "Faisal Humayun",
+        "authorURL": "http://lh6.googleusercontent.com/-NEbuimgFS5s/AAAAAAAAAAI/AAAAAAAANMA/qWYEnWu4NP8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-NEbuimgFS5s/AAAAAAAAAAI/AAAAAAAANMA/qWYEnWu4NP8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1329058854803",
+        "starRating": "5",
+        "title": "Works perfectly",
+        "comment": "Just what I was looking for, works perfectly! I\\'m confident my phone will run even smoother with a daily 4AM reboot. My only request, it would nice to have a choice been daily or specific days only.",
+        "commentId": "lg:AOqpTOFD_vuUxcuQi5hjBB3ta2AM5niO-eQlXj-eampS1RUFUFvkHu2nACvAYVJXZzxheVl8z1qPCSfI4l6S-0s",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364210170145",
+        "starRating": "4",
+        "title": "Finally!........",
+        "comment": "......a (timed) reboot app that actually works! I have tried 4 others that worked with screen on but froze when phone went into sleep mode. Another con-app (with a similar name and price) worked but was nothing more than a task killer masqerading as a rebooter. This is the best & only one that works. Only criticism I have is its an \\\"only 1 schedule\\\" at a time app, and that the \\\" hot reboot\\\" button kills all as there is no \\\"exclude\\\" list to allow for esential apps. Otherwise 5 stars & recommeded. Thanks dev.",
+        "commentId": "lg:AOqpTOF1AXCA0_co_MAsNDCxxi9cJxr4i88QA5_uKraFiyytRJNJf2GIsupPzp8T--uBL_ByxP160FcB5085DdA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340590500901",
+        "starRating": "3",
+        "title": "Help",
+        "comment": "Having trouble with it powering off at night. Not sure why it isn\\'t working. Please help.",
+        "commentId": "lg:AOqpTOF4KQxw50LZ3_Lyj3_0NXh5VS-L4rzu714Yxvi78VtT4I_u9XkNx_D9l9xiq9lgN1KZ6rg-Y90ri0bQQNc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346797864107",
+        "starRating": "4",
+        "title": "Gets the job done",
+        "comment": "Very adequate and useful.  2 minor problems on galaxy note: A- limited to 1 reboot per day. Can future versions enable more.  B- Normal reboot great but hot rebooting useless as wifi gets deactivated and you have to shut wifi then open it again.",
+        "commentId": "lg:AOqpTOEc3BU46i46aHDlOt3oCGVGw4IoRULpdMvZDguf8a1P1NMp7bJopwJKxa72_v9EqeQWAQmKoo9yDwQPRdI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332501147977",
+        "starRating": "5",
+        "title": "Works as advertised.",
+        "comment": "HTC Inspire 4G w/ ICS.",
+        "commentId": "lg:AOqpTOFA7gREm7Y-0IlVwDINlxjaYjuLCfaD0u7vDwrARBdn6C8mcVEDV2QnMwVLGcP8EeRzxFhDjt-G7IgW5p4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333115897185",
+        "starRating": "5",
+        "title": "Excelent!",
+        "comment": "The only Reboot Scheduler app that works just perfect! Thank you!",
+        "commentId": "lg:AOqpTOFr4TmFPsNbUqQ664tY21joFX47WwOUBO_ASkd4dbbR7_so6JWoh6-upz-8FrHNmvl_j4fE_2C-078qz28",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335912533934",
+        "starRating": "5",
+        "title": "...",
+        "comment": "A customised widget to restart/shut down directly from the homescreen is what this app needs. Otherwise pretty good.",
+        "commentId": "lg:AOqpTOEEMQoDrnzmQcbDGxkYjFSmmzOvutH9OAcyL2FKTQ09MXvkNNsZqLHXs7JYUI7-0UfHAMwSTqa4XCWRe9E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350076746287",
+        "starRating": "1",
+        "comment": "Stopped working and still doesn\\'t work after update",
+        "commentId": "lg:AOqpTOFc8TtMIFH1szpvNdJqt60ykY2Pdq_GRifWQjdvDzwD2S5a_jG2PonQoenngUwuTKxAiaZI5iqWVS6xwGk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332945599189",
+        "starRating": "5",
+        "title": "Yes!!!",
+        "comment": "Found what I was looking for, does just what I wanted, works as advertised. Big thanks!!!",
+        "commentId": "lg:AOqpTOGgxsQVbCTKYgM5oHIKQv52G94lB1oVkeWAQpzOBE2QKyZTr5xBQMty6OeKo5Saxf3xIrt9u88iykVv400",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1322131629806",
+        "starRating": "5",
+        "title": "works.....well",
+        "comment": "Simple and it works.....its the only program I found that simply does what I want - reboot my phone once a day at a certain time.",
+        "commentId": "lg:AOqpTOHiP1kByZXSr0Cv_sVL_3A71_bZTXanx-8aGe1LwLya32TbgMAcNFRpFDhbHZRXeZVDRHRThFPYrOgGPPM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1319071403277",
+        "starRating": "4",
+        "title": "Handy app.",
+        "comment": "Does what it\\'s supposed to but priced a bit on the hi side. A buck would be more like it.",
+        "commentId": "lg:AOqpTOHFUaRpqGyA8Qoh2AP--MrZlrxnScORYo5ufeBHV5QiY2Z23q6hv0ahZB-4bV7E4-Pd3wZuMx1-Mo-dfd4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1322648337743",
+        "starRating": "5",
+        "title": "Exactly what I wanted.",
+        "comment": "All I wanted was an app that would reboot my phone daily at a time I can set. This was the only app I found, does exactly that, and does it perfectly.",
+        "commentId": "lg:AOqpTOHo9k5H1yVJfV2waU6YLjWWqfZHLmBHg8ubHf6g71OxOXdIy1F_stC43CHPfaKFSfZ_UWu6pzfKCy5WEIU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

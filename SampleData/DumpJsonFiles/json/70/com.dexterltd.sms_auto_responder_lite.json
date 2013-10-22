@@ -1,0 +1,60 @@
+{
+  "title": "Do Not Disturb - Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dexterltd.sms_auto_responder_lite",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "June 12, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "17",
+  "rating": "3.8823528",
+  "contentRating": "Everyone",
+  "creator": "Manas Gajare",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dexterltd.sms_auto_responder_lite",
+  "extendedInfo": {
+    "installSize": "332k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Perfect app for the moments when you do not want to be disturbed by anyone. Let it be DRIVING, MEETING or some INTIMATE moments, the app is a must-have!*** This is free ad based version. If you like this app, you can purchase ad-free version from market ***Two ways to activate - 1. Widget 2. Click on 'Start Service' in the app. On activation -1. Any incoming message will be received SILENTLY.2. Incoming call will be BLOCKED and a PRE-SPECIFIED text message will be sent to that caller. You can check LOGS of all the communications in our app as well.A constant notification implies that app is in the RUNNING state. We are open to suggestions, so share if any. For any issues, mail us, do not put stupid comments.",
+    "reviews": [
+      {
+        "timestampMsec": "1368367731358",
+        "starRating": "1",
+        "comment": "Don\\'t Work.",
+        "commentId": "gp:AOqpTOGuzDk66Fj7xah7Hns9SI-wjmPKO42Ib4qR_a_eOQb9Rwb7k5RsLKlIipya_EJePMDJdM526aH-554xtg",
+        "author": "Aneisha Andrus",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342855962321",
+        "starRating": "4",
+        "title": "Not bad",
+        "comment": "Pretty simple. I\\'d rather it shut off on its own tho",
+        "commentId": "lg:AOqpTOGFUptExT3AbKKnwWbC6b_YqGVtumdn3hGZYbZILd25KBBVttnw0q31vaurOx1yXnNq6frB6GnA8DJK7g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344979331572",
+        "starRating": "1",
+        "title": "No good",
+        "comment": "Forced close",
+        "commentId": "lg:AOqpTOGeCA0Z5edELLZcZLvgbwQOhG7Oht1fMHUg0sTm5ddT-Z72ixMTrBUqM3IA0bQscQVw1EgfmMrqYjy0Bg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.MODIFY_PHONE_STATE",
+      "android.permission.READ_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Company Driver",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.companydriver",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "December 27, 2012",
+  "version": "4.5.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "Wright Media, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.companydriver",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "COMPANY DRIVER JOBS! Welcome to the first mobile app designed specifically for company drivers!  Instantly have access to some of the highest paying job opportunities in the country by clicking on the \"JOBS\" icon.  Want to apply to companies across the country all at once?  Simply click on \"Quick App\" and submit your application and we'll match you with carriers who are hiring drivers like you today!HOT SPOTS - Use our \"Hot Spots\" icon to seach restaurants, truck stops and other great locations via your phones GPS.  Got a favorite restaurant or truck stop?  Next time you're there check in and comment and let the world know what you think! NEWS - Instantly have access to news pertaining to trucking news, world news, U.S. news, health and sports headlines.  You won't need another news source!Be sure to help us spread the word about the \"Company Driver\" app!TRUCKING COMPANIES/AD AGENCY - POST YOUR JOBS BY CALLING 1-888-578-5388 Ext.1",
+    "reviews": [
+      {
+        "documentVersion": "3.5.4",
+        "timestampMsec": "1337998543275",
+        "starRating": "5",
+        "comment": "Good app for trucking news",
+        "commentId": "lg:AOqpTOE-63rp2u56THyCHoak4dErTyKEkidky3GQV0s7bqvsz6dsuQTGVjM1oDsbDr2RTowOTeCCFgNaW5-bQso",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.5.4",
+        "timestampMsec": "1339688843131",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "Won\\'t work on Evo3d and Razor max. Locks on main screen",
+        "commentId": "lg:AOqpTOGqaSlo_m598Opbgyu3b8j_C--BDwHSLchX-t1nkytGbgRXMDqljakR-2Q8r7cAbIYIWWa01xBWEZcVbsY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338838159158",
+        "starRating": "1",
+        "title": "Stupid app",
+        "comment": "This app did not work on my EVO Design. Way to go who ever thought this one up. Deleted off my phone.",
+        "commentId": "lg:AOqpTOE8VCPIrTPbXebCYVPfdIsRoiaCXMAj1QL4Bs-AkpA-KBROhYh3zG_G0KOEbrjnbhSkTrD36tn4qnqbusc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.companydriver.permission.C2D_MESSAGE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

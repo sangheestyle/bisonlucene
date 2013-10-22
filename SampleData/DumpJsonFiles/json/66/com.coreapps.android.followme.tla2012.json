@@ -1,0 +1,74 @@
+{
+  "title": "2012 Texas Library Association",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tla2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 16, 2012",
+  "version": "2.4.4",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.tla2012",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Over a century old, the Texas Library Association (TLA) is the largest state library association in the U.S. Its 7,000+  members are employed in all types of libraries (academic, public, school, and special). TLA's membership also includes library vendors and citizens who support libraries as trustees, members of Friends of the Library organizations, and library users.The TLA Annual Conference brings together attendees, vendors, and national thought leaders for an energizing experience focused on equipping library staff and supporters for the future.",
+    "reviews": [
+      {
+        "documentVersion": "2.4.4",
+        "timestampMsec": "1334646654947",
+        "starRating": "5",
+        "comment": "I used it last year and I thought it was awesome!",
+        "commentId": "lg:AOqpTOHKECiq1RbNtaMrFZSkogguMyb4yVtNOotEA6fis0zijhVFxcf1ON1HtuvFtHjjdYbk1A7I1OTJ364IgYA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.4",
+        "timestampMsec": "1334672304708",
+        "starRating": "5",
+        "comment": "TLA Rocks! App fab!",
+        "commentId": "lg:AOqpTOGSV0hLq7xlEIlLGBaAZ6F8cxKG1O4DByfIrPpUeJc_FBCWdt6Q1m-8kHGhP8P9CQ0BJ68GuaEknNL1fzg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.1",
+        "timestampMsec": "1334246860969",
+        "starRating": "5",
+        "title": "Tla",
+        "comment": "Crazy convenient",
+        "commentId": "lg:AOqpTOH6VrHPiMssYNnPt7Rp78OnK3rL6e_0a4BARbBuTdfAOAPxwQ9XJRH6LKJSIIY-Ggw0HHBDK30VhOJTTHI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "GoogleNewsReader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=apptrunk.gnr",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "December 25, 2011",
+  "version": "2.4.1",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "81",
+  "rating": "3.5925925",
+  "contentRating": "Everyone",
+  "creator": "kanaritakuma",
+  "creatorURL": "https://play.google.com/store/apps/details?id=apptrunk.gnr",
+  "extendedInfo": {
+    "installSize": "160k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Easy subscribing to the GoogleNews.Gets the full article, specifying the keyword and provides the best environment to subscribe to news!* Without using a Web browser can read the full news.* Very simple and fast.* Can specify the topic to subscribe.* Original keywords can be specified.* You can read the news every newspaper.* Can share the news by Twitter, EMail, etc.* You can find the news within your device.",
+    "reviews": [
+      {
+        "documentVersion": "1.6.17",
+        "timestampMsec": "1294409542917",
+        "starRating": "1",
+        "comment": "Doesn\\'t work",
+        "commentId": "lg:AOqpTOEWJZqgqLJbBHBC_enNrfvOl2Py9rR48GzYA_gux7YiZN8MpGy1M5aif-5oyMfcj23UJSgDpm4Zz1T45Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

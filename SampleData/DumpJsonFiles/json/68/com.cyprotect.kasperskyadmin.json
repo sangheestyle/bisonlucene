@@ -1,0 +1,38 @@
+{
+  "title": "Kaspersky Admin",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cyprotect.kasperskyadmin",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "December 17, 2012",
+  "version": "0.12",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "16",
+  "rating": "4.9375",
+  "contentRating": "Everyone",
+  "creator": "CyProtect AG",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cyprotect.kasperskyadmin",
+  "extendedInfo": {
+    "installSize": "255k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "With the Kasperky Admin app security administrators are able to check thecurrent state of their Kaspersky Security Center environment and the statusof antivirus protection, anywhere and anytime of the day.In the overview of the Kaspersky Admin Dashboard you are able to selectdifferent views, for example listings of critical computers or computerswith the \"Warning\" status, which can be viewed and identified immediately.The reasons for the critical status are clearly displayed. The app activelygenerates notifications in freely configurable intervals, so that theadministrator is pro-active warned and can intervene quickly to criticalsituations.Features of Kaspersky Admin:- Dashboard with a quick overview of computers with problems- Overview of all computers and groups- Selection of critical computers and computers with the status âWarningâ- Quick overview of the reason for the critical status- Pro-active warning in realtime about state changes- Perform group tasks to individual computers and selections- Encrypted transmission of app data over a secured connection- Selection and view of all reports from Kaspersky Security Center- Automatic updating of the information in the background- Possible to view computers of Master / Slave Security Center serversImportant information:As default this version of Kaspersky Admin app connects for demonstration purposesto a Kaspersky Security Center of CyProtect AG. Shown there are virtualizedcomputer tasks and examples in order to demonstrate the features which theapp can do.For productive use of the app in your company you will need a specialdesigned access layer, which was developed by CyProtect AG. This accesslayer is required to access your Kaspersky Security Center database anddisplay the information of your computers in the app.Please contact CyProtect Sales: (+49) 089 420 447-0",
+    "reviews": [
+      {
+        "timestampMsec": "1366822226805",
+        "starRating": "5",
+        "title": "Antivirus",
+        "comment": "Excellent",
+        "commentId": "gp:AOqpTOG4ND6Uun91aE5OwoXHD81UNuSqp0HWXilgcMt5tUDjX6MkBLZqCBRjX5IKYc_eCnjJmvEJJBczuasaSQ",
+        "author": "Md. Enamul Haque",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

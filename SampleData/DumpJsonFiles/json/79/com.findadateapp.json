@@ -1,0 +1,34 @@
+{
+  "title": "Find a Date App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.findadateapp",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "July 2, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "GabiCul Mobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.findadateapp",
+  "extendedInfo": {
+    "installSize": "312k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "You looking for a date for tonight or maybe for the weekend! Let us help you out! Join the online dating world today. Find you a date in your local area tonight so you can enjoy the night with some interesting and new! We are a mobile dating site that uses real-time location updates to match users who are near each other. Users sign up for free using a PIN submit process and are offered a premium subscription service for $9.99/month that offers extra features. The site is free to join, free to view matches, free to respond to messages, and free to wink at other members, but only premium members can initiate messages. Affiliates may create their own banners as long as creatives are consistent with meetMoi's brand and offerings. In addition to the provided banners, sample creatives are below: \"Join meetMoi and see your matches FREE\" \"Mobile Dating is the Future. Join Now\" \"Your next date is just around the corner\" \"meetMoi Mobile Dating - Free Sign Up!\"",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

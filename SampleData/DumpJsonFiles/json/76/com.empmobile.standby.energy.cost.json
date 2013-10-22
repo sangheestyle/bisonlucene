@@ -1,0 +1,29 @@
+{
+  "title": "Standby Energy Cost Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.empmobile.standby.energy.cost",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 20, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "EmpMobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.empmobile.standby.energy.cost",
+  "extendedInfo": {
+    "installSize": "252k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Calculate how much money you're spending just by leaving common electronics plugged in!Standby power is the electricity being used by electronics that, while turned off but plugged into a power outlet, still consume power.  Some of this power is to perform functions such as to display the time, or recording your favorite show, while others simply waste electricity. This free application allows you to select which devices you have in your home and determine how much they are costing you.  Electricity prices are modifiable, with the national U.S. average used as the default cost.Includes over 50 common household products to choose from.The cost listed for each item is based on an average of tested devices, so your device may use more or less depending on age and other factors.Power consumption of electronics are taken from: http://standby.lbl.gov/Includes color codes to show you where your homes biggest energy drainers are.Green: less than 1 wattBlack: between 1 and 10 wattsRed: more than 10 watts",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

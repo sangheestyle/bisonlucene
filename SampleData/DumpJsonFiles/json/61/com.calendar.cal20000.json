@@ -1,0 +1,41 @@
+{
+  "title": "CAL20000",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.calendar.cal20000",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "October 24, 2012",
+  "version": "V1.02.00",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "30",
+  "rating": "3.9666667",
+  "contentRating": "Everyone",
+  "creator": "YOUNGCHANG KOH(고영창)",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.calendar.cal20000",
+  "extendedInfo": {
+    "installSize": "51k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This is free version for android deviceThe free version show small character.The paid version show large character.Purchasing method is described on information on the device and web page.Here is brief introduction. More information is on web-page.CAL20000 ì§ì§è¬æ­²æ USER GUIDEIntroductionThis calendar is made based on the calculation of accurate sun and moon position. The effective year range is from -9999 to 10000.This calendar display a month which is Gregorian calendar in total effective year.On the month table, Each day cell have solar day number which is Gregroian date, lunar month/day number , sexagenary day unit(æ¥è¾° or å¹²æ¯), star letter of 28 mansions(äºåå«å®¿). These data of a day have been used very long period which is maybe from more than 5000 years ago to now and currently is used widely in Korean and Chinese real life.And also it is indicated the 24 solar terms, new/full moon time with eclipse occurrence and it's floating Julian day number for verification of accuracy.-------------------------------------------------The new contents to be added Android CAL20000- Kusung(ä¹æ) Calendar and KiMoon(å¥é) Calendar Information is added. The relation information is on here(Korean).The year range for Kusung and Kimoon is 1880~2055.- The decade luck and it's change time, the ten celestial stems in month time are displayed with very precisely value.- The Korea era(æªç´) and Buddha era(ä½ç´) are added.- Moon orbit information is added. The informations are new moon, full moon, first quarter, last quarter, Apogee, Perigee, Ascending node, Descending Node every exact time, the distance between earth and moon and its rate, solor/lunar eclipse occurrence.- Islamic Year and Month(Hijra) is added.- Easter date is added.- The Julian calendar date is displayed before Oct 1582.- Chinese character is used as possible as can be expressed for Sinosphere people.",
+    "reviews": [
+      {
+        "timestampMsec": "1371777309987",
+        "starRating": "4",
+        "title": "complete",
+        "comment": "all that i needed and more",
+        "commentId": "gp:AOqpTOGNIT4H06qJMzuiiK7MmpIBFUtv0xh9hYBBa8z09sECGcsjPW2YTFR8xnmf2ZhuGH9Spnz_3E9MxrsU",
+        "author": "John A Perazzo",
+        "authorURL": "http://lh3.googleusercontent.com/-WpE6wjqEg08/AAAAAAAAAAI/AAAAAAAABiQ/zFcipqMg_co/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-WpE6wjqEg08/AAAAAAAAAAI/AAAAAAAABiQ/zFcipqMg_co/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCOUNT_MANAGER",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

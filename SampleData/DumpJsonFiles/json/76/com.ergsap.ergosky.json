@@ -1,0 +1,53 @@
+{
+  "title": "ErgoSky - Astronomy discovery",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ergsap.ergosky",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "September 1, 2013",
+  "version": "1.2.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "20",
+  "rating": "4.4",
+  "contentRating": "High Maturity",
+  "creator": "ErgSap Team",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ergsap.ergosky",
+  "extendedInfo": {
+    "installSize": "14M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "ErgoSky is an innovative and educational experience for astronomy and astrophysics lovers, with amazing astronomical images, fascinating space objects, from galaxies, nebulae, stars to planets.Discover stars, galaxies, galaxy clusters, nebulae, Hubble space images, curated selections from several missions and observations. See great images from Mars exploration robots, rovers and missions like Voyager. See diffrent faces of Jupiter moons, or Saturn rings or other planets moons. Huge views and details available you can zoom on, bookmark, share. Just explore the sky, at a glance !You can use stunning filters on any space object, change colors, crop, rotate, add frames and share with your friends on your social networks.You can also discuss and comment on any interesting space object, directly from the application and share with your friends, ErgoSky astronomy app is social !âMain features:â¦ Thousands of beautiful space objects from galaxies, stars and clusters, nebulae, planets, systems of the universeâ¦ Hubble telescope images of the cosmosâ¦ Gorgeous detailed images and panoramas of our solar system, the sun, mercury, venus, earth, mars, jupiter, saturn, uranus, neptune and famous missions such as rovers on Mars, curiosity, opportunity, Voyager, cassini, spiritâ¦ Swipe between objects/image gallery and detailed view with description, holo styleâ¦ Nice slideshow to swipe between amazing viewsâ¦ Automatic slideshow when the application starts (see settings)â¦ Filters : Use amazing filters, image processing, frames, colors, contrast on images to enhance views at your convenience or to match your feelings for your personal useâ¦ Social : discuss / comment directly from the application with other usersâ¦ Bookmark, share with your friends on popular social networksâ¦ Statistics : discover more space objects with real-time downloads and popular images, nice feature to discover more great contentsâ¦ Double-tap on detailed view to zoom on immediately or use zoom buttonâ¦ Smart Search + instant searchâ¦ Discovery with random images loaded when the app startsâ¦ Off-line contents : informations are available off-line and once images are downloaded, they are available offline ! (no need connections for already seen images)â¦ Set any images as wallpaperAPOD (Astronomy Picture of the Day) archives and larger databases are on roadmap ;-)Pictures are mainly coming from public repositories of  the European Southern Observatory, the PhotoJournal of Jet Propulsion Laboratory or the Hubble Heritage archives. No affiliation.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1369750983803",
+        "starRating": "1",
+        "title": "Doesnt Start- SII",
+        "comment": "App freezes the moment i click on it! fix",
+        "commentId": "gp:AOqpTOHZbz92YcD9IWTYE7W2v8A-Mml0WxlNDmFpeklWpGjHwUKd3qCraxtPP_ibHMuxilXhqh277Omo0h-hTC8",
+        "author": "Pratik Salvi",
+        "authorURL": "http://lh4.googleusercontent.com/-CtrcbfHOhSM/AAAAAAAAAAI/AAAAAAAAAJk/qGifNM04e2c/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-CtrcbfHOhSM/AAAAAAAAAAI/AAAAAAAAAJk/qGifNM04e2c/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366380971394",
+        "starRating": "5",
+        "title": "Super",
+        "comment": "A good one for this",
+        "commentId": "gp:AOqpTOHeQ1aiU3kWiTWc0-NYTLoVdHuLEycUO6DpHoEvjJYpIoTMYFqHDhWVfou9EV-OOYi1tqOMxSHdjjSv7H8",
+        "author": "Mani muthu",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.VIBRATE",
+      "com.ergsap.ergosky.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

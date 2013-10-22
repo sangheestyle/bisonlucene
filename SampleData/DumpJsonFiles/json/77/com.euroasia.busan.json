@@ -1,0 +1,56 @@
+{
+  "title": "Busan Travel Guide",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.euroasia.busan",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "September 26, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.0 - 4.1",
+  "ratingsCount": "7",
+  "rating": "2.857143",
+  "contentRating": "Low Maturity",
+  "creator": "Wizcom Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.euroasia.busan",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Busan (ë¶ì°, éå±± (formerly romanized as Pusan) is a city located in the south-eastern province of South Gyeongsang, South Korea.\\n\\nUnderstand\\nWith over 3.6 million people, Busan is South Korea's second largest city and largest seaport. Busan is known for its beaches, hot springs, nature reserves and events such as the city's renowned international film festival held each fall. Busan is a good destination for those seeking a more laid back atmosphere than Seoul. Located at the southern tip of the Korean peninsula, Busan's important port gives the city an international flair, with sailors from around the world trooping through and a growing number of tourists.\\n\\nBusan has a sub-tropical climate with a hot humid summer and autumn along with a mild winter. Busan almost never experiences snow. \\n\\nOrientation\\nBusan sits roughly 450 km (280 miles) southeast of Seoul and about 150 km (93 miles) northwest of Japan's main islands.\\n\\nNampodong to the south is Busan's shopping and entertainment downtown, while central Seomyeon at the intersection of subway lines 1 and 2 is the main office building area. Between them are Busan's train station and its international ferry terminals. The beaches of Gwangalli, Haeundae and Songjeong lie to the east, the ruins of mountain fortress Geumjeong guard the north. To the west is Gimhae town where the Busan Airport is located.\\n\\nThe eastern district of Haeundae is the most accesible area for foreigners, and many of Busan's attractions can be found here making it a good base to start exploring the city. Our Busan Mobile Application gives you full access to Busan in South Korea.The Application gives you general infos, a photo library, Hotels in Busan, Google Satellite Maps for Busan and as well South Korea.We also included a Busan Travel Guide and a navigational compass.This application is compatible from Android Froyo, Gingerbread, Honeycomb, Ice Cream Sandwich, and the latest Jelly Bean.",
+    "reviews": [
+      {
+        "timestampMsec": "1349097880060",
+        "starRating": "1",
+        "title": "Waste of time",
+        "comment": "Advert covers bottom half of screen labels and there is no useful information within the app.",
+        "commentId": "lg:AOqpTOE8jov-z3eFEe4I82HZI-p9XG__T2293zyDMA-IV6fghsgS4AqhCIHItpFchfbu0knT0PGQ1xaQ-oeEWyk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374194666378",
+        "starRating": "1",
+        "comment": "Useless",
+        "commentId": "gp:AOqpTOHtyn-AJdl4lJK6MaiRkGFL11ypHVBvm04Puhx3Ew4EVfFGOaAVoTLjEEt_JqCWUhbAH3xFeyWxpoxM0Zg",
+        "author": "Karl Morteo",
+        "authorURL": "http://lh4.googleusercontent.com/-ScCJ--QhOUs/AAAAAAAAAAI/AAAAAAADXDQ/7xIbp_A1AZo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ScCJ--QhOUs/AAAAAAAAAAI/AAAAAAADXDQ/7xIbp_A1AZo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369636158031",
+        "starRating": "1",
+        "comment": "Not well done. Lacks real useful informaton.",
+        "commentId": "gp:AOqpTOETsBxgDA3lFVn5kF2IDHO2i_kqosTPEhdoIvgAb0HQ5eGHBvlI_xZ690EwtUtHid7ArDovpJikRYgta14",
+        "author": "Virginia Holthe",
+        "authorURL": "http://lh5.googleusercontent.com/-5qrfIraMsZU/AAAAAAAAAAI/AAAAAAAAAEA/LKi4ZPb-UAY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-5qrfIraMsZU/AAAAAAAAAAI/AAAAAAAAAEA/LKi4ZPb-UAY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

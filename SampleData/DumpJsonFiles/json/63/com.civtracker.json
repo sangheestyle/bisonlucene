@@ -1,0 +1,37 @@
+{
+  "title": "Civ IV Pitboss Turn Tracker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.civtracker",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "August 24, 2011",
+  "version": "0.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "3.3333333",
+  "contentRating": "Everyone",
+  "creator": "Joel Stephens",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.civtracker",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Civilization IV Pitboss Turn Tracker will track and display progress of a pitboss game that is being tracked on www.civstats.com. It will display the list of players as well as scores and also show who's turn it is.Set the update interval to refresh the list as often as every 5 minutes(may reduce battery life) or up to every 6 hours and get updated turn information.To find your game ID the game you are playing must be tracked on www.civstats.com. Find your game in the current games list and copy the last four digits of the url.www.playyourturn.com does not provide an rss feed and will not work with this widget.",
+    "reviews": [
+      {
+        "timestampMsec": "1343056068271",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Super aplikacja polecam!",
+        "commentId": "lg:AOqpTOGFBl2pF0N2EmuC69qgGT59ZX42xSFbMwooh5XwlHH4i07g6x59xl1Zo4ULVHT5I58hqfp5pmqY7jQ5Gw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

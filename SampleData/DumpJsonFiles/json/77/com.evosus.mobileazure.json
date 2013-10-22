@@ -1,0 +1,37 @@
+{
+  "title": "Evosus Mobile Service 2.0",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evosus.mobileazure",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "July 8, 2013",
+  "version": "2.0.7",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Evosus, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evosus.mobileazure",
+  "extendedInfo": {
+    "installSize": "389k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mobile Service Software designed especially for Pool, Spa and Stove and Hearth Techs.  For use only by licensed customers of Evosus Business Management Software with the Mobile Service product option. Evosus Mobile Service 2.0 works with Evosus Business Management Software version 6.1.x and higher only.* Clock In/Out* Records Notes & Status* Record Site Profiles* Record Service Prompts* Add Order Items using UPCSynchronize with your corporate database anywhere!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

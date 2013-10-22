@@ -1,0 +1,37 @@
+{
+  "title": "Colibri - Color Management",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fabianetling.colibri",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 5, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "5",
+  "rating": "4.4",
+  "contentRating": "Everyone",
+  "creator": "Fabian Etling",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fabianetling.colibri",
+  "extendedInfo": {
+    "installSize": "5.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Colibri offers color management functionalities for Android according to the ICC specification. Based on ICC color profiles you can colortransform single color values and whole images.Users can add own color profiles. Thus Colibri does allow \"softproof\": when you provide a display profile for your particular device it is possible to simulate other color spaces (e.g. printing color spaces like offset ISO coated or color spaces of other mobile devices).Primarily Colibri should be considered as an experimental implementation of color management functions in an Android application, since the Android operating system lacks these functionalities.==========The color management functions of Colibri are realized with the open source color management systems Argyll CMS (http://www.argyllcms.com) and Little CMS (http://www.littlecms.com).Except for the smartphone device profiles all color profiles contained in this application are taken from the ECI website (http://www.eci.org) and the ICC website (http://www.color.org).==========In case of any questions, please feel free to contact me.",
+    "reviews": [
+      {
+        "timestampMsec": "1369760166092",
+        "starRating": "3",
+        "title": "Not quite sure that I understand."
+      },
+      {
+        "commentId": "gp:AOqpTOEyY2rgqNRHloLG5OAB5DzmvVXbueKqoYInbAAk0NFD38J6DNqzdd-PDK_Gl4WQvd4-sN6tP4DNvICbZQ",
+        "author": "Jeremiah Snader",
+        "authorURL": "http://lh3.googleusercontent.com/-GwW6kZn_Jcc/AAAAAAAAAAI/AAAAAAAAAoY/NizNnis_jKQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-GwW6kZn_Jcc/AAAAAAAAAAI/AAAAAAAAAoY/NizNnis_jKQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

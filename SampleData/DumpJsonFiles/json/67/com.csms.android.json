@@ -1,0 +1,48 @@
+{
+  "title": "Company Spy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.csms.android",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "March 26, 2012",
+  "version": "1.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Everyone",
+  "creator": "Made Simple Group",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.csms.android",
+  "extendedInfo": {
+    "installSize": "250k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Search for and download UK company credit reports and director reports, straight from your phone. Company Spy is built and powered by Company Searches Made Simple (CSMS). The app is free to use and company reports only cost Â£3.99! Director reports only Â£1.99! All company reports include: Company name Company number Registered office Company status Date of incorporation Company type Industries Credit rating Credit limit Director names Shareholder names Last 2 years accounts Turnover After Tax Profit Cash Total Assets Total Liabilities Net Assets Net Worth Searching and viewing basic company information is completely free. Simple 1-click purchase process using in-app billing or you can use your existing Company Searches Made Simple credits. You can also use your CSMS account to login and view any existing company reports on the go.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1332836841853",
+        "starRating": "4",
+        "title": "Clever simple",
+        "comment": "Easy access to existing reports and new ones on the road",
+        "commentId": "lg:AOqpTOGDSDkLjcddzrp_Hk724BC8_HCzQmyiM8fGmrHsXMzT5JjaWxULD8brSLwzUnn2Mx8zpKRRqbVRBimr_Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349088947571",
+        "starRating": "5",
+        "title": "Handy",
+        "comment": "Easy access to company info and simple to use",
+        "commentId": "lg:AOqpTOG_Xmk4UNUhfTSkjmni1c5wb5LXXyBpa3DlzYA3Jd6pB4wlJQCm7qrN9vp-GNPjTESocKiil3ChkUkKTw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

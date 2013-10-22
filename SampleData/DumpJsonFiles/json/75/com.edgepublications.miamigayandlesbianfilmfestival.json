@@ -1,0 +1,36 @@
+{
+  "title": "Miami Gay & Lesbian Film Fest",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edgepublications.miamigayandlesbianfilmfestival",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "June 26, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "EDGE Publications Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edgepublications.miamigayandlesbianfilmfestival",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome to the official mobile app for The Miami Gay & Lesbian Film Festival! This app is a joint development of EDGE Media Network and The Miami Gay & Lesbian Film Festival; it's designed to be a comprehensive guide to our annual festival, including events, photos and interactive features.Features for AndroidNews :: Stay in the know regarding all the latest news from The Miami Gay & Lesbian Film Festival right on your mobile device! Including announcements, hot event notifications and hotel specials.Events :: The Miami Gay & Lesbian Film Festival events calendar is a comprehensive list of what's going on - and you can add each item right to your phone's calendar, so that you never miss a beat.Photos :: View official photos from EDGE and The Miami Gay & Lesbian Film Festival's official photographers.Screenings :: We've got the comprehensive list of screenings at the festival right here on our app - so you can find every film, learn where you can see it, and get directions on how to get there.Sponsors :: We love our sponsors - so should you! Get information on the organizations that make The Miami Gay & Lesbian Film Festival possible.Hotels :: Looking for a place to stay in town? Check out our partner hotels, including special deals just for The Miami Gay & Lesbian Film Festival.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.edgepublications.miamigayandlesbianfilmfestival.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

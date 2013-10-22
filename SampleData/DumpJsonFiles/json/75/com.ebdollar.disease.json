@@ -1,0 +1,39 @@
+{
+  "title": "Coping With Alzheimers Disease",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ebdollar.disease",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "August 24, 2013",
+  "version": "1.01",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "dary lee",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ebdollar.disease",
+  "extendedInfo": {
+    "installSize": "6.3M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "Coping With Alzheimers DiseaseOld-timers Disease Is No JokeIt's a good bet that you, like the rest of us,have forgotten something then jokingly said,\"it must be old-timers disease.\"What do you do when it hits close to homeand it's no longer a laughing matter?With more than 18 million known cases ofAlzheimer's Disease world wide the oddsare that you have had some contact withsomeone who is close to this horriblydegenerating disease.  It may be a victimor a family member of a victim...",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.ebdollar.disease.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

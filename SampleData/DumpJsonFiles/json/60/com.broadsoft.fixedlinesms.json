@@ -1,0 +1,75 @@
+{
+  "title": "BroadTouch Msg.Now",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.broadsoft.fixedlinesms",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "June 6, 2013",
+  "version": "2.1.1.105",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "4.428571",
+  "contentRating": "Low Maturity",
+  "creator": "BroadSoft, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.broadsoft.fixedlinesms",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "*****************************************************************************Note: Msg.Now is available only for telephone numbers that are approved by your service provider. Please contact your service provider to verify whether your number is currently supported.*****************************************************************************BroadTouchâ¢ Msg.Now is a cross-platform smartphone application currently available for Android devices and iPhone/iPad devices. Msg.Now enables your work phone number or home number to receive SMS. Any SMS sent to your work phone number or home phone number will be delivered to the application through push notifications (internet connection through 3g/wifi required). Similarly, any message sent from the app will have your work phone number or home phone number as the sender.Msg.Now can run on multiple devices serving the same home phone number or work number, allowing users to receive SMS messages on any device of their choice. Msg.Now provides a rich and intuitive interface for sending and receiving SMS:1)\tMsg.Now is seamlessly integrated with the Android contact list â whether it is the locally stored address book or GMail Global Address List2)\tThreads are displayed with the Contactâs photograph3)\tEasy to delete threads/individual messages and keep your inbox clean4)\tEasy to lock and unlock individual messages5)\tMessages are not lost even when you are offline; access all the messages from the cloud when the device connects back to the internet6)\tManage messages from any device: Delete a message and the list is updated in other devices7)\tNo need for multiple logins; secure authentication verifies your credentials the first time and makes it as easy as native messaging app8)\tUse the stat feature to see how many messages you have received or sent9)\tMake use of Androidâs voice enabled keyboard to speak your text10)\tSearch your messages for keywords****************************************************************************For additional description about the product go to http://broadsoft.com/products/broadcloud-text-messaging/****************************************************************************",
+    "reviews": [
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1319587893168",
+        "starRating": "5",
+        "title": "Brilliant",
+        "comment": "This is really an amazing service.",
+        "commentId": "lg:AOqpTOGhM5q52tXjMf3-OjtG09Y25KkWyPLV-RDSxsU1QbeU7or36vZHJyB35iz8GFsRShV5oX8SZTkJsGWloA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1319642044938",
+        "starRating": "5",
+        "title": "Texts to my biz number",
+        "comment": "It works very well and is great to enable testing to my biz number and have the text delivered to my personal mobile phone",
+        "commentId": "lg:AOqpTOFRIWQIu-W8Yzka9qJGbZle3ojbhzsni9FKJuKe0-b9daErW0Ig42yN2cUZu4oDzF8avrc4EOZNNlbhIg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1340204307996",
+        "starRating": "5",
+        "comment": "Always use it!!!!",
+        "commentId": "lg:AOqpTOEqxULTSj-FBKoIwGK6Cn72tjpIeK4x42T_eG1UIa-yZ_9gFM0JuSYpJ2SRTyvUA5jSG0uUd292dYKtOA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330715825487",
+        "starRating": "5",
+        "comment": "Great app!",
+        "commentId": "lg:AOqpTOHCqvO0nwKK9jw91xwxyzRBeVblsqxk19lODZPQTpeYgMfiohNJ1mmcGV7023Q4VFPxsgpYTjze5WkK1w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.broadsoft.fixedlinesms.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Hardware Checker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.netya.lv11",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 4, 2012",
+  "version": "1.4",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "okazaki",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.netya.lv11",
+  "extendedInfo": {
+    "installSize": "22k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "You can check whick functions of your android device are available with this application.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS"
+    ]
+  }
+}

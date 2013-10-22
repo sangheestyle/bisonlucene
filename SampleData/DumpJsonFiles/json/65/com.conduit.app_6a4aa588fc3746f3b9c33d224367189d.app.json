@@ -1,0 +1,56 @@
+{
+  "title": "Cumbria News, Weather and More",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_6a4aa588fc3746f3b9c33d224367189d.app",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "June 13, 2013",
+  "version": "1.52.67.10660",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Rock And Pop Radio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_6a4aa588fc3746f3b9c33d224367189d.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Keep in touch with what's happening around the county of Cumbria - The English Lake District, with our FREE mobile phone application. Also, listen to our online radio station, while on the move!â  Rock & Pop Radio.â  Local & National News.â  Weather Forecast.â  Share/Browse Cumbria Photographs.â  View Cumbria Video Clips.â  Events Calendar.",
+    "reviews": [
+      {
+        "documentVersion": "1.51.10242",
+        "timestampMsec": "1354451150323",
+        "starRating": "5",
+        "title": "Superb App",
+        "comment": "This is a great way to stay in touch with stuff happening around Cumbria. I love it.",
+        "commentId": "gp:AOqpTOHdFajSVZjCNc8sPXdwl8Lir_EtNifIWLa8g4ogHiDfdjFEnlAJzXTqbK6wu-8VuS51UTg2WrhhzCLa0Q",
+        "author": "Sean Duffy",
+        "authorURL": "http://lh4.googleusercontent.com/-yP17tVAmVWk/AAAAAAAAAAI/AAAAAAAAFfo/kZSe9cnanV4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-yP17tVAmVWk/AAAAAAAAAAI/AAAAAAAAFfo/kZSe9cnanV4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359235981377",
+        "starRating": "4",
+        "title": "Almost perfect",
+        "comment": "Please add tourist attraction and accommodation.",
+        "commentId": "gp:AOqpTOFEaS6sW23CMaEbjy0bQVFrh6X50nK-2-q_bRej7oKqHFb2N7b0JPrbGHZA48T7fOSAjPp4X6e5RN6xCw",
+        "author": "B. Bairagee",
+        "authorURL": "http://lh3.googleusercontent.com/-9cCpMa36zD0/AAAAAAAAAAI/AAAAAAAAAAA/AffSHFTQ-q8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-9cCpMa36zD0/AAAAAAAAAAI/AAAAAAAAAAA/AffSHFTQ-q8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_6a4aa588fc3746f3b9c33d224367189d.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

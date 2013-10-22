@@ -1,0 +1,58 @@
+{
+  "title": "Hajj Mini Guide",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.euphratesmedia.meccaar",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "November 3, 2011",
+  "version": "0.7.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "30",
+  "rating": "4.1",
+  "contentRating": "Low Maturity",
+  "creator": "Euphrates Media",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.euphratesmedia.meccaar",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Welcome to the Holy Land! This easy to use application uses âAugmented Realityâ (AR) technology to guide you through Holy Mecca and Hajj pilgrimage. Whatâs more, it include a step-by-step mini guide to the Hajj rituals, so that you know what steps you should do each day, and what rite to perform.FEATURES:A)\tAugment Reality of Mecca and Hajj Route: Launch the application (When in or around Mecca or Medina), and take a look around you through your mobiles screen, and you will see you all points of interest (POI) in your direction, and you can see the distance to each POI.1-\tThe radius covered by augmented reality can be adjusted from zero to 80km.2-\tPOIs include: Holy Kaaba, al-Masjid an-Nabawi, Mina tent city, Jamaraat, and many more points and locations of importance/interest in Hajj Pilgrimage.3-\tYou can add custom POIs as you like, e.g. you can add your hotel, or location of your tent, or any locations you may desire to the POIs, therefore later see it in AR mode, to easily find your way to it!4-\tHelp you find your way, even in the most crowded of places if you have added the destination point to your POI list (refer to (3) above).5-\tPOIs are shown as circle the relative size of which show the distance. Also the distance to each point is indicated below it.Note: In order for this function to AR to work properly the GPS of your device must be working.B)\tHajj Mini Guide:You will have a concise step-by-step guide to Hajj, which shows: 1-\tA list of steps and rites to be performed during Hajj;2-\tThe rites of each step of Hajj, and on which day(s) it must be performed on a graphic map;3-\tAn overview schematic of the whole Hajj.C)\tLocal weather and temperature (shown on AR view)D)\tReal Time UV index for Mecca area, so that you can take necessary precautions. (shown on AR view)E)\tShows Sunrise (Fajr) and Sunset (Maghrib) times, whichever is coming next.F)\tMap View, of your location, that also shows Points of Interest.G)\tMap/Plan of Masjid Al-Haraam (The Holy Sanctuary/ The Holy Mosque), which shows all the gates and points of importance, including Hijr of Ismaâeel, Hajar al-Aswad (The Black Stone), Safa, Marwa, â¦H)\tMap view, with boundaries and area of the Sanctuary (Haram) of Mecca is show clearly in red.*May your Hajj and prayers be accepted by Allah, and we ask for your good prayers.*",
+    "reviews": [
+      {
+        "documentVersion": "0.7.2",
+        "timestampMsec": "1357352550304",
+        "starRating": "1",
+        "title": "Worst app",
+        "comment": "It is nothing app",
+        "commentId": "gp:AOqpTOFXjb8sKLL4bOeYjcDnmhDqckjZulZr30xjad6BbIzSyrN5fMDSnrZLkowV9c7CHuDZd1O5PZqc2kUphQ",
+        "author": "Sheikh Imtiyaz",
+        "authorURL": "http://lh4.googleusercontent.com/-LCFKqTJ_sDg/AAAAAAAAAAI/AAAAAAAAAAA/2I32hMhnaAI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-LCFKqTJ_sDg/AAAAAAAAAAI/AAAAAAAAAAA/2I32hMhnaAI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360070318720",
+        "starRating": "1",
+        "title": "?!?",
+        "comment": "Not as advertised.",
+        "commentId": "gp:AOqpTOHd96OK-izRNDV056YMWvXMOg_t6rLsUtBHHkdmK2EeOSu_XEOP0aDZ-KFRbFFzqiPTJqBtxLtF4aRepg",
+        "author": "Leo P",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "com.euphratesmedia.meccaar.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

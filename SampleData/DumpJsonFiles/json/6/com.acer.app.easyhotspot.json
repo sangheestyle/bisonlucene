@@ -1,0 +1,35 @@
+{
+  "title": "Easy Hotspot",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.acer.app.easyhotspot",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.0.0822",
+  "operatingSystems": "4.0.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Acer Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.acer.app.easyhotspot",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Easy Hotspot lets you share Wi-Fi hotspot connection more easily.You can use it to scan QR Code for Wi-Fi connecting, or enable Wi-Fi sharing through NFC.System Requirement-\tScree resolution: 480x320,800x480,960x540,1280x720,1920x1080-\tOnly Acer Device can share Wi-Fi Hotspot to others.Features-\tSupport QR code sharing: Scan QR Code for Wi-Fi connecting-\tSupport NFC sharing: Put two phones in close proximity with each other and then tap screen to enable Wi-Fi sharing-\tSupport 26 languages",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.NFC",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA"
+    ]
+  }
+}

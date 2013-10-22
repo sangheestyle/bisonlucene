@@ -1,0 +1,56 @@
+{
+  "title": "Red Raider Track and Field",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_f82ef5772eb748d0bbedd43094d910db.app",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "January 25, 2012",
+  "version": "1.2.4.1924",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "PlayersUnionUSA",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_f82ef5772eb748d0bbedd43094d910db.app",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "We are the Red Raiders from Greenville High School located in the heart of the City. This app was created to provide up to date news, results, pics and vids for the student-athletes, parents, and fans of Red Raider Track.",
+    "reviews": [
+      {
+        "documentVersion": "2.4.1924",
+        "timestampMsec": "1327621995441",
+        "starRating": "5",
+        "title": "Yoro",
+        "comment": "GREAT!!!",
+        "commentId": "lg:AOqpTOEmr21ZUp55nhOnNIfaUl6DRi0B_SM-eztqbQ8uV90pl8VtDUbNkW00wJ0DMKaOIKP__NTgh4DJRHqiLA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.1924",
+        "timestampMsec": "1327709330955",
+        "starRating": "5",
+        "title": "We don\\'t play track & field....We Run It!",
+        "comment": "We don\\'t play track & field....We Run It!",
+        "commentId": "lg:AOqpTOHmWjZM1kfH4nhhwlo5mmoLbiXItUiJouqhmTMqyEHemfEff9OKGJz1yeXK14I-TQgQRpGJHnUxpJ0HQA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_f82ef5772eb748d0bbedd43094d910db.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

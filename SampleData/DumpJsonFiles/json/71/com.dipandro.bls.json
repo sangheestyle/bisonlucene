@@ -1,0 +1,60 @@
+{
+  "title": "Battery Low SMS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dipandro.bls",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "April 14, 2012",
+  "version": "1.0.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dipesh Naigaonkar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dipandro.bls",
+  "extendedInfo": {
+    "installSize": "244k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This application sends the canned SMS text to the recipient when your phone battery gets low.If you are wondering - Why would I ever need to inform \"my\" phone battery level to \"anyone\" ?Well.. there are numerous reasons viz.Use cases: # When you want to intimate your dear ones that they shouldn't worry if your phone is not reachable- as your phone battery is getting down. May want to indicate your alternate number/ friend's name in the message.\te.g Hi Dad, my phone might run out of battery in sometime, I am with my basketball team celebrating today's victory in pool. Phone's not in my pocket ofcourse ;).# When your elder ones forget to charge their android smart phones, then configure this app to inform yourself whenever their phone battery gets low.\te.g Autotext: Me to myself ! Its time to be at the helm to put on charge Mom's phone !!Mail me if you make use of it in any other better way - you get the credit!Q: Why this app does not allow me to select the battery percentage at which SMS should be sent ?A: To send message at a user selected level, the application will then require to constantly process at each battery level change for the match- which eventually drains more battery as a side-effect.Thus to avoid this battery sapping, this app simply sits idle until Android itself declares a low battery state, which is generally 15% - a source code configurable value set by your phone manufacturer stock/ custom rom developer.Q: Why this app does not start automatically on phone boot?A: IMHO any app which involves direct cost to the end-user (e.g SMS charges) should first acquire consent explicity before operating - nothing should be sneaky !",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1342602037009",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "App switches off every time the phone is restarted. Useless so uninstalled. (LG Optimus Black)",
+        "commentId": "lg:AOqpTOFfzyF3rr_A093WBQpWAjHsW_LP1vtyubiFJV1HkkSu29d8vxB43gLT1l0VQzYpKCAPZBlO7vbDbdLCNg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1362023018502",
+        "starRating": "1",
+        "title": "Doesn\\'t stay in Enabled state over phone restart",
+        "comment": "The Enabled state is not persisted over phone restart.  If that could be fixed, I would give this app 5 stars.",
+        "commentId": "lg:AOqpTOG6Yy5yJ3dYDOPsmQ6zZ9uHNYJyeC6NUsRtEE3bJjAMuAPPBZlfNOjDyGScaI6QyyL8ap7vxgR-866PPg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1372069861633",
+        "starRating": "5",
+        "title": "Thanks",
+        "comment": "Really helpfull",
+        "commentId": "gp:AOqpTOFhrMpp9rhrC9Trwf8sQXAInFPCbWaK3Zj3WKzvMAL0HKCVWX2Kh3FyrBHHdoQfwzuaArTCRkBnEWEYig",
+        "author": "Saad Amin",
+        "authorURL": "http://lh4.googleusercontent.com/-j87Hc0-1ALs/AAAAAAAAAAI/AAAAAAAAAAA/WP2AonbUNJw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-j87Hc0-1ALs/AAAAAAAAAAI/AAAAAAAAAAA/WP2AonbUNJw/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

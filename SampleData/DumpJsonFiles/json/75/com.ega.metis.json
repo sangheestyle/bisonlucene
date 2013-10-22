@@ -1,0 +1,50 @@
+{
+  "title": "Electricity and Water Services",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ega.metis",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 7, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.4",
+  "contentRating": "Low Maturity",
+  "creator": "eGovernment Bahrain",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ega.metis",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This service is provided to the individual by Electricity and Water Authority. Individuals can Enquire and Pay their electricity and water bill through this service by providing simple information available on the bill.This application enables users to inquire about their Water and Electricity bill, pay for multiple accounts, view their payment history, and receive notifications for outstanding bills. â¢\tBill inquiry for multiple accounts â¢\tPayment through credit card for multiple accounts â¢\tReceive the payment receipt through email and/or SMS â¢\tView the payment transaction history â¢\tReceive notifications for outstanding bills",
+    "reviews": [
+      {
+        "timestampMsec": "1371620866983",
+        "starRating": "5",
+        "title": "Very helpful",
+        "comment": "Awesome application",
+        "commentId": "gp:AOqpTOEaBRS1fQn-0fTAx8aKWCavkk3PZg_59dPfux1R7DFe80dd-rW9-3tDCnD_tLaJdejcXTqv7gXrPgj97uE",
+        "author": "Ruheena Parween",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

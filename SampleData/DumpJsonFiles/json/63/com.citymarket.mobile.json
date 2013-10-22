@@ -1,0 +1,54 @@
+{
+  "title": "City Market Food & Pharmacy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.citymarket.mobile",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "September 6, 2013",
+  "version": "8.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "The Kroger Co.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.citymarket.mobile",
+  "extendedInfo": {
+    "installSize": "7.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Looking for the ultimate mobile/tablet shopping experience? Save time and money with the City Market App! The City Market App puts convenience and savings at your fingertips. Simply download the app, create an account and register your City Market Shopperâs Card to take advantage of all these great benefits:Load online coupons directly to your Shopperâs Card and your shopping list.Create an online shopping list that you can update and use any time.View Weekly Ads and quickly add Weekly Ad items to your shopping list.Access exclusive promotions and save money with personalized offers.Refill your City Market Pharmacy prescriptions directly from your phone or tablet. Type or scan your prescription number and select your Pharmacy to schedule a convenient pickup time.Check your fuel points and view your rewards history.Use the store locator to find stores and fuel centers nearby.To use the City Market App, you must first have a City Market online account. Register online at www.citymarket.com. Be sure to register your Shopperâs Card to take advantage of all these benefits. Donât have a Shopperâs Card? Get one on the spot when you visit any one of the Kroger Family of Stores.Your City Market App helps you save at any of the Kroger Family Stores which include: Kroger, Bakerâs, City Market, Dillons, Food 4 Less, Foods Co., Fred Meyer, Fryâs, Gerbes, Jay C, King Soopers, Owenâs, Pay Less, QFC, Ralphs and Smithâs.Coming Soon!Updates to the Shopping List will allow you to create multiple lists, save items as favorites and save money when you choose items from our Smart Suggest feature.Thank you for providing your feedback and suggestions. More updates are coming soon. Check citymarket.com or Google Play for the latest digital news.",
+    "reviews": [
+      {
+        "timestampMsec": "1375742247936",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Great app.",
+        "commentId": "gp:AOqpTOHcLeMyko_zurNqUDTMe92xD_ZgHAw3o0lz9mUiX6YeZLW8XTOZLK6SYLg7KUEr0oE75wM0DJ3-VMEi36s",
+        "author": "Jacob Williams",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360091540727",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "I like the option of pre-shopping.",
+        "commentId": "gp:AOqpTOEVZl7sTjrqNnKjFcZ5M56HxtiXWXMO-J5vCPAN4hc5PNs5zmCOvGUPGfvsl8gULnSxG27SX04QRANUxpY",
+        "author": "Charles Watton",
+        "authorURL": "http://lh4.googleusercontent.com/-yUMMfR3UYTE/AAAAAAAAAAI/AAAAAAAAAI8/xbc-0_Tysf0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-yUMMfR3UYTE/AAAAAAAAAAI/AAAAAAAAAI8/xbc-0_Tysf0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

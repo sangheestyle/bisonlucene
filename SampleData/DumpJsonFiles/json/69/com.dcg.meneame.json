@@ -1,0 +1,56 @@
+{
+  "title": "menéame",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dcg.meneame",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "August 18, 2013",
+  "version": "0.3.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "245",
+  "rating": "3.8693879",
+  "contentRating": "Everyone",
+  "creator": "DarkCultureGames",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dcg.meneame",
+  "extendedInfo": {
+    "installSize": "142k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Know Issues: - News do not load: The next release will fix the loading issue. By no just re-install the app or clear its data from your phones settings. - UI does not adapt to tablets: The new UI will adjust on all new devices and resolutionsFor more info: https://github.com/MysticTreeGames/meneameandroid(Beta) Mobile version of meneame.net for Android! Still stuff missing from the web but we are on it!Please report any bugs and provide the log file.Donation App added to the market!This is Software Libre under GNU General Public License v3",
+    "reviews": [
+      {
+        "documentVersion": "0.3.0",
+        "timestampMsec": "1326583839096",
+        "starRating": "5",
+        "title": "Muy Buena",
+        "comment": "Felicitaciones",
+        "commentId": "lg:AOqpTOFfKEhqRz8htIeoM6g63sa4kflxFf7c5DHcK5l0yfPuK13XLNmCOZVKdhRY4cJ3gdX2TtKG0_vRUdAB3og",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.2.3",
+        "timestampMsec": "1283689757818",
+        "starRating": "2",
+        "comment": "Hard and unintuitive to use. It\\'s not clear at all what clicking on an article does. Needs polishing.",
+        "commentId": "lg:AOqpTOFdK5fdcYr6zI8OfWaYqNYS5VgcxkJEwCpLalQr6dg3abscnb68GQUqHYuzLFZU8JyYMN3n99Jro-uUSnM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.2.3",
+        "timestampMsec": "1294002062487",
+        "starRating": "3",
+        "comment": "Poco intuitiva, simplemente clickar un art\\303\\255culo no hace nada. Logearse es muy complejo.",
+        "commentId": "lg:AOqpTOFnvZzVdXgH86e-4Mc-eGTapa3tfoWqhmIIKShoYi_OeLAcKadSo6ur80es6p3HD_sA-7iOHqrv4Gyfkwk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

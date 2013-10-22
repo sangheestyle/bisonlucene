@@ -1,0 +1,63 @@
+{
+  "title": "Nuclear Site Locator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fibercode.nuclearsiteslocator",
+  "category": "Lifestyle",
+  "price": "$1.99",
+  "datePublished": "April 14, 2011",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "8",
+  "rating": "4.375",
+  "contentRating": "Low Maturity",
+  "creator": "Fibercode",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fibercode.nuclearsiteslocator",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The new Nuclear Site Locator app allows you to locate your current position relative to Nuclear Power Sites.  It provides you with the knowledge you need to keep yourself, family and friends safe.  By being aware of the actual site locations and information, this is an invaluable tool to help you make informed decisions.  Use this tool to prepare emergency evacuation routes before or during an emergency.  Key information is at your fingertips, as the time consuming research has already been completed for you. Features:Â·         Active evacuation zone ring markers visually surround sites currently in an emergency state.  With international incidents, two distance zones are normally in effect; local and U.S. advisory based.Â·         A list of all known active and non-active sites. Even non-active sites could be a potential threat if used materials are still on-site.  This list shows the name and distance of every nuclear site from your current location or by a street address you want to search.Â·         You also have the ability to search by a known reactor name, or Country of choice.Â·         Information on the number of active and inactive reactors for each site is displayed.Â·         Photographs of sites are provided as best as possible.  Security or clearance concerns may prohibit or limit the numbered displayed.Â·         Tablet compatible- including Motorola Xoom. The Nuclear Site Locator app is an invaluable risk mitigation tool youâll want to keep on your mobile device at all times.  Use the power of knowledge to have every advantage at your disposal when it counts.  Time is money, and the low cost of this app saves you both time and money.",
+    "reviews": [
+      {
+        "timestampMsec": "1303917906175",
+        "starRating": "4",
+        "comment": "Cute idea. Note: \\\"nuclear sites\\\" are strictly current or former power reactors. No DOE, military, or research reactors, no non-power nuclear sites.",
+        "commentId": "lg:AOqpTOEXoD1dpDJnwwmCjG92I-kOGRo4wyhry0B8PoRsol8BujSXfEVhCNJG7mZiQ3gZtFyTHgfowhQ6yVzR8A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336430712171",
+        "starRating": "1",
+        "title": "Crap",
+        "comment": "Dont waste your time or money - no connection  even with wifi.",
+        "commentId": "lg:AOqpTOECs_bWVqgZg4CL13fYf7Sckj2gbjc0NjXh6Td-_li1kymCu32OyRDLA55zqZKceB1xwBNgEAx45QJaLA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302860285594",
+        "starRating": "5",
+        "comment": "Excellent app",
+        "commentId": "lg:AOqpTOFDB6-PCpbL6mxpmWwFQykpki_9SY6UfbzWECLKqIJ4qkbtqKpjd9wLd9M0m9AmgRroJhXzfqI4U8Xkow",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1301704989312",
+        "starRating": "5",
+        "comment": "Geez..... I thought there were no reactors anywhere close to me, but it turns out there is a site that has two shutdown reactors 20 miles from here!",
+        "commentId": "lg:AOqpTOH3v1OCrjHqs1cFzSQ0dFrOQZisexaywWzkb2fuiZRd9FqSAJ2wvpwi7sbu0UlcL7jjhn89-S3LT1ZN-g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Elisa Vahti Live",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elisa.vahtilive",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 3, 2013",
+  "version": "1.6.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "38",
+  "rating": "4.2105265",
+  "contentRating": "Everyone",
+  "creator": "Elisa",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elisa.vahtilive",
+  "extendedInfo": {
+    "installSize": "8.2M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "ElÃ¤mÃ¤ tapahtuu nyt - katson sen livenÃ¤!Elisa Vahti Live on uusi palvelu, jolla voit katsella ja tallentaa livekuvaa sinulle tÃ¤rkeistÃ¤ asioista. Tutustu ja katso demokameran livekuvaa maksutta. Palveluun sisÃ¤ltyy erikseen hankittava liiketunnistimella ja yÃ¶nÃ¤Ã¶llÃ¤ varustettu kamera. Katso ja kuuntele huippulaadukasta livekuvaa, siirry aikajanalla taaksepÃ¤in nÃ¤hdÃ¤ksesi mitÃ¤ tapahtui ja ota parhaat hetket pysyvÃ¤sti talteen. Kameran liiketunnistimen ansiosta lÃ¶ydÃ¤t helposti sinua kiinnostavat hetket. Halutessasi saat myÃ¶s ilmoituksen kameran havaitsemista liikkeistÃ¤.Elisa Vahti Live âpalvelun ominaisuudet: - Live - Katson laadukasta livevideokuvaa missÃ¤ ja milloin haluan. - ÃÃ¤ni â Kuulen mitÃ¤ tapahtuu. - Aikakone - Automaattinen 24 h tallennus. Voin helposti siirtyÃ¤ aikajanalla taaksepÃ¤in. - Liikevahti â Saan liikehavainnoista ilmoituksen .- Jakaminen â Voin jakaa livekuvan ja aikakoneen linkkinÃ¤ tai upotettuna kuvana.- Tallenteet â Voin valita parhaat hetket pysyvÃ¤sti tallenteiksi.",
+    "reviews": [
+      {
+        "timestampMsec": "1338800989589",
+        "starRating": "5",
+        "title": "Yksinkertainen mutta toimiva",
+        "comment": "T\\303\\244ss\\303\\244 on ainakin ominaisuudet puristettu minimiin, mutta aikakone on hypnoottisen koukuttava kapistus...",
+        "commentId": "lg:AOqpTOE7SrJbhzB6yZJO8JnpwycMUfOBQ3sp3vSeusgxVq-4M1BbtylWfadV4jLYTwpQEWdVIx6Bv5u34yVxcWg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366665564953",
+        "starRating": "2",
+        "comment": "Turhan v\\303\\244h\\303\\244n ominaisuuksia.",
+        "commentId": "lg:AOqpTOGnWnGOcjI_xhUhfZKdyXDs8z0io2R4kGU1Ce7aTTrdt4NtbO5pV8xFc4kkGl7cU3pBbPU8mksFcd3NCko",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.elisa.vahtilive.permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

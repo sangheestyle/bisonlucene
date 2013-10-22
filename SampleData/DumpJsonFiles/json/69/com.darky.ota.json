@@ -1,0 +1,46 @@
+{
+  "title": "DeltaROM Project Shield",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.darky.ota",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 23, 2013",
+  "version": "1.15",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "21",
+  "rating": "4.5238094",
+  "contentRating": "Everyone",
+  "creator": "BvGemert",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.darky.ota",
+  "extendedInfo": {
+    "installSize": "8.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "--- READ THIS ---[Root required]This is the official DeltaROM (www.deltarom.com) O.T.A. app called:Project Shield.It is made for the GT-I9000, GT-I9100, GT-I9300 & the GT-N7000 but it should work on every rooted device, except for O.T.A. related features.TAR packed kernel & modem flashing supported only on supported devices, if you use the feature on any other device I am not responsible for the outcome.OTA database contains new ROMs and now also modems (more will be added soon). Other categories will be added in the future.There are no ROM requirements to use the features of the app and it works with CM, AOKP & Samsung based firmware.---- IMPORTANT NOTICE & DISCLAIMER! ----I am not responsible for any damage to your phone if your phone gets bricked with irresponsible use of the flashing features or using the wrong commands in the Shell. The shell is considered an advanced user feature.",
+    "reviews": [
+      {
+        "timestampMsec": "1362280193704",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Nice job",
+        "commentId": "gp:AOqpTOE21CQmzrTCX4c2dXGTHyabyR7YQjImRL5QnG8pn3li46OWbUeGWWrSo2awNoDPzgWmI2R3y5h5jA1mGTc",
+        "author": "Adzrin Salleh",
+        "authorURL": "http://lh6.googleusercontent.com/-c9mH_EmFOeQ/AAAAAAAAAAI/AAAAAAAAAFo/r86vEJuQt7c/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-c9mH_EmFOeQ/AAAAAAAAAAI/AAAAAAAAAFo/r86vEJuQt7c/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363924791970",
+        "starRating": "5",
+        "comment": "Gudone...",
+        "commentId": "gp:AOqpTOFBmIXBu0KTdb9ST2kX6MpH5WLn5sLB6Huk63TlctWhSXCZaw1Safp0I8YHFOr5PGQOGUJUJaB4j_89Y08",
+        "author": "Prince Prakash",
+        "authorURL": "http://lh4.googleusercontent.com/-HKEjO5KZiu0/AAAAAAAAAAI/AAAAAAABAMo/iR26J5DrAkk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-HKEjO5KZiu0/AAAAAAAAAAI/AAAAAAABAMo/iR26J5DrAkk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

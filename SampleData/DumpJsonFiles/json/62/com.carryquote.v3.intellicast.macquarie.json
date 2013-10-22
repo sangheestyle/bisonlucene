@@ -1,0 +1,65 @@
+{
+  "title": "Macquarie Securities Research",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.carryquote.v3.intellicast.macquarie",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "July 29, 2013",
+  "version": "2.1.5969",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "9",
+  "rating": "4.7777777",
+  "contentRating": "Everyone",
+  "creator": "Macquarie Securities Group",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.carryquote.v3.intellicast.macquarie",
+  "extendedInfo": {
+    "installSize": "3.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Macquarie Securities' Android application gives our Institutional Clients on-the-move access to our award winning Capital Markets research. We have one of the largest research teams in the Asia-Pacific, as well as teams in Europe, North America and South Africa - all providing powerful local market insight. With more than 2,400 stocks under coverage globally, we are a top 10 global equities research house. We cover all the worldâs major financial markets, giving our institutional, government and corporate clients the depth and breadth of information they need. The applications are free to download from the Market, however users must have an account with Macquarie Securities to log in. For Help with getting access, please see the application support link.The application providesâ¢ Easy yet secure access - no passwords required, provided you are a registered client of Macquarie Securitiesâ¢ Powerful search tool with access to our extensive document libraryâ¢ Ability to save searches and to request alerts for topics of interestâ¢ Offline briefcase function, allowing you to download documents for reading while offline",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1532",
+        "timestampMsec": "1314827420144",
+        "starRating": "5",
+        "title": "Great addition for Macquarie",
+        "comment": "Can read up on the commute, good stuff.",
+        "commentId": "lg:AOqpTOFUAQvnd85RyiiQoSIXNjuDnvxusWtCys_tB4J3W7NfCO28A6LtSG79P48FMDTqoVTmI8KVJ-6BuOCTyos",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1532",
+        "timestampMsec": "1314833884575",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Very easy to use!",
+        "commentId": "lg:AOqpTOEP1XjxWyMrg19l5DkBs9g9QsNtGWbkQ4rescoXmnYQncndqcJLLAu8LEwvFV-PtgIFzIc2JyZbTGjWXQw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1532",
+        "timestampMsec": "1323989117653",
+        "starRating": "5",
+        "comment": "Not a bad little app",
+        "commentId": "lg:AOqpTOF8NkraMm64wYRZBmDbYgPobxalkzmjll99KtcSuiWIu8VfahAW6guv3BRY76K4WmuowdkDc3XetSR8aAQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.carryquote.v3.intellicast.macquarie.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

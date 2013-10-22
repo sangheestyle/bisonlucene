@@ -1,0 +1,38 @@
+{
+  "title": "Androidian Summer Games",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.downplaygames.summergames",
+  "category": "Sports Games",
+  "price": "$0.99",
+  "datePublished": "August 21, 2013",
+  "version": "2.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Downplay Games",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.downplaygames.summergames",
+  "extendedInfo": {
+    "installSize": "19M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "In celebration of the 2012 Olympic games in London, the Android Robots are having a competition of their own. Take part and run, jump, swim, and row your way to the gold.Androidian Summer Games lets you experience the Hurdles, Long Jump, Triple Jump, Freestyle Swimming, and Single Sculls Rowing. Earn a Gold, Silver, or Bronze medal in each event. Compete in all the events in a row and earn a medal for your combined performance in the Droidcathlon!Show off to your friends. Post your longest jumps and fastest times to the Global Scoreloop Leaderboards and see how you stack up against other athletes. Earn Scoreloop Achievements as you earn medals and complete your set. Pick your Robot's uniform before you compete and look the part.Have questions, comments, or suggestions? Contact us at downplaygames@gmail.com",
+    "reviews": [
+      {
+        "timestampMsec": "1344998653816",
+        "starRating": "5",
+        "title": "Fun!",
+        "comment": "Very addicting once you start getting better.",
+        "commentId": "lg:AOqpTOExvUsXf8KiQZQcghpfoi43FObNLw0E10oduXrqWIqp_YjFwGcQ40Cf3O0XlJuysSh5V8Z3VaZdI-tU-A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

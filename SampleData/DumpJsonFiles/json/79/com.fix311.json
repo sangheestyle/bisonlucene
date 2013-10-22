@@ -1,0 +1,80 @@
+{
+  "title": "Fix 311 Government City Hall",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fix311",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 9, 2013",
+  "version": "3.4.16",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "112",
+  "rating": "4.75",
+  "contentRating": "Medium Maturity",
+  "creator": "Fix311.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fix311",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Use this free app to report non-emergency issues to your local municipal as well as receive the latest alerts during a major event (participating cities).All previous software issues have been fixed.  Old ratings and reviews prior to 2013 are not valid.",
+    "reviews": [
+      {
+        "documentVersion": "3.4.7",
+        "timestampMsec": "1375642945639",
+        "starRating": "1",
+        "title": "Report doesn\\'t go to 311",
+        "comment": "Says that my report went to my municipality 311 but when I asked a 311 representative if they have received any reports from this app they said no.",
+        "commentId": "lg:AOqpTOFq7TEf360aQnAwxln7xw-6gssdAZfgZwVrsYBFrVm7RsvIF2AHE004kIP7T9MnIzXDBpoCHigNPdgtK20"
+      },
+      {
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.8.8",
+        "timestampMsec": "1347287558529",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "It does what its supposed to do I had a.problem and the app was as easy as making a phone call",
+        "commentId": "lg:AOqpTOEed9VLsVzdqKcRNPuh0XXQVQOIPvYeyDbHNyDH5lcEhtTOMgyd_IOfAmMQnVozw-xuSJDnYpay2PNQgpA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353434812067",
+        "starRating": "4",
+        "title": "Awesome",
+        "comment": "There are 22,000 cities in the US.   Obviously this app will take some time to reach every city.  Sonera feedback are so ill informed.",
+        "commentId": "lg:AOqpTOFfzRzEUFTp6qbGFDsXdoYgi-F33vHg_DtNlb5AXYni00SkpcV7lmlkUfwoZ-Rxz1zw6f8ZFnANYVZa3cM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352842441299",
+        "starRating": "5",
+        "comment": "Simply brilliant. Actually it\\'s brilliantly simple.",
+        "commentId": "lg:AOqpTOH9eeNi_l7y_GfS6WEYLF6KA-dwFC-gvp_0LtDGfSDFdXyhzgc-Rzrmc07NbHwFdmbZCoDMi4t0JRPNC1Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.UPDATE_DEVICE_STATS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.fix311.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.fix311.permission.MAPS_RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Brother Print SDK Demo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brother.ptouch.sdk.printdemo",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "2.3.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "3.2857144",
+  "contentRating": "Everyone",
+  "creator": "Brother Industries, Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brother.ptouch.sdk.printdemo",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "The Brother Print SDK Demo is a demo application used to print image files, PDF files and other files on the Brother mobile printers listed below.  You can send and print the image files or PDF files from your Android device via a Bluetooth, USB or WiFi connection.  [Supported Printers]MW-140BT, MW-145BT, MW-260,PJ-562, PJ-563, PJ-522, PJ-523,PJ-662, PJ-663, PJ-622, PJ-623 RJ-4030, RJ-4040,TD-2020, TD-2120N, TD-2130N(Brother laser printers and ink-jet printers are not supported.) [Supported OS]Android 2.2/2.3/3.0/4.0[Limitations for PDF printing function]*For PDF printing, a watermark is automatically printed on each printed document.*For PDF printing, you can use this application for 2 months. After 2 months the trail period will expire and PDF files can no longer be printed.*Since this application is only used to demonstrate the capability of the Brother Print SDK for the Android OS, no permanent version of this demo application will be available.*There is no limitation for image printing function.[How to use]1. Pair the printer and Android device via Bluetooth by using the \"Bluetooth Settings\". In case of Wi-Fi connection for RJ-4040, you don't need to pair the printer and Android device in advance2. Select the printer from the \"Printer Settings\".3. Click the \"Select\" button, and select the image file or PDF file for printing.4. Click the \"Print\" button to print your image or PDF document.[Troubleshooting]*If you have a problem with the Bluetooth connection, please disconnect the Bluetooth paring and reconnect it. *If you have the problem of Wi-Fi connection, please select the printer again.\"[Brother Print SDK]The Brother Print SDK (Software Development Kit) is available for application developers who want to integrate the image printing function onto their own application.  A copy of the Brother Print SDK can be downloaded from the Brother Developer Center: http://www.brother.com/product/dev/mobile/android/index.htm[Brother PDF Print SDK]The Brother PDF Print SDK (Software Development Kit) is available for application developers who want to integrate the PDF printing function without any limitation onto their own application.  To obtain a copy of the Brother Print SDK (unlimited version), please contact with your nearest Brother sales office.",
+    "reviews": [
+      {
+        "documentVersion": "2.3.0",
+        "timestampMsec": "1378356566682",
+        "starRating": "5",
+        "title": "The install process was effortless.",
+        "comment": "Use, Is like I am using my laptop.",
+        "commentId": "gp:AOqpTOF0FnTTlxVoJ8bGePg3XaSR8G53n6o1Cum_2nlpeOsFgkqypuLyXBLIZvNrMuEf0hawEal-mZtuV6ynqIk",
+        "author": "Soundcityintl jeffrey",
+        "authorURL": "http://lh5.googleusercontent.com/-wALP8InA1hA/AAAAAAAAAAI/AAAAAAAAAAA/SsXYFynyLTs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-wALP8InA1hA/AAAAAAAAAAI/AAAAAAAAAAA/SsXYFynyLTs/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1371835301698",
+        "starRating": "5",
+        "title": "Works fine on my PJ-662.",
+        "comment": "I don\\'t know who these cowards are who posted the previous low ratings, but they clearly have no clue what they\\'re doing. Was skeptical at first that this would work over bluetooth, but after some initial configuration, it printed like a charm. Now if only there was a version that didn\\'t have the demo watermark...",
+        "commentId": "gp:AOqpTOHluUinbOUiQGoxiuPczaYD-3bOtOc-ilzcqLopVtrz1gl5ekLn6Q1FmBp2PlliCabd3mThCMALFpuNtZ0",
+        "author": "Mike Trieu",
+        "authorURL": "http://lh4.googleusercontent.com/-aS04HMd-YzI/AAAAAAAAAAI/AAAAAAAAC8o/zOr_ALefp6M/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-aS04HMd-YzI/AAAAAAAAAAI/AAAAAAAAC8o/zOr_ALefp6M/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

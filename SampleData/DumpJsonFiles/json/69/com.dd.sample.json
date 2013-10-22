@@ -1,0 +1,44 @@
+{
+  "title": "CATCH THE LION!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dd.sample",
+  "category": "Casual",
+  "price": "$4.23",
+  "datePublished": "April 19, 2011",
+  "version": "1.0.8",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "10",
+  "rating": "3.2",
+  "contentRating": "Everyone",
+  "creator": "LIBLOG",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dd.sample",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This game is a simple variant of Shogi(Japanese chess), played by two players.Each player has four pieces at first: Lion, Giraffe, Elephant, and Chick. Two players move one piece to one position in turn. When Chick moves into the farthest row, it can promote as Hen.Players can reuse all the pieces captured at any time they want.The object of the game is to capture the opposing Lion. Or, the first one who moves his Lion into the farthest row will win, unless the Lion is captured by the opponent in the next turn.Let's CATCH THE LION!",
+    "reviews": [
+      {
+        "documentVersion": "1.0.8",
+        "timestampMsec": "1343369444026",
+        "starRating": "4",
+        "title": "I gave it sort of higher than it deserves",
+        "comment": "because its the best implementation of Doubutsu Shogi I\\'ve found. The AI is pretty simplistic, and the UI could use some work-- and the touch controls very rarely will interpret a tap as a swipe and drop. But, even with all of this, I haven\\'t seen a better version for Android.",
+        "commentId": "lg:AOqpTOEb-0I0vqiMv-YWzVwyYLPNQLast__ISFfqylAkJHsMP7gHlM_2Jb_oj8UGaJ60edIoqcf7lnXCXep8fQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.8",
+        "timestampMsec": "1311037570051",
+        "starRating": "3",
+        "comment": "Very fun, even though the AI is laughably bad at times. Unfortunately, there are lots of bugs. Using Moto Droid.",
+        "commentId": "lg:AOqpTOEtki8IeofhuKs1ZfzvKYIqrHJu4diF-2VIxt02LJ3e3i27LDp45aca1Cx0Riz4Si8r48pXRa6zkYNIbw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

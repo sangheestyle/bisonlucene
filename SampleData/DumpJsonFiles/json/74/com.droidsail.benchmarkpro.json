@@ -1,0 +1,55 @@
+{
+  "title": "DroidSail Display Expert (Pro)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidsail.benchmarkpro",
+  "category": "Tools",
+  "price": "$4.99",
+  "datePublished": "July 16, 2013",
+  "version": "3.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "Droidsail",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidsail.benchmarkpro",
+  "extendedInfo": {
+    "installSize": "9.3M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "DroidSail Display Expert (Pro)(This pro version added Polarity inversion, Response time, Noise, Photo(copyrighted), Screen filter, compare to lite version.)This is a professional display/screen test tool for Android devices. It has:1. Multi touch: Test max touch points supported by device;2. Solid color: red, green, blue, magenta, cyan, white, black, and it supports scrolling to adjust color values;3. Gray level: 8 levels, 16 levels, 32 levels, 64 levels, 256 levels, red, green, blue gradient (16 levels, 32 levels, 256 levels), and it supports pattern scrolling and scaling; 4. Contrast ratio: white cube, black cube, white/black(Left/Right, Top/Bottom), white/black bar (legacy), horizontal scrolling to adjust backlight for dynamic contrast ratio test;5. Colorbar: VGA full range colorbar, ITU.R BT.601 colorbar (100%, 75%), ITU.R BT.709 color bar (100%, 75%), SMPTE colorbar, SMPTE HD colorbar;6. Geometry: grid+cycles (white, red, green, blue), rect board, rect+cross, cross, cycle, Rect+cycle, rect+X, grid;7. Dot/Line: dot interlace, dot by space, line by space, color line by space; 8. ChessBoard: chess board test pattern (including 8x8, 16x16, 32x32, 64x64, 128x128, custom size chess board);9. View angle: Test horizontal/vertical viewing angle of display;10. Gamma: Camma test pattern can be used to evaluate gamma value of display, including white, red, green, blue gamma test;11. Polarity inversion, including point inversion, two-point inversion (horizontal / vertical, odd / even), pixel inversion, dual pixel inversion (horizontal / vertical, odd / even), line inversion, two-inversion (horizontal / vertical, odd / even);12. Response time, including the moving grating (60Hz/30Hz, a total of 14 different light and dark level test pattern);13. Noise: Try to fix burn-in problem, with color noise, gray noise, white noise, red noise, green noise, blue noise;14. Photos: Test display with selected pictures, to see real performance of device (All photos are copyrighted);15. Screen filter: screen filter can be any color and any blend level on the screen, which is better than system brightness (backlight);",
+    "reviews": [
+      {
+        "timestampMsec": "1375029683138",
+        "starRating": "4",
+        "title": "Does what it says",
+        "comment": "Excellent app. I just wish it had more patterns and tests for hdtv as well..",
+        "commentId": "gp:AOqpTOFAT8fGmC6JcAJ0Q1m5ruisYs4Bqq6oYNE-Liv-0767plni5ssfSUULl8FTJlw7HXeGL4aWpiRO2IMx5C8",
+        "author": "Harold Campbell",
+        "authorURL": "http://lh6.googleusercontent.com/-DIZjSMRInw8/AAAAAAAAAAI/AAAAAAAAACg/CeLbRi6m6zc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-DIZjSMRInw8/AAAAAAAAAAI/AAAAAAAAACg/CeLbRi6m6zc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367712657613",
+        "starRating": "4",
+        "title": "Hide from status bar",
+        "comment": "Can we have an option to hide it from status bar",
+        "commentId": "gp:AOqpTOEvd8RUIABJMTQsK1X9RqbwNk9pxFvZ56wamA48O4bqVrPJXR2i_ZsdmubsdSjZqyyJ4oBOhzMcQ4MFPJI",
+        "author": "Zuhdi AK",
+        "authorURL": "http://lh6.googleusercontent.com/-szWulr5-Dg4/AAAAAAAAAAI/AAAAAAAAAAA/Hq0LxvsogCw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-szWulr5-Dg4/AAAAAAAAAAI/AAAAAAAAAAA/Hq0LxvsogCw/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

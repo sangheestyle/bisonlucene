@@ -1,0 +1,47 @@
+{
+  "title": "Jacks or Better",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cyberhull.jacksorbetter.playphone",
+  "category": "Cards & Casino",
+  "price": "Free",
+  "datePublished": "April 4, 2013",
+  "version": "1.1.8",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Playphone",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cyberhull.jacksorbetter.playphone",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Enjoy adrenalin pumping, poker action in this fast paced, just-for-fun, casino favorite! Jacks or Better is an extraordinarily dynamic game, which is a fusion of traditional poker with slot machines.--------------------------------------------------Get the inside connection on PlayPhone games:â¨Like us on Facebook:http://www.facebook.com/PlayPhoneGamesâ¨Follow us on Twitter:http://www.twitter.com/PlayPhoneâ¨Check out our YouTube videos:http://www.youtube.com/PlayPhoneTVâ¨Visit our website:http://www.PlayPhone.com",
+    "reviews": [
+      {
+        "documentVersion": "1.1.8",
+        "timestampMsec": "1365266725746",
+        "starRating": "5",
+        "title": "Ish",
+        "comment": "Bishf",
+        "commentId": "gp:AOqpTOEGl2S2k7q6woQuFjutaZ5Ii53BJfKuBwPIuJBVBbBcZ3peEWxPB6WBoGBiH5b87dGeDa46xbRnTSsGUw",
+        "author": "Sanya Bin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.GET_TASKS",
+      "com.cyberhull.jacksorbetter.playphone.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

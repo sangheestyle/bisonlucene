@@ -1,0 +1,41 @@
+{
+  "title": "Old Photo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dessoft.photo",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "August 2, 2012",
+  "version": "1.6",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "68",
+  "rating": "2.6617646",
+  "contentRating": "Everyone",
+  "creator": "des-soft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dessoft.photo",
+  "extendedInfo": {
+    "installSize": "4.2M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Con OldPhoto puedes crear fotografias tuyas y de tus amigos colocando su cara en un cuerpo del pasado, muy bueno para compartir en redes sociales, enviar por email, poner como foto de contacto, osimplemente experimentar como serias tu si hubieras nacido en otra Ã©poca!OldPhoto se encuentra en version beta aÃºn, seguiremos mejorandola dia a dia con las opiniones que nos dejen.Como usar:Puedes mover la foto tocando la pantalla o con las teclas de direccion para hacerlo mas preciso.Todas las funciones de direccion, rotacion y zoom tienen un efecto mas preciso con un solo toque, y un efecto mas brusco con un \"longclick\".Las Ãºltimas dos funciones son para Guardar el resultado en la tarjeta SD y la Ãºltima para ocultar o mostrar la imagen de frente para tener un mejor control de tu fotografia.",
+    "reviews": [
+      {
+        "timestampMsec": "1366853151724",
+        "starRating": "1",
+        "comment": "You have to place a game in order to use this app and I don\\'t play",
+        "commentId": "gp:AOqpTOHdpVfzRJq1on0unhZwgm9D_O2S5zh6TYWh1wpmcUSxgU9gqtVEb1bkLkd_EmderYeZn1s4NFYdeWagOQ",
+        "author": "Zulma Valenzuela",
+        "authorURL": "http://lh5.googleusercontent.com/-efmxOT5K1Bs/AAAAAAAAAAI/AAAAAAAAE3c/pgUKUeGnJOs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-efmxOT5K1Bs/AAAAAAAAAAI/AAAAAAAAE3c/pgUKUeGnJOs/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

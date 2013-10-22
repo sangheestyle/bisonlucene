@@ -1,0 +1,39 @@
+{
+  "title": "AARN Crash Assist",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.btb.crashassist2",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "September 25, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Bravo Tango Bravo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.btb.crashassist2",
+  "extendedInfo": {
+    "installSize": "349k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "âCrash Assist,â has been developed by The Australian Accident Repair Network (AARN) - Australiaâs largest network of National smash repairers. To be accepted as an AARN member a repairer has to commit to providing outstanding customer service, the highest quality workmanship and utilisation of the latest panel repair technology.Crash Assist is designed to empower users to take the correct steps immediately after a motor vehicle accident. The app has been structured to ensure the steps to be taken immediately after an accident are laid out in a logical and clear manner â particularly important in a period of high stress. If necessary, the calling of emergency services is a simple push of a button highlighted in the main menu.All relevant information including the accident details, location, vehicle descriptions, contact details of parties involved including witnesses, and insurance details can be collected directly onto the app and emailed to the a personâs insurance company. The app also has the ability to store the userâs personal, vehicle and insurance details for easy access.The app enables users to nominate a preferred repairer close to their home location and these details can be pre loaded for easy retrieval in the event of an accident. It is also easy to locate an AARN approved repairer if a person happens to be travelling in other parts of Australia.Along with identifying the closest AARN body shop, userâs can also have a direct connection to a local tow truck service if required.",
+    "reviews": [
+      {
+        "timestampMsec": "1348574712994",
+        "starRating": "5",
+        "title": "Handy app for accidents",
+        "comment": "Lots of handy features to help in case of an accident.",
+        "commentId": "lg:AOqpTOFl5gG8e8jzwsVqxvNkuEpJgCNis8ux-fZkj9HlmVvBMMtdbyxrxJXnlFlC4vnCEPZzIspVmpBe6SAef9o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "TMA Resources Connect",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dub.app.assoc.tmarconnect",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "April 4, 2013",
+  "version": "1.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "High Maturity",
+  "creator": "TMA Resources",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dub.app.assoc.tmarconnect",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The TMA Resources Connect application allows customers and staff to interact with the Personify association management software (AMS) system maintained by TMA Resources for the express purpose of managing customer, staff, event and activity information. Its use is reserved exclusively for the customers and staff of TMA Resources. The TMA Resources Connect app runs on the powerful Personify Mobile platform. Key features of the TMA Resources Connect app include: Profile management Customer self-service notifications Customer directory Featured products and events Searchable event calendar and detailed conference information Conference planner with session floor maps Exhibitor lists and floor plans Industry news feeds Offline support",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

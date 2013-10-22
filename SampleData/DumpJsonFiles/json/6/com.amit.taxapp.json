@@ -1,0 +1,70 @@
+{
+  "title": "INDIAN TAX INFO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.amit.taxapp",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 12, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Low Maturity",
+  "creator": "Amit Modak",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.amit.taxapp",
+  "extendedInfo": {
+    "installSize": "343k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "our vision is very clear and vivid. It is all about empowering Indian taxpayers by embracing tax laws of the land.    Details of tax deducted on behalf of the taxpayer by deductors    Details of tax collected on behalf of the taxpayer by collectors    Advance tax/self assessment tax/regular assessment tax, etc. deposited by the taxpayers (PAN holders)    Details of paid refund received during the financial year    Details of the High value Transactions in respect of shares, mutual fund etc.Tax deduction documents    Health care expenses (doctors, dentists, health insurance, eyecare, medicine)    Real estate taxes    Motor vehicle registration    Mortgage interest paid (1098)    Gifts to charity    Last year's tax preparation fees    Job-related expenses (union dues, job education, uniforms)    Loss of property due to casualty or theft    Gambling losses",
+    "reviews": [
+      {
+        "timestampMsec": "1361877712236",
+        "starRating": "5",
+        "title": "Nice Informative",
+        "comment": "Really Informative",
+        "commentId": "gp:AOqpTOG_q0QFTQPE4dyox1yg1bHDTUlrZNKk5QQ4W-LB1P2uNHWTsRHoUEvOuUxlmtkgeNX1foKIMBaULOQXJ-U",
+        "author": "shardul kulkarni",
+        "authorURL": "http://lh6.googleusercontent.com/-9UVmQX4OoR8/AAAAAAAAAAI/AAAAAAAAAAA/Dpg_QRFnDjs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-9UVmQX4OoR8/AAAAAAAAAAI/AAAAAAAAAAA/Dpg_QRFnDjs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378411764418",
+        "starRating": "1",
+        "title": "Bugged with ads",
+        "comment": "Bugged with ads",
+        "commentId": "gp:AOqpTOF7O4Aq6VcQ70Gkp55vrmkES5kFKYcoqBYRIU6gPYkUOHmJDspIbRurH35luuNQTNoZZnCwOPA22z2X9e8",
+        "author": "Pradnesh Parle",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.READ_SETTINGS",
+      "com.motorola.dlauncher.permission.READ_SETTINGS",
+      "com.fede.launcher.permission.READ_SETTINGS",
+      "com.lge.launcher.permission.READ_SETTINGS",
+      "org.adw.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.INSTALL_SHORTCUT",
+      "com.motorola.dlauncher.permission.INSTALL_SHORTCUT",
+      "com.lge.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

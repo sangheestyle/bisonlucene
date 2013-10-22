@@ -1,0 +1,36 @@
+{
+  "title": "Orbit Designer (beta)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fiveforfiveapps.orbitdesigner",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 26, 2013",
+  "version": "0.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Five For Five Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fiveforfiveapps.orbitdesigner",
+  "extendedInfo": {
+    "installSize": "793k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Interactively design and explore satellite orbit geometries right on your device! Manipulate the satellite orbit and see the effects of the orbit and ground track in real time. See the earth from the satellites point of view. *** This is a beta version, please send me any force close reports or email any suggestions you may have to improve this app.Ads can be removed through a menu optionFeatures:- manipulate the Keplarian elements- show orbit and ground track- view ground from the satellite's point of view- load example orbits as a starting point for your designCurrently planned features to be added:- manipulate other orbit element types (i.e. Equinoctial)- show ground visibility region- add orbital maneuver and see the effect on the orbitTags: satellite, orbit, ISS, GEO, space, hubble",
+    "reviews": [
+      {
+        "timestampMsec": "1369255194312",
+        "starRating": "4",
+        "comment": "The only that missing is the equatorial plane in order to compare",
+        "commentId": "gp:AOqpTOFRLpW3xeLYIl3eAXQR3XKDrLjwyHDANTGQ7O1wspd3BbQAmaUmBC_NEHSQI9ghU7jIo_RejMwNiQXPeg",
+        "author": "Akis Karagiannis",
+        "authorURL": "http://lh6.googleusercontent.com/-LMWYpjdSGDc/AAAAAAAAAAI/AAAAAAAAACM/eWcnJ2jTWj8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-LMWYpjdSGDc/AAAAAAAAAAI/AAAAAAAAACM/eWcnJ2jTWj8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

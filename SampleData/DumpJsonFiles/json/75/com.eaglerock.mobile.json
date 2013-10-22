@@ -1,0 +1,45 @@
+{
+  "title": "Eagle Rock Golf Course",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eaglerock.mobile",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "June 10, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "AGN Sports",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eaglerock.mobile",
+  "extendedInfo": {
+    "installSize": "13M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you enjoy playing golf at Eagle Rock Golf Course in Alberta?  The OFFICIAL Eagle Rock Golf Course app, developed by AGN Sports in conjunction with GolfSwitch, gives golfers a free, easy to use, interactive combination of comprehensive course information, GPS positioning, digital scorecard, augmented reality range finder, and various other useful club-specific features.GPS CADDIE- Instantly view distances to the tee, front, back, and middle of the green, as well as par for each hole- Interactive shot positioning: simply touch the shot target to move it and get instantly updated distances from your current position- Full aerial satellite zoom capability- Pro Tips: take a tip from the pros on how to play the hole with our built-in Pro Tip featureSCORECARD- Easy to use scorecard for up to four players- Add players manually or from your device's address book- Auto-populates par for each hole and allows you to simply add or subtract from par- Includes auto-calculating cards for both Skins and Gross- Email your full scorecard at the end of a round to yourself or to a friend to show off your skillsRANGE FINDER- View distances to the front, back, and middle of the green in state-of-the-art augmented realityOTHER CLUB-SPECIFIC APP FEATURES INCLUDE- Book tee times right from the app!- Exclusive relevant Special Offers from local and national companies- Access the club's Facebook page to check-in or interact with other golfers- Real-time weather forecast- Club contact information- Car Finder: save the location of your vehicle in the app when you park, so you can easily navigate back to your vehicle- In-app camera: capture those great moments on the course without having to switch appsDownload today and put the entire Eagle Rock Golf Course in your pocket!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CLEAR_APP_CACHE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCOUNT_MANAGER",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

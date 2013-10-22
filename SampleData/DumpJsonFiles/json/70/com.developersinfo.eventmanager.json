@@ -1,0 +1,81 @@
+{
+  "title": "Event Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.developersinfo.eventmanager",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "1.9",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "7",
+  "rating": "4.857143",
+  "contentRating": "Everyone",
+  "creator": "developersinfo.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.developersinfo.eventmanager",
+  "extendedInfo": {
+    "installSize": "428k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Event Manager helps you get the most out of your Android device by having your device respond to events which occur and taking certain actions.  For instance, when you plug your device into AC power, you would like to have your device shut off bluetooth, WIFI and turn down the notification volume.  Another example would be automatically launching navigation or starting your playlist playing on Mondays and Fridays when you dock the device in your car.  It is also possible to schedule events to have your ringtone change for instance on workdays at 8AM and schedule another event to change to a home ringtone at 5PM.  Nesting conditions are also possible where your device only takes actions if all conditions are met.  This application was designed to be as light on the system as possible to achieve the desired results.  For instance, the scheduler is setup so that when you create scheduled events, the app sets an alarm within Android and then goes dormant until Android notifies the app that the schedule has been met.  The way the application was designed there is no polling or constant running activities which may impact your battery.  Everything is âset and forgetâ until the Android operating system notifies the app that it needs to respond to a condition.Conditions:WIFI Change (connected to SSID / Disconnected)A specific time and dayBattery state changes (LOW/OK)Between time/day rangeDisplay state changes (display on/off)Dock state changes (docked desk, car or undocked)Headset state changes (headset plugged or unplugged)Power state changes (plugged USB and/or plugged AC)When the device rebootsResults:Change notification or ringtoneChange ringer, notification, music and alarm volume settings independently.  Launch applicationLaunch web pageStart listening to a playlistPlay a soundChange screen off timeoutText-To-SpeechToggle WIFIToggle airplane modeToggle auto rotateToggle bluetoothToggle mobile dataToggle account syncWidget support is now available which allows you to execute an event on touch.  Try it out by adding a widget for your event to the home screen.  You can now enable/disable an event by long pressing the event.  This is useful should you need to disable an event from automatically executing.  A disabled event can still be executed via the widget so if you create a widget and do not want the widget to follow the normal automatic execute conditions, simply create the event and disable it.  Your widget will still execute the event on touching.  Version 1.8Added new text-to-speech resultAdded execute via event long pressAdded result launch web pageFixed Bug in \"Between day/time does\" day matchingFixed Bug in \"at a specific time\" not executing due to seconds/milliseconds differentFixed missing serialVersionUID in TimeSpecificChanged \"Between day/time does\" will not execute.  Use \"at a specific time\".Version 1.4Fixed scheduler rewriteFixed scheduled events now shows next runtime inside the eventFixed added WAKE_LOCK to ensure event notifies when receiver is firedAdded condition for specific time/dayAdded condition for WIFI changes (connected/disconnected)Added result for playing soundAdded feedback options menu w/log submission abilityVersion 1.3Fixed force closing when canceling notification or ringtone pickerFixed stopped notification from auto closing after 10 secondsFixed stopped allowing duplicate names (causing confusion)Added widget support for quickly changing eventsAdded condition for low batteryAdded result to disable/enable events (long press event)Added result to adjust auto-screen rotationAdded result to change screen timeoutVersion 1.2Fixed reboot not issuing start command on event receiver serviceFixed scheduler losing track of the event name (showing garbage in notification)Fixed events now sorted by nameAdded new boot complete condition",
+    "reviews": [
+      {
+        "timestampMsec": "1378218738221",
+        "starRating": "5",
+        "title": "Perfect!",
+        "comment": "I needed a event manager to tell me what app was crashing my system when I installed them. Not a bloated app neither...Great job to the programmers!!!",
+        "commentId": "gp:AOqpTOE8ktCsBJgKmT1dladOK4eW4iBKM_Lz8NNr3DCzTTdZaxJhkleeyPg9dtk5V0fQ5W3oCBLC0D9heHyS_A",
+        "author": "Pablo Orozco",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377714929306",
+        "starRating": "5",
+        "title": "First scheduler that works for me",
+        "comment": "All the other schedules crash on my Acer Liquid E350, this one works. Will still have to test it yet thoroughly, though.",
+        "commentId": "gp:AOqpTOFe75BxEYdriT_V5os-UK3CgDpckoTirThxaM2St4YWP1s1SzE6iAo6SvqVrCGMlp3YOZM_lJUdYvS9Lw",
+        "author": "Boris Pardon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358728186046",
+        "starRating": "5",
+        "title": "Simple",
+        "comment": "sinole does what i want no flashy gimicks and is very light and perfrct to save battery if you set an event to disable items like wifi at night or when you dont need them!",
+        "commentId": "gp:AOqpTOFKvENotrMWGq_rB1yt9mg23eCXcmaXefQnEG_gULndiLWmIhJgJKDnVzlTTMYD8G3BDDm7DZlJ9q0tOg",
+        "author": "David Beach",
+        "authorURL": "http://lh6.googleusercontent.com/-__oCdei4gFI/AAAAAAAAAAI/AAAAAAAAAOg/PcxAVLW_Sc0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-__oCdei4gFI/AAAAAAAAAAI/AAAAAAAAAOg/PcxAVLW_Sc0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358291757310",
+        "starRating": "5",
+        "title": "Streamlined and simple",
+        "comment": "Wanted a simple profiling app for ages and this one delivers. Developer is very receptive to feedback and offers excellent support!",
+        "commentId": "gp:AOqpTOHZrcbM1GwBUQjYsBY3BDCoNE3rWsPGNORXSj19tTBWTpqmg_0takTOFRGD3SMtwh177LNFhbHQudV9PA",
+        "author": "Jam Nawaz",
+        "authorURL": "http://lh5.googleusercontent.com/-9A2JTpk-Rdc/AAAAAAAAAAI/AAAAAAAAE-g/vaWzVBt58RM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-9A2JTpk-Rdc/AAAAAAAAAAI/AAAAAAAAE-g/vaWzVBt58RM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

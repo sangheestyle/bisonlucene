@@ -1,0 +1,42 @@
+{
+  "title": "Guess The Number",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fennefossdesign.fennefossd.guessthenumber",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "September 26, 2011",
+  "version": "3.4.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Fennefoss",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fennefossdesign.fennefossd.guessthenumber",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Guess The Number is a fun and simple brain stimulating game where you have to guess a random number between 0 and 99. The game will help you narrow your guesses down to the correct number by telling you if you guessed to high or to low. When you guess the correct number you can check how many tries it took you to get it right.Guess The Number is developed by Andreea Csaszar and Mikkel Fennefoss Lundgreen. Both are studying Multimedia Design on their 3rd Semester at Erhvervsakademi Aarhus in Denmark.The application is programmed using PhoneGap which is an open-source mobile development framework developed by Nitobi Software. It enables software programmers to build applications for mobile devices using JavaScript, HTML and CSS.",
+    "reviews": [
+      {
+        "documentVersion": "3.4.0",
+        "timestampMsec": "1317053950998",
+        "starRating": "5",
+        "comment": "Super awesome app, I\\'m gonna guess numbers all night long :)",
+        "commentId": "lg:AOqpTOFoy8j8Ihn-6eTP8OQSA6DPxi6GeB4UkFS2tSOUjRJop1a0pDWcUs8qN7MzR2XD35mRtdTc-F4ev6W27AQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CLEAR_APP_CACHE",
+      "android.permission.WAKE_LOCK",
+      "com.fennefossdesign.fennefossd.guessthenumber.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

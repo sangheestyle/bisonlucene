@@ -1,0 +1,46 @@
+{
+  "title": "Car Lease",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.carlease",
+  "category": "Finance",
+  "price": "$1.99",
+  "datePublished": "October 10, 2009",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Not rated",
+  "creator": "Business Compass LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.businesscompassllc.carlease",
+  "extendedInfo": {
+    "installSize": "61k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "1. From MSRP, Base Capital Cost, Additional Lease Cost, Down payment, Trade-in-Credit, Other reductions, Residual value ($ or %), Money Factor (absolute or %), lease term, sales tax calculate lease payment2. When lease payment is provided calculate money factor and interest rate3. Shows summary/detail4. Save and email",
+    "reviews": [
+      {
+        "timestampMsec": "1337107525638",
+        "starRating": "1",
+        "title": "Does Account For Location",
+        "comment": "Do not use if you want to have an accurate lease calculation.  The app does not help you with regional calculations!",
+        "commentId": "lg:AOqpTOHXb3eI11HJUIZpBtY9SyrHBJ82_9E5gClU_DCb4iYyn-I2JD6TKy0pJzt7-OVPedB8bG180I7noXSh5g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360709733458",
+        "starRating": "5",
+        "title": "Works perfectly",
+        "comment": "This app works perfectly. Car leasing is figured the same way in Cali as it is in FLORIDA or anywhere else. I have no idea what \\\"regional\\\" crap the previous reviewer is talking about.",
+        "commentId": "gp:AOqpTOGwJltXwbAYDSCbioLvIjgklulefCp0H98t273r1Y9hgzzeSvLMxBQYhYft0q_lfilnxJLHkzr8hsX8Ww",
+        "author": "Robert Boehme",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

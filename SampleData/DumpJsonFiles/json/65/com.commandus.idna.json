@@ -1,0 +1,31 @@
+{
+  "title": "IDNA (DNS Punycode) notepad",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.commandus.idna",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "December 12, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "commandus.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.commandus.idna",
+  "extendedInfo": {
+    "installSize": "114k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "System administrator's IP address keeper helps you remember your domain names. IDNA (PUnycode) DNS records support.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

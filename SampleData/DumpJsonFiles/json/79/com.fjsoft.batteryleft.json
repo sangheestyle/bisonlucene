@@ -1,0 +1,33 @@
+{
+  "title": "Battery Left",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fjsoft.batteryleft",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "September 6, 2012",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "10",
+  "rating": "4.4",
+  "contentRating": "Medium Maturity",
+  "creator": "FJSoftwares",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fjsoft.batteryleft",
+  "extendedInfo": {
+    "installSize": "686k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The main function of BatteryLeft is to let the user know how much battery power time he has left ,and, if the device is charging, how much time the device will take to charge, the application estimation gets better every time it's algorithm runs, because it is programmed to learn about the user's average of power used and after one or two charges/discharges, the estimation will be almost perfect.The program also keeps the numeric battery percentage in  the notification bar.It also helps the user to manage the battery by telling how is the health of the battery, voltage and temperature, so if you have any problem such as over volting or high temperature, BatteryLeft will let you know.- Keeps numeric battery percentage under notification bar- Let the user know about the battery health- Let the user know about the battery voltage- Let the user know about the battery temperature- Let the user know how much time of battery power he has left- Let the user know how much time the battery will take to full charge- Uses dynamic algorithm- The estimations get better every time the program runs the algorithm to calculate itKeywords: Power, Battery, Estimation, Manage, Juice, Time, Left",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.BATTERY_STATS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

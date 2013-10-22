@@ -1,0 +1,44 @@
+{
+  "title": "Century 3 Chevrolet DealerApp",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.century3chevrolet.dealerapp",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "October 9, 2012",
+  "version": "2.034",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "DealerApp Vantage",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.century3chevrolet.dealerapp",
+  "extendedInfo": {
+    "installSize": "3.8M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Century 3 Chevy Is Pittsburgh's Premiere Car Dealership!Come Check Out HUGE Selection Of New And Used Vehicles!Now, we are proud to bring you our very own DealerApp!  Some of the things our app can do for you are:- Full Vehicle Inventory integration. Browse or search our entire inventory without ever seeing a slow mobile website. Save the ones you like as favorites.- Check out the \"Postboard\" for new messages, coupons and specials straight from us to your device! You can even reply to these messages directly.- Keep track of all your own personal vehicles in \"My Garage\". Add a photo of your vehicle and track things like: VIN, Year, Make, Model, License Plate, Oil Type, Tire Size, Date Purchased, Price Paid, Initial Mileage, Insurance Co., Policy No., and add all the extra notes you want. - Service History is also available for each vehicle in \"My Garage\", see pending service appointments, add them to your calendar, and mark them as completed when finished! - The \"Toolkit\" contains super useful tools for you to use every day: Call Roadside Assistance One-touch Service Scheduling Find local gas prices Parking Assistant with GPS locator and meter timer Flashlight- Don't forget that all the features of the first version are still thereâ¦call and email each department, get directions, view operating hours, get quotes on vehicles, order parts, etc etcâ¦ Powered by DealerApp",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.century3chevrolet.dealerapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_OWNER_DATA",
+      "android.permission.READ_OWNER_DATA",
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

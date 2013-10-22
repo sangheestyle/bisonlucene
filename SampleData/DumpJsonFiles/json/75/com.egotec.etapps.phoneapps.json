@@ -1,0 +1,46 @@
+{
+  "title": "Time Clock SaaS.de",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.egotec.etapps.phoneapps",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 16, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "13",
+  "rating": "3.6923077",
+  "contentRating": "Low Maturity",
+  "creator": "EGOTEC GmbH",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.egotec.etapps.phoneapps",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Mobile app for SaaS Time Recording product.Use your Android tablet as time and attendance terminal in the entrance area.Provide your employees the opportunity to clock in and clock out.",
+    "reviews": [
+      {
+        "timestampMsec": "1306561290972",
+        "starRating": "1",
+        "comment": "Requires a login at startup. Tiny little window pops up. Looks like a joke...",
+        "commentId": "lg:AOqpTOF7IK_xUjdq8nrig736WyLXfm7jYKEMZwjH-z2p7xLiTTs4l37rAL_ncpf1JGAYeQHhskjLKYM1tdcF1g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1297888751471",
+        "starRating": "1",
+        "comment": "Written in German or something...can\\'t understand it.",
+        "commentId": "lg:AOqpTOFw0_GhLR2W0dobehEg02tms7wnUTWOHuOiQQprxZnt1F5-jCGPMRpSzA_Levny_gD9ogMoKj76MN8Mlw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    ]
+  }
+}

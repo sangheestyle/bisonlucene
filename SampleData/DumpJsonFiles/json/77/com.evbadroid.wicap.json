@@ -1,0 +1,148 @@
+{
+  "title": "Wi.cap. Network sniffer Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.evbadroid.wicap",
+  "category": "Tools",
+  "price": "$15.00",
+  "datePublished": "September 3, 2013",
+  "version": "1.1.6",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "21",
+  "rating": "4.857143",
+  "contentRating": "Low Maturity",
+  "creator": "evbadroid",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.evbadroid.wicap",
+  "extendedInfo": {
+    "installSize": "821k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mobile network packet sniffer for ROOT ARM droids (\"su\" utility should be installed). This is the full professional version of the application.Application features:- Two-part scheme: Java GUI controls special ARM engine (no tcpdump, no libpcap)- Smartphone and tablet screen optimized (portrait, landscape)- Realtime packet information (interface, time, size, program/pid, addrs/ports, payload data/text)- Parallel packet capture on several network interfaces- Flexible packet filtering: protocol types/parameters, payload text with encodings- Promiscuous mode (bcm4329, bcm4330/dhd, maybe other should support it in open networks)- Packet capture notifications (sound, vibro, system)- Active network operations: raw send (eth, arp, udp, tcp), scanning (host, name, port, wlan), http browse...- Built-in packet statistics analyzer with filtering functions- Built-in hex data viewer with searching functions- Built-in root terminal- Built-in user notes- Wireshark capture format supported (.cap)WARNING! Please first install the free demo version to test the packet capture engine on your device.WARNING! You should not use the application for illegal activities, use it only for educational or engineering purposesP.S. Let me know about any bugs to fix them as soon as possible and make application more powerful.P.S. Current users of the application (total 300+):1. USA - 992. Germany - 263. Russia - 234. UK - 165. Italy - 13",
+    "reviews": [
+      {
+        "documentVersion": "1.1.6",
+        "timestampMsec": "1378760216745",
+        "starRating": "4",
+        "title": "GUI improvement and better protocol detection needed",
+        "comment": "Please  add one more column on main window. I would like to have something like this on my Nexus 7:  a) Portrait Mode 1. Proto 2. Source(MAC) 3. Destination(MAC) 4. Information  b) Landscape Mode 1. Net 2. Time 3. Program 4. Proto 5. Source(MAC) 6. Destination(MAC) 7. Length 8. Information  also need to have ability to sort asc and desc by long press on columns  Regarding protocols, wifi 802.11 beacon is not recognized as a beacon, neither its fields are correctly stated.",
+        "commentId": "gp:AOqpTOG_Q_N2Dsnb4MJUcckNei4YdcJteL7nrNWQo-fcNmWQrPYzv1O2nDTAHJ6UCuXdln9xXVwgCI5rH-7--w",
+        "author": "\\305\\275eljan Alduk",
+        "authorURL": "http://lh5.googleusercontent.com/-_kX-TjorbGQ/AAAAAAAAAAI/AAAAAAAAAAA/HyDKuTaKQYI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-_kX-TjorbGQ/AAAAAAAAAAI/AAAAAAAAAAA/HyDKuTaKQYI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1377535495562",
+        "starRating": "5",
+        "title": "Great stuff dev.",
+        "comment": "Great app. Just what I was looking for..",
+        "commentId": "gp:AOqpTOFmJD50ZxuypjUhG4wNK3P6OdkHGT5d1rDBnSF4PL5watjah_kCsSEoihrvG0TRJH4SW6wgruQrnl36yg",
+        "author": "Jon Melia",
+        "authorURL": "http://lh6.googleusercontent.com/--u36EGuCF4I/AAAAAAAAAAI/AAAAAAAABPY/XmC5fF15Itc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/--u36EGuCF4I/AAAAAAAAAAI/AAAAAAAABPY/XmC5fF15Itc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1377400510138",
+        "starRating": "5",
+        "title": "Awesome tool",
+        "comment": "Cool code, thank you evbadroid",
+        "commentId": "gp:AOqpTOF9GxyJhieebrfzigtrTh_nfk8NvicwJ1WYsmsy_LwoGLIg1cFm93Kw9mr6J0LQMZDFi_6gBfrfHnLwaA",
+        "author": "luke hannath",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.4",
+        "timestampMsec": "1377248942907",
+        "starRating": "5",
+        "title": "Works very good",
+        "comment": "A little bit overpriced. Please add a notification icon when the app is working in background with the ability to stop the capture from the notification area. UPDATE: The developer added notification area update. Thanks!",
+        "commentId": "gp:AOqpTOGrGDjIOEO7iPD_MxOCVwgAIJboeqzRwhbq9klKM1eWfKUnHXZ6weE3CkmM_Unt7FsyP7H-PUOrQkt-2Q",
+        "author": "Alexey Vasilyev",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.3",
+        "timestampMsec": "1375097150758",
+        "starRating": "5",
+        "title": "A bit pricey but totally worth it",
+        "comment": "A bit pricey but totally worth it if u know how what u are doing.",
+        "commentId": "gp:AOqpTOH3Gzy79uaRpD2WPZ76VQVxIBSNSXN7b5TplfgRo0mtLmG6zBIDFuunvRZ0R6VX-CPA6aJuSi3WWsxmTw",
+        "author": "Zoj De Guzman",
+        "authorURL": "http://lh3.googleusercontent.com/-RHCESyQWdi4/AAAAAAAAAAI/AAAAAAAAAMQ/P6LceUJH0Aw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-RHCESyQWdi4/AAAAAAAAAAI/AAAAAAAAAMQ/P6LceUJH0Aw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.2",
+        "timestampMsec": "1372882478622",
+        "starRating": "5",
+        "title": "Great app awesome dev. Top knotch!",
+        "comment": "Great app awesome dev. Top knotch!",
+        "commentId": "gp:AOqpTOH02Up7nOcI2lRRn21zqa_LhxLtQ3EgLyR05fF9Uw_A4iDr54UKADiYngo1X0Ekuc6h8Bb4YdeJ4yX3ag",
+        "author": "Maarten van den Berg",
+        "authorURL": "http://lh4.googleusercontent.com/-X5iUb-BwD_A/AAAAAAAAAAI/AAAAAAAAAFs/Rq4q3SByLfk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-X5iUb-BwD_A/AAAAAAAAAAI/AAAAAAAAAFs/Rq4q3SByLfk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.2",
+        "timestampMsec": "1372871882410",
+        "starRating": "5",
+        "title": "Does everything...but how?",
+        "comment": "Works great on my Galaxy s4. This app does more than I\\'ll ever need or even understand. You need a higher level of knowledge to get the most out of this app. This is the Wireshark of apps. I would like to use this to extract images and text from my networks traffic and don\\'t know where to start. If you could please, provide a more detailed manual on how to use the Tools and commands available to make this work for me. Maybe provide some apps that work along with this to accomplish some of the common tasks. Keep up the good work!",
+        "commentId": "gp:AOqpTOElIxLfUxVxe4zuNcePuZvSg3jxro_kfPn4i0PKi69fAlEv1Qai6KaC210tgYpUKfhrJ1b7gm-B_SONrg",
+        "author": "Mike Boeseman",
+        "authorURL": "http://lh4.googleusercontent.com/-100oiH8gZrg/AAAAAAAAAAI/AAAAAAAABiE/pdVnlEbY7y8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-100oiH8gZrg/AAAAAAAAAAI/AAAAAAAABiE/pdVnlEbY7y8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.2",
+        "timestampMsec": "1373343575552",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "WireShark for Android!",
+        "commentId": "gp:AOqpTOGALK1qdrjCgYZ8TIHUszVFTuvI9F4OMys6YjLqA1Vsu1-nRTLt33rXJUBnHzGiyjxia76SNDePif7Syg",
+        "author": "Jay Lanphier",
+        "authorURL": "http://lh5.googleusercontent.com/-284TVE397f4/AAAAAAAAAAI/AAAAAAAAAFY/2Bpv57pZCcs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-284TVE397f4/AAAAAAAAAAI/AAAAAAAAAFY/2Bpv57pZCcs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1371057492231",
+        "starRating": "4",
+        "title": "Legit",
+        "comment": "The interface is great, except saving and opening cap files is unintuitive. You wouldn\\'t know to hit the scan button in the menu. It should say Menu instead of scan.",
+        "commentId": "gp:AOqpTOEu6BUeq5NQ2zWNlDlI_567qIA68g8D7RiYsQnezGzv5Vyw0RRTVw2sx2lARNVMvKY80pB0gG2cILgZ0g",
+        "author": "Justin Szczurowski",
+        "authorURL": "http://lh6.googleusercontent.com/-atkfdJvyd_M/AAAAAAAAAAI/AAAAAAAAAIA/11eY_JgQHJU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-atkfdJvyd_M/AAAAAAAAAAI/AAAAAAAAAIA/11eY_JgQHJU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1368396430104",
+        "starRating": "5",
+        "title": "Incredible interface and features!",
+        "comment": "I remember when Shark was the only packet sniffing option on android and frankly, it left a lot to be desired. Enter Wi.cap. This thing has just about every feature of Wireshark and then some. I am still learning the interface (help manual? where is it?) but I can tell already that this will satisfy every possible need you will have for sniffing on android. Yes it costs a lot, but you get what you pay for here. The premier packet sniffer on android and if you are into that sort of ting, you should buy it.",
+        "commentId": "gp:AOqpTOFtLDQADUPYd22vODm3cOfiJxLTRz--BZHHpJ1TY6ojB8562_rJoGbT3xuZYIdctYp70QEPY_pfB_Vp0g",
+        "author": "Ryan Edwards",
+        "authorURL": "http://lh5.googleusercontent.com/-OoHxwJr9GYc/AAAAAAAAAAI/AAAAAAAADQA/rcXIoGUVpjE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-OoHxwJr9GYc/AAAAAAAAAAI/AAAAAAAADQA/rcXIoGUVpjE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACTION_BOOT_COMPLETED",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

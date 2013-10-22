@@ -1,0 +1,70 @@
+{
+  "title": "EMT Madrid 4.0",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emtmadrid.emt",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "August 25, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "79",
+  "rating": "3.4810126",
+  "contentRating": "Low Maturity",
+  "creator": "EMT Madrid, S.A.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emtmadrid.emt",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Nueva versiÃ³n de la aplicaciÃ³n que te permite disponer en la palma de tu mano de toda la informaciÃ³n de la oferta de servicio de la Empresa Municipal de Transportes de Madrid en funciÃ³n de tu localizaciÃ³n geogrÃ¡fica.",
+    "reviews": [
+      {
+        "timestampMsec": "1375997360674",
+        "starRating": "5",
+        "title": "Pretty Good",
+        "comment": "This app has a route finder, where you enter your departure and destination address and/or bus stop numbers, and it will plan the bus route for you. I didn\\'t see that feature on the couple of other Madrid Bus apps I that tried. Pretty well laid out and a lot of bus map, schedule, next bus information.",
+        "commentId": "gp:AOqpTOH4WB2hcscM3ydkcPk0p9GTSfgz8QGJXrP04OQW5EwiW4KCTETkPmWozzK4cHBGGeQPIRHN6I2Cujzz1A",
+        "author": "Brian Dick",
+        "authorURL": "http://lh5.googleusercontent.com/-MpY7hsuj_kc/AAAAAAAAAAI/AAAAAAAAAMw/pJQ7XDwziZs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-MpY7hsuj_kc/AAAAAAAAAAI/AAAAAAAAAMw/pJQ7XDwziZs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373618747930",
+        "starRating": "4",
+        "title": "really handy!",
+        "comment": "but sometimes the buses are out of sync and arrive way before the estimated time",
+        "commentId": "gp:AOqpTOH0xL_4wGO2M0h9bdvs7iiRvwk2LjmlpbEcoGow9uuerS7HMYcY0wVBNZW5bdzRK49ZfUIuuH2euxlidg",
+        "author": "Jo Webb",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367831165105",
+        "starRating": "1",
+        "title": "Dislike",
+        "comment": "App doesn\\'t work on tablets. Have to improve that!",
+        "commentId": "gp:AOqpTOHCbKQ62W2gCjbx1QRhO6GueehkGFl3UxwH3GdSQgmML0MwsOX3rwa5wE3NsABUm2miengAMx-ukiZXtQ",
+        "author": "Jed Salvador",
+        "authorURL": "http://lh4.googleusercontent.com/-KxK_7tBYgIg/AAAAAAAAAAI/AAAAAAAAADc/ovtEeOCGDYs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-KxK_7tBYgIg/AAAAAAAAAAI/AAAAAAAAADc/ovtEeOCGDYs/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.VIBRATE",
+      "android.permission.GET_TASKS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "com.emtmadrid.emt.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.NFC",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

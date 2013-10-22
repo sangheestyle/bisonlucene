@@ -1,0 +1,32 @@
+{
+  "title": "Dark Room Maze",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fgame.dark_room",
+  "category": "Casual",
+  "price": "$0.99",
+  "datePublished": "October 10, 2010",
+  "version": "1.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "C-Dev",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fgame.dark_room",
+  "extendedInfo": {
+    "installSize": "596k",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "A maze where you have to find your way out of a dark room - the lights are turned on initially for a few seconds. The game updates dynamically with a new batch of mazes every week, no need to download updates. Has a save feature to allow you to start where you left off. See www.francoispress.com for details.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

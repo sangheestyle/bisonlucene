@@ -1,0 +1,49 @@
+{
+  "title": "Daytona Page",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.daytonapage",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "February 22, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "High Maturity",
+  "creator": "MaxProSound",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.daytonapage",
+  "extendedInfo": {
+    "installSize": "176k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Connect with Friends, Share Photos. Music and VideosAdd Blog, Polls, Quizzes and events. Build a Fan Page for Business, your band, your group or organization. It's always FREE to have your own Daytona Page. This is a Social Networking Site for locals in the Daytona Beach area and for people who like to visit Daytona.",
+    "reviews": [
+      {
+        "timestampMsec": "1330309003534",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Looks like this app need some fine tuning but it\\'s a 5 for the quick response to the members of Daytona Page.",
+        "commentId": "lg:AOqpTOG-anxxBr8nKOjHgL4sjWnoCPj2jGOgzKGxIMK_KGAAfx3eWRO6S1v03Nyd6OSYYok_SAMrTKYWoaZXdeI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330461879796",
+        "starRating": "5",
+        "title": "daytona page",
+        "comment": "rocks!!",
+        "commentId": "lg:AOqpTOGj5HXHsfWN8nGylUlkEwNh2tOUYCxuDGis6nOYK24noUMAe9c2CUUanPwpTQBZNWuBH6zLooIC2jexQME",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

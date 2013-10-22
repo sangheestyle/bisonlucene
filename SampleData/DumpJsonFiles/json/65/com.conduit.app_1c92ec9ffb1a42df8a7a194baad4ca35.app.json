@@ -1,0 +1,39 @@
+{
+  "title": "Open Film",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_1c92ec9ffb1a42df8a7a194baad4ca35.app",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "January 16, 2012",
+  "version": "1.2.4.621",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Caesar Barona",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_1c92ec9ffb1a42df8a7a194baad4ca35.app",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Openfilm.com is an online video platform for discovering, distributing and financing independent films online. Through its various third-party distribution platforms, Openfilm offers independent filmmakers the opportunity to gain exposure and earn revenue for their work.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.conduit.app_1c92ec9ffb1a42df8a7a194baad4ca35.app.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "www.conduit.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

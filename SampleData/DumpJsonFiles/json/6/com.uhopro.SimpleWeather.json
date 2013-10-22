@@ -1,0 +1,66 @@
+{
+  "title": "Simple Weather",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.uhopro.SimpleWeather",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "June 3, 2012",
+  "version": "2.0.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "102",
+  "rating": "3.4019608",
+  "contentRating": "Low Maturity",
+  "creator": "TACOTY JP uho",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.uhopro.SimpleWeather",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "\"Simple Weather\"is simple in design and easy in operation, it also provides much useful information.\"I want to the weather and temperature as soon as possible\", \"I'll use such apps anyway, why not use a cute one\" This app is suitable to users with these requirements.â  FunctionÂ·View weather informationÂ·Region Settings (Get location information of GPS, choose region by links)Â·Display content(1) Location(2) Date(3) Today's Weather(4) Temperature (High/Low)(5) Wind, speed, humidity(6) The last four-day weather forecastâ» Information might not show on some devices.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1323637633161",
+        "starRating": "3",
+        "title": "english?",
+        "comment": "please translate to english. cool app!!!",
+        "commentId": "lg:AOqpTOFBwBtccseUYTAHWbuPAfwUOAL9FUR1xTg5d_rC3FLfn94yicixrAApc3hd0owHlUyCFmKjCIgRm3bwblA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368865941665",
+        "starRating": "1",
+        "title": "Force closes on openopen",
+        "comment": "Fails at lauch when trying to retrieve data and GPS information. Couldn\\'t get it work once (only works in Japan?). Too bad cuz it look like a very nice weather app.",
+        "commentId": "lg:AOqpTOHqaE35hyATv36BFOxxQs6WGgpOYwwwXzkxySh-RJe0PxFXfL8OXEaR7v-9-I095AuPFPaiIgM0HvTXYNA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332251018796",
+        "starRating": "1",
+        "title": "Crash",
+        "comment": "Crashes at startup ! Japanese only",
+        "commentId": "lg:AOqpTOEB0yLCjf2oYFg4r_dlKawVFxuSyLhpv6kXZXtg_z0Bb7-zUn72tBzv7u5hRr4v4Cu51-WaTYktJodrWSM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "The Week Magazine US",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dennis.theweek.us",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "April 5, 2013",
+  "version": "1.1",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "The Week Publications",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dennis.theweek.us",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Week makes sense of the week's news by curating the best of the U.S. and international media into a succinct, lively digest. Created for busy people like you, The Week is packed with provocative, often surprising perspectives, providing you complete understanding and insight into the week's most vital stories. Intuitive and easy to navigate, this app has been designed to suit the way you'll read on your tablet. But don't take our word for it: download the app today, and see why over half a million readers rely on The Week to understand all they need to know about everything that matters.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

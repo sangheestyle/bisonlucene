@@ -1,0 +1,84 @@
+{
+  "title": "OM Simple Wifi Scanner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=de.ovengamedia.WifiFinder",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 18, 2009",
+  "version": "1.0.7",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "45",
+  "rating": "4.088889",
+  "contentRating": "Not rated",
+  "creator": "OvengaMedia",
+  "creatorURL": "https://play.google.com/store/apps/details?id=de.ovengamedia.WifiFinder",
+  "extendedInfo": {
+    "installSize": "49k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Shows all available Wifi-Networks, AccessPoint Name, Status if open or encrypted, Strength and Channel",
+    "reviews": [
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1302982024648",
+        "starRating": "4",
+        "comment": "One of the few scanners that correctly identifies channel numbers of 5ghz networks. Does not scale well on galaxy tab screen though.",
+        "commentId": "lg:AOqpTOHwgiDEp2vBSGuyqeqRxDk6k87S9usaUcaJVh78DhfQ9rEuViwthfGGzk0qpC-a2pEiEY8ShBMRYVnQcA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1318523730387",
+        "starRating": "4",
+        "title": "Nice small app",
+        "comment": "Works well. But I preferred WiFiFoFum for more features",
+        "commentId": "lg:AOqpTOFg90DK7bhKEXxApeHoMESudiTp5W0kyE01U19zUnN2QAKKMarJFxM0q0QC2AaGu-g_mVS7CJLmyN4_kg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1282368964050",
+        "starRating": "3",
+        "comment": "Remove a sound after scan. And make possible installation to SD card. Otherwise app does what expected.",
+        "commentId": "lg:AOqpTOHkQ8k1Rx4y1pIEp9jIxWvNriAIy_seRaP55SCP-DSai2lhT60xSELUzzhWxX87BesGippz0GtZtA0hmw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1337652170822",
+        "starRating": "5",
+        "comment": "Tim7",
+        "commentId": "lg:AOqpTOEFox91OcAHx4M1Ov1yzwcdg0t2-OUg8KkY_KccRgGBY76F7kMRBs5F1BWBzJNhTQaKLnJl9nsB4UpBYw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.6",
+        "timestampMsec": "1250714308019",
+        "starRating": "2",
+        "comment": "Needs more UI polish and features, like graphs.",
+        "commentId": "lg:AOqpTOFsg-NEBdyoQkeOL3gIohJ-9LzAvX44XZDoTqiqEwtOUsL6KH4fGMg9K04Q2heX78J28KyEK3F6PUZ2Lw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1250699983134",
+        "starRating": "4",
+        "comment": "What\\'s new with this update?",
+        "commentId": "lg:AOqpTOGMUPltNJHW8hXmt_EHpqEp9_BBcxzRQ4SLItUv8kcjA8wfd64plzs45e025DZ-Sd4aJTjkKQGpNBZxUQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

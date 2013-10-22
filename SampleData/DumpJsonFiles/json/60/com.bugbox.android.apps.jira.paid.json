@@ -1,0 +1,49 @@
+{
+  "title": "Bugbox for JIRA",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bugbox.android.apps.jira.paid",
+  "category": "Productivity",
+  "price": "$29.99",
+  "datePublished": "March 18, 2012",
+  "version": "3.31",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "3.6",
+  "contentRating": "Everyone",
+  "creator": "Bugbox",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bugbox.android.apps.jira.paid",
+  "extendedInfo": {
+    "installSize": "648k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Bugbox puts JIRA in your pocket. Helps you stay on top of issues even when offline!Background updates, notifications, intuitive interface - all together provide a seamless experience.Requires SOAP plugin. Feel free to email us for help!JIRA is a trademark of Atlassian. Bugbox is not affiliated in any way with them.https://picasaweb.google.com/getbugbox/BugboxForJIRAAndroid#",
+    "reviews": [
+      {
+        "timestampMsec": "1363904657181",
+        "starRating": "1",
+        "title": "Features very limited",
+        "comment": "We have custom fields in our jira server which display jumbled for an issue and doesn\\'t display any values.  I purchased it, but I don\\'t find ot useful enough.",
+        "commentId": "gp:AOqpTOG5-4duRPRUcNRDLknV3P8Q8Bi2IU1BmcxA4D3Iyu2LbTADoyM18nT4UZpiUxNDTsg2-3aa8KI1nzcr-A",
+        "author": "Ryan Moquin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348602765369",
+        "starRating": "4",
+        "title": "Great JIRA app",
+        "comment": "Just simple to use and keeps up to date with my tickets. Easy configuration.",
+        "commentId": "lg:AOqpTOGeOjLQu9JomLI7QLlTmvpFeRhW-vu_c83zF_9amfMmPt0OS1bxqKKVaezypEl_0QoWy95TQQlcJiTKYg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "MC QR Code Reader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cachingtech.android.mcreader",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "September 16, 2012",
+  "version": "1.0.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Times Publishing (Hong Kong) Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cachingtech.android.mcreader",
+  "extendedInfo": {
+    "installSize": "395k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "QR Coder Reader",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

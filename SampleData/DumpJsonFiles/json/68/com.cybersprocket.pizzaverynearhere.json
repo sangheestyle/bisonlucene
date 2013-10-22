@@ -1,0 +1,33 @@
+{
+  "title": "Pizza Very Near Here",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cybersprocket.pizzaverynearhere",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "June 20, 2012",
+  "version": "0.5",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cyber Sprocket Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cybersprocket.pizzaverynearhere",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Find the pizza places closest to your current location.  Uses your current GPS location and returns a list of the 25 closest pizza places.    The database is updated weekly on our Very Near Here servers.Lists the name, phone number (click to dial), address, distance, and website link.  If the website is present you can press and hold the listing for a couple of seconds to bring up the website.Our initial release serves the Charleston SC metro area.  More locations are being added every week.  Email us at info@verynearhere.com and ask us to list your city!Initial release.Improved GPS management reduces battery drain.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.PERSISTENT_ACTIVITY",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

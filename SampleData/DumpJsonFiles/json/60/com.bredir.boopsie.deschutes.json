@@ -1,0 +1,51 @@
+{
+  "title": "Deschutes Public MobileLibrary",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.deschutes",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "September 28, 2012",
+  "version": "4.5.90",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.deschutes",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Know your library! The Deschutes Public Library's free MobileLibrary app is your one-stop resource for accessing the library's online services and resources. Search the online catalog of books, CDs, and DVDs, request items for pick up at your local library, manage your requests, and renew checked out items all without leaving the app. Browse and download eBooks and digital audio books from the library's Digital Downloads collection. Stay up to date with quick access to library news, reading recommendations, and upcoming events.",
+    "reviews": [
+      {
+        "timestampMsec": "1369834096706",
+        "starRating": "4",
+        "title": "Barcode",
+        "comment": "I\\'d like the option of scanning my membership barcode verse typing it in.",
+        "commentId": "gp:AOqpTOHiN0P-xKPr3SA54i8rvWlFK_jCeSzd635R0734az3lCOjL9Zf2bd-GWUCsVnKRyDUQGp9eURQ4uoTuNNc",
+        "author": "Chris Piper",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354949766317",
+        "starRating": "5",
+        "title": "Fantastic App!",
+        "comment": "Works likes its supposed to and makes using the library even easier!",
+        "commentId": "gp:AOqpTOFaTx9gw7xkHE_4QgAHdqecxsuHlt75wsjCUc9f3nR8J7NcUa2g1Gibz7764vBt68pd3uzTCwUNtPmhUV8",
+        "author": "Daniel Ball",
+        "authorURL": "http://lh4.googleusercontent.com/-IGCLKsknMl8/AAAAAAAAAAI/AAAAAAAAACc/Dml8o0gc_Uk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-IGCLKsknMl8/AAAAAAAAAAI/AAAAAAAAACc/Dml8o0gc_Uk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

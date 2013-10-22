@@ -1,0 +1,64 @@
+{
+  "title": "Saint John Sea Dogs",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.SeaDogs",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "August 15, 2013",
+  "version": "2.0.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Buzzer Apps Mobile Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.SeaDogs",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The official app for the Saint John Sea Dogs! One tap access to all the information a fan could want. Gives you mobile access to everything you need to follow the Sea Dogs including scores, the latest news, the schedule, social media feeds and of course stats and the team roster. We hope you enjoy using this app to enhance your Sea Dogs fan experience!",
+    "reviews": [
+      {
+        "documentVersion": "1.8.7",
+        "timestampMsec": "1336221151908",
+        "starRating": "4",
+        "title": "Keeps crashing",
+        "comment": "I have too open and close it a few times before it works, needs updates!",
+        "commentId": "lg:AOqpTOEOQfB3-ebwQBZEvKT_dX3bNlrVGfENEz0zaJC_Pk3c34tM4WKua9ZHSnlIkeL7_41zTq5C2Je7AThjOq0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.5",
+        "timestampMsec": "1320163008643",
+        "starRating": "4",
+        "title": "Fixed",
+        "comment": "Fixed all the issues I had.  Now just wish roster was updated more quickly.",
+        "commentId": "lg:AOqpTOFh5pKmIFdEhJmt6qbxdRoeDFyruEK6BGCfH7PFBr07w8tXFSjoTCTM2fckHoxD7HbTr3R9ZQE4CiEmmFc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1318200604075",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Great app. Works well.",
+        "commentId": "lg:AOqpTOEAzWp9HBxQFtEzhamOhl7arwiDruv-8yxC80jng-ysRxexRWrQo771JiW_BCTtUbIFRJalo0yq9PHerr8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.buzzerapps.SeaDogs.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

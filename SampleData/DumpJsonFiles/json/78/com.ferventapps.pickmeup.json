@@ -1,0 +1,48 @@
+{
+  "title": "PickMeUp: Send Directions Fast",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ferventapps.pickmeup",
+  "category": "Transportation",
+  "price": "$0.99",
+  "datePublished": "December 20, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fervent Apps LLC.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ferventapps.pickmeup",
+  "extendedInfo": {
+    "installSize": "384k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "****ONLY $.99****PickMeUp is the fastest way to send someone directions to your location. ZERO ADS!PickMeUp lets you send a link via text message that opens as directions on any iPhone or Android phone. And the best thing about it is that anyone can receive directions even if they don't have the app, because PickMeUp uses the map applications that you already have and love. *No logins or accounts required!* Its simple! Are you inviting friends to a dinner party? Waiting for a ride on a college campus? Forget about typing your address every time, or trying to describe your surroundings, or searching for nearby street signs. PickMeUp does all of this for you in a few simple steps. It just makes your life easier. ***Known Issues that we are working on.*** 1. If recipient has a poor cellular connection: Maps may not accurately retrieve their location. (Solutions: 1A. Clicking the link a second time, or 1B. Recalculating directions from \"Current Location\".) 2. Occasional lag while adding recipients if the app has been running in the background and you open it up again to send directions. (Restarting the app solves this) 3. App is not currently compatible with Facebook contacts. 4. ***Android users are not automatically redirected to maps, they must click \"Get Directions\" in the browser. 5. ***Not compatible with Blackberry devices.",
+    "reviews": [
+      {
+        "timestampMsec": "1350288312659",
+        "starRating": "1",
+        "title": "Can\\'t send a venue details until you reach there",
+        "comment": "I need to send the venue of an event few days before. This app only takes the current location to send directions. This is not useful.  neither enough screenshots to understand before buying. nor demo videos on internet.  No evaluation version too :(",
+        "commentId": "lg:AOqpTOFyku2Jm-y2XUW6aGLxB8uzUa7TnVqQY4DBvoIiQXq9071QGjt1pQKHOpiil1ueahvrWDXAKj87suYA6og",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324482449808",
+        "starRating": "5",
+        "title": "Extremely convenient!",
+        "comment": "It Does what it  says and says what it does :) Haven\\'t seen an app with similar functionality in the market and works really smooth on my Galaxy s2. Knowing the Developer is working on fixing the known issues is also a huge plus!",
+        "commentId": "lg:AOqpTOHiIbAP9Cgn4BVsLVTHaxSSMcd_76UzWgr91lhIY1bNgCAj_Trc-enLrwIYQpoaKLE-7_G1M3OdtPSkwrs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

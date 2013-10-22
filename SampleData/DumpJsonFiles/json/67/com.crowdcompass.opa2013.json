@@ -1,0 +1,38 @@
+{
+  "title": "OPA Conference 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.opa2013",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 21, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.opa2013",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Ontario Pharmacists' Association (OPA) is the largest advocacy organization, and continuing education and drug information provider for pharmacists in Canada. Its objectives are to inspire excellence in the profession and practice of pharmacy, and to promote wellness for patients.The OPA's Conference 2013 mobile app gives you access to real-time pertinent updates from OPA. Delegates can browse education program descriptions, review speaker bios, rate conference sessions, and interact with other conference delegates.  You can also access a personalized conference schedule to help you stay on track with what's happening, ensuring you're getting the most out of the event.Keywords: OPA Conference 2013, OPA Conference 2013 Toronto, Ontario Pharmacists' Association Conference 2013",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.opa2013.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

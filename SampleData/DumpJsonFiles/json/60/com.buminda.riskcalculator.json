@@ -1,0 +1,28 @@
+{
+  "title": "Cardiovascular Risk Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buminda.riskcalculator",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "December 26, 2012",
+  "version": "1.0",
+  "operatingSystems": "4.0.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Buminda Nawagamuwa",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buminda.riskcalculator",
+  "extendedInfo": {
+    "installSize": "425k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Cardiovascular Risk Calculator is an application which calculates the cardiovascular risk depending on given set of parameters. The calculated report will include the following1.CHD\t\tCoronary heart disease. Calculated using Framingham equation.2.MI\t\tMyocardial infarction. Calculated using Framingham equation.3.STROKE\t\tStroke. Calculated using Framingham equation.4.CVD\t\tCardiovascular disease. Calculated using Framingham equation.5.CHD_DEATH\tDeath from coronary heart disease. Calculated using Framingham equation.6.CVD_DEATH\tDeath from cardiovascular disease. Calculated using Framingham equation.7.BNF\t\tBNF/JBS2 calculation of cardiovascular disease. Equals the sum of CHD and STROKE from Framingham equation.8.ASSIGN\t\tCardiovascular disease. Calculated using ASSIGN equation.Most calculators doesn't allow the user to input the time period of risk calculation. This application has more input parameters stated in the  Framingham equation. ( http://en.wikipedia.org/wiki/Framingham_Risk_Score )",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

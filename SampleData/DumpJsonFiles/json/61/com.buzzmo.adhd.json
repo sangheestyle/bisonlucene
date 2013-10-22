@@ -1,0 +1,46 @@
+{
+  "title": "ADHD Treatment Researcher",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buzzmo.adhd",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "May 31, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "Bilberry Media",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buzzmo.adhd",
+  "extendedInfo": {
+    "installSize": "6.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "ADHD Treatment Researcher is the essential app for all ADHD sufferers. The ADHD Treatment Researcher app gives you access to the latest news and research from around the world on ADHD Treatments including podcasts, events, forums, the latest clinical trials, published research papers, medical videos, books and more.Anything and everything related to ADHD that you need to know - up-to-the-minute medical news from all over the world and direct contact with hospitals and universities researching ADHD - it's all within the ADHD Treatment Researcher App.",
+    "reviews": [
+      {
+        "timestampMsec": "1373175289799",
+        "starRating": "1",
+        "title": "Worse than useless...",
+        "comment": "Minimal content, and what content exists is hidden between a \\\"Download a free game!\\\" popup.  1) The \\\"About ADHD Researcher\\\" link goes to an error page \\\"file:///data/data/com.buzzmo.adhd/files/resources/buzzmo/ADHDa/aboutpr.html\\\" is not available. I am guessing either they didn\\'t include the full URL for a web page, or neglected to include the \\\"about\\\" page in the download package.  2) The \\\"ADHD wiki\\\" link goes to a Psoriasis Wiki link.  3) \\\"ADHD: Research Updates\\\" goes to an Acne Research link.  4) ADHD Clinical Trials, Events, Forums, Podcasts, and Research all point to the correct pages, but with a popup offering a free game download. News points to the Forums page, with the same popup.",
+        "commentId": "gp:AOqpTOH2x3IkxWz4ELcAH9ie0dcmEGax4bM_x6DetRNVf5a03tb348RPt2VXpmOCOoe4_0LUX3ACOOzI1M9b0i8",
+        "author": "Kaiti Fenz-Trimble",
+        "authorURL": "http://lh4.googleusercontent.com/-SDY_UsBowdw/AAAAAAAAAAI/AAAAAAAAAI4/xXfHxO1R7pA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-SDY_UsBowdw/AAAAAAAAAAI/AAAAAAAAAI4/xXfHxO1R7pA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.buzzmo.adhd.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

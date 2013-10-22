@@ -1,0 +1,55 @@
+{
+  "title": "SIM Information System",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.casbwp.siminformatiom",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "December 1, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Noman Ameer",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.casbwp.siminformatiom",
+  "extendedInfo": {
+    "installSize": "857k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Description:             SIM information system  provide the facility to the users that they must know about its Country operator name, SIM number, network Id and etc and also send this information  to other numbers .  SIM information system provides the facility to the user to get info about their SIM and Mobile Serial number and also send this information to other numbers.  You can write yourself or pick from phone book and can send the information.",
+    "reviews": [
+      {
+        "timestampMsec": "1363186850344",
+        "starRating": "5",
+        "title": "Info",
+        "comment": "Good app",
+        "commentId": "gp:AOqpTOGUgwU9dRt4td3uZxHdUcJlvMbSCyvL6Q3_XLAcCAj9XQIjuJyViiam1lt4cv4q6zvjRywzPNkcJfqXsg",
+        "author": "Mohammad Abbas",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354564143478",
+        "starRating": "5",
+        "title": "great",
+        "comment": "very helpful",
+        "commentId": "gp:AOqpTOEIThawtpxeZvh-6DpLVjJDa8Fbzi_wxR2ula7DuycojCL0p8eMqL0kcneVdnC3SaHEi8v8Cw00K2pg_A",
+        "author": "Marium Khan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.REBOOT",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

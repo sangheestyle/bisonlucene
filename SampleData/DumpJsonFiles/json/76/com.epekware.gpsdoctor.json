@@ -1,0 +1,233 @@
+{
+  "title": "GPS Doctor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.epekware.gpsdoctor",
+  "category": "Tools",
+  "price": "$1.99",
+  "datePublished": "February 28, 2011",
+  "version": "1.1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "174",
+  "rating": "3.724138",
+  "contentRating": "Low Maturity",
+  "creator": "epEK.ware",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.epekware.gpsdoctor",
+  "extendedInfo": {
+    "installSize": "161k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "GPS Doctor is a troubleshooting/diagnostic program for GPS systems in Android devices. If your phone is taking longer than it should to get a satellite fix, can't get a fix at all, or is giving you GPS errors, GPS Doctor should be able to help. To use, simply run the \"Quick Fix\" option (or the manual options) before attempting to use Google Maps (or any other GPS software). Your fixes should come faster and be more accurate.GPS Doctor works by clearing stale cached values that can mislead your GPS chip as it searches for your location, then injecting the correct values into the chip using data downloaded from NTP and XTRA servers.The \"Quick Fix\" option is available to automatically diagnose and correct many common GPS issues. Manual fix options are also available, including: forcing XTRA injection, forcing time injection, and clearing aiding data (all, almanac, ephemeris, time, position, UTC, ionospheric, health, SV Dir, SV Steer, SA, RTI, and CellDBInfo).This app has been tested an verified to work on the Galaxy S line of phones as well as many HTC and Motorola devices.  It is generic enough that it should work on EVERY available phone now. GPS Doctor is constantly improving, so please provide feedback if you use this app on another device.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1369179618066",
+        "starRating": "5",
+        "title": "Fixed my archos g9 gps",
+        "comment": "We all know ics  killed GPS on most g9 Archos devices well mine finally stopped getting locks even after reboots, it could only see and not lock on two sats. Ran this and got 9 sat lock and 6ft accuracy seconds later, money well spent. Many thanks.",
+        "commentId": "gp:AOqpTOGs5JX376TrN7onTUVRpPPozS_GMZRUP7H151euonOt2yuyaQ40taPcUh6j1WwR_3VDsC3ZlMyj1Gm95w",
+        "author": "Dave Haigh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1348987527928",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Thank you so much, this worked absolutely perfectly for my SGS2, now I get a fix in 10 seconds top in Google Maps",
+        "commentId": "lg:AOqpTOELaSlVLyxh8HIuXI7eyow1EG7r_72hVAD9IsBfyXLw6-_1xYB-wKZwCBrP7591t0YEdqA975CfsW-qjA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1353281725912",
+        "starRating": "1",
+        "title": "Doesn\\'t work on my Samsung Galaxy s2",
+        "comment": "I was really hoping it would work. Restarted the device a few times and everything. Sad :(",
+        "commentId": "lg:AOqpTOHPHVWBet-dXAFdqWZEvSkqaaWERm7uGGaGVuq-JgNul7m3pJSrstl9oHb7X2NrsPKrEAlh-9RQtecpOQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1359367382441",
+        "starRating": "1",
+        "title": "Not Working",
+        "comment": "My GPS is not working and when I ran the quick fix it apparently was \\\"successful\\\" but not quite sure what does it mean?... it does not show a result report or what was fixed and at the end my GPS is still not working. I want my money back!",
+        "commentId": "gp:AOqpTOGiqE5HrkjOUeQ_BxeGfne0VWSij95xRC5SVY2nPWvDa0AKKgdO46q_bPLv3Ye1806ldcUtj4yne0SG8Q",
+        "author": "Ronit Moll",
+        "authorURL": "http://lh6.googleusercontent.com/-zTRC-UHYZo4/AAAAAAAAAAI/AAAAAAAAAGc/abC7v4yVH_A/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-zTRC-UHYZo4/AAAAAAAAAAI/AAAAAAAAAGc/abC7v4yVH_A/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1358481552091",
+        "starRating": "5",
+        "title": "Fixed my \\\"searching for GPS\\\"",
+        "comment": "I was hesitant at first..Verizon should really reimburse us for this. but the 1.99 does the job and saves ALL OF THE HASSAL!",
+        "commentId": "gp:AOqpTOGzsSHjSAgW5W9_e5CyWrjI3VheMlDCZ44MGwqeiWHUf1ltZqyErk0jkKVbzCr-g5Rb_0trXPoL0oZFeA",
+        "author": "Ozzy Santiago",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1303314144996",
+        "starRating": "1",
+        "comment": "Should be free as long as developer is still experimenting with his software on our phones! Samsung galaxy s (vibrant) hard locked after quick fix",
+        "commentId": "lg:AOqpTOFdu-dNhnVXH4_iXL2Ap7V0KvELpaKhRpfcaEhG6DQXqgwrje989R7HT7faYP94kvhaXBg3jYVDBEQNXw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1339947792211",
+        "starRating": "5",
+        "title": "Samsung SGH-T959W",
+        "comment": "Worked great as soon as I was in a position with a clear view of the sky and 3G coverage.  Went from not seeing any satellites to finding 17 in 2 seconds.",
+        "commentId": "lg:AOqpTOHsqdQVAXySMX74Dtxdmzsb4kysKjjBWEAIBWal7YWafCeq9U-8Q7Z4G9pvEcUIPQTnvVHNuQeJb4npZQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1302532595413",
+        "starRating": "5",
+        "comment": "Droid 2, gps hasn\\'t worked in 2 days, installed GPS Doctor, working perfectly again in about a minute and a half! SWEET!",
+        "commentId": "lg:AOqpTOEHYmcZNKQAk83FGhOam0LwHFm7-S6rE8NqXIKyoxTnBia7eQtclzeETl5mJu-gYumAZaBoxoYB1K3bCQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1349731427654",
+        "starRating": "4",
+        "title": "Amazing it worked in my Karnbonn A18 !!",
+        "comment": "My Karbonn A18 (ICS) was taking long time to lock on GPS .... but after using this it is only taking 30 sec (maximum) to lock on GPS. It works like a magic on my Karbonn A18.",
+        "commentId": "lg:AOqpTOH9EYq5ZRb5-42-rA7TnTqJbTCjmwe5Gh3voyQ23PLtAVempiOCjDRnLGRu3FwFVKMmOTMnl6SzgAPMeA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1302610344283",
+        "starRating": "1",
+        "title": "Worse than nothing at all!",
+        "comment": "All I wanted was to get quicker GPS fixes, as I was already getting accurate ones. After installing this, it took forever to get a fix that was way way way off. I don\\'t know when they start the 15 minute clock to get an uninstall and refund option, but by the time it finished trying to find me, the refund option was no longer available. This is the first time I got burned with an app that didn\\'t work and not able to get a refund. I\\'m using a Samsung Epic 4G.",
+        "commentId": "lg:AOqpTOGDWIpQBZT7rWADWWIABYkzLAkP0_EWvQewKYH4YdJQv0SsfB7zuQoHo7hodkgE1bkelDg4_TjdjPTBFQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1340171197353",
+        "starRating": "5",
+        "title": "It works perfect",
+        "comment": "Ficking hell omg this is well worth it my gps takes ages to locate me on my galaxy s i use sygic and nav free run the app it takes a couple of secs for the gps to find me best gps fix ever workd perfect finds u instansly brill thank you gps doctor u have sorted my gps issues out ten out of ten",
+        "commentId": "lg:AOqpTOE7Ile-8OgyeFX1ignLJJ_7B8AwJXSUzRQKijB-ikIkoHjOj7_qQk6PxpLViXZKE7tn61UKuCN2YmssRQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1356709981916",
+        "starRating": "5",
+        "title": "Brilliant App",
+        "comment": "I thought the ICS update killed my gps a few months ago. I even went back to my Garmin. Ran the quick fix once and now my gps lock is perfect, thanks to this little gem. Buy it now if your gps is slow to lock on.",
+        "commentId": "gp:AOqpTOG9O2R5HBrsXDTWPqcKqoTMCLSElxWzwputCxeVsL-oU-RtCruPgRC4NwCkjsANhH1p8-nnMRFtybQNEQ",
+        "author": "Travis Banks",
+        "authorURL": "http://lh5.googleusercontent.com/-H_uMSRJv5S8/AAAAAAAAAAI/AAAAAAAABTM/_xi587-wGHQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-H_uMSRJv5S8/AAAAAAAAAAI/AAAAAAAABTM/_xi587-wGHQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1307345631755",
+        "starRating": "5",
+        "comment": "Worked great on my captivate..corrected the cache and allowed google apps to run faster",
+        "commentId": "lg:AOqpTOH_7M5t0933tstmjbUqh-BlVULra0RJgB_m4-JUgikG0fIw0N8E1x3Ub1qZb9x95oz5wPXxxl-wBeR3eQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1343748358349",
+        "starRating": "5",
+        "title": "Wow! It actually worked!",
+        "comment": "My gps could never find a signal and now its works perfectly!",
+        "commentId": "lg:AOqpTOE3lfAVl8rpFqIiziDbfj0Yq3srob4mRJNl8K4U91W4veNywRHKXfjXxlNdNLE79Z-gT4FhosoAbHlb8w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1347201897323",
+        "starRating": "5",
+        "title": "Fixed my RAZR MAXX",
+        "comment": "The GPS on my RAZR MAXX took forever to lock after the ICS update, but this app fixed it.  Had to do a quick fix and then clear many items using manual options, but my GPS is all better now!",
+        "commentId": "lg:AOqpTOHE9G8oY98ABIiYEXEnh7FeqkiwWqtrG852QLos8xk72BXoMUZF9qw83QY7IWNW4Bjxjy1a4gugN2QIiQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1348018418433",
+        "starRating": "5",
+        "title": "Works great!",
+        "comment": "Have razr max...ever since ics update my gps took 1-4 minutes to connect, this app makes it connect almost instantly!!",
+        "commentId": "lg:AOqpTOES33d3cQGKa1efy3c9qzhHejGZWUVL95-AMHJ7PQdE_oWwUiunLhWTxFhenfWLMYyvWYl4Pdvra8-7_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1372840537131",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Is it possible to schedule autofix action to run every day at night in background? This app really fixes gps issues on my device for a few days, but after couple of days I need to rerun it.",
+        "commentId": "gp:AOqpTOFEpCNKm6udQNPRDtM9qBuB_GP-VOHCo1vP89VXvc9O-xFDzQdNs4bcDYJmqLkK5ShM6DKlsAfZUYwb3w",
+        "author": "\\320\\224\\320\\274\\320\\270\\321\\202\\321\\200\\320\\270\\320\\271 \\320\\232\\321\\200\\320\\260\\320\\271\\320\\275\\320\\270\\320\\272",
+        "authorURL": "http://lh6.googleusercontent.com/-QvV4HO3ChDw/AAAAAAAAAAI/AAAAAAAAAhg/8B743lwlq3c/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-QvV4HO3ChDw/AAAAAAAAAAI/AAAAAAAAAhg/8B743lwlq3c/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1344794635345",
+        "starRating": "5",
+        "title": "Razr Maxx",
+        "comment": "Amazing!  After the ICS update GPS was quite slow. After applying the quick fix I now get location fixes in seconds instead of sometimes minutes. Fixes slowed a little after the first time i ran it. 3 days later I reapplied and it\\'s faster than ever. GPS fix in google maps is almost instant now.",
+        "commentId": "lg:AOqpTOHqHNtNdHYnc9K7xewxd8dNbOIeBveZTDL0MHM5eXG8gU6moSmrVO_kKCHAcBBsaWEG46TkV8hJzmJhOQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1299288476826",
+        "starRating": "5",
+        "title": "Does what it says.",
+        "comment": "Getting locks much faster now. Accuracy is a little better while in motion too.",
+        "commentId": "lg:AOqpTOFXWWgv6BsJe9mnbxklvJstRSHBHdz0TpMDtv700tg_1kyxofaMl5bSI8H8kLFwVn8ii4NIzvG6W8zhdQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1331497269742",
+        "starRating": "5",
+        "title": "OMG",
+        "comment": "Thank you thank you thank you! I\\'ve seen lots of people having issues with GPS on Epic Touch. I wiped several times, and even installed a new ROM and nothing! After literally 45 seconds, my GPS finally works!",
+        "commentId": "lg:AOqpTOG_KppwdfiGHHeFGhN5EoqIqJC59BIUq0HB1-SFHb1IU2A-pIwAKHkfEq2MmGYsBa0f2Ngn3_7Qbov20Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

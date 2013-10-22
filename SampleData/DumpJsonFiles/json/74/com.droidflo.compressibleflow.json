@@ -1,0 +1,79 @@
+{
+  "title": "Compressible Flow Tool",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidflo.compressibleflow",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "November 11, 2012",
+  "version": "2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "13",
+  "rating": "4.769231",
+  "contentRating": "Everyone",
+  "creator": "DroidFlo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidflo.compressibleflow",
+  "extendedInfo": {
+    "installSize": "479k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Updated version 2.0, 11/11/12-----------------------------Thanks for all the comments!Based on feedback there are some new features:1) The isentropic tab now contains the 'nozzle solve' option in terms of A/A*, and additional buttons have been added to allow to solve for all properties as a function of either M (as before), P0/P, Rho0/Rho, T0/T or A/A*. Whichever you want, just input the value and then hit the appropriate button. Stagnation ratios must be >1 (a value <1 would be nonsensical).2) Using the added space, an extra tab has been included for calculating the 2D critical Mach number Mcrit from the minimum pressure coefficient Cpmin. This is done using three compressibility corrections - (1) Prandtl-Glauert, (2) Laitone and (3) Karman-Tsien. They all give broadly comparable results. If you want to know Mcrit for an aerofoil, compute the most negative pressure coefficient at the incidence of interest (using a panel code like Xfoil, or else you can get this from experimental data), then input Cpmin here. Cpmin must be negative (Cpmin=0 would be equivalent to a flat plate at zero incidence, so then Mcrit=Minf=1). The more negative Cpmin is, the lower Mcrit. Remember this is only for 2D critical Mach numbers; it is not valid in 3D (except perhaps for high aspect ratio wings).3) A settings tab has been added for changing gamma (ratio of specific heats). Input your new gamma value, then hit 'update' (this action sets the preferences across all activities) and all calculations will now use the new gamma value. The program defaults to 1.403 (air) when opening, so you only need to change this if you want a gas other than air. Gamma needs to be >1.With gamma being an input, there is an extra element of risk in the iterative methods. If a very strange value is used (like a large number >>1), you might see problems. However, within the common range of gamma values (1-2) it should work.Post any further content suggestions and I'll try to incorporate. Initial version 1.0, 23/01/12-----------------------------CompFlow is a tool for finding quantities useful in 2D compressible flow calculations for air (currently gamma is hard-set to 1.403).The program is arranged into 5 tabs that deal with:1) Isentropic compressible flow - simple 1 line equations for P0/P, T0/T, rho0/rho, A/A*, nu2) Nozzle flow - this calculates the subsonic and supersonic solutions as a function of A/A*3) Normal shocks - the algebraic relations for normal shocks4) Oblique shocks - an iterative solution for shock angle as a function of Mach number and deflection angle, as well as a calculation of the maximum deflection angle5) Expansion fans - iterative inverse Prandtl-Meyer function to find the Mach number from the value of the Prandtl-Meyer functionThis program is suitable for aerodynamics students wishing to check their tables calculations rapidly, or wishing to set their own problems to solve for practice. It serves in the role of the compressible flow tables.Have fun!Note: iterative routines are hard-set to 300 iterations. Use this tool at your own risk; no liabilities accepted.",
+    "reviews": [
+      {
+        "timestampMsec": "1335312088541",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "This is just so awesome. Saves me loads of time. Man, I would hug you right now",
+        "commentId": "lg:AOqpTOGYREe0HwOYICBWGKUtULqUX4-F7c0VqI1z6NpRKA9sN6VKJ1M4la5mQRjis7CRCZygQ1ipV0zQpJuq3w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342036532668",
+        "starRating": "4",
+        "title": "Compressible Flow",
+        "comment": "Great but need input for different gamma values, temperature, and pressure.",
+        "commentId": "lg:AOqpTOFrZTl6oBekrjsuy6X9Y7DzB3PlxJ-wxcC0S2mG16mLOAROfy5mlErHJjF4CJLwwG9tuoZ0oc7hp6J2Rw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340127077271",
+        "starRating": "5",
+        "title": "great",
+        "comment": "useful",
+        "commentId": "lg:AOqpTOGBh2QoBseASC-RT4W4eMEjSvCuN1uJi-yCBPLk-FVm4yhJMpVSX40itM16D6GxYhVNAq2Ukdq90Ei02g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335743918466",
+        "starRating": "5",
+        "title": "Helpful app",
+        "comment": "Very helpful app which makes the calculation much faster",
+        "commentId": "lg:AOqpTOF502j9LwpF4XGn7gNpdBwkl3cnoHHoIFen2BEo_4EiDES48i1Atmr_74PsR1VNT5OH8uYDgEN6-uTxKw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347884216243",
+        "starRating": "5",
+        "title": "Useful",
+        "comment": "Very useful app, I encourage you to develop new versions with improved features",
+        "commentId": "lg:AOqpTOHmR9Z9Z7Z0FmLeZ6xTxO7ELxFKglQsrk8y9V5WNhf7gdbZlIVvYjM4iVxR_YJSRi1qH_Bh4OUqsvzP_g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342036353072",
+        "starRating": "5",
+        "title": "Anyone in aero 3",
+        "comment": "Anyone in aero 3??",
+        "commentId": "lg:AOqpTOE9cWdcrCvwyP4KXjlVMcshUuYBlAqlJOR53L8GYm95VTYTe2domZN95W5CHMAguDZOPpitXwGUhAFb3Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

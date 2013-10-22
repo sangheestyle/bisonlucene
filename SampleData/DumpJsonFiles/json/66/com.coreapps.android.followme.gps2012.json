@@ -1,0 +1,66 @@
+{
+  "title": "Global Petroleum Show 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.gps2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "June 6, 2012",
+  "version": "3.0.8",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.gps2012",
+  "extendedInfo": {
+    "installSize": "6.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Global Petroleum Show, held in the energy capital of Canada â Calgary, Alberta, is the meeting place for the global oil and gas industry. Since 1968, GPS has been one of the largest energy events that bring together global producers, EPCâs, service companies and suppliers. The event plays host to 95 countries, 60,000 attendees, and 2,000 exhibiting companies.",
+    "reviews": [
+      {
+        "documentVersion": "3.0.8",
+        "timestampMsec": "1339643847889",
+        "starRating": "5",
+        "title": "Nexus S",
+        "comment": "Perfect! Works as noted",
+        "commentId": "lg:AOqpTOHf6LWp0OMplRyK85jBJzWd51bp0aGXePrDxZmHYF1Wg17hwP4YIrk8Yy16o6IGQZ1BEC3-KIbORf_Fdvo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.8",
+        "timestampMsec": "1339523612705",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "Such a helpful app for such a huge show!",
+        "commentId": "lg:AOqpTOGIpjMvzkeg-8c-tRL9BZflexA1y4WvgpJ3I3-68u014LiYTjSgr6jCIaePP3wbVMWw9mN4blUGpRjxsp8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

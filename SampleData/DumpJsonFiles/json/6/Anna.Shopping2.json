@@ -1,0 +1,37 @@
+{
+  "title": "Shopping List - FREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=Anna.Shopping2",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "June 24, 2011",
+  "version": "3.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "ALD",
+  "creatorURL": "https://play.google.com/store/apps/details?id=Anna.Shopping2",
+  "extendedInfo": {
+    "installSize": "196k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "1.\tEach item added to the list is saved in an internal database2.\tAdd items very fast (via database or manually)3.\tMarks items that were purchased4.\tSaves your purchase list, so you can always can come back to it5.\tVery basic English â icons explain the main features6.\tThe most advanced shopping list on the web",
+    "reviews": [
+      {
+        "timestampMsec": "1308921257586",
+        "starRating": "5",
+        "comment": "I shopped using the app today and it was great",
+        "commentId": "lg:AOqpTOFAz4ulFSvPeqhS9UgytWhU7aVn1lvqh3ygTlDa0Xl2bLoaheyM0C0F06Pr5gPLszF5mxlecpDZy7D3dw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

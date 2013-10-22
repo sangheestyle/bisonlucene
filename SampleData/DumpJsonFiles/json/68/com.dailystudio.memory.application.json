@@ -1,0 +1,47 @@
+{
+  "title": "Memory Application",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dailystudio.memory.application",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 14, 2013",
+  "version": "1.0.6.13061423",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Daily Studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dailystudio.memory.application",
+  "extendedInfo": {
+    "installSize": "589k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Memory Application is a plugin application for Memory. It will help you to manage your applications efficiently. It will track your applications' usage and installation histories. It will know what kind of application you will like, and even give you some advice when you want to remove applications.** NOTE **: Because it is a plugin for Memory, you should install Memory on your device:https://play.google.com/store/apps/details?id=com.dailystudio.memoryInlcuding features:1) List and manage applications installed on the device;2) Statistics applications' usages (Daily / Weekly / Monthly);3) Track applications' installation histories;4) Support search applications' installation histories through Memory main application;5) List useless applications that user not used or updated recently;Full changelogs:1.0.61) Add an AppWidget to display \"Favorite Applications\" in recent week;1.0.51) add a custom shortcut to display Top Favorite Apps of recent week or month;Â Â  Â  * Android 2.0+, Launcher -> All Apps -> Widget -> Top Favorites;Â Â  Â  * Android 3.0+, Launcher -> long press on white space -> Shortcuts -> Top Favorites;2) update zh translation;1.0.41) Add week / weekday / month selection in option menu of related Usage statistic page, user could review usage statistics of other weeks, weekdays or months;2) Support Application usage search in search bar of Memory main page; 3) Fix option menu issue of Daily / Weekly / Monthly Usage (display reversed);4) Improved UE of  Daily / Weekly / Monthly Usage, prompt user more feedback of loading progress;5) Update zh translation;1.0.31) Use Daily / Weekly / Monthly Application usage statistics instead of original fully statistics; 2) Hide uninstalled application in Useless applications list;3) Add \"Manage\" button in Application list to launch system \"App Info\";4) Update zh translation;5) Fix crash issue of Useless application list;1.0.21) Display cached label and icon of apps which has been removed from device in Useless applications list / Installation History / Application Usage for those removed application;1.0.11) Support \"Run\" and \"Uninstall\" application in Application Information Window of application list page;2) Add icons indication at bottom of application list page;3) Add new feature \"Useless applications list\", it will list applications that user not used or updated recently;4) Fix minor bugs of Application Installation Histories;5) Turn off logs output to improve performance;1.0.0First release of Memory Application.",
+    "reviews": [
+      {
+        "timestampMsec": "1349538863994",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Looking forward more features about app usage and hostories",
+        "commentId": "lg:AOqpTOH6vfR1WFTKhRIVW3goC_znNiaVObpoUHGcHN40ktOmOtVH-qpLurK3_3ZmZ2Gwy9ENk-viofEiUBhR",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364098792106",
+        "starRating": "5",
+        "title": "simple",
+        "comment": "simply work",
+        "commentId": "gp:AOqpTOE1Vwh37Dm7fcxZddYZwWonH1pXUPHUjgWSWelcWQhfAXaZkO9xsAV0pfg3Vw5HH4s0sTWQ-b9voDGQ",
+        "author": "Tly Tan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "memory.permission.READ_MEMORY_DATABASE",
+      "android.permission.GET_TASKS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

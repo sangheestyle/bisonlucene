@@ -1,0 +1,65 @@
+{
+  "title": "CodeTwo Public Folders",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codetwo.publicfolders",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "September 4, 2013",
+  "version": "5.2.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "10",
+  "rating": "4.8",
+  "contentRating": "Everyone",
+  "creator": "CodeTwo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codetwo.publicfolders",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is the mobile version of CodeTwo Public Folders. Thanks to this smart mobile app you will finally gain access to your public Outlook contacts, calendars and tasks on your Android phone or tablet. Try it now!Note! This app is an integral part of CodeTwo Public Folders desktop installation. Prior to installing the mobile app you need to setup the CodeTwo Public Folders network in your organization, which will let you share Outlook folders with many PCs in real time. It is a very simple process and you donât need to be an IT expert to handle it.QUICK INSTALLATION GUIDE:1. Download and configure the desktop version of CodeTwo Public Folders Syncing Master. It needs to be installed on a PC that is powered on most of the time in your office.2. Download and configure the Client Apps on the PCs that need to synchronize Outlook. 3. Download the mobile app for Android and connect it to your Syncing Master using the unique name or local IP number. The connection wizard will guide you through the entire configuration process.The desktop version of the program is available here: http://www.codetwo.com/public-folders/Learn more about the installation: http://www.codetwo.com/public-folders/userguide/installation.htmKEY FEATURES OF CODETWO PUBLIC FOLDERS:**Share Outlook folders with many users in local network or over the Internet**Mobile access with dedicated Android apps**Separate mobile apps for managing public Outlook tasks, calendars and contacts**Safe data encryption protocol and Cloud-free data transfer**Synchronization of selected folders only**Native user accounts management and logon mechanism**Central administration panel, users and access rights management**Easy installation and deployment**Competitive price and low-cost maintenanceLearn more about CodeTwo Public Folders on: http://www.codetwo.com/public-folders/DEMOING THE MOBILE APPSIf you only want to test the mobile app quickly, you can connect it to CodeTwo Demo Server. It will help you understand how the program works, without configuring your own Syncing Master. Learn more about connecting to CodeTwo demo server: http://www.codetwo.com/public-folders/userguide/installation.htm#demo_server",
+    "reviews": [
+      {
+        "documentVersion": "0.0.3",
+        "timestampMsec": "1365733975686",
+        "starRating": "4",
+        "title": "Very good app",
+        "comment": "Very good app. Syncronizes everything really easy. I\\'ll give 4 stars instead of 5, just because it\\'s missing the syncronization of the NOTES field on CONTACTS. I recommend this app!",
+        "commentId": "gp:AOqpTOFmYTru2_mH7GQ9gY7QDan4Kz_QIm89j1q-QEOuCqY6NQFS-hRG5iwL9QPflDxT7-2lirXQ_v769E_F8sM",
+        "author": "Alessandro Orefice",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.0.3",
+        "timestampMsec": "1367078438746",
+        "starRating": "4",
+        "title": "Lacks Notes + 1x Bug",
+        "comment": "Missing notes section on contacts and keeps asking which contacts to sync when opened on Note 2. Good start, but needs some work.",
+        "commentId": "gp:AOqpTOEekjVcUwrcrnFmm5sxZfcvkFboJ6d0mMzW8GLvZKD2rD-LKfGkTD9MMMiF9cZ1wI5ZNdJjdDchvfpQ4qM",
+        "author": "David Prinzing",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "com.codetwo.publicfolders.permission.DISCOVERY_PERMISSION",
+      "com.codetwo.publicfolders.permission.READ_SYNC_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

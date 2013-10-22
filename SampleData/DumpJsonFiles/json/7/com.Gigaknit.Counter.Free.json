@@ -1,0 +1,40 @@
+{
+  "title": "Easy Counter Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.Gigaknit.Counter.Free",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 7, 2013",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Gigaknit Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.Gigaknit.Counter.Free",
+  "extendedInfo": {
+    "installSize": "116k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app helps you count things.  Just tap the number to make it go up.  Supports counting by 2s, 3s, etc.; counting many things at once; counting up or down; sounds, so that you know you clicked without looking; named counters and multiple colors so you can see which counter you're using at a glance.  I initially created this to help my wife keep track of where she was in her knitting patterns, but of course you can use it to count or tally whatever you like: stitches, students, pattern repeats, laps, drinks, how many times you've gone to the gym or what have you.This version of the app is free, but has ads at the bottom of the screen.  There is an ad free version available to purchase.",
+    "reviews": [
+      {
+        "timestampMsec": "1364384473920",
+        "starRating": "5",
+        "title": "Easy app",
+        "comment": "So easy to use.  I use it to count my productivity at work.  Tap just about anywhere on the screen to tally up.",
+        "commentId": "gp:AOqpTOHnaY0sqtiskWAF60h7Xqqu1YNdV3fBn37of3UsFk2uuFy75EiLrP9q0CbTI7tPWgA35a42W0vQ2rMDAw"
+      },
+      {
+        "author": "Dave Koop",
+        "authorURL": "http://lh6.googleusercontent.com/-wsODyvVO4A0/AAAAAAAAAAI/AAAAAAAAAKs/3g4g-mfwr9A/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-wsODyvVO4A0/AAAAAAAAAAI/AAAAAAAAAKs/3g4g-mfwr9A/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

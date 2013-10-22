@@ -1,0 +1,41 @@
+{
+  "title": "See U (Lite)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brouding.lightenoughlite",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "July 5, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "21",
+  "rating": "3.952381",
+  "contentRating": "Everyone",
+  "creator": "BROUDING",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brouding.lightenoughlite",
+  "extendedInfo": {
+    "installSize": "118k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The world's first, brand new Camera See U!+Fast +LightIt helps to 'See U' whenever, wherever(even it's dark).It works like 'Dressing room'(= mirror + Flash Light).When you're in club, before kiss with lover, in bed, when blacked-out, without any electricity, with 'See u', you can keep gentle.",
+    "reviews": [
+      {
+        "timestampMsec": "1369636583107",
+        "starRating": "2",
+        "title": "Crashed.",
+        "comment": "Lasted 5 seconds. Nice concept. Label the buttons. ;)",
+        "commentId": "gp:AOqpTOFQEISFZVH1yes8OgVij2HMV_zw-jM7QhhAWLR3TXEepR0uxlsxbatxyiPZmK7edzzII6VZRN78UCka-A",
+        "author": "Douglas Brantley",
+        "authorURL": "http://lh4.googleusercontent.com/-3l2ag99CiJ4/AAAAAAAAAAI/AAAAAAAAABU/g1JOkYsT1OY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-3l2ag99CiJ4/AAAAAAAAAAI/AAAAAAAAABU/g1JOkYsT1OY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

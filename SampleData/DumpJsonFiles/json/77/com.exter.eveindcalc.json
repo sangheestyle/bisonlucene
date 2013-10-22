@@ -1,0 +1,245 @@
+{
+  "title": "EVE Industry Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exter.eveindcalc",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "2.0.1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "195",
+  "rating": "4.5538464",
+  "contentRating": "Everyone",
+  "creator": "EXTER Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exter.eveindcalc",
+  "extendedInfo": {
+    "installSize": "9.7M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Calculate profits from manufacturing, refining, or reactions in EVE Online (http://www.eveonline.com), based on character skills, blueprint ME/PE levels, and market prices. Supports market price lookup for products and materials using the EVE-Central (http://eve-central.com) API.",
+    "reviews": [
+      {
+        "documentVersion": "0.0.0",
+        "timestampMsec": "1376267373558",
+        "starRating": "5",
+        "title": "Truly excellent",
+        "comment": "This app gets better every update! Iv been using it for a couple months an its constantly improving and is extreamly accurate. Its an absolute must for traders, miners and manufacturers. whether solo, group or corp needs this app is essential",
+        "commentId": "gp:AOqpTOHlNlzQjQ8AeFWFPV4Na06sw-7G0Gjx3vYuAvnOsbYMWZDlH81hNZYoKx_u5sKZRjNNXc_qq6jMgH_vZA",
+        "author": "marcus john",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.0.0",
+        "timestampMsec": "1377694170957",
+        "starRating": "5",
+        "title": "Excellent app!",
+        "comment": "I use this thing daily to check profitability on manufacturing runs.    Update ideas:   -include production run times.  -update sub-componebt quantities based on runs of print.   For example,  if making a t2 ship automatically increment number of component quantity when you click through to a t2 component  -allow selecting market vs. Build your own components for things like ships so you can see profitability comparison if you build sub-components vs buy from market.   Keep up the great work!",
+        "commentId": "gp:AOqpTOGBiwwjvQi5nA8cSmBKb6uNWUfGryqShG0F5v7V2bi9DJHQFIg7Ua9cxiJ_6fBoS2nMPf6kVcFujKsBSQ",
+        "author": "Angelo Parisi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.0.0",
+        "timestampMsec": "1376856875317",
+        "starRating": "5",
+        "comment": "Must have tool for all EVE Industrialists",
+        "commentId": "gp:AOqpTOF4PqWJea9PNUgUN9rWY3cOSFjSnW83EoDXDTGzDPYQ41qnUSDdxdsYCxgKti41wiXWB2LnY-YQ11It3Q",
+        "author": "Ashley Yetman",
+        "authorURL": "http://lh3.googleusercontent.com/-wh9TA0L0ERc/AAAAAAAAAAI/AAAAAAAABfo/qSRNXqA0Zkk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-wh9TA0L0ERc/AAAAAAAAAAI/AAAAAAAABfo/qSRNXqA0Zkk/photo.jpg"
+      },
+      {
+        "documentVersion": "9.0.0",
+        "timestampMsec": "1375213810786",
+        "starRating": "3",
+        "title": "Not quite right...",
+        "comment": "At first glance, this looks like a useful app... then I noticed the problems.  The fact that you have to update every single item individually is a horrible idea, and I am not sure that the current price for Bistot is over 700,000 ISK per unit... unless my little cache just made me into a multi-billionaire over night?   Perhaps you can look up the median prices on eve-market or whatever the current substitute for EVE-Market is, and have it auto-update the prices when the item is selected. Also not a huge fan of the inability to provide an API key so it can figure out the tax rates and refining skills without needing me to do all the work for it.  All things considered, it\\'s a solid 3 star app, provided you are just looking to figure out the quantity of minerals you\\'ll get on a load in your hauler, or how many mins you\\'ll need for a production run.",
+        "commentId": "gp:AOqpTOHXvXIsED-R9CWGBbUQSvh0792kin_VsbYs0mm0Rps1Qh6u_lnq4j47Xrl84ve9PRqNHoPCkd2P-u-DYA",
+        "author": "Christopher Kirtlink",
+        "authorURL": "http://lh4.googleusercontent.com/-UHG4L83PaRA/AAAAAAAAAAI/AAAAAAAAABQ/4BWfhdhFsgE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-UHG4L83PaRA/AAAAAAAAAAI/AAAAAAAAABQ/4BWfhdhFsgE/photo.jpg"
+      },
+      {
+        "documentVersion": "9.0.0",
+        "timestampMsec": "1373866251389",
+        "starRating": "2",
+        "title": "Please fix auto import of the item price.",
+        "comment": "I have used this for quite awhile and had it on 5 stars. But now it don\\'t auto import the item price so I dropped it to two stars. please fix this!",
+        "commentId": "gp:AOqpTOE48PSPd9z389YhFkJfOAgiqm06xwXQ7eX9rwe5yRwgGESvxQHTPuithueWrAkPeHEfS4vvsIVkjOU2ww",
+        "author": "Benjamin Woods",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "8.3.1",
+        "timestampMsec": "1372955181261",
+        "starRating": "5",
+        "title": "Now is Great! :)",
+        "comment": "Thanks for this update and the new icons. :D",
+        "commentId": "gp:AOqpTOEo8L26KrngDS7-Z9okpN6ZSDWnooPzqNEEsqOBYLtMpMJ3BZjAvaX6cW-Na3ibetAua5AnvPlSWV2ScA",
+        "author": "Joan Pavel Cede\\303\\261o Veloz",
+        "authorURL": "http://lh4.googleusercontent.com/-M5dlJkeyKUQ/AAAAAAAAAAI/AAAAAAAAAfs/DkY5WYIAWAM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-M5dlJkeyKUQ/AAAAAAAAAAI/AAAAAAAAAfs/DkY5WYIAWAM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1365102422387",
+        "starRating": "2",
+        "title": "Interface is no longer good",
+        "comment": "Have been using this for quite a while. Very nice application, very helpful. Easy to figure out what\\'s your best income. However, the new interface is barely usable on my phone. Naturally, I have a horizontal layout with the keyboard open. And, with the small screen of older xperia, third of the space is occuppied by an ad, and one third more is occupied by a header, leaving only that much useful space on the screen. Very inconvenient. Please optimize for smaller screens. 2 stars until then.",
+        "commentId": "gp:AOqpTOFQPH-h1o-qXCC7KrXrxVZyCQmpOJrGMdVIZX1ftdsk6Jpk4RtNbSqcXo_YCqkQnwOj9C1tkpo2WjWW-Q",
+        "author": "Ayrton Senna",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1363277372505",
+        "starRating": "3",
+        "title": "Just installed...",
+        "comment": "I just installed this app as I\\'m going to start dabbling in industry... First off, the layout is basic but easy to understand. Offer a paid version to get rid of ads. However, make paid ver with ability to use api keys and auto import character skill levels and starbase (or have drop-down for closest). This app has great potential!",
+        "commentId": "gp:AOqpTOGgk1FxHQoR6NRVrirg1P80PP6ia2f8TzqJ9QJgj0JStT7Hck6-SNXlev4fLmnT1Kz5JVTGmy7gzp5NBA",
+        "author": "James Walker",
+        "authorURL": "http://lh5.googleusercontent.com/-wNzLsmM1ejo/AAAAAAAAAAI/AAAAAAAARxw/ndoo3ViomB4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-wNzLsmM1ejo/AAAAAAAAAAI/AAAAAAAARxw/ndoo3ViomB4/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1362872369934",
+        "starRating": "5",
+        "title": "Yay! Prices Work Again!",
+        "comment": "Always was a useful app. Great for mining, building and researching in EVE. Would pay for it.",
+        "commentId": "gp:AOqpTOEkZCIbbdY_mDVUcDqLG8xPQdzJVOQRR9NyqP7pRhb-sHmxmVLQAgIPfFx4K_hcimYxdOAgfdabYwECKA",
+        "author": "Micheal Ferrol",
+        "authorURL": "http://lh6.googleusercontent.com/-Btb9PLOsMwQ/AAAAAAAAAAI/AAAAAAAAAC4/TXT1hFuTBqw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Btb9PLOsMwQ/AAAAAAAAAAI/AAAAAAAAAC4/TXT1hFuTBqw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1364408595963",
+        "starRating": "5",
+        "title": "Yeah",
+        "comment": "I love ittttt",
+        "commentId": "gp:AOqpTOG07HWQfMoO4n0-nVXF63DGEO8YucRGVX2PkQU6lxioOzE78PVb5PgVxXBYfC0jo4frPqJAh-SjrtCl3A",
+        "author": "Henry McCartan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1370534056441",
+        "starRating": "4",
+        "title": "Very useful tool",
+        "comment": "My only quibble is that it does not allow regional pricing.",
+        "commentId": "gp:AOqpTOEdpSrG3glN69OOVEk2waF2hTr0_zUnQROaklSFx5VnpRQjzb81-VvOtvU7gAovPX74cdbbEQsOgPXJtQ",
+        "author": "Sean Bluett",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.0",
+        "timestampMsec": "1362336472649",
+        "starRating": "5",
+        "title": "Handy",
+        "comment": "One of the best EVE apps for android. Extremely useful for manufacturing.",
+        "commentId": "gp:AOqpTOGtHd5brMfP_NTyMT2Emv9iupeCunJZYaURv3Kdk6d5AtDTSN0p88bt29S9r-aG0niWydENBh9I_363kA",
+        "author": "Tyler Mangrum",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.5",
+        "timestampMsec": "1362267961514",
+        "starRating": "5",
+        "title": "Update",
+        "comment": "This app always gets updated fast after every patch, don\\'t give two stars cause it stopped working after a game patch. Thanks for the app and keeping it updated.",
+        "commentId": "gp:AOqpTOEFlwHIDFDScqckjXluxrpI-UP8Z74w95bsJfv6MEC7kWJ-iI9bgZYn32MB7arfECcFhHagFZ4OeG_p8Q",
+        "author": "Jan \\305\\240inkovec",
+        "authorURL": "http://lh4.googleusercontent.com/-bGVTGn768SI/AAAAAAAAAAI/AAAAAAAAACc/jrDTC1TJW_g/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-bGVTGn768SI/AAAAAAAAAAI/AAAAAAAAACc/jrDTC1TJW_g/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.5",
+        "timestampMsec": "1362783283672",
+        "starRating": "5",
+        "title": "Excellent app",
+        "comment": "The only thing that needs an update is the UI.",
+        "commentId": "gp:AOqpTOHTKs8y4sXtAyhx8g2NxLSU83apS4BlsBXadBtAnbuLf-wUPdTS3nKOUGah3t9z-IYzrTKXoFkPWmZoJQ",
+        "author": "Razvan Burghiu",
+        "authorURL": "http://lh3.googleusercontent.com/-sLz4THz4acA/AAAAAAAAAAI/AAAAAAAAJqc/fIUxr5blTS8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-sLz4THz4acA/AAAAAAAAAAI/AAAAAAAAJqc/fIUxr5blTS8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.4",
+        "timestampMsec": "1361396189999",
+        "starRating": "5",
+        "title": "Useful!",
+        "comment": "This is a must-have for any Eve player. Very handy and prompt updates. Would love a save/favorites feature like others mentioned, but still great even without it. Highly recommended. Keep up the good work!",
+        "commentId": "gp:AOqpTOGqdMWCQp8wsSywc2yeebwD2ic7kYnF5v_GZa7AMeAEMfAZZLF4MKmOLsOMI7NMaDRk3IO9cHDPa8Y4zQ",
+        "author": "Zach Goist",
+        "authorURL": "http://lh4.googleusercontent.com/-E2dzt24_k78/AAAAAAAAAAI/AAAAAAAAACU/_vlo0LzojIo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-E2dzt24_k78/AAAAAAAAAAI/AAAAAAAAACU/_vlo0LzojIo/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.4",
+        "timestampMsec": "1354830837847",
+        "starRating": "5",
+        "title": "Fast update",
+        "comment": "Retribution 1.0 came out 4th, updated morning of 6th. As usual, useful application never crashed on me. Nothing but help",
+        "commentId": "gp:AOqpTOHI_3MWrc6lBh3Y3MxAcXB3rsIxs79wqKCHEWhoBGkBvHLhaGmZpXWuOtHXrCUOxVLOZZO4ntuQ2R5LeA",
+        "author": "Jesse Bevil",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1352435356116",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Only program so far to really let me know if I am wasting my time doing something. Would love the ability to save my favorite items and prices I have already set it them.  Also planetary industry...I have no idea if. I am making money :-)  Keep up the good work awesome program!",
+        "commentId": "lg:AOqpTOFeWrRK5TCRH8rg8qVnQiPr8dq18F3aTjmAMxZ5Qy1k0oqtxaxmr_hjhyxxdkSGl-jTVKX-vXGClVJmmw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1351088092116",
+        "starRating": "4",
+        "title": "Great app!",
+        "comment": "Amazing job... all it needs is volume and its prob the hands down most useful app on the market for eve.",
+        "commentId": "lg:AOqpTOG_68BlrZFrLS_07M03aWypL7p4rjU6vH6I2T1mrtsJWQHcCPEGmQspj3pEbpGCa3pofs7QcB0AAn82TA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1354653310420",
+        "starRating": "5",
+        "title": "Thanks",
+        "comment": "Thank you for this app. It\\'s nothing but help!",
+        "commentId": "gp:AOqpTOGo_JPgCivpOHBnDGVP221UieaRzaGAsqzE7plmBelSm6V1rUciCN_eKt48WF7zNBToM1KnRiOso3-0Gg",
+        "author": "Steve k",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1350651319884",
+        "starRating": "5",
+        "title": "I liked",
+        "comment": "Material lists updated this app is now perfect. Nice job",
+        "commentId": "lg:AOqpTOGLL_vsOCYLHjG2lBttZH4BTKNeUwo_KekrtEDkrKNYVU3otEeUseh3qxXd17Vv5-3XwdvOtxTJCUSkhQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

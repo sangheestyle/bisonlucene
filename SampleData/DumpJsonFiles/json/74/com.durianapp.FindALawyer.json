@@ -1,0 +1,31 @@
+{
+  "title": "Find A Lawyer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.durianapp.FindALawyer",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "September 8, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "Daniel Hace",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.durianapp.FindALawyer",
+  "extendedInfo": {
+    "installSize": "196k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Find-a-Lawyer is a tool to find a lawyer in the United States. You can also read reviews about a certain attorney from his previous clients. There's also the ratings could be your grip to find out how well your choice. You need this application before you decide who your lawyer will be.Find a review of an attorney before hiring him is never been so easy like this. You just input a keyword for the search, fortunately an auto complete option will help you, then your location, the application will also help with auto complete option, (so the application will search for lawyer nearest to your location). Press search, and the search will begin. When the result shown, just press one of the lawyers listed there, then you'll get his details including phone number, address, rating, education, even reviews from previous clients.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

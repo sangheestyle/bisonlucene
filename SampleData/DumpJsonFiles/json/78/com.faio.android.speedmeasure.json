@@ -1,0 +1,32 @@
+{
+  "title": "Speed-Measure / Speedgun",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.faio.android.speedmeasure",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 27, 2013",
+  "version": "9.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "FAIO",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.faio.android.speedmeasure",
+  "extendedInfo": {
+    "installSize": "183k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "SpeedMeasure (Speedmeter/Speedgun)This little app features velocity measurement through the camera of your mobile phone.The measured speed and the noise volume dba (decibel) of the bypassing object is shown on the display of the mobile device.*How to use*Before you start the measurement, you have to set the following fields to get correct speed values.1)Viewing Width of Camera in MeterEnter a estimated or the correct horizontal length of the live camera view. 2)Flash SpeedSet a maximum speed limit.3)Moving Pixels on Screen in % With this you can adjust the sensitivity of the motion detectionKeep your mobil absolutly wobble-free.Display Resolution higher 480x800 required.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Installer App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.danfoss.hs",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "2.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "35",
+  "rating": "3.7714286",
+  "contentRating": "Low Maturity",
+  "creator": "Danfoss A/S",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.danfoss.hs",
+  "extendedInfo": {
+    "installSize": "6.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The Danfoss Heating application provides plumbers, heating and HVAC professionals and installers with a wide range of dimensioning, calculation and documentation tools. These tools make sales and installation of Danfoss products easier. A great tool when working with home heating, HVAC, radiators, valves and thermostats.The Danfoss Heating app for installers is like having a second toolbox right in your pocket at the point of installation. It can help you install Danfoss products in a number of ways, and assist in the sales process with a wide range of marketing and support material. For example, this app helps you make on-site energy savings calculations for customers who may be considering converting to the new living by Danfoss Â® thermostats or upgrading to a new floor heating system. The app makes hydronic balancing calculations and conversions quick and easy. Some of the ways this app can help you in your daily work include:Radiator Thermostat Supportâ¢\tEase installation with a unit calculator for living by Danfoss Â® products like living eco, living connect and Danfoss Link.â¢\tCalculate pre-setting of radiator valves by selecting radiator type and size to get correct valve pressure settings.â¢\tIncrease sales with support tools for living by Danfoss Â® products, such as a return on investment calculator, product facts and sales material.â¢\t Use installation videos in the app to assist you onsite during installation. Floor Heating Installation Supportâ¢\tCalculate costs of installing CF2+ Danfoss wireless floor heating system for your customers in both new build and renovation projects.â¢\tImprove sales support with a product video featuring key user benefits and facts about CF2+ .â¢\tWatch Installation videos for easy reference anywhere and anytime you need them.Balancing Valve supportâ¢\tCalculate flow and pressure measurements easily with the built-in equation tool.â¢\tConvert pressure, flow and power and temperature between metric and non-metric systems, Celsius and Fahrenheit and various other measures easily. A handy tool for all HVAC professionals.Additional features of the Danfoss Heating app include personalization options by specifying your âfavorite toolsâ. You also get handy contact information for the nearest national Danfoss sales office and easy access to the latest news from Danfoss. ---Danfoss is a leading company in the heating industry offering a wide range of components and solutions for generation, distribution and use of heat for comfort and energy savings in home and buildings.  By continuously improving products and services, we strive to build strong relations to customers and business partners throughout the value chain. We have manufacturing facilities in more than 10 countries, and sales companies and agents in all heating markets worldwide.",
+    "reviews": [
+      {
+        "timestampMsec": "1341188130974",
+        "starRating": "5",
+        "title": "balaji",
+        "comment": "supper app",
+        "commentId": "lg:AOqpTOEuxQJqo1qcQgCDGXI9uMrwAnhX7R7tcbhQ1xo_InTH3Px2E7HAD0A4h7hDkGBn3qe2HV-4Zv2iHOWjl84",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368393772858",
+        "starRating": "1",
+        "comment": "Useless",
+        "commentId": "gp:AOqpTOFOav8MJ7tTTsEWg_Cd6hbYSRqvONXP9-asWlhqUeI1f4RRHraa8trR3DI3zLGf8oAuw0CJ-TgIdJJ8InY",
+        "author": "Stuart Bowles",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "EU Newsroom",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eunewsroom.newsroom",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "April 19, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "12",
+  "rating": "2.8333333",
+  "contentRating": "Low Maturity",
+  "creator": "European Commission",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eunewsroom.newsroom",
+  "extendedInfo": {
+    "installSize": "848k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Get the latest news from the European Union. Browse stories from all the European institutions by different topics and watch the daily press briefing live.The EU Newsroom app offers the following:- Top stories from the European Union- Press releases from the European institutions- Browse the main headlines and press releases by different topics such as economy, environment and transport- Videos and photos- See the calendar of upcoming EU events and add them to your calendar- Europe by Satellite broadcasts: a mix of live events, news items and stockshots on EU policies and issues- Share stories by email, SMS, Facebook and Twitter- Available in English, French and GermanA PDF reader is required to open PDF documents in this application.",
+    "reviews": [
+      {
+        "timestampMsec": "1371222291013",
+        "starRating": "4",
+        "title": "Above Average",
+        "comment": "Hi, This app has lots of news stories that can be filtered by category. Live stream. Video clips. A widget would be nice. Thanks. God bless. Aaron",
+        "commentId": "gp:AOqpTOH7yW_2twIfvimzq-gNyk93ervaF2W9mTDgR0L9649bwiGX1h02DYYkP3urjvXd3E_StSvbN4F5xI1-UYc",
+        "author": "Aaron Cavanaugh",
+        "authorURL": "http://lh4.googleusercontent.com/-KV98tO1O7qQ/AAAAAAAAAAI/AAAAAAAACxw/WOiT2uYeW4o/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-KV98tO1O7qQ/AAAAAAAAAAI/AAAAAAAACxw/WOiT2uYeW4o/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376731291670",
+        "starRating": "1",
+        "title": "Terrible",
+        "comment": "So bad it\\'s embarrassing. Commission, pay someone to do it right or don\\'t do it at all.",
+        "commentId": "gp:AOqpTOGJmgJMceaidYaGSuRy4sbbh8SoQHAsNEVoGg7O54Zy2Q5AAO7VsSWO9zcd7m-Xtqpi3p1w8xKjC7ZuZfE",
+        "author": "Michael Somers",
+        "authorURL": "http://lh3.googleusercontent.com/-kWR2BJ07fdI/AAAAAAAAAAI/AAAAAAAAAAo/wAnr4BWoArg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-kWR2BJ07fdI/AAAAAAAAAAI/AAAAAAAAAAo/wAnr4BWoArg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362955199706",
+        "starRating": "2",
+        "title": "Need for improvements",
+        "comment": "Good initiative but links do not work at all!",
+        "commentId": "gp:AOqpTOH866Rn6dW82OFjIm5HP55xClbkKw66_UgrrH9xDHxsc_UMakY-eXtn0PhP-JYwXpPvdORR7tUJEfmG0-M",
+        "author": "Dimitri Corpakis",
+        "authorURL": "http://lh3.googleusercontent.com/-A0z04iFhxys/AAAAAAAAAAI/AAAAAAAAAHU/3Z32IdnRO3Y/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-A0z04iFhxys/AAAAAAAAAAI/AAAAAAAAAHU/3Z32IdnRO3Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362761300845",
+        "starRating": "4",
+        "title": "Good first version",
+        "comment": "Would be much more useful with a search function.",
+        "commentId": "gp:AOqpTOE1ffUMqIiYRl9Z7QWUfjXdzM8nVsUsJhYK1tR42cRXBtpm1dQelDcN734mwZGNxw48-DBwUX_rhmEeiaA",
+        "author": "Spyros Papageorghiou",
+        "authorURL": "http://lh4.googleusercontent.com/-Mn9TNF-yjpQ/AAAAAAAAAAI/AAAAAAAAAHc/8KVlMyXqM18/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Mn9TNF-yjpQ/AAAAAAAAAAI/AAAAAAAAAHc/8KVlMyXqM18/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

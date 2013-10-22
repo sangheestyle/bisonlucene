@@ -1,0 +1,47 @@
+{
+  "title": "ETS Company",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_1dac8f4e35274a50a45aca481d87e325.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "January 22, 2013",
+  "version": "1.1.2.100",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "ETS Company",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_1dac8f4e35274a50a45aca481d87e325.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Since 1970Equipment Trade Service Co. Inc. has been providing Industrial CleaningMachinery, Chemicals and Supplies to Government, Transportation,Manufacturing, Construction, Contractors and Home Owners.Some of our products are: Pressure Washers, Waste Water Reclaim Equipment, Industrial Vacuums, Industrial Cleaning Chemicals, Wood & DeckRestoration Products, Graffiti Removal Products, and much more!Our rental fleet includes Steam cleaners, portable space heaters,complete trailer units, and accessories!We also offer road & shop service to repair most pressure washersand parts are available for ALL pressure washers!Our unique BULK DETERGENT DELIVERY PROGRAM is praised by our customerswho use our detergent products to save time & money over the useof Drums. See our Services page for more information.We are a member of CETA (Cleaning Equipment Trade Association | www.ceta.org),PWNA (Pressure Washers of North America | www.pwna.org) and PMTA (PennsylvaniaMotor Truck Assn. | www.pmta.org)Equipment Trade Service Co. Inc. 20 E. Winona Ave. Norwood, PA 19074 Ph: 610-583-7657 Fax: 610-583-5479",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_1dac8f4e35274a50a45aca481d87e325.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

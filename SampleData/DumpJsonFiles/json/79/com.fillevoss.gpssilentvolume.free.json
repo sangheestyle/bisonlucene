@@ -1,0 +1,68 @@
+{
+  "title": "VOLUME CONTROL GPS POSITION",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fillevoss.gpssilentvolume.free",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 13, 2013",
+  "version": "1.02",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Filip Voss Åkerström",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fillevoss.gpssilentvolume.free",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "This is a super useful and hi-tech app that allows you to add silent areas. For example your school, your work or your house. The phone will mute itself automatically when you enter that area - like magic! You can specify a lot of different settings such as position update rate, hours of the day to update, vibration, notification, volume when outside the areas and so on. You can add up to two silent areas at the moment (one in the free version). Once you've added your areas you'll recieve information about them such as how far away from them you are, and what address they're based on. The layout design is great and easy to understand but also cool looking. This app is perfect for those who want to automate and simplify their everyday life or thinks that turning on and of your volume everytime you move from one place to another is exhausting.I use this app myself on a daily basis - it mutes my phone automatically when i go to school and mutes the phone at night when i'm at home. It also turns on my phones volume if i'm not at school!Creating an app takes time and money, In order to keep creating great (and free!) apps, we are using a new search service to monetize our apps. With this service we are able to create more great apps for you guys. This option bundles a few search points (icon, bookmark and homepage) for you to use. You can erase these easily and with no effect to our app. Thanks!Keywords: gps silent area volume mute position hi-tech locationautomatic cool updates refresh network position location based utility",
+    "reviews": [
+      {
+        "timestampMsec": "1368724916123",
+        "starRating": "1",
+        "title": "Stayed installed for 10 seconds",
+        "comment": "Just long enough to see that they use that annoying advertising engine that takes over your phone. Thanks but no.",
+        "commentId": "gp:AOqpTOGnyZAssR01np5YpgBX9-fs_kcw1hC-Yv_cIZSHb3RkTekOdRVFWzATKWKeL2zzuDVTxBTUB88yZV2dog",
+        "author": "Don Kendrick",
+        "authorURL": "http://lh4.googleusercontent.com/-4s_yoPq481I/AAAAAAAAAAI/AAAAAAAAARA/Q5Kobw9udV8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-4s_yoPq481I/AAAAAAAAAAI/AAAAAAAAARA/Q5Kobw9udV8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375912082976",
+        "starRating": "5",
+        "title": "ok",
+        "comment": "it kills battery really fast and data even with low refresh rate and took forever to download...",
+        "commentId": "gp:AOqpTOHqNFSxD9oc3ul51tmt07R4gdVNQBVNSbA44ssCVpdQEXnv6P_uIcyYSdxTSv_wuMj--LlZ_yaHvGGJmA",
+        "author": "Mark Mark",
+        "authorURL": "http://lh4.googleusercontent.com/-ThQf2HHwaak/AAAAAAAAAAI/AAAAAAAAAGc/-nF6fuyhnjE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ThQf2HHwaak/AAAAAAAAAAI/AAAAAAAAAGc/-nF6fuyhnjE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.fillevoss.gpssilentvolume.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.READ_SETTINGS",
+      "com.motorola.dlauncher.permission.READ_SETTINGS",
+      "com.fede.launcher.permission.READ_SETTINGS",
+      "com.lge.launcher.permission.READ_SETTINGS",
+      "org.adw.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.INSTALL_SHORTCUT",
+      "com.motorola.dlauncher.permission.INSTALL_SHORTCUT",
+      "com.lge.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

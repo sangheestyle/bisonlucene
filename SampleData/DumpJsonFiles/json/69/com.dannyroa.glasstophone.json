@@ -1,0 +1,83 @@
+{
+  "title": "Glass To Phone",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dannyroa.glasstophone",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 4, 2013",
+  "version": "1.21",
+  "operatingSystems": "4.0.3 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Everyone",
+  "creator": "Danny Roa",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dannyroa.glasstophone",
+  "extendedInfo": {
+    "installSize": "974k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Send Photos from your Glass to your phone so you can easily share them to any app.",
+    "reviews": [
+      {
+        "timestampMsec": "1377379695903",
+        "starRating": "1",
+        "title": "Doesn\\'t loas",
+        "comment": "When it works its fine. But it has not worked in a week. Continually stops when trying to boot.",
+        "commentId": "gp:AOqpTOGl2s2nGi_kKVCBKcPBYCR-K_HLZUhwdQKVko30H5ojaK5EuoFyi_Mnwm7Zj_eCIouthGyaD1Rzzjvi660",
+        "author": "Gettysburg Gerry",
+        "authorURL": "http://lh6.googleusercontent.com/-XwRx_CEvO2M/AAAAAAAAAAI/AAAAAAAADsU/bH-q-ZbfoR8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-XwRx_CEvO2M/AAAAAAAAAAI/AAAAAAAADsU/bH-q-ZbfoR8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369686154060",
+        "starRating": "5",
+        "title": "Awesome app",
+        "comment": "Works great!",
+        "commentId": "gp:AOqpTOHzJr_kkBsvePVG9gd6EfKIsdJwpsEHZM5oFVeCq2kv3th8UZW8_QEbhkSDCPuEnmEWKdBPWgHiyQAlr7A",
+        "author": "Chris Arriola",
+        "authorURL": "http://lh3.googleusercontent.com/-ZxRIRdeV5kk/AAAAAAAAAAI/AAAAAAAAAd4/hT-GtiDlmsY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ZxRIRdeV5kk/AAAAAAAAAAI/AAAAAAAAAd4/hT-GtiDlmsY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369036677915",
+        "starRating": "5",
+        "title": "Basic Application but Works Perfectly!",
+        "comment": "Installed this on my Nexus 4 and Glass and it is working perfectly so far.  I have only tested it once with one image but everything is perfect.  Nothing to complain about :)",
+        "commentId": "gp:AOqpTOGzdJqYNT6tKK4r62guTAvQMufyfF1UUpbyhYrovBL5nhUNa6yS7ef-mEfZvCWxxoo-0Sdtfl7rqSx-xqA",
+        "author": "Justin Duino",
+        "authorURL": "http://lh6.googleusercontent.com/-gXOWMLscERI/AAAAAAAAAAI/AAAAAAAAQ5c/qjxiocxbljs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-gXOWMLscERI/AAAAAAAAAAI/AAAAAAAAQ5c/qjxiocxbljs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370757990859",
+        "starRating": "5",
+        "title": "Perfect companion app!",
+        "comment": "This is kind of a no-brainer.  Until glass gets more functionality, it makes sense to use your phone/tablet to edit photos.  Although I don\\'t know how you would even edit on glass.  Thanks for making this!",
+        "commentId": "gp:AOqpTOHwKHMpW8hjg4vVXs4LrVj07h1ZzSfAzq_qTPjoH_SMIHqn1QaXUS9xivAlZ9NhVyTeaZYCAAuzlKv5NjU",
+        "author": "Bryan Paijit",
+        "authorURL": "http://lh4.googleusercontent.com/-9KhgS0W4WBk/AAAAAAAAAAI/AAAAAAAAI0k/F6jFlVbrJ5s/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-9KhgS0W4WBk/AAAAAAAAAAI/AAAAAAAAI0k/F6jFlVbrJ5s/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369258031557",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Love this thing.",
+        "commentId": "gp:AOqpTOG79JIw4QUGfxlb0fVD648AoLSJmMI6NYBTkifhVE7d4fl1O8MXLy9g-zQE5pzn6ONEunfMX5CZ7S5pq1k",
+        "author": "brian griffey",
+        "authorURL": "http://lh6.googleusercontent.com/-OO5CpBBTQkk/AAAAAAAAAAI/AAAAAAAAGFE/P6_D8TLnSHk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-OO5CpBBTQkk/AAAAAAAAAAI/AAAAAAAAGFE/P6_D8TLnSHk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.NETWORK",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.dannyroa.glasstophone.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

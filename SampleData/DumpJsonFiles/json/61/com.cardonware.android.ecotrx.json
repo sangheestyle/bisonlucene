@@ -1,0 +1,54 @@
+{
+  "title": "ecoTRX Personalized MPG App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cardonware.android.ecotrx",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "July 24, 2013",
+  "version": "1.0.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "2.5",
+  "contentRating": "Low Maturity",
+  "creator": "AgaveApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cardonware.android.ecotrx",
+  "extendedInfo": {
+    "installSize": "175k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The ecoTRXâ¢ App is designed to help you achieve and report more personalized fuel economy levels.  ecoTRX combines your engine data (available on 1996 and later OBD-II equipped vehicles) with GPS location data,  NOAA weather data, and EPA vehicle data to provide personalized and context-aware MPG information during and after your trip. For example, ecoTRX senses when you are driving in city conditions and can report both your MPG and average miles between stops. When ecoTRX senses you are in highway conditions, it reports MPG and average highway speed,. ecoTRX can also report total trip fuel price in both modes. ecoTRX  harnesses the Android  Text To Speech (TTS ) engine to deliver this personalized MPG information in an audio format to help keep your eyes on the road. ecoTRX also lets you share and compare fuel economy information with other users of the EPA My MPG site.  Reports delivered through the ecoTRX app can provide more detailed fuel economy metrics that may be used in the future to help other consumers find MPG ratings which more closely match their conditions (i.e. similar A/C usage, mix, highway speeds, city miles per stop, and flat vs. hilly terrain).  COMPATIBILITY NOTES â ecoTRX for Android is compatible with versions 2.1 through 4.3. This initial version of ecoTRX supports gasoline engines with Mass Air Flow sensors and OBD-II connectors. The data connection requires an OBD-to-Bluetooth adapter (such as the two most popular models found on Amazon.com).  To take advantage of all ecoTRX features, the host Android phone needs a mobile network data connection and GPS.  If you are unsure whether your engine has a Mass Air Flow sensor, search on a comprehensive auto parts site like www.rockauto.com.ecoTRX KEY FEATURES:â¢ Real-time tracking of both trip city and trip highway MPGâ¢ MPG meter ranges customized to EPA ratings for your selected vehicleâ¢ Audio status updates at selectable intervals with context-specific information â i.e. city vs highway â¢ Tracks and displays/speaks MPG and two key metrics that affect fuel economy â Miles Per Stop and Average Highway Speedâ¢ Easy swipe interface for audio control while moving with automatic switching to visual display when stopped.â¢ Tracks and displays/speaks cumulative trip fuel cost based upon selectable fuel price per gallon.â¢ Trip list allows easy access and review of past trip fuel economy performance.â¢ Pushbutton âshare and compareâ MPG levels with other registered My MPG  usersâ¢ Delivers an extended set of MPG metrics for possible future use by car shoppers seeking more personalized MPG ratingsâ¢ Selectable thresholds for city vs. highway conditions, status report frequency,  and MPG accuracy",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1369251004133",
+        "starRating": "1",
+        "title": "dosent work",
+        "comment": "When program is started it goes to a compare car screen when back button is pressed it quickly go to the compare car screen again. I removed it",
+        "commentId": "gp:AOqpTOF426jrQC8BR23k_7SBPDD2ShDMI3DQ42NDIwLyLqnq4JByofDqIwUSpEBFIovQKIEQea_32Jz9W8onKA",
+        "author": "Walter Riehm",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377499458850",
+        "starRating": "4",
+        "title": "Does what it says",
+        "comment": "Loved the simplicity of the app. The gestures are nice and intuitive. The cost per trip is a nice touch, but it\\'s only as accurate as the price per gallon you put in.",
+        "commentId": "gp:AOqpTOG_aF9SSBML2_y4eR1HvncdB4F7EgJYb8B5VBaZzOs_L8GTcJw_R4xmHZsAjoUkdPOoiebhazr-hXWVGg",
+        "author": "Joel Bowers",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

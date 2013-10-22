@@ -1,0 +1,43 @@
+{
+  "title": "EMLab P&K LabServe™ Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emlab.labservem",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "EMLab P&K",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emlab.labservem",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The EMLab P&K app makes your work easier by giving you mobile access to your lab results anytime, anywhere. Now you can review your projects and reports as they are made available, browse EMLab P&K's fungal library and IAQ Pocket Reference Guide, and contact your Project Manager with the tap of the screen.Projects:â¢\tReceive instant alerts when your reports are availableâ¢\tSearch and access details of all your projects and reportsâ¢\tDownload and view reports on your mobile device*â¢\tConfirm requested services, turnaround times, and reporting due datesContact PM:â¢\tCall your EMLab P&K Project Manager (PM) with one touchâ¢\tE-mail your PM about a specific project, which automatically includes your project IDFungal Glossary:â¢\tAccess EMLab P&K's fungal glossary directly in the appâ¢\tSearch over 130 fungi with detailed information about eachIAQ Pocket Reference Guide:â¢\tAccess the EMLab P&K Pocket Guide directly in the app . â¢\tSampling and regulatory guidelines  â¢\tData interpretation guidelines  â¢\tMoldRangeâ¢ data, including typical outdoor spore levels by region and by time of year. â¢\tEnvironmental resource and contact information, and more.* An appropriate reader is required to view reports on your mobile deviceNOTE: E-mail customerservice@emlabpk.com with questions or suggestions for the EMLab P&K Android app.",
+    "reviews": [
+      {
+        "timestampMsec": "1377924078669",
+        "starRating": "5",
+        "title": "The perfect app for the field",
+        "comment": "This app has came in handle, time after time. Thank you so much for this guide.",
+        "commentId": "gp:AOqpTOGgWXmFUBQTLR1CoB2IFD1MvLGM8_LtxDD8S6FTQMSBqZ7FtwbPkCmRD2mV3GGhXdyHfIxgzg5LQfCQBKk",
+        "author": "Kari Holmer",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "com.emlab.labservem.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

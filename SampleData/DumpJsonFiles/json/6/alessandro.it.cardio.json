@@ -1,0 +1,61 @@
+{
+  "title": "Cardiac risk calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=alessandro.it.cardio",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "May 30, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "52",
+  "rating": "3.9615386",
+  "contentRating": "Everyone",
+  "creator": "TonicMinds",
+  "creatorURL": "https://play.google.com/store/apps/details?id=alessandro.it.cardio",
+  "extendedInfo": {
+    "installSize": "626k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Cardiac risk calculator is a very simple application which allows a cardiovascular risk calculation based on some user input parameters and the Framingham equation.It calculates the following outcomes:- Coronary heart disease (CHD)- Myocardial infarction- Stroke- Cardiovascular disease (CVD)- Death from coronary heart disease- Death from cardiovascular diseaseThis application has been provided with the hope that it will be useful, but without warranty, implied or explicit, of fitness for a particular purpose. The author will not accept responsibility for anything. No applications can be good as your medic.",
+    "reviews": [
+      {
+        "timestampMsec": "1326554864713",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Very helpfull",
+        "commentId": "lg:AOqpTOHonl2EZuSSCOOLHRK9ELEFsf9L8EuCUoWxKz7-R-lmpsycOENn3nNoNlSlvhzhkwriE89n2NFLKmkrMtY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1313206198825",
+        "starRating": "1",
+        "title": "cardiac risk calculator reverses male/female risks",
+        "comment": "Great little app except that the developer didn\\'t notice that the gender buttons are reversed. Eg: a 50 yr old non smoking, non diabetic MALE with a Bp of 120, a chol of 200 and an HDL of 50 with no LVH is given a 10 year total cardiovascular risk of 4.7%. The same stats for a FEMALE give a risk of 7.4%. It\\'s obviously REVERSED!!",
+        "commentId": "lg:AOqpTOFhHDPFAwErqW6lnSUfod919grtsg4DiCir1krPuz64nW-0XzkB-1DbJlZyhz_ql0RcWdVWr7BeRZ-b9Ts",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1313865100063",
+        "starRating": "5",
+        "comment": "As a doctor I am using this to satisfy my patients",
+        "commentId": "lg:AOqpTOH6uoBIv7OdYd-nyxTsV1E-Jnx43BomeZgg5J2FpvPFZLiQVcel4kYlFkZi1VxKwPAT7ZK32hJ4fR6HwfE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348350895664",
+        "starRating": "1",
+        "title": "Pathetic",
+        "comment": "WAste..",
+        "commentId": "lg:AOqpTOFQZ8Ku3DdMaomI4uVDFqi45G9cGW3z7_6Wg2YTaNA41OCBqtrZmqEHfvY3gYwBnKRrrXilayekwjqwwTM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

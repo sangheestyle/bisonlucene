@@ -1,0 +1,32 @@
+{
+  "title": "ECHECKIN SERVICES PRO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.echeckinservices.pro.activities",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "November 19, 2012",
+  "version": "1.1.2",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "ECHECKIN SERVICES",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.echeckinservices.pro.activities",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This application is part of the service ECHECKIN SERVICES, PROFESSIONAL version. It's a presence control service at points, both outdoors and indoors (without GPS), but it also adds advance features such as interaction with specific points. This way, the administrator of the service can communicate and interact with the workers when they do checkin at a point, and access all the information in real time, as well as generate and download reports about the activity of the workers in different formats.Time and attendance for workers at specific points (a particular hall, a basement, etc), any service of overhaul or maintenance, cleaning services, babysitting, home care, security patrols, or the activity of a doormen in a community are some of the sectors that are already using this service.The main advantage is cost savings, because from 20â¬/month* you can cut costs in:- Infrastructures, because you don't need any additional software, servers or complex PDA.- Installations and maintenance . The only installation you need is download the mobile application to your workers mobile phones, because administrator accesses via internet from any computer.- Human resources, because information about the tasks is always available automatically. Activity report instantly, without the need of entering services data and delivery notes manually.- Time in the generation of reports for your clients. You consult them and download them with a single click in different formats instantly.- Increase the productivity of your business, because worker interacts with the updated information at each point instantly and with a single click.* PROFESSIONAL plan from 20â¬/month for 10 devices and 100 control points. To extend limits, consult us.How does it work?---------------Through the service on the web, administrator user creates points where he wants to control the presence of someone, place them physically at the desired points - as stickers, plates or other formats-, add people to the service through their emails, and these, through the application, do check-in at his points. Administrator will have access to all the information through the service website.The points----------Administrator user creates the points. These can be NFC tags or QR codes. In both cases, within the application you manage both the generation (for QR Codes) and the programmation of the points (for NFC tags). Once created you just need to place them at the places you want.The workers----------------To add workers you just need to enlist them on the system and enter its email address. They'll receive an email with their password, a link to the download of the mobile application for their phone and instructions for use.Tasks and notes--------------Administrator can assigned, at each point, tasks to do and validation notes, which will be shown to the worker when he does checkin at the point.Reports--------Through the website, you'll have access to all the information in real time, as well as activity report by points and by worker, that you can download in different format with a single click.We want feedback to improve the service! Any little suggestions is very helpful for us. Don't hesitate to tell us.You can enter the web page to extend the information: http://www.echeckinservices.comWrite us on twitter: @echeckin_svcs #pro    or facebook: http://www.facebook.com/echeckinservicestags: nfc, qr code, presence, employees control, patrols, times, schedule, attendance, T&A, nanny, cleaning lady, domiciliary care, home care, cleaning, manteinance, doorman, control, surveillance, home care, elders, porter",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.NFC",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

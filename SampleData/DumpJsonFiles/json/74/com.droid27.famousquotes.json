@@ -1,0 +1,45 @@
+{
+  "title": "Famous Quotes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droid27.famousquotes",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "January 25, 2011",
+  "version": "1.00",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Droid27",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droid27.famousquotes",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Famous quotes is a free application that contains a database of nearly 2000 of the best quotes by famous people. The application features the following:- An easy to use interface (use the buttons on the bottom of the screen to browse through the quotes)- Possibility to view random quotes or move back and forth between them- A number of different colored backgrounds to chose from- Possibility to mark your favorite quotes and browse through them- Possibility to send any quote by email, SMS, or any other service available on your mobile phone- Works both in portrait and landscape modeThe application includes quotes by famous people such as actors, authors, poets, scientists, politicians and much more.",
+    "reviews": [
+      {
+        "timestampMsec": "1295994151226",
+        "starRating": "1",
+        "comment": "Great app, except that it needs GPS without possibility to disable it, and worse keeps GPS active when in background",
+        "commentId": "lg:AOqpTOEq2mQx477rRFcOt5zM7QFWLlZp4sPL1XedN7OS9BuivSa9Vlxa3el3F_0ahQz3klHKG2pi_yP6ITKrAg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1296022468004",
+        "starRating": "1",
+        "comment": "Another app ,,were arrow is next to adds,,,,hoping u accidently press the adds ,sadly ,,,,uninstalled,,!",
+        "commentId": "lg:AOqpTOFADtUWzQUKb-2h02l_E3EclXu7vww2OoylZVr28bwM8UbUJ2tPuWvRY6xD9TQDonRp2olAqWGtVwDkDA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

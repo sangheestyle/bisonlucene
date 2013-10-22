@@ -1,0 +1,38 @@
+{
+  "title": "Kearney Federal Credit Union",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.camsbycbs.android.ib.kearney",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "June 14, 2013",
+  "version": "1.2.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Kearney Federal Credit Union",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.camsbycbs.android.ib.kearney",
+  "extendedInfo": {
+    "installSize": "949k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Kearney Federal Credit Union - Mobile Account AccessExperience financial freedom through Mobile Account Access with Kearney Federal Credit Union.  We provide financial account management to allow you to maintain your account at your leisure from virtually anywhere.  Access your account on your mobile device and take your account with you when youâre on the go.Featuresâ¢\tAccount balancesâ¢\tATM locationsâ¢\tElectronic alertsâ¢\tMake loan paymentsâ¢\tTransaction historyâ¢\tTransfer fundsâ¢\tView account information",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.camsbycbs.android.ib.kearney.permission.C2D_MESSAGE",
+      "com.camsbycbs.android.ib.kearney.permission.MAPS_RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

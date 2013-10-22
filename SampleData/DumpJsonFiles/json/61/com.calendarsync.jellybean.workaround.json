@@ -1,0 +1,31 @@
+{
+  "title": "JB Workaround for CalendarSync",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.calendarsync.jellybean.workaround",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "September 27, 2012",
+  "version": "1.1",
+  "operatingSystems": "4.0.3 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "Calendar/Task/Contact Sync Mobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.calendarsync.jellybean.workaround",
+  "extendedInfo": {
+    "installSize": "357k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This app is a workaround for a bug introduced by Google at Android 4.1 (Codename: JellyBean). This bug will only affect you if you install my app from the Google Play Store and if you want to use CalendarSync to create custom calendars.If you are using Android 4.1 together with payed apps the bug mentioned above will automatically delete the user created calendars during the next startup. This is NOT a bug of CalendarSync itself and it affects all payed apps at the PlayStore. More details can be found here:http://code.google.com/p/android/issues/detail?id=34880Installing this app is a workaround (to apply the workaround you have to start this app at least once) because it is a free app which will not be affected by the problem and which then will provide the necessary account details for calendar creation so that you can create calendars with the main app CalendarSync without any issues.The purpose of this app is only to create the necessary accounts and to prevent the bug mentioned above. There is no other feature available here! You only will need this app if you are using CalendarSync together with JellyBean.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.WRITE_SYNC_SETTINGS"
+    ]
+  }
+}

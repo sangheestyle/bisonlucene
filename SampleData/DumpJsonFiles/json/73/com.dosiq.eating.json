@@ -1,0 +1,41 @@
+{
+  "title": "dosIQ Eating",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dosiq.eating",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "March 22, 2013",
+  "version": "2.0.27",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "dosIQ",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dosiq.eating",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "A simple way to record, share, and sort your eating. Share what your diet looks like with friends, family, or fellow dieters.This app is simple and pushes you to your default browser to browse other posts, comment, etc. Use the little \"expand\" icon in the top right corner to see updates, notifications, etc.We're working on a better experience!",
+    "reviews": [
+      {
+        "timestampMsec": "1370637674724",
+        "starRating": "2",
+        "title": "Didn\\'t exactly impress.",
+        "comment": "Thus app doesn\\'t bring anything new to the table. I was really excited to get this app after listening to the creator of this app talk about it on a podcast, but honestly it\\'s just not that impressive.",
+        "commentId": "gp:AOqpTOGBmzGnsmOVNyGHRz2zFWumz9SsXhhHeboBr-ngbF3nyF_hCLnIrYmbQhry9k6iYcN2gniIyUJZE-aixg",
+        "author": "Jordan Fessler",
+        "authorURL": "http://lh3.googleusercontent.com/-bvupXgxYugY/AAAAAAAAAAI/AAAAAAAAAAA/09H55_gbBF0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-bvupXgxYugY/AAAAAAAAAAI/AAAAAAAAAAA/09H55_gbBF0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

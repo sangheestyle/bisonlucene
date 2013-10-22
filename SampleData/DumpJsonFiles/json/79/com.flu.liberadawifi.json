@@ -1,0 +1,57 @@
+{
+  "title": "Liberad a WiFi Revolution",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flu.liberadawifi",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 8, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "224",
+  "rating": "3.4151785",
+  "contentRating": "Everyone",
+  "creator": "ma_morenoa",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flu.liberadawifi",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "LAW (Liberad A Wifi), es una aplicaciÃ³n para Android desarrollada por Miguel Ãngel Moreno, autor del curso \"Flu Project - IntroducciÃ³n al Desarrollo en Android\", que explota el famoso problema de las claves de generaciÃ³n por defecto de los routers de TelefÃ³nica y Jazztel. Si tienes un router con cifrado WPA de estas compaÃ±Ã­as os aconsejamos que la auditeis con esta herramienta.La herramienta tiene un uso muy sencillo, en la pantalla principal aparece una lista con todas las redes inalÃ¡mbricas disponibles. Si una red no es vulnerable, la aplicaciÃ³n muestra el mensaje âNOâ, pero si la red es vulnerable se muestra el mensaje 'YES'. Si se quiere obtener la clave de la red a auditar, se debe acceder a la red vulnerable y posteriormente copiar dicha clave y acceder a la administraciÃ³n de la red WiFi a travÃ©s de la opciÃ³n 'WiFi Settings'. Recordad que debÃ©is utilizar la herramienta para auditar y no para delinquir. Por otro lado, si encontrÃ¡is que vuestra red es vulnerable no dudÃ©is en cambiar la clave por defecto de vuestro router.Liberad a WiFi Revolution es un nuevo proyecto lanzado desde FluProject que nace a raÃ­z de la aplicaciÃ³n Liberad a Wifi. PrÃ³ximamente incorporaremos nuevos algoritmos que permitirÃ¡n auditar un mayor nÃºmero de redes WiFi.",
+    "reviews": [
+      {
+        "timestampMsec": "1362768818978",
+        "starRating": "1",
+        "title": "OTRA CAGADA MAS.",
+        "comment": "LOS GRAFICOS UNA MIERDA TOTAL Y ESTA APP SIRVE NADA MAS PARA PERDER TIEMPO. NO LA INSTALES.",
+        "commentId": "gp:AOqpTOFutAciERkW6IdmiZlZhZMt4JWtTNiZw8nr3uNZl-8tgwb2iiL29EuT84jULbLUEeXGsdg55DY3RqHMn7c",
+        "author": "Alejandro Bianchi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359704366025",
+        "starRating": "1",
+        "title": "Hate it",
+        "comment": "Nt working ... Ugh!",
+        "commentId": "gp:AOqpTOGCrt7GdkirFMi7DwNZp8RZwITHiPnxyJIbjEXgY2vbDQcqHhajBcrc6Hl_abwtNuiInxFTMwyC6cWuvIc",
+        "author": "Aya Mniemneh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373315902975",
+        "starRating": "1",
+        "comment": "Not working",
+        "commentId": "gp:AOqpTOHtcUErq92k7u8YRm4XZLFJvUyHa9ZeCum-mX-GmAulIcmRVRcpR_QKOeTn7LrQJHZ2lanClXVpdY4ocCI",
+        "author": "Laszlo Demeter",
+        "authorURL": "http://lh6.googleusercontent.com/-OYQd8hjRqR8/AAAAAAAAAAI/AAAAAAAAAdw/TXat3_lfM44/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-OYQd8hjRqR8/AAAAAAAAAAI/AAAAAAAAAdw/TXat3_lfM44/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "15th National Family Law",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.invisage_fl2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 11, 2012",
+  "version": "3.3.5",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.invisage_fl2012",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The National Family Law Conference, being held from 14-17 October 2012, is one of Australiaâs largest and most prestigious legal professional development events. It is attended by hundreds of specialist family law barristers and solicitors who take back to their firms and chambers the knowledge and experiences that accrue during 3 days of concentrated sessions and meetings. In addition the conference attracts judicial officers and senior staff from Australiaâs family courts, representatives of important non government organisations, and key personnel from federal government agencies and departments.NOTE: The 15th National Family Law Conference Mobile App is for attendees of the 15th National Family Law Conference only. Login information will be provided by Family Law.",
+    "reviews": [
+      {
+        "documentVersion": "3.3.5",
+        "timestampMsec": "1350130234237",
+        "starRating": "3",
+        "title": "Buggy but good idea",
+        "comment": "Not really working on sgs3.",
+        "commentId": "lg:AOqpTOG5KYUsVWLC6-E8muE5VAoVFezbGymu_qkO2xplTrtr40_BR4x3o3r2L5KZeCv5qN4mzgtxK20q3Ku3b4A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

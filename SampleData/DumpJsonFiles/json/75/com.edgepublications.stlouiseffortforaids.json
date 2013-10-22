@@ -1,0 +1,36 @@
+{
+  "title": "Saint Louis Effort For AIDS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edgepublications.stlouiseffortforaids",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "July 11, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "EDGE Publications Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edgepublications.stlouiseffortforaids",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "Welcome to the official mobile app for Saint Louis Effort For AIDS! This app is a joint development of EDGE Media Network and Saint Louis Effort For AIDS.Features for Android- News :: Stay connected with Saint Louis Effort for AIDS and the LGBT community through the news component. Featuring stories about your health as well as the latest headlines about the LGBT community and relevant events, you have everything you need to stay up-to-date with the most current news stories and happenings.- Events :: Keep up to date with the Saint Louis Effort for AIDS calendar of events. With the \"add to your calendar\" feature, you'll never miss a beat..- Sponsors :: We love our sponsors - so should you! Get information on the organizations that make Saint Louis Effort for AIDS possible.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.edgepublications.stlouiseffortforaids.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

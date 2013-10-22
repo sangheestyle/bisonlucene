@@ -1,0 +1,51 @@
+{
+  "title": "Photo Editor for Instagram Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.colorfxpro.android",
+  "category": "Photography",
+  "price": "$0.99",
+  "datePublished": "June 2, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Pavan Kumar Reddy. D",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.colorfxpro.android",
+  "extendedInfo": {
+    "installSize": "4.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "It's an awesome photo editing app.Supports below:1) Awesome photo effects2) Bokeh effects3) Space Effects4) Frames.This is an Ad Free version for \"Photo Editor for Instagram\".",
+    "reviews": [
+      {
+        "timestampMsec": "1372094982393",
+        "starRating": "5",
+        "title": "Sweet",
+        "comment": "Very nice app. Works well.  Nice effects and overlays.  Well worth the money.  Hope pavan will add more bokeh choices in an update.  Nice developer.",
+        "commentId": "gp:AOqpTOEwRMCTYj4C_lomhsXfwVx9p8FM49pYBuDBfkK0OdtU8YHyrtyLSkWqXPILNw2YZuWudl6tMZKkEFzi0A",
+        "author": "Toni Cz",
+        "authorURL": "http://lh3.googleusercontent.com/-X7G25egdIN4/AAAAAAAAAAI/AAAAAAAAAEE/urG8KPfbeYc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-X7G25egdIN4/AAAAAAAAAAI/AAAAAAAAAEE/urG8KPfbeYc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372629080590",
+        "starRating": "1",
+        "title": "Terrible",
+        "comment": "App keeps crashing when I try to add any fx on it",
+        "commentId": "gp:AOqpTOHQxxaIDlUJZMCfFySG2h4sPguygiMn_JcGP-ApXCur96HZrZmhhhAt4QLBq98vjRTufQaA2eIO381Kfw",
+        "author": "Andy Urvakis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "FCB Banks - First County Bank",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.firstcountybank.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.firstcountybank.mobile",
+  "extendedInfo": {
+    "installSize": "612k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Available to customers of First County Bank, FCB Banks. Mobile Banking is a free mobile banking app that provides secure, 24/7 account access.With Mobile Banking youâll be able to:*Check your account balances*View recent transactions*Pay bills*Transfer money between your accounts*Find ATMs and locationsUtilize this app if you opened your account at one of the following locations:FCB SwanseaFCB New BadenFCB AlbersFCB O'FallonFCB TrentonKeywords: FCB, Swansea, New Baden, Albers, O'Fallon, OFallon, Trenton, Mobile, Bank, Banking, County, First",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

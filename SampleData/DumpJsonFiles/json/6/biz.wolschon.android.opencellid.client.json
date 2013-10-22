@@ -1,0 +1,58 @@
+{
+  "title": "OpenCellID Client",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=biz.wolschon.android.opencellid.client",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "April 15, 2011",
+  "version": "1.1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "33",
+  "rating": "3.3939395",
+  "contentRating": "Low Maturity",
+  "creator": "Marcus Wolschon",
+  "creatorURL": "https://play.google.com/store/apps/details?id=biz.wolschon.android.opencellid.client",
+  "extendedInfo": {
+    "installSize": "332k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Client to collect locations of GSM cellphone -cells and upload them to opencellid.org.Also features a nice Map of the cells collected using either Google Maps or OpenStreetMap.YOU NEED TO HAVE A GPS FIX AND MOVE AFTER STARTING THE RECORDING FOR ANYTHING TO BE VISIBLE AT ALL.BUG REPORTS AND FEATURE REQUESTS VIA EMAIL INSTEAD OF COMMENT PLEASE.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.2",
+        "timestampMsec": "1306142605318",
+        "starRating": "1",
+        "comment": "Doesn\\'t pick up any cells.",
+        "commentId": "lg:AOqpTOHt9hk5tEJlznkJUc-EQ3KkDODamejhvdPcYOdnpHLypccHauJoL_95DxnDFFJh_t7gbsMTNxI0KDimWNM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.2",
+        "timestampMsec": "1311087278555",
+        "starRating": "1",
+        "title": "No cell towers detected.",
+        "comment": "This is a great idea, we really need to crowdsource a real map of our cellular coverage, but this app does not do anything. I\\'ll keep checking in on this, but it is not working at this point.",
+        "commentId": "lg:AOqpTOGQ9yw0RWP30gO5sbDx1oruZWIqgeXAF0AgSx--zDUZrj1fxPU4XQP6m3RdT_0YWMoJh0bPlmtaC-Qo7qM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1292388489645",
+        "starRating": "1",
+        "comment": "Doesn\\'t work",
+        "commentId": "lg:AOqpTOERyrh-mkrAwhv8BSq-eMzIp4owSBvPlm8_JUvsx0v5_2BX5K0UvG36LaiPZ3_a8bpxxN_JtkMJdnjtUzQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

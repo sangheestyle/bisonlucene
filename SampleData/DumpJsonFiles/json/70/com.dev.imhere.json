@@ -1,0 +1,41 @@
+{
+  "title": "StreetView Im Here",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dev.imhere",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "April 27, 2012",
+  "version": "1.0.4",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "20",
+  "rating": "4.05",
+  "contentRating": "Low Maturity",
+  "creator": "App Lab",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dev.imhere",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Now with Facebook and Twitter upload of Screenshots of Google StreetViews and Maps plus your tagged geolocated pics.Plus directions on foot/car/bike/public transport displayed as text or on maps.NOTE- Developed & tested on a Samsung S2 & HTC Hero. So I don't know how it performs on other phones.Display/resize/move your own pictures around in StreetView then share your tagged Gps positioned pictures on Google StreetView and Google Maps with others by MMS,E-MAIL or upload to FACEBOOK and TWITTER.Plus go from Pin to Pin and see the distances.Track your position, distances and tagged pictures with GPS and instantly share them.Map + Compass.Use predefined tags on map - \"Here I Am\", or create your own.Add comments to your pictures to be displayed on StreetView/ Map then share with others.Full search facility plus locate by latitude and longitude.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1282397868979",
+        "starRating": "1",
+        "comment": "Will not open on HTC inc.",
+        "commentId": "lg:AOqpTOG53PrrDnmVMmM5FCztIvPgkDEOtUumzkq8lrqe3XKs4TMX5H943DoVsPGYoE0JK4Fw3K6alL6TB8ry2dg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

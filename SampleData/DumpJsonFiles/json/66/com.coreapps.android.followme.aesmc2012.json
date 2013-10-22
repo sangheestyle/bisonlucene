@@ -1,0 +1,69 @@
+{
+  "title": "AES Mobile Convention 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aesmc2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 19, 2012",
+  "version": "3.6.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aesmc2012",
+  "extendedInfo": {
+    "installSize": "7.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "For over 60 years, the Audio Engineering Society has been the largest gathering of audio professionals and enthusiasts on the globe, attracting delegates from over 100 countries worldwide. Workshops, tutorials, technical papers and the exhibition floor provide attendees with a wealth of learning, networking and business opportunities. By using our \"AES Mobile Convention\" app you can easily plan how to spend your weekend in San Francisco so that you can listen to the latest gear, learn from industry leaders, and connect with new and old friends in the pro audio industry.",
+    "reviews": [
+      {
+        "documentVersion": "3.6.7",
+        "timestampMsec": "1351220945456",
+        "starRating": "4",
+        "title": "Well done",
+        "comment": "Allowed me to quickly star possible events and organized on the calendar. Enjoyed the Twitter list display too. Thanks.",
+        "commentId": "lg:AOqpTOHVRf73kzlbOBnxCWJsR9wg_Sihm_XZZQjoI3KprxJSncPGWq5FvgGogV5MJAhOLT1DTFouIhi2D_tXLg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346193604136",
+        "starRating": "5",
+        "title": "Gr8!",
+        "comment": "Works as advertised. This was an excellent idea as so many things are going on here & this handy little app will be making all the difference in the world! Very clever, hope you do this for future shows too.",
+        "commentId": "lg:AOqpTOHw9Z7H1mcM7T1kAyTips5a1Su3c3IrWFCBdFWD-NPlBYDrdnEb0B987s9bkyMjlYpVGqxiejIImOcT7Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.aesmc2012.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

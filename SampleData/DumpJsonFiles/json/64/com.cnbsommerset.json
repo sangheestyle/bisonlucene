@@ -1,0 +1,78 @@
+{
+  "title": "Citizens National Bank 24/7",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cnbsommerset",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 3, 2013",
+  "version": "2.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "10",
+  "rating": "4.6",
+  "contentRating": "Low Maturity",
+  "creator": "Citizens National Bank - Somerset KY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cnbsommerset",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "CNB247 Mobile Banking by Citizens National Bank of Somerset (Kentucky) allows you to bank on the go. Itâs free to download and offers quick access for managing your bank accounts. Check your balances, pay bills, view cleared images, transfer money, and locate ATMs and banking centers with just a touch. Our native app is fast, secure and free. Use your current login information to start banking today.Features:â¢Check Account Balancesâ¢Transfer funds between accountsâ¢Pay Bills**â¢Find our ATMs and Banking Centers using the GPS system provided by your Android.****Must be an Online Banking Customer**Online customers must first setup transfer and bill pay accounts prior to using these features.***This is limited to locating our banking centers and ATMs. Please refer to your carrier for any fees that may apply.Bank HeadquartersCitizens National Bank located in Somerset Kentucky44 Public SquareSomerset Kentucky606-679-6341",
+    "reviews": [
+      {
+        "timestampMsec": "1331949683056",
+        "starRating": "4",
+        "title": "Can\\'t give 5 stars yet",
+        "comment": "Great app just hate how I have to login from computer to update my email. I\\'ve had the same email for 8 years",
+        "commentId": "lg:AOqpTOEDIUmq32FeeBlteGES89n2PbhAWAHcdYDCbIcvslij08vK84zjYm_rX-uCiFmNfqz7-cQVV52w21P20v4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1328593327499",
+        "starRating": "5",
+        "title": "So far so good!",
+        "comment": "I think they made the right decision to create an android app even for a small corporation. Way to go!",
+        "commentId": "lg:AOqpTOEoElTFqX-t2ho-oph3pHAOUmMf6g6m-6Njy_JS54RsBdvDmDI66F6hfLYruNus5l_vpemHibUfo8veLfI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316864660363",
+        "starRating": "5",
+        "title": "CNB mobile",
+        "comment": "Great app. Would strongly recommend getting it!",
+        "commentId": "lg:AOqpTOHF4ueHPN464XPgyW-fUFRP140G8ViaN0VoDgMG9b9YVC_o3-7nFkkN_cr0AxETlxwquq-yC97p2c23EMo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316639421580",
+        "starRating": "5",
+        "title": "A must have....",
+        "comment": "Excellent app. Easy to use. Highly Recommend!!!!",
+        "commentId": "lg:AOqpTOETzVtzI6xVkQN2sx5QtloDNrHlMtlbDsiHRQtaxyd4QCG1ef7gMxaqWDJbrdzOf-AUH6dosuMpoVgEKsk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317955856469",
+        "starRating": "5",
+        "title": "Amazing!",
+        "comment": "I have been banking with CNB my whole life. They truly do care about the community and their customers and this is just another tool that proves that!",
+        "commentId": "lg:AOqpTOEOaRFFZhhKI0lxd0-Tp1y7nXFI9U7C9RoEpV7SrKXvWm0hO--MnUL784zB1uUE2MqMlYeF-PUHDjBgsq0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.meafinancial.android.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.CAMERA"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "eGPS Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.egpsapp.egpslite",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 17, 2012",
+  "version": "2.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "28",
+  "rating": "4.821429",
+  "contentRating": "Low Maturity",
+  "creator": "Exetik Systems",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.egpsapp.egpslite",
+  "extendedInfo": {
+    "installSize": "254k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "eGPSlite is an innovative new GPS app for Android devices. It has full GPS capabilities, showing latitude and longitude, altitude, speed, and heading. This makes it useful for all kinds of activities where you would usually want a GPS device - hiking, cycling, geocaching and letterboxing, running, location-based social networking activities, and more. In addition, it has the remarkable new feature of showing the exact street address of your current location. Through ground-breaking research and development that integrates GPS location with advanced map technologies, the eGPSlite app can find addresses with extremely high accuracy. The address displayed includes the street number and name, city, state and zip code. When could you use the current address feature? There are dozens of possibilities: -In a strange city, you visit a restaurant, bar, or attraction you like. The current address feature will let you identify where you are and save it for future reference. -If you are visiting a place where you don't know the exact address but you want to direct a friend there, you can pull up the current address in eGPS Lite to provide them the correct location for use in their own GPS devices or mapping program -If you are on the road and drive past an interesting location, eGPSlite can give you the exact address so you can look it up later. -While driving, if you are looking for an address on a long street, the address feature can show your current address and position so you know how many blocks or doors ahead you must continue toward your destination. -Often times, storefronts or offices on a city block will not show their street address on the door. With eGPSlite, you can find the exact street address of the place you are standing and use it to direct yourself to the right entrance. -If you are house hunting, pub crawling, or hopping between open houses, it can be hard to keep track of where you are. Instead of needing to go outside and look at the address, you can use the address feature on your phone to remind yourself of which address you are visiting. -If you are traveling or on a road trip, the address feature can help you discover which town you are visiting by providing the exact address. -If you are trying to get directions from someone over the phone when you are in a strange place, the address feature will let you tell them exactly from where you are starting. -Even if you know the exact address of the place you are visiting, you might not know the zip code. This may be needed if you want something shipped there, if you are looking up local establishments, or for other local information. Just click on the app to get your exact location, and it will provide the zip code for you. -If you are an avid reviewer or blogger online, marking addresses found with this feature will let you keep an inventory of places you've been so that you can look them up again when you are ready to write about them. Once you have access to constant, accurate address information, there is no end to the uses you will find for it. This feature sets eGPS Lite apart from other GPS app competition.",
+    "reviews": [
+      {
+        "timestampMsec": "1363046559671",
+        "starRating": "5",
+        "title": "Works",
+        "comment": "I\\'m happy with this app. It does exactly what it says it can.  I can\\'t ask for anything more.",
+        "commentId": "gp:AOqpTOE9reqmMkuHoq01-mCJJ9a29-etfP73BpccXA94zcucZ0m-9rh4omf3See3ZHW24SbBxGeFhw_GV41C",
+        "author": "Abrar Ahmad",
+        "authorURL": "http://lh3.googleusercontent.com/-wsYpKhnKtds/AAAAAAAAAAI/AAAAAAAAAMU/GBFioDrYsGA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-wsYpKhnKtds/AAAAAAAAAAI/AAAAAAAAAMU/GBFioDrYsGA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1349614598933",
+        "starRating": "1",
+        "title": "Not  so effective",
+        "comment": "Doesnt load at all.",
+        "commentId": "lg:AOqpTOEHXpMm7YqX-eLJ9hX6UzxJ_YQh9bwPl-iJZ9Iv1TY8cgAjHRAlIg5EjoMz-7zk_aIPl247t2tyHRCa",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

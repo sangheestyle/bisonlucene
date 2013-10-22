@@ -1,0 +1,37 @@
+{
+  "title": "Patient Referral",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.celtichealthcare.patientreferral",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "February 26, 2013",
+  "version": "1.01.010",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Celtic Healthcare Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.celtichealthcare.patientreferral",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "A quick and easy way to refer homecare and hospice patients with Celtic Healthcareâs iPhone app.  Enter basic patient information, and our customer service team will follow up to coordinate and transition the care your patient needs.Additional resources allow you to assess hospice eligibility criteria, call us with the touch of a button, view our website, or contact us for any of your home healthcare needs.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

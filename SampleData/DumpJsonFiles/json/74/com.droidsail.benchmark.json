@@ -1,0 +1,53 @@
+{
+  "title": "DroidSail Display Expert(Lite)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidsail.benchmark",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 28, 2013",
+  "version": "3.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "56",
+  "rating": "4.428571",
+  "contentRating": "Everyone",
+  "creator": "Droidsail",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidsail.benchmark",
+  "extendedInfo": {
+    "installSize": "425k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "DroidSail Display Expert (Lite)(More functions are available in pro version, which added Polarity inversion, Response time, Noise, Photo(copyrighted) test, and screen filter.)This is a professional display/screen test tool for Android devices. It has:1. Multi touch: Test max touch points supported by device;2. Solid color: red, green, blue, magenta, cyan, white, black, and it supports scrolling to adjust color values;3. Gray level: 8 levels, 16 levels, 32 levels, 64 levels, 256 levels, red, green, blue gradient (16 levels, 32 levels, 256 levels), and it supports pattern scrolling and scaling; 4. Contrast ratio: white cube, black cube, white/black(Left/Right, Top/Bottom), white/black bar (legacy), horizontal scrolling to adjust backlight for dynamic contrast ratio test;5. Colorbar: VGA full range colorbar, ITU.R BT.601 colorbar (100%, 75%), ITU.R BT.709 color bar (100%, 75%), SMPTE colorbar, SMPTE HD colorbar;6. Geometry: grid+cycles (white, red, green, blue), rect board, rect+cross, cross, cycle, Rect+cycle, rect+X, grid;7. Dot/Line: dot interlace, dot by space, line by space, color line by space; 8. ChessBoard: chess board test pattern (including 8x8, 16x16, 32x32, 64x64, 128x128, custom size chess board);9. View angle: Test horizontal/vertical viewing angle of display;10. Gamma: Camma test pattern can be used to evaluate gamma value of display, including white, red, green, blue gamma test;",
+    "reviews": [
+      {
+        "timestampMsec": "1369989492733",
+        "starRating": "5",
+        "title": "Comprehensive",
+        "comment": "With many patterns plus a touch test, this lacks only the old degauss from the past cathode tubes :)",
+        "commentId": "gp:AOqpTOEYsYyj5O_-hyCfKkWLP8WSsa9t3SmU8gP9g42-DOJ-IYvvkYfz9RX8uNxFJhpNuP9WHMl4UX3XWLre-xo",
+        "author": "Daniel Camargo",
+        "authorURL": "http://lh4.googleusercontent.com/-zgJA-IyQ5oc/AAAAAAAAAAI/AAAAAAAAACg/guu0BvukHA0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-zgJA-IyQ5oc/AAAAAAAAAAI/AAAAAAAAACg/guu0BvukHA0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373808616653",
+        "starRating": "2",
+        "comment": "Seems to hog battery",
+        "commentId": "gp:AOqpTOFQgdEhAArwVp4rENzn79-mnrDWKmP8_sFx9hIoIjWsGH2ApECw1PGPFy5f7FN4KrNNpfJ551WszNpTPms",
+        "author": "Thomas Rutter",
+        "authorURL": "http://lh3.googleusercontent.com/-cJlF9rBxg8E/AAAAAAAAAAI/AAAAAAAABd4/gy55PY50a1o/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-cJlF9rBxg8E/AAAAAAAAAAI/AAAAAAAABd4/gy55PY50a1o/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

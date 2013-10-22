@@ -1,0 +1,45 @@
+{
+  "title": "Easy Recipes from Scratch",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.easyrecipesfromscratch.easyrecipes",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "October 16, 2012",
+  "version": "1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Two Green Onions Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.easyrecipesfromscratch.easyrecipes",
+  "extendedInfo": {
+    "installSize": "9.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Easy Recipes from Scratch is a cookbook series featuring healthy recipes that can easily be made at home from scratch. Our goal is to use as many natural, home-cooked ingredients as we can for maximum health benefits. Not only is food made from scratch much healthierâsince we can control exactly what goes into itâ but homemade cooking has an energy or spirit to it, imparted by the love and attention of the cook, that can never be bottled or packaged in a manufacturing plant. Ever!This app features recipes from our best-selling cookbooks, videos, and a link to our podcast feed which we update weekly with new seasonal video recipes. Games, too! So go ahead, play with your food!Send us your recipe requests. Chosen recipes will be featured on our podcast!Find more at http://www.easyrecipesfromscratch.com.",
+    "reviews": [
+      {
+        "timestampMsec": "1350417836386",
+        "starRating": "5",
+        "title": "Easy recipes from scratch really is easy!!",
+        "comment": "This app is easy to navigate, and the recipes are easy to follow. The timing is excellent for the pumpkin recipe, can\\'t wait to try it out! The videos were very helpful, and the games were amusing. Impatiently waiting for the next recipes to come out!",
+        "commentId": "lg:AOqpTOHyUVK9wcBlsrWrdEYvZNRgiOi9r186kacnpcZOD1uOYPRRIlCkGcvV3CFf3JmYBLkaxxLdpHibCtOrFso",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CAMERA",
+      "com.android.vending.CHECK_LICENSE",
+      "com.easyrecipesfromscratch.easyrecipes.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

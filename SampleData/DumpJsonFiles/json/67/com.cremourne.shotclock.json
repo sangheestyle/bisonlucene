@@ -1,0 +1,45 @@
+{
+  "title": "Shot Clock - Drink Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cremourne.shotclock",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 17, 2013",
+  "version": "1.21",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "High Maturity",
+  "creator": "Cremourne",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cremourne.shotclock",
+  "extendedInfo": {
+    "installSize": "255k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Shot clock is a drink counter and blood alcohol concentration calculator (BAC). Count your drinks and get an estimate of your blood alcohol concentration. Shot Clock is highly configurable and can help you keep track of your drinking.  Track beer, and wine, or your own custom drinks.Hit a drink button every time you start drinking and Shot Clock will show an estimate of your blood alcohol level as it rises and then falls back to zero.  The BAC is color coded to show when it thinks you're over the legal limit.Using your body weight and the amount of alcohol you have consumed over a given time period Shot Clock can calculate the estimated percentage of alcohol contained within your system.  The application is completely configurable allowing you to set your sex, weight, specify the types of drinks you are consuming, set your local legal limits and standard drink sizes to provide your BAC from any beer, wine or spirits you might consume.This application is for entertainment purposes and only provides an estimate of your blood alcohol level.  The actual BAC may vary from person to person and also with other conditions such as health.  Shot clock is not a breathalyzer or breath tester. For accurate results use specialised blood alcohol testing equipment.",
+    "reviews": [
+      {
+        "timestampMsec": "1367702987631",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "So much better than all the other counters I searched for. Starts a timer and tells you over time hoe drunk you are. Is also very specific because you can tell it what exactly you\\'re drinking. Great app.",
+        "commentId": "gp:AOqpTOGC-N1br3HhOtsX4NyWIfnoVydc5weKSQuPfw1O1W-6qR9u70wnexUL0UBNS7S4zhO4suLyM8KbS-zDMg",
+        "author": "Tony Vieira",
+        "authorURL": "http://lh5.googleusercontent.com/-OAImzD0-Sx8/AAAAAAAAAAI/AAAAAAAAAC8/0AUMIOwKMko/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-OAImzD0-Sx8/AAAAAAAAAAI/AAAAAAAAAC8/0AUMIOwKMko/photo.jpg"
+      },
+      {
+        "timestampMsec": "1356437491730",
+        "starRating": "5",
+        "comment": "Sexual",
+        "commentId": "gp:AOqpTOGMlT6RUunWJf6_lN2WaEiPv5lESmeTXJ5w8a6OFyzdz8Ku9IgLm2spum0qlQ_30SeObqJuUtylsb_MaA",
+        "author": "Galain Williams",
+        "authorURL": "http://lh4.googleusercontent.com/-mnCMEkSIjc8/AAAAAAAAAAI/AAAAAAAAADo/C6SB7slgMhE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-mnCMEkSIjc8/AAAAAAAAAAI/AAAAAAAAADo/C6SB7slgMhE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

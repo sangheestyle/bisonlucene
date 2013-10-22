@@ -1,0 +1,32 @@
+{
+  "title": "Side Dish Recipes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cayerre.recipes_side_dish",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "April 27, 2013",
+  "version": "1.1.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "Androidy",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cayerre.recipes_side_dish",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "It's easy to find side dish recipes for you.Side Dish Recipes cookbook includes lots of delicious side dish recipes.Simple interface provides you search and filtering by cooking ingredients and any keywords.You can save any dish recipe you like in favorites recipes list.Some built-in kitchen tools such as timer and volume converter will help cooking.Cook with pleasure! Also check 4000 Recipes of Main Dish cookbook.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

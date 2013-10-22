@@ -1,0 +1,43 @@
+{
+  "title": "Field A Team Coach",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fieldateam.coach",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "September 7, 2013",
+  "version": "1.0.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "CleverStep",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fieldateam.coach",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Coach a Team? Have team phone numbers, emails, logs, rosters and etc... on your PC, Phone, iPad? Maybe scribbled on a piece of paper? This app let's you coach your team and access EVERYTHING in one spot. Your team may or may not win the championship, but you'll be the MOST organized coach in the league. Especially since, you're probably coaching the team while trying to maintain your regular job.Coaching your team or group has become a lot EASIER! Field A Team Coach is your assistant coach in your pocket. Field A Team Coach edition is an easy to use app that allows you to manage all aspects of your team or group. You can manager your team's roster, schedules, emails and etc... directly in the app or coach's website at www.FieldATeam.com With Field A Team Coach edition you can do the following:APP FEATURES:* Team Management* Create multiple teams and rosters for any sport or event* Manage team game and practice schedules* Bulk upload team data from our website www.FieldATeam.com to speed data entry* Input field locations for fans to get turn by turn directions to the game / practice* Automate game/practice notifications to parents and players* Schedule game reminders to opposing coaches* Manage team communications from a set of pre-defined templates* Create Administrative coaches who can change team data. Other coaches are read only.* Enter game notes to capture thoughts on game and team strategies* Control viewing of fan MVP voting polls* Invite opposing coaches to join your league and share team data* Roll forward team to the next season without re-entering team data* Sports ManagementAlso check out \"Field A Team Fan\" for the parents on your team to have access as well.",
+    "reviews": [
+      {
+        "timestampMsec": "1361919777641",
+        "starRating": "5",
+        "title": "A must have for every coach",
+        "comment": "I use this app to keep all my players and parents up to date on game and practice schedules. Works great with the Fan app.",
+        "commentId": "gp:AOqpTOFKWX32UiSLd8JVV9kf4Xbb0hJJsTb2I4vfW-jbUUgpWRleZDo9TEW82lIMi5o5G81XYVS-no7m51A0kg",
+        "author": "Stan Guzik",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

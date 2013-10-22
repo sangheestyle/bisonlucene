@@ -1,0 +1,39 @@
+{
+  "title": "The Nation Nigeria",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wTheNationNigeria",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "October 30, 2011",
+  "version": "0.21.13200.35430",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "DeeBaba",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wTheNationNigeria",
+  "extendedInfo": {
+    "installSize": "113k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This is one of the best and authoritative daily newspapers from Nigeria. It is publish in Lagos, Nigeria. If you need up to date information about Nigeria politics and events, this app is a must for you.",
+    "reviews": [
+      {
+        "documentVersion": "1.13200.35430",
+        "timestampMsec": "1320941319741",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "This app is solid!",
+        "commentId": "lg:AOqpTOE6uGFejgUG5NmFjwwtVbB4DssAWJoBZYG1C5_vZLxpUutXrXBlt_74MmhtxJIWB74vO3-jSiLvbac99yM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wTheNationNigeria.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

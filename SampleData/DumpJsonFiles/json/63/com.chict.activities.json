@@ -1,0 +1,44 @@
+{
+  "title": "TU/e Student app",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chict.activities",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 24, 2012",
+  "version": "1.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "14",
+  "rating": "4.071429",
+  "contentRating": "Low Maturity",
+  "creator": "Claessen Hermkens ICT",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chict.activities",
+  "extendedInfo": {
+    "installSize": "440k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Are you standing somewhere in the city, you want to go home but are completely lost? You donât know where to find the best parties? Are you curious to see how busy the party is? You would like to cancel that appointment with a professor? Do you want to be up to date whatâs happening at your associations? Have you lost your introkid, introdad/mom? Did you photograph that one unique moment? The TU/e student app is the solution ton all these problems! Youâre able to find important locations on maps, the quickest route home,  arrange a place to crash during the introduction week and find your introkids or parents when you lost them. Not only that, youâre also completely up to date with all the news regarding the TU/e and its associations, you have easy access to the TU directory for phone numbers and email addresses, and youâre able to upload your best party pics and share it with all other app users. This is the perfect student app with quick and easy access to all important information for students in Eindhoven!",
+    "reviews": [
+      {
+        "timestampMsec": "1345409263991",
+        "starRating": "2",
+        "title": "Papa vinden werkt  maarhalf",
+        "comment": "Leuk idee, maar het vinden van een papa of mama werkt niet goed. Bij veel telefoons word een locatie weergegeven die er honderden meters naast zit, of die geven niet eens een locatie. Bellen waar je papa of mama zit werkt beter.",
+        "commentId": "lg:AOqpTOFK21anSuiRi4P5i7tUEmVfUh7vAcIEEVX6ce5D4ulsMCSmOMxEkYj1oexLSBb5RuBMk8uptKhpTS0BC4U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "com.chict.activities.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

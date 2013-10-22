@@ -1,0 +1,37 @@
+{
+  "title": "Eva Mendes Private",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emakbaba.evamendes",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "July 24, 2013",
+  "version": "2.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "High Maturity",
+  "creator": "Sec Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emakbaba.evamendes",
+  "extendedInfo": {
+    "installSize": "7.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Eva Mendes Special AppEva Mendes PhotosEva Mendes VideosEva Mendes NewsPrivate Eva Mendes Share",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.emakbaba.evamendes.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.emakbaba.evamendes.permission.MAPS_RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

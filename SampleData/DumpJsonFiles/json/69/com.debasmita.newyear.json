@@ -1,0 +1,38 @@
+{
+  "title": "Happy New Year 2013  Messages",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.debasmita.newyear",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "December 5, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Debasmita Rout",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.debasmita.newyear",
+  "extendedInfo": {
+    "installSize": "92k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "I would first like to wish all of you a happy and prosperous new year.....May this year bring all the peace,happiness and success.If we will wish new year to our friends and relatives then they will be very happy and our relation will be stronger.If you agree with me then download the app and enjoy this new year.Thanks for downloading.....",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.SEND_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

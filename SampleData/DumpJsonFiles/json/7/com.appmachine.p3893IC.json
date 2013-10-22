@@ -1,0 +1,36 @@
+{
+  "title": "Hi On Line Radio",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.appmachine.p3893IC",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "May 17, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "appmachine.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.appmachine.p3893IC",
+  "extendedInfo": {
+    "installSize": "12M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Hi On Line is an internet radio station for Hi-End Audio. All the music is playing in realtime, no loudness or equalisation. The sound  is pure. Also in realtime, high speed, 2 track taperecorders  will be used, 2  microphones recordings will be demonstrated on Revox A-77tape recorder.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "com.appmachine.p3893IC.permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

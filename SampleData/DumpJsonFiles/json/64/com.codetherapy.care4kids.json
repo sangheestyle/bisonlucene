@@ -1,0 +1,53 @@
+{
+  "title": "Care4Kids",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codetherapy.care4kids",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "August 25, 2012",
+  "version": "1.03",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Akron Children's Hospital",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codetherapy.care4kids",
+  "extendedInfo": {
+    "installSize": "3.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "DESCRIPTION:Care4Kids by Akron Children's Hospital is many apps in one. In addition to providing general health and hospital information, Care4Kids lets you store insurance and medical information about every member of your family in a password-protected area called Health Records. You can also share that information easily with your loved ones via bluetooth so they have duplicate records. You can store medical information such as:Blood typeVision prescriptionAllergiesMedicationsSurgical and illness historyImmunization recordsInsurance (including plan numbers, co-pay and deductible amounts)Providers (contact information for your doctors)Emergency contactsADDITIONAL FEATURESCare4Kids also offers:* Find-a-doc - Find a provider by name or location, or by your child's condition (i.e. asthma). You can even save your doctor(s) to your favorites for quicker access.* Tips to Grow By - Helpful child health and injury info, broken out by category.* Am I Germy? - Find common sicknesses, transmission, incubation and contagious periods.* Videos â From acne to water safety â and a hundred topics in between â Akron Childrenâs produces an array of health and special event videos on its YouTube channel.* News â Get the latest news releases from Akron Childrenâs Hospital.* Connect With Us - Easy links to Facebook, Twitter and other Akron Children's social media sites.* Locations â Browse all of our locations, or select locations near you or locations by city.* Phone Directory* Emergency Numbers â Includes numbers for Akron Childrenâs four ERs.* Events â Keep abreast of Akron Childrenâs fundraising, parenting and community events.* Subscribe to iGrow â Sign up to receive this monthly parenting e-newsletter. Using information you provide, you will receive a customized e-newsletter tailored to the ages of your children and your special interests.* Send a Get Well Card â Create, preview and send your child or loved one a Get Well e-card. Weâll print it out and hand-deliver it to them.* Free Parking Pass - Redeem one free parking pass to be used in one of the Akron Children's parking garages. This is our thank you for downloading the app.* Favorites - Store your favorite providers, phone numbers, locations and Tips to Grow By in one place.DISCLAIMER:The information provided within this application is not a substitute for professional medical advice. Please contact your health care provider with questions you may have regarding a medical condition. If you have an emergency, please dial 911 or visit your nearest ER.",
+    "reviews": [
+      {
+        "timestampMsec": "1322264520673",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "This is the best way to keep all of my child\\'s medical information all in one place.   Very convenient!",
+        "commentId": "lg:AOqpTOHv_snVA4mhLFc3qvNCnBQ4ioXLPXcN8jmFOxk-x1Pc5Yw4iQPyD8NabuT41CzKAURvcmKMFnoKnCD_wA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336005817424",
+        "starRating": "5",
+        "title": "Lots of resources in 1 app!",
+        "comment": "I loved the 1 time free parking, and the send a postcard to a patient function is so handy.",
+        "commentId": "lg:AOqpTOGL981c0Koh52eEvVQP9Qga6URI8BszIYVnXcsGdhPG_jvWei0ZaApfNfT4-AIhdBxl4kfHPtV2-12c7A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CAMERA",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Deem Ground Driver",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.deem.DeemDriver",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Rearden Commerce, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.deem.DeemDriver",
+  "extendedInfo": {
+    "installSize": "3.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Deem Ground Driver is a comprehensive driver-assist and productivity tool for chauffeurs to use on their smart phone.  Deem Ground Driver facilitates two-way communication between drivers and dispatch operations.  20th century protocols (paper, phone calls) and the errors associated with driver communication are now a thing of the past! *NOTE*  This app is intended for ground transportation providers using the Voyageur Reserve back office system!Some of the great features embedded in Deem Ground Driver include:*\tTwo-way message communication between dispatch and driver*\tTurn by turn directions and voice navigation for each leg of a trip*\tView dispatched (active) and completed (historical) trips from Voyageur Reserve *\tGPS tracking capability*\tDriver status updates (including passenger on board and ride complete)*\tOn Location status including the ability for a driver to return their exact location back to the passenger*\tReal time flight arrival status updates (including gate meet and baggage claim)*\tFinal trip charge (including gratuity override and signature capability)*\tBook in zone and view queue position capability*\tNighttime viewing mode",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RE",
+      "CEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

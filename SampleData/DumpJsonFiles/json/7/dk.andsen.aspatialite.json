@@ -1,0 +1,36 @@
+{
+  "title": "aSpatiaLiteManager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=dk.andsen.aspatialite",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 4, 2013",
+  "version": "3.4+",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "11",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Andsen",
+  "creatorURL": "https://play.google.com/store/apps/details?id=dk.andsen.aspatialite",
+  "extendedInfo": {
+    "installSize": "7.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This an experimental build of aSQLiteManager 3.5 (I know that version aren't out yet) with some SpatiaLite support. From the Query Viewer you can do spatial queries. It can be used to create / examine tables, test spatial queries, etc.If peoples find this useful I might expand the functionality.If you don't need spatial functionality use aSQLiteManager!This version FC if you try to open the idx_TableName_Geometry as this is done using the standard sqlite version that cant handle btree's. This will not be part of aSQLiteManager as the SpatiaLite libraries make the app 10 to 20 times larger.",
+    "reviews": [
+      {
+        "timestampMsec": "1357350670374",
+        "starRating": "5",
+        "title": "Great tool",
+        "comment": "Great extension to an already great tool.",
+        "commentId": "gp:AOqpTOGNw8vaTUR7XLkvt_Y5JRC28Gv8OkntM7-WbLvydqaCMvTode1QvN5RC9IuXue4h3GxdS5XzvqtaaGLgfw",
+        "author": "Eric Frohnhoefer",
+        "authorURL": "http://lh6.googleusercontent.com/-kfsn8ai8Pok/AAAAAAAAAAI/AAAAAAAAAAA/ba8WS1D2148/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-kfsn8ai8Pok/AAAAAAAAAAI/AAAAAAAAAAA/ba8WS1D2148/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

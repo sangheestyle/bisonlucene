@@ -1,0 +1,57 @@
+{
+  "title": "Remodeling Show / DeckExpo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.remdeck2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 1, 2012",
+  "version": "3.3.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.remdeck2012",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Remodeling Show is the only national remodeler focused event bringing the remodeling community face-to-face annually. This professional event provides a platform for all the tools and services which go into running a successful remodeling firm as well as the tools and building products needed for executing projects of all sizes.DeckExpo focuses on the deck, porch and railing industry. Builders from all over the U.S. and across the globe, come to this event to see the latest technologies and newest products geared specifically to the special building requirements of decks and porches.",
+    "reviews": [
+      {
+        "documentVersion": "3.1.1",
+        "timestampMsec": "1342711324392",
+        "starRating": "5",
+        "title": "This app is great!",
+        "comment": "Amazing app! Love it.",
+        "commentId": "lg:AOqpTOHYnRh4izNwS_rawEksBq784788km43fK6G0gjboase--M9VveXugE0-AIuce6dIYiLAL67gnVA87S4ug",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

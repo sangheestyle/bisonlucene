@@ -1,0 +1,38 @@
+{
+  "title": "Notepad Widget",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coderect.noterect",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 15, 2013",
+  "version": "2.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "8",
+  "rating": "4.25",
+  "contentRating": "Everyone",
+  "creator": "CodeRect",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coderect.noterect",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is a notepad widget which is kept as simple as possible. You can create notes and add them to your homescreen in just about any size.Optionally you can synchronize your notes with other devices via Dropbox and furthermore customize the colors and fonts of the widgets.",
+    "reviews": [
+      {
+        "timestampMsec": "1356593474221",
+        "starRating": "3",
+        "title": "Almost perfect.",
+        "comment": "Just need to be able to change font size in the widgets, words are tiny.",
+        "commentId": "gp:AOqpTOH2Mo2smm996VIQrDtcxyL7PJCRQe_Wny9IqOr1UzWLA7x8SNjkBBn5eu7XbZ4UP3B_xBwPK8Eqx380ka0",
+        "author": "Michelle Weil",
+        "authorURL": "http://lh5.googleusercontent.com/-qzRYSr-IwfM/AAAAAAAAAAI/AAAAAAAABJE/F_SDsf96SO4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-qzRYSr-IwfM/AAAAAAAAAAI/AAAAAAAABJE/F_SDsf96SO4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

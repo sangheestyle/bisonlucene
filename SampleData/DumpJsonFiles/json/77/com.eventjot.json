@@ -1,0 +1,57 @@
+{
+  "title": "EventJot",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eventjot",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "February 20, 2013",
+  "version": "1.5.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "27",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "Ricoh Co., Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eventjot",
+  "extendedInfo": {
+    "installSize": "586k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Create your own event and share photos through Twitter with all your friends in real-timewhenever, where ever, whatever you're doing. Even with remote buddies, allow everyone in your group to view and add comments. Everyone uploads, everyone wins. Main Features of EventJot: -- Based on Twitter, quickly share photos and comments through your existing Twitter account -- Photo-centric communication means even with remote friends it's easy to share what's happening -- Everyone contributes means that events have more photos, more comments, more participation -- Press \"Like\" on the events and photos and share your favoritesSome common uses of EventJot: -- Night out on the town with friends -- Sporting events -- Music festivals -- much more!",
+    "reviews": [
+      {
+        "documentVersion": "1.3.0",
+        "timestampMsec": "1303937823230",
+        "starRating": "5",
+        "title": "cool app!",
+        "comment": "I love this app. It\\'s nice that I can create events in both Japanese and English. A simple easy way to share events.",
+        "commentId": "lg:AOqpTOE_FGo0p-UJeJ8yap-Y1RWaUsESmu80TwslGPgloX57ThCNxCF5v27kqdIaSLd35vuBvAeb1I5DioJWCdg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1303854538913",
+        "starRating": "2",
+        "comment": "Sucks its all in japanese",
+        "commentId": "lg:AOqpTOGfxFKMZn2M9Q7V00Mf36ghKP20quGUu6j4F9XNaFJYSKKS2Dfw9ZoxifWRxyrzZ-ecnYpsV1m9pw-MH2U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1303167839469",
+        "starRating": "5",
+        "comment": "cool.",
+        "commentId": "lg:AOqpTOFhICwGS3HWSgEwq-GU8cj_-02XSx1IaLbRcLFvTR9Otzt6RX-xac1qlFjQE82fGfL2sKUSmgsnak-2gVU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.eventjot.permission.C2D_MESSAGE",
+      "android.permission.GET_ACCOUNTS"
+    ]
+  }
+}

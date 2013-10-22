@@ -1,0 +1,50 @@
+{
+  "title": "Family Locator Monitor 1.1.5",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droidomics.family.m115",
+  "category": "Lifestyle",
+  "price": "$24.99",
+  "datePublished": "May 16, 2010",
+  "version": "1.1.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "2.857143",
+  "contentRating": "Not rated",
+  "creator": "DroidOmics",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droidomics.family.m115",
+  "extendedInfo": {
+    "installSize": "260k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Family Locator Monitor uses   GPS for child tracking.Parent's can see the location of their family on a map on their phone.Requires Family Locator Tracker on the child's phone.http://www.droidomics.comFeatures:-Find child now-No information stored on website-Unlimited useNO MONTHLY FEE",
+    "reviews": [
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1284820513206",
+        "starRating": "2",
+        "comment": "It is very accurate when it works. The person on the other end you are tracking has to constantly turn it back on.",
+        "commentId": "lg:AOqpTOE5QldTrOJKux-bNIBiTat-dYIgy8riki1tME7iUhnbjJghL9EMbuL5wh8Tmgh73lfivPc0SeLZjEpCJw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1287520886694",
+        "starRating": "1",
+        "comment": "Doesn\\'t work most of the time. Emailed developer, no response",
+        "commentId": "lg:AOqpTOFA64yQcQTNPDeNd8yj34bzE0G0_Ua7ksLCHCLaTc4gsFaE9432vgTg-4JGcHeEZ9h_lYDzWnUlypRzDg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.android.permission.RESTART_PACKAGES",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

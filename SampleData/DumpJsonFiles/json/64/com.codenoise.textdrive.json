@@ -1,0 +1,31 @@
+{
+  "title": "TextDrive Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codenoise.textdrive",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "July 6, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "codenoise",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codenoise.textdrive",
+  "extendedInfo": {
+    "installSize": "807k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "TextDrive is an app that will automatically respond to SMS messages when you are unable to.Great for times when* you are driving* you are in a movie* you are in a meeting... any other time that you can't respond, and don't want people to keep pestering you.In addition to automatically responding to messages, TextDrive lists the messages that you have received so you can quickly glance and see if any are urgent. If you tap a message in the list, TextDrive will read the message to you using text-to-speech. If you long-tap, the message will be removed from the list.TextDrive can run in the background. This allows you to use navigation or look something up on the web while still being able to auto-respond to messages. To return to TextDrive, simply click on the notification icon. Any texts that were sent while you were away will show up in the list.To stop TextDrive from responding, simply press the \"Back\" button while TextDrive is on the screen.**The Lite version is not full of advertisements or upsells. It is only limited in that you may choose a prebuilt response rather than specifying your own, and you cannot use the auto-off timer.**(* Note standard SMS rates apply. If you have a limited number of SMS messages, be aware that you may exceed your quota)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

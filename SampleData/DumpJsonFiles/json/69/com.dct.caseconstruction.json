@@ -1,0 +1,43 @@
+{
+  "title": "Case Construction My Yard™",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dct.caseconstruction",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 22, 2013",
+  "version": "1.1.7",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "DMI Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dct.caseconstruction",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Introducing My Yardâ¢ mobile app, powered by Partstore.CaseCE.com. This free app provides engineering's parts manuals, assembly diagrams, and part number lists for YOUR machines. Quickly find Case Construction equipment parts to create a parts list that you can easily send to your favorite dealer. App also includes other tools that make it easier to manage your machines from any location, at any time, thanks to Partstore.CaseCE.com. This app allows you to: Easily find parts for your machine Create a parts list Send parts list and image to your dealer Quickly call your dealer Carry parts manual with you anywhere you go!",
+    "reviews": [
+      {
+        "documentVersion": "1.1.7",
+        "timestampMsec": "1375036179348",
+        "starRating": "3",
+        "title": "Neat idea! Keep updating.",
+        "comment": "Like that I can view a parts manual. Don\\'t like that it covers up the notifications bar.",
+        "commentId": "gp:AOqpTOF1GY2NikiDjAEWbVSJb9QIjgr_QEJNTBnvp3Kcc_XnhB5eYdnUcJhM2WC-XO0Qg6jU0om8ddG0wgAooA",
+        "author": "Evan K",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.STATUS_BAR",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Stuff Locator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dbsoft2000.stufflocator.lite",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "April 28, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "DBSOFT2000",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dbsoft2000.stufflocator.lite",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Have you lost something recently?  You have stored some items couple of days, months or years ago and you can't remember where they are? That's why we came up with Stuff Locator, an application that helps you locate your items.Stuff Locator is an application that will help you remember where you have stored your things. It is enough to take a picture of your bedroom, living room, garage, garden, office or any other place and mark the item location on the picture. If you don't want to take a picture you can also enter description of the place where your item is located. By using search box you can easily locate your objects in just few clicks. The application itself is simple and intuitive for usage.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

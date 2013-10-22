@@ -1,0 +1,36 @@
+{
+  "title": "San Diego Crime Stats",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crimezone.sd",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 10, 2012",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fanster",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crimezone.sd",
+  "extendedInfo": {
+    "installSize": "147k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Download crime statistics from any location within San Diego City.  This app uses historical crime data to give you an idea of how safe your neighborhood really is!  Currently this app is only supporting San Diego locations and uses 2011 crime data from the San Diego Police Department.Developed by S. Lin, G. Park, A. Fan, and M. Alex.",
+    "reviews": [
+      {
+        "timestampMsec": "1341206496735",
+        "starRating": "5",
+        "title": "Very interesting",
+        "comment": "to use while roaming around the different neighborhoods. Awesome stuff :)",
+        "commentId": "lg:AOqpTOFzMdFYsqX4L_dygc72eWlrulZfyx-e73HeN8Lo15CYVz41z52wqRbswYD03rI2y0ELr8slpQB1RQsFIA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET"
+    ]
+  }
+}

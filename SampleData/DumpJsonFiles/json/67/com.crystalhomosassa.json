@@ -1,0 +1,60 @@
+{
+  "title": "Crystal AutoMotive Group",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crystalhomosassa",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "February 7, 2013",
+  "version": "2.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Redbumper LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crystalhomosassa",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Dealership Inventory can be viewed. Customer can schedule service appointments. The value of any vehicle can be compared with Market listings by simply scanning the VIN. A customer can obtain a real time buy bid or purchase offer for the vehicle he wishes to sell to the dealer. A customer can scan QR code promotions by the dealer and redeem them by simply accepting and placing in the app's coupon box.",
+    "reviews": [
+      {
+        "timestampMsec": "1350932783670",
+        "starRating": "5",
+        "title": "Great tool!",
+        "comment": "Easy to use.   Has coupons for service too.",
+        "commentId": "lg:AOqpTOEzQbTpFYB_JpT9zG0NF1PpBXFugFqCQgmt_Y7nXvWi8SUck8C8GiIfyniWPAZoeJyYR6smnDpFiUoIxBE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349799894193",
+        "starRating": "5",
+        "comment": "Awesome",
+        "commentId": "lg:AOqpTOE59kQPjhdA8r4nQf412LmBaFN9u9ooHsezCrD1n-ErS_XW2_Fj6zRlrefW5jlQUzgLrtErJ7AdlG3EaBU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.CONTROL_LOCATION_UPDATES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FLASHLIGHT",
+      "com.crystalhomosassa.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

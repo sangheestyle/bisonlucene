@@ -1,0 +1,66 @@
+{
+  "title": "Dallastown Area Schools",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dasd",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "January 26, 2012",
+  "version": "2.9.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "1.6666666",
+  "contentRating": "Low Maturity",
+  "creator": "SwebDevelopment",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dasd",
+  "extendedInfo": {
+    "installSize": "871k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Dallastown Area School District Informational App.",
+    "reviews": [
+      {
+        "timestampMsec": "1323217712384",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "It works. Excellent developer.",
+        "commentId": "lg:AOqpTOGx9ODhMmB3QzXrtTwN14ut1XLS4Y2q_6onZ4_nLdIukPSF4InOsRD-zedET7opd14J_BPp4j8w-GjIARY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351459529053",
+        "starRating": "1",
+        "title": "DASD",
+        "comment": "It says DASD has stopped, 9 out of 10 times I try to use it. Doesn\\'t work?",
+        "commentId": "lg:AOqpTOEG2bN_S0WcPNL76LQUdy-LXYGuAh-ToR-_ZwoLyHidxw8Z5MAwRS4ulnJLKtzyy6YfU0pMiFr8dzzrgZo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345677656241",
+        "starRating": "1",
+        "title": "Suck",
+        "comment": "This app almost as much as the schools it department",
+        "commentId": "lg:AOqpTOF2V0Xxe_7dpXVLGfwQqR_dknWXONbOOVcQD18V1QOAbb35MvqglnvpL22j9YM4T30kfohLDQJ_2r0BzWY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_LOGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

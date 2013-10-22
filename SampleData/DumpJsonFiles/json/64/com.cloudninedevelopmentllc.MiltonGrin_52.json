@@ -1,0 +1,39 @@
+{
+  "title": "Grin Eye Care",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.MiltonGrin_52",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "October 30, 2011",
+  "version": "1.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.MiltonGrin_52",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "At Grin Eye Care, we are committed to excellence. Our patients can trust and rely on us to provide the best eye care available. Our Ophthalmologists on staff include Dr. Milton Grin, Dr. Barbara Wolock, and Dr. Anne Wishna. The optometry department includes Dr. Jennifer Johnson, Dr. Lori McQuigg and Dr. Breanne Niebuhr.Let our caring staff help you reach your goal of better vision today.The practice and physician you choose can mean the difference between excellent results or disappointing complications. That is why it is important to choose an experienced physician with the personnel support that focuses on individual patient care and comfort. Whether your choice is LASIK Eye Surgery, Glasses or Contacts or general eye health, we can help.Grin Eye Care's ophthalmologists and optometrists have been caring for eyes in the Kansas City area for over 20 years. Our well-trained staff understands that it is often times a very uncomfortable and nervous experience to endure a medical examination. We strive to make each patient's examination personal and thoughtful. We want to provide you a comfortable experience when you visit any of our offices.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.cloudninedevelopmentllc.MiltonGrin_52.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

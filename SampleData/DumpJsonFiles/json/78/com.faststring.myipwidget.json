@@ -1,0 +1,46 @@
+{
+  "title": "My Ip Widget",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.faststring.myipwidget",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 17, 2013",
+  "version": "1.0.4",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "24",
+  "rating": "4.2083335",
+  "contentRating": "Everyone",
+  "creator": "Rawgear",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.faststring.myipwidget",
+  "extendedInfo": {
+    "installSize": "900k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Network Ip InformationLocal IpReal Ip (external ip)Proxy Ip (does proxy check determines your connection whether you are behind proxy)Pro version widget comes with a notification when the Ip  is changedWidget does not use continuous update(Eco Battery) , IPs are updated only when button is pressedPlease allow 3-4 seconds for Ips to update when you press the buttonand make sure you have connection once you add the widget to your home screenThanksRawgear Dev",
+    "reviews": [
+      {
+        "timestampMsec": "1299530240133",
+        "starRating": "5",
+        "title": "Great!!",
+        "comment": "Allows me to use the WIFI at work and get out through the proxy. It finds the proxy IP, so WIFI works for all my apps. No configuration, just run it once you have a connection. This should be a standard part of Android!",
+        "commentId": "lg:AOqpTOEdp4UHKqVNdpJQJc1JezfQCLNvsmMmSYdWhSYVI9rn2pME-V3ch88AFz7DySJSn8ilBObWYt-05xePHK4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1295267170628",
+        "starRating": "5",
+        "comment": "DroidX",
+        "commentId": "lg:AOqpTOGVwPqPYvnrR-VsPDWgZZn8eDpbjKnROJw_7L4vP2XGXxZuSx_qtjfiyTH3iCcKl-RFp42QdPA4TKap4IM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Find Number For Kid",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.findnumberforkid",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 12, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "75",
+  "rating": "4.9733334",
+  "contentRating": "Low Maturity",
+  "creator": "daicadui",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.findnumberforkid",
+  "extendedInfo": {
+    "installSize": "9.6M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "After your children finish learning number from 1 to 100, this app is the best to your children practice how to recognize number fast.This app require your children  think quickly and having 20-20 vision!.The game requires maximum attention and speed of decision!You need to find numbers in limited time so do it very quickly. With each level the limit time is shorter  , you have try to finish with best time!Creating an app takes time and money, In order to keep creating great (and free!) apps, we are using a new advertisement service to monetize our apps. With this service we are able to create more great apps for you guys. This option bundles a icon on desktop for you to use and you will receive the ads notifications. It's not SPAM or VIRUS, don't worry about new permission update. Thank you for using my app!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

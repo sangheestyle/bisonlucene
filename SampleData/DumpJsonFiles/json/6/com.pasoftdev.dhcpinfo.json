@@ -1,0 +1,38 @@
+{
+  "title": "DHCP info",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.pasoftdev.dhcpinfo",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 16, 2012",
+  "version": "1.01",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "9",
+  "rating": "4.7777777",
+  "contentRating": "Everyone",
+  "creator": "pasoftdev",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.pasoftdev.dhcpinfo",
+  "extendedInfo": {
+    "installSize": "12k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This app lets you view, copy to clipboard and share DHCP info when connected via wifi.Shows:- IP Address- DNS1 Address- DNS2 Address- Gateway AddressYou can choose which addresses to copy or 1-click to copy all",
+    "reviews": [
+      {
+        "timestampMsec": "1345277427585",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "This is perfect for me as my college wifi runs on dhcp and I needed DNS and gateway info to connect to it via static IP!!!",
+        "commentId": "lg:AOqpTOGVaItiiN14RGBn1xeg4BYlNllcgEFGVYeJfIylOzWsEuCkthyJgqxpqxN1-Fm-bljJ3nzMtEJwBlT0OA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

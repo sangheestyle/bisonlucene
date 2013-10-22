@@ -1,0 +1,35 @@
+{
+  "title": "FindIt - What i want near me",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.findit.main",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "July 6, 2013",
+  "version": "1.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Giovanni Miceli",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.findit.main",
+  "extendedInfo": {
+    "installSize": "956k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "find out who has what you want near you ....how ? put a simple word and press find.something like i need a skateboard? open findit write skate discover shop around you and we have a goal you got a skate enjoy!!!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.findit.main.permission.MAPS_RECEIVE"
+    ]
+  }
+}

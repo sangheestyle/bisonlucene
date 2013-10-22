@@ -1,0 +1,38 @@
+{
+  "title": "World Radio With Recorder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.expertwebguru.world.radio",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "July 1, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.0",
+  "contentRating": "High Maturity",
+  "creator": "expertwebguru",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.expertwebguru.world.radio",
+  "extendedInfo": {
+    "installSize": "272k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Enjoy world different countries streaming radio's with high quality recording feature.Now in one app listen more than 20 different countries radio.It have fetaure of recording radio stream clip in mp3 file format. Listen top selected radio stations of world different countries radio's as well as record your favorite radio station. FEATURE :1) In One app you can listen more than 20 different country /genre Radio's1) Enjoy lot's of selected hit radio stations according to country / genre type.2) Record Radio stream in mp3  file format at sdcard and listenany time offline.3) Feature to mark your favorite station as favorite.4) Feature to browse recorded mp3 file.5) Play radio in power saving mode. ......etc",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.googleapps.permission.GOOGLE_AUTH",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "DNB First Mobile Money",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dnbfirst.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 22, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dnbfirst.mobile",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Convenient Mobile Money from DNB FirstDNB First provides banking the way you want. Thatâs why weâre proud to introduce Mobile Money. This free and secure service, developed as part of our commitment to making your banking convenient, gives you the power to stay in touch with your finances wherever life takes you.Mobile Money works with your android phone to bring the bank right to you. You can ââ¢Check your balanceâ¢Get transaction historyâ¢Transfer fundsâ¢Pay billsâ¢Set and receive account alertsâ¢Access to PopmoneyYou can use Mobile Money in any of three ways:â¢Download the \"app\" to your android device and start using Mobile Money today. This is easy.â¢Using your mobile phone browser - Launch the browser on your mobile phone and navigate to the DNBFirst.com website. Using your Online Banking ID and password sign into online banking as you did before.â¢Get SMS text messages that provide information on account balances, transactions and the location of ATMs and branch locations.Easy to use and enroll.Mobile Money is one of the easiest, most convenient ways to manage your money. To enroll, simply sign up for Online Banking first. If youâre already enrolled in Online Banking, you can begin to enjoy the benefits of Mobile Money right away by downloading this app and then signing in using your Online Banking credentials.Youâll discover how easy banking on the go is with DNB First can be.For over 150 years, DNB First has been helping individuals, families, and businesses reach their financial goals. As the oldest national bank in the Philadelphia region, we've got the financial strength and services to connect you to everything you need to succeed.",
+    "reviews": [
+      {
+        "documentVersion": "2.5.22",
+        "timestampMsec": "1378259437018",
+        "starRating": "3",
+        "title": "When it works it works great!",
+        "comment": "Great  well done when it runs. Lots of system error try again kinda thing. Not reliable.",
+        "commentId": "gp:AOqpTOE3I8H6PgXapGLzW5TLVEjhjjIGQ8nsycINX6p6nfaKuPBdVOj_-XM9E6EDIQpQwTlnBE2iGRUWpI6z",
+        "author": "peter F",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369396055481",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "It worked fine for a few weeks, but now it seems to be broken. Reinstalling makes no difference",
+        "commentId": "gp:AOqpTOErDtnZmfDDe3aTk5JfluIgioe0MExuVLwWF_4wLuO0o51Gqn1vXHM0XfiWEviVWTsiH1xjAnzqL8V7",
+        "author": "Christopher Bohn",
+        "authorURL": "http://lh4.googleusercontent.com/-lSZ6M4ErKdY/AAAAAAAAAAI/AAAAAAAABPQ/TxNE_fdbCdM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-lSZ6M4ErKdY/AAAAAAAAAAI/AAAAAAAABPQ/TxNE_fdbCdM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

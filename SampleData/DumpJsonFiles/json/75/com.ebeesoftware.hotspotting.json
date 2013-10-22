@@ -1,0 +1,33 @@
+{
+  "title": "Hotspotting - Free WiFi Map",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ebeesoftware.hotspotting",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 29, 2012",
+  "version": "2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "124",
+  "rating": "4.435484",
+  "contentRating": "Low Maturity",
+  "creator": "eBeeSoftware",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ebeesoftware.hotspotting",
+  "extendedInfo": {
+    "installSize": "495k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Hotspotting helps you find open WiFi networks near you. Our database is continuously growing. But if there is still no data for the place you are interested in, Hotspotting allows you to scan the area. Enable scanning and just walk, or even drive around, and all open WiFi networks will show up on the map. Discovered data is shared among Hotspotting users,and saved on the SD Card for offline usage.",
+    "reviews": [
+
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Community Service CU",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cscutx",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "2.1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "SilverTree Technology",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cscutx",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Access your Community Service Credit Union account anytime, anywhere with our new mobile app! With the CSCU mobile app you can: - Check your balances - View transaction history - Transfer funds - Make bill payments - And much more!",
+    "reviews": [
+      {
+        "documentVersion": "2.1.2",
+        "timestampMsec": "1372437840435",
+        "starRating": "1",
+        "title": "Very bad",
+        "comment": "This is the worst online banking app i\\'ve ever used. it has more problems then I can type I sure hope they get it fixed soon I would like to be able to access my account uninstalling for now. Galaxy s3",
+        "commentId": "gp:AOqpTOESXACBgwOHngb6uZAYbAnT9fTDmKNqarrs31dUB88uw-WlGb5uVUyirAbO7e9HBTyn5jPL25kpenLupg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.2",
+        "timestampMsec": "1375931363805",
+        "starRating": "5",
+        "title": "Good for still being in beta testing",
+        "comment": "It\\'s a good little app and works well on my Galaxy Note II. It let\\'s you view your balances and let\\'s you transfer money which is what most people log into their online accounts for. Haven\\'t had or noticed any problems with it yet.",
+        "commentId": "gp:AOqpTOEFZF8qPESfFP7J99XVmHa3O5QClvXlXZqlzw-o85yCSrV2sEuGS6Ii4wP2ubpLp1kUVsO3OXNhh7aeyA",
+        "author": "Matthew Christian",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "com.cscutx.permission.C2D_MESSAGE"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "CardsApp",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cardsapp.android",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 15, 2013",
+  "version": "1.50",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "32",
+  "rating": "4.9375",
+  "contentRating": "Everyone",
+  "creator": "CardsApp",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cardsapp.android",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "CardsApp gathers all your member cards in one app. Display your member cards with one click, earn membership credits and stay updated with the latest from your favorite brands. Be eco-friendly, eliminate the use of polluting plastic cards.",
+    "reviews": [
+      {
+        "timestampMsec": "1369170136492",
+        "starRating": "5",
+        "title": "Fast and easy",
+        "comment": "Cool app",
+        "commentId": "gp:AOqpTOHtizUzJ268JuVs-b6x2F_XDJEMjz00a7KsgO3qM6FF5FGG4Yr1y-fGG3exn0iNSQLpcmP2pszCV05zsg",
+        "author": "Evelina Alroy-Brin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369202880739",
+        "starRating": "5",
+        "title": "Looking good!",
+        "comment": "Very useful and highly recommended.",
+        "commentId": "lg:AOqpTOG6c0S5kaeAIGOcBmI7AbhywhMw6at6gteyKWxvhO_klj6RVBkmetNgWuOAK_1E6DlpEhWIQvNr7C0icw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.cardsapp.android.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

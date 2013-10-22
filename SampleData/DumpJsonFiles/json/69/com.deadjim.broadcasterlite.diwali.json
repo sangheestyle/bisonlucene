@@ -1,0 +1,45 @@
+{
+  "title": "Happy Diwali",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.deadjim.broadcasterlite.diwali",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "October 11, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Dead Jim Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.deadjim.broadcasterlite.diwali",
+  "extendedInfo": {
+    "installSize": "360k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Text your friends and family AUTOMATICALLY on Diwali with Happy Diwali! Brought to you by the makers of Broadcaster, the best scheduled-auto-text app!* Create different contact groups for different Diwali messages.* Create your own message or use the 5 built-in templates.* Schedule your text message to go out whenever you want, AUTOMATICALLY!Happy Diwali!",
+    "reviews": [
+      {
+        "timestampMsec": "1319518584039",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Nice 1",
+        "commentId": "lg:AOqpTOGoNqtTYsUfjK03nXpF25P1zeQzTILBryBiBKPURQavFXe0HiqmVeDzxaM0Uy3fERjwsRDSw-lX8A5TAyE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1318369330069",
+        "starRating": "5",
+        "comment": "Nice app. Colourful and easy to schedule my contacts.",
+        "commentId": "lg:AOqpTOHewBQKEqCtdR96ob-EDPRTg2aFeh2TXHTnVVgMdL9eoNzxB4X6VMduDdqwE_k1F8A0KX-57PKzzlaluvU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.SEND_SMS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

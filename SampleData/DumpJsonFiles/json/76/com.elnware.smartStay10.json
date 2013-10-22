@@ -1,0 +1,242 @@
+{
+  "title": "Smart Stay Ex Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elnware.smartStay10",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 6, 2012",
+  "version": "1.0.4",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "614",
+  "rating": "3.2947884",
+  "contentRating": "Everyone",
+  "creator": "Elnware.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elnware.smartStay10",
+  "extendedInfo": {
+    "installSize": "640k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Sorry For the issues due to the Merging. We care about users and that's why we are bringing back the OLD Smart Stay Lite. Update to v.1.0.4 If you like the app and want to buy the pro. Please refer to: https://play.google.com/store/apps/details?id=com.beansoft.eyespyThis is the latest version with new goodness in it. :)our new lite version: https://play.google.com/store/apps/details?id=com.beansoft.eyespy.freeSmartStay Ex is an easy to use and free app that implements one of the coolest features in Samsung Galaxy S3, the Smart Stay. The feature uses the front facing camera to detect whether the user is looking at the phone and if the user is, then Smart Stay makes sure the phone screen stays on so the user can continue to read or do whatever they were doing. If not, itâll shut the screen off. It thus more accurately controls the screen based on how the user is using it and you can get rid of the annoying action of having to turn on the screen or touch the screen so that your screen stays on.Features: * Double checking - preventing screen off from accidental fail detection with double checking feature.  * Idle time feature - allows app to intelligently run the scanning when the device is idle. * Low Light support - Help the app to function properly under low light environment. * Exception List - This allows you to specify which app you don't want the app to run on. * Debug Mode - Allows you to easily see what went wrong with  the detection. * Customizable Polling Time - Enable you to specify the time out customization. * Premium Support. ****** PLEASE READ THIS BEFORE YOU DOWNLOAD THE LITE VERSION ******IF YOUR DEVICE IS NOT LISTED OR SHOWN AS NOT WORKING IN THE LINK BELOW, IT IS LIKELY THAT YOUR DEVICE IS NOT YET SUPPORTED AND MOST LIKELY IT WON'T  WORK. COMMENTING THAT IT DOESN'T WORK ON YOUR PHONE AND RATING IT WHILE IT'S NOT SUPPORTED WON'T HELP. IF YOU WANT YOUR DEVICE TO BE SUPPORTED, YOU CAN CONTACT US. WE WILL WORK ON MAKING IT WORK. https://docs.google.com/spreadsheet/pub?key=0AipvJS5dHYPrdE1sUDF5LUs4NVFnd1lVXzZGQnEyRmc&output=html***************************************************************************DON'T DOWNLOAD THE LITE VERSION FROM OTHER WEBSITES OTHER THAN ANDROID MARKET. IT'S NOT UPDATED AND BOUND TO HAVE ISSUES. Thanks. Please don't comment on google play, we are unable to provide a guide or solution here. Send an email to me, i will respond ASAP. Thanks. Keywords: Iseeyou, smart stay, Samsung.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1357793640522",
+        "starRating": "5",
+        "title": "Droid DNA",
+        "comment": "It works perfectly fine and it\\'s phenomenal. Loved it and no complaint at all. Totally worth the download.",
+        "commentId": "gp:AOqpTOF6Npxpf3wv74MDsjO3OKIZG-jzPe_EunjJKw5wxowU6x07851IFhcaZUuAJMHQxM2RyZyLjGfL58vIyA",
+        "author": "Josef Gunawan",
+        "authorURL": "http://lh6.googleusercontent.com/-vcZaP0cJpig/AAAAAAAAAAI/AAAAAAAAADQ/TBjl6Z2knh0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-vcZaP0cJpig/AAAAAAAAAAI/AAAAAAAAADQ/TBjl6Z2knh0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1365953326831",
+        "starRating": "1",
+        "title": "Does not work",
+        "comment": "Tried Smart Stay Lite ex, same results.  Galaxy S3, custom ROM, AOKP JB 4.2.2  App status bar icon blinks once, and then screen never turns off.  Even when placed face down on a flat surface, after two minutes, I peek under the phone, screen still at full brightness.  Reason for trying this app was that I lost the stock ROM Smart Stay function, was hoping to get that function back with this app.  But it\\'s simply not the case.  If it\\'s any help, the LOGCAT shows that this app is trying to take a picture, but it\\'s getting java errors:  W/System.err( 2098): java.io.IOException: setPreviewTexture failed W/System.err( 2098):    at android.hardware.Camera.setPreviewTexture(Native Method) W/System.err( 2098):    at com.elnware.smartStay10.o.run(Unknown Source) W/System.err( 2098):    at android.os.Handler.handleCallback(Handler.java:725) W/System.err( 2098):    at android.os.Handler.dispatchMessage(Handler.java:92) W/System.err( 2098):    at android.os.Looper.loop(Looper.java:137) <snip>  I can provide full logcat if requested.",
+        "commentId": "gp:AOqpTOFYO4Yo6cguL_IMDeax2JAgfpdgIAgFybalxCu-NuydtNps8GsObD_mD8Uy2sfvPYI2nzJRO67iKdvmDQ",
+        "author": "Rick Stoyles",
+        "authorURL": "http://lh3.googleusercontent.com/-K2xnhFa0VH8/AAAAAAAAAAI/AAAAAAAAWlk/WGH7f_rGNmg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-K2xnhFa0VH8/AAAAAAAAAAI/AAAAAAAAWlk/WGH7f_rGNmg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1371107299180",
+        "starRating": "4",
+        "title": "Perfect app.",
+        "comment": "Dear Non-samsung users (including myself), dont lose heart. This app is a perfect in what it says. Go ahead. Install.  Thank you_Elnware.",
+        "commentId": "gp:AOqpTOE47E6yOx1TOp-8F39HOBxNyyl1usLT7RnOhh1CI7Si8yfK-hUwAgl_BlD-yV51C9rpirGZ13cNQFLGMg",
+        "author": "Debaroon Gupta",
+        "authorURL": "http://lh3.googleusercontent.com/-qyoKaUPat5w/AAAAAAAAAAI/AAAAAAAAAAA/O8DoRm0RJYU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-qyoKaUPat5w/AAAAAAAAAAI/AAAAAAAAAAA/O8DoRm0RJYU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1363370988638",
+        "starRating": "3",
+        "title": "Still in its early stages",
+        "comment": "I\\'m not sure how well the smart stay on the galaxy s3 works, but sometimes when I\\'m looking straight at my phone it doesn\\'t recognize that im looking at it. I has some potential, but as of now it needs a little work.",
+        "commentId": "gp:AOqpTOEvGUzvpftm-bze2ChoaQw8s0RJZ7F-mE_IK3ZNPzIGNrhY-P14rfiVYYGIqVM5aLEphMYqwiRQ-12_PA",
+        "author": "Mitchell G",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1357397059403",
+        "starRating": "4",
+        "title": "Works on G3",
+        "comment": "It works well on my Galaxy S3 International version (I9300). However, I had to enable debugging mode to make it work. Perhaps, because I have Juice Defender on it. Can provide more info to developers, if it would help to have a clean build for S3.",
+        "commentId": "gp:AOqpTOGNrOUz8m-NbmeWQRCFEAJlqPp9e3Gds2yjRWDFW5Pyu260d6djk7jVmb-cfjJR8wiwzmJ39f04YsB51w",
+        "author": "Akshay Guleria",
+        "authorURL": "http://lh4.googleusercontent.com/-t0BKYcJMPEw/AAAAAAAAAAI/AAAAAAAAIfY/hIJUlGytqaE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-t0BKYcJMPEw/AAAAAAAAAAI/AAAAAAAAIfY/hIJUlGytqaE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1370082245180",
+        "starRating": "4",
+        "title": "Quite good",
+        "comment": "Works very well, but HTC one users be aware that whenever the camera is activated, it causes a jidder or jumping in the audio playback. Not nice when watching video.",
+        "commentId": "gp:AOqpTOHoj7EZvpAtzkNkwEo2ewrvITaPSmQn_dlfq5MDxUrILvjZNunrapO-hjzqnK9vjgI3o6qM6bhJuvEIlw",
+        "author": "Luis Henriques",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1344764445366",
+        "starRating": "2",
+        "title": "Good, but..",
+        "comment": "This app always turning my music off continously when i listening the music with \\\"power amp\\\".  Xperia U.",
+        "commentId": "lg:AOqpTOHGCB3fBh9Yal3ZXk6ZRVnLfjIms4mhOsabIGpNn-Dmr-VqQ2gwI1R-rD7JnZhqdd9kQYZo1R2kD32eUg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1362631590208",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Really works well on my optimus L7..good work",
+        "commentId": "gp:AOqpTOEGB9oMQOT4ZQryjRktIhbkJqQPCxQlrxn3QFlfScMkPqqVwpHwPT_9rBnI5NXvrH-fyEGY-l_aC8ktNQ",
+        "author": "Rienaldi Primartagraha",
+        "authorURL": "http://lh4.googleusercontent.com/-ruEOIzoZNzQ/AAAAAAAAAAI/AAAAAAAAAGc/BEA54DxpSpo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ruEOIzoZNzQ/AAAAAAAAAAI/AAAAAAAAAGc/BEA54DxpSpo/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1377020972789",
+        "starRating": "5",
+        "title": "Works",
+        "comment": "This one works perfectly just install and then after your next reboot or screen saver on off the app will run itself. Thanks development team",
+        "commentId": "gp:AOqpTOECivYcws61NRBD6eEeILIYYFPV62v74dgQ3b2PmGMPeIKEqsmABNtfNwzdM190IkbDdvwmoBf-BH6-Jw",
+        "author": "Benjamin Bayless",
+        "authorURL": "http://lh3.googleusercontent.com/-Ycbv9084bJA/AAAAAAAAAAI/AAAAAAAAAp8/y6Lb0RF-ceo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Ycbv9084bJA/AAAAAAAAAAI/AAAAAAAAAp8/y6Lb0RF-ceo/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1344276488994",
+        "starRating": "2",
+        "title": "Not working",
+        "comment": "Still waiting for an update to make it work on my xperia ray. Will give 5 star if it does ....",
+        "commentId": "lg:AOqpTOGMQFFTRf6kPHWI_VW43QJ7NqC7vDAznR9PBRTxYHL1YhXFnax5z9TFFWjpj2JRYRJWn5pJDke4qhAwNg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1348306783496",
+        "starRating": "5",
+        "title": "Works Gr8!!!!",
+        "comment": "This works great on my SG Note. Even from a distance this app works like a charm. Very nice app. Keep it up. Just one thing. This app doesn\\'t work properly in low lights condition. Please fix this.",
+        "commentId": "lg:AOqpTOHOh4kVgZif4KOnoVPze0v8OrLGiJPNrS6F0caw8ODojBxfE4mASXPXzhvb0uxGKCkkDjODY-MY8WySDA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1363497004703",
+        "starRating": "5",
+        "title": "Great stuff...",
+        "comment": "This one is amazing I didn\\'t expect that it will work on my gs2 but it works perfectly try it.",
+        "commentId": "gp:AOqpTOFfMLg2V1LgiJXcdw81liRcESOFmnKlsbKd77TKSn0d9pXhD3ZmHtIdqpDUsQuJoaYUrO0hjD2b6AOibw",
+        "author": "Mohamed Fakhruddin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1363449200343",
+        "starRating": "2",
+        "title": "Works but causes camera force close",
+        "comment": "Conflicts with camera/gallery making the Benito\\'s not with it.",
+        "commentId": "gp:AOqpTOEgRFFM2U_DZPvbOVA2xEByO-Irfc8hKPLjtHgMkfrqA4nq6WPB-GkUx1cKzaojl8E9SgUVBbIu4OxsHA",
+        "author": "Mike Dowdell",
+        "authorURL": "http://lh6.googleusercontent.com/-ENMOuTcu5dA/AAAAAAAAAAI/AAAAAAAAB2U/E6za1Qqb2io/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ENMOuTcu5dA/AAAAAAAAAAI/AAAAAAAAB2U/E6za1Qqb2io/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1365563516080",
+        "starRating": "4",
+        "title": "Works on my S2",
+        "comment": "Works so well I\\'m counting seconds waiting for screen to close, in low light, and it doesn\\'t (close that is). So why do I need the S4?",
+        "commentId": "gp:AOqpTOFVrDAghMHTcQDrtUk1qvZtvHvYJXrUGL6UXtjnJNvQS6RR2Rf3Rom8cG02u7yKoUbBq27x6T376HpHYQ",
+        "author": "Charles Pearson",
+        "authorURL": "http://lh4.googleusercontent.com/-9MNNcaUR_cY/AAAAAAAAAAI/AAAAAAAAAAA/SJCIxh7mS9U/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-9MNNcaUR_cY/AAAAAAAAAAI/AAAAAAAAAAA/SJCIxh7mS9U/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1347538253313",
+        "starRating": "1",
+        "title": "Do not install",
+        "comment": "This is crap. Even though am looking at the screen the screen closes. This does not work properly",
+        "commentId": "lg:AOqpTOGdA-Q1VEHDAHSkZ3C7joYK3VRaESMxUYW9onZwwA2uw_Msi2JkH7le9Pdtj75efw3esq6DhsLanqzc9w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1348080297545",
+        "starRating": "2",
+        "title": "Doesn\\'t work with Rom Running Jelly Bean",
+        "comment": "I am activly looking for an app like this, but it doesn\\'t work on Jelly Bean.  Also it would be nice if you can adjust the amount of time it stays on or turns off",
+        "commentId": "lg:AOqpTOFkvwUuNEIn7_2QI4O4z1pmWVGTH-PZudymrMA0bTKmUxlHt4nPBzsgErzZDYqmXOYgcuArAbUEJNdjgQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1344431766128",
+        "starRating": "4",
+        "title": "Doesn\\'t function properly.",
+        "comment": "So I was stating right at the screen not to far away not to close not to much light nor to little, and it shows that I wasn\\'t looking at the screen. Maybe its just and evo 4g lte problem? Not sure but it doesn\\'t work at all. Kinda a shame I was looking forward too this app. Update: for some reason if I turn debugging mode on it works like a charm. Please fix.",
+        "commentId": "lg:AOqpTOHd9MUGA-D-P0A73sg6OyTUVVyxgWrbBmTjLX2r3LwD3Sh-1WP8iMAzhwWVhqEqoOJfN-fxW7EiD3vP5Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1369484370777",
+        "starRating": "1",
+        "title": "Nice idea",
+        "comment": "But causes a lot of problems on my nexus 4. Gallery crashes and then cannot connect to camera",
+        "commentId": "gp:AOqpTOH-gneh_F9HLgCz7XCozPB28IluOQU-6Lcd4JdhXABSQgjXqWAc_sqKEfEKtw0C4i7hJQ-STmLY3UziiQ",
+        "author": "Darren Lindley",
+        "authorURL": "http://lh5.googleusercontent.com/-bXCVam-_uKE/AAAAAAAAAAI/AAAAAAAAFVw/5K49L9Y9Wkc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-bXCVam-_uKE/AAAAAAAAAAI/AAAAAAAAFVw/5K49L9Y9Wkc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1349249684257",
+        "starRating": "1",
+        "title": "It\\'s not working",
+        "comment": "The screen keep turning off. The detection may have problem.",
+        "commentId": "lg:AOqpTOFdq5Pk2J-kurOWAEs9weuF6AgiudhaDFoIa9AZhKyx2g-joVb_jmF4CuRVAVOgWY2hyQJ8Pw_bitoPyQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1344313180815",
+        "starRating": "2",
+        "title": "Needs works",
+        "comment": "Videos seem to lag while app is running. Should be looked into",
+        "commentId": "lg:AOqpTOEvKwRxfxbi7Zr5jYnwQ-LLfwfOdgsYmzdbPoXGt97Hj98IH-ZXQITOhnfleFgEiTeHE5PtBScbXGKxow",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.DEVICE_POWER",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

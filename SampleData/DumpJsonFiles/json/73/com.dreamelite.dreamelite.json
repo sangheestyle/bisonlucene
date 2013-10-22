@@ -1,0 +1,36 @@
+{
+  "title": "DreamElite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamelite.dreamelite",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "November 25, 2012",
+  "version": "1.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "27",
+  "rating": "3.9629629",
+  "contentRating": "Everyone",
+  "creator": "DreamElite",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamelite.dreamelite",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "DreamElite - Android app to control your linux satellite receiver running your Dream Elite-image and to video stream (LAN only).With the DreamElite-app you can control your receiver using most features which you normally can do through your receiver's Web Interface or your Remote Control. You can set and handle timers, read EPG, consult your movies/recordings, send messages and much more. Many features are also available remotely if you set up port-forwarding on your router. You can also use your DreamElite-app and its virtual Remote Control in replacement of your original Remote Control (most commands are supported). In addition, you can watch TV and movies by streaming in your LAN. All this directly from your Android.With your help, we trust to improve the app further over the next updates.There is a support-forum at www.dream-elite.net (direct link: http://www.dream-elite.net/forum/forumdisplay.php?f=183). You are more than than welcome to communicate bugs, add your suggestions for improvements or discuss the app in general. A FAQ has also been published there which should cover most common questions you may have in regard to the DreamElite-app.Please note that in case of streaming problems, the majority are not related to the DreamElite-app but more likely to your network, receiver and/or Android video-player. Please consider this before giving bad ratings. For help in resolving any problems you have, you may consult the forum mentioned above. Also, please don't publish any questions together with your comments when rating the app since we cannot reply to them. It is better to use the forum. Thank you.If you like the DreamElite-app, please rate it!We hope you will enjoy the DreamElite-app just as much as we have enjoyed developing it.Your DreamElite-TeamNotes:-to use the DreamElite-app, a receiver with a DreamElite-image installed is required. However, the DreamElite-app supports multiple-profiles and once you have set up a receiver running a DreamElite-image in your receiver-profiles, you may add other Linux-based receivers (compatabile with E1 and E2).-for streaming TV and movies in your LAN, a rather powerful Android-device is required but most devices sold over last two years should be sufficient. In addition, you need to install an external Android video-player such as VPlayer(pay-app), DaroonPlayer/MX Video Player (free) just to mention a few.Change-log:-see recent changes for version 1.3-while preparing this release, we noted some graphical issues on tablets. These will be fixed as soon as possible.",
+    "reviews": [
+      {
+        "timestampMsec": "1345415058666",
+        "starRating": "3",
+        "title": "No compatible with Black Hole image?",
+        "comment": "I use a Black Hole Enigma2 image on my VU+ which I thought was developed by the DE team but am I mistaken? The app won\\'t connect.",
+        "commentId": "lg:AOqpTOFrD7JejKA-sIX2Auh24BjU5Yg0-tXYvWj3-YGeU_irUd7r22B7bTi8R8rW69M0SbivgeaqAQ3DhIi9nsU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Chico Browser",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chicobrowser",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 19, 2013",
+  "version": "2.0.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "17",
+  "rating": "2.5882354",
+  "contentRating": "Everyone",
+  "creator": "Salfeld Computer GmbH",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chicobrowser",
+  "extendedInfo": {
+    "installSize": "361k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Salfeldâs Chico Browser is a mobile browser that can provide safe filtered Internet with parental control features, once you activate the app with your account details from Salfeld. Chico Browser runs both on Android phones and tablets and filtering can be tuned from any PC with any OS connected to the Internet.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.6",
+        "timestampMsec": "1378087825724",
+        "starRating": "3",
+        "title": "Bad default settings",
+        "comment": "The browser seems reasonably good in most ways. But it doesn\\'t prompt you to set it up, and it\\'s default setting is NO FILTERING. I didn\\'t notice this until today. My teen-ager has had access to this browser for a week because I thought it was safe!   Also, this isn\\'t really a free app. It\\'s a free trial. With other great free choices, why should anyone pay for this one?",
+        "commentId": "gp:AOqpTOGK_Kg-gYIOEYIf1tZyUKFoCHOCxXkZkbJkH3AcZfNEw3rsB2lFz6MFTrjHEIjyhIQqTBA7fwEBV6tguQ",
+        "author": "Michelle Gordon-Krohling",
+        "authorURL": "http://lh6.googleusercontent.com/-XWkKkRDH668/AAAAAAAAAAI/AAAAAAAAAAA/J6N6G75VzzA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-XWkKkRDH668/AAAAAAAAAAI/AAAAAAAAAAA/J6N6G75VzzA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

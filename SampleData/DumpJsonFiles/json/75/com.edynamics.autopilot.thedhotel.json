@@ -1,0 +1,57 @@
+{
+  "title": "The d Hotel",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edynamics.autopilot.thedhotel",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "January 28, 2011",
+  "version": "2.03",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "Autopilot.ie",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edynamics.autopilot.thedhotel",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is the official d Hotel mobile application giving you easy access to information about the hotel, its facilities and special offers and importantly tells you all about the things to see and do and in Drogheda and the surrounding area.The award-winning, d hotel, a luxury 4 star hotel in Drogheda Co. Louth Ireland is located on the banks of the historic River Boyne. This impressive waterfront location includes the Scotch Hall shopping complex and a purpose built pedestrian bridge to the town centre with its many traditional pubs and restaurants in Drogheda.Ireland,hotel,dublin,drogheda,4 star luxury",
+    "reviews": [
+      {
+        "timestampMsec": "1296471997917",
+        "starRating": "4",
+        "comment": "Working fine on my HTC Hero too.",
+        "commentId": "lg:AOqpTOFEKyfqaVLb0ttXHIsMfpOHqAIf48X4kMfp57wSoKFElG1hOcEnw2o-YYk6SraG9T5TCi9xEW8IakSDJuU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1296464237104",
+        "starRating": "4",
+        "comment": "Working fine on Desire",
+        "commentId": "lg:AOqpTOEjhCTEyeb2NqPDl0FUQbCG0YcTfbTIw734xSXd35NK-hr4XM5Cb5NyojVtfqUUapbK3k95ScuILjXfFmE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1296333072108",
+        "starRating": "1",
+        "comment": "Keeps force closing!",
+        "commentId": "lg:AOqpTOGzVPu0JRAxyAXA-xtWBP6F1apeUIGanKO-qj48mgJoVBpSquKxHCfAMWYuCuaeel0hyHq1z5nZKkesPvY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

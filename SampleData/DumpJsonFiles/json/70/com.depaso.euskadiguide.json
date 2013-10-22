@@ -1,0 +1,46 @@
+{
+  "title": "Basque Country",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.depaso.euskadiguide",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "May 27, 2013",
+  "version": "2.0.4",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "50",
+  "rating": "4.3",
+  "contentRating": "Low Maturity",
+  "creator": "De Paso Publicaciones",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.depaso.euskadiguide",
+  "extendedInfo": {
+    "installSize": "37M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The most original and detailed travel guide that will help you discover the Basque Country, totally free, without additional roaming charges and daily updated. The visitor can find almost everything in this small territory. This travel guide will help you explore the Basque Country and discover its modern and busy cities as well as the small villages and fishing towns open to the sea. The Basque Country Guide is available in Spanish, English an French and compatible devices include Android, iPhone, iPod Touch & iPad.Features â¢ TRAVEL GUIDE DIRECTORY: Get massive amounts of info on Basque museums, landmarks, bars, restaurants, entertainment, hotels and more. Get descriptions, ratings, reviews and pictures of tourist attractions. Get opening hours, contact information and even view prices. Find new places add them to the travel guide and even share them with other mTrip travelers. Get unlimited free updates. â¢ DEFINED ITINERARIES: Numerous proposals for the Basque Country. More than 500 tourist attractions with its ratings, comments and reviews made by other travelers, descriptions and images. With all the functions to trace you and deploy the best path in off-line thanks to your GPS.â¢ OFFLINE NAVIGATION & DIRECTIONS: Have the guide locate you on the map and show you the best route to each destination by bus, tram or by foot. Use all map features offline with no roaming fees. 100% OFFLINE (except for updates and sharing).â¢ AUGMENTED REALITY: Display the city area in real-time with icons of all places super-imposed on your phones display. See the distance, ratings, opening hours and more for each place displayed all the places around you. No Internet connection required and no roaming fees.â¢ SHARE postcards via Facebook & Email.â¢ Special Highligths:NO ROAMING FEESTHE ONLY TRAVEL GUIDE WITH FREE DAILY UPDATES!The Basque Country Guide is available in English, French and SpanishCompatible devices include: Android, iPhone, iPod Touch & iPad.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1353967109737",
+        "starRating": "5",
+        "title": "Ayuda",
+        "comment": "Es de mucha ayuda,  una excelente gu\\303\\255a de compras tambi\\303\\251n.",
+        "commentId": "lg:AOqpTOGgi14n3ohwC0icFNYxMZdOYsW50iwl0ZwMyoQa5AhHFr-HwjxLR_Da9NuArt37ZKMkFpCebOdQLis0lw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_OWNER_DATA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

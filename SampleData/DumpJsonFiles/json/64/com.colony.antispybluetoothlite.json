@@ -1,0 +1,39 @@
+{
+  "title": "Anti Spy Bluetooth free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.colony.antispybluetoothlite",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 1, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "55",
+  "rating": "4.163636",
+  "contentRating": "High Maturity",
+  "creator": "MSP Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.colony.antispybluetoothlite",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Anti spy bluetooth detects all other device bluetooths within bluetooth range. Monitor the devices around you with the option of mapping, saving devices scanned. Check the saved devices to see if the same device around you- possible stalker.Scan for devices to stop stalkers using stalking apps.Scan any area and find all bluetooth devices around you.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.CONTROL_LOCATION_UPDATES",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE"
+    ]
+  }
+}

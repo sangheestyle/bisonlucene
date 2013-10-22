@@ -1,0 +1,77 @@
+{
+  "title": "YMCA of Greater San Antonio",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.columbia.android.sanantonio",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "May 16, 2013",
+  "version": "2.02",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "3.25",
+  "contentRating": "Low Maturity",
+  "creator": "Daxko ActiveLife Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.columbia.android.sanantonio",
+  "extendedInfo": {
+    "installSize": "3.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Search exercise schedules, get new program information, see sports field closings and more! The app contains exercise schedules, aquatics schedules, programs & events information, and sports field status. FIND A LOCATION* Find a location within 5, 10, or 20 miles from your location.CURRENT LOCATIONS INCLUDEBoerne Hill Country Family YMCABraundera Family YMCADavis Scott Family YMCAD R Semmes Family YMCA @ TriPointMays Family YMCANew Braunfels Family YMCASchertz Family YMCAWalzem Family YMCAWestside Family YMCAEXERCISE SCHEDULES* Have a class in mind? Search class times based on your class name. Find a list of classes, instructors, descriptions, and locations.* Daily class schedules.AQUATICS SCHEDULES* Search water aerobics schedules based on class name, dates and more.PROGRAMS & EVENTS* See upcoming YMCA programs such as sports registrations, new classes, new videos and more.* Share this info via email with your friends and family.SPORTS FIELD STATUS* Need to know if a sports practice or game is canceled? The Sports Field Status service gives you up to the minute status info.* Pool closed? Snow closures? We can tell you.* Get Push Notifications of practice and game cancellations.Our focus is to strengthen communities and we are committed to nurturing the potential in kids, promoting healthy living, and fostering a sense of social responsibility in all that we do.",
+    "reviews": [
+      {
+        "timestampMsec": "1335103164798",
+        "starRating": "4",
+        "title": "Awesome!",
+        "comment": "So much easier than trying to program the classes into your calendar.",
+        "commentId": "lg:AOqpTOFnWWCLsa4Zy_Qw9pOQ6SsWiQ8EXWxO3fQytcT5Pt9RpNQl0p8qG0w926_jOIqLS-IMlh1M1eIu-0HrFA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345154812806",
+        "starRating": "1",
+        "title": "Used to work",
+        "comment": "It was good until the lastest android update. Now it always crashes before I can even open it. It was worth at least 4 stars when it was working.",
+        "commentId": "lg:AOqpTOEXIqoL54PKjQzFoP-1JDdxwUmcHztAwqr0YmTl69rhOqj7BHORrgzCpo5lONYQnVEr84MVwCITfXtB7g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342896400553",
+        "starRating": "1",
+        "comment": "Always crashes",
+        "commentId": "lg:AOqpTOHmt-PLmPGOXbyNk-yvB_-XMkfM8kb1dH4N5LoYNVXtoJBn9DMsSsN9sIccIWhGvwMI_u5m30ShldozMQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339560192365",
+        "starRating": "1",
+        "title": "Never worked",
+        "comment": "Never worked always force closed...too bad. I heard it was great. Uninstall.",
+        "commentId": "lg:AOqpTOGSlVuNfeWhVWqUGKLwBbZFTO8IhAPx2XjVGnHdWryBqa08V5idzpbhhz72Su_N5JkdvVuIbicIk6j3bg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.columbia.android.sanantonio.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.SET_TIME",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_GSERVICES",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_ASSISTED_GPS",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

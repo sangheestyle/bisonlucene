@@ -1,0 +1,38 @@
+{
+  "title": "Care Homes UK",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.carehomes.carehomesbeta",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "February 17, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.8",
+  "contentRating": "Low Maturity",
+  "creator": "Tomorrows Guides Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.carehomes.carehomesbeta",
+  "extendedInfo": {
+    "installSize": "599k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Search for care homes, nursing homes, hospitals, hospices, local authorities, care associations, care suppliers on the leading UK Care Homes app.We have combined all the excellent content from the carehome.co.uk website with the excellent functionality of Android Apps.The Care Homes app has been designed with the easy to use but also powerful searches. You can search by Category, by Current Location, by Location, by Postcode and by Name.The app also allows you to filter your search results by Classification (eg Mental Health or Elderly Care Homes).The search results are displayed in either list format or on Google Mapping. You can use the Saved Feature to save entries you are interested in and you can use the Recent Feature to view all entries you have recently viewed. The Care Homes app includes over 25,000 entries and 5,000 photos, focusing on all UK registered care homes and nursing homes, hospitals, hospices, local authorities and the major care associations and suppliers.We hope that the Care Homes app will be the key to finding the right care home or care supplier.",
+    "reviews": [
+      {
+        "timestampMsec": "1351722118862",
+        "starRating": "5",
+        "title": "Good application",
+        "comment": "Working well",
+        "commentId": "lg:AOqpTOG7r7bSGH6LfFN6MG50z9msNbvAYmhQhLljtCihmzwVqKg91aAyZOei1GHdefIpMXkBzEiO05_n3WeZ7lc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_GPS"
+    ]
+  }
+}

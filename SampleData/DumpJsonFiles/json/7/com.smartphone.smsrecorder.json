@@ -1,0 +1,64 @@
+{
+  "title": "SMS Recorder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.smartphone.smsrecorder",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "April 30, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "2.25",
+  "contentRating": "Low Maturity",
+  "creator": "CHANDRESH R BODAR",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.smartphone.smsrecorder",
+  "extendedInfo": {
+    "installSize": "966k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "SMS Recorder App helps you to silently record incoming and outgoing SMS from device without any Internet connection required. All you need to do is install this application and enter 4 digit PIN code. To View incoming and outgoing SMS, if he/she delete all SMS from Inbox or Sent box. Open application and select inbox or sentbox or  messages after the âSMS Recorder\" application was installed can be viewed.Use cases of SMS Recorder:-If you want to keep an eye on incoming and outgoing SMS of your friend, children, girlfriend, and wife then install the app ones in their phone.-If he/she delete  all SMS from Inbox or Sent box then also you can see all the Inbox and Sent box SMS by installing the SMS Recorder.- If you want to check the incoming and outgoing SMS, you can just enter pin code and get the details of All SMS.How it works:- Install the app and enter 4 digit PIN code.- Silently monitor all Incoming and Outgoing SMS messages.- Login to application using PIN and you can view the All SMS information.- No Internet Connection required after app was installed.Permissions Used: 1. Receive SMS and Read SMS.Keywords: SMS, Incoming Outgoing SMS, Silently Read Incoming Outgoing SMS, Silently Store SMS , SMS Reader,SMS Recorder.",
+    "reviews": [
+      {
+        "timestampMsec": "1372478303001",
+        "starRating": "1",
+        "title": "Georgia",
+        "comment": "Why is not enable this app to buy in Georgia?  Please fix this problem. I want to have full version",
+        "commentId": "gp:AOqpTOGDzoaePAgWyzvaN0KaJf2XsWdHNkhnI7TZEcVSuCWxRul45DdmhZd38ABDXvnmXxboczrYqjvlA5o-4Q",
+        "author": "Givi Kavtelishvili",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374798458311",
+        "starRating": "1",
+        "title": "Crap app",
+        "comment": "No way to hide the icon if I had a icon that said SMS recorder in my app menu I would surly uninstall it right away",
+        "commentId": "gp:AOqpTOH82JwESZq3fMhO3FGiWpuc2LUoi_3vdnCkfre15by2TQC2JNfYZjto2QWm9_Y_9NYObWY3_5ZfhdgKiA",
+        "author": "greg wilson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368589294865",
+        "starRating": "2",
+        "title": "Plank",
+        "comment": "Pls tell me ..I can record unlimted sms bye sms recorder pro ya sms listner..pls hurry..",
+        "commentId": "gp:AOqpTOFc3UbYF5eDyHdeGPRUBUGBCVUNeKMdX4UaBZWMRpmm1lZPibf92X_LV2MFEWYHK_fPGqr0Has6MMCS6g",
+        "author": "Aslam khan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECEIVE_MMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_CALENDAR",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

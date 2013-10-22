@@ -1,0 +1,38 @@
+{
+  "title": "Project Broncos",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_a5a4e22233694027bdb47ff6d5232a21.app",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "January 20, 2013",
+  "version": "1.19.19.395",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Willie Bradshaw II",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_a5a4e22233694027bdb47ff6d5232a21.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Be up to date and learn more about the exciting things taking place at Fayetteville State University by downloading this free mobile app.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_a5a4e22233694027bdb47ff6d5232a21.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

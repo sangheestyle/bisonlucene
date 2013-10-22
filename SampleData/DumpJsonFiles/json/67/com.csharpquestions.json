@@ -1,0 +1,67 @@
+{
+  "title": "C# Interview Questions",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.csharpquestions",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "1.12",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "14",
+  "rating": "4.142857",
+  "contentRating": "Everyone",
+  "creator": "Java Experience",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.csharpquestions",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "C# Interview Questions application provides you frequently asked interview questions for assistance in the C# related jobs.C# is an object oriented programming language from Microsoft and is part of .Net Framework. There are many software which require the use of C# programming skills like PowerShell.Sample Questions:Q) Is there a way to force garbage collection?Ans: Yes. Set all references to null and then call System.GC.Collect(). If you need to have some objects destructed, and System.GC.Collect() doesn't seem to be doing it for you, you can force finalizers to be run by setting all the references to the object to null and then calling System.GC.RunFinalizers().Q) What connections does Microsoft SQL Server support?Ans: Windows Authentication (via Active Directory) and SQL Server authentication (via Microsoft SQL Server username and passwords) Features:easy to use user interfaceoption to send question/answer to email/dropbox/sms etc.If you have any complaint/suggestion regarding this application, do contact us at http://www.javaexperience.com/contact-us",
+    "reviews": [
+      {
+        "timestampMsec": "1372057051969",
+        "starRating": "4",
+        "title": "Pretty good",
+        "comment": "Some of the questions had incorrect answers, and I like that you used a text resize slider to get around difficulty with scrollable panes. Done questions also showed up multiple times",
+        "commentId": "gp:AOqpTOEuOueWQRtdo9simkmRmZq9q-9g1jvUhiH85ZNjMWS0LZn_b89W3C5Xp74ooB5HZlfCcRXENKvIfSBr3EY",
+        "author": "Joshua Henninger",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368466077617",
+        "starRating": "4",
+        "title": "Good, but",
+        "comment": "You guys should revamp the gui to fit holo (google) design specifications and enable font sizes in questions and other things. Really, font in questions is so tiny!",
+        "commentId": "gp:AOqpTOH9TKTdmdCqXmilFsZj_-fRWaR7qLWUVg14bghS6NlL63GmS0RZ3HFJrQG31r63e7LjNN6V62f27Kg8r2Y",
+        "author": "Edward Rech",
+        "authorURL": "http://lh5.googleusercontent.com/-b3aOXRc7IJM/AAAAAAAAAAI/AAAAAAAAAFg/JumDgjPbTQo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-b3aOXRc7IJM/AAAAAAAAAAI/AAAAAAAAAFg/JumDgjPbTQo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368551381926",
+        "starRating": "4",
+        "title": "Handy little app",
+        "comment": "Originally reviewed as one star, but now up-rating after extended use.  The questions are varied and cover a good variety of situations from the everyday to the less common. Useful for testing your C# knowledge even if there is no interview in the pipe.   Still don\\'t like the prompt to accept notification-bar advertising, but declining does work and you can still use the app.",
+        "commentId": "gp:AOqpTOH01vizZBJkYYKO5dkoRZ5U4wQX_ewzFYegss_nHjHjwUAnZTZGkgLZq4iLh4RtQ3hsi5ta_ZqKy8N3Zo8",
+        "author": "Steve Wilson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373441641707",
+        "starRating": "1",
+        "title": "Might be good but Ads ruin it",
+        "comment": "Installed, keept directing me to play store to download other apps. Uninstalled.",
+        "commentId": "gp:AOqpTOEkbzHp0nPd06bvuW5NlD2Qm0E0hhnI70eURVqIzxN8if3aJUyvs948_VVnbM4zuswmdvWc_Y_rk9dGo6U",
+        "author": "Matthew Banbury",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "My Cards",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dcanete.mycards",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "December 17, 2012",
+  "version": "1.00",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "12",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "Daniel Cañete Román",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dcanete.mycards",
+  "extendedInfo": {
+    "installSize": "616k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Mis Tarjetas es una aplicaciÃ³n sencilla y prÃ¡ctica para llevar tus tarjetas siempre contigo.Mis Tarjetas es especialmente interesante con las tarjetas de fidelidad que funcionen con cÃ³digo de barras, ya que podrÃ¡s usarla sin necesidad de llevarlas encima.Con Mis Tarjetas podrÃ¡s guardar una imagen de su DNI, tarjetas de presentacion, tarjetas de coordenadas, tarjetas de crÃ©dito, etc. de forma rÃ¡pida y sencilla.Es una alternativa a la famosa app Fidme, con la diferencia de que Mis tarjetas es mÃ¡s ligera, sencilla y no requiere registrarse, aunque buscando el mismo objetivo.",
+    "reviews": [
+      {
+        "timestampMsec": "1372698820111",
+        "starRating": "3",
+        "title": "Good but needs a lock.",
+        "comment": "Not sure if you can set one but all my data is free and easy pickings if I lost my phone.",
+        "commentId": "gp:AOqpTOGofSehbHBLawaN5PWREBe8OeK8Rk7T_PSQISuNdDPXp0_xbFkJ1ac4fCGJiq7Fkd1-ZBOagfW9inZXrnE",
+        "author": "Sarah W",
+        "authorURL": "http://lh3.googleusercontent.com/-93k4m1tfFx4/AAAAAAAAAAI/AAAAAAAAABc/hg36bWUXQd0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-93k4m1tfFx4/AAAAAAAAAAI/AAAAAAAAABc/hg36bWUXQd0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358588159500",
+        "starRating": "1",
+        "title": "Crap! and Scam?",
+        "comment": "I went to all the trouble of setting up lighting and entering 12 loyalty cards into this cr-app. When done I went through to check barcode reads to find that the card list only contained a few of the cards I enetered and as a scrolled down they just repeated in no particular order. DO NOT ENTER YOUR CREDIT CARDS INTO THIS APP!! DELETING IT RIGHT NOW!",
+        "commentId": "gp:AOqpTOFQkxIKVS4CGJR-dmjqRvkaWtRPPdLoZqyWP50LOudslAbiV1Yxkuldvk4AN4RKx6A7BMjBYHAuKy269sg",
+        "author": "Matt Druce",
+        "authorURL": "http://lh6.googleusercontent.com/-CHRGt39VGQ4/AAAAAAAAAAI/AAAAAAAAC2w/8xBWr2nz5y8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-CHRGt39VGQ4/AAAAAAAAAAI/AAAAAAAAC2w/8xBWr2nz5y8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358168673504",
+        "starRating": "5",
+        "comment": "love it! now i still need to ensure that all shops actually accept it.",
+        "commentId": "gp:AOqpTOGA-S2TjnC31dG926UwnUKaYO0cl7xv3djgCtsdZpgywXMxoth7yMglRnyx_VrO9dKMTfcvUUJIKj5CT_M",
+        "author": "Vince Lau",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376353322370",
+        "starRating": "4",
+        "title": "Needs a few extra features to be perfect",
+        "comment": "I scanned all my cards on my pc but there is no option to import them using this app. A simple option to import from gallery would fix this.  Also the ability to add text notes to the card.",
+        "commentId": "gp:AOqpTOFyg4EwsZKacE9vE3AcXoAI1Rvgp5P0YY0fdFxT72wPN6VbjNZfvJ1G1gaPKQJEvhxfLt5HV9kIF0kW2X8",
+        "author": "Vandetta Ny",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

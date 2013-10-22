@@ -1,0 +1,66 @@
+{
+  "title": "CB&S Bank Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cbands.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 1, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cbands.mobile",
+  "extendedInfo": {
+    "installSize": "712k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Youâre in control with CB&S Bank Mobile Banking.  Banking is even easier now with the convenience of Mobile Banking, saving you time with these convenient features:View Account Balancesâ¢\tAccess real-time account information from your mobile deviceView Transaction Historyâ¢\tReview deposits, checks and other account history in real-timeTransfer Moneyâ¢\tEasily move money between accountsPay Billsâ¢\tMake paymentsâ¢\tChange or cancel existing paymentsFind ATMs & Branch Locationsâ¢\tSearch by ZIP, Address, or Current LocationWith Mobile Banking, your information is fully secure. Multiple layers of authentication ensure you donât have to worry about the wrong people getting your information. A personal password and phone activation code keep your information safe.Mobile Banking is available to all consumer customers currently enrolled for our Internet Banking service.  Simply download the mobile app and log in using your CB&S Bank User ID and Password.Also be sure to enroll in our SMS Text Banking for even more convenient access to your account information.For more information visit www.cbsbank.com.  If you need assistance with CB&S Bank Mobile Banking, call us at 877-332-1710.Data service charges may apply through your wireless carrier. Copyright 2012 CB&S Bank. CB&S Bank is a Member FDIC and Equal Housing Lender.Keywords: cbs bank, cbsbank, cb s bank, mobile banking, mobile bank, mobile phone banking, phone bank, phone banking, bank application, banking application",
+    "reviews": [
+      {
+        "documentVersion": "2.5.19",
+        "timestampMsec": "1361409449446",
+        "starRating": "1",
+        "title": "doesnt work",
+        "comment": "tried for while and then it quit working altogether.",
+        "commentId": "gp:AOqpTOG2h961RH8QGystaP3iJdHCA2AkluEjzdrEiOSph03YImTj-d2X_wZDyOZ-V4MtlsKv6EqsvCl28grZSQ",
+        "author": "Cheryl Webster",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.19",
+        "timestampMsec": "1359587121855",
+        "starRating": "3",
+        "title": "Needs more features",
+        "comment": "App is ok for getting real time balance, but you need a link to order checks, and more detailed transaction history. Make it more like the website",
+        "commentId": "gp:AOqpTOEJQwMtB_d8TGFvR8plXFCkygP8vJCAuRT5VXUixCbBFNuv288qFSz4Bj_rqxiGX9AIsHsmvSMIerhTsg",
+        "author": "Noah Sexton",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.7",
+        "timestampMsec": "1359126324248",
+        "starRating": "5",
+        "title": "...",
+        "comment": "I love this app just wish there was a way to log out of my account so my husband could log into his without having to uninstall reinstall the app",
+        "commentId": "gp:AOqpTOGocMV7onyyflm31OscNiqWUKXvNHPXd3XDqPwSW_w3YG7GNs8gOmuxKsVl6Lf35_eImBRvNnAsVBzMBQ",
+        "author": "Amanda Zellner",
+        "authorURL": "http://lh6.googleusercontent.com/-RRMH4pTIdAI/AAAAAAAAAAI/AAAAAAAAAKw/YEwxrpggavs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-RRMH4pTIdAI/AAAAAAAAAAI/AAAAAAAAAKw/YEwxrpggavs/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

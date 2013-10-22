@@ -1,0 +1,68 @@
+{
+  "title": "Run With DMC",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.detroitmedicalcenter.runwithdmc",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "January 18, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "3.4285715",
+  "contentRating": "Low Maturity",
+  "creator": "Detroit Medical Center",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.detroitmedicalcenter.runwithdmc",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Whether youâre taking a jog or running a marathon, Run With DMC, the training companion from the Detroit Medical Center is for you.The app contains a Running Log where you can record all the details of your run and also offers expert advice from the physical therapists of the DMC Rehabilitation Institute of Michigan, including videos and information about shoe selection, warm-up exercises and stretching to help enhance your running performance. Run With DMC also contains helpful information from the medical experts of the DMC regarding causes, symptoms and treatments for various running injuries.Features of Run With DMC include:1. Running Log to track your runs including date, time of day, run type, distance, run time, type of shoe, weight, heart rate, and specific weather conditions2. Auto-calculate your pace and calories burned3. Email your weekly, monthly or customized running log reports4. Use the custom Shoe Tracker to track the number of miles you run on each pair of shoes5. View videos and information about shoe selection, warm-up exercises and stretching to help enhance your running performance 6. Learn about causes, symptoms, and treatments for various running injuries7. Easily access a DMC physical therapist 8. Easily find physical therapy and Sports Performance Academy locations 9. Other helpful features and benefits to help you become a more healthy, efficient and successful runner. For support or additional information about Run with DMC, the training companion from the Detroit Medical Center, visit www.runwithdmc.org.  For more information about DMC Rehabilitation Institute of Michigan, visit www.rimrehab.org. For more information about DMC Sports Performance Academy, visit www.dmc.org/sports.",
+    "reviews": [
+      {
+        "timestampMsec": "1334215277114",
+        "starRating": "4",
+        "title": "1 star short cos ...",
+        "comment": "my country uses metric standard of measurement. I would have given it 5 stars if it allows me to set the measurement standard. Hope to see an update for it real soon.",
+        "commentId": "lg:AOqpTOFuQAzvksw69yAd2P58H5RywIeeQMtcZ2-v4PbUyfyx7x2dPCAUmUlldrJ9ybyPTT71razFp7uiX29OeA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353744704379",
+        "starRating": "1",
+        "title": "No good",
+        "comment": "This app seems like a great idea, but when I tried to enter my run\\'s distance into the distance field, the app jumped to another field that I also couldn\\'t enter any info to. Tried it again, and the same thing happened. Jumps from field to field and doesn\\'t let you enter anything.",
+        "commentId": "lg:AOqpTOHavDyyeuNAOtzDB4wmwnTz87hJ1eVKJYvMIS0V-Q3cMvAZLljBa7jureYkP_M_jrR_33wX7YTYeCydqQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351481265953",
+        "starRating": "3",
+        "title": "No metric scale.",
+        "comment": "I need \\\" km, kg, cm, m, litre \\\"..",
+        "commentId": "lg:AOqpTOGDvQFHylE2_FovPuQsA0zBKe2HtvZE74V2YcNCEUGcVHPeTE9qcBKZiJ0j5JyxZGxDo9_AzP-ZI5koVQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1328818522257",
+        "starRating": "5",
+        "title": "Only one thing to say:\\\"excellent \\\"",
+        "comment": "Only one thing to say:\\\"excellent \\\"",
+        "commentId": "lg:AOqpTOHgeSXs4gjm_Zf2v5_WSBfD5G0Dqj4Dbu2eS1aVNrEFERLBHgoIv4y-mDHBRsk8OKW9uHza89_nUPu_Ig",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

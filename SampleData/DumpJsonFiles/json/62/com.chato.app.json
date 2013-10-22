@@ -1,0 +1,57 @@
+{
+  "title": "Control Inventory",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.chato.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 9, 2012",
+  "version": "1.0.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "18",
+  "rating": "3.7222223",
+  "contentRating": "Everyone",
+  "creator": "CMDJ",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.chato.app",
+  "extendedInfo": {
+    "installSize": "116k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This application is used to track inventory from different sites.It can create multiple containers, and within each one creates a multitude of components.Each component has four attributes: number, name, value and description. The attribute value can be a bar code or QR code, read with some application code reader, or any text alphanumÃ©rico entered manually.If we do a long press on any of the objects containing the screen, we will get a menu from which we can send the selected container by bluethoot, e-mail, ... . The container can be delivered in a xml or csv format separated by semicolons. This format is suitable for csv then import it into Excel spreadsheets as well and keep track of inventory from the pc.Inventory control, warehouse inventory, shipment tracking, inventory, stock control, control, storage, record storage.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1355180839301",
+        "starRating": "1",
+        "title": "This app Sucks",
+        "comment": "R",
+        "commentId": "gp:AOqpTOFGITHStd_XJ5Su9WSn_110sTP5Tn4xcX-UJUSJ-9RNHxPbNTLJWRY7zPOx0KcX8KiVkctKkiGRfv1iEQ",
+        "author": "Raul Campos",
+        "authorURL": "http://lh3.googleusercontent.com/-1JMmr1L6pns/AAAAAAAAAAI/AAAAAAAAAAA/7l-fsLiUkHk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-1JMmr1L6pns/AAAAAAAAAAI/AAAAAAAAAAA/7l-fsLiUkHk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1349388926689",
+        "starRating": "1",
+        "title": "Waste of effort",
+        "comment": "Scanning is just a window dressing. You can not add to inventory via scan it is still a manual process. Paper works better.",
+        "commentId": "lg:AOqpTOEaBKBSLXAa8dcTgy5_PP6abHzLMeFVpr_oY_slj3YciOhOPbh36czfgn3FLk5c1N1AuVhvnKTABfIdeQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344538949868",
+        "starRating": "1",
+        "title": "Does not open on Android Galaxy",
+        "comment": "Uninstalled",
+        "commentId": "lg:AOqpTOFJZbD8ZIiDOKegUlFJ8GeN91KOcn1979do4PvFI22dZaN-nLXbOltPNzLhy7q7mu9Q5wG7oIM3XvMF4g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

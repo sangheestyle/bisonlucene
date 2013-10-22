@@ -1,0 +1,36 @@
+{
+  "title": "EON 3D Human Eye",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eon.minimalviewer",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "June 7, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "EON Reality, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eon.minimalviewer",
+  "extendedInfo": {
+    "installSize": "14M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "A high quality 3D model of a human eye. Click on the skull and then on the brain to filter out only the eye. Then zoom and rotate to explore the eye.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BATTERY_STATS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.SET_ORIENTATION",
+      "android.permission.DEVICE_POWER",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

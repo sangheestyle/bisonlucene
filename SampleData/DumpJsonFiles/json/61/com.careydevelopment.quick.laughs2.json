@@ -1,0 +1,28 @@
+{
+  "title": "Quick Laughs",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.careydevelopment.quick.laughs2",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "October 22, 2012",
+  "version": "1.2",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Carey Development Corporation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.careydevelopment.quick.laughs2",
+  "extendedInfo": {
+    "installSize": "201k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Download this small app and check it daily for a few good laughs!I grab some of the funniest one-liners from Twitter comedians and rank them according to a popularity algorithm. The more popular jokes appear at the top of the feed.Please be advised that this app uses the Twitter REST API v1. Twitter claims that this version of the API will be decommissioned \"in the coming months.\" But they've been saying that for a while.I use the version 1 of the Twitter REST API because that doesn't require a Twitter login. The v1.1 REST API does, and it is totally lame to put someone through that process (which is rather bizarre, actually) just so that they can laugh a little bit.I've included more than 30 comedians for now. But the list of comedians is read from an external XML file, so if I want to add more, I don't need to update the app at all!Obviously, this app will require Internet access. You will need to accept that if you want to use it.Also the Twitter REST API won't allow more than 150 requests per hour from a specific client. This means that you can't use this app more than 5 times per hour. But why would you want to? Comedians don't update their Twitter feeds THAT frequently.It was written for API 4.0+, but I've tested it on a 2.3.3 device. That worked fine, except the spinner in the progress dialog gets cut off. I tested it on a 3.0 emulator, and that worked fine. I tested it on a 4.0 emulator and a 4.0 device, and they both worked fine.It's my first app, so I welcome feedback. This is just something to provide you with a few laughs to get through the insanity of life in general.WARNING: Some of the jokes are NOT politically correct, and may be found offensive by some.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}

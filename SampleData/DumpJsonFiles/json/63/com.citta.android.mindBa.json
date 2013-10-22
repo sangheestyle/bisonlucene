@@ -1,0 +1,47 @@
+{
+  "title": "myMindB Data Organizer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.citta.android.mindBa",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 24, 2012",
+  "version": "2.2",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Citta Consulting",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.citta.android.mindBa",
+  "extendedInfo": {
+    "installSize": "199k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "myMindB is a powerful personal data organizer or 'database' that allows you to keep large amount of textual information in a simple format while providing effective and easy to use tools to find, navigate and manage the dataNEW:  Sync with Dropbox from multiple devicesNEW:  Encrypt data for added privacy    simple yet very powerful personal data organizer    hierarchical editor organizes the data into a tree-like structure    (as a 'list of lists')    fast and responsive even with very large files    unlimited undo/redo    human readable, flat file format (no proprietary binary encoding)    easily adjust the font size using pinch-to-zoom    rich tool bar provides one-tap access to the most used functionality    quick access to exactly what you need from a large amount of information    advanced search facility presents its results as a view of ALL the qualifying lines including the context in which they were found;    it also allows further fine tuning of the result by narrowing it down or including additional lines    'bread crumb' scope navigation bar allows easy movement up and down the tree structure    internal links provide fast access to related data    clickable web-links take you to any place on the web using your default browser    bookmarks (set and removed with a single tap) let you review and instantly move to one of the lines that you are working on or need to access most often    add a clickable check box to any line to create lists of tasks or to-do items, then you can quickly display all or just the 'pending' tasks    effortless, precise cursor positioning and text selection with the revolutionary virtual stylus 'viPen' (patent pending), which also provides support for tool-tips",
+    "reviews": [
+      {
+        "timestampMsec": "1355602667274",
+        "starRating": "5",
+        "title": "Easily managing my data",
+        "comment": "I have looked at several options for storing notes and was pleased with this app for 2 main features.  The notes \\'database\\' is flatfile plain text which makes it very portable plus the data is easy to re-edit on my aging mac using Dropbox. The main use for the app will be to store a large amount of family history research info so it becomes available when I am out and about.  I guess that it won\\'t be that long before I also move my personal notes over too! A great app, a perfect blend of simplicity and power.",
+        "commentId": "gp:AOqpTOG6OAFka6jPdTDljHn7ygcNXTAXRuZ6lqNll_rawvpv9XHpOtYge9g6_HCR2DzlUgmqyZ2cMA97R5UehFQ",
+        "author": "Ian Parker",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352372289716",
+        "starRating": "5",
+        "title": "A powerful tool to organize information",
+        "comment": "What I particularly like is the ability to focus on (i.e. see only) a certain topic or subtopic and to control the level of detail displayed. Also the ability to drag & drop blocks to reorganize the structure. And the pinch-to-zoom feature, without having to set the font from menu settings.    Very recommended for those who want to have various pieces of information gathered in one place, to organize the information in a structured way, and to be able to access and modify it from various devices.    Thanks to the Dropbox support and the universally recognized plain-text format, I can very easily synchronize my file and work on it also from the desktop computer.    Altogether a brilliant app! And works without a glitch.",
+        "commentId": "lg:AOqpTOFuNAg1HCVInVH8SS2ziIlBi30mmE6XgKo665w5aLenevIFB3i-4zIkWEv2D3ga1RpoWs-iwXj9yrRTpok",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

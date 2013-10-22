@@ -1,0 +1,61 @@
+{
+  "title": "App Lockbox Trial",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ea.applock.trial",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 16, 2011",
+  "version": "2.2.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "26",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "eAgency Mobile Security, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ea.applock.trial",
+  "extendedInfo": {
+    "installSize": "649k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "7 day trial of App LockboxApp Lockbox keeps your phone private by password-protecting individual applications, so others canât access your personal info. Protect text messages, facebook, photos, contacts and any other info you want to keep to yourself. Allow friends to borrow your phone, knowing your private information is protected and secure. App Lockbox also gives you remote lock capabilities. If your device is lost, stolen or simply left behind, just send a text message from a friendâs device and lock your phone in seconds.Security-App Blocking-Remote LockHere are some uses:1.  Keep strangers and parents from reading your texts, facebook and twitter info2.  Protect your information from the snooping wife/boyfriend/girlfriend3.  Let others borrow your phone, knowing your information is protected4.  Block your friends from sending embarrassing texts and facebook posts",
+    "reviews": [
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1300635110014",
+        "starRating": "4",
+        "comment": "I love this app. I can put a lock on all the things that I need private. It may foreclose alil,but other then that. I love this application.",
+        "commentId": "lg:AOqpTOGyiT5E-sFxYDLWgx3P98j4ls2I_zr6ec0x5gckcBdCTtJMHiPS4_Gq630ZhTPMYrJ6Bh5fKanOD4CyKQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352333948577",
+        "starRating": "2",
+        "title": "Not cool",
+        "comment": "Lags toooo much",
+        "commentId": "lg:AOqpTOGw0m0aHjarWwLZYl_-GqApFeb65O0LysdLBohcQPcpp3Po0jbOq4t1lZ1_C5IgA04DJ1KnJY8tV3egpw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337666984525",
+        "starRating": "5",
+        "comment": "Luv it",
+        "commentId": "lg:AOqpTOHtAhdoYBHg0sHEqgifosjwZAJONr-akZoj4ILzgXqb5s6TrdhsBKnbfTlSKSFV1q4kz7DV9Fx7lqrfSA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.READ_LOGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

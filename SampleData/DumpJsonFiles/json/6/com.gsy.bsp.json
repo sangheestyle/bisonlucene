@@ -1,0 +1,41 @@
+{
+  "title": "QR Scanner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.gsy.bsp",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 16, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "IBTO.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.gsy.bsp",
+  "extendedInfo": {
+    "installSize": "638k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "QR Skaner to Åatwe w obsÅudze narzÄdzie do odczytywania informacji zawartych w kodach powierzchniowych i kreskowych.Odczytane informacje moÅ¼esz w Åatwy sposÃ³b wykorzystaÄ, przechodzÄc do strony internetowej lub wysyÅajÄc je do przyjaciÃ³Å.Aplikacja ta to prawdziwy niezbÄdnik w Twoim telefonie. Przyjemnej zabawy. :)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.INTERNET",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

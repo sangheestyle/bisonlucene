@@ -1,0 +1,60 @@
+{
+  "title": "Flora of the Wasatch",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emountainworks.android.wasatchfieldguide",
+  "category": "Books & Reference",
+  "price": "$4.99",
+  "datePublished": "May 18, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "High Country Apps, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emountainworks.android.wasatchfieldguide",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "High Country Apps is proud to support The Nature Conservancy, Utah Chapter (www.nature.org/Utah) through donations and by providing the Flora of the Wasatch app for their educational and scientific work. Flora of the Wasatch presents more than 300 wildflowers, grasses, shrubs and trees readily found in the Wasatch Range, including such diverse ecosystems as the Great Basin desert and alpine tundra. Designed for expert and beginner alike, this guide presents each species in a clear, informative format that provides photos and illustrations of the plant, an easily understood description, distinctive field marks, preferred habitats, and tidbits on the plantâs ecology and cultural use. An innovative, easy-to-use key allows the user to select flower color, leaf type, and other characteristics to quickly identify unknown plants. You are on a hike, look down and see a flower with yellow petals and opposite leaves but donât know its name. It could be tall and thorny, sticky with black berries, sweet-smelling with square stems. Just select what you do know on the app and all plants matching your description will be shown. Photographs and information used by the app are stored locally, making the app available to use with or without a data connection. Whether you are hiking, camping, enjoying a walk, or just driving through, Flora of the Wasatch is the field guide app to take along.",
+    "reviews": [
+      {
+        "timestampMsec": "1369502849811",
+        "starRating": "5",
+        "title": "Best plant id app",
+        "comment": "If you live in SLC or Utah valley and you get outside at all you need this app. Works flawlessly on my iPod touch and my Galaxy Note II.  Huge list of species, awesome pictures, and an easy search tool make plant id simple. Totally worth  the money.",
+        "commentId": "gp:AOqpTOHynPSgIzPV3Fvx4f1V1en65ZOIuKCdnkHME5_RuIwiZUGmkIEf4m5mbXMQcZ-ik6ZQ5nK9Qugij9Qpwg",
+        "author": "Anson Call",
+        "authorURL": "http://lh5.googleusercontent.com/-q7uTs-C2INs/AAAAAAAAAAI/AAAAAAAAANE/XzKqF41OtQg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-q7uTs-C2INs/AAAAAAAAAAI/AAAAAAAAANE/XzKqF41OtQg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368160142739",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "I have used a black and white paper \\\"search by characteristic guide\\\" for years that I have really enjoyed - this is like that, only so much better because of the pictures, descriptions, maps and tidbits.  I use it, all the time.",
+        "commentId": "gp:AOqpTOEIQfrhIJdZ5M7-Z1RBZNKin9QOg58Wj88uk7DPLG-t17twiJ_GM5G3XMQfh4p4B6IjHQWu_FJCnbx0Jg",
+        "author": "Kevin Smedley",
+        "authorURL": "http://lh5.googleusercontent.com/--EqxZpinzBk/AAAAAAAAAAI/AAAAAAAABVA/VQbI36DET1c/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/--EqxZpinzBk/AAAAAAAAAAI/AAAAAAAABVA/VQbI36DET1c/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377068210084",
+        "starRating": "5",
+        "comment": "So much better than anything else for plants.  I hope these guides get yo more areas in the US.",
+        "commentId": "gp:AOqpTOG09JujUvKAEuWRwqbqUxxcxSkG7adjA_ICHnznDNgv29iUwkEngAWlv0hCQzFg_7FORc-PJEBQWGqYqQ",
+        "author": "Robb Hannawacker",
+        "authorURL": "http://lh4.googleusercontent.com/-PBEVvhzhop4/AAAAAAAAAAI/AAAAAAAAAAA/4X6f42NQ07o/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-PBEVvhzhop4/AAAAAAAAAAI/AAAAAAAAAAA/4X6f42NQ07o/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

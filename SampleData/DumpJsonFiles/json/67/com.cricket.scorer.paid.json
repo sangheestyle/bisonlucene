@@ -1,0 +1,40 @@
+{
+  "title": "Cricket Live Score Alerts",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cricket.scorer.paid",
+  "category": "Sports",
+  "price": "$0.99",
+  "datePublished": "July 19, 2010",
+  "version": "3.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Industan Fever",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cricket.scorer.paid",
+  "extendedInfo": {
+    "installSize": "387k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This is the ad-free version of the program.*MUST RE-ADD WIDGET TO HOMESCREEN* for ball-by-ball score for IPL T20, ICC cricket with runs and wicket alerts.Please give suggestions.Features:Ball-by-ball live scoreOvers/Batter scoreAlert for X runs/wicketLast 12 ballsFavoritesMatch scheduling",
+    "reviews": [
+      {
+        "timestampMsec": "1290664574368",
+        "starRating": "4",
+        "comment": "Excellent app, shame about the noise",
+        "commentId": "lg:AOqpTOHAxHt5gVqfAJufqftHsjyUO-VBatrTZjCvhREPji6Q8NzbR4m8uvybqyzy3doaqL7mpwoPWiROFCs3Cg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.FLASHLIGHT",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

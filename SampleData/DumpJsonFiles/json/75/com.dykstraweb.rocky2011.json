@@ -1,0 +1,41 @@
+{
+  "title": "Rocky Mountain High",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dykstraweb.rocky2011",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 12, 2011",
+  "version": "1.2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Michael Dykstra",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dykstraweb.rocky2011",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome to Rocky Mountain High 2011!With this all you will be able to check:-Schedule-Talent-Where to eat-After hours events-Recreation-Maps",
+    "reviews": [
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1311524378303",
+        "starRating": "5",
+        "comment": "Great job Michael. A map is the meeting rooms is my only suggestion. You are the bomb!",
+        "commentId": "lg:AOqpTOGEVlj_2yGk00lzLkOG17JYOiL74d5Lq8mbu2mPdvUq5PSTJWIcwiGTD8I72UaIuzZP5oGgSRCsNXn5Kw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

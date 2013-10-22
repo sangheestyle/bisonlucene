@@ -1,0 +1,61 @@
+{
+  "title": "CTAS - Triage - OFFICIAL",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ctas",
+  "category": "Medical",
+  "price": "$10.07",
+  "datePublished": "June 6, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "prn Education",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ctas",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "This is the official application of the Canadian Triage and Acuity Scale (CTAS) as authored by the Canadian Association of Emergency Physicians (CAEP), the National Emergency Nursesâ Affiliation and other partner organizations.  This application walks the user through patient complaints in assisting clinicians to assign acuity levels using the complaint oriented triage lists and modifiers.  All lists and modifier definitions and data are within the application and therefore no data connection is required.This application is in English or French, depending on the language set on your device. (Non-English and French Devices will show the English Version only).  Proceeds from the sale of this App supports future development of the CTAS and its educational materials.By using the official application, you can be assured that you are using the most current and accurate scale as developed and revised by the National Working Group.Triage accurately! It helps patients receive the care and measures your acuity and volume against other facilities with reliability.  The CTAS is used in many countries around the world for setting patient priority.The Canadian Triage & Acuity Scale (CTAS) is a tool that enables Emergency Departments (ED) to:â¢\tPrioritize patient care requirementsâ¢\tExamine patient care processes, workload, and resource requirements relative to case mix and community needsThe CTAS allows ED nurses and physicians to:â¢\tTriage patients according the type and severity of their presenting signs and symptomsâ¢\tEnsure that the sickest patients are seen first when ED capacity has been exceeded due to visit rates or reduced access to other servicesâ¢\tEnsure that a patient's need for care is reassessed while in the EDThe CTAS allows ED managers to:â¢\tMeasure the case mix (volume and acuity) of patients who visit the EDâ¢\tDetermine whether the ED has an operational plan and the resources to meet patient needsâ¢\tAssess the ED's role within the hospital and health care regionThe triage level assigned using the CTAS criteria is a mandatory data element to be used in all Canadian Hospital Emergency Departments for reporting to the Canadian Institute for Health Information (CIHI).Training in the use of the CTAS in the clinical context is recommended before using this application to assist in clinical decision-making.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1376323532803",
+        "starRating": "4",
+        "title": "Good but...",
+        "comment": "I love this app.  Makes CtAS scoring easier. In comparing to the CTAS manual,  the scoring is accurate.  However,  on the newest HTC one X version,  the category table menu is cut off as though the screen isn\\'t large enough for the app. Please fix!",
+        "commentId": "gp:AOqpTOHrNcnCT3Y1gymt9AtavWw2nJ3SPcdIigoovEncC7UKtgj_43DQNQ30ktas2PqLE6I3y37rWdLWHtsGpS0",
+        "author": "Robyn Kelly",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1369093855776",
+        "starRating": "5",
+        "comment": "V. Good app",
+        "commentId": "gp:AOqpTOEDGiKQsAsb97TWKHrFgPSRRVgy1kcTHnCwV5-hlT0Il2GkqDUFP1dDoyu8SCZezf0hAfd0_9b2ofSeiPA",
+        "author": "Stefan Mifsud",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363912792025",
+        "starRating": "5",
+        "title": "Useful...",
+        "comment": "Excellent application.very helpful..",
+        "commentId": "gp:AOqpTOFvHfghv53AJoMqLb6nqd2H5hFS0wJvAaz5sQwtCiZZKuEIKkIrIOonZayVLamcx5l3-zM2IrwkEgey1Ng",
+        "author": "Jibin Jose",
+        "authorURL": "http://lh5.googleusercontent.com/-MUpQSlS2ru4/AAAAAAAAAAI/AAAAAAAAAJc/2uEydpLoJEM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-MUpQSlS2ru4/AAAAAAAAAAI/AAAAAAAAAJc/2uEydpLoJEM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

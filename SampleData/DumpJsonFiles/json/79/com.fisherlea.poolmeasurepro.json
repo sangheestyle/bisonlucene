@@ -1,0 +1,42 @@
+{
+  "title": "Pool Measure Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fisherlea.poolmeasurepro",
+  "category": "Tools",
+  "price": "$9.99",
+  "datePublished": "August 14, 2013",
+  "version": "2.2.1",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Fisherlea Systems",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fisherlea.poolmeasurepro",
+  "extendedInfo": {
+    "installSize": "585k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Are you measuring a swimming pool for a new liner or a safety cover?Do you want to be sure that you get it right the first time and in less time?If so, you need to try Pool Measure Pro!Pool Measure Pro is the innovative new mobile app for measuring pools for replacement pool liners and safety covers â save time and money.* Measure it right the first time - no return visits to the customer site for additional measurements.* Intelligent warning system catches common issues and oversights.* Pool-side data collection and electronic submission allows fabricators to import measurements seamlessly into their CAD systems.Recommended devices should have a 800MHz or faster CPU and a \"large\" screen.Note: Pool Measure Pro uses a pay-per-pool pricing structure. The ability to measure and export 3 pools is included in your purchase. Additional pool exports can be purchased from within the app.Please contact Fisherlea Systems at support@fisherlea.com if you have any issues with this application.",
+    "reviews": [
+      {
+        "documentVersion": "1.3.1",
+        "timestampMsec": "1337972563983",
+        "starRating": "4",
+        "title": "Best Way To Measure",
+        "comment": "Pool Measure Pro is a huge help. Finally something to help confirm that you\\'ve measured a shaped pool correctly before even leaving the backyard.  As a manufacturer its a godsend. Order entry is easier and your sure you\\'ve got what you need to cinfidently build a liner or cover.",
+        "commentId": "lg:AOqpTOGDz-DIpN657fu-iE-Lh4ACvnNcM8dEazXDd5G41uubgxyfX3H28TZpL9_pug3ID96GPeRKJq9crXDCSw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

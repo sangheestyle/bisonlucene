@@ -1,0 +1,54 @@
+{
+  "title": "First Bank and Trust",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fbandtc.mobile",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 1, 2013",
+  "version": "2.5.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "3.8333333",
+  "contentRating": "Low Maturity",
+  "creator": "Fiserv Solutions, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fbandtc.mobile",
+  "extendedInfo": {
+    "installSize": "593k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Your Goals Come First! First Bank and Trust Mobile Banking app allows online banking customers access to their account information. Safely and securely, customers may check balances, transfer funds between accounts, view account activity, locate an ATM and pay bills from a smartphone or tablet.  ItÃ­s easy to get started. Simply log into Online Banking at www.fbtonline.com and view the options tab to enroll. Mobile Banking is safe and secure. First Bank and Trust uses industry standard practices to maintain the privacy and security of your information and prevent unauthorized access. WeÃ­ll never transmit your entire account number and no private data is ever stored on your phone. Disclosure: There is no charge from First Bank and TrustÃ­s for mobile banking,  but message and data rates may apply. Please consult your service provider for details. Please note some transaction activity may not be immediately recorded to your account and may not yet be reflected in your available balance.",
+    "reviews": [
+      {
+        "documentVersion": "2.5.19",
+        "timestampMsec": "1359046339973",
+        "starRating": "3",
+        "title": "Ok???",
+        "comment": "Cannot access popmoney. Must be a bad update",
+        "commentId": "gp:AOqpTOGG2DpzanPLAqc7knBsDyHk_f4eg1aS4cX-j21AKHAUmYrw2-5ash4gThu3b1BmxmCMcMclVczn2Arucw",
+        "author": "Hugo Escobar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363470278272",
+        "starRating": "1",
+        "title": "Terrible.",
+        "comment": "The bank sucks and the app sucks worse.",
+        "commentId": "gp:AOqpTOH72H-HYfpSfYnRs_Lypk5AQjkec0nh3tiPfTCLkyxYH2tyibF1teBegqYf6eZgQsMvkTt0mSSn5JlVJQ",
+        "author": "Shannon Smith",
+        "authorURL": "http://lh3.googleusercontent.com/-3Fa79RPii8Y/AAAAAAAAAAI/AAAAAAAAAmw/PnUpXXeIHTo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-3Fa79RPii8Y/AAAAAAAAAAI/AAAAAAAAAmw/PnUpXXeIHTo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

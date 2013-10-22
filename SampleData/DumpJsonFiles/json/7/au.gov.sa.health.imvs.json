@@ -1,0 +1,49 @@
+{
+  "title": "IMVS Pathology",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=au.gov.sa.health.imvs",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "October 5, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "2.0",
+  "contentRating": "Low Maturity",
+  "creator": "IMVS Pathology",
+  "creatorURL": "https://play.google.com/store/apps/details?id=au.gov.sa.health.imvs",
+  "extendedInfo": {
+    "installSize": "7.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The IMVS Pathology app is a useful resource for patients, doctors, medical students and other healthcare professionals who need quick access to information on patient collection centre locations, pathology tests, investigative protocols, pathology collection guidelines, key contact details and the latest research in pathology. Patients can instantly find where their closest IMVS Pathology patient collection centre is located and use Google Maps to find how to get there, prepare for testing â and play an interactive game!  Clinicians can also refer to the IMVS Pathology collection guide or find diagnostic assistance.Features include:â  Patient collection centre locations â there are over 65 IMVS Pathology patient collection centres located throughout metropolitan and regional South Australia.  Quickly retrieve directions to your nearest patient collection centre using Google Maps. Each patient collection centre is displayed with a site image, contact details and location information.â   Key IMVS contact details â easily find contact details for key areas and people within IMVS Pathology, then call or email directly from your smartphone.â  Pathology-related resources including preparation for pathology testing â patients can quickly find out how to prepare for pathology testing, and clinicians can easily access the IMVS Pathology collection guide and links to diagnostic assistance.â  Interactive game: 'Path-o-logic' is a fun strategy-based game where the goal is to ensure no samples are blown up by being sent to the wrong analyser.  Guide pathology test samples to their correct analysing machine and avoid collisions on the conveyor belt!",
+    "reviews": [
+      {
+        "timestampMsec": "1318225798111",
+        "starRating": "4",
+        "comment": "Very handy. Game works well too!",
+        "commentId": "lg:AOqpTOHVdnrISsvoVCFswA5SVMXYvSula5q-g0bzIr-YDVfvbAHxwt3GBxFMp88JZaPnNHzNwXAjJ9Ae5HKQBw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366865395348",
+        "starRating": "1",
+        "title": "Does not work",
+        "comment": "Tried left and right swiping to get options. All that can be swiped is the pics with nothing to select.",
+        "commentId": "gp:AOqpTOHzCQ9PkOi-Qkx_d7FOHyU_mI5ZuzfyAk7FVIxCqPSqPQMkyKhFUASTWj88N1y--FuYUVKA9RD8i2Gn7A",
+        "author": "Natasha March",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

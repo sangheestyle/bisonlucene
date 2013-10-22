@@ -1,0 +1,38 @@
+{
+  "title": "TC3",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.shoutem.n633010",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 8, 2012",
+  "version": "3.9.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "ShoutEm, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.shoutem.n633010",
+  "extendedInfo": {
+    "installSize": "3.5M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Treasure Coast Community Church App. On April of 1992, we informally began as a small group. Six months later, TC3 officially opened it's first public service. Our temporary home was a three screen movie theater in Jensen Beach. Our theater, after being converted with equipment and stage, had 168 available seats. At the end of year one we had to add an additional Sunday Service!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.shoutem.n633010.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

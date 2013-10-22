@@ -1,0 +1,85 @@
+{
+  "title": "Interbike International Expo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.interbike2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "September 11, 2012",
+  "version": "3.3.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "2.8",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.interbike2012",
+  "extendedInfo": {
+    "installSize": "4.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Interbike is the premier cycling trade event in North America with more than 750 companies representing more than 1,200 brands - a one stop opportunity to connect with the entire bicycle industry, discover emerging trends and learn new business ideas at Interbike University. Pick your passion and find your people. From BMX to Triathlon, to OutDoor Demo and beyond. Interbike is more than just about the companies attending, it's about the company you'll be keeping. And it only happens once a year. Come for the Culture, Stay for the Show.",
+    "reviews": [
+      {
+        "documentVersion": "3.3.2",
+        "timestampMsec": "1347471590499",
+        "starRating": "4",
+        "title": "Solid app!",
+        "comment": "Full featured, useful, handy for the show. But try not to walk into people!",
+        "commentId": "lg:AOqpTOG5OHZik8rzKloyiLaHxgyApAY1OdLORVbXjsRhyCHxQMkjZdb4zvwxPXnQ3ZLGfgB8XiFSAqmxpmbmZA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.3.2",
+        "timestampMsec": "1348346166945",
+        "starRating": "3",
+        "title": "Sync",
+        "comment": "Great to have for the show. However, not all the seminars were on the app or easy to find. It would be amazing if the app would sync to iCal or Google calendar. Always room for improvements.",
+        "commentId": "lg:AOqpTOEFJPuSbAP5tViYzHtP-CbqHsTfGBiUy11sdo_ycJLScjNp-239H1NwLPFvST9FV8zZq6vbaMCOZgV2PQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346905403223",
+        "starRating": "1",
+        "title": "The right to overwrite my calendar?! Bull@#$*",
+        "comment": "I only downloaded this so that I could rate it and delete it. This invasive crap is unacceptable!",
+        "commentId": "lg:AOqpTOHa5J9xM3OygsupZ9SonjYf0jI2___ZY7WlG4e4dBTTQmiWTrGGUeTGWQA8zGNpQkeVL9HGUPG1f2c8qA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347481812003",
+        "starRating": "1",
+        "title": "Invasive permissions.",
+        "comment": "Why does it need to change my calendar, send emails, read my phone id and more? No need for that, it\\'s just an attempt to gather private data. Uninstalled. I\\'ll use the old fashioned paper.",
+        "commentId": "lg:AOqpTOGNoDRnifK32v49OE2roWiKXQ_pKNQ0OhCvzr4tJelNh2NEYIA3TG6Qx7wtUkeP895GhA5FaETXwKTsrg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

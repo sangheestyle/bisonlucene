@@ -1,0 +1,35 @@
+{
+  "title": "Suggestoid",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.joepestro.suggestoid",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 4, 2011",
+  "version": "1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Joe Pestro",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.joepestro.suggestoid",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Save time (and typing) with suggestions as you type. Suggestoid gets instant suggestions from 7 places at once!The sources are:- Your calendar- Your contacts- Google- Amazon- Netflix- Wikipedia- YouTubeAs you type, related suggestions appear automatically. Each result is just a tap away. Find events from your calendar, contacts from your address book, and related information from the web quickly.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

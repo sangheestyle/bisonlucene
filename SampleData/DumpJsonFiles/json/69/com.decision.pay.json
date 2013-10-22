@@ -1,0 +1,37 @@
+{
+  "title": "Decision System",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.decision.pay",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 30, 2013",
+  "version": "v1.0.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Alchemy Technology Co.Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.decision.pay",
+  "extendedInfo": {
+    "installSize": "8.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Decision making has been an important issue for all major corporate, but due to the fast pacing work style today, it is very hard to have time to carefully thinking though each question. A lot corporation has start to using decision making assisting software, and here we are presenting I-ching with Brainwave decision making system, a system that combineâs Chinese ancient philosophy and innovation Neuroscience that using brainwave sensor to detect your nervous level.   I-ching, âbook of changeâ,  by itself, without superstition element, is a perfect mathematic model, it observe 6 variable; Incentive, understanding and action ; for internal and external environment, and give heuristic fuzzy clustering  resolution, try it, see what you get!   This Application have option to be used with NeuroSky Brainwave sensor Mindwave Mobile, for purchasing information, please contact:Alchemy Technology www.alchemytech.com.tw+886-4-23292926",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

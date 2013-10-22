@@ -1,0 +1,54 @@
+{
+  "title": "Where To?",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dave.whereto",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "June 29, 2013",
+  "version": "0.0.6",
+  "operatingSystems": "2.0.1 and up",
+  "ratingsCount": "22",
+  "rating": "4.681818",
+  "contentRating": "Low Maturity",
+  "creator": "Where To? Developers",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dave.whereto",
+  "extendedInfo": {
+    "installSize": "7.3M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Arrived Hong Kong and dunno how to pronounce the location name in Cantonese to the taxi driver? Download \"Where To?\" and let your Android smartphone speak for you.Hong Kong has hundreds of different locations whose names are difficult for foreigners to pronounce and remember. Foreigners often have trouble communicating to local citizens, especially taxi drivers, when they want to go to various tourist attractions or popular places.Users can select three display languages: English, Traditional Chinese or Simplified Chinese. When users tap on ANY single location on the Google maps (which is not just limited to Hong Kong), the system displays the address name in the three languages. The users can choose to hear the pronunciation in English, Cantonese or Putonghua.Users can also search for a particular location and show it on map. User can tap on the bubble dialog to hear the pronunciation in the three languages.Features:* Location retrieval* Cantonese, Putonghua and English pronunciation of address name* Location search* Street viewTips:* Long tap on any location. Single press on the bubble marker. Choose one of the three languages to hear the pronunciation.* Search for a location by \"Search\" option in main menu or pressing the device's dedicated search key. Enter the search keyword by typing in the textbox, choosing from search suggestion or Google's voice search.***Please note that you have to UNTICK \"Always use my setting\" in Menu > Settings Voice input & output > Text-to-speech settings and install and enable eSpeak Text-to-speech engine in order to hear Mandarin***Recent Changes:0.0.5 - (Fix) Fixed force close problem once opening the app for some devices with 2.3.3 or above0.0.4 -1. (Fix) Long press on location with name contains single quote2. Add Google Street View in more options0.0.3 -1. (Fix) TTS installation checking screen2. Add Google Places API in search function0.0.2 -1. Rename the app from \"Voicemaps\" to \"Where To?\"2. Trim off tourist sharing board function for this version3. Remove proximity alert for lite version4. (Fix) SDCard unmount FC problem",
+    "reviews": [
+      {
+        "documentVersion": "0.0.6",
+        "timestampMsec": "1336806510045",
+        "starRating": "4",
+        "title": "Great app",
+        "comment": "Works great for most places I\\'ve needed to get a taxi to. The taxi drivers see impressed too!",
+        "commentId": "lg:AOqpTOH2hyvns0UJgMRABaU99dmd5lwsZt3KzIwBBsXkRJxEwP28rIEiUU_faL-GfplGH7tRIA27gdlaOJQp1n4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.0.6",
+        "timestampMsec": "1361354542642",
+        "starRating": "5",
+        "title": "Close to perfect, just needs a couple of things",
+        "comment": "If this app had an option to disable the Putonghua translations and eSpeak warning on start up it would be even greater than it already is. I also get a weird notification message which cannot be hidden even after exit without a force stop. Otherwise, great app!!",
+        "commentId": "gp:AOqpTOH_z3zj9tdIKZt4s32KOfax3849nSQGSvH_3GWGSUAJoruhfL8d4_R1esc7epZcmDn24mJeKlrscNIvzfc",
+        "author": "Michael T.",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

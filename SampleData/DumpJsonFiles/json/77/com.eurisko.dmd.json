@@ -1,0 +1,35 @@
+{
+  "title": "Dental Marketing Doctor: DMD",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eurisko.dmd",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "September 9, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Verasoni Worldwide",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eurisko.dmd",
+  "extendedInfo": {
+    "installSize": "498k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Dental Marketing Doctor delivers business driven dentists, dental office managers, dental practice consultants and anyone who works in the promotion of dental practices with one powerful marketing and public relations idea each business day. You will find integrated marketing and public relations ideas around the following categories such as: Advertising, Branding, Events, In-Office, Marketing, PR, Social Media, & Web.   With the DMD Dental Marketing App, users will receive one âpushâ idea per business day, Monday through Friday.  Users can save their favorite ideas, archive, access and search past ideas and share them with colleagues or on social media.  From a PR perspective, users may also receive âjust in timeâ PR and press opportunities from reporter services. DMD is a free app and is curated by Verasoni Healthcare, a Division of Verasoni Worldwide, a marketing and public relations firm.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.eurisko.dmd.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

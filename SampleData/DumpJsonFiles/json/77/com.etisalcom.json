@@ -1,0 +1,52 @@
+{
+  "title": "More",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.etisalcom",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "June 6, 2013",
+  "version": "3.0.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Etisl",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.etisalcom",
+  "extendedInfo": {
+    "installSize": "5.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Description SIP Android Dialer.With More on your Android, you can make and receive phone calls with crystal clear sound quality for FREE or at super low rates. More is easy to download and use. You can call over EDGE, 3G* or WiFi.Main features:* Making and receiving VoIP calls* Connectivity through WiFi / 3G / EDGE* Integrated contacts from the phone* Loudspeaker* Favorites* Time, call status logs* Last calls log* Redial* Audio codecs:G729,G711,GSM * Support for codecs G.729 for high quality audio* Compatible with Android* Android address book integration",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_LOGS",
+      "android.permission.USE_SIP",
+      "android.permission.CONFIGURE_SIP",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PROFILE",
+      "android.permission.WRITE_CALL_LOG",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

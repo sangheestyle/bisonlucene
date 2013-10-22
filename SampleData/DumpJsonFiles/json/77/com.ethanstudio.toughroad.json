@@ -1,0 +1,51 @@
+{
+  "title": "Narrow Road",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ethanstudio.toughroad",
+  "category": "Sports Games",
+  "price": "Free",
+  "datePublished": "December 14, 2011",
+  "version": "1.2.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "10",
+  "rating": "3.5",
+  "contentRating": "Low Maturity",
+  "creator": "EthanGao Studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ethanstudio.toughroad",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Narrow Road is a traditional China block puzzle game(at China, it's well known as Hua Rong Dao, it's one of the three most popular game in China, the two others are Tetris and Jewels). The game is designed to several different levels, from easy to difficult, however, the aim is same where the largest block (marked as red in the right image) must be moved to the bottom middle location(marked as gray in the right image). It maybe a little difficult for a fresh new gamer, but DO NOT give up. After some try, you will handle the spirit of this game and enjoy it a lot. Narrow Road is also known as klotski, huarongdao ,hua rong dao, åå®¹é.Enjoy it:)",
+    "reviews": [
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1376832877095",
+        "starRating": "3",
+        "title": "A bit rough around the edges",
+        "comment": "The in-game presentation is good, but the experience feels unpolished: poor controls, basic UI and a few crashes here and there.",
+        "commentId": "gp:AOqpTOHjjUte8zd77kLuwTFCEpAnHvm4qnKYGWLsAOUWOXkULU8CuXxvTXU0101Mz3Wo7r9weZd1G7YlhgGvq0Q",
+        "author": "Herv\\303\\251 Piton",
+        "authorURL": "http://lh6.googleusercontent.com/-wFzfygfPTGk/AAAAAAAAAAI/AAAAAAAAAcI/f_Tsji1zCsk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-wFzfygfPTGk/AAAAAAAAAAI/AAAAAAAAAcI/f_Tsji1zCsk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1303469158540",
+        "starRating": "3",
+        "comment": "I suppose it good if you like that sort of thing...not my cup of tea though. Theres no excitement only frustration.",
+        "commentId": "lg:AOqpTOEpd0ReZvf17-cfX12FVMPQb8ZoJOdeCwyot-1SiH76JkTVD_e5WtIaK0qugAmhQQTD7LAl60jwXW9he6A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

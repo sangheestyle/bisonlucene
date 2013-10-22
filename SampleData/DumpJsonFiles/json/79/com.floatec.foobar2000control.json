@@ -1,0 +1,227 @@
+{
+  "title": "FooBar 2000 Remote Control",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.floatec.foobar2000control",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "May 18, 2011",
+  "version": "1.13.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "346",
+  "rating": "3.9450867",
+  "contentRating": "Everyone",
+  "creator": "Floatec",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.floatec.foobar2000control",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Allows you to control your foobar 2000 player with installed foo_httpcontrol addon(http://www.floatec.de/downloads) with your android handy.you are an developer? And interessted to help on this project? Then write me an email to android@floatec.deFeatures:* basic control options like play&stop* use hardware volumekeys for control * select a track of the playlist* change playlist* manage your queue* change playing order* option to mute/pause on incoming calls(only with active running app)* go to a position in the track with the seekbar option(only works if you have done all steps of the installation instructions)* app2sd##HOW TO##First, download the foo_controlserver file from the following destination on your PC.www.floatec.de/downloadsNext unzip this with a an Zip program (WinZip, WinRAR, 7zip).  In the unzipped folder there is an subfolder called bin. in this folder there is a DLL file(\" foocontrolserver.dll\").  Extract or copy this file into your FooBar2000 components directory (default:\"C:\\program files\\foobar2000\\components\\\"). If Foobar is already running on your PC, please restart it.  Now the addon sould work.  Confirm this by going to Library -> Configure and under the Tools menu should be Control Server.  Configure as you see fit as it will generally function.  Please note the update comment below if you experience seeking problems.  If your Android device doesn't connect to the FooBar2000 confirm 3333/tcp is open on your firewall and ports are correctly forwarded. Thank you for using my software!Please leave a rating in the Android Market.Update - to correctly use the seekbar change the %bitrate% attribute to %length% at the addon Settings.IF YOU HAVE ANY PROBLEM WHIT IT SEND ME A MAIL AND NOT LEAVE ONLY A COMMENT!!!",
+    "reviews": [
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1327780475678",
+        "starRating": "5",
+        "title": "Fabulous!",
+        "comment": "So easy to install. Very well thought, very well imlemented. Bravo! I\\'d prefer tbhat wifi is not forced on when my screen goes off Would be nice if steady pressure on the vol boutton traslated by time linear inc/Dec of the volume.",
+        "commentId": "lg:AOqpTOGGHLh4MN6f4c7SwrCwwAXj6GDVIarPJ8Cz17GCuyX8gvqTuSXYJhDiAkGQYAENbKiCJgUaeLvEq6Fk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1313654633389",
+        "starRating": "5",
+        "title": "Great app and great customer support",
+        "comment": "Everything is working great on my htc wildfire, and support is awesome. I did have a little problem and by emailing the developer it was resolved in about ten minutes. Thank you for this great app.",
+        "commentId": "lg:AOqpTOHN4S1XfCRitHu4tjdx4PxYB6HMk2wZ5qkPRu8PrTgIWs8WHgSwEf4jNO1CPwEhAkzCn6QYsXLJVWQm",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1371429432620",
+        "starRating": "3",
+        "title": "Almost there"
+      },
+      {
+        "commentId": "gp:AOqpTOEvCrRVtvo33io1zen7X1tER6FomB2O5ncESuEaPVeZjqe6LU4doGOtAumV3vtwD7phKKA9vdzjIhEj",
+        "author": "Aleksandr Oreshkin",
+        "authorURL": "http://lh6.googleusercontent.com/-RC1UJds8eek/AAAAAAAAAAI/AAAAAAAABeY/wCr1L2IKkmg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-RC1UJds8eek/AAAAAAAAAAI/AAAAAAAABeY/wCr1L2IKkmg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1351771752862",
+        "starRating": "1",
+        "title": "Does not work for me",
+        "comment": "I installed the 1.2 components and set the IP. I can connect with the Android browser but not with the application! The right port and the IP was set. 4.0.4 on Galaxy S, Foobar 1.1.15, Windows 64, working with non administrator user, components installed as admin",
+        "commentId": "lg:AOqpTOFxK530itM0ff-ZBIr0QqnTe1ZiWlmImVcfJFPxCppmpVUnEfkZYgrFADv6FpIx4FrpMKSPl3z5YewF",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1345993878389",
+        "starRating": "1",
+        "title": "Unstable App",
+        "comment": "Very unstable app. Keeps force closing on my samsung infuse 4g and hangs my phone.",
+        "commentId": "lg:AOqpTOGeMMP4t386FCOJH0qTWoT--Zd_vJHdykjlbVbW-mSEH41b7bECHiiRnGEN4w6gDTA3dkT_sqaCiFLs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1314835338852",
+        "starRating": "2",
+        "comment": "Fix your code.. Cpu use gets to 90% and it gets very hot.. Galaxy s2",
+        "commentId": "lg:AOqpTOE6ltv-XJQLKtuu_YZqGFFHmFuXW-zA9BkdNrW_mTominFb5I5GaXx_UFZFk1DjHYZImxIY_Yteo1eN",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1360006497568",
+        "starRating": "4",
+        "title": "Good prog but...",
+        "comment": "Can\\'t understand how to fix seek function (  Where can I change settings? Program doesn\\'t support russian characters in tags.",
+        "commentId": "gp:AOqpTOGgDlI_MUKNMjsBlNtPNb7h27Vcd98CB-sFtJo3-JyMGP2nXR8xTLWsVJ-e8xYf2Du9XD6GrBxDNXOq",
+        "author": "Yury Vasilchikov",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1358095539829",
+        "starRating": "5",
+        "title": "Functional",
+        "comment": "This apps delivers. Simple and functional.",
+        "commentId": "gp:AOqpTOFwS39jdWl8Plzv_p_hQXVCFYKJf1fCCKN9WVfUHOQISk8HLwCjFjC42sCmoerv3CqyeqOfFq6c7KIc",
+        "author": "Johnny Bigoode",
+        "authorURL": "http://lh5.googleusercontent.com/-nMI1EqMnSNE/AAAAAAAAAAI/AAAAAAAAAGc/GL5PtYjy4ck/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-nMI1EqMnSNE/AAAAAAAAAAI/AAAAAAAAAGc/GL5PtYjy4ck/photo.jpg"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1349529006842",
+        "starRating": "5",
+        "title": "Perfetta!",
+        "comment": "EDIT 06/10/2012: works good with win7x64, foobar 1.1.15 and Nexus S!",
+        "commentId": "lg:AOqpTOHx0QsY5DVD6sXfHTZS97AVgImagNTWneoWfmFq1egrxvzCaFvTYzaW_Z62bNa1JR2yRm35pvS4Ae8Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1352410685334",
+        "starRating": "4",
+        "title": "OK.",
+        "comment": "I like it. It works. Except for the Search function, which does not work. I\\'d pay $ if it did.",
+        "commentId": "lg:AOqpTOG2GqGZ1csmrgRedMEtJXrIZlQRCCycoSk9V8Yg01q5LMicxeFCPq9QQhkGQ6T26mPxilCEyB-pwA3y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1334056729037",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Works well",
+        "commentId": "lg:AOqpTOGQMuwgZ0xZp68iJm6aEkj0Ykr1Q2yDgOC-WT73pt_NTbxfj5suzwJ5a1M4j2FGD8hX9sQTS8F_2nAv",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1329448865960",
+        "starRating": "5",
+        "title": "A very good app",
+        "comment": "Works great!",
+        "commentId": "lg:AOqpTOHqg83UViC_tvqgIl9kROkOt-Ix8_iPivHaiDvNsRe9LlbkHe1KCn9pfyFYsLUl83Z2TEOlH3nXyf8v",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1312785114694",
+        "starRating": "4",
+        "comment": "very cool\\357\\274\\201but please support chinese language when it is display music playlist.",
+        "commentId": "lg:AOqpTOGYrNbqt36Aazv3vmKF0yNOH7F5saUXt2I4YFahLpRihSqxpBeGNyg1cRz4xYgIpTSt29P6j1k7MlVO",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1330356327363",
+        "starRating": "1",
+        "title": "Badly designed app",
+        "comment": "Hard to set up and use",
+        "commentId": "lg:AOqpTOGcc4K5DJgyLFj4_xAu2bNIyXRV84Dds5bpgpAS9T4lERV9v9CUGP9SJCQjsjYz9EVPBftqBzqHPNQ3",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1341056721435",
+        "starRating": "5",
+        "comment": "Very nice app",
+        "commentId": "lg:AOqpTOHSEw5OGXkG1JF17Gw-44fSiTusJE5W2XYPJ5x6Hop7LjM6DRtJ8qtBpywCgqOCDHz5ENjrDhhQA9I1",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1330872168546",
+        "starRating": "4",
+        "title": "very good, but can\\'t support chinese.",
+        "comment": "very good, but can\\'t support chinese.",
+        "commentId": "lg:AOqpTOF6fQwxRwNnGlXLlEGB7je8H1eQ_WcsqQN-ipG1cLbz7Ux1FFK3rp9cxNCxMwK7ZTo4NT8dMI7C2fu8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1320340127196",
+        "starRating": "5",
+        "title": ":-)",
+        "comment": "very handy I like it, but please fix the high cpu usage after exit from app",
+        "commentId": "lg:AOqpTOGiAzP02UbCeh46AExZQsgYi8kHTKLSnJWWtaZm_wlEkz-94ClXdwUT6Nct67XC4IIVG2YL6pvQxZRO",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1332507665333",
+        "starRating": "2",
+        "title": "No access to library!!!",
+        "comment": "Big limitation without library access. Take a look at winamps remote aWARemote.",
+        "commentId": "lg:AOqpTOHhX7rT9iy5YCXrRaTnYX2iBMET5SgWALPAxku-k-0dbw9YX2c-NjKiyY6ZIdSi9mIelmVVSTV_zUH9",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1312651534294",
+        "starRating": "3",
+        "comment": "Does not support chinese language",
+        "commentId": "lg:AOqpTOGQZmuvctfdWf0CxDYHAnwCHRcTB0nbWOtZ2QDhrjEcX7efB6Uc6suplUNfYU8YycX0TC_9NAF5dfu5",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.13.0",
+        "timestampMsec": "1370718906816",
+        "starRating": "5",
+        "title": "The best!!!",
+        "comment": "Easy to use, fantastic software.",
+        "commentId": "gp:AOqpTOFS_HWQLQr4OqTTqrt435G_bsBQF4_CIfiFPX0weXaoThho1uWgXGM_QYD2q5oxo6RD18UepmE4zUm2",
+        "author": "Stanko Stankovic",
+        "authorURL": "http://lh6.googleusercontent.com/-rBX8przUEDk/AAAAAAAAAAI/AAAAAAAAARM/oHknDHr-gKI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-rBX8przUEDk/AAAAAAAAAAI/AAAAAAAAARM/oHknDHr-gKI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

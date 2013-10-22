@@ -1,0 +1,44 @@
+{
+  "title": "Example App | Test",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.journeymanapps.phonegaptest",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 22, 2011",
+  "version": "1.4",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Norris Charles",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.journeymanapps.phonegaptest",
+  "extendedInfo": {
+    "installSize": "123k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "This is a sample only of phone gap",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

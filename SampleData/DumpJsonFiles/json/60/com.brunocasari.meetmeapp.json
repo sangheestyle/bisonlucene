@@ -1,0 +1,56 @@
+{
+  "title": "Share Location Coordinates",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.brunocasari.meetmeapp",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "May 11, 2013",
+  "version": "1.2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.8",
+  "contentRating": "Medium Maturity",
+  "creator": "Bruno Casari",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.brunocasari.meetmeapp",
+  "extendedInfo": {
+    "installSize": "642k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This application enables you to easily share a location with any of your contacts. Using the app is as easy as pinpointing a location on the map and then choosing an appropriate channel to share the generated Google Maps link, which can include sending it as an SMS, e-mail and many more (i.e. Facebook, WhatsApp messages, depending on the applications currently installed on your device). The receiving party does not need to have the Share Location Coordinates application installed to view the location on Google Maps and therefore, the link can be opened on any smartphone (Android, Iphone) and PCs.Share Location Coordinates is free and displays no adverts.If you have any suggestions or would like to report a bug, please contact us via the email address posted below.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1374800989660",
+        "starRating": "5",
+        "title": "Amazing!",
+        "comment": "Has become my replacement now that Google Maps has gotten rid of location sharing. Great design and functionality.",
+        "commentId": "gp:AOqpTOHnN89gx8ON-z2Sjq873tBE5oXbGs4syfPHUu_XWOrKFEL39c-rgm-qLdz1Q1a61XdHvgd8CQWayICfHQ",
+        "author": "Alexander Wekell",
+        "authorURL": "http://lh5.googleusercontent.com/-yH7ooPAkLCc/AAAAAAAAAAI/AAAAAAAAG7I/3rgOP7Sy7ig/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-yH7ooPAkLCc/AAAAAAAAAAI/AAAAAAAAG7I/3rgOP7Sy7ig/photo.jpg"
+      },
+      {
+        "timestampMsec": "1350744236862",
+        "starRating": "5",
+        "title": "Meet your friends quickly",
+        "comment": "Excellent app for when you need to quickly share a meeting location with your friends! However, it would also be nice to have a mechanism to search a location by address.",
+        "commentId": "lg:AOqpTOGrgCFt_uX2DV5ebzkoq2mOg17n45hd72ZtYoyfVL6n5SOxoSCzVP7ZKv41UzzM39S3fuOsg-NAtshNgQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350151528713",
+        "starRating": "5",
+        "title": "Nice, simple app",
+        "comment": "Nice app for when you want to find somebody!",
+        "commentId": "lg:AOqpTOEo_-5YsdonbyV0vI3lNYS3KrOtnEIK2Kz5vwCNP8DdMSo02XgxKbhpn9FrUuVm-GtSOLGt9EAzyP7LoQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

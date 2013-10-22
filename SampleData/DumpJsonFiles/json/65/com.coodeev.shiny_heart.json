@@ -1,0 +1,70 @@
+{
+  "title": "Shiny Heart Battery HD 2x2",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coodeev.shiny_heart",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "June 4, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "27",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "coodeev",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coodeev.shiny_heart",
+  "extendedInfo": {
+    "installSize": "656k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "HD Shiny heart battery widget 2x2 Which displays battery level in percents. This widget has also a status bar notification with current battery level, which user can shut on/off.",
+    "reviews": [
+      {
+        "timestampMsec": "1372707371836",
+        "starRating": "1",
+        "title": "Terrible",
+        "comment": "Wont even let me open it.",
+        "commentId": "gp:AOqpTOFMa0le1ADXeYRR6953qNSjMHZrVwpuprvzOpRMCJc2I7E2_yxfTiS2pOtwO_qaCbWK9i6aAywnLexQkOo",
+        "author": "Lauren Mi Patterson",
+        "authorURL": "http://lh6.googleusercontent.com/-g78rh9ZpOZA/AAAAAAAAAAI/AAAAAAAAABQ/TN-ed69VbmA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-g78rh9ZpOZA/AAAAAAAAAAI/AAAAAAAAABQ/TN-ed69VbmA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363447279914",
+        "starRating": "3",
+        "title": "Shiny heart battery",
+        "comment": "Very nice",
+        "commentId": "gp:AOqpTOE_ATsvLFW_DNm_Tw8baEmru7ieXycLZggRy9vpfzE1lj0FowN8Qd12y-INxtRf9vQJPR3V4o389EIAX-E",
+        "author": "baron pedreira",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356641168825",
+        "starRating": "5",
+        "title": "Love this Widgets, but",
+        "comment": "I love this widget but I wish you could change the color of the heart and color burst.",
+        "commentId": "gp:AOqpTOGV8cdyubMBA0T1xFNzGBAT2JFUdyLfprGVprplrr9qJZ_QFDUgRXp9cNb75tJNhoWS4Es5fHNIito1FEo",
+        "author": "Bethanee Baker",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ALARM_ACTION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

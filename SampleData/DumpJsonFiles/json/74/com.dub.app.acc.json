@@ -1,0 +1,46 @@
+{
+  "title": "ACC Member-to-Member",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dub.app.acc",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "September 24, 2012",
+  "version": "2.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Medium Maturity",
+  "creator": "Dub Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dub.app.acc",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Association of Corporate Counselâs Member-to-Member (M2M) is the worldâs largest online community of in-house counsel and the M2M app puts it right in your hands. M2M offers all 30,000+ ACC members everything in one place, including:â¢\teGroups discussion forums for sharing ideas and addressing challenges with practice-area peers, fellow chapter members, or open groups.â¢\tACC Announcements that keep you informed about the latest resources, coming events, hot topics, and other important information.â¢\tOptions to edit your profile, view the latest resources added, read blog posts and more.â¢\tNetworking options and a member directory that let you connect with other in-house counsel by location, law school, specialties, personal interests and many other choices.ACCâs Annual Meeting Includedâ¨If youâre attending ACCâs Annual Meeting, thereâs an entire section included within the M2M app. This section lets meeting attendees create a customized agenda, view session listings, exhibition hall maps and exhibitor lists and an attendee directory, and more. New for 2012, the app lets you create notes for specific sections and email them to yourself or others.Access the worldâs largest online community of in-house counsel with you wherever you go. Stay connected to the Association of Corporate Counsel with Member-to-Member.â¢\tFor more information on ACC Member-to-Member, visit http://www.acc.com/m2mâ¨â¨â¢\tFor more information on the ACC Annual Meeting, visit http://am.acc.comâ¨â¨â¢\tTo join the Association of Corporate Counsel, visit http://www.acc.com/joinâ¨â¨â¨About ACCâ¨The Association of Corporate Counsel (ACC) is a global bar association that promotes the professional and business interests of in-house counsel through information, education, networking opportunities and advocacy initiatives. The association, which is celebrating its 30th anniversary, has over 30,000 members employed by over 10,000 organizations in more than 75 countries. ACC connects its members to the people and resources necessary for personal and professional growth. For more information, visit www.acc.com and follow ACC on Twitter http://twitter.com/ACCinhouse. By in-house counsel, for in-house counsel.Â®",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1319059898664",
+        "starRating": "4",
+        "title": "Looks useful",
+        "comment": "Would be nice to be able to access course materials through the app and search attendees by demographic info (e.g., state)",
+        "commentId": "lg:AOqpTOEhmRPYI1y5qeOkEeAfmjsaXxKAXOPKLHuIjgK6kf2PzgE4QILfLbooNZySyk81rPDVNypnyY2eqd48F4Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

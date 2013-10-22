@@ -1,0 +1,73 @@
+{
+  "title": "Stay Awake + widget",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fluffydelusions.stayawake",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "April 13, 2013",
+  "version": "1.0.3",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "12",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "Fluffy Delusions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fluffydelusions.stayawake",
+  "extendedInfo": {
+    "installSize": "261k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "A simple app that will keep your screen on.  Choose between \"Always stay awake\" or \"Only while charging\" All activity is logged and available for viewing. Also includes a widget and ability to toggle on/off status icon.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1368421909997",
+        "starRating": "5",
+        "title": "Does the job",
+        "comment": "Till now used stay awake from runks , but upgraded to 4.2.2 and and it stopped working.  Not Only this works but also got option to notification icon so you wont forget its on.  Little improvement tip to the author , when settings are off , i think the notification icon should be removed automatically without pressing exit.",
+        "commentId": "gp:AOqpTOGx1MLDviYHarUcVk_Pvm1kwQAeoXu_VmE8rPnoWigEGTjNSOf9daQR72A3PegxagU-9uN01dBX6Re5AQ",
+        "author": "Hagay Goshen",
+        "authorURL": "http://lh3.googleusercontent.com/-DkCBv0HDL2w/AAAAAAAAAAI/AAAAAAAAAAA/Rw-OsYgi7Qc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-DkCBv0HDL2w/AAAAAAAAAAI/AAAAAAAAAAA/Rw-OsYgi7Qc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1376242487485",
+        "starRating": "5",
+        "title": "WORKS SWEET!",
+        "comment": "Tried tons of other apps, nothing worked except this one!!! Keeps my S4 screen from auto-dimming while plugged in!! THANK YOU! :D",
+        "commentId": "gp:AOqpTOECq9U6hQ1ojWtotrTlK41YSXttCfYwS7jridkut-MXr2I-pGjoNgxmvof0PJ7F1AQySF6PKCvE2paH0g",
+        "author": "Jamie M",
+        "authorURL": "http://lh4.googleusercontent.com/-1qUiTFUz5ec/AAAAAAAAAAI/AAAAAAAAABE/g2zCou8jJlQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-1qUiTFUz5ec/AAAAAAAAAAI/AAAAAAAAABE/g2zCou8jJlQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1373885499240",
+        "starRating": "5",
+        "title": "It works!",
+        "comment": "While others didn\\'t.  Nook HD+, CM 10.1",
+        "commentId": "gp:AOqpTOEnIe6qpUexCp1ttZqgMFbSOpQFL513JEqHLLLml71OR8IlSD1Doh6OQbQCqPw_rrB2xdRKnc1JjQWcNQ",
+        "author": "Alex P",
+        "authorURL": "http://lh3.googleusercontent.com/-4J-ub99PCAg/AAAAAAAAAAI/AAAAAAAAAA4/tY1ie2BZLGg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-4J-ub99PCAg/AAAAAAAAAAI/AAAAAAAAAA4/tY1ie2BZLGg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370770963585",
+        "starRating": "1",
+        "title": "Boring",
+        "comment": "I dont think it works,  Uninstalled..",
+        "commentId": "gp:AOqpTOFRuArRgA0jyWkWZ0li9nUls9JP1G-a-vI3d49syDl47TOQ6_lhChx59oaWzFbEQ0kZoAgwmIc9G9yWkw",
+        "author": "Natalya Davis",
+        "authorURL": "http://lh6.googleusercontent.com/-nH9FXRn9owc/AAAAAAAAAAI/AAAAAAAAAfI/PpGxqm4habo/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-nH9FXRn9owc/AAAAAAAAAAI/AAAAAAAAAfI/PpGxqm4habo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.WRITE_SETTINGS"
+    ]
+  }
+}

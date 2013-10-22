@@ -1,0 +1,42 @@
+{
+  "title": "Assault Captain",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eces.scdmr.leks.captcomm",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "July 21, 2013",
+  "version": "2.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Captain Gunner Arcade",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eces.scdmr.leks.captcomm",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Assault Captainfollows the same gameplay established in Capcom's previous beat-'em-up Final Fight. The arcade version allows up to two, three, or even four players simultaneously depending on the game's settings. The player can select between any of the four \"captains\"  as their character, with each player controlling a different character. The player's objective as usual is to move towards the end of each stage, defeat every adversary who gets in their way while avoiding any traps that they may throw at the player's way before eventually fighting the boss awaiting at the final area of each stage. The game consists of a total of nine stages.The control configuration is exactly like Final Fight, with an eight-way joystick for moving the character left or right, as well as towards or away from the background, along with two action buttons for attacking and jumping. The player can perform numerous combination of attacks while standing or jumping, including grabbing the enemy, as well as a special attack by pressing the attack and jump simultaneously that will drain a portion of the player's vitality. An addition to the controls is the ability to dash by pushing the joystick left or right twice. The player can perform a running attack or even a running jump attack.Like in Final Fight, the player can pick up health-restoring food items hidden inside barrels and other destructible objects to restore their vitality, as well as other bonus items to increase their score. Weapons also can be picked up, such as three different types of firearms, as well as shurikens that can only be used by Ginzu. Players also can ride certain robots by dismounting their riders and then jumping over the robot. The robots has their own vitality gauge and if they sustains enough damage, it will be destroyed. There are three types of robots in the game: a punching robot, a flame-throwing robot, and a freezing robot. Unlike Final Fight, weapons can be carried when the player makes the transition to a new area until the stage is completed.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

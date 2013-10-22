@@ -1,0 +1,44 @@
+{
+  "title": "Freds Agency",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dezrez.fredsag",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "February 13, 2013",
+  "version": "3.1",
+  "operatingSystems": "2.0.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dezrez Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dezrez.fredsag",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "At Freds our friendly team aim to offer the most refreshingly stress-free buying and selling experience you will find.A genuinely warm welcome awaits you in our office. Call in and be confident that our fresh approach will exceed your expectations.At Freds we offer an unequalled service designed to give every property the ultimate chance of a successful sale, together with realistic valuation advice based on local research and experience.What's new in our Version 3.0 App?- Up to Android 4.0 (Ice Cream Sandwich) support.- Many more devices supported.- Re-designed User Interface.- Intuitive Flyout Menu Navigation Panel.- New \"Recent Searches\" & \"Recent Properties\" sections.- Full Branch Contact Details (with \"Add to Contacts\" feature).- Request Mortgage Quote Form.- Plus much, much more!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "com.merrys.main.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Defrage - OFFICIAL APP",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.defrage",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "September 8, 2013",
+  "version": "4.0",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "9",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "WeAppU",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.defrage",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "All-time-touring rock band Defrage from Estonia is here to shake your ground! This 2007 formed group of musicians brings you the ultimate mixture of rock and alternative metal.The band has received a degree of fame by numerous gigs in Estonia and winning the Estonian MTV Award for Best Music Video in 2009 for \"Save Us From Religion\". ATTENTION!In case of problems with updating the app (errors may occur in design and functionality) just uninstall the app and download it again from the Google Play Store!",
+    "reviews": [
+      {
+        "timestampMsec": "1364336848830",
+        "starRating": "5",
+        "comment": ":)",
+        "commentId": "gp:AOqpTOFCMNs3udiK7GZA4Sb_lA2uLaoVM5Vvj1liTsot-EOmHHxFLJMHJZZq1P04o842GHxvcvt6aJUpsKkwZw",
+        "author": "Fred Suup",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363525457271",
+        "starRating": "5",
+        "title": "Beginning",
+        "comment": "Good app for a real music listener . Keep it up & high , Defrage !",
+        "commentId": "gp:AOqpTOE6smIWb-7M6gq7w_Mc_43w4KDf9SbzzNNAVJMSGhRDMgb8HivpMxF98xDhKJyZAfLXOA5rLskuN_JIfg",
+        "author": "Rob Jurvetson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.RECORD_AUDIO",
+      "com.defrage.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.defrage.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

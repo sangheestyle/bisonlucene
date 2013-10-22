@@ -1,0 +1,34 @@
+{
+  "title": "Indigo News Stand",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dissue.indigo",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "July 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "3",
+  "rating": "2.3333333",
+  "contentRating": "Medium Maturity",
+  "creator": "3D Issue",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dissue.indigo",
+  "extendedInfo": {
+    "installSize": "6.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "With this app you can download to your tablet the interactive printed edition of Reporte Indigo Cinco DÃ­as. Interactive version features videos and animations and the best investigative Journalism.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.READ_INTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

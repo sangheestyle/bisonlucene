@@ -1,0 +1,34 @@
+{
+  "title": "Eken Cup",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cupmanager.eken",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "June 15, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "CupManager",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cupmanager.eken",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The official Android Eken Cup App!Find the latest Eken Cup news, the entire game schedule and all results in your hand as you navigate through GubbÃ¤ngsfÃ¤ltet enjoying Eken Cup.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.cupmanager.eken.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

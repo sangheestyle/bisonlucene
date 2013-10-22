@@ -1,0 +1,43 @@
+{
+  "title": "TrafficViews Donate",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dustinjorge.trafficview.pro",
+  "category": "Travel & Local",
+  "price": "$0.99",
+  "datePublished": "August 30, 2011",
+  "version": "1.0.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Dustinmj",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dustinjorge.trafficview.pro",
+  "extendedInfo": {
+    "installSize": "196k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "TrafficViews allows you to save, then quickly recall live \"views\" (define a view as zoom and gps position) on a Google traffic map simply and easily. This app was born out of necessity for personal use.As an avid user of Google Maps traffic interface to check my traffic situation when leaving for (or leaving to return home from) work, I realized that I wanted something with a bit more functionality, thus, TrafficViews was born. With TrafficViews, I can open the app and load one of my saved \"views\" directly from the app menu. This allows me to quickly and easily check the most congested points on my route (in real time) without having to zoom and pan through the maps interface.Options include:*Save and recall any view at any zoom level quickly and easily.*Quickly pan back to your location from the menu, so as to follow yourself after checking out one of your views.*Zoom at any time to your default zoom level (as you have specified in settings).Settings Include:*Default Zoom Level: The level at which the map should zoom if no other information (like a zoom from a saved view) is given.*Map Type: Toggle all of your views between satellite or plain map.*Show Location Marker: Shows a star at your location.*Update Interval: How often to update the app along your route if you are being followed.*Full Screen: Whether or not to have the app take over the notification bar window... useful if you want to turn your phone into a full screen navigation unit.*Animate To View: Animations are disabled by default to save time and data, you may enable them if you want.*Allow Landscape: This overrides your current orientation settings for this app only allowing you to toggle landscape mode on or off... useful if you want to use the app in a vehicle mount.*Keep Screen On: If you have your device plugged in to your vehicle, and want to have the screen on constantly while in your vehicle mount, you will want to select this option.*Keep Screen Bright: This is a modifier for the \"Keep Screen On\" setting that allows you to force the device screen not to dim during the day, but you may want it to dim at night.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1370813183171",
+        "starRating": "5",
+        "title": "Simple and quick",
+        "comment": "Just what I wanted.",
+        "commentId": "gp:AOqpTOEBCKDS4N-OnV9fTp2OOoSEMk6vQ33pz7JFqsGLRlpghor6f7WKbLqIh5zi4nJEf9MxlhzAG2tbMMDiog",
+        "author": "Bonnie Russell",
+        "authorURL": "http://lh6.googleusercontent.com/-2_RFl4H-RsQ/AAAAAAAAAAI/AAAAAAAAAMs/MCkKc9CZIdY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-2_RFl4H-RsQ/AAAAAAAAAAI/AAAAAAAAAMs/MCkKc9CZIdY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

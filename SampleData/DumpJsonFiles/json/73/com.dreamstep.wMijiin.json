@@ -1,0 +1,49 @@
+{
+  "title": "Miji - Search hotel better!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wMijiin",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "February 18, 2013",
+  "version": "0.34.13329.18841",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Miji",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wMijiin",
+  "extendedInfo": {
+    "installSize": "116k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Why Miji?* Search for the best hotels* Over 2 million hotels to choose from* Compare deals over 120000 destinations* Verified guest reviews* Available in 24 languages & 120 currencies",
+    "reviews": [
+      {
+        "documentVersion": "4.13329.18841",
+        "timestampMsec": "1340259945786",
+        "starRating": "5",
+        "title": "Miji Rocks",
+        "comment": "I was looking for hotel search apps when i stumbled upon miji in the google play store. \\303\\217t is extremely fast and simple to use and offers a wide range of hotels.",
+        "commentId": "lg:AOqpTOGDIYvBX9GVdYnW1nTZUojonjZ__jIRjzzRJ3DHvEpQ7qQ5Dv4s0akxCrkjnep6NWjNdPWZjzIWIsGilg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.13329.18841",
+        "timestampMsec": "1340271137960",
+        "starRating": "5",
+        "title": "Useful app",
+        "comment": "Simple...fast and useful",
+        "commentId": "lg:AOqpTOEhaQvGK2YPlSE4DZPPzxOW2dExb75WEZBcDOpfkqpKNVrefFeyjc6Nlg6QHSxHdyO_O3yVYcuaESY9Qw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wMijiin.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

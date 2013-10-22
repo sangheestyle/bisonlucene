@@ -1,0 +1,42 @@
+{
+  "title": "Marymount College",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.desire2learn.d2l.marymountpv.edu.directory",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "October 17, 2012",
+  "version": "1.0.519.828",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Desire2Learn Incorporated",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.desire2learn.d2l.marymountpv.edu.directory",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Application for accessing My.Marymountpv.edu and other college resources from your mobile device, including: * News* Athletics* Library* Cafe* Faculty Directory* Shuttle Schedule* Calendar* Campus Maps* Security* Alumni Resources",
+    "reviews": [
+      {
+        "timestampMsec": "1366654745647",
+        "starRating": "5",
+        "comment": "Love this app! Quick and easy way to check the sports schedule and lunch menu. Lol. And, of course its many other useful functions are great, too.",
+        "commentId": "gp:AOqpTOHF49y49V6tGgycgsKdq5ytiEMgVCb7g6OxB-6UpTxZaBICUEjF8OA4SFnpVKK-U2lWkTc_3RDXWxpCwQ",
+        "author": "Rosa Ramirez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.desire2learn.d2l.marymountpv.edu.directory.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

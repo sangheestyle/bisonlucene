@@ -1,0 +1,31 @@
+{
+  "title": "Auto Ringer Volume",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ernotokes.arv",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 24, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Erno Tokes",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ernotokes.arv",
+  "extendedInfo": {
+    "installSize": "104k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Auto Ringer Volume adjusts automatically your phone's ringer volume based on your environment noise. Either you're in the office, you're driving, walking on the street, sleeping or you just can't schedule your stay, the app adjusts the volume accordingly, listening to your world.The app takes short audio samples (few milliseconds, without storing) from the microphone and converts to dB for volume adjustment. It also listens to your phone's proximity sensor (if available) and makes your ringer volume a bit louder in case your phone is in your pocket or covered. The app is automatically paused when you place a call or you are called.For ICS+ users the 'Use Calendar' feature makes your phone silent when a calendar event's availability is marked \"busy\" (in google calendar can be changed, other calendar apps may not support this property and mark events \"busy\" by default).To use the app you have to place the Auto Ringer Volume widget on your home screen. You can control the app from the widget by enabling or disabling it.To open the app's preferences you can tap on the Auto Ringer Volume in the notifications list or from the app launcher. For example you can set if the app should pause listening to the microphone when you use your device, actually when screen is on. This is recommended because some apps which play audio will clip sound and others which use the mic (like Skype) may not work properly.If the app does not work well on your device please let me know, I'll try to make it work for future releases. Because of different hardware manufacturers and sound driver implementations the app may not work as intended. When you comment or email me please specify both the device and android version too.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Xpense Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cit.expense.main",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "October 21, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5",
+  "rating": "4.6",
+  "contentRating": "Medium Maturity",
+  "creator": "Congruent Infotech",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cit.expense.main",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Xpense Manager helps you in recording your expenses based on categories. In addition, you can now set the budget for different existing categories/your own categories. Categories will be automatically identified if its expense exceeds its budget. Any of your expenses can be tagged with tax codes/sections which help in filing taxes. Keep track of your expenses whether they are reimbursable or not and cloud integration for your data backup is available in future. Pictures of receipts can be saved along with their expenses. Xpense Manager is the smartest and friendly app at your service. Featuresâ¢\tYou can add new categories and sub categories which can be edited or removed later. However, you cannot edit or remove a default category in the app.â¢\tYou can assign a budget to your categories and sub categories every month.â¢\tOnce your actual expense exceeds the budget, that category will be highlighted.â¢\tApart from the categories and sub categories for tracking expenses, the Xpense manager provides you with an option to tag it with your tax codes/sections. This helps you during filing taxes at the end of the year.â¢\tOption to select an expense is reimbursable or not is available.â¢\tYou can take pictures of the receipt and store it with that particular expense.â¢\tMode of payment can be recorded along with that particular expense. â¢\tCloud integration for your data backup will be available in future.â¢\tYou can view the expense report for current month or past month or past three months.â¢\tTables and graphs are available under reports to interpret your expense better. â¢\tExpense records can be exported into PDF.â¢\tSet your password to protect your expense information. You can always remove it in future if you donât require it.",
+    "reviews": [
+      {
+        "timestampMsec": "1321041373665",
+        "starRating": "3",
+        "title": "Great except one major flaw",
+        "comment": "Sub categories are awesome. Easy to use and customize. Nice graphing.  **** Needs a way to track income ****",
+        "commentId": "lg:AOqpTOFpFG1bpNYMTX3CRH9uJIsLRFZ6e_1X1Gdd1b25XCH7xwJ_LEb4oDMjLYOWjiM03Hs4IH_-bg_YF24tUQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1325258426420",
+        "starRating": "5",
+        "comment": "Please add option to import/export from csv or xml",
+        "commentId": "lg:AOqpTOEXo3gWPClCsO1QqifSqibDfY3lbUu7ObTx6uZZf3Aq25dAJ7p02z1Vi-pw2e2WYTNngVLMbmxwzaPg3Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376451818549",
+        "starRating": "5",
+        "title": "Xcellent",
+        "comment": "Ik dm prfct",
+        "commentId": "gp:AOqpTOGtolBBOIUSuwKoePdOgQXuvbWI0HfPQoTKD8t2LLUlEm0D2782Whk49g09xQJoNqFiWUJ0JcE5KN-98A",
+        "author": "Prabhjot Singh Bhangaal",
+        "authorURL": "http://lh6.googleusercontent.com/-laqpA_9YG20/AAAAAAAAAAI/AAAAAAAAAPk/Hv-UtEJbNoc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-laqpA_9YG20/AAAAAAAAAAI/AAAAAAAAAPk/Hv-UtEJbNoc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

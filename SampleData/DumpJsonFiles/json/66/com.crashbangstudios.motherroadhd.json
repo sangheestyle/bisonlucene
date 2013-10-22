@@ -1,0 +1,47 @@
+{
+  "title": "Mother Road HD",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crashbangstudios.motherroadhd",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "May 25, 2013",
+  "version": "3.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Nitro Mobile Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crashbangstudios.motherroadhd",
+  "extendedInfo": {
+    "installSize": "13M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Welcome to the world where legend meets fantasy. Where desert mesas sweep with breathtaking majesty to the banks of the mighty Colorado River, and welcome to Mother Road Harley-Davidson, located at the heart of Route 66, now a world renowned destination ride.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.GET_ACCOUNTS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crashbangstudios.motherroadhd.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

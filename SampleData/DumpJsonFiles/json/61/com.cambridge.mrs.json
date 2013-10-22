@@ -1,0 +1,40 @@
+{
+  "title": "MRS Communications",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cambridge.mrs",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "November 16, 2011",
+  "version": "2.1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Cambridge University Press Journals",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cambridge.mrs",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "MRS CommunicationsÂ is an archival journal that publishes high-impact materials research with timeliness and scientific quality in the style of the Materials Research Society. Its editorial policies promote rapid online publication of results and rigorous peer review. Major article types include rapid communications (research letters), ultra-rapid brief communications, âprospectivesâ papers, correspondence and commentaries.âProspectivesâ are a unique feature of this Journal and offering a succinct and forward-looking review of topics of interest to a broad materials research readership. MRS Communications leverages the deep technical expertise of leading MRS members among its editorial board and reviewers under the initial governance of a team of Founding Editors, and the advanced author and reader publication services and academic standing offered by Cambridge Journals. This free app for Android devices allows MRS members and subscribers to access each issue of the journal in full.Includes patent-pending Media Deckâ¢ technology.",
+    "reviews": [
+      {
+        "timestampMsec": "1345820997188",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Does what it says. Access to all papers.",
+        "commentId": "lg:AOqpTOF21ihkmKZYqnzLEGl3c4RId0M0SUzWdQriKpdOtUhi8cQ1dArICpgCOU-8b8gyWurmNv-ji1KyuqXPmME",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

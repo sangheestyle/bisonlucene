@@ -1,0 +1,66 @@
+{
+  "title": "RIMS 2012 Annual Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.rims2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "March 21, 2012",
+  "version": "2.4.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.rims2012",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "RIMS 2012 Annual Conference & Exhibition, produced by the Risk and Insurance Management Society, is the risk management industryâs largest, most comprehensive event.  Delivering vital knowledge to attendees from around the globe with 100+ educational sessions, an exhibit hall packed with 400+ exhibitors, and unmatched networking opportunities, RIMS â12 is the worldâs leading event for risk professionals.",
+    "reviews": [
+      {
+        "documentVersion": "2.4.3",
+        "timestampMsec": "1334788696814",
+        "starRating": "5",
+        "title": "Justin Leader",
+        "comment": "Great App. Very Useful!",
+        "commentId": "lg:AOqpTOG-XRlYdJU1bE-XFSScN6DNt72KVW5mP4USV-xUUjocBlGNqf7aUQdXKe22pJlQ8yLKwyf30bzCaPy4-A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.3",
+        "timestampMsec": "1333394089315",
+        "starRating": "5",
+        "title": "Great info",
+        "comment": "Great app, good information.",
+        "commentId": "lg:AOqpTOHhIyka5ymawo68S4XAh_87o-b5uE6DTl1-Zej2AnGcYeICpbdv_1007yUBJkDwxZktUcVr0HkusMeCyw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

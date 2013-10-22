@@ -1,0 +1,57 @@
+{
+  "title": "Congress of the ISPRS 2012",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.invisage_isprs2012",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "August 17, 2012",
+  "version": "3.2.8",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.invisage_isprs2012",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The theme for the Congress is Imaging a Sustainable Future. Images, whether of the visible or non-visible spectrum, whether aerial or satellite, or whether of agriculture or cultural heritage, are a fundamental resource for sustaining the future of humankind. Information from imagery is what ISPRS is all about, and this is reflected in the program for the Congress.The Congress will run for 8 days, from the 25 August to 1 September 2012. The programme has been designed to give visitors the maximum opportunity to enjoy all the attractions that Melbourne, the State of Victoria and Australia has to offer, as well as providing a rich and rewarding social and technical programme. The Congress will be well worth the journey.NOTE: The Congress of the International Society for Photogrammetry and Remote Sensing (ISPRS) 2012 Mobile App is for attendees of the Congress of the International Society for Photogrammetry and Remote Sensing (ISPRS) 2012 only. Login information will be provided by ISPRS.",
+    "reviews": [
+      {
+        "timestampMsec": "1343947088276",
+        "starRating": "5",
+        "title": "Awesome app",
+        "comment": "Love the fact you can view and email all papers.",
+        "commentId": "lg:AOqpTOFYww6kpSU_KIj760qfcC5Nkt1d7KV1ro3NdDxkR34Wm9TXbAYiLoZSAvfXaFjju276WPl7uyH3GRdeVQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

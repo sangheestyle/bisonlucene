@@ -1,0 +1,159 @@
+{
+  "title": "ReadIt",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fahimk.readabilityclient",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "January 22, 2012",
+  "version": "2.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "39",
+  "rating": "3.3846154",
+  "contentRating": "Everyone",
+  "creator": "Fahim Karim",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fahimk.readabilityclient",
+  "extendedInfo": {
+    "installSize": "550k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "*** This app is no longer supported, there is now an official Readability client on Google Play ***ReadIt is an Android client for readability users. Sync articles with your account for offline reading and add new urls to your collection. Completely redesigned interface for modifying the appearance of articles using android buttons. The source is available at:https://github.com/fahimk/ReadItHere are some of the main features of the ReadIt client:database stores articles for offline reading    users dont have to cache/open before they are stored    complete offline reading experiencestoring bookmark/article details in local sqlite database greatly reduces online web queries    save data fees for users    less queries to webserverminimal database entries checks last updated datewebview holds scroll position and styles on rotation changedcompletely redesigned controls for best Android experience    easier to clickability to disable imagesability to disable linksprogress bar for webviewprogress dialog show status for syncerrors when internet connection not availableerror message for invalid urlspecial ime for entering urls (no suggestions, go button on soft keyboard does the same action as clicking the read button)all connections to webview happend in background task to prevent forceclosing    handlers to perform tasks in background and still have progress dialog in main threadcustom dialog to add bookmarksinside webview show change in color to signify option clicked (text size, width, style)toggle existing archive/favorite buttonseparate menu panel for authorized users and guests (option to read later changed)different sized icons for phones with different pixel densitiescompatible with android 1.6+And here is some information about Readability taken directly from their website:\"Readability is a web & mobile app that zaps online clutter and saves web articles in a comfortable reading view. No matter where you are or what device you use, your reading will be there. Readability offers a new way to compensate writers and publishers without punishing readers. 70% of all membership fees go directly to the people who make the content.\"",
+    "reviews": [
+      {
+        "timestampMsec": "1330539103992",
+        "starRating": "2",
+        "title": "Barely useful",
+        "comment": "Connects to readability and lets you read the stuff .. but usability is shit!  Clunky interface, doesn\\'t remember settings, doesn\\'t load articles in background, several screens until you get to content, no easy way to pass from one article to another.  Try pulse instead .. works with readability and much nicer interface.  If you have a decent browser (non exist for android yet) the readability mobile website is not bad.",
+        "commentId": "lg:AOqpTOGeiFX5L_mU7TnrugwKwy3MPApuKbYM_nL2jcws-bjlGZPl0gB7RvcswCTAELlNqcJP6tL4c9AtEwbNrg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329975669151",
+        "starRating": "5",
+        "title": "Outstanding",
+        "comment": "Great work Fahim.  looking forward to each new release",
+        "commentId": "lg:AOqpTOGa1lllUL2T1zGc7Ez0fDpTw5ADcbXiFzOYkjqG11dNZSQVQrVCiirNVSmcIF-BaEjBBxpMRPFWPoygxw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330372348129",
+        "starRating": "2",
+        "title": "Fail",
+        "comment": "Such a great service, like Readability deserves better app. Lack of offline functions, few options, bugs, it requires lot of work.",
+        "commentId": "lg:AOqpTOG8NC53F7UNU30pAeA23tMQa5mh2r4kcthQVeRXw9IlePN8y4F-T40-i_84PeWqNXvg3IPfxnjjzoAyEw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353042673417",
+        "starRating": "5",
+        "title": "it just works",
+        "comment": "the official app, crashes, wont download, even though it says it is syncing, and is generally not good, this works. thanks for keeping it alive even though there is an official app",
+        "commentId": "lg:AOqpTOGTimMxyv4A8neg8EMx7ovMk7-yS1LsDkFrZwkr9NTh7cBh-FVwv7p6A_mzy9FrBajWE5MAFQK5QLcjDg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331181035165",
+        "starRating": "1",
+        "title": "Poor",
+        "comment": "Needs alot of improvements",
+        "commentId": "lg:AOqpTOH4bBCEMxkNsPCldn2xHMcQbxuq2i99tG5V2f7nQj3BI78KbtKZm-jumtq_mbpLzE7aDQoZ5O6ZtkGnCg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1325256782920",
+        "starRating": "2",
+        "title": "Can\\'t save to, but archive works well",
+        "comment": "For some reason I can\\'t save anything to ReadIt using the share command but the sync and read functions work well.  If the send to worked this would be excellent.",
+        "commentId": "lg:AOqpTOG5ZhReLo2haRlVB-6E-N15pik9Qc9IlAXHW6XCQOmv2SBH-MSwthgT0_yTpWdDlbdyOtBU0MWA6F9j3g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1325259544865",
+        "starRating": "4",
+        "title": "Does what is expected",
+        "comment": "- View articles from Readability account - Sync for offline reading  Nice app !",
+        "commentId": "lg:AOqpTOEcqE9rBDitZy-puh0Tno5sRxBmcrBAlev7ofDdwk4wctqbvs5-FTAmHqEUJM9QkeGB5HqVvWbT4D_qsg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310759719867",
+        "starRating": "3",
+        "title": "Readability outside the browser",
+        "comment": "I like the readability web app, but like that this is outside the browser. Nice interface, easy to use. There\\'s a few things that need to be cleaned up (get a lot of \\\"function(...)\\\" under the article titles in the bookmark list), and it doesn\\'t seem to save my place if I back out of an article, but overall this is a great product.",
+        "commentId": "lg:AOqpTOEDp1E63QUg2UWeY_osWeZAPCF9O8WvXQiUqCDmv3g0alOFrpOThgIhXtkexVntO-VyeZz8AvXfl-We_Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320850835308",
+        "starRating": "4",
+        "title": "What happened?",
+        "comment": "Yesterday\\'s update removed Share Via functionality. That was what made this app great.",
+        "commentId": "lg:AOqpTOFdb2n4JpPXYE_z9zJHIxRTQKb9aH07F8l4ndTJpMyge9lO9FhrwDeukUdpu5OOZoF91Dm35PMuy2AGUQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1319175590234",
+        "starRating": "5",
+        "title": "Job well done!",
+        "comment": "This app is fantastic! Actually cured my ios envy!",
+        "commentId": "lg:AOqpTOGGbKRcT3C51RYnbXyt4jxels2gJytC4MKt1Y6G4_3V4XRPdJRQp9nSLn4412dM05mHhd2FToHqPqkEbg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1319274096154",
+        "starRating": "5",
+        "title": "Awesome..",
+        "comment": "Please add full screen support..",
+        "commentId": "lg:AOqpTOGbP7TaXgb8QczoWzDCDgZM_6pwnhr3yp3sUyCabTv91sckAK6N-JEEw0VHxnXwun0xHOYP2YaNmTnl7g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1313459526771",
+        "starRating": "4",
+        "comment": "This app is a perfectly functional readability client, but would be even more useful if it supported adding items through the share menu.",
+        "commentId": "lg:AOqpTOHhhNMgI7FgYMYXusJtc4uVfB-Va7BXQhOyBmFKrJH2rJPGcSxjF84K8MWIog2hJQr9XAV4YtRhAMFBZw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1312469344156",
+        "starRating": "3",
+        "title": "Looks good but crashes",
+        "comment": "One of the most beautiful app on android, but it crashes every time I load an item from my archive.",
+        "commentId": "lg:AOqpTOE-KnlzloIXN-gN5t-dTn5eVKppompOk8GDBe9dGFABLB_aeqayTUkSjS5GM-73NrMaP6r5pqlydi-sIg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1308777671030",
+        "starRating": "4",
+        "title": "Fantastic!",
+        "comment": "Perfect. A great experience and the text looks fantastic on my qHD display.",
+        "commentId": "lg:AOqpTOER1cPvv_gZnd1Z_X7pm2yDUqs_N7m_FG5nKiMRL_tW6vq4RxGS8UQTWeUPNhnULWb4_IC89O9c_Kmsrg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351638851622",
+        "starRating": "4",
+        "title": "I like it",
+        "comment": "All",
+        "commentId": "lg:AOqpTOHC2_Qm2pgW85Mb0d8U9fmDeKcnGa4TKsdVKVa-UM53F15YZOHasyt7CVyOekEhiaK_bKq_7DwJBQ2i2Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}

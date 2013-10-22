@@ -1,0 +1,32 @@
+{
+  "title": "WVLY",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.djbapps.wvly",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "November 8, 2010",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "DJBSoftware Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.djbapps.wvly",
+  "extendedInfo": {
+    "installSize": "363k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "AM1370 WVLY is a locally-owned talk radio station serving the Moundsville/Wheeling West Virginia area with community based programming. Anchored by Howard Monroe and the Morning Show in AM drive and The Ohio Valley Afternoon News in PM drive, programming focuses on local news, useful information and friendly conversation.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

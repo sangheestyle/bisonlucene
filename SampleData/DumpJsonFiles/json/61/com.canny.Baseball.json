@@ -1,0 +1,40 @@
+{
+  "title": "Baseball Exercises",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.canny.Baseball",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "January 18, 2012",
+  "version": "1.4",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Canny Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.canny.Baseball",
+  "extendedInfo": {
+    "installSize": "13M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This application contains user friendly animated exercises for Baseball players. It contains exercises for warmup, pitching, fielding ,catching and batting. These exercises are very easy to understand. Exercises:Hamstring Stretch,Groin Stretch,Quad Stretch,Calf Stretch,Finger Fletch,Wrist Flexion,Wrist Rotation Clockwise,Wrist Rotation Anti-Clockwise,Hammer Forehand Strength ,Rope Forehand Strength etc.,This application is not meant to be used in any medical or legal decision making, or they should contact emergency response 911 when they are in a medical urgent situation for example.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

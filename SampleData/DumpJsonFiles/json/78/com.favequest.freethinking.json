@@ -1,0 +1,37 @@
+{
+  "title": "Free Thinking Film Society",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.favequest.freethinking",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 13, 2012",
+  "version": "1.0.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Favequest Corp.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.favequest.freethinking",
+  "extendedInfo": {
+    "installSize": "3.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The Third Annual Free Thinking Film Festival is being organized by the Free Thinking Film Society. All too often, cultural festivals in Ottawa forget that not everybody is from the left side of the spectrum. As such, we will try to bring to Ottawa, every year, films and speakers that otherwise would not show in the capital. We want to engage the public in serious debate - something that is seriously lacking in all too many events.This app is your guide to everything the festival has to offer, it includes:-site map-directions & GPS map with key locations such as parking-links to online ticketing-a full listing of all events and key dates-performer bios, videos, photos and sharing to Facebook-access to the Free Thinking Facebook page-always know \"What's New!\"",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

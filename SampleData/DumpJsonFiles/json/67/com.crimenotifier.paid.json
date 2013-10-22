@@ -1,0 +1,37 @@
+{
+  "title": "Crime Notifier",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crimenotifier.paid",
+  "category": "Tools",
+  "price": "$3.18",
+  "datePublished": "August 23, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "ETrack Concepts",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crimenotifier.paid",
+  "extendedInfo": {
+    "installSize": "414k",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "The Crime Notifier allows you to protect from negative influence. Wherever you are, may be you are travelling, walking on the street, in the club, or even alone at home, if you feel that you are under negative influence, then this application will help to safe you.Once you installed the application, How to proceed?= Very first thing to do only once ! =- Do long-press on the app icon to create Home-screen shortcut for quick access.= How to configure ? =- Select Menu->Settings for configuration.= How to use ? =- Click on the app shortcut.- Select Menu->Home, if it is not selected.- Click on the 'Send Alert' button.= How users know the alert is sent ? =- The device will display msg and vibrate.= What will be notified to the receiver ? =- The location of the device    - WiFi Network    - address (Street, City, Town, Country)    - position in the mapKeywords:crime, notifier, droid, threat, detective, device, tool, danger, help, android, world, night, day, road, home, club, alone, negative, influence, world, Sri Lanka, India, USA, UK, Canada, Australia, UAE",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.SEND_SMS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.UPDATE_DEVICE_STATS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

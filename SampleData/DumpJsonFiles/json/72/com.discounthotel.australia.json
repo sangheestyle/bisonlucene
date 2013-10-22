@@ -1,0 +1,39 @@
+{
+  "title": "Australia Hotels Booking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.discounthotel.australia",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 13, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Bolt Mobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.discounthotel.australia",
+  "extendedInfo": {
+    "installSize": "8.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "***BEST COMPARE HOTEL PRICES IN ANDROID MARKET******SAVE UP TO 80%***Compare hotel rates from compares +2.000.000 hotel deals from 100's of booking sites:www.Agoda.com, www.Expedia.com, www.booking.comlastminute.compriceline.comhotels4u.comhostelbookers.comlaterooms.comeasytobook.comvenere.comHotelclub.comholidayinn.comMarriottSkooshCrowne Plazato find the lowest rates on the best hotels.Features include:â¢ Simple search by location, dates and guests* No Fees or mark-upsâ¢ âAround Meâ search to find what is available around you at that exact momentâ¢ Search results can be viewed two ways - on a map or in a list format* Deals save up to 80%!â¢ Interactive map with zoom in, zoom out, and swipe to reveal more hotels â¢ View all hotel details, guest ratings, images and features the hotel offersâ¢ Comparison table for all hotels and the best rates available for all our partner booking sitesâ¢ Refine your search by price, star ratings, areas, hotel features and moreâ¢ Book with our partner websites by simply clicking âbookâ on your hotel of choiceâ¢ Big image gallery â¢ Apps in 41 languagesâ¢ The only app that allow you to search the hotel deals through out Don't Miss it! Book Your Room Now!!Simple Introduction of AustraliaAustralia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. Australia is the world's sixth-largest country by total area.TOP Tourist Attractions / Point of Interest of Australia1. Sydney - largest and the most populous city in Australia2. Perth3. Tasmania - well known for its wild life and beauty4. Fraser Island - the world largest sand island5. Kakadu National Park - one of the World Heritage sites in Australia6. Uluru - the largest monolith rock in the world7. Cairns - the main entry point for Great Barrier Reef visits8. Kangaroo Island9. Adelaide - one of the best planned cities in the world10. Jamison Valley - famous for its cable car tour11. Sydney Harbour12. Sydney Opera House13. Manly Beach, Sydney14. Eureka Skydeck 88, Melbourne15. Dandenong Ranges, Melbourne 16. St. Kilda Beach, Melbourne17. Wildlife Habitat Port Douglas18. Four Mile Beach, Port Douglas19. Tony's Tropical Tours, Port Douglas20. Silverswift Dive & Snorkel, Cairns21. Skyfall Rainforest Cableway, Cairns22. South Bank Parklands, Brisbane23. CityCat Ferry, Brisbane24. Lone Pine Koala Sanctuary, Brisbane25. Byron Bay26. Sundive Byron Bay27. Nightcap National Park, Byron Bay28. King Park & Botanic Garden, Perth29. Aquarium of Western Australia, Perth30. Fremantle Prison, Perth31. Cleland Wildlife Park, Adelaide32. Art Gallery of South Australia, Adelaide33. Adelaide Central Market, Adelaide34. Surfer's Paradise Beach35. Skypoint, Surfers Paradise36. Aquaduck, Surfers Paradise37. Salamanca Market, Hobart38. Bruny wildlife Adventure, Hobart39. Bonorong Wildlife Sanctuary, Hobart",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.discounthotel.australia.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

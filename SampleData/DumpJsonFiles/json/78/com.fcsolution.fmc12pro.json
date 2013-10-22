@@ -1,0 +1,35 @@
+{
+  "title": "FMC12 NFC Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fcsolution.fmc12pro",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "April 19, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "F.C. Solution Co.,Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fcsolution.fmc12pro",
+  "extendedInfo": {
+    "installSize": "286k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "You can save Date/Time/Id Code for employee/Imei Code of your mobile phone/Gps location in your sd cardin text file and directly update Mysql Database real time.The purpose of this program is to serve Time Recording Software (Back Office Software) , But this androidprogram can use for another purpose. As program will have 2 options, First, just save the information in the sdcardfmxxxxxx.txt and can send by email back to head office and Second is directly insert record to the Mysql DatabaseServer. It is suitable to make time attendance for staff that not show in the office eg Sales Staff/ Technician. Youwill know Date/Time/Employee/Location when record the time.This version can support NFC Card Text digit 3-10 in the card as card idBasic Function For This Software:1 can record date/time/id code/terminal/imei no/gps location in text file2 can directly online update mysql data server3 can view tracking text file from screen scroll up and down/ and clear screen and delete text file for new.4 can select to save gps record or not5 can select to update online mysql data6 can check after record google map current location for verification when record as some time Gps in the mobilephone not currently update and get the last location7 can send text file attached email to specific email address just click and send emailApplication of use1 Service Staff Tracking ,Security Tracking Real time or offline2 Assets tracking with GPS location of the asset and NFC sticker3 Process checking time start and stop , eg repair car in different department start and stop time4 Use as time attendance for staffPresentation:Thai facebook: https://www.facebook.com/Nfc9703Thai:http://www.fcsolution.com/fmc12/9703present_thai.htmEng:http://www.fcsolution.com/fmc12/9703present_eng.htmChinese:http://www.fcsolution.com/fmc12/9703present_chinese.htm",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.NFC",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Bicycle Tire Pressure Demo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.edisongauss.bertotirepressure.demo",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "July 13, 2013",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Edison Gauss Publishing",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.edisongauss.bertotirepressure.demo",
+  "extendedInfo": {
+    "installSize": "272k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Bicycle Tire Pressure Calculator is used to compute the optimal air pressure for your bicycle tires. Tires pumped too hard bounce down the road like a basketball, wasting energy. Tires pumped not hard enough are sluggish and prone to pinch flats. Tires pumped just right are at the optimal intersection of responsiveness, shock absorption, and energy efficiency.Popular misconception is to pump a bike's tires to the highest number printed on the sidewall by the manufacturer. Instead, the optimal pressure is that which yields in a 15% sidewall drop. Sidewall drop is a non-linear function of the load on the tire and its width. It can be computed based on the weight of the bike, rider, bags, and gear. It is also different between front and back, depending on the frame geometry.With this App, you can instantly compute the optimal tire pressure from your phone or tablet wherever you may be: in your garage, on the road, at a friend's house.Features:* Enter weights in pounds or kilograms* Calculate pressures in PSI or bar* Tire widths from 19 to 60 mm; diameters of 26\", 650B, and 700C; 4 of the most typical frame geometries* Configure and save two bikes (unlimited bikes on paid version)* Tap bike graphic to recalculate pressures",
+    "reviews": [
+      {
+        "timestampMsec": "1378594743161",
+        "starRating": "1",
+        "title": "Just fine. Will buy",
+        "comment": "This worked fine for me. I tried different tires and geometries snd it gave sensible results. I will buy the full version.",
+        "commentId": "gp:AOqpTOGfUyUvOdh9RlQdMmXRM0LYaoxfvwHgdTRGiQRq0LHIMsgMtQ_Jh3g44F31s0vi3FLkaxCopF-Us4ZxFg",
+        "author": "Chris Daigle",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377658969633",
+        "starRating": "1",
+        "title": "Only did street bikes.",
+        "comment": "Never even changed numbers when I changed weight of rider. Uninstalled",
+        "commentId": "gp:AOqpTOED2fgojMKYD3RlrKzSECnKsJGc6R7_S13pBc6VkD553iUTimbzGrkYb3Cpf7sHou277QAyrTAc_TAF6g",
+        "author": "brad flament",
+        "authorURL": "http://lh3.googleusercontent.com/-i9Kh-b3h1Dw/AAAAAAAAAAI/AAAAAAAAA2g/_Pc7hHRFNjA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-i9Kh-b3h1Dw/AAAAAAAAAAI/AAAAAAAAA2g/_Pc7hHRFNjA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

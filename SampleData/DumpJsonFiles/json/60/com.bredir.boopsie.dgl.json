@@ -1,0 +1,51 @@
+{
+  "title": "Downers Grove Public Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.dgl",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 12, 2012",
+  "version": "4.5.74",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.dgl",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Access the Downers Grove Public Library from your Android! Reserve titles, access your account, find hours, get directions, contact us, download eBooks, and research a variety of topics - all on the go!",
+    "reviews": [
+      {
+        "documentVersion": "4.5.74",
+        "timestampMsec": "1347478228975",
+        "starRating": "3",
+        "title": "Good, but limited.",
+        "comment": "Handy for checking your record but difficult to renew items. Would be great if there was an option to renew multiple items at the same time. Also I would love to see an option to set an alarm for items that are due.",
+        "commentId": "lg:AOqpTOGpNr33E1GK5vyEzB6JN4xEianrQqS4pob38Ox00LUc7EkMwI5NOHh_suo9J790SeBc5XqbihpfKOEmGJo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358221171080",
+        "starRating": "3",
+        "title": "Love it but could be much better",
+        "comment": "Like a previous review, an alarm/reminder & calender insert for books due would go a long way towards making this app more useful. Enjoy browsing the bookshelves though without having time be \\\"in\\\" the library as I\\'m usually available during closing hours.",
+        "commentId": "gp:AOqpTOG7YGzSxw3J9YBN9zmiQOVh98SQZYGznW0F3kglMvfxz-bdRcxW-LWr_FlH4Ba-SHvsYU8cboEGz_tcY50",
+        "author": "Dawn Tuskey",
+        "authorURL": "http://lh4.googleusercontent.com/-yzrHJY_urvw/AAAAAAAAAAI/AAAAAAAABdY/7j5yRljQY1c/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-yzrHJY_urvw/AAAAAAAAAAI/AAAAAAAABdY/7j5yRljQY1c/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

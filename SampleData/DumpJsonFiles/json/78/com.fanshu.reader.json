@@ -1,0 +1,47 @@
+{
+  "title": "Fanshu Reader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fanshu.reader",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "September 16, 2011",
+  "version": "2.3.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "23",
+  "rating": "3.7826087",
+  "contentRating": "Everyone",
+  "creator": "番薯网",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fanshu.reader",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "\"Fanshu Reader\" is one reading application from fanshu.com based on android platform,it contains \"e-book store\" for mobile devices,there are so many books for free download and new books/good-sales books you can buy and download them.[Features]1.Local library: Store your local books,mark as your recent readings and save your bookmarks;2.Fanshu book-store:Books for free download,new books/ranking books recommendation;support Trial reading and publish your comment for books;3.My books-room:Bookshelf stores your books and manage your fanshu account.",
+    "reviews": [
+      {
+        "documentVersion": "2.3.1",
+        "timestampMsec": "1376665780500",
+        "starRating": "1",
+        "title": "\\345\\267\\256\\345\\213\\201",
+        "comment": "\\350\\243\\217\\351\\235\\242\\344\\273\\200\\351\\272\\275\\351\\203\\275\\346\\262\\222\\346\\234\\211\\357\\274\\201\\347\\234\\213\\345\\225\\245\\345\\221\\242\\357\\274\\237\\357\\274\\201",
+        "commentId": "gp:AOqpTOFOWkvJna7kZfjDXZ3mjR6ToB92MlDNjJMief-bXYYOmHOPOH7LMo-LZfg2_wGKkGbysYKQrdB4lSWfXA",
+        "author": "\\350\\211\\272\\350\\226\\207\\351\\231\\210",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

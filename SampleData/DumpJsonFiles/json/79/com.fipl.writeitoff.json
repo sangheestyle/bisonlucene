@@ -1,0 +1,65 @@
+{
+  "title": "Write It Off App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fipl.writeitoff",
+  "category": "Finance",
+  "price": "$2.99",
+  "datePublished": "August 16, 2013",
+  "version": "2.9",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Low Maturity",
+  "creator": "Write It Off App, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fipl.writeitoff",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Write It Off App is a great all-inclusive app that is perfect for saving your tax expense records in a simple and organized fashion. Don't wait until tax season to unearth your receipts to submit to your accountant or CPA. Keep track of your life's daily expenses throughout the year. This easy-to-use app allows you to track potential write-offs, categorize expenses, include images of the receipts, and email your entire write-off list to be downloaded and printed in an easy=to-read spreadsheet. All write-offs are stored and protected in an SSL certified database. The apps features include:â¢\tTrack daily and end of the year write-offs using a easy-to-use one-screen approach.â¢\tAdd/view receipt images for all of your write-offs.â¢\tOrganized write-offs by category.â¢\tEasily search all write-offs.â¢\tAutomatically calculates mileage using the standard US mileage rate.â¢\tExport write-offs by category into spreadsheet format - the spreadsheet automatically calculates the total for each category.â¢\tView/edit your write-offs using a web-based backup system.â¢\tSocial networking.Types of write-offs included in app:â¢\tChild careâ¢\tMedical/dentalâ¢\tCharitable donationsâ¢\tBusiness-relatedâ¢\tWork-relatedâ¢\tMileageâ¢\tCar registrationâ¢\tSales taxâ¢\tMoving expensesâ¢\tEducator expensesâ¢\tMortgage interestâ¢\tEnergy tax credit purchasesâ¢\tProperty taxâ¢\tMoving expensesâ¢\tStudent loan interestâ¢\tTuition and feesQuestions/comments: Please email writeitoffapp@gmail.comNote: This app is to be used for organizational purposes only. Please consult your personal accountant to check that your write-offs meet Internal Revenue Service criterion for tax deductions.",
+    "reviews": [
+      {
+        "timestampMsec": "1367472568938",
+        "starRating": "1",
+        "title": "Write it off",
+        "comment": "Won\\'t save receipts. Keeps crashing",
+        "commentId": "gp:AOqpTOFfV-9SSOXXwou2vAB468KS5y15GMANdPr_93OREPte-zFWmhYb_5B70Wp7rcHfnm2t9SGHDF6uo7eeog",
+        "author": "marlene mendez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364845306005",
+        "starRating": "5",
+        "title": "Didnt save data then crashed",
+        "comment": "Just bought it and crashed after trying to save data, update fix it after I reported it. Thx for the fix.",
+        "commentId": "gp:AOqpTOH9b9oX974kmRGzDdqJrnyIhS8EEdi-PxYxhG8siYTApra5hDoO0zbgqCPUYv1bBK99ofZuW0xn7cY0WA",
+        "author": "Paul Fusco",
+        "authorURL": "http://lh4.googleusercontent.com/-696B_i3ZcyA/AAAAAAAAAAI/AAAAAAAACDU/Eu1YtxnPMTs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-696B_i3ZcyA/AAAAAAAAAAI/AAAAAAAACDU/Eu1YtxnPMTs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355494864927",
+        "starRating": "5",
+        "title": "Tax purposes",
+        "comment": "Great app,  so easy to use.  Will make my tax preparation so simple",
+        "commentId": "gp:AOqpTOGBf25asZyI4Bj3fIPoeE7n6DzRMe0s5MUB0zAlui7xpFE67HBkK1nb5Wz1UOGnd0ibTSaKqxuNzDyoEg",
+        "author": "Bryan D\\'Arcangelo",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_LOGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

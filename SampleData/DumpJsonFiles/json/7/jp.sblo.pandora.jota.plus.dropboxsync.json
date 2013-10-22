@@ -1,0 +1,30 @@
+{
+  "title": "Jota+ Dropbox Sync Connector",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus.dropboxsync",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 7, 2013",
+  "version": "1.04",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Aquamarine Networks.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus.dropboxsync",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "CAUTION!- This app is in experimental phase.- If you want stable version,  you should install 'Dropbox Connector'.-----Jota+ Dropbox Sync Connector is a plugin to connect Jota+ with Dropbox with Dropbox Sync API.Sync API is faster than classic API and has a retry mechanism.Limitation- You can access only in APP Folder. (/app/JotaPlus/)  Future version will support FULL ACCESS.- Sync Connector doesn't create backup file. (file~)  (Use revision management of Dropbox.)----------------------------Install this plugin then you can activate the connectivity to Dropbox of Jota+.This app only connect to Dropbox server.Jota+ Dropbox Sync Connector includes Dropbox Sync API.----------------------------This app needs Jota+ and Jota+âPRO-KEY.----------------------------How to use connector.- Touch 'Open' on the toolbar then file selector will open.- On top of the selector screen, there is \"SD CARD\" label.- Click it and select \"Settings\".- Select one which you want and install a connector.- Login to the connector.- Again on selector screen, touch \"SD CARD\".- Click the name of the connector.- Browse directory on the file system.- Open a file.Don't use explorer apps.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "jp.sblo.pandora.jota.FILE_ACCESS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

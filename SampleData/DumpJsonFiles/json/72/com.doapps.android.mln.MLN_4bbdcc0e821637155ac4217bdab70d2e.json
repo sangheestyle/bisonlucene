@@ -1,0 +1,54 @@
+{
+  "title": "Central Kitsap Reporter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_4bbdcc0e821637155ac4217bdab70d2e",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "May 13, 2013",
+  "version": "4.5.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "DoApp, Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_4bbdcc0e821637155ac4217bdab70d2e",
+  "extendedInfo": {
+    "installSize": "5.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Central Kitsap Reporter is the only news organization (in print and online) that is dedicated to covering Silverdale and Central Kitsap County. And if *you* care about our community, you count on the CK Reporter for local news, opinion, sports and coverage of the arts. Our app brings you everything from our site and more, including: - Our award-winning local and regional news - Send us your news photos or video right from your mobile phone - Sports - Entertainment - Business news - Opinions and letters to the editor - Local blogs - Weather - Traffic - Intuitive, patent-pending navigation - Easy news sharing by e-mail, text message and post to Twitter and Facebook - And moreâ¦ Today, with weekly print publication and daily online updates as part of Sound Publishing Inc., the Reporter is committed to keeping 18,000 households - and, via the Internet, our many friends and family members abroad - up to date on this amazing community around them. Annual special sections highlight local leaders and volunteers, women in business, scholars and athletes, and tourism destinations. If it happens in Central Kitsap, we've got it covered. We care about our community, because you do too.",
+    "reviews": [
+      {
+        "documentVersion": "4.5.4",
+        "timestampMsec": "1374774522397",
+        "starRating": "2",
+        "title": "Old News. Missing Important News.",
+        "comment": "Whaling Days is about to start but there\\'s no mention of it! There are plenty of stories from May and June! Disappointed.",
+        "commentId": "gp:AOqpTOHaDe6gjHcRJ2nAkNYhoEjO7gdXW6lgfJscy7WihxJbVfnFgJ9OPyhVWSPU1_f3lnA16IhVjU2slkx2tw",
+        "author": "Mo Nguta",
+        "authorURL": "http://lh4.googleusercontent.com/-ExwYuKecyKw/AAAAAAAAAAI/AAAAAAAAAAA/YgcVWhnEpVc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ExwYuKecyKw/AAAAAAAAAAI/AAAAAAAAAAA/YgcVWhnEpVc/photo.jpg"
+      },
+      {
+        "documentVersion": "0.4.8",
+        "timestampMsec": "1293442295701",
+        "starRating": "0",
+        "comment": "add bylines to the articles and make sure all the punctuation shows up--for some reason closing quote marks are often absent--confusing to the reader",
+        "commentId": "lg:AOqpTOG7NnDB8jeFPJf0FbbaYGu_SsHisc60wofSfOk2VCxErM4Y_sn3hIav77OwP1u-xijjTpxYeDxwtce6pQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

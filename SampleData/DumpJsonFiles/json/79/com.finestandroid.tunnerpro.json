@@ -1,0 +1,29 @@
+{
+  "title": "Fine Chromatic Tuner Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.finestandroid.tunnerpro",
+  "category": "Music & Audio",
+  "price": "$0.99",
+  "datePublished": "June 24, 2013",
+  "version": "1.10",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "FinestAndroid.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.finestandroid.tunnerpro",
+  "extendedInfo": {
+    "installSize": "393k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Fine Chromatic Tuner is a chromatic instrument tuner that allows you to quickly and accurately tune your instrument using the built-in mic in your Android device. Features nice and clean interface allowing you to quickly find your pitch. The Fine Chromatic Tuner was adjusted and tested with acoustic guitars, soprano ukulele, tenor uke and electric guitars. I believe that it will work with any mid to mid-high range instrument as it was fine adjusted for the 70 Hz - 500 Hz. So this one is not suitable for bass guitars for example. I will make a different app for the low range instruments soon.This is automatic chromatic tuner that supports every screen size. Fine Chromatic Tuner works well with devices supporting 44100 16 bit audio input (almost every phone and tablet in mid - high price range) and 22050 16 bit audio input. It still works with the other possible settings but not so accurate.Features: - Automatic note selection- Ultra responsive -50 to +50 cent range fine tuning display - Precise to Â±1/100 semitone (Â±1 cent) - Analog like needle - Exact frequency display.- Clean and simple analog like UI- Keep screen on while working.- Works in noisy surroundings- Supports A 432 Hz (Not available in the free version)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

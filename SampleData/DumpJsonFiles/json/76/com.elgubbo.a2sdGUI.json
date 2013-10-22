@@ -1,0 +1,210 @@
+{
+  "title": "A2SDGUI - Darktremor A2SD GUI",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elgubbo.a2sdGUI",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 16, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1591",
+  "rating": "4.460088",
+  "contentRating": "Everyone",
+  "creator": "A. R.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elgubbo.a2sdGUI",
+  "extendedInfo": {
+    "installSize": "306k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "NO LONGER UNDER DEVELOPMENT!PERMISSIONS ARE ONLY NEEDED FOR ADS! IF YOU DON'T BELIEVE ME CHECK OUT THE DONATE VERSION!This is a GUI for Darktremor A2SD Scripts.You can easily view and configure your A2SD script settings.Requirements:- ROOT- busybox- A2SD Darktremor Scripts V2.7.5.2 and above.Features:- Show where Apps are stored and Toggle from Internal to EXT- Show if Zipalign runs on boot and Toggle- Show if swap is activated and toggle- Set swappiness- Show where dalvik-cache is and move it- Enable/Disable Dalvik JIT- Set Dalvik Heapsize (for now only values between 12 and 32, i do not know if any values in this margin are good!)- Set the internal Low Memory Killer to different levels (there also is an explanation included)- German translation- now checks for remaining space before moving Dalvik-Cache anywhere (error prevention)- System Info Screen which shows: free/used ram, free/used swap, free/used internal memory, free/used sd-ext, free/used space on /cache/ (more things to come ...)- a2sd beta is supported- (rudimentary) helpmenuLanguages: English, Italian (thanks zorginho), Spanish(thanks 23r9i0), French(thanks tazman1963), German, Serbian (thanks magla111), Turkish(thanks android202)",
+    "reviews": [
+      {
+        "timestampMsec": "1362110654875",
+        "starRating": "4",
+        "title": "Great",
+        "comment": "You may have to download he\\'s script as I did, even having cyanogenmod 7.2 stable needed the scrip, but after all done its great, superb having an unlimited* app storage. :) thanks for the great work.",
+        "commentId": "gp:AOqpTOE0JPzOTzx17i_8xjhg7FhtdDaHbgRhWCsXnfyPIdCZ5vLCXTB-rzaRUK68whsVptj6tA5_KArzezo55Q",
+        "author": "Carlos Linho",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343484016771",
+        "starRating": "5",
+        "title": "Working perfectly",
+        "comment": "For those ppl who cannot install properly kindly fix your ratings.   Troubleshooting  ================= Install app apk Install script by darktremor   Installing script  =============== 1. Via clockwork mod 2. Before install via zip 3. Kindly mount data + system 4. Do it manually via CWM 5. Once mounted, install via zip 6. Reboot  Working...",
+        "commentId": "lg:AOqpTOELmcsuJGr_S2gi6wXnbfA_dAZNPwAGv6pXs1WSisMmn39si2XYnLL6Gsp-Uy2uEglozGJtWP_VIQq9Qg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349393357112",
+        "starRating": "4",
+        "title": "How this actually work ( need tutorial )",
+        "comment": "Any one can tell me or just give me a detailed tutorial for this, do i have to partion my sd card? am using sony xperia neo l with rooted s u , busy box",
+        "commentId": "lg:AOqpTOHUiuO9TLhM6oTRTqTnFEEpilUtZdTX6iZqlQpa-JLZMArhfHKb9Rbo9IP1mOj7G-6VxcQCajmc_QkkMQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330635383543",
+        "starRating": "5",
+        "comment": "Dose what it says, fast and easy. Exellent app, thank you",
+        "commentId": "lg:AOqpTOFWP3cCfFT-EzBYjWQtrkJjeoCXB2OwkHMQxIkyFGBEwtEhRa5cGnWIZV97kjRxRQa0Vt35hR5vQ5v9Zw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374124228879",
+        "starRating": "4",
+        "title": "Samsung Galaxy Y Duos User",
+        "comment": "very nice app and i had no problem with the storage in my Galaxy Y duos which is of very low memory",
+        "commentId": "gp:AOqpTOFhrJB-vHma9yfsfh027WMvf5DEen7ZC9_1FVHlF3fSXMsbkBy0x3I8sTckCrUS5MdoZiJUSf4fghlVew",
+        "author": "balaram yerra",
+        "authorURL": "http://lh3.googleusercontent.com/-Y_5rG2qfthc/AAAAAAAAAAI/AAAAAAAADRc/HCqur53WvDg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Y_5rG2qfthc/AAAAAAAAAAI/AAAAAAAADRc/HCqur53WvDg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1331120612443",
+        "starRating": "5",
+        "title": "Exellent",
+        "comment": "Very good I have 30mb left. But when I used this I have now 129mb memory. This is the best apps.",
+        "commentId": "lg:AOqpTOHD8g2maf0VTGXnBAcPesmnPkyxi6LOy1O7Lijzr_gqPUi9RCzKbsYDsSCg-RH7LZk8haRZ5uKaU04Vfg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331003094785",
+        "starRating": "5",
+        "title": "Rating",
+        "comment": "It is very good for performance, absolute best! Would be nice if the there was a method of organising the space.",
+        "commentId": "lg:AOqpTOHBWkBT0_2MAtnpcfm5pb7vyUPwMsCAxHqEZHnRPOqndln_eDCRaBzJa8jasW68kfoRiRXNPb3jbNUlWQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339631585677",
+        "starRating": "1",
+        "title": "Not working?",
+        "comment": "Says I am either not rooted/no script found/no ext found.  Wtf??? I am rooted, just partitioned with swap, and running the latest beta 4 script. My rom works with ext4. What\\'s going on? Any help",
+        "commentId": "lg:AOqpTOE01VG_k8yh6RDYeVYv4nDXWIlYFspiRkK69ZqhwUJBA8pi6uNOglg2Rpryi_tpzlcmlHkt-x8AOPW5hQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335692974208",
+        "starRating": "5",
+        "title": "great apps for all device",
+        "comment": "hey, people. don\\'t forget to flashing script for this app before you installing. thats why your device keep saying no asd script or not rooted. after u flashing u\\'ll know the greatness of this apps",
+        "commentId": "lg:AOqpTOEnyKcXafhMppEStJ81tB8rGtFb1PzuOgaqVecVNpJJ2VunV4AaZszwPKV7-Rdcv5OFmH-3Fe_RrFZ-yQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338170277704",
+        "starRating": "5",
+        "title": "Praise!",
+        "comment": "Nice app. It\\'s very neat for a low internal memory devices like mine. It\\'s excellent! Thank you. It will be better if it includes a memory management function.",
+        "commentId": "lg:AOqpTOGsTNqBa0WzIvK1Zn2rYFZQt6jSdZCgzVIthdzCrEbIVE-g5KvvlhBmEko77j66AXIfhO_2jdboBH7-mQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1328709077593",
+        "starRating": "5",
+        "title": "So good!",
+        "comment": "This app is so good to have to help my OG Evo 4g run sense 3.5 custom roms. Thank you!",
+        "commentId": "lg:AOqpTOGEgP7g65DPXe2YQWqhlYA8oKpadAFEkF2LCEbgARek0zfQyQ3nGtAT4nuXUK4Yqgbg2bJepIcDg5IP_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377029302441",
+        "starRating": "1",
+        "title": "Can\\' run it",
+        "comment": "Cant run, it said maybe my version below 2.7.5.2 but when i check on Google Play, there\\'s no update from it",
+        "commentId": "gp:AOqpTOEX9brJC3RmLXaYEeG7hKiKijYZ1d1ZIX89BibUc6EfiJ8UywhT_TQ5k7_kFxerrHpGkykHIlczNqmhnw",
+        "author": "Harpiest Rudecaesar",
+        "authorURL": "http://lh4.googleusercontent.com/-EJ9DlpjCctk/AAAAAAAAAAI/AAAAAAAABnk/XzTiheDC96E/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-EJ9DlpjCctk/AAAAAAAAAAI/AAAAAAAABnk/XzTiheDC96E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1341198043960",
+        "starRating": "4",
+        "title": "Help me out",
+        "comment": "I am using it but it seems it is not working  when I am tapping on app on internal storage it is not changing to app to sd  Give any suggestion",
+        "commentId": "lg:AOqpTOFyPyeaBfLqbkZtvScQVlm_hN9xNDhU4KRPQavNhLcdgchY8OchW6rzJgz4N_cnBJIEN6KglF_vGDqteg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1326752787727",
+        "starRating": "5",
+        "title": "not show my sd-ext",
+        "comment": "i have sd-ext 1gp the program show me only 206mb in titanium backup show me 1 gp in use 450mb my phone samsung ace with android 2.3.7 mod version cyano ace - RC 2.2 - BehradGH and thank you for help good program :)",
+        "commentId": "lg:AOqpTOEUcv3sAjqNw8UfbVz3OiqFYWqIgqE4sZ_uXR4ey3Ud694Ky41KMZuWdyXZ5hVricRrhqsFfKOD0yEfIw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347281471146",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "Please what do u mean by flashing script its not working my device rooted and busy box installed thank",
+        "commentId": "lg:AOqpTOFHN1bqcyhStpe1jdP7J0QhAOPb8CRt9yfD05mRj3lu_PSmj4t0Y5Q6cF7i0ore0lKRxx8KnvkPWmfhvQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337774665556",
+        "starRating": "5",
+        "title": "One of the most useful GUIs available",
+        "comment": "Runs as advertised.",
+        "commentId": "lg:AOqpTOHhOKf6wvSjVFiGpQz_nesUWn83-iv49Y3M1b_-QwSS4OMg42bifEX8WvoXlRE9pF_NXDgGZCx20owK4Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355676042474",
+        "starRating": "3",
+        "title": "Please help",
+        "comment": "After using this app,Whenever I download an application,it goes into the boot cynogenmod screen just as it starts installing the app. What should i do?",
+        "commentId": "gp:AOqpTOFMqjzTBkt4kIGuFYJgLIHxtqZ6nC5SNcalcHhXybKy_4lhessJI5VG50DfagR0RKOQJO5pLgdB-UEl7A",
+        "author": "Sarthak Kukreja",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352244438075",
+        "starRating": "5",
+        "title": "great",
+        "comment": "works does all it promises what more could you possibly want",
+        "commentId": "lg:AOqpTOE9FHC3aBscLPz84K3oxQdHl7HlLoWjLq3QfgFl_p9KEeVR3RH98BHysttTpYYjof9o0ziPGoFXK7qOLA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356586806940",
+        "starRating": "2",
+        "title": "Ascend m860 cm7",
+        "comment": "changes to swappiness or low memory handling settings do not persist through restart. help anyone?",
+        "commentId": "lg:AOqpTOEq23Dlgm8VMrnCvRKZeUFactFKoMBHXcKn7NDRWAzyqRshhAJ2SRPFgeTIqyMkiHrKYA0-qjz4zy0n2A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335295431174",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Useful",
+        "commentId": "lg:AOqpTOF3SyH9Yi16dG1vuLxHMqWT0wHq0ocw_VfBD3mrvZ512_qWmyl8vIGG1KHzMwo1gxgrWKAqcW4d6ScYYQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

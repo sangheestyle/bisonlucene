@@ -1,0 +1,36 @@
+{
+  "title": "TaskKillRanker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.camel.soft.app.taskkillranker",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 21, 2012",
+  "version": "1.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Camel Soft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.camel.soft.app.taskkillranker",
+  "extendedInfo": {
+    "installSize": "1,000k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This application is free of unnecessary memory.Can compete in the world rankings the number of kills.-Kill all tasks but can out live setting task.-Switching can be selected with the application that can display the app can not Kill.-Task have menu Switch to Kill Uninstall and Application Info.-Pankia Online. -Ranking of the release memory total and a Kill number. -Get achievement. -Social networking service.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

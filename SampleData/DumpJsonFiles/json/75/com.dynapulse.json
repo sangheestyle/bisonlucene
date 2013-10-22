@@ -1,0 +1,33 @@
+{
+  "title": "DynaPulse® Blood Pressure Demo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dynapulse",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "February 25, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Preventagen, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dynapulse",
+  "extendedInfo": {
+    "installSize": "232k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The DynaPulseÂ® Blood Pressure Demo allows you to connect your Bluetooth capable DynaPulse Blood Pressure Monitor to your Android mobile device, to measure and record your blood pressure. The app also provides links to the informative DynaPulse website, along with it's affiliates and Facebook, providing numerous forms of information on cardiovascular disease and demonstrating the power of DynaPulse Pulse  Dynamics technology and non-invasive hemodynamic profiling. Features: Â»Seamlessly connect your Android mobile device to a Bluetooth capable DynaPulse Blood Pressure monitor.Â»Measure and record your blood pressure with a Bluetooth capable DynaPulse  Blood Pressure monitor. Â»Adjustable high/low cuff pressures to ensure measurement  accuracy. Â»Display the DynaPulse pulse waveform, quickly identify instances of arrhythmia. Â»Instantly compare your blood pressure values with the JNC-7  guideline for hypertension and pre-hypertension detection. Â»Recall and display past measurements when visiting your doctor or health care provider.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_TASKS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

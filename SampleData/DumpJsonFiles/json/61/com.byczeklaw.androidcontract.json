@@ -1,0 +1,29 @@
+{
+  "title": "Sell My Stuff",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.byczeklaw.androidcontract",
+  "category": "Shopping",
+  "price": "$0.99",
+  "datePublished": "May 25, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Michael E. Byczek",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.byczeklaw.androidcontract",
+  "extendedInfo": {
+    "installSize": "27k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Do you want to sell your Android? Book? Art? Anything?This app creates a one-page contract for a buyer/seller to prepare for a transaction involving personal property (i.e. electronics, clothing, arts and craft, etc). Enter the buyer and seller's name and address. This version allows up to three itemized descriptions with a price for each item. The document is immediately saved in HTML format to the external storage card on your device. When your device is connected to your computer, turn on USB storage. From the computer open the device and open the bill of sale to print.The developer, Michael E. Byczek, is licensed to practice law in Illinois and a certified system administrator.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

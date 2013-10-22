@@ -1,0 +1,35 @@
+{
+  "title": "Car Care World Expo 2011",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ccwe2011",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 9, 2011",
+  "version": "1.7.8",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.ccwe2011",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The International Carwash Associationâ¢ is a nonprofit trade association representing the retail and supply segments of the professional car wash and vehicle care industry in the United States, Canada and around the globe. Membership includes more than 1,600 operator companies representing 7,500 locations and more than 300 manufacturers, distributors and related suppliers. The association produces Car Care World Expoâ¢, the world's largest car wash trade show and convention, and administers WaterSaversâ¢, the industry's leading environmental recognition program. To learn more about the International Carwash Association, membership benefits, Car Care World Expo or WaterSavers, visit www.carwash.org.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

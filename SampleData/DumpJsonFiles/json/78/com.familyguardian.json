@@ -1,0 +1,43 @@
+{
+  "title": "Family Guardian",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.familyguardian",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "June 20, 2013",
+  "version": "3.0.13",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "IORun LTD",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.familyguardian",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Family Guardian keeping your family safe and close, sending Group notification and alerts to family and friends.Family Guardian was founded to enable families and friends to keep tags on their loved ones and to provide an alert platform in case of emergencies.IORun offers 4 applications:Iâm OK â Let people know you have arrived safely at your destination and share your exact locationI Need U â Alert for help in case of an emergency pinning your exact locationI Notify U - Send notifications using a voice or ,text message, and picture.Family Map - Shows family members location at any given time and allows family members to know where their loved ones areWho can benefit from this service? (Examples)â¢Familiesâ¢Senior peopleâ¢People with illnessesâ¢Provides a sense of security for anyone aloneâ¢Security employsYour message will be delivered through the App to your contacts instantly by the following:1.To their Smartphones2.To their Family Guardian web inbox accountDownload IORun family guardian smart phone application from Google Play ,If you don't have account pleas fill in the \"request an account form\" and we will send you SMS with link for invitation page. Please follow up the instructions.    If you have been identified as a member (by receiving a message SMS from a friend) Please follow up the instructions  and download the application .Then you may register by entering your mobile number and password and logging into your account. You can also Login to your IORun family guardian web account at http://www.iorun.com. Note: Continued use of GPS running in the background can dramatically decrease battery life.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.familyguardian.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

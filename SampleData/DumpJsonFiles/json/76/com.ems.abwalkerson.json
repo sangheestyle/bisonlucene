@@ -1,0 +1,36 @@
+{
+  "title": "A.B. Walker & Son",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ems.abwalkerson",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 10, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Appitized",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ems.abwalkerson",
+  "extendedInfo": {
+    "installSize": "6.0M",
+    "downloadsCount": "5+",
+    "downloadsCountText": "5 - 10",
+    "description": "A.B. Walker & Son, an independent funeral directors and monumental masons, is a fifth generation family business, serving Berkshire, South Oxfordshire and the surrounding areas. They have been specialists in funerals for over 180 years and strive to deliver a professional, respectful and personal service.App Features:Advice: Guidance for all the entire funeral process.To Do List: A useful tick list to keep you organised during the suffering of bereavement.Obituaries: List of funerals hosted by A.B. Walker & Son.Donations: A link to the Memory Giving donations page so you can give in the memory of a loved one.Contact Us: All the information and mediums to contact A.B Walker & Son for your funeral queries and support.Share: Share the app with your contacts.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ems.abwalkerson.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

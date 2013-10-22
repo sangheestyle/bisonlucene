@@ -1,0 +1,39 @@
+{
+  "title": "Green Atlas",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elinext.android.greencore.greenmap",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "April 6, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7",
+  "rating": "4.142857",
+  "contentRating": "Low Maturity",
+  "creator": "Elisoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elinext.android.greencore.greenmap",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Green Atlas is an application with geolocation for Google maps with a focus on Europe. With the use of markers the app shows nuclear power plants, green places of interest and other energy industry locations and via layers the app shows the world map of radiation level and clarity of environment. Green Atlas app v 1.0 features up-to-date data on human footprint on the environment. The app can be used by tourists, frequent travelers and every environmentally concerned person for rising ecological awareness.",
+    "reviews": [
+      {
+        "timestampMsec": "1339402027559",
+        "starRating": "1",
+        "comment": "Errors",
+        "commentId": "lg:AOqpTOGAnyLJ4pDtHKp_OfkKjE-9n4JEul7koPyOzG8UWWAGmKIpsGMgvHzy3xTgOTYFFoorZMbt1rkWdsoY-FI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

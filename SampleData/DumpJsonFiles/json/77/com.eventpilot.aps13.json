@@ -1,0 +1,45 @@
+{
+  "title": "25th APS Annual Convention",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eventpilot.aps13",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "April 16, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "ATIV Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eventpilot.aps13",
+  "extendedInfo": {
+    "installSize": "8.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "EventPilotÂ® conference app is your full featured guide to manage your APS 2013 conference attendance.   App features include:   â¢ Native app: No wifi connection required to access the APS conference program, schedule or animated maps.  â¢ Home: Stay informed about hot issues, event program changes, your upcoming sessions and organizer messages.   â¢ Program: Browse the entire event program to build your personal schedule, bookmark sessions or speakers.    â¢ Take notes and email them as part of your trip report for reference.    â¢ Exhibitors, Maps, related conference info and much more.APS13,APS2013,APS,psychology,American Psychological Society,ativ,eventpilot,conference app,event app",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1369265760811",
+        "starRating": "5",
+        "comment": "Check out new work from UCF and the MIT2 Laboratory!",
+        "commentId": "gp:AOqpTOE_he6bRqQBVgRldDMcJyJD6jk8Bt6Dtdw35rhDuLhKHhf2J6AGJ4BrCxmQyxA3LujEmIQ7Mk7SdRDkVQ",
+        "author": "Ben D. Sawyer",
+        "authorURL": "http://lh6.googleusercontent.com/-S-WDGrc3Ri8/AAAAAAAAAAI/AAAAAAAAAEs/XXHaB9il2K0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-S-WDGrc3Ri8/AAAAAAAAAAI/AAAAAAAAAEs/XXHaB9il2K0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.SECURITY",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

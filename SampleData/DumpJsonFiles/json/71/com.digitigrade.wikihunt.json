@@ -1,0 +1,36 @@
+{
+  "title": "WikiHunt",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.digitigrade.wikihunt",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "November 1, 2011",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "digitigra.de",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.digitigrade.wikihunt",
+  "extendedInfo": {
+    "installSize": "201k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Wikipedia turns out to be a great way to kill time and build knowledge at the same time. There are days where you follow link after link to end up where you never thought you would.WikiHunt takes wiki hopping and turns it into a game. This game takes you to a random wiki page and you have to hunt down the article it tells you to with as few clicks as possible.If that's not hard enough maybe you want to see how fast you find the connections other users made. Take up one of their challenges and move from one article to another with no more clicks than they tell you to.Perhaps you would like to teach people something (for example that Descartes not only is the father of analytical geometry but also worked on early neuroscience) or just show them interesting connections you found (Did you know that the one page that stands between Coca Cola and liberal democracy is Nazi Germany?). So take what you know and turn it into a problem for other players and see how many can solve it.Anyways get playing because this game will fill your brain with interesting facts that you might never need again while forcing you to remember what you already know to make the shortest connection between two things. Notes:* Images are stripped from the article by default to save bandwidth. Image loading can be activated using the menu key.* The game only counts clicks not time because finding the link in a that you thought had to be there seems to be more fun than just hastily clicking the first link in the introduction.* The searchbar might be visible while the page loads but you will have to be quick if you want to cheat ;)",
+    "reviews": [
+      {
+        "timestampMsec": "1369898070248",
+        "starRating": "4",
+        "title": "Brilliant idea for a game",
+        "comment": "By following links in Wikipedia pages you can get from Bishop to hamburger in six moves, Pythagoras to electric guitar in four. Finding these connections is both fun and fascinating.",
+        "commentId": "gp:AOqpTOFpzPKV8XhUfkPC3MS_r1y1e03g2Ng8qXDGmRLa8JCS4e6Rg1wgZQrmL7bOBri9QEoTu8sUcCi3M5yTJg",
+        "author": "Ken Hutton",
+        "authorURL": "http://lh6.googleusercontent.com/-D2tQaMQfLWU/AAAAAAAAAAI/AAAAAAAAAT4/idbQLYQ3cAg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-D2tQaMQfLWU/AAAAAAAAAAI/AAAAAAAAAT4/idbQLYQ3cAg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Partille Cup",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cupmanager.partille",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "July 3, 2013",
+  "version": "1.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Everyone",
+  "creator": "CupManager",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cupmanager.partille",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is the official Android App for Partille Cup. Partille Cup is the worldâs largest and most international handball tournament for youth. The event takes place in Gothenburg each summer. Since the start in 1970, almost 400 000 participants from 90 countries and six continents has participated. Each year over 20 000 participants from 1100 teams participate. And the numbers are increasing every year.With this app you have the best tool to follow the tournament. You have the entire game schedule and all the team information. You will find the tournament regulation and information, the week program, the latest news, web-tv and much more. By visiting a page of the application once, it will be availiable even without an internet connection allowing you to use the application without traffic costs. Note that the game schedule and all results in the app cannot be updated without internet access.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.cupmanager.partille.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

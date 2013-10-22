@@ -1,0 +1,50 @@
+{
+  "title": "Hispan TV Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codeofzero.hispantv",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "December 27, 2012",
+  "version": "2.5.6",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "65",
+  "rating": "4.523077",
+  "contentRating": "Low Maturity",
+  "creator": "Code of Zero",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codeofzero.hispantv",
+  "extendedInfo": {
+    "installSize": "6.3M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This is the Official App for Hispan TV, a new television channel based in Tehran, Islamic Republic of Iran.This app provides access to the latest news articles, latest uploaded videos and a live video feed, where you can watch the Spanish language channel.This app uses the Vitamio library to provide high quality and low bandwidth HLS Live Streaming directly within the App.  You maybe asked to download a library from the Market or Vitamio's site - this is perfectly normal and we ask that you download the Vitamio library to get the best possible experience from the HispanTV Mobile App.HispanTV is a TV channel in Spanish, whose website became operational on November 5, 2010, in Tehran, capital of the Islamic Republic of Iran, projecting antenna commissioning before the end of 2011.With a grid program of 24 continuous hours a day, HispanTV offers users a digital satellite service and, with full coverage aimed at Spanish-speaking countries, maintained by professionals in the areas of information, program, documentary and technical with a high spirit of vocation.Mission and vision:Mission: Working under the unwavering commitment as a means of communication to promote rapprochement between the peoples of Iran, Hispanic American and Middle East by facilitating an information platform as HispanTV, to which they can use to disseminate their views, those who often find themselves with an insurmountable wall that prevents the public service and encourages the strengthening of sectors that put the business on the social factor, which prevents the realities show that living in the geographical areas of interest, considering also the need for greater closeness among all the peoples of Latin America.The origin of HispanTV was designed to be a bridge for integration and show the cultural and sociopolitical after this process.From this, we intend to approach and meet the social actors who construct small cultural worlds through their actions, so that we support in different sizes for those seeking a space to share their experiences, what we help you grow and provide such coverage for which they are displayed, for which we have advanced as the times demand, from text to hypertext metatext or in order to satisfy the requirements of our visitors, friends, users, public sources and consumers of traditional media.We believe that a primary need is the exchange and mutual understanding between the peoples of Latin America and the Middle East, who can assist in this effort through our media.",
+    "reviews": [
+      {
+        "documentVersion": "2.5.6",
+        "timestampMsec": "1363687182032",
+        "starRating": "2",
+        "comment": "I love this bat it give m alag......",
+        "commentId": "lg:AOqpTOEG9wcLkfqLYIqDl_MDdj-kECuIYNOUWUy8MO8_pTcCOezu2xlA4OhSmb2wWJmNwxlIR2Lj0DHv0FGWHw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329430098513",
+        "starRating": "5",
+        "title": "excelente!!",
+        "comment": "muy, muy, agradable aplicacion excelente :-) funciona muy bien",
+        "commentId": "lg:AOqpTOEW00ZrDyw0hCODuvG_D3VD-s3bjN-9S74mXkq1iU-vjXl7K4f-Xo6nlJ00lOP_dwl8-MwWPk3VMcfd9w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

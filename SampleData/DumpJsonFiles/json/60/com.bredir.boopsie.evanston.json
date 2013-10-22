@@ -1,0 +1,41 @@
+{
+  "title": "Evanston Public Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.evanston",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "April 11, 2013",
+  "version": "4.5.97",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.evanston",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Search for books, DVDs, audiobooks, CDs and more. Place holds or renew items, check out the latest reading lists, follow our blog and tweets, or contact us. We are here for you!We've invested in the latest mobile solution for libraries and we'll be adding new content over time. We hope you enjoy My EPL as much as we do!",
+    "reviews": [
+      {
+        "documentVersion": "4.5.97",
+        "timestampMsec": "1367857012754",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "I can check out at the stacks now. :)",
+        "commentId": "gp:AOqpTOGJHqLTmuVVB5RW5B0o8M9hwhUu9pLa3x1k-OW6bqKDQqqaCWko5wSgYTr88leRMq-jty9BGh7CMRNk-BU",
+        "author": "Neal Daringer",
+        "authorURL": "http://lh6.googleusercontent.com/-6fDV-k7RspE/AAAAAAAAAAI/AAAAAAAAL0o/YjMR2d9S00g/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-6fDV-k7RspE/AAAAAAAAAAI/AAAAAAAAL0o/YjMR2d9S00g/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

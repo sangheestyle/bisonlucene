@@ -1,0 +1,38 @@
+{
+  "title": "Web Rock Radio",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_60d369d2a2794bb0bc56906e4d83527b.app",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "November 7, 2012",
+  "version": "1.21.71.1024",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.3333333",
+  "contentRating": "Low Maturity",
+  "creator": "Web Rock Radio Team",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_60d369d2a2794bb0bc56906e4d83527b.app",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Web Rock Radio player. Play it loud !!!Rock n roll my friends !!!Where the old meets the new, so you can listen to the best rock n roll.The best rock n roll is here. And you can listen anytime...anywhere.Web Rock Radio",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_60d369d2a2794bb0bc56906e4d83527b.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

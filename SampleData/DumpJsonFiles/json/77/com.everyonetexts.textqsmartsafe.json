@@ -1,0 +1,69 @@
+{
+  "title": "Anti Texting safe driving app",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.everyonetexts.textqsmartsafe",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "April 15, 2013",
+  "version": "6.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "everyonetexts Inc. / Steven Meister",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.everyonetexts.textqsmartsafe",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "No more excuses: Drive safely! TextSmart-DriveSafe Phone App offers the best protection, blocking phone use when driving over 1 MPH (with parental variable speed control), sending your choice of auto-reply responses and a One-Click Panic Button with location message. The optional TextSmartDriveSafe-Web displays where the user is while remotely managing phones with TextSmart-DriveSafe.FEATURES > TextSmart-DriveSafe puts a block screen on the childâs cell phone while disabling phone use.> Simple One-Click Emergency Override Button enables phone use for two minutes > TextSmart-DriveSafe automatically replies to incoming texts and calls. > One-click Emergency Panic Button notifies designated people and provides the childâs current location. Automatically notifying the parent or employer of the emergency use. > Built-in scheduler turns safety features on and off. > Sends a message that the user does not accept texts from those not in the phonebook. > Auto-Reply Mode: standard or custom auto-reply to texts or calls while driving, in meetings, in class, eating or sleeping, etc.. > Parents/employers are automatically notified when GPS is turned off or product is uninstalled. > TextSmart-DriveSafe offers a One-Click Panic Button to notify parents or employers of an emergency along with the userâs most current location. > Trace and monitor routes traveled, while also storing the speeds driven (optional. Feature).> Graduated Driverâs License laws (Illinois) and others recognized for under age 19.  It is illegal in more than 36 states to text while driving. Distracted drivers are a danger to all of us everywhere. Many states are seeking to restrict phone use for truck drivers and for bicyclists. TextSmart-DriveSafe will:> Increase safety for everyone and provide a simple way for those responsible to monitor individuals on their account, allowing drivers to focus on driving by keeping their eyes on the road and their hands on the wheel. > Automatically reply to a text message or call. > Becomes a personal GPS monitor., allowing parents to check their childâs current location with the push of a button while the child is driving, riding their bicycle to school , or at another location.>An optional features allows the parent to be notified if a child goes beyond the anticipated radius of travel.\"EveryOneTexts worked with law enforcement, parents, technicians and many other stake holders to deliver a safe texting solution that addresses current laws, phone user safety and tracking concerns. Officers from the Buffalo Grove (IL) Police Department provided their expertise and knowledge in the area of traffic safety to specifically address the teen aspects of this application,\" said Steve Meister, founder of EveryOneTexts.",
+    "reviews": [
+      {
+        "timestampMsec": "1345994501701",
+        "starRating": "1",
+        "title": "Junk",
+        "comment": "Force closes and when registering, it says e-mail or device already in use and i never used this before.  Uninstalled.",
+        "commentId": "lg:AOqpTOHnnfWA5dr7YMVMXoGqUJLEOUI3b-t95nvhQTnArXz2PvFXG93zPbzDUgvUm_KlUYJ0ETJmG48TH7GW",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363614433067",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Nice app.",
+        "commentId": "gp:AOqpTOGt4J0vA-JvMMTdOJMU48GHMqkoltuRlrPTclV6lpCGBrQgsn0rF8rFKrEe6TR3nWeFhIg9dwGGn4JF",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_SMS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.READ_SYNC_STATS",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.BLUETOOTH",
+      "com.everyonetexts.textqsmartsafe.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

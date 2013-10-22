@@ -1,0 +1,42 @@
+{
+  "title": "Brother Rice Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.designsbyjw.brotherricefree",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "September 22, 2011",
+  "version": "1.10",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Prep Connect Mobile, LLC.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.designsbyjw.brotherricefree",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Brother Rice Mobile provides Android owners an interface with immediate access to essential information from Brother Rice High School. Alumni, students and fans no longer have to wait until they have access to a computer to keep up with their favorite Brother Rice sport or event.The Brother Rice Mobile includes the following features: SCHEDULES & RESULTSComplete schedules and results for each sport including the date, time, location and opponent. PHOTOS Three most recent photo galleries from Brother Riceâs Picasa photo stream are accessible in a convenient format for the mobile device. VIDEOSSelect on-demand video clips, streaming directly from YouTube within the application. TWITTER One tap access to the Brother Rice Twitter, Sports Updates, and Chicago Sports feeds.BROTHER RICE NEWS Includes a feed of the latest news items from Brother Rice. The Brother Rice Mobile App also includes shortcuts to the Brother Rice homepage and Edline page.",
+    "reviews": [
+      {
+        "timestampMsec": "1319331436705",
+        "starRating": "5",
+        "title": "Review",
+        "comment": "Great for brother rice students",
+        "commentId": "lg:AOqpTOGZOP8_U7fKNg_NRKh4eGiBOvHQJz2DQ17LS8L3X0Je1RyU0HB0UAfFVacQce6s0JnoawW1qA-CrO0gBjM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

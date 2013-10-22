@@ -1,0 +1,37 @@
+{
+  "title": "Cape Town News",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.capetownapps.capetownnews",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "March 26, 2012",
+  "version": "1.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "fashionista1",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.capetownapps.capetownnews",
+  "extendedInfo": {
+    "installSize": "130k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Cape Town News!Cape Town (Afrikaans: Kaapstad; Xhosa: iKapa) is the second-most populous city in South Africa, and the provincial capital and primate city of the Western Cape. As the seat of the National Parliament, it is also the legislative capital of the country. It forms part of the City of Cape Town metropolitan municipality. The city is famous for its harbour as well as its natural setting in the Cape floral kingdom, including such well-known landmarks as Table Mountain and Cape Point. Cape Town is also Africa's most popular tourist destination.Located on the shore of Table Bay, Cape Town was originally developed by the Dutch East India Company as a victualling (supply) station for Dutch ships sailing to Eastern Africa, India, and the Far East. Jan van Riebeeck's arrival on 6 April 1652 established the first permanent European settlement in South Africa. Cape Town quickly outgrew its original purpose as the first European outpost at the Castle of Good Hope, becoming the economic and cultural hub of the Cape Colony. Until the Witwatersrand Gold Rush and the development of Johannesburg, Cape Town was the largest city in South Africa.Today it is one of the most multicultural cities in the world, reflecting its role as a major destination for immigrants and expatriates to South Africa. As of 2007 the city had an estimated population of 3.5 million. Cape Town's land area of 2,455 square kilometres (948 sq mi) is larger than other South African cities, resulting in a comparatively lower population density of 1,425 inhabitants per square kilometre (3,690 /sq mi).",
+    "reviews": [
+      {
+        "timestampMsec": "1338382477916",
+        "starRating": "1",
+        "comment": "Not updating content.",
+        "commentId": "lg:AOqpTOEgfPI3cgwUmMZayoyrmg3ts8me38V5fe12fZTjtN8G0L75XQGvmN90a_Ift_TVwgS78a1gkUSqcyLeNFw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

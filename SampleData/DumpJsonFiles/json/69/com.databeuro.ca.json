@@ -1,0 +1,33 @@
+{
+  "title": "The Christian Answer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.databeuro.ca",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "August 5, 2013",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "dbeuro",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.databeuro.ca",
+  "extendedInfo": {
+    "installSize": "24M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "If you are seeking answers about the Christian faith this app is a good place to start.It provides a starting point to answering such questions as:- is there a God?- why does God allow suffering?- who is Jesus?- why did He die on a cross?- is the Bible really true?- is there hope for the hopeless?- can I be too bad to be saved?......and many more.Serious questions raised by atheists, scientists or those simply seeking answers to life are addressed in a clear and sympathetic way.This app will be updated on a regular basis and users are encouraged to request further free resources in their quest for answers about the Christian faith.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.databeuro.ca.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

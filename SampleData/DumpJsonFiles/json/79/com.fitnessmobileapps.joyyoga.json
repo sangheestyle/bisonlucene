@@ -1,0 +1,63 @@
+{
+  "title": "Joy Yoga Center",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fitnessmobileapps.joyyoga",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "September 9, 2013",
+  "version": "2.1.17",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Fitness Mobile Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fitnessmobileapps.joyyoga",
+  "extendedInfo": {
+    "installSize": "3.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The OFFICIAL Joy Yoga App makes it easy to get more out of your yoga experience! You get easy-to-view class schedules, and you can sign-up for your next class with a simple touch. You can also access your account, buy packages, and see real-time class availability. Plus, get access to \"What's Hot\" information about upcoming events/workshops, membership specials, and new promotions. Get inspired with our invigorating health and fitness information for our Yogis with quick access to our blogs, instructor advice, and links to our social media pages. Experience yoga in a new way - download this app today!** Voted \"Best Yoga Studio in Houston\" **** The largest variety of classes offered. **** Access to massage, energy therapy, and advanced Yoga training. **Also be sure to check out our website at: http://www.joyyogacenter.com",
+    "reviews": [
+      {
+        "timestampMsec": "1363707377068",
+        "starRating": "5",
+        "title": "I love Joy Yoga Center!",
+        "comment": "My favorite yoga studio in Houston just got a mobile app?! I love it!",
+        "commentId": "gp:AOqpTOHcWsD02TGmW5VcFSW93YsFXgs9s5KRa1PaXtt_ZCu-L4b9D9NAWsu-YfkwHiJ6v89qX_xZAjFKUqniCz0",
+        "author": "Leslie Hughes",
+        "authorURL": "http://lh5.googleusercontent.com/-ktN31D336q4/AAAAAAAAAAI/AAAAAAABI08/COaV8dBQm0Y/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ktN31D336q4/AAAAAAAAAAI/AAAAAAABI08/COaV8dBQm0Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363710426593",
+        "starRating": "5",
+        "title": "At long last!!",
+        "comment": "This has been my favorite yoga studio in Houston for many years now.",
+        "commentId": "gp:AOqpTOEixUIoMWTojz3tEFMO5mzAF0aY5KVp1H7-9RbBP6Vlh4cCDDBaLkEzbUOcaYunViaFNkkUGCSl9z1S9Q0",
+        "author": "Mathew Howard",
+        "authorURL": "http://lh5.googleusercontent.com/-CeEbsY3t5CM/AAAAAAAAAAI/AAAAAAAAEUw/xNtrFCq_E04/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-CeEbsY3t5CM/AAAAAAAAAAI/AAAAAAAAEUw/xNtrFCq_E04/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364149289694",
+        "starRating": "5",
+        "title": "Super",
+        "comment": "I love joy yoga their awesome! !!",
+        "commentId": "gp:AOqpTOH9GoKIdWDaKUxiQNE0OX9BvVxOWcvDPeSnUX6gLpweNoJckJQUoYdMSa1UCEhuvrYPmgBcsG5_7xerfTE",
+        "author": "Jasmine Young",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.fitnessmobileapps.joyyoga.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR"
+    ]
+  }
+}

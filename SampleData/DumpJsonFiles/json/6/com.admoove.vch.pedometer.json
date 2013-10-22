@@ -1,0 +1,42 @@
+{
+  "title": "Podometre",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.admoove.vch.pedometer",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 14, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "34",
+  "rating": "2.6764705",
+  "contentRating": "Low Maturity",
+  "creator": "AppyHour",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.admoove.vch.pedometer",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "If you are going outside for walking or jogging, use this application for assessing your walking(running) distance and calories consummed.It will be a perfect health assistant during your cardio or running or even fitness training.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_GPS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

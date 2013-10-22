@@ -1,0 +1,38 @@
+{
+  "title": "Princeton Financial Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.apps5VF7iAjel",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.apps5VF7iAjel",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Princeton Financial Systems Client Conference is September 9-11, 2013 at the Hotel Monteleone in New Orleans. This Conference offers you the opportunity to focus on areas that you have identified as critical to your conference experience: training and networking. Gain insight from our team during breakout sessions as they present our products and services. Join in the conversations taking place among your peers during the many networking opportunities. Learn from our product experts in the classroom and in the lab. Visit our Vendor Partners and see the valuable products and services they have to offer.The 2013 Princeton Financial Client Conference mobile app is designed to provide conference attendees with all the information they need at the event, including full conference schedule, location maps, and other attendee information.  We look forward to seeing you in New Orleans for the 2013 Client Conference.Keywords: The Princeton Financial Client Conference is September 9-11 at the Hotel Monteleone in New Orleans.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.apps5VF7iAjel.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Bed Head Hotel",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_ad3b1ff51c394859b440bdc580086caf.app",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "July 25, 2013",
+  "version": "1.33.42.621",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Conduit",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_ad3b1ff51c394859b440bdc580086caf.app",
+  "extendedInfo": {
+    "installSize": "7.3M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "The official app for the Bed Head Hotel event, powered by Conduit Mobile! The Bed Head Hotel app has everything you need to experience the vibe of the event, and features a DJ lineup, a streaming LiveAlbum of haircuts at the event, a photo and video gallery, Twitter and Facebook updates, and much more. The Bed Head Hotel event is a two-day VIP retreat and media lounge presented by Bed Head, featuring an all-stat DJ lineup, complimentary professional Bed Head salon hair styling, giveaways, an open bar, and more!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.conduit.app_ad3b1ff51c394859b440bdc580086caf.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.conduit.app_ad3b1ff51c394859b440bdc580086caf.app.permission.RECEIVE_ADM_MESSAGE",
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

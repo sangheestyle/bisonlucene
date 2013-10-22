@@ -1,0 +1,33 @@
+{
+  "title": "VantagePoint Benefit Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dpath.vantage",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "June 19, 2013",
+  "version": "1.2.65",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "DataPath Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dpath.vantage",
+  "extendedInfo": {
+    "installSize": "5.4M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "Access to your benefit details, claims and reimbursements has never been easier.  Save time and maximize your FSA, HSA, HRA, TRA, and COBRA benefits using the VantagePoint Mobile app.  The app will allow you to view your enrolled benefits as well your balances, claims and debit card transactions, and reimbursements associated with those benefits. Snap Claim allows you to file claims directly from your mobile device with photos of your receipts. No more faxing or fumbling with receipts. Check your balance 24/7. The app is secure- no personal information is stored in the app.Some of the features available to you:  - View FSA, TRA, HSA, and HRA balances, claims and reimbursements - View COBRA, Direct Bill and Retiree details - View Card activity and declined transaction - View and Manage your personal information - View and manage your notification subscriptions - Submit claims directly from your phone with Snap Claim",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

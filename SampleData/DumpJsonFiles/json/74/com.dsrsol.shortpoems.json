@@ -1,0 +1,50 @@
+{
+  "title": "Short Poems",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsrsol.shortpoems",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "April 29, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Medium Maturity",
+  "creator": "DSRSOL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsrsol.shortpoems",
+  "extendedInfo": {
+    "installSize": "4.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Add the charm of words into your life with the Android short poems app!Check and make your choice with wonderful app features that include:â¢\tshort friendship poemsâ¢\tfamous short poemsâ¢\tshort poems for kidsâ¢\tshort funny poemsâ¢\tpoemsâ meaningsâ¢\tarticles on how to write short poemsâ¢\tvideos of short poemsâ recitals with musicâ¢\tbeautiful images incorporating short poems on different themesâ¢\tblogs that publish short poems on different themes from around the worldEnjoy short poems in multiple languages and check for frequent updates.Read up and donât forget your valuable feedback!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.dsrsol.shortpoems.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

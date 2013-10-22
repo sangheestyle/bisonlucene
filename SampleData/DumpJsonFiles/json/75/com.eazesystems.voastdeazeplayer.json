@@ -1,0 +1,59 @@
+{
+  "title": "VOA Standard English Player",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eazesystems.voastdeazeplayer",
+  "category": "Education",
+  "price": "$3.49",
+  "datePublished": "September 5, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "10",
+  "rating": "4.2",
+  "contentRating": "Everyone",
+  "creator": "Daily Listening",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eazesystems.voastdeazeplayer",
+  "extendedInfo": {
+    "installSize": "206k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "For VOA news listener, VOA Standard English Player is a great RSS client for mobile that provide a convenient way to listen English news from VOA web site, include RSS categories:1. News2. USA3. Africa4. Americas5. Asia6. Europe7. Middle East8. American Life9. Arts and Entertainment10. Hollywood Highlights11. Music12. Literature13. Art and Culture14. Economy15. Religion16. SportsFEATURES* Listen to VOA episode while reading the transcript.* High-light conversation sentences in the transcript.* Translate news to your language.* Download transcript and mp3 into device for offline listening and reading.* Automatic play the next news.* Support replay mode on all news item.* Support landscape mode.* Support background playback.* Display all items count and unread items count for every feed.",
+    "reviews": [
+      {
+        "timestampMsec": "1361464373237",
+        "starRating": "5",
+        "title": "Nice app",
+        "comment": "Very useful app",
+        "commentId": "gp:AOqpTOGtVCngtlKtdvxFhWTipKuF_sx53pJSK5ZmW2aSI9Dn1JplAV3fXjiZmyJvk-vR8Ul0hLpFslhS8dDk",
+        "author": "Trinh Minh Thanh",
+        "authorURL": "http://lh4.googleusercontent.com/-oeoYqa8IvsM/AAAAAAAAAAI/AAAAAAAACWM/CZon0QcUUXY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-oeoYqa8IvsM/AAAAAAAAAAI/AAAAAAAACWM/CZon0QcUUXY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1361406990393",
+        "starRating": "5",
+        "title": "best voa apps",
+        "comment": "Really like the auto scroll and highlighted text while playing audio. But I wish it could resume download and background downloading.",
+        "commentId": "gp:AOqpTOECVNUY_RMiWGr7mcQfd2qDUGdl0N3Sy7T6iI3qDcMhqWBoGwmTf-SJuKWh40Vg3OKbRL2bZKvRqIJm",
+        "author": "John Andreys",
+        "authorURL": "http://lh3.googleusercontent.com/-PKg8PHBJKJ0/AAAAAAAAAAI/AAAAAAAAAOo/yhWfmWSc9Sc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-PKg8PHBJKJ0/AAAAAAAAAAI/AAAAAAAAAOo/yhWfmWSc9Sc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1333418045015",
+        "starRating": "2",
+        "title": "Experia so-01b",
+        "comment": "Thank you for creating  good software. But I think I have an error. When I play audios from the category, it plays different audio from the subject.",
+        "commentId": "lg:AOqpTOH42u69P0VqtajvL_0xGFU8p91k6103O4Zlnc-nkrZYZeqDMBKTityJI5RGTAElqF9muoeyLXZh6ISo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

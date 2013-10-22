@@ -1,0 +1,60 @@
+{
+  "title": "Wren",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.wren.playfi",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "August 27, 2013",
+  "version": "1.0.1.095",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "4.428571",
+  "contentRating": "Everyone",
+  "creator": "Wren Sound Systems",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.wren.playfi",
+  "extendedInfo": {
+    "installSize": "22M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Wren Play-Fi application utilizes DTS's wireless audio technology for Android. Stream your favorite tunes from your Android phone or tablet to one or more Wren V5PF speakers.  A great listening experience is just a touch away, thanks to this handy app. Choose a Play-Fi enabled speaker, choose a song, and your favorite tunes are streaming directly from your Android phone or tablet to every Play-Fi speaker in your home.The app offers a wide range of built-in streaming options: Use Pandora, play anything from your music library, enjoy songs from DLNA servers on your home network, or choose among thousands of AM/FM/Internet Radio stations and podcasts (ESPN, Radio Disney, BBC to name a few).Please note that the Wren Play-Fi app is companion software to the Wren V5PF speaker.  It is also compatible with the Phorus PS1 Speaker, Phorus PR1 Receiver, and other products enabled with Play-Fi technology. It is not intended as a stand-alone audio player.",
+    "reviews": [
+      {
+        "documentVersion": "0.0.071",
+        "timestampMsec": "1364560415206",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Works well with my  Google Nexus S",
+        "commentId": "gp:AOqpTOHTLaHsJ-mJrChLciIAK1W7kv5wPAL2r6Jaf-rRMIB2zd87deiuIJQtYbbT5KoYy3UJzpQaPmTbjGPVGg",
+        "author": "Erica Jones",
+        "authorURL": "http://lh3.googleusercontent.com/-2bWtbAkDUSI/AAAAAAAAAAI/AAAAAAAAAvI/OsN_qTsvo14/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-2bWtbAkDUSI/AAAAAAAAAAI/AAAAAAAAAvI/OsN_qTsvo14/photo.jpg"
+      },
+      {
+        "documentVersion": "0.0.071",
+        "timestampMsec": "1366184860947",
+        "starRating": "5",
+        "title": "Super",
+        "comment": "Very nice",
+        "commentId": "gp:AOqpTOHIuV5uHK7qN9gMjekF8fB7kJgKg7xDFCdz-QVyh0uGZqOAm3toM7vTYbLTftzXRc6R22Og8uh_sOtzTQ",
+        "author": "rajesh thavidan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Choice Hotels 59th Annual Con.",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.chiconv13",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 15, 2013",
+  "version": "4.2.4.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.chiconv13",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Choice Hotels International holds its annual Convention for owners and general managers of its franchised hotels. This yearâs 59th Annual Choice Hotels Convention will be held in Los Angeles, California, May14-16, where Choice Hotels will communicate top business and brand strategies to its franchisees, while also providing actionable training to drive success in the current industry and economic environment. Choice Hotels International (NYSE: CHH) is one of the largest and most successful lodging companies in the world. Choice Hotels currently franchises approximately 6,200 hotels, representing more than 495,000 rooms, in more than 30 countries and territories. Ranging from limited service to full service hotels in the economy, mid-scale and upscale segments, Choice Hotels-branded properties provide business and leisure travelers with a range of high-quality, high-value lodging options throughout the United States and internaÂ­tionally.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.chiconv13.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "CND View",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fnsys.mprms.co_cnd",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "December 10, 2012",
+  "version": "3.3.6",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CND Protection",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fnsys.mprms.co_cnd",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "CND View is designed for Android OS based mobile phone that mobile phone user can see the video footage from DVR(digital video recorder) over 3G or WiFi using its smart phone anytime, anywhere.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.CHANGE_CONFIGURATION",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.GET_TASKS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "BT MobileXpress",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bt.mnie.mx",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "March 26, 2013",
+  "version": "3.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "7",
+  "rating": "4.428571",
+  "contentRating": "Low Maturity",
+  "creator": "BT Group PLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bt.mnie.mx",
+  "extendedInfo": {
+    "installSize": "3.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "You must be a registered user of the BT MobileXpress service to use this application.The BT MobileXpress application allows customers of the BT MobileXpress service to login and use BT MobileXpress Wi-Fi on their Android devices. BT MobileXpress is a secure remote access solution aimed at global enterprises and organisations. It is a key component of flexible working, allowing employees, partners, contractors and customers to continue to work and securely access corporate data wherever they are. It allows you to work more productively, respond to customers quicker, save time, save travel costs, while operating effectively. BT MobileXpress Wi-Fi footprint is constantly growing and already provides access from over 4.3 million hotspots in 106 countries. Key Features of the BT MobileXpress application:â¢ Integrated Wi-Fi login simplifying connection to BT MobileXpress Wi-Fi hotspots.â¢ Searchable online mapping function to provide hotspot location information.â¢ Auto-Connect function to automate login when connected to a suitable hotspot.The application has an inbuilt feedback function. If you have any feedback or comments regarding this application please use this function to let us know.PLEASE READ:To use the application for the first time:1. Download and install this application.2. Start the âBT MobileXpressâ application on your device, you will be prompted to enter your BT MobileXpress username, password and service activation code. Registered users will be able to obtain this information from their companyâs IT department. This information will be saved and you will not have to enter on subsequent connections.3. Enable Wi-Fi on your device through âSettingsâ from your devices home screen.4. Open the BT MobileXpress application and when you are within a supported hotspot you will be able to login to the service.5. Before you leave the venue please ensure you logout to disconnect and terminate your BT MobileXpress Wi-Fi session. 6. Remember to change your device Wi-Fi settings when you return to a private or home Wi-Fi service.For further information please refer to the Help FAQ section within the app.Please note that variations in vendor hardware and implementation of Android OS could affect performance and operation of the BT MobileXpress App.  While we have tested and focused development of the application onto a wide range of business devices, we are unable to confirm operation of this application on all physical devices.  Therefore any customer planning on deploying BT MobileXpress App for Android should test and trial the software on their specific device portfolio to confirm its operation.This application is only for use by customers of the BT MobileXpress service. Unless you have this application do not download or install, it is not for use with any other public Wi-Fi services.",
+    "reviews": [
+      {
+        "timestampMsec": "1378356456376",
+        "starRating": "3",
+        "title": "Gill",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOGV_3rUpCIEqnStxyKOGDWjTEkSsPewGMFVMEUy1H-8wGL6BAualrxSgI9BwF4PDW7D792A6YP6zOuM",
+        "author": "Raj Gill",
+        "authorURL": "http://lh5.googleusercontent.com/-GGtD_nnXZzI/AAAAAAAAAAI/AAAAAAAAAA0/3oWewCEVXNQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-GGtD_nnXZzI/AAAAAAAAAAI/AAAAAAAAAA0/3oWewCEVXNQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1338397428784",
+        "starRating": "5",
+        "title": "Great.",
+        "comment": "Works really well !",
+        "commentId": "lg:AOqpTOGcmMtXLcExccu36CrF58uYrwYSpDsJ2gCCjV5iRo7_LU16vDOx5h4B3DfFfl77QULcXM762ahR0DoS",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357176839203",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": ":)",
+        "commentId": "gp:AOqpTOG1m_WbuCcVuHlVMH84I__9MWqXZNV8BLxazqTGtUBWIDkxsmaEilgIReIdtAwrmkKBT8Dn_wi9OYS6",
+        "author": "Jamie Leigh Morrow",
+        "authorURL": "http://lh5.googleusercontent.com/-QR0I6-ilUkw/AAAAAAAAAAI/AAAAAAAAAAs/RQuDKZNapXo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-QR0I6-ilUkw/AAAAAAAAAAI/AAAAAAAAAAs/RQuDKZNapXo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

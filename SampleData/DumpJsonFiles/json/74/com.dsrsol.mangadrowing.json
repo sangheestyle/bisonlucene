@@ -1,0 +1,57 @@
+{
+  "title": "Manga Drawing",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsrsol.mangadrowing",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 23, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.6666665",
+  "contentRating": "Low Maturity",
+  "creator": "DSRSOL",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsrsol.mangadrowing",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Android makes Manga Drawing and anime fun!Pleasure yourself and your artistic talents with a range of apps created to encourage your endeavors.The app features include selections like:â¢\thow to draw anime and magnaâ¢\teasy to draw animeâ¢\tdrawing for kidsâ¢\tpencil drawingâ¢\tfree images and wallpapers on how manga and anime are createdâ¢\tvideos and tutorials on how to draw manga imagesâ¢\tsketches and complete sceneries for kidsâ¢\tarticles about the current trend in manga and anime drawingâ¢\tdiscussion on career options for manga artistsWe look forward to your feedback.",
+    "reviews": [
+      {
+        "timestampMsec": "1375978821922",
+        "starRating": "3",
+        "title": "Cute but bad",
+        "comment": "I luv how it says drawing but it needs improvment",
+        "commentId": "gp:AOqpTOHYRPcU-9x1sKKMBdj2qmSoQoyvQ9GMqeuiKd8BfWtPNYUaJrw79_UxsQ3M_4_05i3Aaag8sf6c5_O3",
+        "author": "David Souders",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.dsrsol.mangadrowing.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

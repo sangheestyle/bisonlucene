@@ -1,0 +1,36 @@
+{
+  "title": "Remote Phone Control Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.Remote_Phone_Control_2",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "March 18, 2013",
+  "version": "1.3.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "UK HD Video Team",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.Remote_Phone_Control_2",
+  "extendedInfo": {
+    "installSize": "858k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Remote control your phone in computer browser via network connection. ^^^^^^^^<<<<<<<<<<<<<<<<<<<< READ FIRST>>>>>>>>>>>>>>>>>>>>>>^^^^^^^^^1. You may get notification ads or icon ads in this free version app to help us keep making great apps like this.2. Please give me some Feedback or give us 5 stars. Any problem, it is better to send feedback to us to get help than 1 star! I cannot answer your comments, please email me. 3.   If you have any problem in uninstalling this app, try to tick off it in Â¡Â°DEVICE ADMINISTRATIONÂ¡Â± of Â¡Â°LOCATION & SECURITYÂ¡Â±.^^^^^^^^<<<<<<<<<<<<<<<<<<<<                     >>>>>>>>>>>>>>>>>>>>>>^^^^^^^^^^^ Main Features^^Remote ViewKeyboard supportPhone buttons support: Home, Back, Menu and End buttonsSupport third-part VNC Viewers^^Requirements^^ROOTED phoneWIFI accessibleJAVA Applet enabled browsers^^INSTRUCTIONS^^^QUICK CONNECT:1.    Click Â¡Â°start serverÂ¡Â± button2.   Open the displayed URL in browser3.   3rd-part VNC Viewers can connect it via IP:5901^HOW TO CONTROL:Please double click Alt button to enable the computer keyboard control.There are setting button, menu button and supply button and about button here for us.1.     Setting button allows delaying to 1 min before it turns off automatically.2.    We are eager to get your five stars comments. If you have any problem, you can email us. Share with your friends. Please give me some Feedback or give us 5 stars. I cannot answer your comments, please email me.3.    There are more free apps for you to enjoy in about button.Existing infrared remote controls could be used to control PC applications. Any application that supports shortcut keys might be controlled via IR remote controls from other home devices. Connection can be made via serial port, USB port or motherboard IrDA connector. Such devices might be commercially available but can be home made using low cost micro controllers.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

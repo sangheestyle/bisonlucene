@@ -1,0 +1,62 @@
+{
+  "title": "CU there!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elvyke.cuthere",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "December 6, 2011",
+  "version": "2.3",
+  "operatingSystems": "2.0.1 and up",
+  "ratingsCount": "23",
+  "rating": "4.7391305",
+  "contentRating": "Low Maturity",
+  "creator": "Descending Margaritas",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elvyke.cuthere",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Send your location by SMS!CU there! is a useful utility for sending your current position or any other location to your friends, family or colleagues NO MATTER what type of mobile device they own. Unique features including:- The first and only application to send your location through SMS.- Copied link to targeted location. Just center the map to a place. That's it! A link to this location has been copied automatically to your clipboard for pasting anywhere!- Delta span algorithm for precise depiction of map shown -> to map received. Just try this out!- NO INTERNET connectivity is required by receiver! (If his device features a local map application. (e.g. Android, iPhone))- New copy link feature for pasting a location anywhere!- Target aiming indication.Just center the position you wish on the map and then choose to send by SMS or email.Normal SMS charges of your carrier apply.CU there! allows you to send your location by SMS enabling even low end devices (Samsung, LG, Motorola, NOKIA, Sony Ericsson, Palm, HTC, Sharp, iPhone, Android) to handle it.It is the only solution allowing you to share location with virtually all devices possible.Many more features are coming! Stay tuned.",
+    "reviews": [
+      {
+        "timestampMsec": "1373774303216",
+        "starRating": "3",
+        "title": "Nice",
+        "comment": "Most useful ...",
+        "commentId": "gp:AOqpTOGVLKLOow1yH18nTupfGA0oT2uQBrU3q4VeQDJAY6ygZqSyug1TP_hote9_TOTR7LsbiBegXxxfc7b8jw",
+        "author": "C.Sathishkumar C.Sathishkumar",
+        "authorURL": "http://lh3.googleusercontent.com/-VjTey25vcic/AAAAAAAAAAI/AAAAAAAAAC4/lf2OzaUu2oI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-VjTey25vcic/AAAAAAAAAAI/AAAAAAAAAC4/lf2OzaUu2oI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1315989792174",
+        "starRating": "5",
+        "comment": "I can\\'t remember how did i share my position before!!",
+        "commentId": "lg:AOqpTOHEt6wBpord7umJoqBEOs1wuAIWsthr6l2YYVKoe5fUF_xg5oEEmZvAyJnu7hShkEuuRdhd2woJIS7Tag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362029249176",
+        "starRating": "5",
+        "title": "Hi",
+        "comment": "I\\'ve never a really navigation map like this one ..I like it so much it\\'s not coming off my cellphone :) :)",
+        "commentId": "gp:AOqpTOE8ck1kGtva_qtHtg1srNNEaX5OhxvmV06QdADXgSAxYj0hobdaK4sbj5r2Z8qAMYCAx5gGF-LBEZyQdw",
+        "author": "tommy willard",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

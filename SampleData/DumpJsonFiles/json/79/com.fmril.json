@@ -1,0 +1,37 @@
+{
+  "title": "PD&R FMR/IL Lookup",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.fmril",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "October 16, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "HUD User",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.fmril",
+  "extendedInfo": {
+    "installSize": "184k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The U.S. Department of Housing and Urban Development (HUD) annually estimates Fair Market Rents (FMRs) for 530 metropolitan areas and 2,045 nonmetropolitan county FMR areas. HUD also sets income limits annually to determine the eligibility of applicants for HUDâs assisted housing programs. FMRs are used to determine payment standard amounts for the various assisted housing programs and to serve as a rent ceiling in the HOME rental assistance program. This map-based app allows users to search FMRs and income limits by current location or by metropolitan area, county, zipcode and/or address. Download this app now to determine payment amounts and rent thresholds for HUDâs housing assistance programs, and discover the income limits established by HUD for households of different sizes in each location to determine eligibility for a variety of programs.",
+    "reviews": [
+      {
+        "timestampMsec": "1351082010721",
+        "starRating": "4",
+        "title": "Easy",
+        "comment": "It\\'s fairly easy to use once you get past the first screen. It only searches when you select \\\"search other ways.\\\" Map is not loading.",
+        "commentId": "lg:AOqpTOGBOl2r0AXDSuG64umnBhcUGpln45iExbSVcn_mqHePxYwGs-I751hZtbwBKW8wLVL5WK_v3Y8m1B_tM0U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

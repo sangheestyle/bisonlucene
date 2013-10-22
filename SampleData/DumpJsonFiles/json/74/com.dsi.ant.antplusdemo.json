@@ -1,0 +1,148 @@
+{
+  "title": "ANT+ Demo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dsi.ant.antplusdemo",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "February 28, 2013",
+  "version": "2.6.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "79",
+  "rating": "4.518987",
+  "contentRating": "Everyone",
+  "creator": "ANT+",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dsi.ant.antplusdemo",
+  "extendedInfo": {
+    "installSize": "102k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Sample application for connecting to an ANT+ Heart Rate Monitor, Weight Scale, and Foot Pod (Speed/Distance Monitor).  Source code is available at http://www.thisisant.com/pages/developer-zone/android-apiThis requires the ANT Radio Service.  See the ANT Radio Service page (http://play.google.com/store/apps/details?id=com.dsi.ant.service.socket) for additional requirements.Once a sensor has been connected you will always try and connect to that device (for the device type) until \"Pair x\" is selected in the options menu, and you restart the search. Sensor Configuration > Proximity Search Settings lets you configure how close a sensor must be for it to be found while trying to pair (or 0 to search for any device).Connections will stay alive in the background if they are open when the application is exited (ready to continue displaying your sensor datas when the app is shown again), unless you chose exit from the menu.",
+    "reviews": [
+      {
+        "documentVersion": "2.6.0",
+        "timestampMsec": "1374412482869",
+        "starRating": "1",
+        "title": "Does not work",
+        "comment": "Installed this app on my HTC x1 to use with my Garmin he strap and it does not work do not down load it is a waste of time.",
+        "commentId": "gp:AOqpTOEfAqm1Xw6UhmC9WHbqZDy5uvrqtv4I2Jf6yWWMbLVPjaveFJ3nqrRrEkTLePy-wfhbf9eeS8ajpW3d4Yg",
+        "author": "Christian Bozeat",
+        "authorURL": "http://lh5.googleusercontent.com/-vS0prIUq-OA/AAAAAAAAAAI/AAAAAAAAAEk/QEYQilmesxY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-vS0prIUq-OA/AAAAAAAAAAI/AAAAAAAAAEk/QEYQilmesxY/photo.jpg"
+      },
+      {
+        "documentVersion": "2.4.0",
+        "timestampMsec": "1348581373642",
+        "starRating": "5",
+        "title": "Simple and works"
+      },
+      {
+        "commentId": "lg:AOqpTOFVIr6_FQRlcHueyY3Aq5kKll7lf50cEWwQrmfJSTmjLWL-t9sx87LVRE4zJNL17Di8ULiIfXgwq80OxZk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.0",
+        "timestampMsec": "1345962886746",
+        "starRating": "1",
+        "title": "Keeps running after you exit",
+        "comment": "So one star",
+        "commentId": "lg:AOqpTOEyg8RyfenlfcuNL9jw_7X8zDr1cSJwxmrwrdSS5XI480EWqHSbm-bKT_r2VeRek-hwoFilLfpiaeaCmDQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.4.0",
+        "timestampMsec": "1346766016061",
+        "starRating": "4",
+        "title": "works OK but",
+        "comment": "For some reason I had to disable and enable ANT+ support in Xperia Mini with Performance Assistant app to make it work.",
+        "commentId": "lg:AOqpTOEwOdN77zDNIZlnMviAe1oyGGK2IloRqDTQfzqP8mD3xGgUGsiPSus-lDHRWAiB6jMjJfzfsYnofGaKkxI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340045851101",
+        "starRating": "4",
+        "title": "LWW USER",
+        "comment": "Nice app!!!",
+        "commentId": "lg:AOqpTOEa6SAVKVEMu70ABy5VPN1em9btAtiOeFDoTbvVEGOrtK8EBHEJHnqd-1OnAIMqYSqse1I-XQCdXcLQ15Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1319870105684",
+        "starRating": "5",
+        "title": ".",
+        "comment": "Hi",
+        "commentId": "lg:AOqpTOEVBIARCJIZ4W2ImiizQJ6t7rD0Zr-15H5M4eOgbZB3PoyatFbaUESiO0E531prQeL5rvfx53evH0PGoTs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1293917275354",
+        "starRating": "5",
+        "comment": "Great!",
+        "commentId": "lg:AOqpTOHQOmCSMacnIdufu8NKvYvabUXJ8psrQT_YCsBT7baB1j-6UAzuYm6F91tBEu0ro0pKwPp_wW72x5V-umU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1294848494810",
+        "starRating": "5",
+        "comment": "Nice!",
+        "commentId": "lg:AOqpTOHxCtHBr03gpZpFEEBgF2zQ3JdoZ2GzHJKdIAtgvR5IwAvJs3TC2oh9Q_y9UulrvdFEfuqFj2Nq4lwJL3Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343423372916",
+        "starRating": "5",
+        "title": "Works with SG3 with ANT+ USB dongle",
+        "comment": "Love it, now we just need the app developers to actually look for ANT+ sensors on devices that have host based USB ports, or perhaps look for the ANT+ radio service or ANT USB service.",
+        "commentId": "lg:AOqpTOHcg_7NBQDsZy_jWa9ofSHXU-Rx3_va07lOrv4qpDUG1P2x03Lk62jyIrXowJ0ovy3Z0LX5R-xrR8dyLmk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352805125177",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Very useful",
+        "commentId": "lg:AOqpTOHvtSe6ose2gUgtv1mQNKhqgqri2EHcYA3AMZ1-SvYymrHbK6NseurcseYNnItNguo3CotVp5H3ZLfFUtU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346949331785",
+        "starRating": "5",
+        "title": "Nice demo",
+        "comment": "Good.",
+        "commentId": "lg:AOqpTOGs72Fd5VE--wYMpYPrk9-2Ddpl1CwNc_-sP5bjbQ3aRG2xSYjsoEyrSNNy4sum7hAQUmIQIKkCEm_hHok",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371378303973",
+        "starRating": "1",
+        "title": "Didn\\'t work on Galaxy S",
+        "comment": "Not sure what happened",
+        "commentId": "gp:AOqpTOEHkyfqiGNvPc2lCgS9uyXCeKaADft3s4U549opTjB36g_CSU4EaBymdm1v8eGFxwKLmmD1o6rJSLJPqSU",
+        "author": "Kai Keller",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359195888611",
+        "starRating": "5",
+        "comment": "Awsome",
+        "commentId": "gp:AOqpTOFTZb7cG--Rj9gnatu0w55DtoRuUqhxvszF0Q_RMGD37iR7QObgdbsc6RZUF9zbGDilKbxHg_T-f-9ZFgU",
+        "author": "Mike Biggs",
+        "authorURL": "http://lh3.googleusercontent.com/-LXmIozH05ag/AAAAAAAAAAI/AAAAAAAAAAA/CLUpnhKvzM8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-LXmIozH05ag/AAAAAAAAAAI/AAAAAAAAAAA/CLUpnhKvzM8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.dsi.ant.permission.ANT",
+      "com.dsi.ant.permission.ANT_ADMIN"
+    ]
+  }
+}

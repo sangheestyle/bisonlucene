@@ -1,0 +1,57 @@
+{
+  "title": "What's The Time?",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.customs.dbc.whats.the.time",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "November 1, 2012",
+  "version": "2.1.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "DBC Customs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.customs.dbc.whats.the.time",
+  "extendedInfo": {
+    "installSize": "934k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Have the time spoken to you from your android device!With \"What's The Time?\" you can set your phone or tablet to automatically speak the time.  What's the time will speak the time in a way humans understand, so it's not confusing.There are 3 automated settings for this app:The first setting is \"Every Hour\", with this setting the app will speak the time every hour, on the hour.The second setting is \"Every Half Hour\", with this setting the app will speak the time every 30 minutes.The third setting is \"Every Quarter Hour\", with this setting the app will speak the time every 15 minutes.There is also an added button to say what time it is right now.Once you have your frequency set, you can then set the start and end times with the \"Set Start/End Times\" button.  When setting start and end times, keep in mind that these are the times it will turn speech on, and turn speech off.  If you have any troubles, please feel free to email me, and I will do my best to ensure the app works for you.curtis@dbc-customs.comIf you see anything you would like to change, or anything you think I should add, I welcome your input.Thank you for downloading my app, and enjoy!",
+    "reviews": [
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1351518534755",
+        "starRating": "5",
+        "title": "Thanks",
+        "comment": "An app like this would be great for the blind and visually impaired",
+        "commentId": "lg:AOqpTOEtRRQA7NhnKVla1Lwb6Viwbk41kjG94Jz_-hxbfJI8_GCBpbi_O0xX3g98La-tcI_1KNcPcvhiY3cDwsc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358088611973",
+        "starRating": "2",
+        "title": "Lag",
+        "comment": "Works fine, just lags for such a lite app.",
+        "commentId": "gp:AOqpTOELnb7yLArwGzKckoWVgnkpFyXeGvqDInCi-jppIujPGgPYI9K0fZ1EVaXKpje9egLOdgzZy9PSBfzoqss",
+        "author": "Mike ThePoolGuy",
+        "authorURL": "http://lh6.googleusercontent.com/-g7LVNq4OsyA/AAAAAAAAAAI/AAAAAAAAACY/aJ6qb2t__Z0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-g7LVNq4OsyA/AAAAAAAAAAI/AAAAAAAAACY/aJ6qb2t__Z0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1352662540794",
+        "starRating": "5",
+        "title": "Good for when studying",
+        "comment": "Kudos to the developer",
+        "commentId": "lg:AOqpTOEEz8q-WOHdHhaKUBUWrg8E5qz9xGRcEKLkIJfSEL1c6-W-5DowRnKKa9UNHdacS_NzoXxiz6xnFzNOzUM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

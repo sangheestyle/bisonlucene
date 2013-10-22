@@ -1,0 +1,63 @@
+{
+  "title": "Clear Handset",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exc414bluephoenix.clearhandset",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 2, 2013",
+  "version": "1.0.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Blue Phoenix",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exc414bluephoenix.clearhandset",
+  "extendedInfo": {
+    "installSize": "94k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Clear Handset allows you to delete all logs, text messages, photos, non-google accounts, contacts, cache and running non system apps.You may also choose what to clear by choosing to clear manually and selecting each list item individually or you may choose to clear automatically which will clear all items whether selected or not.Please note that if you choose clear automatically EVERYTHING on the list will be delete whether you choose or not.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1376336027132",
+        "starRating": "5",
+        "title": "Makes it so easy",
+        "comment": "This app is great for clearing that abundance of stuff you have stock piling in your device. Easy to to use and quality, strait to the point !!!",
+        "commentId": "gp:AOqpTOEE9G7fK3CfkgKdXyBkZeOXX4_JeMcXg-UqD6S_tPp48KoTC_T12ngRefMFLCWzUd4upbgzmktBWlP9FCQ",
+        "author": "Albert Ferreira",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1370201977462",
+        "starRating": "5",
+        "title": "#1 history cleaner.",
+        "comment": "Quick and easy way to clear your data w/o a factory reset.",
+        "commentId": "gp:AOqpTOH4vqatvtuqvaGUe-xYGERemRLStsATmHCm5w3oryVJ2iOy4znuseqD2QaqscP-ng5zNMZV0BAbeZXAUeI",
+        "author": "Edward Wolfe",
+        "authorURL": "http://lh3.googleusercontent.com/-sMGm9V-bzuA/AAAAAAAAAAI/AAAAAAAAAAA/itl2wRv9p_Q/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-sMGm9V-bzuA/AAAAAAAAAAI/AAAAAAAAAAA/itl2wRv9p_Q/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CLEAR_APP_CACHE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.RESTART_PACKAGE",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Sell Books Villanova",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks2.villanova",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "February 13, 2012",
+  "version": "1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Villanova University",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks2.villanova",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Sell your used textbooks to the Villanova University Bookstore using this instant price quote app! It allows you to scan the barcodes of books that you'd like to sell using your phone's camera. You'll find out instantly how much we'll pay you for your used books. Please note: This application is able to use your camera to scan barcodes, however the camera on IPod Touch doesn't have the resolution to capture barcodes reliably, but you can always type in your ISBN. Also, book prices quoted by the app can expire at any time without notice.  If you have any trouble, please let us know!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

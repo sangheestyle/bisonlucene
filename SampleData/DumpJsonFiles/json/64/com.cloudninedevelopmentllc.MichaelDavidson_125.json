@@ -1,0 +1,39 @@
+{
+  "title": "The Eye Doctors",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.MichaelDavidson_125",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "June 28, 2012",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Cloud Nine Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cloudninedevelopmentllc.MichaelDavidson_125",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "High Standards:  A standard of excellence in personalized care enables us to provide the quality eye care services that our patients deserve. When you visit our office your eye health is our top priority.Education & Experience:  As a practice, we are true believers that excellence in providing eye care is derived from both education and experience. We strive to keep current on the latest advancements and technology so we can provide the highest level of care to our patients. We never take for granted that you have placed your confidence in us.Training & Expertise: As eye care professionals, we want you to know that we are a team of highly trained and skilled clinicians. We pride ourselves in providing the care you need to keep your eyes healthy and your vision at its best. To give you the best possible service and results, we are committed to ongoing education and learning. We regularly attend lectures, meetings, and conventions to stay informed about new techniques, the latest products, and the newest equipment.A Positive Experience: Building a foundation of trust by treating our patients as unique individuals is vital to our success. Our entire team is dedicated to providing you with the excellent, personalized care and service that you deserve.We thank you for allowing us to take care of your eye care needs and we look forward to serving you.  Make an appointment today.... we'd love to hear from you!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.cloudninedevelopmentllc.MichaelDavidson_125.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "NavitasCV - Resume Builder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codecanteen.navitascvappandroid",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "August 1, 2013",
+  "version": "1.01",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "Yolpme Pty Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codecanteen.navitascvappandroid",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "NavitasCV lets you create an outstanding resume on mobile and web thatâs yours to love and use forever.Powered by ConnectCV, the web's best resume and personal career manager, the NavitasCV app allows you to create, edit and share your resume via mobile, as well as login online for a complete, cost-free career management experience that includes the following features:Free Resume BuilderCreate a great resume in minutes without the guesswork with our customizable resume template, inbuilt spell-checker, inline writing tips and industry specific resume samples.Powerful, Feature RichEmployers are on the lookout for standout candidates. Your NavitasCV resume comes packed with features that are designed to get you noticedâ¦ and land you the interview.Total Privacy ControlNavitasCVâs privacy choices give you total control over your information allowing you to choose between sharing your resume online, emailing a discreet weblink, or downloading in Word or PDF.Centralize your CareerManage all your career assets safely online in the one convenient location. Create and store cover letters, job applications, upload videos, qualifications, photos and references.",
+    "reviews": [
+      {
+        "timestampMsec": "1375362963548",
+        "starRating": "5",
+        "title": "Wow!!!!",
+        "comment": "This is one great application very useful to me .",
+        "commentId": "gp:AOqpTOGxzcd6jU0Z8Atsi6ZiFOk1TXX0PMdy71RnfQtECu6G-QJJjaCv8_Rls4X86H5LLqlGwJWMJBUKyh1E1Q",
+        "author": "Lorraine Reed",
+        "authorURL": "http://lh6.googleusercontent.com/-GJQZCbOlSV4/AAAAAAAAAAI/AAAAAAAAEEY/sBbRRyVJzRQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-GJQZCbOlSV4/AAAAAAAAAAI/AAAAAAAAEEY/sBbRRyVJzRQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375934684102",
+        "starRating": "2",
+        "title": "Good resume/ bad value",
+        "comment": "Its a great layout... now..  can I send my resume to job prospects?  Please",
+        "commentId": "gp:AOqpTOGwla9N4d0yQOQRaHvkZAxntiBcAmWg77YgYrnuiQPN0bQMF5W71f7u52MWXpaHO7QFB4kIs0_kceur9Q",
+        "author": "Monica Salkill",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.codecanteen.navitascvappandroid.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_TASKS",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

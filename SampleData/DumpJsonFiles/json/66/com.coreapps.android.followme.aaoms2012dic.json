@@ -1,0 +1,53 @@
+{
+  "title": "2012 Dental Implant Conference",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aaoms2012dic",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "November 21, 2012",
+  "version": "3.7.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aaoms2012dic",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The American Association of Oral and Maxillofacial Surgeons (AAOMS) is the professional organization representing more than 9,000 oral and maxillofacial surgeons. The AAOMS 2012 Dental Implant Conference will be held in Chicago, Illinois, at the Sheraton Chicago Hotel & Towers, November 29 - December 1, 2012. The AAOMS dental implant conference includes an intensive educational program and exhibition for the entire implant team.Use the DIC 2012 mobile app to access all conference details anytime, anywhere:â Get updated information on sessions and eventsâ Search by topic keywords, speaker names and session titlesâ Find complete exhibition information and exhibitor listingsâ Plan your days with the personal schedulerâ Network with colleagues and share contact informationâ Access available educational session materialsâ Submit session evaluations for continuing education creditâ Record notes from a session with the appâs note taking function",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.aaoms2012dic.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.example.myapp.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "PDS Mobile App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.csm.pds",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 18, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "5",
+  "rating": "4.8",
+  "contentRating": "High Maturity",
+  "creator": "mGovernance",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.csm.pds",
+  "extendedInfo": {
+    "installSize": "422k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Food, Supplies and Consumer Welfare Department in Odisha looks after the Targeted Public Distribution System (TPDS) and procures paddy from the farmers at the minimum support price on the basis of fair average quality norms.The Department needs to track paddy procurement/movement and Rice movement at grass root level. The current problem in paddy procurement/movement & Rice movement is the huge time gaps observed in getting the information regarding procurement & movement of paddy and its movement from the Rice Mills to RRC and from RRC to FPSs.Thus, mGov application was initiated and implemented  to track the information  of paddy procurement status between the various market yard/societies and the farmer, rice delivery status between various millers and RRCâs and the status on issue and receipt of rice in each RRC/depot.Paddy Procurement (PP) Module: The application start from the premises of societies (Primary Agricultural Coop. Societies-PACS, Self-Help Groups-SHG and Pani Panchayat-PP) or Market Yards where paddy is procured from the farmers and is delivered to the Rice Mills through a document called Paddy Acceptance Note (AC Note) which is signed jointly by the Rice Miller and Secretary of Society/Purchase Officer (PO) of the Agency at the Market Yard.Rice Delivery Module: This module begins after the custom milled rice (CMR) is set ready for delivery to the RRCs, base RRcâs,FCI depot etc. This module initiates monitoring delivery of CMR to various RRCs & FCI depots on a daily basis based upon the acceptance notes. This also helps to track the performance of each miller.",
+    "reviews": [
+      {
+        "timestampMsec": "1354653077562",
+        "starRating": "5",
+        "title": "Bhimsen Tudu",
+        "comment": "Working good, firstever good efforts! Like it.",
+        "commentId": "lg:AOqpTOHMpwbVCrUKdGu7soW-5gfbit64Mb4LWPpGwC63Db_XYAUO0EbzSDwgOIyYr8QUZ7xUlyZC3ROo-n7rNA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.SEND_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.BROADCAST_SMS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

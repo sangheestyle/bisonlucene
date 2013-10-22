@@ -1,0 +1,50 @@
+{
+  "title": "Books To Read",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cipapps.bookstoread",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 11, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "CIP Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cipapps.bookstoread",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "If you are a bookworm and love cozying up to your favorite book very often, the Books to Read app is undeniably your best friend. Download this app to stay tuned the latest happening and releases in the world of international literature. This erudite app offers a series of efficient features to quench you every literary research:â¢\tRecommended books to readâ¢\tBooks to read before you dieâ¢\tGreat books to readâ¢\tInteresting books to readBooks to Read app is an outstanding option when you want to have the details of interesting books at your fingertips.DISCLAIMER: The content provided in this app is collected using Feeds and Videos are hosted by YouTube and all are available in public domain. We have not uploaded any videos to YouTube. Apps are fetching the data from RSS feeds of different sites.This app provides an organized way to browse, read contents and watch YouTube Videos.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "com.cipapps.bookstoread.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

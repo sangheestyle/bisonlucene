@@ -1,0 +1,47 @@
+{
+  "title": "The Table's Edge",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_a10f06d3967f410aac37f613527c751e.app",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "April 25, 2013",
+  "version": "1.7.8.54",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Hutchbros",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_a10f06d3967f410aac37f613527c751e.app",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "1+",
+    "downloadsCountText": "1 - 5",
+    "description": "This app is for anyone who wants to follow what is happening here at The Table's Edge.  This app shows are blog feed, facebook post and all the latest events.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "com.conduit.app_a10f06d3967f410aac37f613527c751e.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

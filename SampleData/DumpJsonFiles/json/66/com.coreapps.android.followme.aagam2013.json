@@ -1,0 +1,58 @@
+{
+  "title": "AAG Annual Meeting 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aagam2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 8, 2013",
+  "version": "4.2.3.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.8333335",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.aagam2013",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Join fellow geographers, GIS specialists, and environmental scientists for the Annual Meeting of the Association of American Geographers in Los Angeles for the latest in research and applications in geography, sustainability, and GIScience. The AAG Annual Meeting is an interdisciplinary forum open to anyone with an interest in geography and related disciplines. Founded in 1904 as a scientific and educational society, AAG is a growing worldwide network of leading scholars, researchers, professionals, and students. AAG facilitates interdisciplinary networking and collaboration through annual meetings, international workshops, specialty conferences, publications, and research programs. Visit www.aag.org to learn more.",
+    "reviews": [
+      {
+        "documentVersion": "2.3.8",
+        "timestampMsec": "1366530388861",
+        "starRating": "5",
+        "comment": "Really useful.",
+        "commentId": "gp:AOqpTOHTjPluoer4EADNbGEOfQ9IwQgz3-eZqWYGVyw9i5XnyBdBMC8MFgdpujQ5Ju86FlUMy848KNn-kM9BNQ",
+        "author": "Kevin Gibbons",
+        "authorURL": "http://lh5.googleusercontent.com/-TnWnXsI1J1c/AAAAAAAAAAI/AAAAAAAAAAA/M1z8mXiGfWA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-TnWnXsI1J1c/AAAAAAAAAAI/AAAAAAAAAAA/M1z8mXiGfWA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.aagam2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Sun View",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.exoprimus.sunview",
+  "category": "News & Magazines",
+  "price": "$1.99",
+  "datePublished": "February 23, 2013",
+  "version": "1.4",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "exoPrimus",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.exoprimus.sunview",
+  "extendedInfo": {
+    "installSize": "467k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Solar storms are a threat to infrastructure such as satellite communications, navigation systems and electrical transmission equipment.Solar storms release particles that can destroy computer circuits.The intensity of solar storms is expected to peak in 2013.In 1859, the largest recorded geomagnetic storm occurred. Telegraph systems all over Europe and North America failed, shocking telegraph operators, telegraph pylons threw sparks and telegraph paper spontaneously caught fire. That was in 1859.Get daily updates of solar flaresDetailed information about alertsUV mapsWorldwide ozone levelsDaily updates of sunspots and solar activities",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

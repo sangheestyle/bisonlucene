@@ -1,0 +1,45 @@
+{
+  "title": "Dell Enterprise Forum",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.dell2013",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 3, 2013",
+  "version": "2.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.dell2013",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Dell Enterprise Forum is the premier technical learning event for Dell enterprise customers and channel partners. The conference offers an intensive, interactive learning experience across the data center from servers and storage to networking and converged solutions.Attendees learn directly from the engineers, architects and other experts who design and develop Dell enterprise solutions. Plus, they get open access to these experts and our executive thought leaders throughout the event.Attendees have the opportunity to participate in over 100 technical breakout sessions, executive keynotes, technology super session and product roadmaps, as well as 34 hours of hands-on labs. Dell Enterprise Forum is open to current Dell customers and preferred or premier channel partners.",
+    "reviews": [
+      {
+        "timestampMsec": "1370009797160",
+        "starRating": "4",
+        "title": "All Features but Maps Lacking",
+        "comment": "I love that this has been released ahead of the conference and seems to be complete with all of the tools that we\\'ll use at the conference. My only negative is that the 2 floor plan maps \\\"DEF Area Map\\\" and \\\"Convention Center\\\" show up to small and I\\'m only provided with one zoom in. The zoomed in version still doesn\\'t fill 1/4 of my screen. (Galaxy S4)",
+        "commentId": "gp:AOqpTOGKgXnqthCt2I5ajbM9r2hqrT1C49-3UK8ybu5mi4bqlzOVlhETuAlOebsBzN-_yGKLeKfpWA2ICyjSjg",
+        "author": "Brian Vienneau",
+        "authorURL": "http://lh4.googleusercontent.com/-wR7YzYYNNUU/AAAAAAAAAAI/AAAAAAAADK0/c5rD01C7PF0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-wR7YzYYNNUU/AAAAAAAAAAI/AAAAAAAADK0/c5rD01C7PF0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.dell2013.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

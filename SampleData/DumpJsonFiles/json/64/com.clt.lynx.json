@@ -1,0 +1,53 @@
+{
+  "title": "Charlotte Lynx Blue Line",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.clt.lynx",
+  "category": "Transportation",
+  "price": "$0.99",
+  "datePublished": "August 31, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Jordan McCheyne",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.clt.lynx",
+  "extendedInfo": {
+    "installSize": "343k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Every single Charlotte Lynx Light Rail stop time in the palm of your hand!If you've tried the other apps, you'd know that they only display the next 3 or 4 times at a particular station.With this app, you can see all the stop times for all the stations for any day of the week, making it incredibly handy for planning your light rail trip ahead of time.Coming to Charlotte for the DNC? Use this app to efficiently plan your trips into the city and avoid the traffic hassle and street closings.Features Include:-- Integration with Google Maps to show you the exact location of any station on the map simply by selecting a menu option.-- Menu option to locate the nearest Lynx Station and its distance away from your current position using your phone's GPS, then either map it with Google Maps or pull up its times.-- Shows you all of today's remaining times for each station with a count down in minutes of the next three arrivals.-- Menu to pull up the full schedule for any station for any day of the week.-- Swipe the station times list left or right to view the previous or next station's times.-- Literally every single Lynx time in the palm of your hand. No more searching around or going to complicated URLs to find the times.About me:I am a computer programmer and first time Android app developer who just wasn't happy with the Lynx apps that were available on the Market.I ride the Lynx every day so I decided to take things into my own hands and give this Android development a try.So I taught myself Java and Android development and tried to come up with a better way to view Lynx times.I have personally used this app every day since I finished it.I have finally decided to make it available on the Market because I feel that Charlotte residents and visitors can benefit from it.I think once you own this app, it will be the only Lynx resource you will need, and you will use it every time you ride Lynx.",
+    "reviews": [
+      {
+        "timestampMsec": "1346439889836",
+        "starRating": "5",
+        "title": "Wonderful app",
+        "comment": "App performs great.  I typically find myself needing more times than the other apps deliver to plan my outings.  The app also provides proximity to the closest station which is wonderful and convenient.  Well done!",
+        "commentId": "lg:AOqpTOEapiUkeb3OWUtDRgeUMFMVxzAqhJ9N5aVExfu1NnJSYXfOY9AQ4NOt0FinGV5UH2KAbIwKDwmTAqVObNQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351734052929",
+        "starRating": "5",
+        "title": "LynxMAGIC!!!",
+        "comment": "I love this app..saves me when I\\'m hammered and it is accurate...",
+        "commentId": "lg:AOqpTOGEjOFGfVVIQSD6Uql2emlhPfRmGnE5Iwd0eHh7GMzzXAuRmXtd-MJ0_bY53LJnTbFq0QxL4xj9-FxmJFk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348180357144",
+        "starRating": "5",
+        "title": "Very convenient app",
+        "comment": "Great app - essential for anyone who lives in or commutes in Charlotte. This app organizes the times well and makes it easy to plan a trip hours or even days in advance. The times have been accurate every time. Certainly worth the 99 cents.",
+        "commentId": "lg:AOqpTOE8ISzq_pp6LxN3KLNZcYDl7WV38jWML_HH94Fl7wVV4VLrXBzShG5k0OaJwUV9uVSWpwemmdT-OoCDUoY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

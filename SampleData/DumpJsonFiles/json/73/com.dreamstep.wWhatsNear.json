@@ -1,0 +1,32 @@
+{
+  "title": "What's Near",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wWhatsNear",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "October 24, 2011",
+  "version": "0.21.13194.60950",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "StarDroids",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamstep.wWhatsNear",
+  "extendedInfo": {
+    "installSize": "110k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "What's Near App is your mobile navigator.Use interactive maps, driving directions reviews and ratings to find the right service near you: restaurants, cafes, theaters, shops, gas stations, banks etc. Simple and fast, no heavy graphics. App is just 106Kb.Requirements:Android 2.1SD cardat least 106 Kb of free spaceInternet connection",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.webkit.permission.PLUGIN",
+      "com.dreamstep.wWhatsNear.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

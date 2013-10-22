@@ -1,0 +1,51 @@
+{
+  "title": "2013 Summit Leadership Conf.",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.feislc2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 26, 2013",
+  "version": "4.2.4.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.feislc2013",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Financial Executives International (FEI) provides exclusive peer networking for CFOs, controllers, treasurers, tax executives and finance and accounting professors. FEI is the leading advocate for the views of corporate financial management and enhances member professional development through career services, conferences and research. Join us for an unparalleled two-day event designed to provide next-level leadership development for senior-level financial executivesâhosted by FEI since 1930. Summit's premier program focuses on the challenges facing senior financial executives today with an innovative agenda comprised of content-rich presentations, multiple networking opportunities, respected speakers and an exciting exhibit hall.NOTE: The 2013 Summit Leadership Conference Mobile App is for attendees of the 2013 Summit Leadership Conference only. Login information will be provided by FEI.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.feislc2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

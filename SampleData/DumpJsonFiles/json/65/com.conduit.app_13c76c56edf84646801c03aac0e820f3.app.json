@@ -1,0 +1,38 @@
+{
+  "title": "OSQAR",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.conduit.app_13c76c56edf84646801c03aac0e820f3.app",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "October 31, 2012",
+  "version": "1.9.22.454",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Suncor Energy",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.conduit.app_13c76c56edf84646801c03aac0e820f3.app",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The OSQAR (Oil Sands Question and Response) app delivers an article every week about the energy industry, environmental impact, tailings management and reclamation, water management and the social and economic implications of oil sands development. You can share articles with colleagues via email and your social networks. In the OSQAR app you can also:+ view videos about the oil sands and other related topics+ browse photo galleries from Suncor Energy including updated photos of wildlife as well as the forest and wetland around Wapisiw Lookout, the site of our reclaimed tailings pond. Learn more about our operations in the Athabasca oil sands and how Suncor Energy is meeting the economic, social and environmental challenges in the Fort McMurray/Wood Buffalo area. Download the OSQAR app today.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.conduit.app_13c76c56edf84646801c03aac0e820f3.app.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

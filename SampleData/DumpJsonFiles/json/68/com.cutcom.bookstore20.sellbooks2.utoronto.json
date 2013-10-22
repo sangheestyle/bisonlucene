@@ -1,0 +1,74 @@
+{
+  "title": "Sell Books U of T",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks2.utoronto",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 18, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "2.25",
+  "contentRating": "Everyone",
+  "creator": "Farhan Merchant",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cutcom.bookstore20.sellbooks2.utoronto",
+  "extendedInfo": {
+    "installSize": "5.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Sell your used textbooks to the University of Toronto Bookstore using this instant price quote app! It allows you to scan the barcodes of books that you'd like to sell using your phone's camera. You'll find out instantly how much we'll pay you for your used books. Please note: book prices quoted by the app can expire at any time without notice. If you have any trouble, please let us know!",
+    "reviews": [
+      {
+        "timestampMsec": "1355243853657",
+        "starRating": "2",
+        "title": "Good concept!",
+        "comment": "The idea behind this a is great! But it needs a lot of work.. there are a ton of glitches... its like the page never fully loads, so the app just keeps blinking for lack of a better word.. but once it does stop, its great! Its nice to know ahead of time if your book is worth something instead of lugging it to school to find out its only worth 10$ after you spent 100$",
+        "commentId": "gp:AOqpTOGXARgFo-S8cAxZVn6v1aPJ_PD4quuyzBduppnGEdYwuCgxq-w0KBr-lWU4MxOOSVLii79KvWiRPJpE4eA",
+        "author": "Tenesha Moody",
+        "authorURL": "http://lh4.googleusercontent.com/-HPdOOmxfy-s/AAAAAAAAAAI/AAAAAAAAABo/0A4BCHrDm7U/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-HPdOOmxfy-s/AAAAAAAAAAI/AAAAAAAAABo/0A4BCHrDm7U/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357328034232",
+        "starRating": "2",
+        "title": "First app if that?",
+        "comment": "Near-endless useless repaints. Is this an HTML app or somebody\\'s first app? Shame on u of t bookstore for promoting it in such a state.",
+        "commentId": "gp:AOqpTOFQ1yXd3YejGPBjWPrEgVwZZgeoSjEGU_EiGfd-kf93-Xo6gWtn8Srn0_L6BRAcNPlJxPsfcCGf7HHRV3w",
+        "author": "Ian Darwin",
+        "authorURL": "http://lh6.googleusercontent.com/-6CJcU-Q8DVY/AAAAAAAAAAI/AAAAAAAAAag/PjdCo9HroK8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-6CJcU-Q8DVY/AAAAAAAAAAI/AAAAAAAAAag/PjdCo9HroK8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363045171373",
+        "starRating": "4",
+        "comment": "Update? Works great",
+        "commentId": "gp:AOqpTOHYz35BIHMtq7Kwe_xYeB8oxueq0Sm4Z0_ruJgxqXo-ijNvEn2OA3RWOgYAWWQ3vh0g9JGHM9yjb-iy30o",
+        "author": "N Grimthrie",
+        "authorURL": "http://lh6.googleusercontent.com/-VcWGIrruWgQ/AAAAAAAAAAI/AAAAAAAAB2M/Q8eOYc28oJk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-VcWGIrruWgQ/AAAAAAAAAAI/AAAAAAAAB2M/Q8eOYc28oJk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1345426566481",
+        "starRating": "1",
+        "title": "Useless",
+        "comment": "Doesnt work.",
+        "commentId": "lg:AOqpTOGx2nyVvlm2oLHOl_O0xhjcvKj2aDMBPlfGOgjtsHChiSPPjc3woTqbx1KQSETbuudJKA6Y1_5uNP-pJ5U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

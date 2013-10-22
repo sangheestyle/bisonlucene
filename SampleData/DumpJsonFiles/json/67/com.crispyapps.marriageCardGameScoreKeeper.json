@@ -1,0 +1,45 @@
+{
+  "title": "Marriage CardGame Score Keeper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crispyapps.marriageCardGameScoreKeeper",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "October 6, 2012",
+  "version": "1.01",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "CrispyApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crispyapps.marriageCardGameScoreKeeper",
+  "extendedInfo": {
+    "installSize": "107k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Marriage is a popular card game mostly played in Nepal with tedious record keeping rules. This app is a handy tool to easily calculate and keep scores. The game rules can be found to vary slightly from one place to another, particularly the way the Mals (Bounty points) are counted. Since this program requires users to provide Mals for each player directly, any method of counting Mals can be used as this app is agnostic to the Mal counting convention.  As for calculating the scores, this program offers flexibility by allowing users to enter their own key parameters (numbers) that are used in calculation of scores, if default key parameters built in the program are desired to be altered. The \"Game Rules\" section below explains how these parameters can be changed by the user. Please review the following sections to determine if this program is flexible enough to be useful for your team. Instructions:Please see the website: https://sites.google.com/site/crispyapps/home/mariage-card-game-score-keeperfor instructionsHow to enter or update data:(i)  Long tap the first cell of a row (under Game No. column), such as \"1.\", or '2.' to bring up a dialog box. Use the wheels to set the 'Show Type' and 'Mal' values for each player. Use the blue right and left allows to navigate to the next and previous players respectively. Also, expand the dialog box by tapping the blue down-arrow button to alter the 'Game Point' value for the particular hand. When all values are set, tap 'Apply & Exit'(ii) Alternatively, 'Show Type' and 'Mal' values (in green text) can be individually changed by long-tapping them from the main screen. Note: All green values can be changed this way. Game Rules:(a) Number of players: Minimum 2, maximum 5(b) Explanation of the show types:      \"Y\"= player shows at least 3 sequences;      \"N\"= player is not able to show 3 sequences;      \"B\"= player is the winner (Hint: player who shows 8 duplis can be considered as winner);      \"D\"= player shows 7 duplis.   (c) Default game rules and parameters:   (i) Players with \"N\" show type owe 10 points multiplied by the 'game point' to the winner   (ii) Players with \"Y\" show type owe 3 points multiplied by the 'game point' to the winner   (iii) Players with \"D\" show type owe nothing (0 points) to the winner   The above points (scores) are in addition to the scores earned or owed based on the amount of Mals the individual players have. Note: The program calculates the scores considering the above rules and parameters, and the amount of Mals individual players have.   To modify the game parameters, tap the 'Game Rules/Settings' menu item to specify the new parameters.(d) Positive and negative scores represent the amount of money the particular players will earn or lose, respectively. At the end of the seating, the player with the highest positive total score (as shown on the last row) collects money from all losing players (i.e. players with negative total scores); and distributes the collected money to players with positive total scores, and keeps the leftover money (if any) for himself or herself.",
+    "reviews": [
+      {
+        "timestampMsec": "1377294024766",
+        "starRating": "5",
+        "title": "Good For Nepalis",
+        "comment": "U need to Promote this apps ...really useful since I know how to play the Game but didn\\'t knew how to calculate points since it gets confusing...Thanks a lot for this apps.. :P",
+        "commentId": "gp:AOqpTOGqrgRHTs8GgX98nSKjogFpXv6ttuNpXjIpVELqHptwkPYuwt7pLbHXg0-hfdAKPwInkOfMeUX-PS1a2Vo",
+        "author": "Arun Ojha",
+        "authorURL": "http://lh6.googleusercontent.com/-UX_UNelvop4/AAAAAAAAAAI/AAAAAAAAAHQ/nQEULT80gBI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-UX_UNelvop4/AAAAAAAAAAI/AAAAAAAAAHQ/nQEULT80gBI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357009045621",
+        "starRating": "5",
+        "title": "Excellent and accurate!",
+        "comment": "This is a must app for those who play the marriage card game. It sure makes tedious score keeping very simple.",
+        "commentId": "gp:AOqpTOF7tWOnUADVnJSd4dYcJyoCl2zEgkMLrpAJlQl5Pn93fPxI8D-igKkAfhgz-t_Er0VfkvzuSOrQjkL6qZ0",
+        "author": "Purna Subedi",
+        "authorURL": "http://lh4.googleusercontent.com/-yNfLPbwYs8M/AAAAAAAAAAI/AAAAAAAAAC8/hcfPzvXpsSU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-yNfLPbwYs8M/AAAAAAAAAAI/AAAAAAAAAC8/hcfPzvXpsSU/photo.jpg"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

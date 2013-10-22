@@ -1,0 +1,54 @@
+{
+  "title": "iDropped it",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.device.fall",
+  "category": "Tools",
+  "price": "$1.02",
+  "datePublished": "February 27, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "Geeknight",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.device.fall",
+  "extendedInfo": {
+    "installSize": "499k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "*** One-time only $0.99 launch sale â Get the must have app of 2011at a 67% discount while you can! ***This is an ESSENTIAL application for anyone whoâs been known to droptheir phone a time or two!HOW IT WORKS:iDropped It! calculates the severity of impact when your device isdropped. The iDropped It! App runs in the background of your device,when the accelerometer detects a shock from a sudden drop orimpact, iDropped It! Measures the negative G-force and provides youwith instant feedback.With iDropped It! you:1. Accidently drop your phone2. Receive an instant impact score informing you how severe theimpact was3. An option to send your impact score to twitter/facebook************************************************Ever wonder if your Android phone case is living up to its claims ofprotecting your device? Now you can put it to the test. Try droppingyour phone (at your own risk) with and without the case. Does it liveup to the hype? Write a review and let us know!Please note you must first set up and activate the iDropped It! AppbeforeREQUIREMENTS:Android 1.x or 2.xDISCLAIMER:We do not endorse dropping, shaking, hitting, or abusing your Androiddevice in any form; this application is designed with the âaccidentalâimpact in mind. We are not responsible for any damage that occurswhile using or testing this application*Let us know what we can do to make iDropped It! a 5 star app!Anything youâd like to see, email us at: esupport@geeknight.ca",
+    "reviews": [
+      {
+        "timestampMsec": "1299824114357",
+        "starRating": "4",
+        "comment": "Funny with a robust phone but not with a milestone Ithink Ican use it on my old android :)",
+        "commentId": "lg:AOqpTOHhzOqjw9my6Oh3rdOQNcrtMNEHfEWyuLxpJWTTchY3gzbP4b0vp-awnp27kljR-IsOAlFQ76CPHDQ47hs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1301767720020",
+        "starRating": "5",
+        "comment": "HILARIOUS App. Great drinking game too!!",
+        "commentId": "lg:AOqpTOFkJDcq4xOmBxXyRwQap2SWIqDQi_Pa72QyMbOq1g1hNvnsomCwQaf73TbaV2u-y6N2HFqtsQpTp-7Qmuo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1306716944313",
+        "starRating": "5",
+        "comment": "Great app- I even cracked my screen! High score!",
+        "commentId": "lg:AOqpTOGDOUyPXmXKCc4VQawyr15IqeVO2L582LI1kl4LnUjr0L2wZYZt3OLnpGKBEpCtefR1mZD5VkgHAFuDOkg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

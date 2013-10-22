@@ -1,0 +1,43 @@
+{
+  "title": "MobiCrops",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.emptylabs.mobicrops",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Ø MT Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.emptylabs.mobicrops",
+  "extendedInfo": {
+    "installSize": "950k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The world population is expected to increase from the current 6.7 billion to 9.1 billion by mid-century. If more land is not used both efficiently and effectively for food production now, 370 million people could be facing famine by 2050. To prevent future scarcity problems, farmers require latest and accurate information about the crop diseases and how to control them, so that they can plan for higher crop production and land utilization better. To better assist farmers with latest and accurate agriculture research information, this application is built to identify crop diseases using crop leaf images by recognizing the disease symptoms that are visible on the leaf. This solution is implemented as research project. We analysed the leaf identification algorithm performance shows better performance with respect to latency and battery consumption. NOTE: Any special requirements from farmers to improve the app will be appreciated. Please email any special requirements to developer email address.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

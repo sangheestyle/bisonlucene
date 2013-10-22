@@ -1,0 +1,39 @@
+{
+  "title": "Maritime Pro Stock Tour Offici",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.ProStockTour",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "February 25, 2013",
+  "version": "2.0.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Buzzer Apps Mobile Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.buzzerapps.ProStockTour",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The official app for the Maritime Pro Stock Tour! One tap access to all the information a fan could want.Gives you mobile access to everything you need to follow the Maritime Pro Stock Tour including scores, the latest news, the schedule, social media feeds and of course stats and the team roster. We hope you enjoy using this app to enhance your Maritime Pro Stock Tour Fan Experience!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.buzzerapps.ProStockTour.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

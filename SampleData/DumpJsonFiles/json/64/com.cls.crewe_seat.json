@@ -1,0 +1,39 @@
+{
+  "title": "CREWE SEAT",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cls.crewe_seat",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "November 9, 2011",
+  "version": "1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "AppCreatives (AutoApp)",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cls.crewe_seat",
+  "extendedInfo": {
+    "installSize": "663k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Having recently updated our premises, our range of New and Used SEATs is the most comprehensive in Cheshire. This is backed by an advanced servicing and parts facility fitting of such a brand. LC Charles SEAT is continually striving to deliver an experience that is as prestigious as the vehicles themselves. A new car showroom offering the latest models of SEATs available complimented by a great selection of SEAT Approved Used vehicles enables customers to view the entire extent of the SEAT range. LC Charles SEAT has also combined this with the experience and knowledge of SEAT trained technicians to ensure that a seamless service is provided to all of its existing and customers new to the SEAT experience. You can now access all our SEAT stock with our fantastic Android app!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.MODIFY_PHONE_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

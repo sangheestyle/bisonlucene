@@ -1,0 +1,62 @@
+{
+  "title": "Credit Report",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dandb.app.creditreporter",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "0.1365-PROD",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Dun & Bradstreet Credibility Corp.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dandb.app.creditreporter",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "CreditReporter is the mobile credit report application for Dun & Bradstreet Credibility Corp. products including CreditSignal, CreditAlert, CreditMonitor and CreditBuilder. Business owners and managers can register a free CreditSignal account to view information about their business credit report, and receive alerts and notifications when there are changes to their credit report. Existing Dun & Bradstreet Credibility Corp. customers can log into their accounts to view a mobile dashboard for their respective products and credit report. Credit Advisors can be contacted easily by tapping to call within the application. Dun & Bradstreet Credibility Corp. is the leading provider of credit building and credibility solutions for businesses. We help businesses establish their credit with a D&B DUNSÂ® Number, a unique nine-digit identification sequence used by the world's most influential standards-setting organizations and recognized, recommended and often required by global corporations, governments, industry and trade associations.Dun & Bradstreet Credibility Corp. provides the only real business credit monitoring solution available to companies looking to monitor and impact their own business credit profile. For example, our leading credit monitoring products are used by tens of thousands of companies interested in protecting their business reputation. The company additionally offers D&B solutions to protect their business risk by tracking the credit and creditworthiness of the companies in which they do business. D&B's proprietary set of key ratings include the PAYDEXÂ® Score, a predictive indicator for paying bills on time; the Financial Stress Score, an indicator of financial stress in the next 12 months; and the Credit Limit Recommendation, which provides guidelines for extending business credit and an overall D&B Rating which addresses the overall assessment of a business.",
+    "reviews": [
+      {
+        "timestampMsec": "1375193120164",
+        "starRating": "5",
+        "comment": "This application keeps me up to date in real time!",
+        "commentId": "gp:AOqpTOE7KIMBjKxF98Yh78GD0FLk73cCe7O0d1zK15OPVbfGYmjODXdemOrS8GOg7uTqs2pzW4PSR6ftauYa-zo",
+        "author": "William Borzage",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375986065040",
+        "starRating": "5",
+        "title": "Amazing App!",
+        "comment": "Very clean and simple to use. I\\'m now able to access all  my company credit data via mobile!",
+        "commentId": "gp:AOqpTOHvJYoiPopSyH54ceYHamlVwD4P0cpFEHJykLG2tjvbsmWmPlcBT_q5AXQMqS7mfXU2f3z7ZtEhxal5u7E",
+        "author": "Khoa Le",
+        "authorURL": "http://lh5.googleusercontent.com/-bNlUZENXOnY/AAAAAAAAAAI/AAAAAAAAJwc/6iuGFRSTifM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-bNlUZENXOnY/AAAAAAAAAAI/AAAAAAAAJwc/6iuGFRSTifM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374169163845",
+        "starRating": "5",
+        "title": "Awesome Business Tool!",
+        "comment": "Gives me all the updates I need to keep up with my credit profile. One alert to a change allowed me to respond quickly enough to save a huge new account! Every business owner needs this.",
+        "commentId": "gp:AOqpTOHH6XvpS6MGFf0l7lI3_4FLpAtdMBeSAmW8YmgHHJNA4fed1Po7aYiF8SspHQ3Kuy0SmtO5raq6kAwDMQQ",
+        "author": "Bill Waxman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.GET_TASKS",
+      "android.permission.WAKE_LOCK",
+      "com.dandb.app.creditreporter.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

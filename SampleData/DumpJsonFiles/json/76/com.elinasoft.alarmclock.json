@@ -1,0 +1,51 @@
+{
+  "title": "Alarm Clock Master",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.elinasoft.alarmclock",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "1.5.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.25",
+  "contentRating": "Low Maturity",
+  "creator": "Elinasoft Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.elinasoft.alarmclock",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This APP is not only an Alarm Clock, but also a Master.WHY we call it Master?Because it  masters too many features such as Alarm Clock, Speed-dial, Calendar, Actual Weather Forecast, Sleep Timer, Photo Album, Ringtone Editor, Flashlight, Sleep timer musicâ¦ You can find the details as below or Just Use It NOW!Features:âââ Clock and Weather âââ-CLock Display: You can select Classical style, LCD style, watch style and Quartz style. Then you can see the transparent display effect and artistic fonts on the screen. The skin color of LCD style and Watch style can be changed. The clock can be shown in 12 or 24-hour time system.-Calendar Display: You can select to show the Calendar on the screen, which will tell you the date.-Status Display: In the clock screen, you can see the latest alarm setting, whether it will time out with a call speed-dial, whether it will time out with sina weibo and sleep timer icon-Weather DIsplay: Actual weather forecast is shown according to your location automatically. Of cause you can also change the location manually. The real-time temperature is shown by Â°C or Â°Fâââ Alarm âââ- You can select 10 built-in ringtones or your edited ringtone for your alarm clock- Multiple alarms support- Soundï¼Music ON/OFF- Soundï¼Music volume adjustable- Snooze ON/OFF- Snooze time customizable- Alarm frequency customizable- Alarm notification supportâââ Speed-dial support âââ- You can choose to call someone by phone when you set the alarm.  Then when the alarm timeout, you can see a dial button which you can choose to make the call or not.âââ Photo Album âââ- You can select your favorite photos to create your photo album.- All the photos will be shown on the clock screen one by one using the frequency you set.âââ Sleep timer âââ- You can select your favorite Music and time when you want to sleep. The music will auto be closed according your setted time.- Support Shuffle Play- Support headset and speakerContact us on Twitter: elinasoftIf you have any problems in use, please contact us, we will response within 24 hours",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_USER_DICTIONARY",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CHANGE_CONFIGURATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Kelly Community FCU Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cmcflex.ftmobile.kty",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "1.1.6",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Computer Marketing Corporation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cmcflex.ftmobile.kty",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Access your Kelly Community accounts 24/7 from anywhere.  It's free, fast, and secure!With our mobile app you can:-Check your account balances-View transaction history-Easily transfer funds-Access Bill Pay*-Manage account email settings-View check images-Find ATMs & branches-And much more!Peace of mind as you bank on the go, our mobile app is as safe and secure as our internet-banking product (CUonline).  Your personal and confidential information is protected using industry-standard technologies and security certificates.To sign in you must be a Kelly Community Federal Credit Union member and use your CUOnline (online banking) Username and Password.  If you are not a member or do not have online banking access, please call 903-597-7291 for information.  Kelly Community FCU is open for membership to anyone who lives, works, worships, volunteers, or attends school in Smith County, Texas and to the family members of anyone who is eligible to join.Experience the convenience of CUMobile; download the app today!*must have BillPay account to access this featureKeywords: CUMobile, Kelly Community, KTY, Kelly Community FCU",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.cmcflex.ftmobile.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

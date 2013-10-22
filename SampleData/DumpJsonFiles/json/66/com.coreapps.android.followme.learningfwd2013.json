@@ -1,0 +1,51 @@
+{
+  "title": "Learning Forward 2013 Summer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.learningfwd2013",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 19, 2013",
+  "version": "4.2.6.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Core-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coreapps.android.followme.learningfwd2013",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Learning Forward's 2013 Summer Conference is the premier learning opportunity for school-based leaders and the administrators who support them. Join us in Minneapolis July 21-24 and help us ensure that every teacher engages in powerful professional learning, and every student experiences great teaching every day. This yearâs conference features more than 150 practitioner-led sessions that address crucial issues for todayâs leaders, including: â¢\tImplementing the Common Core State Standards;â¢\tDistrict support for centralized professional development;â¢\tUsing formative assessment data to make instructional decisions;â¢\tTechnology resources that improve classroom instruction;â¢\tMaximizing time and resources for effective professional learning;â¢\tEffective practices in teacher evaluation.Use the conference app to build your personal conference schedule; receive real-time alerts about special events, session changes, and conference activities; get speaker bios, session descriptions, handouts, and session evaluations; and more.Join us and impact the lives of the teachers and students you work with every day.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK",
+      "com.coreapps.android.followme.learningfwd2013.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

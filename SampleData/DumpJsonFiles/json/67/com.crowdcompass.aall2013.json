@@ -1,0 +1,38 @@
+{
+  "title": "AALL Annual Meeting 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.aall2013",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 3, 2013",
+  "version": "2.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "CrowdCompass Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.crowdcompass.aall2013",
+  "extendedInfo": {
+    "installSize": "5.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The American Association of Law Libraries Annual Meeting & Conference app is your mobile guide to the premier educational and networking event for legal information professionals. The 106th Annual Meeting & Conference offers three days of valuable educational programming designed with something for everyone - from the new attendee to the seasoned professional. Available on multiple platforms, the app puts the best of the annual meeting & conference at your fingertips â¢ Browse the event scheduleâ¢ Bookmark your favorite sessions â¢ View conference floor and exhibit maps â¢ View speaker bios â¢ Learn more about Sponsors & Exhibitors offerings â¢ Keep up with the #AALL13 tweets from the home screen â¢ Get push notifications about event news and activities â¢ Take notesâ¢ And much more!App Keywords: AALL Annual Meeting and Conference, AALL, AALL 2013, AALL 13",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.crowdcompass.aall2013.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

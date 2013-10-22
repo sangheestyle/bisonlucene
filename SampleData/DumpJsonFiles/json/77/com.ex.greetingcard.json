@@ -1,0 +1,48 @@
+{
+  "title": "Greeting card editor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ex.greetingcard",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "August 28, 2013",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "16",
+  "rating": "4.125",
+  "contentRating": "Everyone",
+  "creator": "Kitten Lion",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ex.greetingcard",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Friends!Get creative together with \"Greeting card editor\"Select the colors.Select or type a new title.Decorate a postcard. Write the text.Congratulate your loved ones on the MMC, e-mail or social networks!Your KittenLion",
+    "reviews": [
+      {
+        "timestampMsec": "1378227105263",
+        "starRating": "5",
+        "title": "DROID2",
+        "comment": "GREAT APP...",
+        "commentId": "gp:AOqpTOEeA8Nkzz0ol6vjkPIt8LZZtc9Wcv-eRue_xvSUNiAr2PcH6ox-6EvRZMstHFuEQ8J9H3Qq7ezcjdYFFMA",
+        "author": "Vanessa Jean Sahagon",
+        "authorURL": "http://lh5.googleusercontent.com/-8z8gVlC0sHI/AAAAAAAAAAI/AAAAAAAAAEM/3Y1XuRA9UN8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-8z8gVlC0sHI/AAAAAAAAAAI/AAAAAAAAAEM/3Y1XuRA9UN8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378650791287",
+        "starRating": "1",
+        "title": "Dosent open",
+        "comment": "Every time i press open it closes fix it now",
+        "commentId": "gp:AOqpTOHYoKalxORhI3YZlzUmHVcfVI9KIcptUBUX5tyvz7QM33ws7DRP4zi6K-5WgsKk1GGA5zJI8mwA4oipBvE",
+        "author": "Shaimaa Moustafa",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

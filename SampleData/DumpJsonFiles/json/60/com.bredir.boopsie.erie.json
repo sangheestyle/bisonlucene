@@ -1,0 +1,33 @@
+{
+  "title": "Erie County Public Library",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.erie",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 4, 2013",
+  "version": "4.5.95",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.erie",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Download the Erie Library mobile app and access the library web site, catalog and events anytime, anywhere. Search for books, movies, music and more. With My Account, renew checked out items and place holds. Accessing the library catalog via the app gives you a new way to search our titles. Just type the first couple of letters of words and see the search action while you type. For example, for books about \"Jacqueline Kennedy Onassis\" type the first two letters of each word: ja ke on.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

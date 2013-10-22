@@ -1,0 +1,223 @@
+{
+  "title": "Rotation Locker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.devasque.rotationlocker",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "November 20, 2012",
+  "version": "1.4",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1393",
+  "rating": "4.3072505",
+  "contentRating": "Everyone",
+  "creator": "madmack",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.devasque.rotationlocker",
+  "extendedInfo": {
+    "installSize": "66k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Bothered by having your phone flip to portrait or landscape while laying down? Too lazy to look around Android settings to enable/disable autorotate? This app is the solution.This is a very simple free app that allows you to do the following:- Lock your screen's rotation in Landscape, Portrait or Auto. When you launch the app, you're faced with these three options.- Includes a Tasker/Locale plugin so you can automate the rotation switch based on different profiles.- Ability to launch the app from any window in Android by long pressing on the search key. (Only for devices that have a physical search button).- Long press on any orientation profile to activate a persistent background service. (This is useful if your phone seems to exit the locked orientation all of a sudden due to low memory resources).- A widget is provided so you can lock into whatever your current orientation is. (Useful for reverse landscape for example).I've searched the Market for an app that will lock my screen's autorotate to landscape and found only one paid app that runs a service continuously in the background (regardless of chosen screen orientation) so I wrote this up. It's free and the background service is optional.It should work on any device sporting Android 2.1 (Froyo) and higher.keywords: screen control autorotate landscape portrait rotate rotation orientation",
+    "reviews": [
+      {
+        "timestampMsec": "1367612335327",
+        "starRating": "5",
+        "title": "Works perfectly for what I need",
+        "comment": "Since Spotify can\\'t seem to be bothered with enabling a Landscape mode, I went with using Rotation Locker and setup a Tasker profile using the included plugin to force Spotify into Landscape.  It isn\\'t the most ideal solution, as Spotify overrides the Auto function about 2 seconds after it rotates and then doesn\\'t try again.  If I set the rotation to Landscape, it will open the app and rotate and stay, which is what I need, but obviously this means that, for as long as Spotify is open, it can only be in Landscape.  Since I use Spotify only when it\\'s docked in my car (or sitting on my desk at work) I can live with this.  I am thankful that Persistent Background service is a selectable option because I ONLY want to invoke this app in Spotify, not for any other applications. You earned your 5 stars on that aspect alone.  The fact that it\\'s free?  That\\'s icing on the WIN cake!",
+        "commentId": "gp:AOqpTOHhVJFhWJmJ1AocawmUDa_FX4ZLwogVZL1bydGlV-edLkg8kCDP21sRsBMgdCTtyu2TSuENSodLkNn_Ag",
+        "author": "Josh Howard",
+        "authorURL": "http://lh3.googleusercontent.com/-pW1wAI4kWtk/AAAAAAAAAAI/AAAAAAAADlw/m5M5Be3dg3c/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-pW1wAI4kWtk/AAAAAAAAAAI/AAAAAAAADlw/m5M5Be3dg3c/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375457154407",
+        "starRating": "5",
+        "title": "Good and Simple",
+        "comment": "Small size is best. Nearly what I want. By nearly i mean, there should be 2 landscapes and 2 portraits to choose from for locking. Thanks for all your good programs!",
+        "commentId": "gp:AOqpTOF5XstoWCuG76P9D33a7B6Hpxd1xUJYEIM-k49tYsjjptuPHi8FCJgdZnrATadUHODlwrPzFzDQUvgXsA",
+        "author": "Benol Chiang Pearson Tyberious",
+        "authorURL": "http://lh3.googleusercontent.com/-7tApfdzWr40/AAAAAAAAAAI/AAAAAAAAA0c/YMbUpyaFpcU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-7tApfdzWr40/AAAAAAAAAAI/AAAAAAAAA0c/YMbUpyaFpcU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1356431989179",
+        "starRating": "4",
+        "title": "Excellent but still need some improvements",
+        "comment": "Really like this on my note II , most apps I try works well especially on the home screen and even the dialer.  Only thing that I notice that it does not work is the camera, it will screw up the portrait mode and only viewable in landscape. If can fix this, I would use it all the time. For now I will turn it off untill it\\'s fix",
+        "commentId": "gp:AOqpTOFe3xh45vxMfeCBlUTOfL4ccaHaoBLEOsRIzR_UrW4e0_6BieefLArcvCe4TwALYKUq2EowgNtcHOq69A",
+        "author": "Stevanus Aldino",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364971921694",
+        "starRating": "4",
+        "title": "Great",
+        "comment": "Really great app but if you please add a feature to exclude some apps from getting rotated, then i\\'d love to give it five stars",
+        "commentId": "gp:AOqpTOEjV9bpZb2pgUxO1gSB8yK3O63-Q4UphpqroIKwwViUyUGjz40R26MphzqXNO0YehpPWjxm8AwROY1K5Q",
+        "author": "hoed wae",
+        "authorURL": "http://lh4.googleusercontent.com/-XOK3OrRZJbw/AAAAAAAAAAI/AAAAAAAAAHI/xNTs4HUCeu8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-XOK3OrRZJbw/AAAAAAAAAAI/AAAAAAAAAHI/xNTs4HUCeu8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365461240403",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "This allows games and YouTube that normally flip according to the post ion. But with this app, everything is good and it does not rotate.",
+        "commentId": "gp:AOqpTOGKXPuhL6CWJnlKz9sK6fBmtOyboguo4lx02IGOylU6FLQb4ApB1O9PaZhdLaqljjafNr6-zOP1JlrCfw",
+        "author": "Bahehs Aldeen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367681513836",
+        "starRating": "5",
+        "title": "Attention Droid RAZR/MAXX HD Users!",
+        "comment": "Motorola locked homescreen landscape mode on Droid RAZR HDs by default. It was possible, and this app made it so. Enabling persistent auto rotate enabled what Motorola didn\\'t let us do with our phone, and I think in that regard, this app did what it intended.",
+        "commentId": "gp:AOqpTOE-9cwkY-ZV8ilOmMEYCNNv_xkNdRe2Y7qfhIFNs9cobyeRopqOQzDqohEoFl4yw7LZ8AsF5zhbP-6AQw",
+        "author": "Edgardo Campos Mota",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377110641930",
+        "starRating": "5",
+        "title": "YAY",
+        "comment": "I got this app because my HTC ONE x  wouldnt rotate but this app has somehow fixed my HTC after tryin to put it into landscape twice, so now it works!!! I tried everything else to fix it but gave up and now I\\'m well chuffed :P",
+        "commentId": "gp:AOqpTOHmWoHyTewJ7PQJAOcx_LwmOhXI_ZAN13nPO63eKB0tXfLuDgRkT0OKAqmMr4zOrw5CZCKKJTMcnW31ow",
+        "author": "Josh King",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364938977696",
+        "starRating": "4",
+        "title": "PLEASE de-uglify...",
+        "comment": "...the icon. looks terrible with the bright purple filling! apart from that: great app. but wait, there are apps with more functions - but for money. i will test them. but this tool seems to be a fair (purple) deal.",
+        "commentId": "gp:AOqpTOE0d3y-yNupErBb2b7i9FbKf7tFrsQP1bQiVu1NTgDO0pwAR9RKLjcy-14gnEGSnOcyr8y9Pl4f3hB6eA",
+        "author": "y yagii",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369099302825",
+        "starRating": "5",
+        "title": "If only I could put it in the status bar",
+        "comment": "Fixes a notable problem in Android, that of total lack of control over display orientation.  Easily switches between portrait, landscape and auto. If only I could put it in the status bar to keep it available at all times. Or better yet, hook it to the volume rocker.",
+        "commentId": "gp:AOqpTOHUFnak97FIBFoVbfiJvcc1vMx9SeCbCFPp9ifnxS_CcijvJaZsspomG5tCR684scu9VFrLRCChDuXTRA",
+        "author": "J\\303\\266rgen Slet",
+        "authorURL": "http://lh3.googleusercontent.com/-mg1KtiS2_eo/AAAAAAAAAAI/AAAAAAAAAAA/BpLK0_10nAw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-mg1KtiS2_eo/AAAAAAAAAAI/AAAAAAAAAAA/BpLK0_10nAw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1356251732825",
+        "starRating": "3",
+        "title": "Works Fine",
+        "comment": "Minimum settings, do what has made for. Force all applications to the predefined orientation.  Still some application overrides, app like Dolphine browser still load in portrait mode. Thank You.",
+        "commentId": "gp:AOqpTOHS054aQYv6WPZs3yYil2q8GgFHtv5z7Rsvj9nU-58eWycQRQDKdN22DHJBxtSQyjyeuNxDxjyGMdplPQ",
+        "author": "Pravin Vibhute",
+        "authorURL": "http://lh6.googleusercontent.com/-FTnyai47CKI/AAAAAAAAAAI/AAAAAAAADVw/ejimlYzLlXo/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-FTnyai47CKI/AAAAAAAAAAI/AAAAAAAADVw/ejimlYzLlXo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367404423813",
+        "starRating": "4",
+        "title": "Almost perfect",
+        "comment": "This is a great app, othe only thing I can constructively complain about is the fact that when I open the camera with the phone in landscape mode it is stretched and unusable. Otherwise it runs perfectly.",
+        "commentId": "gp:AOqpTOFu_nj8722B7LTok4-n3E1omwn4_-c3hpynj6FFt8FGROxowUOd01VoGaX3xcNe1XOEUESZP6Qd1GbE7w",
+        "author": "anthony marschall",
+        "authorURL": "http://lh4.googleusercontent.com/-LwrD_Ib66is/AAAAAAAAAAI/AAAAAAAAFlg/PwH-Pio7Mz8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-LwrD_Ib66is/AAAAAAAAAAI/AAAAAAAAFlg/PwH-Pio7Mz8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362063385719",
+        "starRating": "4",
+        "title": "Awsome",
+        "comment": "On s2 i9100g its gr8 but needs a fix for the incall it screws the pad n to be hidden ftom the notifications list and screws camera app",
+        "commentId": "gp:AOqpTOGQNqC44M9x2Da-lEOfwNqcZ7unMSVdLrORycFMCcpExSx5QBTBupKsbDyVyTSzwNoEcEFDP7MdlMW0Lg",
+        "author": "Eslam Ramzi",
+        "authorURL": "http://lh5.googleusercontent.com/-3SJ_TZnzdqM/AAAAAAAAAAI/AAAAAAAABh0/SpGYdP13hoI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-3SJ_TZnzdqM/AAAAAAAAAAI/AAAAAAAABh0/SpGYdP13hoI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358495562544",
+        "starRating": "5",
+        "title": "Free",
+        "comment": "This is a free app and simple to use. It has landscape,  portrait,  or auto. Unlike altimate rotation screen which will charge u $2.99 for just rotation. Come on its not an ebook!",
+        "commentId": "gp:AOqpTOFzcfVXRX87-p7evTclKA3P4vq_Pi5Kb7JpQgRVIfBaz2k97AOgWgZ3yenpAfB0ZjEQ-n6_Zn2Ite_Raw",
+        "author": "Omar Musse",
+        "authorURL": "http://lh4.googleusercontent.com/-DxRa1Ux56jM/AAAAAAAAAAI/AAAAAAAABRE/b6zJ-S4s-Zg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-DxRa1Ux56jM/AAAAAAAAAAI/AAAAAAAABRE/b6zJ-S4s-Zg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375141153653",
+        "starRating": "4",
+        "title": "even rotated the lockscreen on S4!",
+        "comment": "this is exactly what I was looking for, locks rotation just right and in every app of the phone. 4 stars! just because it could allow for rotation to the opposite sides of landscape and portrait too! :)",
+        "commentId": "gp:AOqpTOHSOjExMtqUcMRvTyYf4bvaAVlXogHiHo-CESGHVrDXFv26alY4vtX17VYj_sSroykfTlqkoMqSXRXEog",
+        "author": "Miguel Santos",
+        "authorURL": "http://lh6.googleusercontent.com/-j8yYAnDdNQM/AAAAAAAAAAI/AAAAAAAAAKw/wXPrVomyXGQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-j8yYAnDdNQM/AAAAAAAAAAI/AAAAAAAAAKw/wXPrVomyXGQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368513527073",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "Does what you\\'d expect, with the extra when viewing YouTube video, normally they would auto rotate even when you lock screen rotation in settings, but with this app, I can force the screen to stay in landscape, allowing me to lye in bed and watch YouTube on my nexus 7.  This app has a persistent mode, if you tap and hold say portrait, screen will stay portrait no matter what.  Great app, no ads, 5 stars",
+        "commentId": "gp:AOqpTOHgngrMdSsJAMSBWOSLb-RmIqcIH99t9jLnfBCOcVqxvJoHuusi3FqeC6XKoMC37Bh24SBC6ckcypmKQg",
+        "author": "Clark Kent",
+        "authorURL": "http://lh6.googleusercontent.com/-8ppHJoccd2Q/AAAAAAAAAAI/AAAAAAAAAvU/KTez-LHFcEU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-8ppHJoccd2Q/AAAAAAAAAAI/AAAAAAAAAvU/KTez-LHFcEU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365922477813",
+        "starRating": "2",
+        "title": "Not perfect on galaxy note 2 with firmware 4.1.2",
+        "comment": "After upgrade my galaxy note 2 to new firmware 4.1.2 the lanscape mode can not show the last line at the application view.",
+        "commentId": "lg:AOqpTOHKEbbx5y4Og8me5yZW1Qk8kbvhb9FmdGY6Qd4c9Q6of9Vj9IrreU7tTgV19Mwj6usodKww_4YsWXQyQA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357398599499",
+        "starRating": "4",
+        "title": "Perfect on HOX",
+        "comment": "Happy one x user. Works perfect with one small gripe. When running in background can we have a notification icon rather than the blank space I currently get?",
+        "commentId": "gp:AOqpTOFlaNfCuqOn1A55n6WG-eNGmrnbT96ucE5EyzjXYWsZCHutlEEw9YBk1XV7RcZawF9a8iM-b-DeEY60ww",
+        "author": "Craig Hughes",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354316197699",
+        "starRating": "2",
+        "comment": "Does not work constantly on HTC One S. If you open some of the apps it changes the orientation returning to the portrait one. Should be fixed, otherwise it just a useless app.",
+        "commentId": "gp:AOqpTOGWr3b2zHoOAWCbtw0ArUHVgFV1FcVxOurahavsmcJv7GI55Y73AvzuIoKK_bVI0Rchnf-Y3l8klQb0uA",
+        "author": "Greg Tsam",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361303416071",
+        "starRating": "4",
+        "title": "nice work",
+        "comment": "this is simply app and very bigger usefull...thanks..",
+        "commentId": "gp:AOqpTOHBXxfylWTISLOLB4bTZ6wqGcrR3_CK71M_aEHTf4jdLx6_C_GYPg2R47xkmnlfDMyoTTt12BZR6mnHWQ",
+        "author": "machmud ariyandi diab",
+        "authorURL": "http://lh5.googleusercontent.com/-D_szf0UogCY/AAAAAAAAAAI/AAAAAAAAAgQ/NjuZLw5P4mc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-D_szf0UogCY/AAAAAAAAAAI/AAAAAAAAAgQ/NjuZLw5P4mc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357180897391",
+        "starRating": "3",
+        "title": "Found a promlem",
+        "comment": "The app cause some problem on my Galaxy Note II\\'s camera app on portrait mode. Otherwise it works ok, but I will uninstall first until some fix is done.",
+        "commentId": "gp:AOqpTOEVDRSTv2jR_MlueAY7JHMYkV0Z-aUgjq7R0moKinA1yLnDmsFaXWrZCiiK-ahY84MB-WE71x5OX8B_0Q",
+        "author": "Nelson Sr Yu",
+        "authorURL": "http://lh6.googleusercontent.com/-QE6XlfjiD94/AAAAAAAAAAI/AAAAAAAAAB0/dMg6_SijlJA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-QE6XlfjiD94/AAAAAAAAAAI/AAAAAAAAAB0/dMg6_SijlJA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_SETTINGS"
+    ]
+  }
+}
