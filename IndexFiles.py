@@ -87,6 +87,8 @@ class IndexFiles(object):
                     doc = Document()
                     doc.add(Field("title", contents['title'], t2))
                     doc.add(Field("path", root, t1))
+                    doc.add(Field("playStoreURL", contents['playStoreURL'], t1))
+                    doc.add(Field("creator", contents['creator'], t1))
                     extendedInfo = contents['extendedInfo']
                     if len(extendedInfo['description']) > 0:
                         doc.add(Field("description", extendedInfo['description'], t2))
