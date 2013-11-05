@@ -73,7 +73,7 @@ class SimilarToThis():
 
             for i in range(len(similarDocs.scoreDocs)):
                 if similarDocs.scoreDocs[i].doc != docID:
-                    docList[similarDocs.scoreDocs[i].score] = [doc.getField('title').stringValue(),
+                    docList[similarDocs.scoreDocs[i].score] = [doc,
                                                                self.reader.document(similarDocs.scoreDocs[i].doc)]
         od = collections.OrderedDict(sorted(docList.items(), reverse=True))
 
@@ -83,8 +83,15 @@ class SimilarToThis():
             if counter > topN:
                 break
             else:
-                print k, v[1].getField('title').stringValue() + " : " + v[0]
-
+                print "---"
+                print k
+                print v[0].getField('title').stringValue()
+                print v[0].getField('playStoreURL').stringValue()
+                print v[0].getField('creator').stringValue()
+                print ".."
+                print v[1].getField('title').stringValue()
+                print v[1].getField('playStoreURL').stringValue()
+                print v[1].getField('creator').stringValue()
 
 if __name__ == '__main__':
     x = SimilarToThis()
